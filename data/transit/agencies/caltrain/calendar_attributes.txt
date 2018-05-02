@@ -1,0 +1,5 @@
+service_id,service_description
+CT-17OCT-Caltrain-Sunday-01,Sunday
+CT-17OCT-Combo-Weekday-01,Weekday
+CT-17OCT-Caltrain-Mixed-03,Mixed
+CT-17OCT-Modified-Weekday-01,Weekday

@@ -1,0 +1,253 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+808709,,,Broadway at Tunnell,,34.9577030061319,-120.435672682209,,,0,,America/Los_Angeles,,,0
+808843,,,Foster at California,,34.8837097861021,-120.445818338623,,,0,,America/Los_Angeles,,,0
+808929,,,Southside Pkwy at Volkswagon,,34.92106,-120.42455,,,0,,America/Los_Angeles,,,0
+808953,,,Donovan at 1133 Donovan,,34.9676904697556,-120.416541953373,,,0,,America/Los_Angeles,,,0
+808779,,,College at Allan Hancock Field (Back Entrance),,34.9423872568899,-120.424745454799,,,0,,America/Los_Angeles,,,0
+808906,,,McCoy at Eastbury,,34.9168597660113,-120.440415131283,,,0,,America/Los_Angeles,,,0
+808790,,,Miller at Donovan,,34.96693,-120.43131,,,0,,America/Los_Angeles,,,0
+808777,,,Bradley at Sierra Madre,,34.9392442047962,-120.419371457672,,,0,,America/Los_Angeles,,,0
+808858,,,Clark at Oak Ridge Park,,34.865046685067,-120.405508542328,,,0,,America/Los_Angeles,,,0
+808787,,,Donovan at Canyon,,34.9675924936756,-120.412473090773,,,0,,America/Los_Angeles,,,0
+808799,,,Western at Stowell,,34.93918,-120.44965,,,0,,America/Los_Angeles,,,0
+808711,,,Broadway at Orchard,,34.96624,-120.43549,,,0,,America/Los_Angeles,,,0
+808786,,,Donovan at Charlie,,34.96755,-120.40697,,,0,,America/Los_Angeles,,,0
+2329726,,,Buellton 2nd/Ave of the Flags,,34.6160483482876,-120.192400663596,,,0,,America/Los_Angeles,,,0
+809079,,,Clark Avenue Park-and-Ride (East),,34.8657919141517,-120.435546970202,,,0,,America/Los_Angeles,,,0
+2329724,,,McCoy at Sandpiper,,34.9168666848636,-120.449418391762,,,0,,America/Los_Angeles,,,0
+808924,,,Crossroads at Del Sur,,34.9166055519234,-120.423807667494,,,0,,America/Los_Angeles,,,0
+808832,,,Pine at Jones,,34.94606,-120.43889,,,0,,America/Los_Angeles,,,0
+808956,,,Rice Ranch at Domino,,34.8576,-120.42053,,,0,,America/Los_Angeles,,,0
+808865,,,Bradley at Village Dr,,34.8750147426032,-120.41862700936,,,0,,America/Los_Angeles,,,0
+808791,,,Miller at McElhany,,34.96242,-120.43135,,,0,,America/Los_Angeles,,,0
+808842,,,Foster Across Foodbank,,34.8836661321747,-120.441906600552,,,0,,America/Los_Angeles,,,0
+808775,,,Jones at College (Allan Hancock College),,34.9464064044054,-120.423982174115,,,0,,America/Los_Angeles,,,0
+808772,,,Suey at Main,,34.9536549198054,-120.409171457672,,,0,,America/Los_Angeles,,,0
+808739,,,Railroad at Donovan,,34.96829,-120.44455,,,0,,America/Los_Angeles,,,0
+808890,,,Clark Ave at Oak Knolls Shopping Center,,34.8651239817417,-120.417718448563,,,0,,America/Los_Angeles,,,0
+808724,,,Broadway at Agnes,,34.9646282974274,-120.435819737434,,,0,,America/Los_Angeles,,,0
+2328650,,,Stillwell at Rhinestone (Greenbelt),,34.8677353120858,-120.402900840816,,,0,,America/Los_Angeles,,,0
+808716,,,Railroad Ave at Taylor St,,34.97578,-120.44427,,,0,,America/Los_Angeles,,,0
+808844,,,Airport Mobile Home Park,,34.8872304582383,-120.454087187819,,,0,,America/Los_Angeles,,,0
+816017,,,Main at Ranch,,34.9529132792338,-120.419454079125,,,0,,America/Los_Angeles,,,0
+808806,,,Thornburg at Betteravia,,34.9208641922936,-120.440649920998,,,0,,America/Los_Angeles,,,0
+808811,,,Fairway at Skyway,,34.91338,-120.45485,,,0,,America/Los_Angeles,,,0
+808982,,,Flower & Elm,,34.962054470939,-120.567337596628,,,0,,America/Los_Angeles,,,0
+808712,,,Broadway at Williams,,34.96924,-120.43547,,,0,,America/Los_Angeles,,,0
+808870,,,Foster at Dartmouth,,34.8831304195221,-120.432776247215,,,0,,America/Los_Angeles,,,0
+808745,,,Miller at Enos,,34.93337,-120.43183,,,0,,America/Los_Angeles,,,0
+808795,,,Pine at Morrison,,34.94343,-120.43919,,,0,,America/Los_Angeles,,,0
+808931,,,Jones at Vineyard Apartments,,34.9458966056217,-120.420953886312,,,0,,America/Los_Angeles,,,0
+808899,,,Foster at Foodbank,,34.88351,-120.44275,,,0,,America/Los_Angeles,,,0
+808783,,,Donovan at Will,,34.96745,-120.41165,,,0,,America/Los_Angeles,,,0
+808802,,,Enos at Thornburg,,34.93455,-120.44037,,,0,,America/Los_Angeles,,,0
+808939,,,Mccoy at Broadway,,34.9168328764053,-120.437353790178,,,0,,America/Los_Angeles,,,0
+808754,,,Miller at E Battles,,34.93202,-120.43161,,,0,,America/Los_Angeles,,,0
+808770,,,Suey Rd Crossing at Seapark Dr,,34.96507,-120.40735,,,0,,America/Los_Angeles,,,0
+808922,,,Bradley at Costco (Edwards Cinema),,34.9339457618701,-120.41840364418,,,0,,America/Los_Angeles,,,0
+808881,,,Foster Rd at Michelle,,34.88296,-120.43509,,,0,,America/Los_Angeles,,,0
+808942,,,Vandenberg Village,,34.70009,-120.46887,,,0,,America/Los_Angeles,,,0
+808871,,,Foster at Jetty,,34.88312,-120.43551,,,0,,America/Los_Angeles,,,0
+808736,,,Taylor at Western,,34.97506,-120.44733,,,0,,America/Los_Angeles,,,0
+808804,,,Thornburg at Sonya,,34.9278100170548,-120.440612140411,,,0,,America/Los_Angeles,,,0
+808743,,,Park at Elizabeth (Mussell Senior Center),,34.94456,-120.42833,,,0,,America/Los_Angeles,,,0
+808722,,,Broadway at Williams,,34.9694226994291,-120.43578364418,,,0,,America/Los_Angeles,,,0
+808771,,,Suey at Alvin ,,34.96203,-120.40901,,,0,,America/Los_Angeles,,,0
+808824,,,Thornburg at Sonya,,34.92815,-120.44043,,,0,,America/Los_Angeles,,,0
+808789,,,Donovan at College,,34.96782,-120.42613,,,0,,America/Los_Angeles,,,0
+808963,,,Orcutt Rd at Clark,,34.86565,-120.43573,,,0,,America/Los_Angeles,,,0
+808955,,,Blosser at Rick,,34.87425,-120.45413,,,0,,America/Los_Angeles,,,0
+808883,,,Bradley at Foster Rd (Righetti High School),,34.8827388958492,-120.418801078539,,,0,,America/Los_Angeles,,,0
+808930,,,Bradley at Olive Garden,,34.93996,-120.41827,,,0,,America/Los_Angeles,,,0
+808915,,,Lakeview at Hillview,,34.894383997947,-120.42618317791,,,0,,America/Los_Angeles,,,0
+808727,,,Broadway at Fesler,,34.9561724306978,-120.436002574912,,,0,,America/Los_Angeles,,,0
+808918,,,Santa Maria Way at Del Cielo Mobile Hm Prk,,34.9005479303664,-120.42700684501,,,0,,America/Los_Angeles,,,0
+808886,,,Oak Knolls at Sweetbriar,,34.87022,-120.41197,,,0,,America/Los_Angeles,,,0
+808831,,,Morrison at Thornburg (Santa Maria High School),,34.94311,-120.44011,,,0,,America/Los_Angeles,,,0
+808981,,,Obispo & Fir,,34.9626633463908,-120.570685225712,,,0,,America/Los_Angeles,,,0
+808793,,,Pine at Cook,,34.9494308348896,-120.439063773115,,,0,,America/Los_Angeles,,,0
+808880,,,Orcutt Rd at Lakeview,,34.8940280041094,-120.436187317791,,,0,,America/Los_Angeles,,,0
+808907,,,McCoy at Depot,,34.916891538623,-120.443947900629,,,0,,America/Los_Angeles,,,0
+816018,,,Santa Maria Way at Holly Oak,,34.9018338069385,-120.428203436676,,,0,,America/Los_Angeles,,,0
+808825,,,Thornburg at Battles,,34.93132,-120.44045,,,0,,America/Los_Angeles,,,0
+808763,,,Church at S Palisade (Marian Regional Medical Center),,34.9519467089868,-120.413355155172,,,0,,America/Los_Angeles,,,0
+808827,,,Enos at Depot,,34.93472,-120.44333,,,0,,America/Los_Angeles,,,0
+808926,,,McCoy at Caballero,,34.9164811394863,-120.431297849465,,,0,,America/Los_Angeles,,,0
+808785,,,Panther at Domingues (Pioneer Valley High School),,34.96226,-120.40031,,,0,,America/Los_Angeles,,,0
+808805,,,Thornburg at Carmen,,34.92529,-120.44063,,,0,,America/Los_Angeles,,,0
+808810,,,A St at Vocational Training Center,,34.91573,-120.46431,,,0,,America/Los_Angeles,,,0
+808901,,,Santa Maria Way at K-Mart Center,,34.9084280056384,-120.433545976686,,,0,,America/Los_Angeles,,,0
+808893,,,Orcutt Rd at Valley View,,34.8605599263728,-120.436319941139,,,0,,America/Los_Angeles,,,0
+808848,,,Clark Ave at Dyer,,34.8650227305287,-120.44184783472,,,0,,America/Los_Angeles,,,0
+808838,,,Broadway at Newlove,,34.9290106530018,-120.436308578066,,,0,,America/Los_Angeles,,,0
+808875,,,Broadway at Newlove,,34.9283762198768,-120.435861720238,,,0,,America/Los_Angeles,,,0
+808961,,,Miller at Cook,,34.9493,-120.43141,,,0,,America/Los_Angeles,,,0
+808959,,,Denmat,,34.66192,-120.46755,,,0,,America/Los_Angeles,,,0
+808874,,,Broadway at CVS Pharmacy,,34.9218177547086,-120.435810874834,,,0,,America/Los_Angeles,,,0
+816016,,,Railroad at El Camino,,34.9588181466944,-120.44471379715,,,0,,America/Los_Angeles,,,0
+808801,,,Enos at Depot (Minami Center),,34.93458,-120.44349,,,0,,America/Los_Angeles,,,0
+808740,,,Railroad at Alvin,,34.96142,-120.44465,,,0,,America/Los_Angeles,,,0
+808937,,,Betteravia at Blosser (McDonald's),,34.9204849814221,-120.453407900048,,,0,,America/Los_Angeles,,,0
+808896,,,Blosser Rd at Old Mill,,34.8728195059673,-120.453937113173,,,0,,America/Los_Angeles,,,0
+808744,,,Miller at Stowell,,34.93793,-120.43177,,,0,,America/Los_Angeles,,,0
+808925,,,Orcutt at Winter (Evergreen Shopping Center),,34.8984162004803,-120.435837278798,,,0,,America/Los_Angeles,,,0
+808920,,,Santa Maria Way at Broadway,,34.91221,-120.43509,,,0,,America/Los_Angeles,,,0
+808862,,,Oak Knolls at Tilbury,,34.87031,-120.41403,,,0,,America/Los_Angeles,,,0
+808866,,,Bradley at Parkland,,34.8813371423473,-120.418549756725,,,0,,America/Los_Angeles,,,0
+808876,,,Broadway at Battles,,34.9319044509787,-120.435817813492,,,0,,America/Los_Angeles,,,0
+808756,,,Miller at Morrison,,34.94281,-120.43135,,,0,,America/Los_Angeles,,,0
+808936,,,Tanglewood at Black Rd,,34.89943,-120.49017,,,0,,America/Los_Angeles,,,0
+808755,,,Miller at E Enos,,34.93451,-120.43147,,,0,,America/Los_Angeles,,,0
+808797,,,Morrison at Oakley,,34.94326,-120.44571,,,0,,America/Los_Angeles,,,0
+808923,,,Bradley at Southside Parkway (Walmart),,34.9194381860121,-120.422065436019,,,0,,America/Los_Angeles,,,0
+808749,,,Betteravia at Target,,34.9216555303526,-120.433471224537,,,0,,America/Los_Angeles,,,0
+808933,,,McCoy at Westgate,,34.91597,-120.46023,,,0,,America/Los_Angeles,,,0
+808766,,,Suey at Fesler,,34.95649,-120.40889,,,0,,America/Los_Angeles,,,0
+2329727,,,Buellton 2nd/Ave of the Flags ,,34.615914793715,-120.192566033182,,,0,,America/Los_Angeles,,,0
+808892,,,Rice Ranch Rd at Orcutt Rd,,34.8585,-120.43615,,,0,,America/Los_Angeles,,,0
+808856,,,Clark Ave at Oak Knolls Shopping Center,,34.86492,-120.41789,,,0,,America/Los_Angeles,,,0
+808803,,,Thornburg at Newlove,,34.929817346228,-120.440600845404,,,0,,America/Los_Angeles,,,0
+808823,,,Thornburg at Carmen,,34.9251415550305,-120.440454139881,,,0,,America/Los_Angeles,,,0
+808734,,,Western at Harding,,34.9666,-120.44989,,,0,,America/Los_Angeles,,,0
+808798,,,Morrison at Western,,34.9433,-120.44899,,,0,,America/Los_Angeles,,,0
+808809,,,A St at Carpenters Training Union,,34.91935,-120.46423,,,0,,America/Los_Angeles,,,0
+808808,,,Carmen Ln at Trinity,,34.9243385676675,-120.45605963493,,,0,,America/Los_Angeles,,,0
+808928,,,Bradley at Crossroads (Walmart),,34.9196813395515,-120.421426913325,,,0,,America/Los_Angeles,,,0
+808834,,,Town Center Mall,,34.94997,-120.43325,,,0,,America/Los_Angeles,,,0
+808863,,,Bradley at Patterson,,34.8687669523331,-120.418585122358,,,0,,America/Los_Angeles,,,0
+808737,,,Railroad at Taylor,,34.9747294649835,-120.444480428147,,,0,,America/Los_Angeles,,,0
+808840,,,Betteravia at Panda Express,,34.92134,-120.43328,,,0,,America/Los_Angeles,,,0
+808867,,,Foster at Bradley (Righetti High School),,34.88322,-120.42029,,,0,,America/Los_Angeles,,,0
+808985,,,Main & Thornburg,,34.9529842657955,-120.440772706718,,,0,,America/Los_Angeles,,,0
+808967,,,Santa Maria Way at Del Cielo Mobile Hm Prk,,34.9007326710612,-120.426860116568,,,0,,America/Los_Angeles,,,0
+808846,,,Blosser at Solomon,,34.87273,-120.45411,,,0,,America/Los_Angeles,,,0
+808723,,,Broadway at Orchard,,34.9662052848332,-120.43579370499,,,0,,America/Los_Angeles,,,0
+808855,,,Rice Ranch Rd at Bradley,,34.85747,-120.42103,,,0,,America/Los_Angeles,,,0
+808717,,,Railroad Ave at Hidden Pines Way,,34.98507,-120.44437,,,0,,America/Los_Angeles,,,0
+808935,,,Tanglewood at Willowood,,34.8986813424702,-120.485965156746,,,0,,America/Los_Angeles,,,0
+808971,,,Amber & Obispo,,34.9580797924888,-120.570295078919,,,0,,America/Los_Angeles,,,0
+808750,,,McCoy at FoodMaxx,,34.91655,-120.43451,,,0,,America/Los_Angeles,,,0
+808946,,,County Government Center,,34.92145,-120.43067,,,0,,America/Los_Angeles,,,0
+808941,,,Vandenberg Air Force Base at Main Gate,,34.75056,-120.52211,,,0,,America/Los_Angeles,,,0
+808969,,,Main & Thornburg,,34.95323972398,-120.440670479065,,,0,,America/Los_Angeles,,,0
+808861,,,Oak Knolls at Kenneth,,34.8702,-120.40983,,,0,,America/Los_Angeles,,,0
+808970,,,Main & Russell,,34.9534236,-120.4526269,,,0,,America/Los_Angeles,,,0
+808728,,,Miller at Orange (Cook),,34.948772697403,-120.431597505836,,,0,,America/Los_Angeles,,,0
+808978,,,Guadalupe & Olivera,,34.968252243228,-120.573717141234,,,0,,America/Los_Angeles,,,0
+808710,,,Broadway at Alvin,,34.96086,-120.43557,,,0,,America/Los_Angeles,,,0
+808934,,,Sandalwood at Black Rd,,34.89638,-120.48989,,,0,,America/Los_Angeles,,,0
+808782,,,Donovan at Magellan,,34.9675483744784,-120.41791765149,,,0,,America/Los_Angeles,,,0
+808851,,,Orcutt Rd at Valley View,,34.86041,-120.43643,,,0,,America/Los_Angeles,,,0
+808807,,,Betteravia at Blosser,,34.9207773227241,-120.452944402447,,,0,,America/Los_Angeles,,,0
+808835,,,Broadway at Jones,,34.9460702102409,-120.436087434359,,,0,,America/Los_Angeles,,,0
+808818,,,A St at Betteravia,,34.91991,-120.46399,,,0,,America/Los_Angeles,,,0
+808845,,,Blosser Rd at Foxenwood,,34.87794,-120.45413,,,0,,America/Los_Angeles,,,0
+808753,,,Miller at E Inger,,34.92678,-120.43159,,,0,,America/Los_Angeles,,,0
+808916,,,Santa Maria Way at College,,34.8960946242083,-120.422806011812,,,0,,America/Los_Angeles,,,0
+808849,,,Orcutt Rd at Clark (Jack N The Box),,34.864556096717,-120.435522378367,,,0,,America/Los_Angeles,,,0
+808721,,,Broadway at Taylor,,34.974197363902,-120.43574364418,,,0,,America/Los_Angeles,,,0
+808947,,,Los Alamos,,34.74448,-120.27957,,,0,,America/Los_Angeles,,,0
+808944,,,Mission Plaza,,34.66296,-120.45683,,,0,,America/Los_Angeles,,,0
+808730,,,Cook at Pine,,34.9499833183962,-120.438077434359,,,0,,America/Los_Angeles,,,0
+808765,,,Main at Palisades,,34.95277,-120.41153,,,0,,America/Los_Angeles,,,0
+808836,,,Broadway at Morrison (Santa Maria High School),,34.9420075255286,-120.436187889185,,,0,,America/Los_Angeles,,,0
+808857,,,Clark at Kenneth,,34.865,-120.41007,,,0,,America/Los_Angeles,,,0
+808769,,,Donovan at Merrill Gardens,,34.9671392275031,-120.407256204878,,,0,,America/Los_Angeles,,,0
+808776,,,Bradley at Jones (Allan Hancock College),,34.9440245134362,-120.418396144791,,,0,,America/Los_Angeles,,,0
+808731,,,Cook at Western,,34.94966,-120.44914,,,0,,America/Los_Angeles,,,0
+808828,,,Stowell at Western,,34.93882,-120.44909,,,0,,America/Los_Angeles,,,0
+808912,,,Lakeview at Orcutt Rd (Evergreen Shopping Ctr),,34.8943973321364,-120.435672565641,,,0,,America/Los_Angeles,,,0
+808945,,,Mccoy at Broadway (Professional Pkwy),,34.9165964261069,-120.439064163949,,,0,,America/Los_Angeles,,,0
+808784,,,Panther at Centennial,,34.9657,-120.40241,,,0,,America/Los_Angeles,,,0
+808966,,,Mccoy at Skyway,,34.9167091301476,-120.453451953373,,,0,,America/Los_Angeles,,,0
+808860,,,Stillwell at Cameo,,34.86833,-120.40349,,,0,,America/Los_Angeles,,,0
+808853,,,Rice Ranch at Orcutt Rd,,34.85829,-120.43591,,,0,,America/Los_Angeles,,,0
+808887,,,Oak Knolls at Harmony Ln,,34.87057,-120.40541,,,0,,America/Los_Angeles,,,0
+808847,,,Clark Ave at Broadway,,34.8650653788942,-120.446860056831,,,0,,America/Los_Angeles,,,0
+808878,,,Broadway at Morrison (Across Santa Maria High School),,34.9438217497257,-120.435877614636,,,0,,America/Los_Angeles,,,0
+808882,,,Foster Rd at Lockford,,34.88297,-120.42723,,,0,,America/Los_Angeles,,,0
+808984,,,Main & Russell,,34.9531838,-120.4526092,,,0,,America/Los_Angeles,,,0
+808879,,,Broadway at Jones,,34.9465016395331,-120.435826851521,,,0,,America/Los_Angeles,,,0
+808726,,,Broadway at Hermosa,,34.9597304009201,-120.436096421727,,,0,,America/Los_Angeles,,,0
+808975,,,Pioneer & 2nd,,34.959171368458,-120.577433757406,,,0,,America/Los_Angeles,,,0
+808964,,,Broadway at Stowell,,34.93564,-120.43585,,,0,,America/Los_Angeles,,,0
+808932,,,McCoy at Thompson,,34.91679,-120.45645,,,0,,America/Los_Angeles,,,0
+808839,,,Broadway at Carmen Ln,,34.92564,-120.43621,,,0,,America/Los_Angeles,,,0
+808869,,,Foster at YOYO Youth Center,,34.88312,-120.42753,,,0,,America/Los_Angeles,,,0
+808894,,,Orcutt Rd at Clark,,34.86404,-120.43577,,,0,,America/Los_Angeles,,,0
+2328651,,,Orcutt Rd at Lakeview (Evergreen Shopping Ctr),,34.8939607054364,-120.436050262031,,,0,,America/Los_Angeles,,,0
+808889,,,Clark at Kenneth,,34.8651462373326,-120.409702283993,,,0,,America/Los_Angeles,,,0
+816024,,,Lakeview at Lakeview,,34.8944386108309,-120.42970396167,,,0,,America/Los_Angeles,,,0
+808819,,,Carmen Ln at Trinity Dr,,34.9242050990099,-120.456395607701,,,0,,America/Los_Angeles,,,0
+808830,,,Morrison at Depot,,34.94295,-120.44435,,,0,,America/Los_Angeles,,,0
+808888,,,Stillwell at Cameo (Green Belt),,34.86774,-120.40311,,,0,,America/Los_Angeles,,,0
+808826,,,Enos at Wallis,,34.9347,-120.44045,,,0,,America/Los_Angeles,,,0
+2329734,,,Foster at Probation,,34.8834975527558,-120.446666445312,,,0,,America/Los_Angeles,,,0
+808977,,,Amtrak Station,,34.9629228086653,-120.573564702519,,,0,,America/Los_Angeles,,,0
+808748,,,Miller at Daniel And Betteravia,,34.92419,-120.43193,,,0,,America/Los_Angeles,,,0
+808757,,,Park at Oakwood,,34.94453,-120.42863,,,0,,America/Los_Angeles,,,0
+808708,,,Broadway at Mill,,34.9549595712339,-120.435644786316,,,0,,America/Los_Angeles,,,0
+808760,,,Main at College,,34.95298,-120.42365,,,0,,America/Los_Angeles,,,0
+808979,,,10th and Senior Center,,34.9707610970946,-120.570615103982,,,0,,America/Los_Angeles,,,0
+808968,,,Buellton Freear/SR 246,,34.6108838161842,-120.186556014116,,,0,,America/Los_Angeles,,,0
+808895,,,Clark Ave at Pacific,,34.8652147479592,-120.445028411586,,,0,,America/Los_Angeles,,,0
+808774,,,Cypress at N Nicholson,,34.9511406727751,-120.416236938658,,,0,,America/Los_Angeles,,,0
+808940,,,Orcutt Rd at Foster,,34.88251,-120.43627,,,0,,America/Los_Angeles,,,0
+808742,,,College at Boone,,34.9465291176256,-120.424962303076,,,0,,America/Los_Angeles,,,0
+808714,,,Taylor at Broadway,,34.9750537836644,-120.43635157424,,,0,,America/Los_Angeles,,,0
+810859,,,Orcutt Rd at Foster,,34.8823256906306,-120.436223306767,,,0,,America/Los_Angeles,,,0
+808725,,,Broadway at McElhany,,34.9621295635299,-120.435910751914,,,0,,America/Los_Angeles,,,0
+808713,,,Broadway at Taylor,,34.97349,-120.43539,,,0,,America/Los_Angeles,,,0
+808976,,,5th & Tognazzini,,34.9648388113736,-120.576244666258,,,0,,America/Los_Angeles,,,0
+808980,,,Peralta & 11th,,34.9711071914409,-120.567514389978,,,0,,America/Los_Angeles,,,0
+808954,,,Donovan at Pepperwood,,34.96775,-120.41855,,,0,,America/Los_Angeles,,,0
+808962,,,Bradley at Stowell,,34.9369098212208,-120.419169766865,,,0,,America/Los_Angeles,,,0
+808794,,,Pine at Jones,,34.946536228444,-120.439108751675,,,0,,America/Los_Angeles,,,0
+808718,,,Hidden Pines Way at Preisker Park,,34.98595,-120.43747,,,0,,America/Los_Angeles,,,0
+808767,,,Suey at Alvin,,34.96039,-120.40883,,,0,,America/Los_Angeles,,,0
+808951,,,Miller at Chapel,,34.95386,-120.43131,,,0,,America/Los_Angeles,,,0
+816015,,,Hidden Pines at Railroad,,34.985853843792,-120.443790792372,,,0,,America/Los_Angeles,,,0
+808854,,,Rice Ranch at Princeton,,34.8575,-120.42949,,,0,,America/Los_Angeles,,,0
+808733,,,Western at Alvin,,34.96033,-120.44917,,,0,,America/Los_Angeles,,,0
+808821,,,Betteravia at Bakery Outlet,,34.9203291252353,-120.443212551879,,,0,,America/Los_Angeles,,,0
+808792,,,Miller at Fesler,,34.95673,-120.43147,,,0,,America/Los_Angeles,,,0
+808796,,,Morrison at Thornburg (CET),,34.94318,-120.44121,,,0,,America/Los_Angeles,,,0
+808943,,,Allan Hancock College Lompoc Campus,,34.6804474966212,-120.459544635582,,,0,,America/Los_Angeles,,,0
+808833,,,Cook at Pine,,34.9497662019336,-120.438520962861,,,0,,America/Los_Angeles,,,0
+808948,,,Buellton Albertsons,,34.60975,-120.18793,,,0,,America/Los_Angeles,,,0
+808746,,,Miller at Battles,,34.93038,-120.43195,,,0,,America/Los_Angeles,,,0
+808837,,,Broadway at Enos,,34.9355737806694,-120.43582842576,,,0,,America/Los_Angeles,,,0
+808908,,,McCoy at Skyway,,34.9169017726151,-120.452367084656,,,0,,America/Los_Angeles,,,0
+808972,,,Main Street & Point Sal Dunes,,34.957742672518,-120.583296051853,,,0,,America/Los_Angeles,,,0
+808751,,,Miller at Betteravia (County Government Center),,34.92132,-120.43073,,,0,,America/Los_Angeles,,,0
+808868,,,Foster at Hillview,,34.88315,-120.42459,,,0,,America/Los_Angeles,,,0
+808983,,,Flower & Birch,,34.9591167961403,-120.567358605453,,,0,,America/Los_Angeles,,,0
+808829,,,Morrison at Western,,34.94325,-120.44867,,,0,,America/Los_Angeles,,,0
+808877,,,Broadway at Stowell,,34.9356981044244,-120.436260578427,,,0,,America/Los_Angeles,,,0
+808747,,,Miller at Inger,,34.92805,-120.43187,,,0,,America/Los_Angeles,,,0
+808974,,,Jack O'Connell Park,,34.9593800351856,-120.589191040142,,,0,,America/Los_Angeles,,,0
+808816,,,Santa Maria Public Airport,,34.89971,-120.44815,,,0,,America/Los_Angeles,,,0
+808732,,,Western at Main,,34.95392,-120.44925,,,0,,America/Los_Angeles,,,0
+808778,,,College at Mariposa,,34.9396906533868,-120.424750062148,,,0,,America/Los_Angeles,,,0
+808719,,,Preisker Ln at Cedar,,34.98078,-120.43533,,,0,,America/Los_Angeles,,,0
+808758,,,College at Park (Allan Hancock College),,34.94543,-120.42473,,,0,,America/Los_Angeles,,,0
+808781,,,Miller at Orchard,,34.9666,-120.43109,,,0,,America/Los_Angeles,,,0
+808738,,,Railroad at Grant,,34.97289,-120.44448,,,0,,America/Los_Angeles,,,0
+808965,,,Santa Maria Way at Sunrise,,34.90795,-120.43287,,,0,,America/Los_Angeles,,,0
+808891,,,Rice Ranch at Princeton,,34.8577381385403,-120.42950408945,,,0,,America/Los_Angeles,,,0
+808822,,,Thornburg at Dal Porto,,34.92193,-120.44047,,,0,,America/Los_Angeles,,,0
+808949,,,Solvang,,34.595943118981,-120.140531457672,,,0,,America/Los_Angeles,,,0
+808841,,,McCoy at Albertsons,,34.9167,-120.43432,,,0,,America/Los_Angeles,,,0
+808741,,,Depot at Mill,,34.955387210985,-120.444062444982,,,0,,America/Los_Angeles,,,0
+808873,,,Broadway at Starbuck's,,34.9149791134396,-120.435732332506,,,0,,America/Los_Angeles,,,0
+808761,,,Cypress at S Nicholson,,34.951012436321,-120.416068775463,,,0,,America/Los_Angeles,,,0
+808919,,,Santa Maria Way at Drive-In,,34.9058533238067,-120.431240233135,,,0,,America/Los_Angeles,,,0
+808884,,,Bradley at Country Hill,,34.8784594606566,-120.418846009205,,,0,,America/Los_Angeles,,,0
+808773,,,Church at N Palisades,,34.95214,-120.413702885914,,,0,,America/Los_Angeles,,,0
+808927,,,Crossroads at Del Sur,,34.9165257857455,-120.423162069941,,,0,,America/Los_Angeles,,,0
+808715,,,Taylor at Casa Grande,,34.975067605771,-120.441307954853,,,0,,America/Los_Angeles,,,0
+808950,,,Main at Broadway (North Town Center Mall),,34.95295,-120.43413,,,0,,America/Los_Angeles,,,0
+808706,,,Transit Center,,34.94613,-120.43035,,,0,,America/Los_Angeles,,,0
+808735,,,Western at Creston,,34.97193,-120.44829,,,0,,America/Los_Angeles,,,0
+808885,,,Bradley at Basque,,34.8700431192428,-120.418918811618,,,0,,America/Los_Angeles,,,0
+808780,,,Miller at Bunny,,34.96297,-120.43115,,,0,,America/Los_Angeles,,,0

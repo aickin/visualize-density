@@ -1,0 +1,847 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,is_trans_ctr,at_trans_ctr,direction
+0901,0901,"Bird Ave & W San Carlos",,  37.325184,-121.900520,,http://scmtd.com/stop/0901,0,,,,0,0,
+0902,0902,"Bird Ave & W San Carlos",,  37.324215,-121.900337,,http://scmtd.com/stop/0902,0,,,,0,0,
+0904,0904,"Diridon Station (Caltrain Depot)",,  37.330338,-121.902634,,http://scmtd.com/stop/0904,0,,,,0,0,4
+0906,0906,"W Santa Clara & Delmas Ave",,  37.331902,-121.899567,,http://scmtd.com/stop/0906,0,,,,0,0,
+0908,0908,"W Santa Clara & Almaden Blvd",,  37.333908,-121.895180,,http://scmtd.com/stop/0908,0,,,,0,0,
+0909,0909,"W Santa Clara & S Almaden Ave",,  37.334606,-121.893318,,http://scmtd.com/stop/0909,0,,,,0,0,
+0910,0910,"E Santa Clara & S 1st",,  37.336311,-121.889877,,http://scmtd.com/stop/0910,0,,,,0,0,
+0911,0911,"E San Fernando & S 5th",,  37.336281,-121.885223,,http://scmtd.com/stop/0911,0,,,,0,0,
+0912,0912,"W Santa Clara & S Market",,  37.335377,-121.892365,,http://scmtd.com/stop/0912,0,,,,0,0,
+0913,0913,"W Santa Clara & Delmas Ave",,  37.332180,-121.899590,,http://scmtd.com/stop/0913,0,,,,0,0,
+0914,0914,"E San Fernando & S 7th",,  37.337299,-121.883209,,http://scmtd.com/stop/0914,0,,,,0,0,
+0915,0915,"Bird Ave & Park Ave",,  37.325169,-121.900940,,http://scmtd.com/stop/0915,0,,,,0,0,
+0917,0917,"S 2nd & E Santa Clara",,  37.335785,-121.888939,,http://scmtd.com/stop/0917,0,,,,0,0,
+0918,0918,"Big Basin Way & China Grade Rd",,  37.165234,-122.163177,,http://scmtd.com/stop/0918,0,,,,0,0,3
+0919,0919,"E San Fernando & S 5th",,  37.336170,-121.884926,,http://scmtd.com/stop/0919,0,,,,0,0,
+0920,0920,"W Santa Clara & Almaden Blvd",,  37.333790,-121.895737,,http://scmtd.com/stop/0920,0,,,,0,0,
+0921,0921,"W Santa Clara & S Almaden Ave",,  37.334553,-121.894104,,http://scmtd.com/stop/0921,0,,,,0,0,
+0922,0922,"First & Santa Clara",,  37.335304,-121.889854,,http://scmtd.com/stop/0922,0,,,,0,0,
+0923,0923,"S Autumn & Park Ave",,  37.327213,-121.900436,,http://scmtd.com/stop/0923,0,,,,0,0,
+1001,1001,"Airport Blvd & Airport Rd",,  36.934383,-121.782814,,http://scmtd.com/stop/1001,0,,,,0,0,1
+1002,1002,"Airport Blvd (Airport)",,  36.934322,-121.783485,,http://scmtd.com/stop/1002,0,,,,0,0,2
+1003,1003,"Airport Blvd & Freedom Blvd",,  36.938858,-121.777794,,http://scmtd.com/stop/1003,0,,,,0,0,2
+1005,1005,"Airport Blvd & Holm Rd",,  36.931953,-121.787842,,http://scmtd.com/stop/1005,0,,,,0,0,2
+1006,1006,"Airport Blvd (Freedom Centre)",,  36.939846,-121.776550,,http://scmtd.com/stop/1006,0,,,,0,0,1
+1015,1015,"Amesti Rd & Green Valley Rd (Amesti School)",,  36.946316,-121.767708,,http://scmtd.com/stop/1015,0,,,,0,0,1
+1020,1020,"Amesti Rd & Mann Ave",,  36.956173,-121.781731,,http://scmtd.com/stop/1020,0,,,,0,0,1
+1026,1026,"Amesti Rd & Bollinger Pl",,  36.967934,-121.793793,,http://scmtd.com/stop/1026,0,,,,0,0,1
+1034,1034,"Bowker Rd & Buena Vista Dr",,  36.939789,-121.791351,,http://scmtd.com/stop/1034,0,,,,0,0,1
+1035,1035,"Bowker Rd & Calabasas Rd",,  36.941872,-121.790672,,http://scmtd.com/stop/1035,0,,,,0,0,1
+1040,1040,"E Bronte Ave & Ester Way",,  36.918427,-121.743027,,http://scmtd.com/stop/1040,0,,,,0,0,2
+1044,1044,"Browns Valley Rd & Corralitos Rd",,  36.988743,-121.806686,,http://scmtd.com/stop/1044,0,,,,0,0,1
+1045,1045,"Clifford Ave (Clifford Manor)",,  36.924629,-121.773865,,http://scmtd.com/stop/1045,0,,,,0,0,3
+1046,1046,"Clifford Ave & Lassen Way",,  36.924191,-121.773895,,http://scmtd.com/stop/1046,0,,,,0,0,2
+1047,1047,"Clifford Ave & Melrose Ave",,  36.926682,-121.772972,,http://scmtd.com/stop/1047,0,,,,0,0,3
+1049,1049,"Clifford Ave & Crescent Dr",,  36.927647,-121.771500,,http://scmtd.com/stop/1049,0,,,,0,0,2
+1051,1051,"Clifford Ave & Freedom Blvd",,  36.929779,-121.768669,,http://scmtd.com/stop/1051,0,,,,0,0,2
+1052,1052,"College Rd & Parker Dr",,  36.933037,-121.734009,,http://scmtd.com/stop/1052,0,,,,0,0,1
+1053,1053,"College Rd & Cutter Dr",,  36.934174,-121.738052,,http://scmtd.com/stop/1053,0,,,,0,0,1
+1054,1054,"College Rd & E Lake Ave",,  36.935867,-121.742928,,http://scmtd.com/stop/1054,0,,,,0,0,1
+1056,1056,"Corralitos Rd (Bradley Elementary)",,  36.975407,-121.806442,,http://scmtd.com/stop/1056,0,,,,0,0,2
+1057,1057,"Corralitos Rd & Varni Rd",,  36.968040,-121.807327,,http://scmtd.com/stop/1057,0,,,,0,0,2
+1059,1059,"E Beach & Marchant",,  36.912575,-121.753555,,http://scmtd.com/stop/1059,0,,,,0,0,2
+1060,1060,"E Beach & Blackburn",,  36.915508,-121.749451,,http://scmtd.com/stop/1060,0,,,,0,0,1
+1061,1061,"E Beach & Beck",,  36.916798,-121.747749,,http://scmtd.com/stop/1061,0,,,,0,0,1
+1062,1062,"E Beach & Hushbeck Ave",,  36.918560,-121.745316,,http://scmtd.com/stop/1062,0,,,,0,0,1
+1064,1064,"E Lake & Sudden",,  36.913342,-121.756165,,http://scmtd.com/stop/1064,0,,,,0,0,1
+1069,1069,"E Lake & Martinelli (East Lake Village)",,  36.924847,-121.746262,,http://scmtd.com/stop/1069,0,,,,0,0,2
+1070,1070,"E Lake & Martinelli (East Lake Village)",,  36.925247,-121.745865,,http://scmtd.com/stop/1070,0,,,,0,0,1
+1077,1077,"Freedom Blvd & Brennan",,  36.916782,-121.760345,,http://scmtd.com/stop/1077,0,,,,0,0,2
+1078,1078,"Freedom Blvd & Stanford",,  36.920795,-121.760757,,http://scmtd.com/stop/1078,0,,,,0,0,2
+1080,1080,"Freedom Blvd & Atkinson Ln",,  36.929951,-121.767693,,http://scmtd.com/stop/1080,0,,,,0,0,2
+1081,1081,"Freedom Blvd & Sydney Ave",,  36.931419,-121.769493,,http://scmtd.com/stop/1081,0,,,,0,0,1
+1082,1082,"Freedom Blvd & Blanca Ln",,  36.931553,-121.769249,,http://scmtd.com/stop/1082,0,,,,0,0,2
+1083,1083,"Freedom Blvd & Davis Ave",,  36.933136,-121.771362,,http://scmtd.com/stop/1083,0,,,,0,0,1
+1084,1084,"Freedom Blvd & Green Valley Rd",,  36.935398,-121.773621,,http://scmtd.com/stop/1084,0,,,,0,0,1
+1086,1086,"Freedom Blvd & Airport Blvd (Freedom Centre)",,  36.937725,-121.776543,,http://scmtd.com/stop/1086,0,,,,0,0,1
+1087,1087,"Freedom Blvd & Emme",,  36.939388,-121.780052,,http://scmtd.com/stop/1087,0,,,,0,0,1
+1088,1088,"Freedom Blvd & Compton Ter",,  36.939522,-121.779884,,http://scmtd.com/stop/1088,0,,,,0,0,2
+1089,1089,"Freedom Blvd & Bowker Rd",,  36.944496,-121.787468,,http://scmtd.com/stop/1089,0,,,,0,0,1
+1090,1090,"Freedom Blvd & Bowker Rd",,  36.944565,-121.787308,,http://scmtd.com/stop/1090,0,,,,0,0,2
+1091,1091,"S Green Valley Rd & Melwood",,  36.919697,-121.783035,,http://scmtd.com/stop/1091,0,,,,0,0,2
+1092,1092,"S Green Valley Rd & Melwood",,  36.920185,-121.783089,,http://scmtd.com/stop/1092,0,,,,0,0,2
+1093,1093,"S Green Valley Rd & Oakridge",,  36.923981,-121.780571,,http://scmtd.com/stop/1093,0,,,,0,0,2
+1094,1094,"S Green Valley Rd & Hope Dr (Kingdom Hall)",,  36.928143,-121.778175,,http://scmtd.com/stop/1094,0,,,,0,0,2
+1095,1095,"S Green Valley Rd & Pennsylvania Dr",,  36.930405,-121.776855,,http://scmtd.com/stop/1095,0,,,,0,0,2
+1097,1097,"Green Valley Rd & Freedom Blvd",,  36.935593,-121.772751,,http://scmtd.com/stop/1097,0,,,,0,0,2
+1098,1098,"Green Valley Rd & Holohan Rd (The Towers)",,  36.939835,-121.770195,,http://scmtd.com/stop/1098,0,,,,0,0,1
+1099,1099,"Green Valley Rd & Holohan Rd (The Towers)",,  36.939571,-121.770050,,http://scmtd.com/stop/1099,0,,,,0,0,2
+1100,1100,"Green Valley Rd & Carnation Dr (Medical Plaza)",,  36.937897,-121.770973,,http://scmtd.com/stop/1100,0,,,,0,0,2
+1101,1101,"Green Valley Rd & Amesti Rd",,  36.946037,-121.766762,,http://scmtd.com/stop/1101,0,,,,0,0,2
+1102,1102,"Green Valley Rd & Amesti Rd",,  36.945976,-121.766525,,http://scmtd.com/stop/1102,0,,,,0,0,1
+1103,1103,"Green Valley Rd & Behler Rd (Pinto Lake Pk)",,  36.948223,-121.765282,,http://scmtd.com/stop/1103,0,,,,0,0,1
+1105,1105,"Green Valley Rd & Mello View Ln",,  36.950825,-121.764969,,http://scmtd.com/stop/1105,0,,,,0,0,2
+1106,1106,"Green Valley Rd & Minto Rd",,  36.951668,-121.764816,,http://scmtd.com/stop/1106,0,,,,0,0,1
+1109,1109,"Green Valley Rd & Trembly Ln",,  36.958069,-121.764832,,http://scmtd.com/stop/1109,0,,,,0,0,1
+1110,1110,"Green Valley Rd & Klassen Ln",,  36.961384,-121.765038,,http://scmtd.com/stop/1110,0,,,,0,0,2
+1111,1111,"Green Valley Rd & Klassen Ln",,  36.961143,-121.764877,,http://scmtd.com/stop/1111,0,,,,0,0,1
+1112,1112,"Green Valley Rd & Dalton Ln",,  36.963707,-121.764847,,http://scmtd.com/stop/1112,0,,,,0,0,1
+1113,1113,"Green Valley Rd & Rancho Todos Santos Rd",,  36.963921,-121.765060,,http://scmtd.com/stop/1113,0,,,,0,0,2
+1116,1116,"Hangar Way & Airport Blvd",,  36.930271,-121.791168,,http://scmtd.com/stop/1116,0,,,,0,0,2
+1118,1118,"Herman Ave (Rolling Hills Middle School)",,  36.924446,-121.784691,,http://scmtd.com/stop/1118,0,,,,0,0,2
+1127,1127,"Lakeview Rd & Parkwood Dr",,  36.931274,-121.732437,,http://scmtd.com/stop/1127,0,,,,0,0,1
+1129,1129,"Main & Central Ave",,  36.908470,-121.754761,,http://scmtd.com/stop/1129,0,,,,0,0,1
+1130,1130,"Kralj Dr & Lawrence Ave",,  36.922462,-121.783279,,http://scmtd.com/stop/1130,0,,,,0,0,2
+1136,1136,"Main & Rodriguez",,  36.915100,-121.763763,,http://scmtd.com/stop/1136,0,,,,0,0,1
+1137,1137,"Main & Auto Center Dr",,  36.915791,-121.767921,,http://scmtd.com/stop/1137,0,,,,0,0,1
+1139,1139,"Main & Pennsylvania Dr",,  36.916340,-121.771217,,http://scmtd.com/stop/1139,0,,,,0,0,1
+1141,1141,"Main & Clifford Ave",,  36.917484,-121.776237,,http://scmtd.com/stop/1141,0,,,,0,0,2
+1142,1142,"Main & Ohlone Pkwy",,  36.917240,-121.776535,,http://scmtd.com/stop/1142,0,,,,0,0,1
+1143,1143,"Main & S Green Valley Rd",,  36.918545,-121.782410,,http://scmtd.com/stop/1143,0,,,,0,0,2
+1144,1144,"Main & S Green Valley Rd",,  36.918312,-121.782959,,http://scmtd.com/stop/1144,0,,,,0,0,1
+1151,1151,"Manfre Rd & Larkin Valley Rd",,  36.927223,-121.800430,,http://scmtd.com/stop/1151,0,,,,0,0,1
+1152,1152,"Manfre Rd & Lucerne Ave",,  36.933067,-121.798981,,http://scmtd.com/stop/1152,0,,,,0,0,1
+1153,1153,"Manfre Rd (#222)",,  36.935547,-121.798340,,http://scmtd.com/stop/1153,0,,,,0,0,1
+1154,1154,"Manfre Rd & Buena Vista Dr",,  36.939350,-121.797974,,http://scmtd.com/stop/1154,0,,,,0,0,1
+1177,1177,"Rodriguez & W 5th",,  36.911922,-121.762352,,http://scmtd.com/stop/1177,0,,,,0,0,1
+1179,1179,"Rodriguez & Ford",,  36.913074,-121.764084,,http://scmtd.com/stop/1179,0,,,,0,0,1
+1181,1181,"Airport Blvd & Ross Ave",,  36.933208,-121.785034,,http://scmtd.com/stop/1181,0,,,,0,0,1
+1182,1182,"Shady Oaks Dr & Anna",,  36.925869,-121.785385,,http://scmtd.com/stop/1182,0,,,,0,0,1
+1183,1183,"Shady Oaks Dr & Jeanette Way",,  36.927441,-121.785362,,http://scmtd.com/stop/1183,0,,,,0,0,1
+1185,1185,"Sunnyhills Dr & Shady Oaks Dr",,  36.929909,-121.785370,,http://scmtd.com/stop/1185,0,,,,0,0,1
+1191,1191,"Tuttle Ave & Cedar Dr",,  36.921505,-121.741806,,http://scmtd.com/stop/1191,0,,,,0,0,2
+1193,1193,"Tuttle Ave & E Lake Ave",,  36.922249,-121.746529,,http://scmtd.com/stop/1193,0,,,,0,0,2
+1209,1209,"Aptos Beach Dr & Marina Ave",,  36.969791,-121.904785,,http://scmtd.com/stop/1209,0,,,,0,0,1
+1216,1216,"Bay Ave & Capitola Ave",,  36.979069,-121.953644,,http://scmtd.com/stop/1216,0,,,,0,0,2
+1217,1217,"Bay Ave & Hill",,  36.980904,-121.955490,,http://scmtd.com/stop/1217,0,,,,0,0,2
+1219,1219,"Bay (Garfield Park Village)",,  36.962437,-122.034164,,http://scmtd.com/stop/1219,0,,,,0,0,2
+1220,1220,"Bay (Neary Lagoon Park)",,  36.962482,-122.033958,,http://scmtd.com/stop/1220,0,,,,0,0,1
+1222,1222,"Bay & Redwood",,  36.963928,-122.036446,,http://scmtd.com/stop/1222,0,,,,0,0,2
+1223,1223,"Bay & Seaside",,  36.965504,-122.038521,,http://scmtd.com/stop/1223,0,,,,0,0,1
+1224,1224,"Bay & Seaside",,  36.965202,-122.038338,,http://scmtd.com/stop/1224,0,,,,0,0,2
+1225,1225,"Bay & Mission (Bay View School)",,  36.966209,-122.039833,,http://scmtd.com/stop/1225,0,,,,0,0,2
+1226,1226,"Bay & Mission",,  36.966919,-122.040604,,http://scmtd.com/stop/1226,0,,,,0,0,1
+1227,1227,"Bay & King",,  36.968300,-122.043312,,http://scmtd.com/stop/1227,0,,,,0,0,1
+1228,1228,"Bay & Escalona Dr",,  36.969410,-122.045906,,http://scmtd.com/stop/1228,0,,,,0,0,1
+1230,1230,"Bay Dr & Iowa Dr",,  36.974297,-122.050400,,http://scmtd.com/stop/1230,0,,,,0,0,1
+1231,1231,"Bay & Nobel Dr",,  36.973709,-122.050110,,http://scmtd.com/stop/1231,0,,,,0,0,2
+1232,1232,"Bay Dr & Meder",,  36.975456,-122.052437,,http://scmtd.com/stop/1232,0,,,,0,0,1
+1236,1236,"Big Basin Way & Hwy 9",,  37.125347,-122.122658,,http://scmtd.com/stop/1236,0,,,,0,0,1
+1237,1237,"Big Basin Way & Boulder Brook Dr",,  37.130600,-122.134613,,http://scmtd.com/stop/1237,0,,,,0,0,1
+1238,1238,"Big Basin Way & Redwood Ave",,  37.124828,-122.126190,,http://scmtd.com/stop/1238,0,,,,0,0,2
+1239,1239,"Big Basin Way & Ridge Dr (Forest Pool)",,  37.135456,-122.140900,,http://scmtd.com/stop/1239,0,,,,0,0,1
+1240,1240,"Big Basin Way (Brackenbrae Br)",,  37.138317,-122.143929,,http://scmtd.com/stop/1240,0,,,,0,0,1
+1241,1241,"Big Basin Way & Acorn Dr",,  37.139378,-122.148872,,http://scmtd.com/stop/1241,0,,,,0,0,1
+1242,1242,"Big Basin Way & Acorn Dr",,  37.138859,-122.148087,,http://scmtd.com/stop/1242,0,,,,0,0,2
+1243,1243,"Big Basin Way & Fallen Leaf Dr",,  37.144855,-122.156685,,http://scmtd.com/stop/1243,0,,,,0,0,1
+1244,1244,"Big Basin Way & Fallen Leaf Dr",,  37.144703,-122.156837,,http://scmtd.com/stop/1244,0,,,,0,0,2
+1246,1246,"Big Basin Way & Jamison Creek Rd",,  37.146034,-122.157898,,http://scmtd.com/stop/1246,0,,,,0,0,2
+1247,1247,"Big Basin Way (Country Club)",,  37.153385,-122.161385,,http://scmtd.com/stop/1247,0,,,,0,0,2
+1250,1250,"Bonny Doon Rd & Phillips Ranch Rd (Mc Henry Vnyd)",,  37.065868,-122.151726,,http://scmtd.com/stop/1250,0,,,,0,0,1
+1251,1251,"Bonny Doon Rd (Country Estates Terrace)",,  37.052711,-122.160866,,http://scmtd.com/stop/1251,0,,,,0,0,1
+1254,1254,"Broadway & Riverside Ave",,  36.971329,-122.022049,,http://scmtd.com/stop/1254,0,,,,0,0,2
+1255,1255,"Broadway & Clay",,  36.972656,-122.019501,,http://scmtd.com/stop/1255,0,,,,0,0,1
+1256,1256,"Broadway & Clay",,  36.972805,-122.019524,,http://scmtd.com/stop/1256,0,,,,0,0,2
+1257,1257,"Broadway & Ocean",,  36.973503,-122.017769,,http://scmtd.com/stop/1257,0,,,,0,0,1
+1258,1258,"Broadway & Pine",,  36.974903,-122.012794,,http://scmtd.com/stop/1258,0,,,,0,0,1
+1259,1259,"Broadway & Cayuga",,  36.975063,-122.010559,,http://scmtd.com/stop/1259,0,,,,0,0,1
+1260,1260,"Broadway & Seabright Ave",,  36.975346,-122.008850,,http://scmtd.com/stop/1260,0,,,,0,0,2
+1262,1262,"Brommer (Sorrento Oaks)",,  36.971954,-121.993874,,http://scmtd.com/stop/1262,0,,,,0,0,1
+1263,1263,"Brommer & Captains Ct",,  36.972103,-121.993774,,http://scmtd.com/stop/1263,0,,,,0,0,2
+1265,1265,"Brommer & El Dorado Ave",,  36.971947,-121.989578,,http://scmtd.com/stop/1265,0,,,,0,0,1
+1266,1266,"Brommer & El Dorado Ave",,  36.972061,-121.989075,,http://scmtd.com/stop/1266,0,,,,0,0,2
+1267,1267,"Brommer & 17th Ave",,  36.971119,-121.985313,,http://scmtd.com/stop/1267,0,,,,0,0,1
+1269,1269,"Brommer & 17th Ave",,  36.971306,-121.985390,,http://scmtd.com/stop/1269,0,,,,0,0,2
+1285,1285,"Capitola Ave & Hill",,  36.981819,-121.952354,,http://scmtd.com/stop/1285,0,,,,0,0,1
+1287,1287,"Capitola Ave & Gary",,  36.984486,-121.951752,,http://scmtd.com/stop/1287,0,,,,0,0,1
+1288,1288,"Capitola Rd & 7th Ave",,  36.979492,-121.992188,,http://scmtd.com/stop/1288,0,,,,0,0,2
+1289,1289,"Capitola Rd & 7th Ave",,  36.979050,-121.991577,,http://scmtd.com/stop/1289,0,,,,0,0,1
+1290,1290,"Capitola Rd & El Dorado Ave",,  36.977577,-121.988701,,http://scmtd.com/stop/1290,0,,,,0,0,1
+1291,1291,"Capitola Rd & Jose Ave",,  36.977852,-121.988724,,http://scmtd.com/stop/1291,0,,,,0,0,2
+1293,1293,"Capitola Rd & 17th Ave",,  36.975636,-121.982391,,http://scmtd.com/stop/1293,0,,,,0,0,1
+1294,1294,"Capitola Rd & 17th Ave (Live Oak Senior Ctr)",,  36.975834,-121.981972,,http://scmtd.com/stop/1294,0,,,,0,0,2
+1297,1297,"Capitola Rd & Woodrose Ave",,  36.975285,-121.978172,,http://scmtd.com/stop/1297,0,,,,0,0,1
+1298,1298,"Capitola Rd & Maciel Ave",,  36.975441,-121.976852,,http://scmtd.com/stop/1298,0,,,,0,0,2
+1299,1299,"Capitola Rd & 30th Ave",,  36.973675,-121.974098,,http://scmtd.com/stop/1299,0,,,,0,0,1
+1300,1300,"Capitola Rd & 30th Ave",,  36.973789,-121.972603,,http://scmtd.com/stop/1300,0,,,,0,0,2
+1301,1301,"Capitola Rd & Thompson Ave",,  36.973602,-121.970589,,http://scmtd.com/stop/1301,0,,,,0,0,1
+1302,1302,"Capitola Rd & 41st Ave",,  36.973602,-121.966553,,http://scmtd.com/stop/1302,0,,,,0,0,1
+1303,1303,"Capitola Rd & 41st Ave",,  36.973621,-121.964485,,http://scmtd.com/stop/1303,0,,,,0,0,1
+1304,1304,"Capitola Rd & 41st Ave",,  36.973843,-121.963669,,http://scmtd.com/stop/1304,0,,,,0,0,2
+1305,1305,"Capitola Rd & 44th Ave",,  36.973618,-121.960815,,http://scmtd.com/stop/1305,0,,,,0,0,1
+1306,1306,"Capitola Rd & 43rd Ave",,  36.973843,-121.961472,,http://scmtd.com/stop/1306,0,,,,0,0,2
+1307,1307,"Capitola Rd & 47th Ave",,  36.973656,-121.958023,,http://scmtd.com/stop/1307,0,,,,0,0,1
+1312,1312,"Center Ave & East",,  36.974327,-121.910355,,http://scmtd.com/stop/1312,0,,,,0,0,1
+1314,1314,"Center Ave & Santa Clara Ave",,  36.974442,-121.908646,,http://scmtd.com/stop/1314,0,,,,0,0,1
+1315,1315,"Center Ave & El Camino Del Mar",,  36.974503,-121.907295,,http://scmtd.com/stop/1315,0,,,,0,0,1
+1325,1325,"Clubhouse Dr & St Andrews Dr",,  36.964104,-121.879417,,http://scmtd.com/stop/1325,0,,,,0,0,1
+1328,1328,"Clubhouse Dr & Locke Dr",,  36.967808,-121.883453,,http://scmtd.com/stop/1328,0,,,,0,0,1
+1331,1331,"Clubhouse Dr & Los Altos Dr",,  36.970222,-121.885704,,http://scmtd.com/stop/1331,0,,,,0,0,1
+1332,1332,"Clubhouse Dr & Murray Ave",,  36.972874,-121.887932,,http://scmtd.com/stop/1332,0,,,,0,0,1
+1341,1341,"Bay & High (UCSC - Main Entrance)",,  36.977638,-122.053680,,http://scmtd.com/stop/1341,0,,,,0,0,1
+1342,1342,"Coolidge Dr & Hagar Ct  (UCSC - Lower Campus)",,  36.981369,-122.051926,,http://scmtd.com/stop/1342,0,,,,0,0,1
+1344,1344,"Coral (Granite Rock)",,  36.984577,-122.032249,,http://scmtd.com/stop/1344,0,,,,0,0,2
+1345,1345,"Coral & River",,  36.985153,-122.030830,,http://scmtd.com/stop/1345,0,,,,0,0,2
+1347,1347,"Emeline Ave (Emeline Complex)",,  36.991112,-122.016518,,http://scmtd.com/stop/1347,0,,,,0,0,1
+1349,1349,"Delaware Ave (De Anza Santa Cruz)",,  36.954601,-122.062317,,http://scmtd.com/stop/1349,0,,,,0,0,2
+1350,1350,"Delaware Ave & Natural Bridges Dr",,  36.954792,-122.057671,,http://scmtd.com/stop/1350,0,,,,0,0,1
+1351,1351,"Delaware Ave & Swift",,  36.955643,-122.048012,,http://scmtd.com/stop/1351,0,,,,0,0,2
+1352,1352,"Delaware Ave & Almar Ave",,  36.956249,-122.043053,,http://scmtd.com/stop/1352,0,,,,0,0,2
+1353,1353,"Delaware Ave & Surfside Ave",,  36.956711,-122.040794,,http://scmtd.com/stop/1353,0,,,,0,0,1
+1355,1355,"Delaware Ave & Woodrow Ave",,  36.956913,-122.037956,,http://scmtd.com/stop/1355,0,,,,0,0,2
+1356,1356,"Delaware Ave & Woodrow Ave",,  36.957111,-122.037643,,http://scmtd.com/stop/1356,0,,,,0,0,1
+1359,1359,"E Cliff Dr & 5th Ave (Harbor)",,  36.962841,-122.000175,,http://scmtd.com/stop/1359,0,,,,0,0,1
+1360,1360,"E Cliff Dr & 13th Ave",,  36.964195,-121.992393,,http://scmtd.com/stop/1360,0,,,,0,0,2
+1363,1363,"E Cliff Dr (East Cliff Village)",,  36.963562,-121.990685,,http://scmtd.com/stop/1363,0,,,,0,0,2
+1364,1364,"E Cliff Dr & 15th Ave",,  36.963505,-121.991188,,http://scmtd.com/stop/1364,0,,,,0,0,1
+1370,1370,"E Zayante Rd & Quail Hollow Rd",,  37.074585,-122.054924,,http://scmtd.com/stop/1370,0,,,,0,0,1
+1371,1371,"E Zayante Rd & Sylvan Way",,  37.081413,-122.050331,,http://scmtd.com/stop/1371,0,,,,0,0,1
+1372,1372,"Eaton & 5th Ave",,  36.967808,-121.999176,,http://scmtd.com/stop/1372,0,,,,0,0,2
+1379,1379,"Emeline Ave & Grant",,  36.985378,-122.018837,,http://scmtd.com/stop/1379,0,,,,0,0,2
+1380,1380,"Emeline Ave & Avalon",,  36.985912,-122.018623,,http://scmtd.com/stop/1380,0,,,,0,0,1
+1381,1381,"Emeline Ave & Button",,  36.986755,-122.018532,,http://scmtd.com/stop/1381,0,,,,0,0,1
+1382,1382,"Emeline Ave & Belmont",,  36.988178,-122.018280,,http://scmtd.com/stop/1382,0,,,,0,0,2
+1383,1383,"Emeline Ave & Fernside",,  36.988522,-122.018066,,http://scmtd.com/stop/1383,0,,,,0,0,1
+1384,1384,"Emeline Ave & Sutphen",,  36.991154,-122.017738,,http://scmtd.com/stop/1384,0,,,,0,0,2
+1385,1385,"Empire Grade (UCSC - Arboretum)",,  36.982777,-122.062706,,http://scmtd.com/stop/1385,0,,,,0,0,1
+1386,1386,"Empire Grade & Heller Dr",,  36.988293,-122.068787,,http://scmtd.com/stop/1386,0,,,,0,0,1
+1387,1387,"Empire Grade (Waldorf School)",,  37.005913,-122.073990,,http://scmtd.com/stop/1387,0,,,,0,0,1
+1388,1388,"Empire Grade & Smith Grade Rd",,  37.026981,-122.099411,,http://scmtd.com/stop/1388,0,,,,0,0,2
+1389,1389,"Empire Grade & Pineridge Rd",,  37.045361,-122.109467,,http://scmtd.com/stop/1389,0,,,,0,0,2
+1390,1390,"Empire Grade & Pineridge Rd",,  37.045700,-122.109734,,http://scmtd.com/stop/1390,0,,,,0,0,1
+1391,1391,"Empire Grade & McGivern Way",,  37.053997,-122.117096,,http://scmtd.com/stop/1391,0,,,,0,0,1
+1392,1392,"Empire Grade & Felton Empire Rd",,  37.057629,-122.122879,,http://scmtd.com/stop/1392,0,,,,0,0,1
+1393,1393,"Empire Grade & Felton Empire Rd",,  37.057446,-122.122986,,http://scmtd.com/stop/1393,0,,,,0,0,2
+1395,1395,"Empire Grade & Wild Iris Ln",,  37.064621,-122.123215,,http://scmtd.com/stop/1395,0,,,,0,0,2
+1396,1396,"Empire Grade & Feather Ln",,  37.066418,-122.122498,,http://scmtd.com/stop/1396,0,,,,0,0,1
+1397,1397,"Empire Grade & Sunlit Ln",,  37.068130,-122.123344,,http://scmtd.com/stop/1397,0,,,,0,0,2
+1398,1398,"Empire Grade & Granger Rd",,  37.073196,-122.129517,,http://scmtd.com/stop/1398,0,,,,0,0,2
+1399,1399,"Empire Grade & Rustic Ln",,  37.074287,-122.130234,,http://scmtd.com/stop/1399,0,,,,0,0,1
+1404,1404,"Encinal & River",,  36.986710,-122.030769,,http://scmtd.com/stop/1404,0,,,,0,0,2
+1408,1408,"Delaware Ave & Fair Ave",,  36.955929,-122.045280,,http://scmtd.com/stop/1408,0,,,,0,0,2
+1410,1410,"Fair Ave & Hebard",,  36.957806,-122.045456,,http://scmtd.com/stop/1410,0,,,,0,0,2
+1414,1414,"Fair Ave & Mission",,  36.961178,-122.046295,,http://scmtd.com/stop/1414,0,,,,0,0,2
+1422,1422,"Graham Hill Rd (Felton Fair)",,  37.051975,-122.068474,,http://scmtd.com/stop/1422,0,,,,0,0,3
+1423,1423,"Fern (#910)",,  37.032726,-122.076721,,http://scmtd.com/stop/1423,0,,,,0,0,2
+1425,1425,"Freedom Blvd & Soquel Dr",,  36.972557,-121.871498,,http://scmtd.com/stop/1425,0,,,,0,0,2
+1426,1426,"Freedom Blvd & Soquel Dr",,  36.972919,-121.870911,,http://scmtd.com/stop/1426,0,,,,0,0,1
+1427,1427,"Freedom Blvd (Aptos High School)",,  36.975254,-121.869881,,http://scmtd.com/stop/1427,0,,,,0,0,2
+1428,1428,"Freedom Blvd (Aptos High School)",,  36.975643,-121.869362,,http://scmtd.com/stop/1428,0,,,,0,0,1
+1429,1429,"Freedom Blvd & Valencia Rd",,  36.981274,-121.864647,,http://scmtd.com/stop/1429,0,,,,0,0,2
+1430,1430,"Freedom Blvd & Valencia Rd",,  36.981598,-121.864250,,http://scmtd.com/stop/1430,0,,,,0,0,1
+1431,1431,"Freedom Blvd & McDonald Rd",,  36.986607,-121.859665,,http://scmtd.com/stop/1431,0,,,,0,0,2
+1432,1432,"Freedom Blvd & McDonald Rd",,  36.986290,-121.859947,,http://scmtd.com/stop/1432,0,,,,0,0,1
+1433,1433,"Freedom Blvd & Parkhurst Cir",,  36.986561,-121.856277,,http://scmtd.com/stop/1433,0,,,,0,0,2
+1434,1434,"Freedom Blvd & Parkhurst Cir",,  36.986397,-121.856224,,http://scmtd.com/stop/1434,0,,,,0,0,1
+1435,1435,"Freedom Blvd (#5620)",,  36.986664,-121.847649,,http://scmtd.com/stop/1435,0,,,,0,0,2
+1436,1436,"Freedom Blvd (#5620)",,  36.986568,-121.847328,,http://scmtd.com/stop/1436,0,,,,0,0,1
+1437,1437,"Freedom Blvd (#5310)",,  36.987724,-121.842270,,http://scmtd.com/stop/1437,0,,,,0,0,2
+1439,1439,"Freedom Blvd & Day Valley Rd",,  36.987881,-121.838165,,http://scmtd.com/stop/1439,0,,,,0,0,2
+1440,1440,"Freedom Blvd & Day Valley Rd",,  36.987694,-121.837944,,http://scmtd.com/stop/1440,0,,,,0,0,1
+1441,1441,"Freedom Blvd & La Vida Dr",,  36.980305,-121.828217,,http://scmtd.com/stop/1441,0,,,,0,0,1
+1442,1442,"Freedom Blvd & Pleasant Valley Rd",,  36.976585,-121.825348,,http://scmtd.com/stop/1442,0,,,,0,0,2
+1443,1443,"Freedom Blvd & Willow Heights",,  36.976177,-121.825211,,http://scmtd.com/stop/1443,0,,,,0,0,1
+1444,1444,"Freedom Blvd & Eagle Ridge (Scott Park)",,  36.970886,-121.819077,,http://scmtd.com/stop/1444,0,,,,0,0,2
+1445,1445,"Freedom Blvd & White Rd (Scott Park)",,  36.970436,-121.818985,,http://scmtd.com/stop/1445,0,,,,0,0,1
+1446,1446,"Freedom Blvd & Corralitos Rd",,  36.964157,-121.809837,,http://scmtd.com/stop/1446,0,,,,0,0,2
+1447,1447,"Freedom Blvd & Corralitos Rd",,  36.963253,-121.809448,,http://scmtd.com/stop/1447,0,,,,0,0,1
+1448,1448,"Freedom Blvd (Manns Apples)",,  36.960724,-121.806229,,http://scmtd.com/stop/1448,0,,,,0,0,2
+1449,1449,"Freedom Blvd (Manns Apples)",,  36.960606,-121.806358,,http://scmtd.com/stop/1449,0,,,,0,0,1
+1450,1450,"Freedom Blvd (Rider Apples)",,  36.947906,-121.790741,,http://scmtd.com/stop/1450,0,,,,0,0,2
+1451,1451,"Freedom Blvd (Rider Apples)",,  36.948822,-121.792099,,http://scmtd.com/stop/1451,0,,,,0,0,1
+1452,1452,"Freedom Blvd (Filipino Community Center)",,  36.946781,-121.789612,,http://scmtd.com/stop/1452,0,,,,0,0,2
+1453,1453,"Freedom Blvd (Filipino Community Center)",,  36.946686,-121.789742,,http://scmtd.com/stop/1453,0,,,,0,0,1
+1457,1457,"River & Front",,  36.976315,-122.025482,,http://scmtd.com/stop/1457,0,,,,0,0,2
+1458,1458,"Glen Arbor Rd & Hermosa Ave",,  37.074276,-122.082520,,http://scmtd.com/stop/1458,0,,,,0,0,2
+1459,1459,"Glen Arbor Rd & Hermosa Ave",,  37.074192,-122.082664,,http://scmtd.com/stop/1459,0,,,,0,0,1
+1460,1460,"Glen Arbor Rd & Azalea Ave",,  37.075436,-122.080383,,http://scmtd.com/stop/1460,0,,,,0,0,2
+1461,1461,"Glen Arbor Rd & Azalea Ave",,  37.075413,-122.080284,,http://scmtd.com/stop/1461,0,,,,0,0,1
+1462,1462,"Glen Arbor Rd & Pine",,  37.088444,-122.084755,,http://scmtd.com/stop/1462,0,,,,0,0,1
+1463,1463,"Glen Arbor Rd & Quail Hollow Rd",,  37.078968,-122.077835,,http://scmtd.com/stop/1463,0,,,,0,0,1
+1465,1465,"Glen Arbor Rd & River",,  37.081215,-122.077965,,http://scmtd.com/stop/1465,0,,,,0,0,2
+1466,1466,"Glen Arbor Rd & Madrone Ave",,  37.083786,-122.081886,,http://scmtd.com/stop/1466,0,,,,0,0,2
+1467,1467,"Glen Arbor Rd & Madrone Ave",,  37.084080,-122.082275,,http://scmtd.com/stop/1467,0,,,,0,0,1
+1468,1468,"Glen Arbor Rd & Hillcrest Ave",,  37.085506,-122.083244,,http://scmtd.com/stop/1468,0,,,,0,0,1
+1470,1470,"Glen Arbor Rd & Locust",,  37.086823,-122.083870,,http://scmtd.com/stop/1470,0,,,,0,0,1
+1471,1471,"Glen Arbor Rd & Hihn Rd",,  37.078354,-122.079124,,http://scmtd.com/stop/1471,0,,,,0,0,2
+1472,1472,"Glen Arbor Rd & Hihn Rd",,  37.078114,-122.079514,,http://scmtd.com/stop/1472,0,,,,0,0,1
+1474,1474,"Glen Arbor Rd & Riverside Ave",,  37.088734,-122.087883,,http://scmtd.com/stop/1474,0,,,,0,0,2
+1492,1492,"Graham Hill Rd & Covered Bridge Rd N",,  37.052555,-122.072395,,http://scmtd.com/stop/1492,0,,,,0,0,2
+1493,1493,"Grandview & Mission",,  36.960922,-122.049515,,http://scmtd.com/stop/1493,0,,,,0,0,1
+1499,1499,"Grant (Grant Park)",,  36.985538,-122.021599,,http://scmtd.com/stop/1499,0,,,,0,0,1
+1501,1501,"Hagar Dr (UCSC - East Remote Parking)",,  36.991314,-122.054665,,http://scmtd.com/stop/1501,0,,,,0,0,1
+1505,1505,"Heller Dr (UCSC - Oakes College)",,  36.989944,-122.067200,,http://scmtd.com/stop/1505,0,,,,0,0,1
+1509,1509,"Heller Dr & McLaughlin Dr (UCSC - Kresge College)",,  36.999287,-122.064552,,http://scmtd.com/stop/1509,0,,,,0,0,1
+1510,1510,"High & Western Dr",,  36.978645,-122.057823,,http://scmtd.com/stop/1510,0,,,,0,0,1
+1512,1512,"High & Moore",,  36.977596,-122.048607,,http://scmtd.com/stop/1512,0,,,,0,0,2
+1513,1513,"High & Moore",,  36.977859,-122.048325,,http://scmtd.com/stop/1513,0,,,,0,0,1
+1515,1515,"High & Laurent",,  36.977737,-122.042374,,http://scmtd.com/stop/1515,0,,,,0,0,1
+1516,1516,"High & Highland Ave",,  36.977901,-122.033669,,http://scmtd.com/stop/1516,0,,,,0,0,1
+1517,1517,"Highland Ave & Escalona Dr",,  36.976994,-122.032921,,http://scmtd.com/stop/1517,0,,,,0,0,1
+1520,1520,"Hwy 1 & Davenport Ave (Cash Store)",,  37.010872,-122.194145,,http://scmtd.com/stop/1520,0,,,,0,0,1
+1521,1521,"Hwy 1 & Coast Rd",,  36.982559,-122.143456,,http://scmtd.com/stop/1521,0,,,,0,0,2
+1525,1525,"Hwy 9 & Russell Ave",,  37.047657,-122.073280,,http://scmtd.com/stop/1525,0,,,,0,0,2
+1527,1527,"Hwy 9 (#6519)",,  37.055630,-122.075081,,http://scmtd.com/stop/1527,0,,,,0,0,2
+1529,1529,"Hwy 9 (Viking Cottages)",,  37.058273,-122.077408,,http://scmtd.com/stop/1529,0,,,,0,0,1
+1530,1530,"Hwy 9 (SLV High School)",,  37.061310,-122.080154,,http://scmtd.com/stop/1530,0,,,,0,0,2
+1531,1531,"Hwy 9 (SLV High School)",,  37.061214,-122.080193,,http://scmtd.com/stop/1531,0,,,,0,0,1
+1532,1532,"Hwy 9 & El Solyo Heights Dr",,  37.065662,-122.079758,,http://scmtd.com/stop/1532,0,,,,0,0,2
+1533,1533,"Hwy 9 & El Solyo Heights Dr",,  37.066677,-122.079704,,http://scmtd.com/stop/1533,0,,,,0,0,1
+1534,1534,"Hwy 9 & Glen Lomond Ln",,  37.069176,-122.083977,,http://scmtd.com/stop/1534,0,,,,0,0,2
+1535,1535,"Hwy 9 & Sunnycroft Rd",,  37.071644,-122.084068,,http://scmtd.com/stop/1535,0,,,,0,0,1
+1536,1536,"Hwy 9 (Highlands Park)",,  37.079185,-122.083565,,http://scmtd.com/stop/1536,0,,,,0,0,2
+1537,1537,"Hwy 9 (Highlands Park)",,  37.079517,-122.083397,,http://scmtd.com/stop/1537,0,,,,0,0,1
+1538,1538,"Hwy 9 & Park Way",,  37.080986,-122.084381,,http://scmtd.com/stop/1538,0,,,,0,0,2
+1539,1539,"Hwy 9 & Shadowbrook Rd",,  37.081261,-122.084435,,http://scmtd.com/stop/1539,0,,,,0,0,1
+1541,1541,"Hwy 9 & Hillside Ave",,  37.087681,-122.088730,,http://scmtd.com/stop/1541,0,,,,0,0,2
+1542,1542,"Hwy 9 & Hillside Ave",,  37.087646,-122.088585,,http://scmtd.com/stop/1542,0,,,,0,0,1
+1543,1543,"Hwy 9 & Main",,  37.089657,-122.089676,,http://scmtd.com/stop/1543,0,,,,0,0,2
+1544,1544,"Hwy 9 & Main",,  37.089844,-122.089813,,http://scmtd.com/stop/1544,0,,,,0,0,1
+1547,1547,"Hwy 9 & Brown Gables Rd",,  37.092960,-122.096260,,http://scmtd.com/stop/1547,0,,,,0,0,1
+1548,1548,"Hwy 9 & California Dr",,  37.095730,-122.097420,,http://scmtd.com/stop/1548,0,,,,0,0,2
+1549,1549,"Hwy 9 & California Dr",,  37.095490,-122.097122,,http://scmtd.com/stop/1549,0,,,,0,0,1
+1550,1550,"Hwy 9 & Pike Rd",,  37.099701,-122.100967,,http://scmtd.com/stop/1550,0,,,,0,0,2
+1552,1552,"Hwy 9 & Western Ave",,  37.105839,-122.105988,,http://scmtd.com/stop/1552,0,,,,0,0,2
+1553,1553,"Hwy 9 & Larkspur",,  37.106651,-122.106560,,http://scmtd.com/stop/1553,0,,,,0,0,1
+1554,1554,"Hwy 9 & Clear Creek Rd",,  37.107697,-122.109261,,http://scmtd.com/stop/1554,0,,,,0,0,2
+1555,1555,"Hwy 9 & Pacific",,  37.107861,-122.109627,,http://scmtd.com/stop/1555,0,,,,0,0,1
+1556,1556,"Hwy 9 & Irwin Way",,  37.111294,-122.114410,,http://scmtd.com/stop/1556,0,,,,0,0,2
+1557,1557,"Hwy 9 & Irwin Way",,  37.111439,-122.114220,,http://scmtd.com/stop/1557,0,,,,0,0,1
+1558,1558,"Hwy 9 & River",,  37.116161,-122.120453,,http://scmtd.com/stop/1558,0,,,,0,0,2
+1559,1559,"Hwy 9 & River",,  37.116524,-122.120216,,http://scmtd.com/stop/1559,0,,,,0,0,1
+1560,1560,"Hwy 9 & Mountain",,  37.120399,-122.120834,,http://scmtd.com/stop/1560,0,,,,0,0,1
+1561,1561,"Hwy 9 & Lomond",,  37.123093,-122.121696,,http://scmtd.com/stop/1561,0,,,,0,0,2
+1564,1564,"Hwy 9 & Monaco Ln",,  37.133812,-122.125984,,http://scmtd.com/stop/1564,0,,,,0,0,1
+1565,1565,"Hwy 9 & Cresta Dr",,  37.138687,-122.129517,,http://scmtd.com/stop/1565,0,,,,0,0,1
+1567,1567,"Hwy 9 & Sequoia Rd",,  37.152439,-122.134529,,http://scmtd.com/stop/1567,0,,,,0,0,2
+1568,1568,"Hwy 9 & Ramona Dr",,  37.185116,-122.141586,,http://scmtd.com/stop/1568,0,,,,0,0,2
+1569,1569,"Hwy 9 & Sylvan Ave",,  37.195713,-122.145607,,http://scmtd.com/stop/1569,0,,,,0,0,2
+1570,1570,"Hwy 17 & Pasatiempo Dr",,  36.999294,-122.020912,,http://scmtd.com/stop/1570,0,,,,0,0,1
+1571,1571,"Hwy 17 & Pasatiempo Dr",,  36.999645,-122.022064,,http://scmtd.com/stop/1571,0,,,,0,0,2
+1585,1585,"5th Ave (Harbormaster)",,  36.963802,-122.000298,,http://scmtd.com/stop/1585,0,,,,0,0,1
+1586,1586,"Lake Ave & Lago Ln",,  36.966976,-122.001083,,http://scmtd.com/stop/1586,0,,,,0,0,1
+1590,1590,"Laurel & Blackburn",,  36.968449,-122.031158,,http://scmtd.com/stop/1590,0,,,,0,0,2
+1591,1591,"Laurel & Center",,  36.968918,-122.027740,,http://scmtd.com/stop/1591,0,,,,0,0,1
+1592,1592,"Laurel & Center",,  36.968807,-122.027779,,http://scmtd.com/stop/1592,0,,,,0,0,2
+1603,1603,"Lompico Rd & E Zayante Rd",,  37.083023,-122.050880,,http://scmtd.com/stop/1603,0,,,,0,0,2
+1604,1604,"Lompico Rd & West Dr",,  37.104912,-122.051636,,http://scmtd.com/stop/1604,0,,,,0,0,2
+1615,1615,"McLaughlin Dr (UCSC - Science Hill)",,  36.999973,-122.062332,,http://scmtd.com/stop/1615,0,,,,0,0,1
+1616,1616,"McLaughlin Dr (UCSC - College 9 & 10 / Health Ctr)",,  36.999924,-122.058319,,http://scmtd.com/stop/1616,0,,,,0,0,1
+1617,1617,"McLaughlin Dr (UCSC - Crown & Merrill College)",,  36.999008,-122.055176,,http://scmtd.com/stop/1617,0,,,,0,0,1
+1619,1619,"Mission & Miramar Dr (Almar Shopping Ctr)",,  36.962132,-122.044601,,http://scmtd.com/stop/1619,0,,,,0,0,2
+1620,1620,"Mission & Miramar Dr (Almar Shopping Ctr)",,  36.962399,-122.044502,,http://scmtd.com/stop/1620,0,,,,0,0,1
+1621,1621,"Mission & Bellevue",,  36.963520,-122.042831,,http://scmtd.com/stop/1621,0,,,,0,0,2
+1623,1623,"Mission & Palm (Palm Center)",,  36.965111,-122.041534,,http://scmtd.com/stop/1623,0,,,,0,0,2
+1624,1624,"Mission & Olive",,  36.965073,-122.041832,,http://scmtd.com/stop/1624,0,,,,0,0,1
+1625,1625,"Mission & Trescony",,  36.967289,-122.039131,,http://scmtd.com/stop/1625,0,,,,0,0,2
+1629,1629,"Mission & Laurel",,  36.969170,-122.037437,,http://scmtd.com/stop/1629,0,,,,0,0,2
+1630,1630,"Mission & Laurel",,  36.969028,-122.037788,,http://scmtd.com/stop/1630,0,,,,0,0,1
+1631,1631,"Mission & Rigg",,  36.970787,-122.036392,,http://scmtd.com/stop/1631,0,,,,0,0,2
+1633,1633,"Mission & Otis",,  36.970921,-122.036552,,http://scmtd.com/stop/1633,0,,,,0,0,1
+1638,1638,"Mission & Sylvar",,  36.977268,-122.030281,,http://scmtd.com/stop/1638,0,,,,0,0,2
+1647,1647,"Mt Hermon Rd & Covenant Ln",,  37.055664,-122.061325,,http://scmtd.com/stop/1647,0,,,,0,0,1
+1648,1648,"Mt Hermon Rd & Conference Dr",,  37.053524,-122.039589,,http://scmtd.com/stop/1648,0,,,,0,0,2
+1649,1649,"Mt Hermon Rd & Conference Dr",,  37.054188,-122.039986,,http://scmtd.com/stop/1649,0,,,,0,0,1
+1650,1650,"Mt Hermon Rd & Quarry Rd",,  37.049770,-122.036583,,http://scmtd.com/stop/1650,0,,,,0,0,2
+1651,1651,"Mt Hermon Rd & Lockhart Gulch Rd",,  37.050823,-122.037148,,http://scmtd.com/stop/1651,0,,,,0,0,1
+1652,1652,"Mt Hermon Rd & Kings Village Rd",,  37.045650,-122.027496,,http://scmtd.com/stop/1652,0,,,,0,0,3
+1653,1653,"Mt Hermon Rd (Graham Plaza)",,  37.044693,-122.026665,,http://scmtd.com/stop/1653,0,,,,0,0,3
+1654,1654,"Mt Hermon Rd & Whispering Pines Dr",,  37.042404,-122.024902,,http://scmtd.com/stop/1654,0,,,,0,0,2
+1658,1658,"Murray & Seabright Ave",,  36.967262,-122.007477,,http://scmtd.com/stop/1658,0,,,,0,0,1
+1664,1664,"Ocean & Water",,  36.979939,-122.021240,,http://scmtd.com/stop/1664,0,,,,0,0,1
+1665,1665,"Ocean & Blaine",,  36.980957,-122.021980,,http://scmtd.com/stop/1665,0,,,,0,0,2
+1666,1666,"Ocean & Hubbard",,  36.982430,-122.022217,,http://scmtd.com/stop/1666,0,,,,0,0,1
+1667,1667,"Ocean & Franklin",,  36.983929,-122.023132,,http://scmtd.com/stop/1667,0,,,,0,0,2
+1671,1671,"Pine Flat Rd & Empire Grade",,  37.078445,-122.133873,,http://scmtd.com/stop/1671,0,,,,0,0,2
+1672,1672,"Pine Flat Rd & Empire Grade",,  37.078674,-122.133743,,http://scmtd.com/stop/1672,0,,,,0,0,1
+1677,1677,"Plymouth & Ocean",,  36.985016,-122.023018,,http://scmtd.com/stop/1677,0,,,,0,0,1
+1678,1678,"Pool Dr & Hwy 9 (Mountain Store)",,  37.154930,-122.133217,,http://scmtd.com/stop/1678,0,,,,0,0,2
+1681,1681,"Portola Dr & 18th Ave",,  36.962605,-121.987198,,http://scmtd.com/stop/1681,0,,,,0,0,1
+1682,1682,"Portola Dr & Clearwater Ct",,  36.962486,-121.983597,,http://scmtd.com/stop/1682,0,,,,0,0,2
+1683,1683,"Portola Dr & 21st Ave",,  36.962254,-121.984566,,http://scmtd.com/stop/1683,0,,,,0,0,1
+1685,1685,"Portola Dr & 24th Ave (Live Oak Library)",,  36.962967,-121.980385,,http://scmtd.com/stop/1685,0,,,,0,0,1
+1686,1686,"Portola Dr & 26th Ave (Trailer Haven)",,  36.963348,-121.974937,,http://scmtd.com/stop/1686,0,,,,0,0,1
+1687,1687,"Portola Dr & 30th Ave",,  36.963566,-121.973892,,http://scmtd.com/stop/1687,0,,,,0,0,2
+1688,1688,"Portola Dr & 30th Ave",,  36.963345,-121.972389,,http://scmtd.com/stop/1688,0,,,,0,0,1
+1690,1690,"Portola Dr & 35th Ave",,  36.963554,-121.971924,,http://scmtd.com/stop/1690,0,,,,0,0,2
+1692,1692,"Portola Dr & 37th Ave",,  36.963535,-121.968834,,http://scmtd.com/stop/1692,0,,,,0,0,2
+1693,1693,"Portola Dr & 37th Ave",,  36.963318,-121.968773,,http://scmtd.com/stop/1693,0,,,,0,0,1
+1703,1703,"Rio Del Mar Blvd & Kingsbury Dr",,  36.968151,-121.901215,,http://scmtd.com/stop/1703,0,,,,0,0,1
+1705,1705,"Rio Del Mar Blvd & Highland Dr",,  36.969090,-121.899513,,http://scmtd.com/stop/1705,0,,,,0,0,1
+1707,1707,"Rio Del Mar Blvd & Martin Dr",,  36.970234,-121.898155,,http://scmtd.com/stop/1707,0,,,,0,0,1
+1708,1708,"Rio Del Mar Blvd & Sumner Ave",,  36.971050,-121.896011,,http://scmtd.com/stop/1708,0,,,,0,0,1
+1710,1710,"Rio Del Mar Blvd & Palmer Ave",,  36.971233,-121.891838,,http://scmtd.com/stop/1710,0,,,,0,0,1
+1712,1712,"Rio Del Mar Blvd & Clubhouse Dr",,  36.973217,-121.888908,,http://scmtd.com/stop/1712,0,,,,0,0,1
+1713,1713,"River (River/Front Garage)",,  36.976425,-122.025192,,http://scmtd.com/stop/1713,0,,,,0,0,1
+1714,1714,"River & N Pacific Ave",,  36.979210,-122.027489,,http://scmtd.com/stop/1714,0,,,,0,0,1
+1715,1715,"River & Josephine",,  36.981705,-122.029190,,http://scmtd.com/stop/1715,0,,,,0,0,1
+1717,1717,"River & Golf Club Dr (City Corp. Yard)",,  36.988747,-122.030769,,http://scmtd.com/stop/1717,0,,,,0,0,2
+1731,1731,"Scotts Valley Dr & Bean Creek Rd (Middle School)",,  37.044632,-122.023293,,http://scmtd.com/stop/1731,0,,,,0,0,1
+1733,1733,"Scotts Valley Dr & Blake Lane",,  37.045773,-122.021118,,http://scmtd.com/stop/1733,0,,,,0,0,1
+1734,1734,"Scotts Valley Dr & Civic Center Dr",,  37.048088,-122.017265,,http://scmtd.com/stop/1734,0,,,,0,0,1
+1735,1735,"Scotts Valley Dr & Disc Dr",,  37.048546,-122.016434,,http://scmtd.com/stop/1735,0,,,,0,0,1
+1739,1739,"Scotts Valley Dr & Dunslee Way",,  37.052372,-122.013931,,http://scmtd.com/stop/1739,0,,,,0,0,1
+1740,1740,"Scotts Valley Dr & Frapwell Cir",,  37.055168,-122.012421,,http://scmtd.com/stop/1740,0,,,,0,0,1
+1741,1741,"Scotts Valley Dr & Victor Square",,  37.058823,-122.010323,,http://scmtd.com/stop/1741,0,,,,0,0,1
+1743,1743,"Scotts Valley Dr (#5437 Executive Center)",,  37.060120,-122.009262,,http://scmtd.com/stop/1743,0,,,,0,0,1
+1745,1745,"Scotts Valley Dr & Granite Creek Rd",,  37.061550,-122.007301,,http://scmtd.com/stop/1745,0,,,,0,0,1
+1748,1748,"Scotts Valley Dr & Terrace View Dr",,  37.046673,-122.019424,,http://scmtd.com/stop/1748,0,,,,0,0,1
+1750,1750,"Seabright Ave & Murray",,  36.967537,-122.007759,,http://scmtd.com/stop/1750,0,,,,0,0,2
+1751,1751,"Seabright Ave & Logan",,  36.968437,-122.008018,,http://scmtd.com/stop/1751,0,,,,0,0,1
+1752,1752,"Seabright Ave & Hall",,  36.968861,-122.007881,,http://scmtd.com/stop/1752,0,,,,0,0,2
+1754,1754,"Seabright Ave & Clinton",,  36.971500,-122.007980,,http://scmtd.com/stop/1754,0,,,,0,0,2
+1755,1755,"Seabright Ave & Clinton",,  36.971386,-122.008125,,http://scmtd.com/stop/1755,0,,,,0,0,1
+1756,1756,"Seabright Ave & Windham",,  36.973316,-122.008095,,http://scmtd.com/stop/1756,0,,,,0,0,1
+1757,1757,"Seabright Ave & Windsor",,  36.974281,-122.008080,,http://scmtd.com/stop/1757,0,,,,0,0,2
+1758,1758,"Seabright Ave & Windsor",,  36.974442,-122.008301,,http://scmtd.com/stop/1758,0,,,,0,0,1
+1775,1775,"Seascape Blvd & Vineyard Ct",,  36.952278,-121.873009,,http://scmtd.com/stop/1775,0,,,,0,0,1
+1777,1777,"Seascape Blvd & Dolphin Dr",,  36.951683,-121.869675,,http://scmtd.com/stop/1777,0,,,,0,0,1
+1779,1779,"2nd & Pacific Ave",,  36.964268,-122.025223,,http://scmtd.com/stop/1779,0,,,,0,0,2
+1780,1780,"2nd & Cliff",,  36.965637,-122.020752,,http://scmtd.com/stop/1780,0,,,,0,0,2
+1781,1781,"Soquel Ave & Riverside Ave",,  36.973946,-122.020645,,http://scmtd.com/stop/1781,0,,,,0,0,1
+1782,1782,"Soquel Ave & Ocean",,  36.974438,-122.019623,,http://scmtd.com/stop/1782,0,,,,0,0,2
+1783,1783,"Soquel Ave & Ocean",,  36.974598,-122.018517,,http://scmtd.com/stop/1783,0,,,,0,0,1
+1784,1784,"Soquel Ave & Ocean View Dr (Branciforte Plaza)",,  36.976292,-122.017044,,http://scmtd.com/stop/1784,0,,,,0,0,2
+1788,1788,"Soquel Ave & Pine",,  36.977913,-122.014389,,http://scmtd.com/stop/1788,0,,,,0,0,2
+1790,1790,"Soquel Ave & Benito Ave",,  36.979103,-122.012108,,http://scmtd.com/stop/1790,0,,,,0,0,2
+1791,1791,"Soquel Ave & Cayuga",,  36.978886,-122.012062,,http://scmtd.com/stop/1791,0,,,,0,0,1
+1792,1792,"Soquel Ave & Seabright Ave",,  36.979675,-122.011070,,http://scmtd.com/stop/1792,0,,,,0,0,2
+1793,1793,"Soquel Ave & Seabright Ave",,  36.980080,-122.009750,,http://scmtd.com/stop/1793,0,,,,0,0,1
+1794,1794,"Soquel Ave & Poplar Ave",,  36.980846,-122.008446,,http://scmtd.com/stop/1794,0,,,,0,0,2
+1795,1795,"Soquel Ave & Frederick",,  36.981407,-122.004150,,http://scmtd.com/stop/1795,0,,,,0,0,1
+1796,1796,"Soquel Ave & San Juan Ave",,  36.981586,-122.003937,,http://scmtd.com/stop/1796,0,,,,0,0,2
+1797,1797,"Soquel Ave & Hagemann Ave",,  36.981316,-122.002060,,http://scmtd.com/stop/1797,0,,,,0,0,1
+1798,1798,"Soquel Ave & Trevethan Ave",,  36.981537,-122.001526,,http://scmtd.com/stop/1798,0,,,,0,0,2
+1799,1799,"Soquel Ave & Park Way",,  36.981796,-121.998512,,http://scmtd.com/stop/1799,0,,,,0,0,2
+1800,1800,"Soquel Ave & Park Way",,  36.981575,-121.998894,,http://scmtd.com/stop/1800,0,,,,0,0,1
+1801,1801,"Soquel Ave & La Fonda Ave",,  36.983223,-121.995224,,http://scmtd.com/stop/1801,0,,,,0,0,2
+1802,1802,"Soquel Ave & La Fonda Ave",,  36.982986,-121.995026,,http://scmtd.com/stop/1802,0,,,,0,0,1
+1803,1803,"Soquel Ave & 7th Ave",,  36.985233,-121.990616,,http://scmtd.com/stop/1803,0,,,,0,0,2
+1804,1804,"Soquel Ave & 7th Ave",,  36.985344,-121.989456,,http://scmtd.com/stop/1804,0,,,,0,0,1
+1805,1805,"Soquel Dr (Dominican Hospital)",,  36.988644,-121.983345,,http://scmtd.com/stop/1805,0,,,,0,0,2
+1806,1806,"Soquel Dr (Dominican Hospital)",,  36.988667,-121.982544,,http://scmtd.com/stop/1806,0,,,,0,0,1
+1807,1807,"Soquel Dr & Mission Dr",,  36.989185,-121.981010,,http://scmtd.com/stop/1807,0,,,,0,0,2
+1808,1808,"Soquel Dr & Mission Dr",,  36.988941,-121.980423,,http://scmtd.com/stop/1808,0,,,,0,0,1
+1809,1809,"Soquel Dr & Thurber Ln",,  36.988811,-121.978905,,http://scmtd.com/stop/1809,0,,,,0,0,2
+1810,1810,"Soquel Dr & Winkle Ave",,  36.988235,-121.974579,,http://scmtd.com/stop/1810,0,,,,0,0,2
+1811,1811,"Soquel Dr & Winkle Ave",,  36.988003,-121.974335,,http://scmtd.com/stop/1811,0,,,,0,0,1
+1813,1813,"Soquel Dr & Dover Dr",,  36.987942,-121.971016,,http://scmtd.com/stop/1813,0,,,,0,0,2
+1814,1814,"Soquel Dr & Rodeo Gulch Rd",,  36.987434,-121.968498,,http://scmtd.com/stop/1814,0,,,,0,0,2
+1817,1817,"Soquel Dr & 41st Ave",,  36.987656,-121.963936,,http://scmtd.com/stop/1817,0,,,,0,0,2
+1818,1818,"Soquel Dr & 41st Ave",,  36.987473,-121.964043,,http://scmtd.com/stop/1818,0,,,,0,0,1
+1820,1820,"Soquel Dr & Daubenbiss Ave",,  36.987640,-121.958481,,http://scmtd.com/stop/1820,0,,,,0,0,1
+1821,1821,"Soquel Dr & Daubenbiss Ave",,  36.987831,-121.958763,,http://scmtd.com/stop/1821,0,,,,0,0,2
+1822,1822,"Soquel Dr & Main",,  36.988930,-121.954857,,http://scmtd.com/stop/1822,0,,,,0,0,2
+1823,1823,"Soquel Dr & Main",,  36.988735,-121.954994,,http://scmtd.com/stop/1823,0,,,,0,0,1
+1824,1824,"Soquel Dr & E Walnut",,  36.987358,-121.952431,,http://scmtd.com/stop/1824,0,,,,0,0,1
+1825,1825,"Soquel Dr & Capitola Ave",,  36.987072,-121.950851,,http://scmtd.com/stop/1825,0,,,,0,0,1
+1826,1826,"Soquel Dr & Capitola Ave",,  36.987335,-121.950958,,http://scmtd.com/stop/1826,0,,,,0,0,2
+1827,1827,"Soquel Dr & Browns Ln",,  36.987637,-121.948311,,http://scmtd.com/stop/1827,0,,,,0,0,2
+1828,1828,"Soquel Dr & Orchard",,  36.987556,-121.947090,,http://scmtd.com/stop/1828,0,,,,0,0,1
+1829,1829,"Soquel Dr & Fairway Dr",,  36.987823,-121.946442,,http://scmtd.com/stop/1829,0,,,,0,0,2
+1830,1830,"Soquel Dr & Silver Birch Ln",,  36.987709,-121.944557,,http://scmtd.com/stop/1830,0,,,,0,0,1
+1831,1831,"Soquel Dr & Cunnison Ln",,  36.987965,-121.943474,,http://scmtd.com/stop/1831,0,,,,0,0,2
+1832,1832,"Soquel Dr & Monterey Ave",,  36.987701,-121.940834,,http://scmtd.com/stop/1832,0,,,,0,0,1
+1833,1833,"Soquel Dr & Maplethorpe Ln",,  36.988136,-121.938110,,http://scmtd.com/stop/1833,0,,,,0,0,2
+1834,1834,"Soquel Dr & Park Ave",,  36.988773,-121.936668,,http://scmtd.com/stop/1834,0,,,,0,0,2
+1835,1835,"Soquel Dr & Park Ave",,  36.988640,-121.936417,,http://scmtd.com/stop/1835,0,,,,0,0,1
+1836,1836,"Soquel Dr & Willowbrook Ln",,  36.990021,-121.932350,,http://scmtd.com/stop/1836,0,,,,0,0,1
+1837,1837,"Soquel Dr & Merrill Rd",,  36.990124,-121.932785,,http://scmtd.com/stop/1837,0,,,,0,0,2
+1838,1838,"Soquel Dr & Porter Gulch Rd",,  36.990547,-121.929962,,http://scmtd.com/stop/1838,0,,,,0,0,2
+1839,1839,"Soquel Dr & Cabrillo College Dr",,  36.988716,-121.925934,,http://scmtd.com/stop/1839,0,,,,0,0,2
+1840,1840,"Soquel Dr & Cabrillo College Dr",,  36.988106,-121.924599,,http://scmtd.com/stop/1840,0,,,,0,0,1
+1841,1841,"Soquel Dr & Borregas Dr",,  36.987057,-121.920822,,http://scmtd.com/stop/1841,0,,,,0,0,1
+1842,1842,"Soquel Dr & Calabria",,  36.985977,-121.918098,,http://scmtd.com/stop/1842,0,,,,0,0,2
+1843,1843,"Soquel Dr & Vienna Dr (Mar Vista Elem)",,  36.986355,-121.919319,,http://scmtd.com/stop/1843,0,,,,0,0,1
+1844,1844,"Soquel Dr & Mar Vista Dr",,  36.984833,-121.915833,,http://scmtd.com/stop/1844,0,,,,0,0,2
+1845,1845,"Soquel Dr & Mar Vista Dr",,  36.984703,-121.916023,,http://scmtd.com/stop/1845,0,,,,0,0,1
+1846,1846,"Soquel Dr & W Ledyard Way",,  36.982510,-121.911064,,http://scmtd.com/stop/1846,0,,,,0,0,2
+1847,1847,"Soquel Dr & W Ledyard Way",,  36.981739,-121.910255,,http://scmtd.com/stop/1847,0,,,,0,0,1
+1848,1848,"Soquel Dr & State Park Dr",,  36.980453,-121.908997,,http://scmtd.com/stop/1848,0,,,,0,0,1
+1849,1849,"Soquel Dr & E Ledyard Way (Aptos Library)",,  36.980858,-121.908981,,http://scmtd.com/stop/1849,0,,,,0,0,2
+1850,1850,"Soquel Dr (Rancho Del Mar Center)",,  36.978474,-121.907341,,http://scmtd.com/stop/1850,0,,,,0,0,1
+1851,1851,"Soquel Dr & State Park Dr",,  36.979733,-121.908195,,http://scmtd.com/stop/1851,0,,,,0,0,2
+1852,1852,"Soquel Dr & Aptos Creek Rd",,  36.977295,-121.901505,,http://scmtd.com/stop/1852,0,,,,0,0,2
+1853,1853,"Soquel Dr & Trout Gulch Rd",,  36.976547,-121.900009,,http://scmtd.com/stop/1853,0,,,,0,0,1
+1854,1854,"Soquel Dr (Creekside Offices)",,  36.975746,-121.889977,,http://scmtd.com/stop/1854,0,,,,0,0,2
+1855,1855,"Soquel Dr (Creekside Offices)",,  36.975594,-121.890137,,http://scmtd.com/stop/1855,0,,,,0,0,1
+1856,1856,"Soquel Dr & Monroe Ave",,  36.975849,-121.884499,,http://scmtd.com/stop/1856,0,,,,0,0,2
+1857,1857,"Soquel Dr (Aptos Gateway)",,  36.975323,-121.884949,,http://scmtd.com/stop/1857,0,,,,0,0,1
+1858,1858,"Soquel Dr & Jaunell Rd",,  36.973389,-121.880272,,http://scmtd.com/stop/1858,0,,,,0,0,2
+1859,1859,"Soquel Dr & Monroe Ave (Auto Center)",,  36.971237,-121.873734,,http://scmtd.com/stop/1859,0,,,,0,0,1
+1861,1861,"State Park Dr & Hillcrest Dr",,  36.975044,-121.912033,,http://scmtd.com/stop/1861,0,,,,0,0,1
+1862,1862,"Stockton Ave & Esplanade",,  36.972946,-121.952324,,http://scmtd.com/stop/1862,0,,,,0,0,2
+1863,1863,"Stockton Ave & Esplanade",,  36.972805,-121.952240,,http://scmtd.com/stop/1863,0,,,,0,0,1
+1865,1865,"Sumner Ave & Dolphin Dr",,  36.953926,-121.879311,,http://scmtd.com/stop/1865,0,,,,0,0,1
+1867,1867,"Sumner & Seabreeze/Clubhouse",,  36.956940,-121.882614,,http://scmtd.com/stop/1867,0,,,,0,0,1
+1875,1875,"Treasure Island Dr & Winfield Way",,  36.971302,-121.903809,,http://scmtd.com/stop/1875,0,,,,0,0,1
+1883,1883,"Walnut Ave & California",,  36.972141,-122.033958,,http://scmtd.com/stop/1883,0,,,,0,0,1
+1884,1884,"Walnut Ave & California",,  36.971966,-122.033852,,http://scmtd.com/stop/1884,0,,,,0,0,2
+1885,1885,"Walnut Ave & Chestnut",,  36.972759,-122.030441,,http://scmtd.com/stop/1885,0,,,,0,0,1
+1886,1886,"Walnut Ave & Chestnut",,  36.972527,-122.030815,,http://scmtd.com/stop/1886,0,,,,0,0,2
+1887,1887,"Walnut Ave & Center",,  36.973164,-122.028252,,http://scmtd.com/stop/1887,0,,,,0,0,1
+1892,1892,"Water (Governmental Center)",,  36.978519,-122.023933,,http://scmtd.com/stop/1892,0,,,,0,0,1
+1893,1893,"Water & Ocean",,  36.979584,-122.020844,,http://scmtd.com/stop/1893,0,,,,0,0,1
+1894,1894,"Water & Ocean",,  36.979523,-122.021805,,http://scmtd.com/stop/1894,0,,,,0,0,2
+1895,1895,"Water & Market",,  36.980312,-122.019409,,http://scmtd.com/stop/1895,0,,,,0,0,2
+1896,1896,"Water & Market",,  36.980072,-122.019371,,http://scmtd.com/stop/1896,0,,,,0,0,1
+1899,1899,"Water & N Branciforte Ave",,  36.981499,-122.014587,,http://scmtd.com/stop/1899,0,,,,0,0,2
+1900,1900,"Water & N Branciforte Ave",,  36.981369,-122.012978,,http://scmtd.com/stop/1900,0,,,,0,0,1
+1901,1901,"Water & Seabright Ave",,  36.981480,-122.010902,,http://scmtd.com/stop/1901,0,,,,0,0,2
+1903,1903,"Water & Poplar Ave",,  36.981461,-122.008530,,http://scmtd.com/stop/1903,0,,,,0,0,2
+1907,1907,"Western Dr & Flower",,  36.964211,-122.056625,,http://scmtd.com/stop/1907,0,,,,0,0,1
+1909,1909,"Western Dr & Monarch Way",,  36.970291,-122.058418,,http://scmtd.com/stop/1909,0,,,,0,0,1
+1910,1910,"Western Dr & Meder",,  36.973766,-122.058350,,http://scmtd.com/stop/1910,0,,,,0,0,1
+1914,1914,"7th Ave & Bonnie",,  36.964241,-121.998367,,http://scmtd.com/stop/1914,0,,,,0,0,2
+1915,1915,"7th Ave & Dolores",,  36.966290,-121.998093,,http://scmtd.com/stop/1915,0,,,,0,0,2
+1916,1916,"7th Ave & Harbor Cove",,  36.973236,-121.995453,,http://scmtd.com/stop/1916,0,,,,0,0,1
+1917,1917,"7th Ave & Manor Way (Yacht Harbor Manor)",,  36.974007,-121.994766,,http://scmtd.com/stop/1917,0,,,,0,0,2
+1919,1919,"7th Ave & Eddy Ln (Inland Harbor)",,  36.976334,-121.993401,,http://scmtd.com/stop/1919,0,,,,0,0,2
+1921,1921,"7th Ave & Cambria Ln",,  36.976723,-121.993439,,http://scmtd.com/stop/1921,0,,,,0,0,1
+1922,1922,"7th Ave & Capitola Rd",,  36.978916,-121.992165,,http://scmtd.com/stop/1922,0,,,,0,0,1
+1986,1986,"Bear Creek Rd & Deerwood Dr",,  37.141563,-122.090965,,http://scmtd.com/stop/1986,0,,,,0,0,2
+1987,1987,"Ocean (Pacific School)",,  37.011837,-122.195023,,http://scmtd.com/stop/1987,0,,,,0,0,1
+1992,1992,"Lincoln & Stanford",,  36.920963,-121.759163,,http://scmtd.com/stop/1992,0,,,,0,0,1
+1993,1993,"Lincoln & California",,  36.918415,-121.756775,,http://scmtd.com/stop/1993,0,,,,0,0,1
+1994,1994,"Lincoln & E 5th",,  36.916187,-121.754837,,http://scmtd.com/stop/1994,0,,,,0,0,1
+1995,1995,"Clubhouse Dr & Pinehurst Dr",,  36.961304,-121.878349,,http://scmtd.com/stop/1995,0,,,,0,0,1
+2007,2007,"Soquel Dr & Monroe Ave (Auto Center)",,  36.971603,-121.875214,,http://scmtd.com/stop/2007,0,,,,0,0,2
+2056,2056,"Bay & King",,  36.967911,-122.042747,,http://scmtd.com/stop/2056,0,,,,0,0,2
+2061,2061,"Delaware Ave & Bethany Curve",,  36.956619,-122.040222,,http://scmtd.com/stop/2061,0,,,,0,0,2
+2085,2085,"Mission & Sylvar",,  36.977467,-122.030075,,http://scmtd.com/stop/2085,0,,,,0,0,1
+2086,2086,"High & Laurent",,  36.977577,-122.042175,,http://scmtd.com/stop/2086,0,,,,0,0,2
+2090,2090,"High & Cardiff Pl",,  36.977375,-122.050362,,http://scmtd.com/stop/2090,0,,,,0,0,1
+2091,2091,"High & Cardiff Pl",,  36.977268,-122.050232,,http://scmtd.com/stop/2091,0,,,,0,0,2
+2095,2095,"Hwy 1 & Western Dr",,  36.961010,-122.057297,,http://scmtd.com/stop/2095,0,,,,0,0,1
+2101,2101,"Hagar Dr (UCSC - East Field House)",,  36.994263,-122.055511,,http://scmtd.com/stop/2101,0,,,,0,0,1
+2102,2102,"Hagar Dr (UCSC - Bookstore, Cowell & Stevenson)",,  36.997498,-122.055061,,http://scmtd.com/stop/2102,0,,,,0,0,1
+2113,2113,"Front & Spruce (Kaiser Arena)",,  36.967999,-122.023605,,http://scmtd.com/stop/2113,0,,,,0,0,1
+2114,2114,"Grant (Grant Park)",,  36.985661,-122.021584,,http://scmtd.com/stop/2114,0,,,,0,0,2
+2119,2119,"Valley Dr & Laurel Dr",,  37.046600,-122.075218,,http://scmtd.com/stop/2119,0,,,,0,0,2
+2120,2120,"Laurel Dr & Hwy 9",,  37.046589,-122.073509,,http://scmtd.com/stop/2120,0,,,,0,0,2
+2124,2124,"Hwy 9 & Mountain",,  37.120377,-122.120956,,http://scmtd.com/stop/2124,0,,,,0,0,2
+2125,2125,"Hwy 9 & Willowbrook Dr",,  37.071594,-122.084244,,http://scmtd.com/stop/2125,0,,,,0,0,2
+2127,2127,"Glen Arbor Rd & River",,  37.081112,-122.077751,,http://scmtd.com/stop/2127,0,,,,0,0,1
+2128,2128,"Hwy 9 & Brown Gables Rd",,  37.092968,-122.096474,,http://scmtd.com/stop/2128,0,,,,0,0,2
+2132,2132,"Bonny Doon Rd & Thayer Rd",,  37.054691,-122.160866,,http://scmtd.com/stop/2132,0,,,,0,0,1
+2133,2133,"Empire Grade (UCSC path)",,  37.003265,-122.073166,,http://scmtd.com/stop/2133,0,,,,0,0,2
+2134,2134,"Empire Grade & Smith Grade Rd",,  37.027748,-122.099716,,http://scmtd.com/stop/2134,0,,,,0,0,1
+2135,2135,"Bonny Doon Rd & Pine Flat Rd",,  37.041912,-122.150681,,http://scmtd.com/stop/2135,0,,,,0,0,2
+2136,2136,"Pine Flat Rd (Bonny Doon Elementary)",,  37.061775,-122.148544,,http://scmtd.com/stop/2136,0,,,,0,0,2
+2137,2137,"Pine Flat Rd & Kelly Ln",,  37.067280,-122.141121,,http://scmtd.com/stop/2137,0,,,,0,0,2
+2138,2138,"Pine Flat Rd & Atherley Ln",,  37.079155,-122.138542,,http://scmtd.com/stop/2138,0,,,,0,0,1
+2139,2139,"Pine Flat Rd & Comstock Ln",,  37.080856,-122.141106,,http://scmtd.com/stop/2139,0,,,,0,0,1
+2140,2140,"Pine Flat Rd & Comstock Ln",,  37.081173,-122.140335,,http://scmtd.com/stop/2140,0,,,,0,0,2
+2141,2141,"Pine Flat Rd (#2175)",,  37.069073,-122.142029,,http://scmtd.com/stop/2141,0,,,,0,0,1
+2142,2142,"Pine Flat Rd & Bonny Doon Rd",,  37.064308,-122.145187,,http://scmtd.com/stop/2142,0,,,,0,0,1
+2143,2143,"41st Ave & Bain Ave",,  36.965450,-121.964783,,http://scmtd.com/stop/2143,0,,,,0,0,1
+2144,2144,"41st Ave & Capitola Rd",,  36.974438,-121.964790,,http://scmtd.com/stop/2144,0,,,,0,0,1
+2145,2145,"41st Ave & Brommer",,  36.969898,-121.965034,,http://scmtd.com/stop/2145,0,,,,0,0,2
+2148,2148,"41st Ave & Clares",,  36.979519,-121.964760,,http://scmtd.com/stop/2148,0,,,,0,0,1
+2149,2149,"41st Ave (Home Depot)",,  36.984924,-121.964783,,http://scmtd.com/stop/2149,0,,,,0,0,3
+2151,2151,"41st Ave & Gross Rd",,  36.980217,-121.965096,,http://scmtd.com/stop/2151,0,,,,0,0,2
+2152,2152,"41st Ave & Cordelia Ln",,  36.985123,-121.965050,,http://scmtd.com/stop/2152,0,,,,0,0,2
+2158,2158,"38th Ave & Avis Ln",,  36.964314,-121.967354,,http://scmtd.com/stop/2158,0,,,,0,0,1
+2159,2159,"38th Ave & Tranquility Ct",,  36.965317,-121.967468,,http://scmtd.com/stop/2159,0,,,,0,0,2
+2160,2160,"38th Ave & Roland",,  36.966049,-121.967293,,http://scmtd.com/stop/2160,0,,,,0,0,1
+2161,2161,"38th Ave (Castle Mobile Estate)",,  36.967449,-121.967453,,http://scmtd.com/stop/2161,0,,,,0,0,2
+2162,2162,"38th Ave (Capitola Manor)",,  36.967766,-121.967308,,http://scmtd.com/stop/2162,0,,,,0,0,1
+2163,2163,"38th Ave (Blue & Gold)",,  36.968742,-121.967445,,http://scmtd.com/stop/2163,0,,,,0,0,2
+2164,2164,"38th Ave & Reposa (Blue & Gold)",,  36.969456,-121.967316,,http://scmtd.com/stop/2164,0,,,,0,0,1
+2166,2166,"38th Ave (King's Plaza)",,  36.972103,-121.967323,,http://scmtd.com/stop/2166,0,,,,0,0,1
+2167,2167,"41st Ave (King's Plaza)",,  36.971706,-121.965065,,http://scmtd.com/stop/2167,0,,,,0,0,2
+2170,2170,"17th Ave & Brommer",,  36.970665,-121.984764,,http://scmtd.com/stop/2170,0,,,,0,0,1
+2171,2171,"17th Ave & Felt",,  36.967159,-121.985489,,http://scmtd.com/stop/2171,0,,,,0,0,1
+2172,2172,"17th Ave & Merrill",,  36.964989,-121.986740,,http://scmtd.com/stop/2172,0,,,,0,0,1
+2173,2173,"17th Ave & Matthews Ln",,  36.963676,-121.987267,,http://scmtd.com/stop/2173,0,,,,0,0,2
+2174,2174,"17th Ave & Merrill",,  36.965302,-121.986320,,http://scmtd.com/stop/2174,0,,,,0,0,2
+2175,2175,"17th Ave & Felt",,  36.967182,-121.985222,,http://scmtd.com/stop/2175,0,,,,0,0,2
+2177,2177,"Portola Dr & Corcoran Ave",,  36.962898,-121.981438,,http://scmtd.com/stop/2177,0,,,,0,0,2
+2178,2178,"17th Ave & Kinsley",,  36.969753,-121.984810,,http://scmtd.com/stop/2178,0,,,,0,0,2
+2186,2186,"Soquel Ave & Darwin",,  36.980850,-122.008003,,http://scmtd.com/stop/2186,0,,,,0,0,1
+2191,2191,"W Lake Ave & Main",,  36.911495,-121.758659,,http://scmtd.com/stop/2191,0,,,,0,0,1
+2192,2192,"Rodriguez & Main (The Pines Apts)",,  36.914330,-121.764458,,http://scmtd.com/stop/2192,0,,,,0,0,2
+2195,2195,"Amesti Rd & Paraiso Dr",,  36.953503,-121.777710,,http://scmtd.com/stop/2195,0,,,,0,0,1
+2196,2196,"Amesti Rd & E Rianda Rd",,  36.959873,-121.787170,,http://scmtd.com/stop/2196,0,,,,0,0,1
+2197,2197,"Amesti Rd & Alaga Ln",,  36.961891,-121.790154,,http://scmtd.com/stop/2197,0,,,,0,0,1
+2198,2198,"Amesti Rd & Pioneer Rd",,  36.971062,-121.794975,,http://scmtd.com/stop/2198,0,,,,0,0,1
+2199,2199,"Varni Rd & Amesti Rd",,  36.971138,-121.795738,,http://scmtd.com/stop/2199,0,,,,0,0,2
+2204,2204,"Rodriguez & Main (The Pines Apts)",,  36.914402,-121.764648,,http://scmtd.com/stop/2204,0,,,,0,0,1
+2205,2205,"Rodriguez & Kearney",,  36.911034,-121.761307,,http://scmtd.com/stop/2205,0,,,,0,0,2
+2208,2208,"Buena Vista Dr & Miller Ave",,  36.941654,-121.784241,,http://scmtd.com/stop/2208,0,,,,0,0,1
+2209,2209,"Anna & Hanger Way",,  36.925873,-121.790672,,http://scmtd.com/stop/2209,0,,,,0,0,1
+2211,2211,"Clifford Ave & Evelyn Ave",,  36.929199,-121.769669,,http://scmtd.com/stop/2211,0,,,,0,0,3
+2212,2212,"Herman Ave & Kralj Dr",,  36.923138,-121.784691,,http://scmtd.com/stop/2212,0,,,,0,0,2
+2214,2214,"Anna & Herman Ave",,  36.925499,-121.785263,,http://scmtd.com/stop/2214,0,,,,0,0,2
+2220,2220,"S Green Valley Rd & Marantha Dr",,  36.925472,-121.779732,,http://scmtd.com/stop/2220,0,,,,0,0,2
+2224,2224,"Freedom Blvd & Roache Rd",,  36.936756,-121.775597,,http://scmtd.com/stop/2224,0,,,,0,0,1
+2225,2225,"Green Valley Rd & Celia Dr",,  36.954182,-121.764832,,http://scmtd.com/stop/2225,0,,,,0,0,1
+2226,2226,"Green Valley Rd & Poultry Ln (Mesa Village)",,  36.965240,-121.765091,,http://scmtd.com/stop/2226,0,,,,0,0,2
+2227,2227,"Green Valley Rd & Trembly Ln",,  36.957767,-121.765015,,http://scmtd.com/stop/2227,0,,,,0,0,2
+2228,2228,"Green Valley Rd & Behler Rd (Pinto Lake Pk)",,  36.948059,-121.765633,,http://scmtd.com/stop/2228,0,,,,0,0,2
+2233,2233,"College Rd & Taylor Rd (Drew Lake)",,  36.933743,-121.735931,,http://scmtd.com/stop/2233,0,,,,0,0,1
+2234,2234,"E Lake & Nugent Ave",,  36.929527,-121.744766,,http://scmtd.com/stop/2234,0,,,,0,0,2
+2235,2235,"Tuttle Ave & Bridge",,  36.921513,-121.740303,,http://scmtd.com/stop/2235,0,,,,0,0,2
+2242,2242,"Ocean & Felker",,  36.985703,-122.024223,,http://scmtd.com/stop/2242,0,,,,0,0,2
+2244,2244,"Center Ave & Sea Terrace Way",,  36.974503,-121.905243,,http://scmtd.com/stop/2244,0,,,,0,0,1
+2259,2259,"Green Valley Rd & Mesa Verde Dr",,  36.969402,-121.765289,,http://scmtd.com/stop/2259,0,,,,0,0,1
+2260,2260,"Wheelock Rd & Casserly Rd",,  36.972771,-121.764694,,http://scmtd.com/stop/2260,0,,,,0,0,1
+2261,2261,"Wheelock Rd (#102)",,  36.976376,-121.766792,,http://scmtd.com/stop/2261,0,,,,0,0,1
+2262,2262,"Wheelock Rd & Gilchrist Ln",,  36.979382,-121.766594,,http://scmtd.com/stop/2262,0,,,,0,0,1
+2263,2263,"Wheelock Rd (Monte Vista School)",,  36.981682,-121.768921,,http://scmtd.com/stop/2263,0,,,,0,0,1
+2264,2264,"Wheelock Rd & Green Valley Rd",,  36.980419,-121.776428,,http://scmtd.com/stop/2264,0,,,,0,0,2
+2265,2265,"Green Valley Rd & Kliewer Ln",,  36.970734,-121.770912,,http://scmtd.com/stop/2265,0,,,,0,0,2
+2270,2270,"Broadway & Cayuga",,  36.975204,-122.010735,,http://scmtd.com/stop/2270,0,,,,0,0,2
+2271,2271,"Broadway & S Branciforte Ave",,  36.974762,-122.014656,,http://scmtd.com/stop/2271,0,,,,0,0,2
+2272,2272,"Broadway & S Branciforte Ave",,  36.974663,-122.014534,,http://scmtd.com/stop/2272,0,,,,0,0,1
+2280,2280,"Seascape Blvd & Sumner Ave",,  36.952087,-121.876511,,http://scmtd.com/stop/2280,0,,,,0,0,1
+2286,2286,"Mt Hermon Rd (King's Village Shopping Ctr)",,  37.047249,-122.031448,,http://scmtd.com/stop/2286,0,,,,0,0,2
+2288,2288,"Glen Arbor Rd & Hwy 9",,  37.088829,-122.088280,,http://scmtd.com/stop/2288,0,,,,0,0,1
+2291,2291,"Bay & California",,  36.963669,-122.035782,,http://scmtd.com/stop/2291,0,,,,0,0,1
+2294,2294,"Glen Arbor Rd & Locust",,  37.086674,-122.083931,,http://scmtd.com/stop/2294,0,,,,0,0,2
+2296,2296,"Brommer & Odyssey Ct",,  36.972095,-121.990547,,http://scmtd.com/stop/2296,0,,,,0,0,2
+2297,2297,"Main & Rodriguez",,  36.915394,-121.763992,,http://scmtd.com/stop/2297,0,,,,0,0,2
+2301,2301,"Walnut Ave & Center",,  36.972977,-122.028458,,http://scmtd.com/stop/2301,0,,,,0,0,2
+2302,2302,"Cedar & Center",,  36.976170,-122.028000,,http://scmtd.com/stop/2302,0,,,,0,0,1
+2303,2303,"Cedar & Cathcart",,  36.971596,-122.026779,,http://scmtd.com/stop/2303,0,,,,0,0,1
+2304,2304,"Cedar & Walnut Ave",,  36.973537,-122.027122,,http://scmtd.com/stop/2304,0,,,,0,0,1
+2308,2308,"Cedar & Lincoln",,  36.972240,-122.027130,,http://scmtd.com/stop/2308,0,,,,0,0,2
+2310,2310,"Empire Grade (#2519)",,  37.011620,-122.075348,,http://scmtd.com/stop/2310,0,,,,0,0,2
+2316,2316,"E Zayante Rd (Zayante Store)",,  37.085041,-122.047966,,http://scmtd.com/stop/2316,0,,,,0,0,1
+2317,2317,"E Zayante Rd & Lompico Rd",,  37.083172,-122.050743,,http://scmtd.com/stop/2317,0,,,,0,0,2
+2323,2323,"Quail Hollow Rd & Larita Dr",,  37.078865,-122.077568,,http://scmtd.com/stop/2323,0,,,,0,0,2
+2324,2324,"Quail Hollow Rd & Hidden Valley Dr",,  37.081211,-122.072670,,http://scmtd.com/stop/2324,0,,,,0,0,2
+2325,2325,"Quail Hollow Rd & Vista Robles Dr",,  37.085598,-122.067657,,http://scmtd.com/stop/2325,0,,,,0,0,2
+2326,2326,"Quail Hollow Rd & Eggleson Ln",,  37.077618,-122.058441,,http://scmtd.com/stop/2326,0,,,,0,0,2
+2328,2328,"Empire Grade (UCSC - Arboretum)",,  36.983685,-122.064934,,http://scmtd.com/stop/2328,0,,,,0,0,2
+2330,2330,"Delaware Ave & Swift",,  36.955700,-122.049004,,http://scmtd.com/stop/2330,0,,,,0,0,1
+2334,2334,"Mark Ave & Arroyo Dr",,  36.964554,-121.762573,,http://scmtd.com/stop/2334,0,,,,0,0,1
+2335,2335,"Mark Ave & Hathaway Ave",,  36.966805,-121.763443,,http://scmtd.com/stop/2335,0,,,,0,0,1
+2336,2336,"Mark Ave & Ponderosa Ave",,  36.968338,-121.763596,,http://scmtd.com/stop/2336,0,,,,0,0,1
+2340,2340,"Capitola Rd & Foster Ct",,  36.977043,-121.986664,,http://scmtd.com/stop/2340,0,,,,0,0,2
+2341,2341,"Capitola Rd & 16th Ave",,  36.976334,-121.984383,,http://scmtd.com/stop/2341,0,,,,0,0,2
+2342,2342,"Mission & King",,  36.961262,-122.047745,,http://scmtd.com/stop/2342,0,,,,0,0,1
+2344,2344,"Western Dr & Beachview Ave",,  36.961472,-122.056572,,http://scmtd.com/stop/2344,0,,,,0,0,1
+2350,2350,"Harvey West Blvd (Harvey West Park)",,  36.984573,-122.038414,,http://scmtd.com/stop/2350,0,,,,0,0,2
+2352,2352,"7th Ave (Casa La Familia)",,  36.982899,-121.989479,,http://scmtd.com/stop/2352,0,,,,0,0,2
+2354,2354,"Hwy 9 & Pleasant Way",,  37.151428,-122.136292,,http://scmtd.com/stop/2354,0,,,,0,0,2
+2356,2356,"41st Ave (Begonia Plaza)",,  36.968674,-121.964760,,http://scmtd.com/stop/2356,0,,,,0,0,1
+2363,2363,"Green Valley Rd & Litchfield Ln",,  36.976871,-121.776306,,http://scmtd.com/stop/2363,0,,,,0,0,2
+2364,2364,"Front & Soquel Ave",,  36.973518,-122.024780,,http://scmtd.com/stop/2364,0,,,,0,0,2
+2365,2365,"Soquel Ave & Front",,  36.973495,-122.024193,,http://scmtd.com/stop/2365,0,,,,0,0,2
+2367,2367,"Soquel Dr & Chanticleer Ave",,  36.988365,-121.977539,,http://scmtd.com/stop/2367,0,,,,0,0,1
+2371,2371,"Mt Hermon Rd (Scotts Valley Square)",,  37.047615,-122.032249,,http://scmtd.com/stop/2371,0,,,,0,0,1
+2373,2373,"Pine Flat Rd & Quail Dr",,  37.050331,-122.153351,,http://scmtd.com/stop/2373,0,,,,0,0,2
+2374,2374,"High & Western Dr",,  36.978813,-122.057732,,http://scmtd.com/stop/2374,0,,,,0,0,1
+2375,2375,"High & Bay Dr (UCSC - Main Entrance)",,  36.977322,-122.054306,,http://scmtd.com/stop/2375,0,,,,0,0,1
+2376,2376,"Bay Dr & High",,  36.976765,-122.053802,,http://scmtd.com/stop/2376,0,,,,0,0,2
+2377,2377,"Capitola Rd & Clares",,  36.973824,-121.969948,,http://scmtd.com/stop/2377,0,,,,0,0,2
+2381,2381,"S Green Valley Rd & Magnolia Dr",,  36.924030,-121.780922,,http://scmtd.com/stop/2381,0,,,,0,0,2
+2382,2382,"S Green Valley Rd & Kralj Dr",,  36.922298,-121.781578,,http://scmtd.com/stop/2382,0,,,,0,0,2
+2383,2383,"Soquel Dr & Paul Sweet Rd",,  36.987644,-121.985512,,http://scmtd.com/stop/2383,0,,,,0,0,1
+2384,2384,"Hwy 9 & Quigg Way",,  37.184177,-122.140999,,http://scmtd.com/stop/2384,0,,,,0,0,1
+2393,2393,"Western Dr & Western Ct",,  36.968609,-122.058342,,http://scmtd.com/stop/2393,0,,,,0,0,1
+2394,2394,"Storey & Escalona Dr",,  36.976192,-122.035034,,http://scmtd.com/stop/2394,0,,,,0,0,2
+2396,2396,"River & Josephine",,  36.981163,-122.029144,,http://scmtd.com/stop/2396,0,,,,0,0,2
+2398,2398,"2nd & Leibrandt Ave",,  36.966240,-122.018745,,http://scmtd.com/stop/2398,0,,,,0,0,2
+2400,2400,"Hwy 9 & Teihl",,  37.173401,-122.138138,,http://scmtd.com/stop/2400,0,,,,0,0,1
+2401,2401,"Hwy 9 & Teihl",,  37.172913,-122.138367,,http://scmtd.com/stop/2401,0,,,,0,0,2
+2407,2407,"Airport Blvd (Freedom Centre)",,  36.940353,-121.776222,,http://scmtd.com/stop/2407,0,,,,0,0,2
+2409,2409,"Freedom Blvd (#2672)",,  36.954845,-121.798737,,http://scmtd.com/stop/2409,0,,,,0,0,2
+2410,2410,"Freedom Blvd (#2672)",,  36.954887,-121.798973,,http://scmtd.com/stop/2410,0,,,,0,0,1
+2413,2413,"S Green Valley Rd & Carey Ave",,  36.934345,-121.774185,,http://scmtd.com/stop/2413,0,,,,0,0,2
+2414,2414,"S Green Valley Rd & Hope Dr (Green Valley Village)",,  36.927910,-121.778648,,http://scmtd.com/stop/2414,0,,,,0,0,2
+2415,2415,"E Lake & Lincoln St",,  36.914864,-121.754097,,http://scmtd.com/stop/2415,0,,,,0,0,1
+2416,2416,"Sunnyhills Dr & Shady Oaks Dr",,  36.929684,-121.785355,,http://scmtd.com/stop/2416,0,,,,0,0,2
+2417,2417,"E Beach & Hushbeck Ave",,  36.918564,-121.745575,,http://scmtd.com/stop/2417,0,,,,0,0,2
+2418,2418,"E Beach & Beck",,  36.916870,-121.747940,,http://scmtd.com/stop/2418,0,,,,0,0,2
+2419,2419,"E Beach & Blackburn",,  36.915428,-121.749878,,http://scmtd.com/stop/2419,0,,,,0,0,2
+2420,2420,"Delaware Ave & Fair Ave",,  36.955990,-122.045860,,http://scmtd.com/stop/2420,0,,,,0,0,1
+2421,2421,"Escalona Dr & Arroyo Seco",,  36.963051,-122.051804,,http://scmtd.com/stop/2421,0,,,,0,0,1
+2422,2422,"Grandview & Arroyo Seco",,  36.961376,-122.051376,,http://scmtd.com/stop/2422,0,,,,0,0,1
+2426,2426,"Dubois & Harvey West Blvd",,  36.985214,-122.039513,,http://scmtd.com/stop/2426,0,,,,0,0,2
+2428,2428,"2nd & Main",,  36.965027,-122.022751,,http://scmtd.com/stop/2428,0,,,,0,0,1
+2429,2429,"Bonny Doon Rd (Mc Henry Vineyard)",,  37.065884,-122.157814,,http://scmtd.com/stop/2429,0,,,,0,0,1
+2433,2433,"Green Valley Rd & Holohan Rd",,  36.941628,-121.768974,,http://scmtd.com/stop/2433,0,,,,0,0,1
+2434,2434,"Green Valley Rd & Airport Blvd",,  36.941536,-121.769325,,http://scmtd.com/stop/2434,0,,,,0,0,2
+2435,2435,"Main & Central Ave",,  36.908302,-121.754814,,http://scmtd.com/stop/2435,0,,,,0,0,1
+2436,2436,"Green Valley Rd (Hispanic SDA Church)",,  36.944111,-121.767555,,http://scmtd.com/stop/2436,0,,,,0,0,1
+2437,2437,"Empire Grade & Sunlit Ln",,  37.068470,-122.123299,,http://scmtd.com/stop/2437,0,,,,0,0,1
+2440,2440,"Hwy 9 & Brookside Dr",,  37.142315,-122.131683,,http://scmtd.com/stop/2440,0,,,,0,0,1
+2445,2445,"Big Basin Way (Country Club)",,  37.153336,-122.161102,,http://scmtd.com/stop/2445,0,,,,0,0,1
+2446,2446,"Quail Hollow Rd & Cumora Ln",,  37.081913,-122.069588,,http://scmtd.com/stop/2446,0,,,,0,0,2
+2447,2447,"E Zayante Rd & W Zayante Rd",,  37.059261,-122.058891,,http://scmtd.com/stop/2447,0,,,,0,0,2
+2448,2448,"Heller Dr (UCSC - Rachel Carson College & Porter)",,  36.992996,-122.065201,,http://scmtd.com/stop/2448,0,,,,0,0,1
+2453,2453,"Green Valley Rd & Devon Ln",,  36.953758,-121.764999,,http://scmtd.com/stop/2453,0,,,,0,0,2
+2456,2456,"41st Ave (Four Star Center)",,  36.971462,-121.964745,,http://scmtd.com/stop/2456,0,,,,0,0,1
+2460,2460,"W Zayante Rd & Willow Dr",,  37.071777,-122.057098,,http://scmtd.com/stop/2460,0,,,,0,0,2
+2461,2461,"W Zayante Rd & McEnery Rd",,  37.068142,-122.058388,,http://scmtd.com/stop/2461,0,,,,0,0,2
+2462,2462,"W Zayante Rd & El Alamein Rd",,  37.065292,-122.057800,,http://scmtd.com/stop/2462,0,,,,0,0,2
+2463,2463,"W Zayante (#7389 Sheperd)",,  37.062199,-122.056488,,http://scmtd.com/stop/2463,0,,,,0,0,2
+2464,2464,"Seascape Blvd & Via Pacifica",,  36.950470,-121.866020,,http://scmtd.com/stop/2464,0,,,,0,0,1
+2465,2465,"Freedom Blvd & Portola Cir",,  36.920879,-121.761032,,http://scmtd.com/stop/2465,0,,,,0,0,1
+2466,2466,"Freedom Blvd & Miles Ln",,  36.922642,-121.761673,,http://scmtd.com/stop/2466,0,,,,0,0,1
+2467,2467,"Freedom Blvd & W High",,  36.918648,-121.760216,,http://scmtd.com/stop/2467,0,,,,0,0,1
+2469,2469,"Main & W 5th",,  36.912842,-121.759621,,http://scmtd.com/stop/2469,0,,,,0,0,1
+2470,2470,"S Green Valley Rd & Kralj Dr",,  36.921890,-121.782135,,http://scmtd.com/stop/2470,0,,,,0,0,2
+2471,2471,"Clifford Ave & Crescent Dr",,  36.927750,-121.771591,,http://scmtd.com/stop/2471,0,,,,0,0,3
+2472,2472,"Clifford Ave & Montebello Dr",,  36.920925,-121.775604,,http://scmtd.com/stop/2472,0,,,,0,0,3
+2479,2479,"Clifford Ave & Rosewood Dr",,  36.921150,-121.775589,,http://scmtd.com/stop/2479,0,,,,0,0,2
+2480,2480,"Neilson & Airport Blvd (Wats. Hospital)",,  36.928196,-121.793587,,http://scmtd.com/stop/2480,0,,,,0,0,1
+2481,2481,"Anna & Holm Rd",,  36.925709,-121.787025,,http://scmtd.com/stop/2481,0,,,,0,0,1
+2482,2482,"Lincoln & E 5th",,  36.916607,-121.755005,,http://scmtd.com/stop/2482,0,,,,0,0,2
+2483,2483,"Lincoln & Palm Ave",,  36.917816,-121.756042,,http://scmtd.com/stop/2483,0,,,,0,0,2
+2484,2484,"Lincoln & E High",,  36.920200,-121.758316,,http://scmtd.com/stop/2484,0,,,,0,0,2
+2486,2486,"Airport Blvd & Freedom",,  36.937199,-121.778809,,http://scmtd.com/stop/2486,0,,,,0,0,2
+2487,2487,"Ross Ave & Chappell Rd",,  36.932194,-121.785233,,http://scmtd.com/stop/2487,0,,,,0,0,2
+2488,2488,"Ross Ave & Holly Dr",,  36.931000,-121.784027,,http://scmtd.com/stop/2488,0,,,,0,0,2
+2489,2489,"Shady Oaks Dr & Jeanette Way",,  36.927246,-121.785522,,http://scmtd.com/stop/2489,0,,,,0,0,2
+2490,2490,"Loma Prieta Ave & Cherry Blossom Dr",,  36.933826,-121.780457,,http://scmtd.com/stop/2490,0,,,,0,0,2
+2491,2491,"Loma Prieta Ave & Holly Dr",,  36.931335,-121.778366,,http://scmtd.com/stop/2491,0,,,,0,0,1
+2497,2497,"High & Bay Dr",,  36.977066,-122.052864,,http://scmtd.com/stop/2497,0,,,,0,0,2
+2505,2505,"Hwy 9 & Brimblecom Rd",,  37.142136,-122.131935,,http://scmtd.com/stop/2505,0,,,,0,0,2
+2507,2507,"Empire Grade (at Mile 1306)",,  37.021255,-122.084198,,http://scmtd.com/stop/2507,0,,,,0,0,1
+2508,2508,"Empire Grade (Bonny Doon Airport)",,  37.072632,-122.127945,,http://scmtd.com/stop/2508,0,,,,0,0,1
+2509,2509,"Bonny Doon Rd & Cathedral Park Dr",,  37.047409,-122.157059,,http://scmtd.com/stop/2509,0,,,,0,0,1
+2510,2510,"Pine Flat Rd (#2300)",,  37.070213,-122.142715,,http://scmtd.com/stop/2510,0,,,,0,0,2
+2511,2511,"Pine Flat Rd (#2572)",,  37.073860,-122.143135,,http://scmtd.com/stop/2511,0,,,,0,0,2
+2512,2512,"Pine Flat Rd (#2878)",,  37.077599,-122.142075,,http://scmtd.com/stop/2512,0,,,,0,0,2
+2514,2514,"Hwy 9 & Middleton Ave (Big Basin)",,  37.125935,-122.122597,,http://scmtd.com/stop/2514,0,,,,0,0,2
+2515,2515,"Hwy 9 & Middleton Ave (Big Basin)",,  37.125984,-122.122391,,http://scmtd.com/stop/2515,0,,,,0,0,1
+2516,2516,"Heller Dr (UCSC - Family Student Housing)",,  36.991791,-122.066803,,http://scmtd.com/stop/2516,0,,,,0,0,1
+2519,2519,"Scotts Valley Dr & Granite Creek Rd",,  37.061939,-122.007164,,http://scmtd.com/stop/2519,0,,,,0,0,2
+2520,2520,"Hill & Crossroads Loop",,  36.981766,-121.954742,,http://scmtd.com/stop/2520,0,,,,0,0,2
+2522,2522,"Emeline Ave & Button",,  36.986652,-122.018700,,http://scmtd.com/stop/2522,0,,,,0,0,2
+2551,2551,"17th Ave & Tremont Dr",,  36.964031,-121.987328,,http://scmtd.com/stop/2551,0,,,,0,0,1
+2552,2552,"S Green Valley Rd & Main",,  36.917580,-121.784393,,http://scmtd.com/stop/2552,0,,,,0,0,2
+2554,2554,"E Lake & Wagner Ave",,  36.926270,-121.745789,,http://scmtd.com/stop/2554,0,,,,0,0,2
+2556,2556,"Florence & Jonathan/Cayetano",,  36.899841,-121.749710,,http://scmtd.com/stop/2556,0,,,,0,0,1
+2559,2559,"Graham Hill Rd & Hwy 9 (Covered Bridge)",,  37.052711,-122.072281,,http://scmtd.com/stop/2559,0,,,,0,0,1
+2567,2567,"Freedom Blvd & Marin",,  36.923885,-121.762436,,http://scmtd.com/stop/2567,0,,,,0,0,1
+2569,2569,"Almar & Hebard (Park)",,  36.957733,-122.043022,,http://scmtd.com/stop/2569,0,,,,0,0,1
+2570,2570,"Almar & Rankin",,  36.961449,-122.043594,,http://scmtd.com/stop/2570,0,,,,0,0,1
+2571,2571,"Swift & Jeter",,  36.957211,-122.048836,,http://scmtd.com/stop/2571,0,,,,0,0,1
+2572,2572,"Laurel & Chestnut",,  36.968651,-122.028992,,http://scmtd.com/stop/2572,0,,,,0,0,2
+2573,2573,"E Bronte Ave & Bridge",,  36.919975,-121.741875,,http://scmtd.com/stop/2573,0,,,,0,0,2
+2575,2575,"Soquel Dr & Terrace Dr",,  36.983730,-121.913445,,http://scmtd.com/stop/2575,0,,,,0,0,2
+2576,2576,"Green Valley Rd & Mesa Verde Dr",,  36.968792,-121.765099,,http://scmtd.com/stop/2576,0,,,,0,0,2
+2582,2582,"Bay & West Cliff Dr",,  36.961372,-122.025848,,http://scmtd.com/stop/2582,0,,,,0,0,1
+2583,2583,"Bay & Laguna",,  36.960594,-122.029099,,http://scmtd.com/stop/2583,0,,,,0,0,1
+2584,2584,"Bay (La Barranca Park)",,  36.961437,-122.032440,,http://scmtd.com/stop/2584,0,,,,0,0,1
+2585,2585,"Bay & National",,  36.961361,-122.032578,,http://scmtd.com/stop/2585,0,,,,0,0,2
+2586,2586,"Bay & Laguna",,  36.960400,-122.029274,,http://scmtd.com/stop/2586,0,,,,0,0,3
+2587,2587,"Bay & West Cliff Dr",,  36.961231,-122.025948,,http://scmtd.com/stop/2587,0,,,,0,0,2
+2588,2588,"Bay & Mission",,  36.966255,-122.039665,,http://scmtd.com/stop/2588,0,,,,0,0,1
+2592,2592,"Pacific Ave & Viaduct Ln",,  36.963673,-122.024895,,http://scmtd.com/stop/2592,0,,,,0,0,1
+2593,2593,"Pacific Ave & 2nd",,  36.963909,-122.024918,,http://scmtd.com/stop/2593,0,,,,0,0,2
+2594,2594,"Freedom Blvd (K-Mart)",,  36.933441,-121.771286,,http://scmtd.com/stop/2594,0,,,,0,0,2
+2596,2596,"Freedom Blvd (#2716)",,  36.956799,-121.800774,,http://scmtd.com/stop/2596,0,,,,0,0,2
+2599,2599,"Capitola Rd & 49th Ave",,  36.973820,-121.955978,,http://scmtd.com/stop/2599,0,,,,0,0,2
+2600,2600,"Hwy 9 & Monaco Ln",,  37.133682,-122.126236,,http://scmtd.com/stop/2600,0,,,,0,0,2
+2603,2603,"Emeline Ave (Emeline Complex - Building K)",,  36.992943,-122.017601,,http://scmtd.com/stop/2603,0,,,,0,0,2
+2604,2604,"Hwy 9 & Kirby (Community Hall)",,  37.050961,-122.073334,,http://scmtd.com/stop/2604,0,,,,0,0,1
+2605,2605,"Ocean & Water (Governmental Center)",,  36.978935,-122.021240,,http://scmtd.com/stop/2605,0,,,,0,0,2
+2617,2617,"Portola Dr & 18th Ave",,  36.962772,-121.987114,,http://scmtd.com/stop/2617,0,,,,0,0,2
+2618,2618,"Hwy 1 & Bonny Doon Rd",,  37.000938,-122.180626,,http://scmtd.com/stop/2618,0,,,,0,0,2
+2619,2619,"Mission & Swift",,  36.960636,-122.048813,,http://scmtd.com/stop/2619,0,,,,0,0,2
+2620,2620,"Soquel Dr & Heather Terrace",,  36.982883,-121.912354,,http://scmtd.com/stop/2620,0,,,,0,0,1
+2622,2622,"Hanger Way & Neilson",,  36.928905,-121.790894,,http://scmtd.com/stop/2622,0,,,,0,0,1
+2623,2623,"Neilson & Airport Blvd (Wats. Hospital)",,  36.928360,-121.793121,,http://scmtd.com/stop/2623,0,,,,0,0,2
+2624,SVTC,"Cavallaro Transit Center (Scotts Valley)",,  37.049004,-122.027740,,http://scmtd.com/stop/SVTC,0,,,,1,1,4
+2627,2627,"Front & Pacific Ave",,  36.976376,-122.026566,,http://scmtd.com/stop/2627,0,,,,0,0,2
+2628,2628,"Clifford Ave & Sherwood Ct",,  36.918819,-121.776115,,http://scmtd.com/stop/2628,0,,,,0,0,3
+2629,2629,"Clifford Ave & Montebello Dr",,  36.918736,-121.775993,,http://scmtd.com/stop/2629,0,,,,0,0,2
+2630,2630,"Airport Blvd & Holm Rd",,  36.931435,-121.788322,,http://scmtd.com/stop/2630,0,,,,0,0,1
+2633,2633,"Scotts Valley Dr & Johnston Way",,  37.056862,-122.011497,,http://scmtd.com/stop/2633,0,,,,0,0,1
+2636,2636,"Beach & Pacific (Wharf)",,  36.962894,-122.023262,,http://scmtd.com/stop/2636,0,,,,0,0,2
+2637,2637,"Freedom Blvd & Crestview Dr",,  36.927048,-121.765297,,http://scmtd.com/stop/2637,0,,,,0,0,1
+2638,2638,"Freedom Blvd & Crestview Dr (Court House)",,  36.927296,-121.765221,,http://scmtd.com/stop/2638,0,,,,0,0,2
+2641,2641,"Freedom Blvd & Brennan",,  36.917110,-121.760429,,http://scmtd.com/stop/2641,0,,,,0,0,1
+2642,2642,"Capitola Rd & Leila Court",,  36.976433,-121.985474,,http://scmtd.com/stop/2642,0,,,,0,0,1
+2643,2643,"Freedom Blvd (#2718)",,  36.956940,-121.801193,,http://scmtd.com/stop/2643,0,,,,0,0,1
+2649,2649,"41st Ave & Gladys Ave",,  36.966774,-121.965004,,http://scmtd.com/stop/2649,0,,,,0,0,2
+2650,2650,"Portola Dr & 41st Ave",,  36.963528,-121.965912,,http://scmtd.com/stop/2650,0,,,,0,0,2
+2651,2651,"Portola Dr & 41st Ave",,  36.963299,-121.965576,,http://scmtd.com/stop/2651,0,,,,0,0,1
+2654,2654,"Harvey West Blvd & Sylvania Ave (Costco)",,  36.983833,-122.034760,,http://scmtd.com/stop/2654,0,,,,0,0,2
+2655,2655,"Freedom Blvd & Airport Blvd (Library)",,  36.938019,-121.777550,,http://scmtd.com/stop/2655,0,,,,0,0,1
+2656,2656,"Mission & Union",,  36.975868,-122.032707,,http://scmtd.com/stop/2656,0,,,,0,0,2
+2659,2659,"Western Dr & Meder",,  36.974789,-122.058456,,http://scmtd.com/stop/2659,0,,,,0,0,2
+2660,2660,"Western Dr & Monarch Way",,  36.970360,-122.058510,,http://scmtd.com/stop/2660,0,,,,0,0,2
+2661,2661,"Western Dr & Western Ct",,  36.968826,-122.058517,,http://scmtd.com/stop/2661,0,,,,0,0,2
+2662,2662,"Western Dr & Cypress Park",,  36.966549,-122.057159,,http://scmtd.com/stop/2662,0,,,,0,0,2
+2663,2663,"Western Dr & Flower",,  36.964523,-122.056740,,http://scmtd.com/stop/2663,0,,,,0,0,2
+2664,2664,"Encinal & Dubois",,  36.987320,-122.036980,,http://scmtd.com/stop/2664,0,,,,0,0,2
+2666,2666,"Soquel Ave & Front",,  36.973255,-122.024117,,http://scmtd.com/stop/2666,0,,,,0,0,1
+2667,2667,"Front & Soquel Ave",,  36.974030,-122.024796,,http://scmtd.com/stop/2667,0,,,,0,0,1
+2668,2668,"Soquel Ave & Caledonia",,  36.977631,-122.014473,,http://scmtd.com/stop/2668,0,,,,0,0,1
+2669,2669,"Hagar Dr & Village Rd (UCSC - The Farm)",,  36.985916,-122.053543,,http://scmtd.com/stop/2669,0,,,,0,0,1
+2670,2670,"Heller Dr (UCSC - Oakes College)",,  36.990601,-122.066093,,http://scmtd.com/stop/2670,0,,,,0,0,1
+2671,2671,"Heller Dr (UCSC - Rachel Carson College & Porter)",,  36.992802,-122.064850,,http://scmtd.com/stop/2671,0,,,,0,0,1
+2672,2672,"Heller Dr (UCSC - Kerr Hall)",,  36.996708,-122.063583,,http://scmtd.com/stop/2672,0,,,,0,0,1
+2673,2673,"Heller Dr & McLaughlin Dr (UCSC - Kresge College)",,  36.999207,-122.064339,,http://scmtd.com/stop/2673,0,,,,0,0,1
+2674,2674,"McLaughlin Dr (UCSC - Science Hill)",,  36.999855,-122.062172,,http://scmtd.com/stop/2674,0,,,,0,0,1
+2675,2675,"McLaughlin Dr (UCSC - College 9 & 10 / Health Ctr)",,  36.999756,-122.058311,,http://scmtd.com/stop/2675,0,,,,0,0,1
+2676,2676,"Hagar Dr (UCSC - Bookstore, Cowell & Stevenson)",,  36.996662,-122.055412,,http://scmtd.com/stop/2676,0,,,,0,0,1
+2677,2677,"Hagar Dr (UCSC - East Remote Parking)",,  36.991276,-122.054886,,http://scmtd.com/stop/2677,0,,,,0,0,1
+2678,2678,"Hagar Dr & Village Rd (UCSC - The Farm)",,  36.985538,-122.053551,,http://scmtd.com/stop/2678,0,,,,0,0,1
+2679,2679,"Coolidge Dr & Hagar Ct  (UCSC - Lower Campus)",,  36.981560,-122.052109,,http://scmtd.com/stop/2679,0,,,,0,0,1
+2681,2681,"Via Pacifica & Cabo Court",,  36.949459,-121.866203,,http://scmtd.com/stop/2681,0,,,,0,0,1
+2682,2682,"Ocean & Dakota",,  36.977005,-122.020386,,http://scmtd.com/stop/2682,0,,,,0,0,2
+2683,2683,"Encinal & Sylvania Ave",,  36.986927,-122.034683,,http://scmtd.com/stop/2683,0,,,,0,0,2
+2690,2690,"3rd & Unden",,  36.967342,-122.017082,,http://scmtd.com/stop/2690,0,,,,0,0,2
+2691,2691,"Main & Ford",,  36.913898,-121.760254,,http://scmtd.com/stop/2691,0,,,,0,0,2
+2692,2692,"Hwy 9 (SLV High School)",,  37.061172,-122.079826,,http://scmtd.com/stop/2692,0,,,,0,0,1
+2694,2694,"Delaware Ave & Centennial",,  36.958050,-122.030998,,http://scmtd.com/stop/2694,0,,,,0,0,1
+2695,2695,"Delaware Ave & Liberty",,  36.958031,-122.030022,,http://scmtd.com/stop/2695,0,,,,0,0,2
+2696,2696,"Delaware Ave & Columbia",,  36.957451,-122.033981,,http://scmtd.com/stop/2696,0,,,,0,0,2
+2697,2697,"Pacific Ave & Center",,  36.965668,-122.025360,,http://scmtd.com/stop/2697,0,,,,0,0,1
+2698,2698,"Mission & Shaffer Rd",,  36.960888,-122.061752,,http://scmtd.com/stop/2698,0,,,,0,0,1
+2699,2699,"Capitola Ave & Bay Ave",,  36.978306,-121.953102,,http://scmtd.com/stop/2699,0,,,,0,0,1
+2700,SCMC,"Santa Cruz Metro Center",,  36.970673,-122.024979,,http://scmtd.com/stop/SCMC,0,,,,1,0,4
+2701,SCMC1,"Santa Cruz Metro Center - Lane 1",,  36.971077,-122.024574,,http://scmtd.com/stop/SCMC1,0,,,,0,1,4
+2702,SCMC2,"Santa Cruz Metro Center - Lane 2",,  36.970917,-122.024529,,http://scmtd.com/stop/SCMC2,0,,,,0,1,4
+2703,SCMC3,"Santa Cruz Metro Center - Lane 3",,  36.970795,-122.024475,,http://scmtd.com/stop/SCMC3,0,,,,0,1,4
+2704,SCMC4,"Santa Cruz Metro Center - Lane 4",,  36.970615,-122.024475,,http://scmtd.com/stop/SCMC4,0,,,,0,1,4
+2705,2705,"W Beach (#600)",,  36.905781,-121.766960,,http://scmtd.com/stop/2705,0,,,,0,0,1
+2706,2706,"Ohlone Pkwy & Lighthouse Dr",,  36.907745,-121.774651,,http://scmtd.com/stop/2706,0,,,,0,0,1
+2707,2707,"Ohlone Pkwy & Loma Vista",,  36.910149,-121.774933,,http://scmtd.com/stop/2707,0,,,,0,0,1
+2708,2708,"Ohlone Pkwy & Kingfisher Dr",,  36.912548,-121.777344,,http://scmtd.com/stop/2708,0,,,,0,0,1
+2709,2709,"Ohlone Pkwy & Egret Ln",,  36.914127,-121.778275,,http://scmtd.com/stop/2709,0,,,,0,0,1
+2710,2710,"Ohlone Pkwy & Harkins Slough Rd",,  36.914452,-121.778473,,http://scmtd.com/stop/2710,0,,,,0,0,2
+2711,2711,"Ohlone Pkwy & Kingfisher Dr",,  36.912193,-121.776939,,http://scmtd.com/stop/2711,0,,,,0,0,2
+2712,2712,"Ohlone Pkwy & Loma Vista",,  36.909637,-121.775085,,http://scmtd.com/stop/2712,0,,,,0,0,2
+2713,2713,"Ohlone Pkwy & Bree Ln",,  36.906418,-121.774376,,http://scmtd.com/stop/2713,0,,,,0,0,2
+2714,2714,"Holly Dr & Airport Rd",,  36.931133,-121.781326,,http://scmtd.com/stop/2714,0,,,,0,0,1
+2715,2715,"Natural Bridges Dr & Mission",,  36.958874,-122.057594,,http://scmtd.com/stop/2715,0,,,,0,0,2
+2716,2716,"Natural Bridges Dr & Mission",,  36.959156,-122.057434,,http://scmtd.com/stop/2716,0,,,,0,0,1
+2717,2717,"Natural Bridges Dr & Delaware Ave",,  36.954990,-122.057137,,http://scmtd.com/stop/2717,0,,,,0,0,2
+2718,2718,"Natural Bridges Dr & Delaware Ave",,  36.955070,-122.056969,,http://scmtd.com/stop/2718,0,,,,0,0,1
+2719,2719,"W Beach & Industrial Rd",,  36.904480,-121.768311,,http://scmtd.com/stop/2719,0,,,,0,0,2
+2721,2721,"S Green Valley Rd & Main",,  36.917862,-121.783974,,http://scmtd.com/stop/2721,0,,,,0,0,1
+2722,2722,"Soquel Dr & Lower Perimeter Rd (Sesnon House)",,  36.989567,-121.928917,,http://scmtd.com/stop/2722,0,,,,0,0,1
+2723,2723,"Delaware Ave & National",,  36.957859,-122.032242,,http://scmtd.com/stop/2723,0,,,,0,0,1
+2724,2724,"S Green Valley Rd & Loma Prieta Ave",,  36.931389,-121.776657,,http://scmtd.com/stop/2724,0,,,,0,0,2
+2725,2725,"E Lake & Bridge",,  36.930779,-121.744064,,http://scmtd.com/stop/2725,0,,,,0,0,1
+2726,2726,"Green Valley Rd & Stewart Ave",,  36.937431,-121.771591,,http://scmtd.com/stop/2726,0,,,,0,0,1
+2727,2727,"Harkins Slough Rd (Pajaro Valley High School)",,  36.914471,-121.790749,,http://scmtd.com/stop/2727,0,,,,0,0,3
+2728,2728,"Water & Poplar Ave",,  36.981316,-122.009460,,http://scmtd.com/stop/2728,0,,,,0,0,1
+2731,2731,"Laurel & Blackburn",,  36.968571,-122.031334,,http://scmtd.com/stop/2731,0,,,,0,0,1
+2732,2732,"7th Ave & Tanner Ct",,  36.977974,-121.992477,,http://scmtd.com/stop/2732,0,,,,0,0,2
+2733,2733,"Soquel Dr & Research Park Dr",,  36.987053,-121.967438,,http://scmtd.com/stop/2733,0,,,,0,0,1
+2734,2734,"Main & Pennsylvania Dr",,  36.916489,-121.770653,,http://scmtd.com/stop/2734,0,,,,0,0,2
+2735,2735,"Beach & Leibrandt Ave (Boardwalk)",,  36.964912,-122.015671,,http://scmtd.com/stop/2735,0,,,,0,0,2
+2736,2736,"Beach & Riverside Ave (Boardwalk)",,  36.964493,-122.018684,,http://scmtd.com/stop/2736,0,,,,0,0,2
+2737,2737,"Lincoln & Prospect",,  36.922581,-121.760994,,http://scmtd.com/stop/2737,0,,,,0,0,1
+2738,2738,"Westgate Dr & Technology Dr (Social Security)",,  36.923019,-121.793701,,http://scmtd.com/stop/2738,0,,,,0,0,1
+2739,2739,"High (Tosca Terrace)",,  36.979889,-122.059326,,http://scmtd.com/stop/2739,0,,,,0,0,2
+2740,2740,"Delaware Ave & Swanton Blvd",,  36.954983,-122.054375,,http://scmtd.com/stop/2740,0,,,,0,0,2
+2741,2741,"2nd & Main (Watsonville Civic Plaza)",,  36.908657,-121.756218,,http://scmtd.com/stop/2741,0,,,,0,0,1
+2743,2743,"Vernon & River (METRO Admin Offices)",,  36.990452,-122.032234,,http://scmtd.com/stop/2743,0,,,,0,0,2
+2744,2744,"McAllister Way (Seymour Center)",,  36.949284,-122.065002,,http://scmtd.com/stop/2744,0,,,,0,0,1
+2747,2747,"Almar & Rankin",,  36.960381,-122.043564,,http://scmtd.com/stop/2747,0,,,,0,0,2
+2748,2748,"Capitola Ave & Hill",,  36.981670,-121.952545,,http://scmtd.com/stop/2748,0,,,,0,0,2
+2749,2749,"McAllister Way (Coastal Biology Building)",,  36.952572,-122.065460,,http://scmtd.com/stop/2749,0,,,,0,0,1
+2750,2750,"McAllister Way (Coastal Biology Building)",,  36.952583,-122.065437,,http://scmtd.com/stop/2750,0,,,,0,0,2
+2800,CAPM,"Capitola Mall",,  36.975555,-121.966148,,http://scmtd.com/stop/CAPM,0,,,,1,0,4
+2801,CAPM1,"Capitola Mall - Lane 1",,  36.975433,-121.966217,,http://scmtd.com/stop/CAPM1,0,,,,0,1,4
+2802,CAPM2,"Capitola Mall - Lane 2",,  36.975677,-121.966087,,http://scmtd.com/stop/CAPM2,0,,,,0,1,4
+2900,WTC,"Watsonville Transit Center",,  36.909691,-121.759972,,http://scmtd.com/stop/WTC,0,,,,1,0,4
+2901,WTC1,"Watsonville Transit Center - Lane 1",,  36.909863,-121.760071,,http://scmtd.com/stop/WTC1,0,,,,0,1,4
+2902,WTC2,"Watsonville Transit Center - Lane 2",,  36.909775,-121.760223,,http://scmtd.com/stop/WTC2,0,,,,0,1,4
+9001,9001,"Main & Riverside Dr",,  36.906521,-121.752800,,http://scmtd.com/stop/9001,0,,,,0,0,1
+9002,9002,"Porter Dr & San Juan Rd",,  36.904125,-121.750267,,http://scmtd.com/stop/9002,0,,,,0,0,1
+9003,9003,"Porter Dr & Salinas Rd",,  36.902325,-121.748352,,http://scmtd.com/stop/9003,0,,,,0,0,1
+9004,9004,"Salinas Rd & Bishop",,  36.901096,-121.748077,,http://scmtd.com/stop/9004,0,,,,0,0,1
+9005,9005,"Porter Dr & Salinas Rd",,  36.902615,-121.748428,,http://scmtd.com/stop/9005,0,,,,0,0,1
+9006,9006,"Porter Dr & San Juan Rd",,  36.904114,-121.750084,,http://scmtd.com/stop/9006,0,,,,0,0,1

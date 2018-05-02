@@ -1,0 +1,29 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+17,MCTD,17,San Rafael - Sausalito, ,3,http://www.marintransit.org/routes/17.html,53A946,FFFFFF
+22,MCTD,22,San Rafael - Marin City, ,3,http://www.marintransit.org/routes/22.html,53A946,FFFFFF
+23,MCTD,23,Canal - Fairfax, ,3,http://www.marintransit.org/routes/23.html,53A946,FFFFFF
+23X,MCTD,23X,Canal - Fairfax/Manor Express, ,3,http://www.marintransit.org/routes/23.html,53A946,FFFFFF
+29,MCTD,29,Canal - Marin General, ,3,http://www.marintransit.org/routes/29.html,53A946,FFFFFF
+35,MCTD,35,Canal - San Rafael Transit Center, ,3,http://www.marintransit.org/routes/35.html,53A946,FFFFFF
+36,MCTD,36,Canal - Marin City, ,3,http://www.marintransit.org/routes/36.html,53A946,FFFFFF
+49,MCTD,49,San Rafael - Novato, ,3,http://www.marintransit.org/routes/49.html,53A946,FFFFFF
+61,MCTD,61,West Marin Stagecoach (South), ,3,http://www.marintransit.org/routes/61.html,3161AB,FFFFFF
+66,MCTD,66,Muir Woods Shuttle, ,3,http://www.marintransit.org/routes/66.html,996633,FFFFFF
+68,MCTD,68,West Marin Stagecoach (North), ,3,http://www.marintransit.org/routes/68.html,3161AB,FFFFFF
+71X,MCTD,71X,Novato - Sausalito, ,3,http://www.marintransit.org/routes/71.html,53A946,FFFFFF
+113,MCTD,113,Paradise Cay - Redwood HS, ,3,http://www.marintransit.org/routes/113.html,F89838,FFFFFF
+115,MCTD,115,Marin City - St Hilary School, ,3,http://www.marintransit.org/routes/115.html,F89838,FFFFFF
+117,MCTD,117,Cove School - E Corte Madera - Hall MS, ,3,http://www.marintransit.org/routes/117.html,F89838,FFFFFF
+119,MCTD,119,Tiburon - Redwood HS, ,3,http://www.marintransit.org/routes/119.html,F89838,FFFFFF
+122,MCTD,122,College of Marin Express, ,3,http://www.marintransit.org/routes/122.html,F89838,FFFFFF
+125,MCTD,125,Lagunitas - Sir Francis Drake HS - San Rafael, ,3,http://www.marintransit.org/routes/125.html,F89838,FFFFFF
+139,MCTD,139,Lucas Valley - Terra Linda HS, ,3,http://www.marintransit.org/routes/139.html,F89838,FFFFFF
+145,MCTD,145,San Rafael - Terra Linda HS, ,3,http://www.marintransit.org/routes/145.html,F89838,FFFFFF
+151,MCTD,151,Hamilton - San Marin HS, ,3,http://www.marintransit.org/routes/151.html,F89838,FFFFFF
+154,MCTD,154,Olive - Novato, ,3,http://www.marintransit.org/routes/154.html,F89838,FFFFFF
+219,MCTD,219,Tiburon - Strawberry, ,3,http://www.marintransit.org/routes/219.html,A5C73C,FFFFFF
+228,MCTD,228,San Rafael - Fairfax Manor, ,3,http://www.marintransit.org/routes/228.html,A5C73C,FFFFFF
+233,MCTD,233,San Rafael - Santa Venetia, ,3,http://www.marintransit.org/routes/233.html,A5C73C,FFFFFF
+245,MCTD,245,San Rafael - Smith Ranch Road, ,3,http://www.marintransit.org/routes/245.html,A5C73C,FFFFFF
+251,MCTD,251,Novato Shuttle, ,3,http://www.marintransit.org/routes/251.html,A5C73C,FFFFFF
+257,MCTD,257,San Rafael - Ignacio, ,3,http://www.marintransit.org/routes/257.html,A5C73C,FFFFFF

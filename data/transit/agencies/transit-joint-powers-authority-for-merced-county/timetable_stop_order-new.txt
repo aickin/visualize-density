@@ -1,0 +1,1191 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,768395,1,Atwater Target (to Winton),"A1/Atwater Loop, A2/Winton Way, A3/Castle Crosstown"
+1,768346,2,Atwater Transpo (eastbound),"A1/Atwater Loop, T/Turlock Commuter"
+1,768391,3,Winton @ Olive (northbound),"A1/Atwater Loop, A2/Winton Way"
+1,768386,4,Winton @ Grove (northbound),"A1/Atwater Loop, A2/Winton Way"
+1,768388,5,Winton @ Juniper/St. Anthony's (northbound),"A1/Atwater Loop, A2/Winton Way"
+1,768378,6,Winton @ Bellevue/ 99 cent store (northbound),"A1/Atwater Loop, A2/Winton Way"
+1,768396,7,Bellevue @ Winton / Jack in the Box (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+1,768374,8,Bellevue @ 5th (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+1,768387,9,Bellevue @ Redwood (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+1,768163,10,Bellevue Rd @ Alabama Ave (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+1,768164,11,Bellevue Rd @ Brownell Ave (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+1,768381,12,Bellevue @ Constitution (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+1,768377,13,Bellevue @ Bellevue Elementary (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+1,768392,14,Bellevue @ Secretariat (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+1,835001,15,Castle H.S.A.,"A1/Atwater Loop, L/Livingston Commuter, W1/Winton Commuter"
+1,768193,16,Hospital Ave @ Castle Clinic (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, L/Livingston Commuter, W1/Winton Commuter"
+1,768401,17,Buchach @ Bellevue (southbound),A1/Atwater Loop
+1,768165,18,Buhach Rd @ Castlewood Ave (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+1,768172,19,Buhach Rd @ Garden (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+1,768187,20,Buhach Rd @ Juniper Ave/ Buhach High (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+1,768188,21,Juniper Ave @ Bridgewater St (westbound),A1/Atwater Loop
+1,768189,22,Juniper Ave @ Almador Ter (westbound),A1/Atwater Loop
+1,768190,23,Anberry Outpatient center (southbound),A1/Atwater Loop
+1,768170,24,Broadway @ Capitol St (westbound),"A1/Atwater Loop, A3/Castle Crosstown"
+1,768171,25,Broadway @ Castle St (westbound),"A1/Atwater Loop, A3/Castle Crosstown"
+1,768398,26,Atwater Transpo (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, T/Turlock Commuter"
+1,768395,27,Atwater Target (to Winton),"A1/Atwater Loop, A2/Winton Way, A3/Castle Crosstown"
+2,768395,1,Atwater Target (to Winton),"A1/Atwater Loop, A2/Winton Way, A3/Castle Crosstown"
+2,768346,2,Atwater Transpo (eastbound),"A1/Atwater Loop, T/Turlock Commuter"
+2,768391,3,Winton @ Olive (northbound),"A1/Atwater Loop, A2/Winton Way"
+2,768386,4,Winton @ Grove (northbound),"A1/Atwater Loop, A2/Winton Way"
+2,768388,5,Winton @ Juniper/St. Anthony's (northbound),"A1/Atwater Loop, A2/Winton Way"
+2,768378,6,Winton @ Bellevue/ 99 cent store (northbound),"A1/Atwater Loop, A2/Winton Way"
+2,768396,7,Bellevue @ Winton / Jack in the Box (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+2,768374,8,Bellevue @ 5th (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+2,768387,9,Bellevue @ Redwood (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+2,768163,10,Bellevue Rd @ Alabama Ave (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+2,768164,11,Bellevue Rd @ Brownell Ave (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+2,768381,12,Bellevue @ Constitution (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+2,768377,13,Bellevue @ Bellevue Elementary (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+2,768392,14,Bellevue @ Secretariat (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+2,835001,15,Castle H.S.A.,"A1/Atwater Loop, L/Livingston Commuter, W1/Winton Commuter"
+2,768193,16,Hospital Ave @ Castle Clinic (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, L/Livingston Commuter, W1/Winton Commuter"
+2,768401,17,Buchach @ Bellevue (southbound),A1/Atwater Loop
+2,768165,18,Buhach Rd @ Castlewood Ave (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+2,768172,19,Buhach Rd @ Garden (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+2,768187,20,Buhach Rd @ Juniper Ave/ Buhach High (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+2,768188,21,Juniper Ave @ Bridgewater St (westbound),A1/Atwater Loop
+2,768189,22,Juniper Ave @ Almador Ter (westbound),A1/Atwater Loop
+2,768190,23,Anberry Outpatient center (southbound),A1/Atwater Loop
+2,768170,24,Broadway @ Capitol St (westbound),"A1/Atwater Loop, A3/Castle Crosstown"
+2,768171,25,Broadway @ Castle St (westbound),"A1/Atwater Loop, A3/Castle Crosstown"
+2,768398,26,Atwater Transpo (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, T/Turlock Commuter"
+2,768395,27,Atwater Target (to Winton),"A1/Atwater Loop, A2/Winton Way, A3/Castle Crosstown"
+3,768610,1,Merced College/Los Banos Campus,"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+3,768627,2,Wal Mart - Los Banos,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+3,768596,3,Los Banos Memorial Hospital (eastbound),"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+3,781950,4,F St @ 4th/County Offices,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+3,768607,5,Los Banos Community Center,"DP/Dos Palos Link, G/Gustine Link, H/Hilmar Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+3,844204,6,Food 4 Less / Dollar Tree,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+3,781952,7,Y Chevron (to Dos Palos),"DP/Dos Palos Link, LB/Los Banos Commuter"
+3,768358,8,Dollar General SB (To Merced),DP/Dos Palos Link
+3,782478,9,Police/Fire Station (Dos Palos),DP/Dos Palos Link
+3,768355,10,Dollar General (To Los Banos),DP/Dos Palos Link
+3,768634,11,Dos Palos Y Chevron Station,"DP/Dos Palos Link, LB/Los Banos Commuter"
+3,844204,12,Food 4 Less / Dollar Tree,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+3,781950,13,F St @ 4th/County Offices,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+3,768607,14,Los Banos Community Center,"DP/Dos Palos Link, G/Gustine Link, H/Hilmar Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+3,768597,15,Los Banos Memorial Hospital (westbound),"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+3,768610,16,Merced College/Los Banos Campus,"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+3,768627,17,Wal Mart - Los Banos,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+4,768610,1,Merced College/Los Banos Campus,"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+4,768627,2,Wal Mart - Los Banos,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+4,768596,3,Los Banos Memorial Hospital (eastbound),"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+4,781950,4,F St @ 4th/County Offices,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+4,768607,5,Los Banos Community Center,"DP/Dos Palos Link, G/Gustine Link, H/Hilmar Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+4,844204,6,Food 4 Less / Dollar Tree,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+4,781952,7,Y Chevron (to Dos Palos),"DP/Dos Palos Link, LB/Los Banos Commuter"
+4,768358,8,Dollar General SB (To Merced),DP/Dos Palos Link
+4,782478,9,Police/Fire Station (Dos Palos),DP/Dos Palos Link
+4,768355,10,Dollar General (To Los Banos),DP/Dos Palos Link
+4,768634,11,Dos Palos Y Chevron Station,"DP/Dos Palos Link, LB/Los Banos Commuter"
+4,844204,12,Food 4 Less / Dollar Tree,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+4,781950,13,F St @ 4th/County Offices,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+4,768607,14,Los Banos Community Center,"DP/Dos Palos Link, G/Gustine Link, H/Hilmar Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+4,768597,15,Los Banos Memorial Hospital (westbound),"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+4,768610,16,Merced College/Los Banos Campus,"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+4,768627,17,Wal Mart - Los Banos,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+5,768583,1,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+5,768452,2,G St @ East Campus (northbound),"M4/G Street Shuttle, M6/North"
+5,768428,3,G St @ 21st (northbound),"M4/G Street Shuttle, M6/North"
+5,768431,4,G St @ 23rd (northbound),"M4/G Street Shuttle, M6/North"
+5,768433,5,G St @ 26th (northbound),"M4/G Street Shuttle, M6/North"
+5,768463,6,G St @ N. Bear Creek Dr (northbound),M4/G Street Shuttle
+5,768437,7,G St @ Alexander (northbound),M4/G Street Shuttle
+5,768464,8,G St @ Olive (northbound),M4/G Street Shuttle
+5,768442,9,G St @ Brookdale (northbound),M4/G Street Shuttle
+5,768314,10,G St @ Columbia Ave (northbound),M4/G Street Shuttle
+5,768455,11,G St @ El Portal (northbound),M4/G Street Shuttle
+5,768447,12,G St @ Donna (northbound),M4/G Street Shuttle
+5,768326,13,Yosemite Ave @ G st (eastbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+5,768315,14,Yosemite Ave @ Cordova Ave (eastbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+5,768316,15,Paulson Rd @ Yosemite Ave (northbound),M4/G Street Shuttle
+5,768317,16,Mercy Ave @ Paulson Rd (westbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+5,768530,17,Mercy Medical Center,"M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced"
+5,768477,18,G St @ University/Tri College Center,"M4/G Street Shuttle, UC/Merced"
+5,768525,19,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+5,768460,20,G St @ Yosemite (southbound),M4/G Street Shuttle
+5,768448,21,G St @ Columbia (southbound),M4/G Street Shuttle
+5,768443,22,G St @ Brookdale (southbound),M4/G Street Shuttle
+5,768469,23,G St @ Merced High School North Campus,M4/G Street Shuttle
+5,768471,24,G St @ Olive/Save Mart,"M4/G Street Shuttle, M6/North"
+5,768441,25,G St @ Alexander (southbound),"M4/G Street Shuttle, M6/North"
+5,768474,26,G St @ Park Av,"M4/G Street Shuttle, M6/North"
+5,768453,27,G St @ N. Bear Creek Dr (southbound),"M4/G Street Shuttle, M6/North"
+5,768438,28,G St @ 26th (southbound),"M4/G Street Shuttle, M6/North"
+5,768434,29,G St @ 23rd (southbound),"M4/G Street Shuttle, M6/North"
+5,768432,30,G St @ 21st (southbound),"M4/G Street Shuttle, M6/North"
+5,768429,31,G St @ 18th (southbound),M4/G Street Shuttle
+5,768348,32,Transpo - Small (Southbound),M4/G Street Shuttle
+5,768521,33,O St @ 15th (southbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+5,768421,34,13th @ G St (eastbound),M4/G Street Shuttle
+5,768456,35,G St @ Skylark (southbound),M4/G Street Shuttle
+5,768451,36,Carmen @ Las Brisas,M4/G Street Shuttle
+5,768482,37,Gerard @ La Mesa,M4/G Street Shuttle
+5,768459,38,G St @ Gerard (northbound),M4/G Street Shuttle
+5,768444,39,G St @ Carmen (northbound),M4/G Street Shuttle
+5,768467,40,G St @ Skylark (northbound),M4/G Street Shuttle
+5,768424,41,C.O.V.E. (Northbound),M4/G Street Shuttle
+5,768418,42,13th @ D St (eastbound),M4/G Street Shuttle
+5,768435,43,15th @ B St/Merced County Health (eastbound),M4/G Street Shuttle
+5,768422,44,13th @ D St (westbound),M4/G Street Shuttle
+5,768425,45,13th @ G St (westbound),M4/G Street Shuttle
+5,768541,46,O St @ 15th (northbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+5,768583,47,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+6,768583,1,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+6,768452,2,G St @ East Campus (northbound),"M4/G Street Shuttle, M6/North"
+6,768428,3,G St @ 21st (northbound),"M4/G Street Shuttle, M6/North"
+6,768431,4,G St @ 23rd (northbound),"M4/G Street Shuttle, M6/North"
+6,768433,5,G St @ 26th (northbound),"M4/G Street Shuttle, M6/North"
+6,768463,6,G St @ N. Bear Creek Dr (northbound),M4/G Street Shuttle
+6,768437,7,G St @ Alexander (northbound),M4/G Street Shuttle
+6,768464,8,G St @ Olive (northbound),M4/G Street Shuttle
+6,768442,9,G St @ Brookdale (northbound),M4/G Street Shuttle
+6,768314,10,G St @ Columbia Ave (northbound),M4/G Street Shuttle
+6,768455,11,G St @ El Portal (northbound),M4/G Street Shuttle
+6,768447,12,G St @ Donna (northbound),M4/G Street Shuttle
+6,768326,13,Yosemite Ave @ G st (eastbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+6,768315,14,Yosemite Ave @ Cordova Ave (eastbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+6,768316,15,Paulson Rd @ Yosemite Ave (northbound),M4/G Street Shuttle
+6,768317,16,Mercy Ave @ Paulson Rd (westbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+6,768530,17,Mercy Medical Center,"M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced"
+6,768477,18,G St @ University/Tri College Center,"M4/G Street Shuttle, UC/Merced"
+6,768525,19,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+6,768460,20,G St @ Yosemite (southbound),M4/G Street Shuttle
+6,768448,21,G St @ Columbia (southbound),M4/G Street Shuttle
+6,768443,22,G St @ Brookdale (southbound),M4/G Street Shuttle
+6,768469,23,G St @ Merced High School North Campus,M4/G Street Shuttle
+6,768471,24,G St @ Olive/Save Mart,"M4/G Street Shuttle, M6/North"
+6,768441,25,G St @ Alexander (southbound),"M4/G Street Shuttle, M6/North"
+6,768474,26,G St @ Park Av,"M4/G Street Shuttle, M6/North"
+6,768453,27,G St @ N. Bear Creek Dr (southbound),"M4/G Street Shuttle, M6/North"
+6,768438,28,G St @ 26th (southbound),"M4/G Street Shuttle, M6/North"
+6,768434,29,G St @ 23rd (southbound),"M4/G Street Shuttle, M6/North"
+6,768432,30,G St @ 21st (southbound),"M4/G Street Shuttle, M6/North"
+6,768429,31,G St @ 18th (southbound),M4/G Street Shuttle
+6,768348,32,Transpo - Small (Southbound),M4/G Street Shuttle
+6,768521,33,O St @ 15th (southbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+6,768421,34,13th @ G St (eastbound),M4/G Street Shuttle
+6,768456,35,G St @ Skylark (southbound),M4/G Street Shuttle
+6,768451,36,Carmen @ Las Brisas,M4/G Street Shuttle
+6,768482,37,Gerard @ La Mesa,M4/G Street Shuttle
+6,768459,38,G St @ Gerard (northbound),M4/G Street Shuttle
+6,768444,39,G St @ Carmen (northbound),M4/G Street Shuttle
+6,768467,40,G St @ Skylark (northbound),M4/G Street Shuttle
+6,768424,41,C.O.V.E. (Northbound),M4/G Street Shuttle
+6,768418,42,13th @ D St (eastbound),M4/G Street Shuttle
+6,768435,43,15th @ B St/Merced County Health (eastbound),M4/G Street Shuttle
+6,768422,44,13th @ D St (westbound),M4/G Street Shuttle
+6,768425,45,13th @ G St (westbound),M4/G Street Shuttle
+6,768541,46,O St @ 15th (northbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+6,768583,47,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+7,768583,1,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+7,768452,2,G St @ East Campus (northbound),"M4/G Street Shuttle, M6/North"
+7,768428,3,G St @ 21st (northbound),"M4/G Street Shuttle, M6/North"
+7,768431,4,G St @ 23rd (northbound),"M4/G Street Shuttle, M6/North"
+7,768433,5,G St @ 26th (northbound),"M4/G Street Shuttle, M6/North"
+7,768463,6,G St @ N. Bear Creek Dr (northbound),M4/G Street Shuttle
+7,768437,7,G St @ Alexander (northbound),M4/G Street Shuttle
+7,768464,8,G St @ Olive (northbound),M4/G Street Shuttle
+7,768442,9,G St @ Brookdale (northbound),M4/G Street Shuttle
+7,768314,10,G St @ Columbia Ave (northbound),M4/G Street Shuttle
+7,768455,11,G St @ El Portal (northbound),M4/G Street Shuttle
+7,768447,12,G St @ Donna (northbound),M4/G Street Shuttle
+7,768326,13,Yosemite Ave @ G st (eastbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+7,768315,14,Yosemite Ave @ Cordova Ave (eastbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+7,768316,15,Paulson Rd @ Yosemite Ave (northbound),M4/G Street Shuttle
+7,768317,16,Mercy Ave @ Paulson Rd (westbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+7,768530,17,Mercy Medical Center,"M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced"
+7,768477,18,G St @ University/Tri College Center,"M4/G Street Shuttle, UC/Merced"
+7,768525,19,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+7,768460,20,G St @ Yosemite (southbound),M4/G Street Shuttle
+7,768448,21,G St @ Columbia (southbound),M4/G Street Shuttle
+7,768443,22,G St @ Brookdale (southbound),M4/G Street Shuttle
+7,768469,23,G St @ Merced High School North Campus,M4/G Street Shuttle
+7,768471,24,G St @ Olive/Save Mart,"M4/G Street Shuttle, M6/North"
+7,768441,25,G St @ Alexander (southbound),"M4/G Street Shuttle, M6/North"
+7,768474,26,G St @ Park Av,"M4/G Street Shuttle, M6/North"
+7,768453,27,G St @ N. Bear Creek Dr (southbound),"M4/G Street Shuttle, M6/North"
+7,768438,28,G St @ 26th (southbound),"M4/G Street Shuttle, M6/North"
+7,768434,29,G St @ 23rd (southbound),"M4/G Street Shuttle, M6/North"
+7,768432,30,G St @ 21st (southbound),"M4/G Street Shuttle, M6/North"
+7,768429,31,G St @ 18th (southbound),M4/G Street Shuttle
+7,768348,32,Transpo - Small (Southbound),M4/G Street Shuttle
+7,768521,33,O St @ 15th (southbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+7,768421,34,13th @ G St (eastbound),M4/G Street Shuttle
+7,768456,35,G St @ Skylark (southbound),M4/G Street Shuttle
+7,768451,36,Carmen @ Las Brisas,M4/G Street Shuttle
+7,768482,37,Gerard @ La Mesa,M4/G Street Shuttle
+7,768459,38,G St @ Gerard (northbound),M4/G Street Shuttle
+7,768444,39,G St @ Carmen (northbound),M4/G Street Shuttle
+7,768467,40,G St @ Skylark (northbound),M4/G Street Shuttle
+7,768424,41,C.O.V.E. (Northbound),M4/G Street Shuttle
+7,768418,42,13th @ D St (eastbound),M4/G Street Shuttle
+7,768435,43,15th @ B St/Merced County Health (eastbound),M4/G Street Shuttle
+7,768422,44,13th @ D St (westbound),M4/G Street Shuttle
+7,768425,45,13th @ G St (westbound),M4/G Street Shuttle
+7,768541,46,O St @ 15th (northbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+7,768583,47,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+8,768610,1,Merced College/Los Banos Campus,"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+8,768627,2,Wal Mart - Los Banos,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+8,768596,3,Los Banos Memorial Hospital (eastbound),"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+8,781950,4,F St @ 4th/County Offices,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+8,768607,5,Los Banos Community Center,"DP/Dos Palos Link, G/Gustine Link, H/Hilmar Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+8,844204,6,Food 4 Less / Dollar Tree,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+8,781950,7,F St @ 4th/County Offices,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+8,768607,8,Los Banos Community Center,"DP/Dos Palos Link, G/Gustine Link, H/Hilmar Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+8,768597,9,Los Banos Memorial Hospital (westbound),"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+8,768627,10,Wal Mart - Los Banos,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+8,768610,11,Merced College/Los Banos Campus,"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+9,768525,1,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+9,768490,2,M St @ Donna (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+9,768499,3,M St @ Villages Apts (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+9,768553,4,Loughborough Dr @ Laurel Glen Apts (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+9,768547,5,Loughborough @ Target/Merced Mall (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+9,768533,6,R St @ Olive/Sears (southbound),"L/Livingston Commuter, W2/Winton Commuter North"
+9,768502,7,Meadows Ave @ Jo Ann Fabrics (southbound),"L/Livingston Commuter, W2/Winton Commuter North"
+9,768523,8,Meadows @ Olivewood,"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+9,768529,9,Devondwood @ Dogwood (westbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+9,768322,10,Wal-Mart (northbound),"L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, W2/Winton Commuter North"
+9,835001,11,Castle H.S.A.,"A1/Atwater Loop, L/Livingston Commuter, W1/Winton Commuter"
+9,768193,12,Hospital Ave @ Castle Clinic (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, L/Livingston Commuter, W1/Winton Commuter"
+9,768373,13,Center @ Walnut/Winton Library (northbound),"A2/Winton Way, L/Livingston Commuter, W1/Winton Commuter, W2/Winton Commuter North"
+9,768206,14,Walnut Ave @ Barbera Ave (westbound),L/Livingston Commuter
+9,768200,15,Walnut Ave @ Dwight Way (westbound),L/Livingston Commuter
+9,768201,16,Walnut Ave @ Hammatt Ave (westbound),"L/Livingston Commuter, T/Turlock Commuter"
+9,768202,17,Walnut Ave @ Celia Dr (westbound),"L/Livingston Commuter, T/Turlock Commuter"
+9,844203,18,Foster Farms,L/Livingston Commuter
+9,768194,19,Harvest Ave @ North Main St (eastbound),L/Livingston Commuter
+9,781908,20,Main St @ Davis St,"L/Livingston Commuter, T/Turlock Commuter"
+9,768196,21,Main St @ B St (southbound),"L/Livingston Commuter, T/Turlock Commuter"
+9,768366,22,Main @ C St/Livingston City Hall (southbound),L/Livingston Commuter
+9,768198,23,Park St @ 7th St (eastbound),L/Livingston Commuter
+9,768195,24,8th St @ F St (northbound),L/Livingston Commuter
+9,768199,25,Main St @ F St (northbound),L/Livingston Commuter
+9,768365,26,Main @ C St/Livingston City Hall (northbound),L/Livingston Commuter
+9,781909,27,Rancho San Miguel,"L/Livingston Commuter, T/Turlock Commuter"
+9,768344,28,Main @ Shopping Center (northbound),"L/Livingston Commuter, T/Turlock Commuter"
+9,781907,29,Main St @ Crowell St,"L/Livingston Commuter, T/Turlock Commuter"
+9,844203,30,Foster Farms,L/Livingston Commuter
+9,768203,31,Walnut Ave @ Francis St (eastbound),"L/Livingston Commuter, T/Turlock Commuter"
+9,768204,32,Walnut Ave @ Hammatt Ave (eastbound),"L/Livingston Commuter, T/Turlock Commuter"
+9,768205,33,Walnut Ave @ Dwight Way (eastbound),L/Livingston Commuter
+9,768207,34,Walnut Ave @ Barbera Ave (eastbound),L/Livingston Commuter
+9,768410,35,Center @ Walnut/Winton Library (southbound),L/Livingston Commuter
+9,768193,36,Hospital Ave @ Castle Clinic (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, L/Livingston Commuter, W1/Winton Commuter"
+9,835001,37,Castle H.S.A.,"A1/Atwater Loop, L/Livingston Commuter, W1/Winton Commuter"
+9,768324,38,Wal-Mart (southbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+9,768522,39,Devonwood Dr @ Dogwood (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+9,781906,40,Meadows @ Olivewood (to First Christian Church),"L/Livingston Commuter, W2/Winton Commuter North"
+9,768519,41,Meadows @ Olive Merced Meadows Apts,"L/Livingston Commuter, W2/Winton Commuter North"
+9,768552,42,R St @ Olive/Sears (northbound),"L/Livingston Commuter, W2/Winton Commuter North"
+9,768537,43,Loughborough @ Target/Mall (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, W2/Winton Commuter North"
+9,768531,44,Loughborough @ Laurel Glen Apts (eastbound),"L/Livingston Commuter, M3/M Street Shuttle, W2/Winton Commuter North"
+9,768524,45,M St @ Village Apts (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+9,768515,46,M St @ Donna (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+9,768525,47,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+10,768525,1,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+10,768490,2,M St @ Donna (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+10,768499,3,M St @ Villages Apts (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+10,768553,4,Loughborough Dr @ Laurel Glen Apts (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+10,768547,5,Loughborough @ Target/Merced Mall (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+10,768533,6,R St @ Olive/Sears (southbound),"L/Livingston Commuter, W2/Winton Commuter North"
+10,768502,7,Meadows Ave @ Jo Ann Fabrics (southbound),"L/Livingston Commuter, W2/Winton Commuter North"
+10,768523,8,Meadows @ Olivewood,"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+10,768529,9,Devondwood @ Dogwood (westbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+10,768322,10,Wal-Mart (northbound),"L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, W2/Winton Commuter North"
+10,835001,11,Castle H.S.A.,"A1/Atwater Loop, L/Livingston Commuter, W1/Winton Commuter"
+10,768193,12,Hospital Ave @ Castle Clinic (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, L/Livingston Commuter, W1/Winton Commuter"
+10,768373,13,Center @ Walnut/Winton Library (northbound),"A2/Winton Way, L/Livingston Commuter, W1/Winton Commuter, W2/Winton Commuter North"
+10,768206,14,Walnut Ave @ Barbera Ave (westbound),L/Livingston Commuter
+10,768200,15,Walnut Ave @ Dwight Way (westbound),L/Livingston Commuter
+10,768201,16,Walnut Ave @ Hammatt Ave (westbound),"L/Livingston Commuter, T/Turlock Commuter"
+10,768202,17,Walnut Ave @ Celia Dr (westbound),"L/Livingston Commuter, T/Turlock Commuter"
+10,844203,18,Foster Farms,L/Livingston Commuter
+10,768194,19,Harvest Ave @ North Main St (eastbound),L/Livingston Commuter
+10,781908,20,Main St @ Davis St,"L/Livingston Commuter, T/Turlock Commuter"
+10,768196,21,Main St @ B St (southbound),"L/Livingston Commuter, T/Turlock Commuter"
+10,768366,22,Main @ C St/Livingston City Hall (southbound),L/Livingston Commuter
+10,768198,23,Park St @ 7th St (eastbound),L/Livingston Commuter
+10,768195,24,8th St @ F St (northbound),L/Livingston Commuter
+10,768199,25,Main St @ F St (northbound),L/Livingston Commuter
+10,768365,26,Main @ C St/Livingston City Hall (northbound),L/Livingston Commuter
+10,781909,27,Rancho San Miguel,"L/Livingston Commuter, T/Turlock Commuter"
+10,768344,28,Main @ Shopping Center (northbound),"L/Livingston Commuter, T/Turlock Commuter"
+10,781907,29,Main St @ Crowell St,"L/Livingston Commuter, T/Turlock Commuter"
+10,844203,30,Foster Farms,L/Livingston Commuter
+10,768203,31,Walnut Ave @ Francis St (eastbound),"L/Livingston Commuter, T/Turlock Commuter"
+10,768204,32,Walnut Ave @ Hammatt Ave (eastbound),"L/Livingston Commuter, T/Turlock Commuter"
+10,768205,33,Walnut Ave @ Dwight Way (eastbound),L/Livingston Commuter
+10,768207,34,Walnut Ave @ Barbera Ave (eastbound),L/Livingston Commuter
+10,768410,35,Center @ Walnut/Winton Library (southbound),L/Livingston Commuter
+10,768193,36,Hospital Ave @ Castle Clinic (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, L/Livingston Commuter, W1/Winton Commuter"
+10,835001,37,Castle H.S.A.,"A1/Atwater Loop, L/Livingston Commuter, W1/Winton Commuter"
+10,768324,38,Wal-Mart (southbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+10,768522,39,Devonwood Dr @ Dogwood (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+10,781906,40,Meadows @ Olivewood (to First Christian Church),"L/Livingston Commuter, W2/Winton Commuter North"
+10,768519,41,Meadows @ Olive Merced Meadows Apts,"L/Livingston Commuter, W2/Winton Commuter North"
+10,768552,42,R St @ Olive/Sears (northbound),"L/Livingston Commuter, W2/Winton Commuter North"
+10,768537,43,Loughborough @ Target/Mall (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, W2/Winton Commuter North"
+10,768531,44,Loughborough @ Laurel Glen Apts (eastbound),"L/Livingston Commuter, M3/M Street Shuttle, W2/Winton Commuter North"
+10,768524,45,M St @ Village Apts (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+10,768515,46,M St @ Donna (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+10,768525,47,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+11,768582,1,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+11,768639,2,El Nido Grocery (southbound),LB/Los Banos Commuter
+11,768634,3,Dos Palos Y Chevron Station,"DP/Dos Palos Link, LB/Los Banos Commuter"
+11,844204,4,Food 4 Less / Dollar Tree,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+11,781950,5,F St @ 4th/County Offices,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+11,768607,6,Los Banos Community Center,"DP/Dos Palos Link, G/Gustine Link, H/Hilmar Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+11,768597,7,Los Banos Memorial Hospital (westbound),"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+11,768610,8,Merced College/Los Banos Campus,"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+11,768627,9,Wal Mart - Los Banos,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+11,768596,10,Los Banos Memorial Hospital (eastbound),"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+11,781950,11,F St @ 4th/County Offices,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+11,768607,12,Los Banos Community Center,"DP/Dos Palos Link, G/Gustine Link, H/Hilmar Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+11,844204,13,Food 4 Less / Dollar Tree,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+11,781952,14,Y Chevron (to Dos Palos),"DP/Dos Palos Link, LB/Los Banos Commuter"
+11,768638,15,El Nido Grocery (northbound),LB/Los Banos Commuter
+11,768583,16,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+12,768582,1,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+12,768639,2,El Nido Grocery (southbound),LB/Los Banos Commuter
+12,768634,3,Dos Palos Y Chevron Station,"DP/Dos Palos Link, LB/Los Banos Commuter"
+12,844204,4,Food 4 Less / Dollar Tree,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+12,781950,5,F St @ 4th/County Offices,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+12,768607,6,Los Banos Community Center,"DP/Dos Palos Link, G/Gustine Link, H/Hilmar Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+12,768597,7,Los Banos Memorial Hospital (westbound),"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+12,768610,8,Merced College/Los Banos Campus,"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB/Los Banos Commuter"
+12,768627,9,Wal Mart - Los Banos,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+12,768596,10,Los Banos Memorial Hospital (eastbound),"DP/Dos Palos Link, G/Gustine Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+12,781950,11,F St @ 4th/County Offices,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+12,768607,12,Los Banos Community Center,"DP/Dos Palos Link, G/Gustine Link, H/Hilmar Link, LB1/Pacheco Route, LB2/Los Banos Crosstown, LB/Los Banos Commuter"
+12,844204,13,Food 4 Less / Dollar Tree,"DP/Dos Palos Link, G/Gustine Link, LB/Los Banos Commuter"
+12,781952,14,Y Chevron (to Dos Palos),"DP/Dos Palos Link, LB/Los Banos Commuter"
+12,768638,15,El Nido Grocery (northbound),LB/Los Banos Commuter
+12,768583,16,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+13,768587,1,Gallo Rec and Wellness Ctr,UC/Merced
+13,768417,2,Scholars @ Emigrant,UC/Merced
+13,768569,3,Yosemite @ Perch (westbound),UC/Merced
+13,768572,4,Yosemite Av @ Chapparal (westbound),UC/Merced
+13,768574,5,Yosemite Av @ Parsons (westbound),UC/Merced
+13,768588,6,Yosemite Av @ Dove,UC/Merced
+13,768589,7,Yosemite Av @ Paulson,UC/Merced
+13,768514,8,Mansionette @ Redwing/St Patricks Temporary stop,UC/Merced
+13,768510,9,Mansionette @ Kingfisher,UC/Merced
+13,768530,10,Mercy Medical Center,"M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced"
+13,768477,11,G St @ University/Tri College Center,"M4/G Street Shuttle, UC/Merced"
+13,768590,12,Yosemite Av @ Steamboat,UC/Merced
+13,768525,13,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+13,768507,14,M St @ Yosemite Av,"M1/Merced West, UC/Merced"
+13,768490,15,M St @ Donna (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+13,768499,16,M St @ Villages Apts (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+13,768500,17,M St @ Fairfield,UC/Merced
+13,768497,18,Social Security Office (southbound),"M3/M Street Shuttle, UC/Merced"
+13,768495,19,M St @ N. Bear Creek (southbound),UC/Merced
+13,781921,20,K St @ 24th St,UC/Merced
+13,781922,21,24th @ MLK/Amtrak,UC/Merced
+13,768303,22,K St @ 21st (southbound),"M5/Merced South-East, UC/Merced"
+13,768304,23,K St @ 18th/ MCAG (southbound),"M5/Merced South-East, UC/Merced"
+13,768582,24,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+13,768479,25,K St @ 18th/ MCAG (northbound),"M5/Merced South-East, UC/Merced"
+13,768483,26,K St @ 21st (northbound),"M5/Merced South-East, UC/Merced"
+13,768513,27,Amtrak,"M5/Merced South-East, UC/Merced"
+13,768508,28,M St @ Social Security Office (northbound),"M3/M Street Shuttle, UC/Merced"
+13,768503,29,M St @ Fairfield/Hylond,UC/Merced
+13,768524,30,M St @ Village Apts (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+13,768515,31,M St @ Donna (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+13,768525,32,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+13,768585,33,UC Merced Parking Lot (Merced College),UC/Merced
+13,768530,34,Mercy Medical Center,"M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced"
+13,768571,35,Yosemite Av @ Paulson (eastbound),"M3/M Street Shuttle, UC/Merced"
+13,768568,36,Yosemite Av @ Parsons (eastbound),UC/Merced
+13,768573,37,Yosemite Ave @ Perch (eastbound),UC/Merced
+13,768586,38,Scholars at Mammoth Lks.,UC/Merced
+13,768587,39,Gallo Rec and Wellness Ctr,UC/Merced
+14,768582,1,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+14,768479,2,K St @ 18th/ MCAG (northbound),"M5/Merced South-East, UC/Merced"
+14,768483,3,K St @ 21st (northbound),"M5/Merced South-East, UC/Merced"
+14,768513,4,Amtrak,"M5/Merced South-East, UC/Merced"
+14,781911,5,K St @ 23rd,M5/Merced South-East
+14,768461,6,21st @ G St (eastbound),M5/Merced South-East
+14,768462,7,21st @ Glen (eastbound),M5/Merced South-East
+14,768457,8,21st @ Cherry (eastbound),M5/Merced South-East
+14,768465,9,21st @ Yosemite Pkwy (eastbound),M5/Merced South-East
+14,768308,10,Parsons St @ Yosemite Pkwy/Rancho San Miguel (soutbound),M5/Merced South-East
+14,768309,11,Parsons @ Golden Valley HS (southbound),M5/Merced South-East
+14,768512,12,Childs @ Manzanita/Golden Valley HS (eastbound),M5/Merced South-East
+14,768518,13,Childs @ Watertown (eastbound),M5/Merced South-East
+14,768532,14,Gerard @ Coffee/Pioneer Elementary (westbound),M5/Merced South-East
+14,768538,15,Gerard @ Laughlin (westbound),M5/Merced South-East
+14,768535,16,Villa Estates MHP (westbound),M5/Merced South-East
+14,768486,17,Gerard @ Parsons/Cal Storage,M5/Merced South-East
+14,768543,18,Parsons @ The Grove,M5/Merced South-East
+14,768544,19,Parsons @ Childs/ Holiday Inn (northbound),M5/Merced South-East
+14,768546,20,Parsons @ Golden Valley HS (northbound),M5/Merced South-East
+14,768305,21,Merced Ave @ Marthella (to Transpo),M5/Merced South-East
+14,768306,22,Motel Dr @ Merced Ave (to Transpo),M5/Merced South-East
+14,768307,23,Motel Dr @ Courtyard by Marriot (to Transpo)),M5/Merced South-East
+14,768310,24,Yosemite Pkwy @ Cypress (to Transpo),M5/Merced South-East
+14,768311,25,Yosemite Pkwy @ Rose (to Transpo),M5/Merced South-East
+14,768312,26,Yosemite Pkwy @ Shirley (to Transpo),M5/Merced South-East
+14,768313,27,Yosemite Pkwy @ Carol (to Transpo),M5/Merced South-East
+14,768466,28,21st & Yosemite Pkwy (westbound),M5/Merced South-East
+14,768468,29,21st @ Cherry (westbound),M5/Merced South-East
+14,768473,30,21st @ Orchard (westbound),M5/Merced South-East
+14,768328,31,21st @ G ST (westbound),M5/Merced South-East
+14,768302,32,Amtrak (To Transpo),M5/Merced South-East
+14,768303,33,K St @ 21st (southbound),"M5/Merced South-East, UC/Merced"
+14,768304,34,K St @ 18th/ MCAG (southbound),"M5/Merced South-East, UC/Merced"
+14,768582,35,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+15,768582,1,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+15,768479,2,K St @ 18th/ MCAG (northbound),"M5/Merced South-East, UC/Merced"
+15,768483,3,K St @ 21st (northbound),"M5/Merced South-East, UC/Merced"
+15,768513,4,Amtrak,"M5/Merced South-East, UC/Merced"
+15,781911,5,K St @ 23rd,M5/Merced South-East
+15,768461,6,21st @ G St (eastbound),M5/Merced South-East
+15,768462,7,21st @ Glen (eastbound),M5/Merced South-East
+15,768457,8,21st @ Cherry (eastbound),M5/Merced South-East
+15,768465,9,21st @ Yosemite Pkwy (eastbound),M5/Merced South-East
+15,768308,10,Parsons St @ Yosemite Pkwy/Rancho San Miguel (soutbound),M5/Merced South-East
+15,768309,11,Parsons @ Golden Valley HS (southbound),M5/Merced South-East
+15,768512,12,Childs @ Manzanita/Golden Valley HS (eastbound),M5/Merced South-East
+15,768518,13,Childs @ Watertown (eastbound),M5/Merced South-East
+15,768532,14,Gerard @ Coffee/Pioneer Elementary (westbound),M5/Merced South-East
+15,768538,15,Gerard @ Laughlin (westbound),M5/Merced South-East
+15,768535,16,Villa Estates MHP (westbound),M5/Merced South-East
+15,768486,17,Gerard @ Parsons/Cal Storage,M5/Merced South-East
+15,768543,18,Parsons @ The Grove,M5/Merced South-East
+15,768544,19,Parsons @ Childs/ Holiday Inn (northbound),M5/Merced South-East
+15,768546,20,Parsons @ Golden Valley HS (northbound),M5/Merced South-East
+15,768305,21,Merced Ave @ Marthella (to Transpo),M5/Merced South-East
+15,768306,22,Motel Dr @ Merced Ave (to Transpo),M5/Merced South-East
+15,768307,23,Motel Dr @ Courtyard by Marriot (to Transpo)),M5/Merced South-East
+15,768310,24,Yosemite Pkwy @ Cypress (to Transpo),M5/Merced South-East
+15,768311,25,Yosemite Pkwy @ Rose (to Transpo),M5/Merced South-East
+15,768312,26,Yosemite Pkwy @ Shirley (to Transpo),M5/Merced South-East
+15,768313,27,Yosemite Pkwy @ Carol (to Transpo),M5/Merced South-East
+15,768466,28,21st & Yosemite Pkwy (westbound),M5/Merced South-East
+15,768468,29,21st @ Cherry (westbound),M5/Merced South-East
+15,768473,30,21st @ Orchard (westbound),M5/Merced South-East
+15,768328,31,21st @ G ST (westbound),M5/Merced South-East
+15,768302,32,Amtrak (To Transpo),M5/Merced South-East
+15,768303,33,K St @ 21st (southbound),"M5/Merced South-East, UC/Merced"
+15,768304,34,K St @ 18th/ MCAG (southbound),"M5/Merced South-East, UC/Merced"
+15,768582,35,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+16,768584,1,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+16,768450,2,18th @ P St (westbound),"M1/Merced West, M2/R Street Shuttle"
+16,768458,3,18th @ S St / EDD (westbound),M1/Merced West
+16,768475,4,Hwy 59 @ Riviera Holiday Mobile Estates (northbound),"M1/Merced West, W1/Winton Commuter"
+16,768341,5,Hwy 59 @ willowbrook (northbound),"M1/Merced West, W1/Winton Commuter"
+16,768321,6,Buena Vista Plaza (north/south bound),M1/Merced West
+16,768293,7,R St @ Donna Dr (northbound),M1/Merced West
+16,781953,8,El Redondo Dr @ Jenner Dr,"M1/Merced West, M2/R Street Shuttle"
+16,781954,9,Village Terrace Landing Apts,"M1/Merced West, M2/R Street Shuttle"
+16,768525,10,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+16,768507,11,M St @ Yosemite Av,"M1/Merced West, UC/Merced"
+16,768490,12,M St @ Donna (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+16,768499,13,M St @ Villages Apts (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+16,781912,14,Loughborough Dr & M St,"M1/Merced West, M3/M Street Shuttle"
+16,768553,15,Loughborough Dr @ Laurel Glen Apts (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+16,768547,16,Loughborough @ Target/Merced Mall (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+16,768362,17,Loughborough @ Village Meadow Apts (westbound),M1/Merced West
+16,768360,18,Meadows @ Olive (southbound),"M1/Merced West, M3/M Street Shuttle"
+16,768322,19,Wal-Mart (northbound),"L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, W2/Winton Commuter North"
+16,768536,20,Olivewood Dr. @ R St (southbound),"M1/Merced West, M2/R Street Shuttle"
+16,768278,21,R St @ 23rd St (southbound),"M1/Merced West, M2/R Street Shuttle"
+16,768247,22,18th St @ S St/ EDD (eastbound),M1/Merced West
+16,768449,23,18th @ P St (eastbound),M1/Merced West
+16,768253,24,18th St @ N St (eastbound),M1/Merced West
+16,768582,25,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+16,781932,26,W 15th @ P St,M1/Merced West
+16,768279,27,R St @ 12th St (southbound),M1/Merced West
+16,781933,28,R St @ 10th,M1/Merced West
+16,768295,29,R St @ 8th St (southbound),M1/Merced West
+16,768509,30,8th St @ T St (westbound),M1/Merced West
+16,768506,31,8th @ V St (westbound),M1/Merced West
+16,768570,32,V St @ 10th (northbound),M1/Merced West
+16,768419,33,11th @ W St (westbound),M1/Merced West
+16,768160,34,Hwy 140 @ Dollar General (westbound),M1/Merced West
+16,768528,35,Lopes @ Linda (eastbound),M1/Merced West
+16,768245,36,West Ave @ 7th St (southbound),M1/Merced West
+16,768517,37,West Av @ 4th (southbound),M1/Merced West
+16,835719,38,T St. @ 3rd St.,M1/Merced West
+16,768557,39,R St @ 4th (northbound),M1/Merced West
+16,768561,40,R St @ 8th (northbound),M1/Merced West
+16,781935,41,DMV,M1/Merced West
+16,768584,42,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+17,768584,1,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+17,768450,2,18th @ P St (westbound),"M1/Merced West, M2/R Street Shuttle"
+17,768458,3,18th @ S St / EDD (westbound),M1/Merced West
+17,768475,4,Hwy 59 @ Riviera Holiday Mobile Estates (northbound),"M1/Merced West, W1/Winton Commuter"
+17,768341,5,Hwy 59 @ willowbrook (northbound),"M1/Merced West, W1/Winton Commuter"
+17,768321,6,Buena Vista Plaza (north/south bound),M1/Merced West
+17,768293,7,R St @ Donna Dr (northbound),M1/Merced West
+17,781953,8,El Redondo Dr @ Jenner Dr,"M1/Merced West, M2/R Street Shuttle"
+17,781954,9,Village Terrace Landing Apts,"M1/Merced West, M2/R Street Shuttle"
+17,768525,10,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+17,768507,11,M St @ Yosemite Av,"M1/Merced West, UC/Merced"
+17,768490,12,M St @ Donna (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+17,768499,13,M St @ Villages Apts (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+17,781912,14,Loughborough Dr & M St,"M1/Merced West, M3/M Street Shuttle"
+17,768553,15,Loughborough Dr @ Laurel Glen Apts (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+17,768547,16,Loughborough @ Target/Merced Mall (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+17,768362,17,Loughborough @ Village Meadow Apts (westbound),M1/Merced West
+17,768360,18,Meadows @ Olive (southbound),"M1/Merced West, M3/M Street Shuttle"
+17,768322,19,Wal-Mart (northbound),"L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, W2/Winton Commuter North"
+17,768536,20,Olivewood Dr. @ R St (southbound),"M1/Merced West, M2/R Street Shuttle"
+17,768278,21,R St @ 23rd St (southbound),"M1/Merced West, M2/R Street Shuttle"
+17,768247,22,18th St @ S St/ EDD (eastbound),M1/Merced West
+17,768449,23,18th @ P St (eastbound),M1/Merced West
+17,768253,24,18th St @ N St (eastbound),M1/Merced West
+17,768582,25,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+17,781932,26,W 15th @ P St,M1/Merced West
+17,768279,27,R St @ 12th St (southbound),M1/Merced West
+17,781933,28,R St @ 10th,M1/Merced West
+17,768295,29,R St @ 8th St (southbound),M1/Merced West
+17,768509,30,8th St @ T St (westbound),M1/Merced West
+17,768506,31,8th @ V St (westbound),M1/Merced West
+17,768570,32,V St @ 10th (northbound),M1/Merced West
+17,768419,33,11th @ W St (westbound),M1/Merced West
+17,768160,34,Hwy 140 @ Dollar General (westbound),M1/Merced West
+17,768528,35,Lopes @ Linda (eastbound),M1/Merced West
+17,768245,36,West Ave @ 7th St (southbound),M1/Merced West
+17,768517,37,West Av @ 4th (southbound),M1/Merced West
+17,835719,38,T St. @ 3rd St.,M1/Merced West
+17,768557,39,R St @ 4th (northbound),M1/Merced West
+17,768561,40,R St @ 8th (northbound),M1/Merced West
+17,781935,41,DMV,M1/Merced West
+17,768584,42,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+18,768582,1,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+18,768496,2,M St @ 19th (northbound),M3/M Street Shuttle
+18,768498,3,M St @ 22nd/County Offices (northbound),"LB/Los Banos Commuter, M3/M Street Shuttle"
+18,768501,4,M St @ 26th (northbound),M3/M Street Shuttle
+18,768508,5,M St @ Social Security Office (northbound),"M3/M Street Shuttle, UC/Merced"
+18,781936,6,Meadows @ Olive,M3/M Street Shuttle
+18,768534,7,Loughborough @village Meadow apts (eastbound),"M2/R Street Shuttle, M3/M Street Shuttle"
+18,768537,8,Loughborough @ Target/Mall (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, W2/Winton Commuter North"
+18,768531,9,Loughborough @ Laurel Glen Apts (eastbound),"L/Livingston Commuter, M3/M Street Shuttle, W2/Winton Commuter North"
+18,781937,10,Loughborough Dr @ M St,"M2/R Street Shuttle, M3/M Street Shuttle"
+18,768524,11,M St @ Village Apts (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+18,768515,12,M St @ Donna (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+18,768525,13,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+18,768326,14,Yosemite Ave @ G st (eastbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+18,768315,15,Yosemite Ave @ Cordova Ave (eastbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+18,768571,16,Yosemite Av @ Paulson (eastbound),"M3/M Street Shuttle, UC/Merced"
+18,768317,17,Mercy Ave @ Paulson Rd (westbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+18,768530,18,Mercy Medical Center,"M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced"
+18,768490,19,M St @ Donna (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+18,768499,20,M St @ Villages Apts (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+18,781912,21,Loughborough Dr & M St,"M1/Merced West, M3/M Street Shuttle"
+18,768553,22,Loughborough Dr @ Laurel Glen Apts (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+18,768547,23,Loughborough @ Target/Merced Mall (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+18,768360,24,Meadows @ Olive (southbound),"M1/Merced West, M3/M Street Shuttle"
+18,768497,25,Social Security Office (southbound),"M3/M Street Shuttle, UC/Merced"
+18,768480,26,M St @ 26th (southbound),M3/M Street Shuttle
+18,768476,27,M St @ 22nd/Merced County Offices (southbound),"LB/Los Banos Commuter, M3/M Street Shuttle"
+18,768491,28,M St @ Main (southbound),M3/M Street Shuttle
+18,768582,29,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+18,768521,30,O St @ 15th (southbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+18,768472,31,M St @ 12th (southbound),M3/M Street Shuttle
+18,768484,32,M St @ 8th (southbound),M3/M Street Shuttle
+18,768487,33,M St @ Childs (southbound),M3/M Street Shuttle
+18,768564,34,R St @ Childs (northbound),M3/M Street Shuttle
+18,768297,35,S St @ 2nd St (westbound),M3/M Street Shuttle
+18,768516,36,West Av @ 1st (southbound),M3/M Street Shuttle
+18,768551,37,Q St @ 3rd (northbound),M3/M Street Shuttle
+18,768492,38,4th @ P St (eastbound),M3/M Street Shuttle
+18,781928,39,N St @ Childs,M3/M Street Shuttle
+18,781929,40,M St @ Trudy Way,M3/M Street Shuttle
+18,768511,41,M St @ Childs (northbound),M3/M Street Shuttle
+18,768504,42,M St @ 8th (northbound),M3/M Street Shuttle
+18,768541,43,O St @ 15th (northbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+18,768582,44,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+19,768582,1,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+19,768496,2,M St @ 19th (northbound),M3/M Street Shuttle
+19,768498,3,M St @ 22nd/County Offices (northbound),"LB/Los Banos Commuter, M3/M Street Shuttle"
+19,768501,4,M St @ 26th (northbound),M3/M Street Shuttle
+19,768508,5,M St @ Social Security Office (northbound),"M3/M Street Shuttle, UC/Merced"
+19,781936,6,Meadows @ Olive,M3/M Street Shuttle
+19,768534,7,Loughborough @village Meadow apts (eastbound),"M2/R Street Shuttle, M3/M Street Shuttle"
+19,768537,8,Loughborough @ Target/Mall (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, W2/Winton Commuter North"
+19,768531,9,Loughborough @ Laurel Glen Apts (eastbound),"L/Livingston Commuter, M3/M Street Shuttle, W2/Winton Commuter North"
+19,781937,10,Loughborough Dr @ M St,"M2/R Street Shuttle, M3/M Street Shuttle"
+19,768524,11,M St @ Village Apts (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+19,768515,12,M St @ Donna (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+19,768525,13,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+19,768326,14,Yosemite Ave @ G st (eastbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+19,768315,15,Yosemite Ave @ Cordova Ave (eastbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+19,768571,16,Yosemite Av @ Paulson (eastbound),"M3/M Street Shuttle, UC/Merced"
+19,768317,17,Mercy Ave @ Paulson Rd (westbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+19,768530,18,Mercy Medical Center,"M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced"
+19,768490,19,M St @ Donna (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+19,768499,20,M St @ Villages Apts (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+19,781912,21,Loughborough Dr & M St,"M1/Merced West, M3/M Street Shuttle"
+19,768553,22,Loughborough Dr @ Laurel Glen Apts (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+19,768547,23,Loughborough @ Target/Merced Mall (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+19,768360,24,Meadows @ Olive (southbound),"M1/Merced West, M3/M Street Shuttle"
+19,768497,25,Social Security Office (southbound),"M3/M Street Shuttle, UC/Merced"
+19,768480,26,M St @ 26th (southbound),M3/M Street Shuttle
+19,768476,27,M St @ 22nd/Merced County Offices (southbound),"LB/Los Banos Commuter, M3/M Street Shuttle"
+19,768491,28,M St @ Main (southbound),M3/M Street Shuttle
+19,768582,29,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+19,768521,30,O St @ 15th (southbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+19,768472,31,M St @ 12th (southbound),M3/M Street Shuttle
+19,768484,32,M St @ 8th (southbound),M3/M Street Shuttle
+19,768487,33,M St @ Childs (southbound),M3/M Street Shuttle
+19,768564,34,R St @ Childs (northbound),M3/M Street Shuttle
+19,768297,35,S St @ 2nd St (westbound),M3/M Street Shuttle
+19,768516,36,West Av @ 1st (southbound),M3/M Street Shuttle
+19,768551,37,Q St @ 3rd (northbound),M3/M Street Shuttle
+19,768492,38,4th @ P St (eastbound),M3/M Street Shuttle
+19,781928,39,N St @ Childs,M3/M Street Shuttle
+19,781929,40,M St @ Trudy Way,M3/M Street Shuttle
+19,768511,41,M St @ Childs (northbound),M3/M Street Shuttle
+19,768504,42,M St @ 8th (northbound),M3/M Street Shuttle
+19,768541,43,O St @ 15th (northbound),"M3/M Street Shuttle, M4/G Street Shuttle"
+19,768582,44,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+20,768584,1,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+20,768452,2,G St @ East Campus (northbound),"M4/G Street Shuttle, M6/North"
+20,768428,3,G St @ 21st (northbound),"M4/G Street Shuttle, M6/North"
+20,768431,4,G St @ 23rd (northbound),"M4/G Street Shuttle, M6/North"
+20,768485,5,26th @ 4th Av (westbound),M6/North
+20,768481,6,26th @ Glen (eastbound),M6/North
+20,768423,7,27th @ Glen,M6/North
+20,768426,8,27th @ Green),M6/North
+20,768430,9,27th @ Parsons,M6/North
+20,768567,10,Stretch @ Parsons,M6/North
+20,768563,11,Stretch @ Green,M6/North
+20,768556,12,Santa Fe @ Reef Apts,M6/North
+20,768493,13,26th @ Glen (westbound),M6/North
+20,768488,14,26th @ 7th/Hoover MS (westbound),M6/North
+20,768470,15,26th @ 4th Av (eastbound),M6/North
+20,768433,16,G St @ 26th (northbound),"M4/G Street Shuttle, M6/North"
+20,768440,17,G St @ Alpine (northbound),M6/North
+20,768439,18,Alexander @ G St,M6/North
+20,768436,19,Alexander @ Aspen,M6/North
+20,768539,20,Parsons @ Alexander,M6/North
+20,768471,21,G St @ Olive/Save Mart,"M4/G Street Shuttle, M6/North"
+20,768441,22,G St @ Alexander (southbound),"M4/G Street Shuttle, M6/North"
+20,768474,23,G St @ Park Av,"M4/G Street Shuttle, M6/North"
+20,768453,24,G St @ N. Bear Creek Dr (southbound),"M4/G Street Shuttle, M6/North"
+20,768438,25,G St @ 26th (southbound),"M4/G Street Shuttle, M6/North"
+20,768434,26,G St @ 23rd (southbound),"M4/G Street Shuttle, M6/North"
+20,768432,27,G St @ 21st (southbound),"M4/G Street Shuttle, M6/North"
+20,768584,28,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+21,768584,1,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+21,768452,2,G St @ East Campus (northbound),"M4/G Street Shuttle, M6/North"
+21,768428,3,G St @ 21st (northbound),"M4/G Street Shuttle, M6/North"
+21,768431,4,G St @ 23rd (northbound),"M4/G Street Shuttle, M6/North"
+21,768485,5,26th @ 4th Av (westbound),M6/North
+21,768481,6,26th @ Glen (eastbound),M6/North
+21,768423,7,27th @ Glen,M6/North
+21,768426,8,27th @ Green),M6/North
+21,768430,9,27th @ Parsons,M6/North
+21,768567,10,Stretch @ Parsons,M6/North
+21,768563,11,Stretch @ Green,M6/North
+21,768556,12,Santa Fe @ Reef Apts,M6/North
+21,768493,13,26th @ Glen (westbound),M6/North
+21,768488,14,26th @ 7th/Hoover MS (westbound),M6/North
+21,768470,15,26th @ 4th Av (eastbound),M6/North
+21,768433,16,G St @ 26th (northbound),"M4/G Street Shuttle, M6/North"
+21,768440,17,G St @ Alpine (northbound),M6/North
+21,768439,18,Alexander @ G St,M6/North
+21,768436,19,Alexander @ Aspen,M6/North
+21,768539,20,Parsons @ Alexander,M6/North
+21,768471,21,G St @ Olive/Save Mart,"M4/G Street Shuttle, M6/North"
+21,768441,22,G St @ Alexander (southbound),"M4/G Street Shuttle, M6/North"
+21,768474,23,G St @ Park Av,"M4/G Street Shuttle, M6/North"
+21,768453,24,G St @ N. Bear Creek Dr (southbound),"M4/G Street Shuttle, M6/North"
+21,768438,25,G St @ 26th (southbound),"M4/G Street Shuttle, M6/North"
+21,768434,26,G St @ 23rd (southbound),"M4/G Street Shuttle, M6/North"
+21,768432,27,G St @ 21st (southbound),"M4/G Street Shuttle, M6/North"
+21,768584,28,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+22,768584,1,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+22,768577,2,Yosemite Pkwy @ Cypress (eastbound),P/Planada Commuter
+22,768579,3,Yosemite Pkwy @ Rose (eastbound),P/Planada Commuter
+22,768271,4,Yosemite Pkwy @ Shirley St (eastbound),P/Planada Commuter
+22,768575,5,Yosemite Pkwy @ Carol (eastbound),P/Planada Commuter
+22,768272,6,Kibby Rd @ Hwy 140,P/Planada Commuter
+22,781955,7,Felix Torres Housing,P/Planada Commuter
+22,768258,8,Gage St @ Hwy 140 (southbound),P/Planada Commuter
+22,768259,9,Stanford Ave @ Sutter / El Mercado (eastbound),P/Planada Commuter
+22,768260,10,Bigler Dr @ Vallejo St (southeast bound),P/Planada Commuter
+22,768261,11,Haskell Ave @ Fancher St (eastbound),P/Planada Commuter
+22,768262,12,Broadway @ Cabrillo St (westbound),P/Planada Commuter
+22,768643,13,Planada/Golden Valley Clinic (to Le Grand),P/Planada Commuter
+22,768263,14,Crispi Dr @ Topeka St (southbound),P/Planada Commuter
+22,768274,15,McDowell St @ Truman Ave (westbound),P/Planada Commuter
+22,768334,16,Washington St @ Jackson (eastbound),P/Planada Commuter
+22,768640,17,Jefferson @ Le Grand/Community Ctr,P/Planada Commuter
+22,768641,18,Le Grand @ Washington,P/Planada Commuter
+22,768266,19,Crispi Dr @ Topeka St (northbound),P/Planada Commuter
+22,768644,20,Planada/Golden Valley Clinic (to Merced),P/Planada Commuter
+22,768267,21,Broaway @ Cabrillo St (eastbound),P/Planada Commuter
+22,768268,22,Haskell Ave @ Fancher St (westbound),P/Planada Commuter
+22,768269,23,Bigler Dr @ Vallejo St (northwest bound),P/Planada Commuter
+22,768642,24,Sutter @ El Mercado (to Merced),P/Planada Commuter
+22,768270,25,Gage St @ Hwy 140 (northbound),P/Planada Commuter
+22,781955,26,Felix Torres Housing,P/Planada Commuter
+22,768275,27,Hwy 140 @ Kibby Rd (westbound),P/Planada Commuter
+22,768580,28,Yosemite Pkwy @ Murthella (westbound),P/Planada Commuter
+22,768576,29,Yosemite Pkwy @ Jean (westbound),P/Planada Commuter
+22,768578,30,Yosemite Pkwy @ Laurel (westbound),P/Planada Commuter
+22,768584,31,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+23,768584,1,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+23,768577,2,Yosemite Pkwy @ Cypress (eastbound),P/Planada Commuter
+23,768579,3,Yosemite Pkwy @ Rose (eastbound),P/Planada Commuter
+23,768271,4,Yosemite Pkwy @ Shirley St (eastbound),P/Planada Commuter
+23,768575,5,Yosemite Pkwy @ Carol (eastbound),P/Planada Commuter
+23,768272,6,Kibby Rd @ Hwy 140,P/Planada Commuter
+23,781955,7,Felix Torres Housing,P/Planada Commuter
+23,768258,8,Gage St @ Hwy 140 (southbound),P/Planada Commuter
+23,768259,9,Stanford Ave @ Sutter / El Mercado (eastbound),P/Planada Commuter
+23,768260,10,Bigler Dr @ Vallejo St (southeast bound),P/Planada Commuter
+23,768261,11,Haskell Ave @ Fancher St (eastbound),P/Planada Commuter
+23,768262,12,Broadway @ Cabrillo St (westbound),P/Planada Commuter
+23,768643,13,Planada/Golden Valley Clinic (to Le Grand),P/Planada Commuter
+23,768263,14,Crispi Dr @ Topeka St (southbound),P/Planada Commuter
+23,768274,15,McDowell St @ Truman Ave (westbound),P/Planada Commuter
+23,768334,16,Washington St @ Jackson (eastbound),P/Planada Commuter
+23,768640,17,Jefferson @ Le Grand/Community Ctr,P/Planada Commuter
+23,768641,18,Le Grand @ Washington,P/Planada Commuter
+23,768266,19,Crispi Dr @ Topeka St (northbound),P/Planada Commuter
+23,768644,20,Planada/Golden Valley Clinic (to Merced),P/Planada Commuter
+23,768267,21,Broaway @ Cabrillo St (eastbound),P/Planada Commuter
+23,768268,22,Haskell Ave @ Fancher St (westbound),P/Planada Commuter
+23,768269,23,Bigler Dr @ Vallejo St (northwest bound),P/Planada Commuter
+23,768642,24,Sutter @ El Mercado (to Merced),P/Planada Commuter
+23,768270,25,Gage St @ Hwy 140 (northbound),P/Planada Commuter
+23,781955,26,Felix Torres Housing,P/Planada Commuter
+23,768275,27,Hwy 140 @ Kibby Rd (westbound),P/Planada Commuter
+23,768580,28,Yosemite Pkwy @ Murthella (westbound),P/Planada Commuter
+23,768576,29,Yosemite Pkwy @ Jean (westbound),P/Planada Commuter
+23,768578,30,Yosemite Pkwy @ Laurel (westbound),P/Planada Commuter
+23,768584,31,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+24,768584,1,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+24,768577,2,Yosemite Pkwy @ Cypress (eastbound),P/Planada Commuter
+24,768579,3,Yosemite Pkwy @ Rose (eastbound),P/Planada Commuter
+24,768271,4,Yosemite Pkwy @ Shirley St (eastbound),P/Planada Commuter
+24,768575,5,Yosemite Pkwy @ Carol (eastbound),P/Planada Commuter
+24,768272,6,Kibby Rd @ Hwy 140,P/Planada Commuter
+24,781955,7,Felix Torres Housing,P/Planada Commuter
+24,768258,8,Gage St @ Hwy 140 (southbound),P/Planada Commuter
+24,768259,9,Stanford Ave @ Sutter / El Mercado (eastbound),P/Planada Commuter
+24,768260,10,Bigler Dr @ Vallejo St (southeast bound),P/Planada Commuter
+24,768261,11,Haskell Ave @ Fancher St (eastbound),P/Planada Commuter
+24,768262,12,Broadway @ Cabrillo St (westbound),P/Planada Commuter
+24,768643,13,Planada/Golden Valley Clinic (to Le Grand),P/Planada Commuter
+24,768263,14,Crispi Dr @ Topeka St (southbound),P/Planada Commuter
+24,768274,15,McDowell St @ Truman Ave (westbound),P/Planada Commuter
+24,768334,16,Washington St @ Jackson (eastbound),P/Planada Commuter
+24,768640,17,Jefferson @ Le Grand/Community Ctr,P/Planada Commuter
+24,768641,18,Le Grand @ Washington,P/Planada Commuter
+24,768266,19,Crispi Dr @ Topeka St (northbound),P/Planada Commuter
+24,768644,20,Planada/Golden Valley Clinic (to Merced),P/Planada Commuter
+24,768267,21,Broaway @ Cabrillo St (eastbound),P/Planada Commuter
+24,768268,22,Haskell Ave @ Fancher St (westbound),P/Planada Commuter
+24,768269,23,Bigler Dr @ Vallejo St (northwest bound),P/Planada Commuter
+24,768642,24,Sutter @ El Mercado (to Merced),P/Planada Commuter
+24,768270,25,Gage St @ Hwy 140 (northbound),P/Planada Commuter
+24,781955,26,Felix Torres Housing,P/Planada Commuter
+24,768275,27,Hwy 140 @ Kibby Rd (westbound),P/Planada Commuter
+24,768580,28,Yosemite Pkwy @ Murthella (westbound),P/Planada Commuter
+24,768576,29,Yosemite Pkwy @ Jean (westbound),P/Planada Commuter
+24,768578,30,Yosemite Pkwy @ Laurel (westbound),P/Planada Commuter
+24,768584,31,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+25,768584,1,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+25,768450,2,18th @ P St (westbound),"M1/Merced West, M2/R Street Shuttle"
+25,768548,3,R St @ 23rd,M2/R Street Shuttle
+25,768292,4,Olivewood Dr. @ R St (westbound),M2/R Street Shuttle
+25,768523,5,Meadows @ Olivewood,"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+25,768529,6,Devondwood @ Dogwood (westbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+25,768322,7,Wal-Mart (northbound),"L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, W2/Winton Commuter North"
+25,768255,8,Loughborough Dr @ Austin Ave (eastbound),M2/R Street Shuttle
+25,768534,9,Loughborough @village Meadow apts (eastbound),"M2/R Street Shuttle, M3/M Street Shuttle"
+25,768537,10,Loughborough @ Target/Mall (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, W2/Winton Commuter North"
+25,781937,11,Loughborough Dr @ M St,"M2/R Street Shuttle, M3/M Street Shuttle"
+25,768524,12,M St @ Village Apts (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+25,768515,13,M St @ Donna (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+25,768525,14,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+25,781953,15,El Redondo Dr @ Jenner Dr,"M1/Merced West, M2/R Street Shuttle"
+25,781954,16,Village Terrace Landing Apts,"M1/Merced West, M2/R Street Shuttle"
+25,768554,17,R St @ Donna,M2/R Street Shuttle
+25,768550,18,R St @ Buena Vista/Black Rascal Bike Path,M2/R Street Shuttle
+25,768549,19,Loughborough Dr @ Village Meadow Apt (westbound),M2/R Street Shuttle
+25,768257,20,Loughborough Dr @ Austin Ave (westbound),M2/R Street Shuttle
+25,768324,21,Wal-Mart (southbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+25,768522,22,Devonwood Dr @ Dogwood (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+25,768527,23,Meadows Ave @ Olivewood (northbound),M2/R Street Shuttle
+25,768536,24,Olivewood Dr. @ R St (southbound),"M1/Merced West, M2/R Street Shuttle"
+25,768278,25,R St @ 23rd St (southbound),"M1/Merced West, M2/R Street Shuttle"
+25,768584,26,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+26,768584,1,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+26,768450,2,18th @ P St (westbound),"M1/Merced West, M2/R Street Shuttle"
+26,768548,3,R St @ 23rd,M2/R Street Shuttle
+26,768292,4,Olivewood Dr. @ R St (westbound),M2/R Street Shuttle
+26,768523,5,Meadows @ Olivewood,"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+26,768529,6,Devondwood @ Dogwood (westbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+26,768322,7,Wal-Mart (northbound),"L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, W2/Winton Commuter North"
+26,768255,8,Loughborough Dr @ Austin Ave (eastbound),M2/R Street Shuttle
+26,768534,9,Loughborough @village Meadow apts (eastbound),"M2/R Street Shuttle, M3/M Street Shuttle"
+26,768537,10,Loughborough @ Target/Mall (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, W2/Winton Commuter North"
+26,781937,11,Loughborough Dr @ M St,"M2/R Street Shuttle, M3/M Street Shuttle"
+26,768524,12,M St @ Village Apts (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+26,768515,13,M St @ Donna (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+26,768525,14,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+26,781953,15,El Redondo Dr @ Jenner Dr,"M1/Merced West, M2/R Street Shuttle"
+26,781954,16,Village Terrace Landing Apts,"M1/Merced West, M2/R Street Shuttle"
+26,768554,17,R St @ Donna,M2/R Street Shuttle
+26,768550,18,R St @ Buena Vista/Black Rascal Bike Path,M2/R Street Shuttle
+26,768549,19,Loughborough Dr @ Village Meadow Apt (westbound),M2/R Street Shuttle
+26,768257,20,Loughborough Dr @ Austin Ave (westbound),M2/R Street Shuttle
+26,768324,21,Wal-Mart (southbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+26,768522,22,Devonwood Dr @ Dogwood (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+26,768527,23,Meadows Ave @ Olivewood (northbound),M2/R Street Shuttle
+26,768536,24,Olivewood Dr. @ R St (southbound),"M1/Merced West, M2/R Street Shuttle"
+26,768278,25,R St @ 23rd St (southbound),"M1/Merced West, M2/R Street Shuttle"
+26,768584,26,Transpo (Outside),"M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M6/North, P/Planada Commuter"
+27,768583,1,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+27,768329,2,16th @ T st (NorthWest bound),"T/Turlock Commuter, W1/Winton Commuter"
+27,768398,3,Atwater Transpo (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, T/Turlock Commuter"
+27,768201,4,Walnut Ave @ Hammatt Ave (westbound),"L/Livingston Commuter, T/Turlock Commuter"
+27,768202,5,Walnut Ave @ Celia Dr (westbound),"L/Livingston Commuter, T/Turlock Commuter"
+27,781908,6,Main St @ Davis St,"L/Livingston Commuter, T/Turlock Commuter"
+27,768196,7,Main St @ B St (southbound),"L/Livingston Commuter, T/Turlock Commuter"
+27,781913,8,Winton Pkwy @ Joseph Gallo Ct,T/Turlock Commuter
+27,768281,9,4th St @ South Ave (northbound),T/Turlock Commuter
+27,768364,10,4th @ El Capitan (northbound),T/Turlock Commuter
+27,768282,11,Stephens St @ Locust St (southbound),T/Turlock Commuter
+27,768283,12,Schendel Ave @ Mimosa Ave (westbound),T/Turlock Commuter
+27,768284,13,Schendel Ave @ Driftwood Ave/Delhi HS (westbound),T/Turlock Commuter
+27,768285,14,Merced Ave @ Darren Ln (northbound),T/Turlock Commuter
+27,768276,15,Monte Vista Ave @ Country Side - Turlock (eastbound),T/Turlock Commuter
+27,768277,16,Rite Aid Monte Vista Ave & Crowell Rd. ,T/Turlock Commuter
+27,768335,17,Turlock Transpo (to Merced),"H/Hilmar Link, T/Turlock Commuter"
+27,768363,18,Fulkerth Shopping Center,T/Turlock Commuter
+27,768286,19,Merced Ave @ Darren Ln (southbound),T/Turlock Commuter
+27,768287,20,Schendel Ave @ Driftwood Ave/Delhi HS (eastbound),T/Turlock Commuter
+27,768288,21,Schendel Ave @ Mimosa Ave (eastbound),T/Turlock Commuter
+27,768289,22,Stephens St @ Acacia St (northbound),T/Turlock Commuter
+27,768290,23,4th @ El Capitan (southbound),T/Turlock Commuter
+27,768291,24,4th St @ South Ave (southbound),T/Turlock Commuter
+27,781909,25,Rancho San Miguel,"L/Livingston Commuter, T/Turlock Commuter"
+27,768344,26,Main @ Shopping Center (northbound),"L/Livingston Commuter, T/Turlock Commuter"
+27,781907,27,Main St @ Crowell St,"L/Livingston Commuter, T/Turlock Commuter"
+27,768203,28,Walnut Ave @ Francis St (eastbound),"L/Livingston Commuter, T/Turlock Commuter"
+27,768204,29,Walnut Ave @ Hammatt Ave (eastbound),"L/Livingston Commuter, T/Turlock Commuter"
+27,768346,30,Atwater Transpo (eastbound),"A1/Atwater Loop, T/Turlock Commuter"
+27,768333,31, 16th @ T st ( southeast bound),"T/Turlock Commuter, W1/Winton Commuter"
+27,768583,32,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+28,768583,1,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+28,768329,2,16th @ T st (NorthWest bound),"T/Turlock Commuter, W1/Winton Commuter"
+28,768398,3,Atwater Transpo (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, T/Turlock Commuter"
+28,768201,4,Walnut Ave @ Hammatt Ave (westbound),"L/Livingston Commuter, T/Turlock Commuter"
+28,768202,5,Walnut Ave @ Celia Dr (westbound),"L/Livingston Commuter, T/Turlock Commuter"
+28,781908,6,Main St @ Davis St,"L/Livingston Commuter, T/Turlock Commuter"
+28,768196,7,Main St @ B St (southbound),"L/Livingston Commuter, T/Turlock Commuter"
+28,781913,8,Winton Pkwy @ Joseph Gallo Ct,T/Turlock Commuter
+28,768281,9,4th St @ South Ave (northbound),T/Turlock Commuter
+28,768364,10,4th @ El Capitan (northbound),T/Turlock Commuter
+28,768282,11,Stephens St @ Locust St (southbound),T/Turlock Commuter
+28,768283,12,Schendel Ave @ Mimosa Ave (westbound),T/Turlock Commuter
+28,768284,13,Schendel Ave @ Driftwood Ave/Delhi HS (westbound),T/Turlock Commuter
+28,768285,14,Merced Ave @ Darren Ln (northbound),T/Turlock Commuter
+28,768276,15,Monte Vista Ave @ Country Side - Turlock (eastbound),T/Turlock Commuter
+28,768277,16,Rite Aid Monte Vista Ave & Crowell Rd. ,T/Turlock Commuter
+28,768335,17,Turlock Transpo (to Merced),"H/Hilmar Link, T/Turlock Commuter"
+28,768363,18,Fulkerth Shopping Center,T/Turlock Commuter
+28,768286,19,Merced Ave @ Darren Ln (southbound),T/Turlock Commuter
+28,768287,20,Schendel Ave @ Driftwood Ave/Delhi HS (eastbound),T/Turlock Commuter
+28,768288,21,Schendel Ave @ Mimosa Ave (eastbound),T/Turlock Commuter
+28,768289,22,Stephens St @ Acacia St (northbound),T/Turlock Commuter
+28,768290,23,4th @ El Capitan (southbound),T/Turlock Commuter
+28,768291,24,4th St @ South Ave (southbound),T/Turlock Commuter
+28,781909,25,Rancho San Miguel,"L/Livingston Commuter, T/Turlock Commuter"
+28,768344,26,Main @ Shopping Center (northbound),"L/Livingston Commuter, T/Turlock Commuter"
+28,781907,27,Main St @ Crowell St,"L/Livingston Commuter, T/Turlock Commuter"
+28,768203,28,Walnut Ave @ Francis St (eastbound),"L/Livingston Commuter, T/Turlock Commuter"
+28,768204,29,Walnut Ave @ Hammatt Ave (eastbound),"L/Livingston Commuter, T/Turlock Commuter"
+28,768346,30,Atwater Transpo (eastbound),"A1/Atwater Loop, T/Turlock Commuter"
+28,768333,31, 16th @ T st ( southeast bound),"T/Turlock Commuter, W1/Winton Commuter"
+28,768583,32,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+29,768582,1,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+29,768329,2,16th @ T st (NorthWest bound),"T/Turlock Commuter, W1/Winton Commuter"
+29,768475,3,Hwy 59 @ Riviera Holiday Mobile Estates (northbound),"M1/Merced West, W1/Winton Commuter"
+29,768341,4,Hwy 59 @ willowbrook (northbound),"M1/Merced West, W1/Winton Commuter"
+29,768330,5,Cooper @ Scholle Corp (westbound),W1/Winton Commuter
+29,768420,6,Beachwood @ Oakland (northbound),W1/Winton Commuter
+29,768208,7,Dan Ward Rd @ Beachwood Dr (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+29,768209,8,Dan Ward Rd @ Franklin Rd (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+29,781924,9,Gurr Rd @ Valley Dr,W1/Winton Commuter
+29,768298,10,Buhach Rd @ Avenue One (northbound),W1/Winton Commuter
+29,768185,11,Buhach Rd @ Juniper Ave/ Buhach High (northbound),W1/Winton Commuter
+29,768406,12,Buhach @ 5th,W1/Winton Commuter
+29,768407,13,Buhach @ Castle Park,W1/Winton Commuter
+29,768369,14,Buhach @ Bellevue (northbound),W1/Winton Commuter
+29,768370,15,Castle Clinic/ Air Museum (to Atwater),"L/Livingston Commuter, W1/Winton Commuter"
+29,835001,16,Castle H.S.A.,"A1/Atwater Loop, L/Livingston Commuter, W1/Winton Commuter"
+29,768394,17,Bellevue @ Secretariat (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+29,768379,18,Bellevue @ Bellevue Elementary (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+29,768383,19,Bellevue @ Constitution/Osborn Park (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+29,768380,20,Bellevue @ Brownell (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+29,768402,21,Bellevue @ Atwater Plaza Shopping,"W1/Winton Commuter, W2/Winton Commuter North"
+29,768389,22,Bellevue @ Redwood (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+29,768375,23,Bellevue @ 5th (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+29,768397,24,Bellevue @ Winton (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+29,781925,25,Winton @ Bellevue/SaveMart,W1/Winton Commuter
+29,768174,26,Winton Way @ Gertrude Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+29,768382,27,Winton @ Doris/Winton PO (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+29,768175,28,Winton Way @ Crawfort St (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+29,768373,29,Center @ Walnut/Winton Library (northbound),"A2/Winton Way, L/Livingston Commuter, W1/Winton Commuter, W2/Winton Commuter North"
+29,768176,30,Winton Way @ Myrtle Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+29,768405,31,Myrtle @ California (eastbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+29,768408,32,California @ Helton,"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+29,768177,33,Park Ave @ Winton Way (westbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+29,768178,34,Winton Way @ Crawfort St (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+29,768411,35,Winton @ Doris/Winton PO (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+29,768179,36,Winton Way @ Gertrude Ave (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+29,768412,37,Winton @ Fruitland/Atwater HS (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+29,768396,38,Bellevue @ Winton / Jack in the Box (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+29,768374,39,Bellevue @ 5th (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+29,768387,40,Bellevue @ Redwood (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+29,768163,41,Bellevue Rd @ Alabama Ave (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+29,768164,42,Bellevue Rd @ Brownell Ave (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+29,768381,43,Bellevue @ Constitution (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+29,768377,44,Bellevue @ Bellevue Elementary (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+29,768392,45,Bellevue @ Secretariat (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+29,835001,46,Castle H.S.A.,"A1/Atwater Loop, L/Livingston Commuter, W1/Winton Commuter"
+29,768193,47,Hospital Ave @ Castle Clinic (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, L/Livingston Commuter, W1/Winton Commuter"
+29,768165,48,Buhach Rd @ Castlewood Ave (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+29,768172,49,Buhach Rd @ Garden (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+29,768187,50,Buhach Rd @ Juniper Ave/ Buhach High (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+29,768166,51,Buhach Rd @ Avenue One (southbound),"A3/Castle Crosstown, W1/Winton Commuter"
+29,781926,52,Gurr Rd @ Valley Dr,W1/Winton Commuter
+29,768210,53,Dan Ward Rd @ Franklin Rd (eastbound),"W1/Winton Commuter, W2/Winton Commuter North"
+29,768211,54,Dan Ward Rd @ Beachwood Dr (eastbound),"W1/Winton Commuter, W2/Winton Commuter North"
+29,768331,55,Beachwood @ Oakland (southbound),W1/Winton Commuter
+29,768332,56,Cooper @ Scholle Corp (easttbound),W1/Winton Commuter
+29,768342,57,Hwy 59 @ Willowbrook (southbound),W1/Winton Commuter
+29,768343,58,Hwy 59 @ Riviera MHP (southbound),W1/Winton Commuter
+29,768333,59, 16th @ T st ( southeast bound),"T/Turlock Commuter, W1/Winton Commuter"
+29,768583,60,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+30,768582,1,Merced Transpo (inside),"H/Hilmar Link, LB/Los Banos Commuter, M1/Merced West, M3/M Street Shuttle, M5/Merced South-East, T/Turlock Commuter, UC/Merced, W1/Winton Commuter"
+30,768329,2,16th @ T st (NorthWest bound),"T/Turlock Commuter, W1/Winton Commuter"
+30,768475,3,Hwy 59 @ Riviera Holiday Mobile Estates (northbound),"M1/Merced West, W1/Winton Commuter"
+30,768341,4,Hwy 59 @ willowbrook (northbound),"M1/Merced West, W1/Winton Commuter"
+30,768330,5,Cooper @ Scholle Corp (westbound),W1/Winton Commuter
+30,768420,6,Beachwood @ Oakland (northbound),W1/Winton Commuter
+30,768208,7,Dan Ward Rd @ Beachwood Dr (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+30,768209,8,Dan Ward Rd @ Franklin Rd (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+30,781924,9,Gurr Rd @ Valley Dr,W1/Winton Commuter
+30,768298,10,Buhach Rd @ Avenue One (northbound),W1/Winton Commuter
+30,768185,11,Buhach Rd @ Juniper Ave/ Buhach High (northbound),W1/Winton Commuter
+30,768406,12,Buhach @ 5th,W1/Winton Commuter
+30,768407,13,Buhach @ Castle Park,W1/Winton Commuter
+30,768369,14,Buhach @ Bellevue (northbound),W1/Winton Commuter
+30,768370,15,Castle Clinic/ Air Museum (to Atwater),"L/Livingston Commuter, W1/Winton Commuter"
+30,835001,16,Castle H.S.A.,"A1/Atwater Loop, L/Livingston Commuter, W1/Winton Commuter"
+30,768394,17,Bellevue @ Secretariat (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+30,768379,18,Bellevue @ Bellevue Elementary (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+30,768383,19,Bellevue @ Constitution/Osborn Park (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+30,768380,20,Bellevue @ Brownell (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+30,768402,21,Bellevue @ Atwater Plaza Shopping,"W1/Winton Commuter, W2/Winton Commuter North"
+30,768389,22,Bellevue @ Redwood (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+30,768375,23,Bellevue @ 5th (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+30,768397,24,Bellevue @ Winton (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+30,781925,25,Winton @ Bellevue/SaveMart,W1/Winton Commuter
+30,768174,26,Winton Way @ Gertrude Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+30,768382,27,Winton @ Doris/Winton PO (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+30,768175,28,Winton Way @ Crawfort St (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+30,768373,29,Center @ Walnut/Winton Library (northbound),"A2/Winton Way, L/Livingston Commuter, W1/Winton Commuter, W2/Winton Commuter North"
+30,768176,30,Winton Way @ Myrtle Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+30,768405,31,Myrtle @ California (eastbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+30,768408,32,California @ Helton,"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+30,768177,33,Park Ave @ Winton Way (westbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+30,768178,34,Winton Way @ Crawfort St (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+30,768411,35,Winton @ Doris/Winton PO (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+30,768179,36,Winton Way @ Gertrude Ave (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+30,768412,37,Winton @ Fruitland/Atwater HS (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+30,768396,38,Bellevue @ Winton / Jack in the Box (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+30,768374,39,Bellevue @ 5th (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+30,768387,40,Bellevue @ Redwood (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+30,768163,41,Bellevue Rd @ Alabama Ave (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+30,768164,42,Bellevue Rd @ Brownell Ave (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+30,768381,43,Bellevue @ Constitution (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+30,768377,44,Bellevue @ Bellevue Elementary (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+30,768392,45,Bellevue @ Secretariat (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+30,835001,46,Castle H.S.A.,"A1/Atwater Loop, L/Livingston Commuter, W1/Winton Commuter"
+30,768193,47,Hospital Ave @ Castle Clinic (Clockwise),"A1/Atwater Loop, A3/Castle Crosstown, L/Livingston Commuter, W1/Winton Commuter"
+30,768165,48,Buhach Rd @ Castlewood Ave (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+30,768172,49,Buhach Rd @ Garden (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+30,768187,50,Buhach Rd @ Juniper Ave/ Buhach High (southbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter"
+30,768166,51,Buhach Rd @ Avenue One (southbound),"A3/Castle Crosstown, W1/Winton Commuter"
+30,781926,52,Gurr Rd @ Valley Dr,W1/Winton Commuter
+30,768210,53,Dan Ward Rd @ Franklin Rd (eastbound),"W1/Winton Commuter, W2/Winton Commuter North"
+30,768211,54,Dan Ward Rd @ Beachwood Dr (eastbound),"W1/Winton Commuter, W2/Winton Commuter North"
+30,768331,55,Beachwood @ Oakland (southbound),W1/Winton Commuter
+30,768332,56,Cooper @ Scholle Corp (easttbound),W1/Winton Commuter
+30,768342,57,Hwy 59 @ Willowbrook (southbound),W1/Winton Commuter
+30,768343,58,Hwy 59 @ Riviera MHP (southbound),W1/Winton Commuter
+30,768333,59, 16th @ T st ( southeast bound),"T/Turlock Commuter, W1/Winton Commuter"
+30,768583,60,Transpo (small),"LB/Los Banos Commuter, M4/G Street Shuttle, T/Turlock Commuter, W1/Winton Commuter"
+31,768525,1,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+31,768490,2,M St @ Donna (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+31,768499,3,M St @ Villages Apts (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+31,768553,4,Loughborough Dr @ Laurel Glen Apts (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+31,768547,5,Loughborough @ Target/Merced Mall (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+31,768533,6,R St @ Olive/Sears (southbound),"L/Livingston Commuter, W2/Winton Commuter North"
+31,768502,7,Meadows Ave @ Jo Ann Fabrics (southbound),"L/Livingston Commuter, W2/Winton Commuter North"
+31,768523,8,Meadows @ Olivewood,"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+31,768529,9,Devondwood @ Dogwood (westbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+31,768322,10,Wal-Mart (northbound),"L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, W2/Winton Commuter North"
+31,768208,11,Dan Ward Rd @ Beachwood Dr (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+31,768209,12,Dan Ward Rd @ Franklin Rd (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+31,768394,13,Bellevue @ Secretariat (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+31,768379,14,Bellevue @ Bellevue Elementary (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+31,768383,15,Bellevue @ Constitution/Osborn Park (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+31,768380,16,Bellevue @ Brownell (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+31,768402,17,Bellevue @ Atwater Plaza Shopping,"W1/Winton Commuter, W2/Winton Commuter North"
+31,768389,18,Bellevue @ Redwood (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+31,768375,19,Bellevue @ 5th (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+31,768397,20,Bellevue @ Winton (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+31,768384,21,Winton @ Fruitland/Atwater HS (northbound),"A2/Winton Way, W2/Winton Commuter North"
+31,768174,22,Winton Way @ Gertrude Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+31,768382,23,Winton @ Doris/Winton PO (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+31,768175,24,Winton Way @ Crawfort St (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+31,768373,25,Center @ Walnut/Winton Library (northbound),"A2/Winton Way, L/Livingston Commuter, W1/Winton Commuter, W2/Winton Commuter North"
+31,768176,26,Winton Way @ Myrtle Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+31,768405,27,Myrtle @ California (eastbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+31,768408,28,California @ Helton,"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+31,768177,29,Park Ave @ Winton Way (westbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+31,768178,30,Winton Way @ Crawfort St (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+31,768411,31,Winton @ Doris/Winton PO (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+31,768179,32,Winton Way @ Gertrude Ave (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+31,768412,33,Winton @ Fruitland/Atwater HS (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+31,768396,34,Bellevue @ Winton / Jack in the Box (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+31,768374,35,Bellevue @ 5th (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+31,768387,36,Bellevue @ Redwood (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+31,768163,37,Bellevue Rd @ Alabama Ave (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+31,768164,38,Bellevue Rd @ Brownell Ave (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+31,768381,39,Bellevue @ Constitution (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+31,768377,40,Bellevue @ Bellevue Elementary (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+31,768392,41,Bellevue @ Secretariat (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+31,768210,42,Dan Ward Rd @ Franklin Rd (eastbound),"W1/Winton Commuter, W2/Winton Commuter North"
+31,768211,43,Dan Ward Rd @ Beachwood Dr (eastbound),"W1/Winton Commuter, W2/Winton Commuter North"
+31,768324,44,Wal-Mart (southbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+31,768522,45,Devonwood Dr @ Dogwood (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+31,781906,46,Meadows @ Olivewood (to First Christian Church),"L/Livingston Commuter, W2/Winton Commuter North"
+31,768519,47,Meadows @ Olive Merced Meadows Apts,"L/Livingston Commuter, W2/Winton Commuter North"
+31,768552,48,R St @ Olive/Sears (northbound),"L/Livingston Commuter, W2/Winton Commuter North"
+31,768537,49,Loughborough @ Target/Mall (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, W2/Winton Commuter North"
+31,768531,50,Loughborough @ Laurel Glen Apts (eastbound),"L/Livingston Commuter, M3/M Street Shuttle, W2/Winton Commuter North"
+31,768524,51,M St @ Village Apts (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+31,768515,52,M St @ Donna (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+31,768525,53,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+32,768525,1,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+32,768490,2,M St @ Donna (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+32,768499,3,M St @ Villages Apts (southbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+32,768553,4,Loughborough Dr @ Laurel Glen Apts (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+32,768547,5,Loughborough @ Target/Merced Mall (westbound),"L/Livingston Commuter, M1/Merced West, M3/M Street Shuttle, W2/Winton Commuter North"
+32,768533,6,R St @ Olive/Sears (southbound),"L/Livingston Commuter, W2/Winton Commuter North"
+32,768502,7,Meadows Ave @ Jo Ann Fabrics (southbound),"L/Livingston Commuter, W2/Winton Commuter North"
+32,768523,8,Meadows @ Olivewood,"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+32,768529,9,Devondwood @ Dogwood (westbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+32,768322,10,Wal-Mart (northbound),"L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, W2/Winton Commuter North"
+32,768208,11,Dan Ward Rd @ Beachwood Dr (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+32,768209,12,Dan Ward Rd @ Franklin Rd (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+32,768394,13,Bellevue @ Secretariat (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+32,768379,14,Bellevue @ Bellevue Elementary (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+32,768383,15,Bellevue @ Constitution/Osborn Park (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+32,768380,16,Bellevue @ Brownell (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+32,768402,17,Bellevue @ Atwater Plaza Shopping,"W1/Winton Commuter, W2/Winton Commuter North"
+32,768389,18,Bellevue @ Redwood (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+32,768375,19,Bellevue @ 5th (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+32,768397,20,Bellevue @ Winton (westbound),"W1/Winton Commuter, W2/Winton Commuter North"
+32,768384,21,Winton @ Fruitland/Atwater HS (northbound),"A2/Winton Way, W2/Winton Commuter North"
+32,768174,22,Winton Way @ Gertrude Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+32,768382,23,Winton @ Doris/Winton PO (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+32,768175,24,Winton Way @ Crawfort St (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+32,768373,25,Center @ Walnut/Winton Library (northbound),"A2/Winton Way, L/Livingston Commuter, W1/Winton Commuter, W2/Winton Commuter North"
+32,768176,26,Winton Way @ Myrtle Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+32,768405,27,Myrtle @ California (eastbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+32,768408,28,California @ Helton,"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+32,768177,29,Park Ave @ Winton Way (westbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+32,768178,30,Winton Way @ Crawfort St (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+32,768411,31,Winton @ Doris/Winton PO (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+32,768179,32,Winton Way @ Gertrude Ave (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+32,768412,33,Winton @ Fruitland/Atwater HS (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+32,768396,34,Bellevue @ Winton / Jack in the Box (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+32,768374,35,Bellevue @ 5th (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+32,768387,36,Bellevue @ Redwood (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+32,768163,37,Bellevue Rd @ Alabama Ave (eastbound),"A1/Atwater Loop, W1/Winton Commuter, W2/Winton Commuter North"
+32,768164,38,Bellevue Rd @ Brownell Ave (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+32,768381,39,Bellevue @ Constitution (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+32,768377,40,Bellevue @ Bellevue Elementary (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+32,768392,41,Bellevue @ Secretariat (eastbound),"A1/Atwater Loop, A3/Castle Crosstown, W1/Winton Commuter, W2/Winton Commuter North"
+32,768210,42,Dan Ward Rd @ Franklin Rd (eastbound),"W1/Winton Commuter, W2/Winton Commuter North"
+32,768211,43,Dan Ward Rd @ Beachwood Dr (eastbound),"W1/Winton Commuter, W2/Winton Commuter North"
+32,768324,44,Wal-Mart (southbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+32,768522,45,Devonwood Dr @ Dogwood (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, W2/Winton Commuter North"
+32,781906,46,Meadows @ Olivewood (to First Christian Church),"L/Livingston Commuter, W2/Winton Commuter North"
+32,768519,47,Meadows @ Olive Merced Meadows Apts,"L/Livingston Commuter, W2/Winton Commuter North"
+32,768552,48,R St @ Olive/Sears (northbound),"L/Livingston Commuter, W2/Winton Commuter North"
+32,768537,49,Loughborough @ Target/Mall (eastbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, W2/Winton Commuter North"
+32,768531,50,Loughborough @ Laurel Glen Apts (eastbound),"L/Livingston Commuter, M3/M Street Shuttle, W2/Winton Commuter North"
+32,768524,51,M St @ Village Apts (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+32,768515,52,M St @ Donna (northbound),"L/Livingston Commuter, M2/R Street Shuttle, M3/M Street Shuttle, UC/Merced, W2/Winton Commuter North"
+32,768525,53,Merced College,"LB/Los Banos Commuter, L/Livingston Commuter, M1/Merced West, M2/R Street Shuttle, M3/M Street Shuttle, M4/G Street Shuttle, UC/Merced, W2/Winton Commuter North"
+33,768395,1,Atwater Target (to Winton),"A1/Atwater Loop, A2/Winton Way, A3/Castle Crosstown"
+33,768161,2,Atwater Transpo (Counter-Clockwise),"A2/Winton Way, A3/Castle Crosstown"
+33,768391,3,Winton @ Olive (northbound),"A1/Atwater Loop, A2/Winton Way"
+33,768386,4,Winton @ Grove (northbound),"A1/Atwater Loop, A2/Winton Way"
+33,768388,5,Winton @ Juniper/St. Anthony's (northbound),"A1/Atwater Loop, A2/Winton Way"
+33,768378,6,Winton @ Bellevue/ 99 cent store (northbound),"A1/Atwater Loop, A2/Winton Way"
+33,768384,7,Winton @ Fruitland/Atwater HS (northbound),"A2/Winton Way, W2/Winton Commuter North"
+33,768174,8,Winton Way @ Gertrude Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+33,768382,9,Winton @ Doris/Winton PO (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+33,768175,10,Winton Way @ Crawfort St (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+33,768373,11,Center @ Walnut/Winton Library (northbound),"A2/Winton Way, L/Livingston Commuter, W1/Winton Commuter, W2/Winton Commuter North"
+33,768176,12,Winton Way @ Myrtle Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+33,768405,13,Myrtle @ California (eastbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+33,768408,14,California @ Helton,"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+33,781915,15,Dollar General,"A2/Winton Way, W2/Winton Commuter North"
+33,768177,16,Park Ave @ Winton Way (westbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+33,768178,17,Winton Way @ Crawfort St (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+33,768411,18,Winton @ Doris/Winton PO (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+33,768179,19,Winton Way @ Gertrude Ave (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+33,768412,20,Winton @ Fruitland/Atwater HS (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+33,768409,21,Winton @ Bellevue/99 cent store (southbound),A2/Winton Way
+33,768414,22,Winton @ Juniper/ St. Anthony (southbound),A2/Winton Way
+33,768413,23,Winton @ Grove (southbound),A2/Winton Way
+33,768415,24,Winton @ Olive (southbound),A2/Winton Way
+33,768161,25,Atwater Transpo (Counter-Clockwise),"A2/Winton Way, A3/Castle Crosstown"
+33,768395,26,Atwater Target (to Winton),"A1/Atwater Loop, A2/Winton Way, A3/Castle Crosstown"
+34,768395,1,Atwater Target (to Winton),"A1/Atwater Loop, A2/Winton Way, A3/Castle Crosstown"
+34,768161,2,Atwater Transpo (Counter-Clockwise),"A2/Winton Way, A3/Castle Crosstown"
+34,768391,3,Winton @ Olive (northbound),"A1/Atwater Loop, A2/Winton Way"
+34,768386,4,Winton @ Grove (northbound),"A1/Atwater Loop, A2/Winton Way"
+34,768388,5,Winton @ Juniper/St. Anthony's (northbound),"A1/Atwater Loop, A2/Winton Way"
+34,768378,6,Winton @ Bellevue/ 99 cent store (northbound),"A1/Atwater Loop, A2/Winton Way"
+34,768384,7,Winton @ Fruitland/Atwater HS (northbound),"A2/Winton Way, W2/Winton Commuter North"
+34,768174,8,Winton Way @ Gertrude Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+34,768382,9,Winton @ Doris/Winton PO (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+34,768175,10,Winton Way @ Crawfort St (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+34,768373,11,Center @ Walnut/Winton Library (northbound),"A2/Winton Way, L/Livingston Commuter, W1/Winton Commuter, W2/Winton Commuter North"
+34,768176,12,Winton Way @ Myrtle Ave (northbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+34,768405,13,Myrtle @ California (eastbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+34,768408,14,California @ Helton,"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+34,781915,15,Dollar General,"A2/Winton Way, W2/Winton Commuter North"
+34,768177,16,Park Ave @ Winton Way (westbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+34,768178,17,Winton Way @ Crawfort St (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+34,768411,18,Winton @ Doris/Winton PO (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+34,768179,19,Winton Way @ Gertrude Ave (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+34,768412,20,Winton @ Fruitland/Atwater HS (southbound),"A2/Winton Way, W1/Winton Commuter, W2/Winton Commuter North"
+34,768409,21,Winton @ Bellevue/99 cent store (southbound),A2/Winton Way
+34,768414,22,Winton @ Juniper/ St. Anthony (southbound),A2/Winton Way
+34,768413,23,Winton @ Grove (southbound),A2/Winton Way
+34,768415,24,Winton @ Olive (southbound),A2/Winton Way
+34,768161,25,Atwater Transpo (Counter-Clockwise),"A2/Winton Way, A3/Castle Crosstown"
+34,768395,26,Atwater Target (to Winton),"A1/Atwater Loop, A2/Winton Way, A3/Castle Crosstown"

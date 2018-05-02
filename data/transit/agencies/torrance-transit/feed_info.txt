@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+TORRANCE TRANSIT SYSTEM,http://Transit.TorranceCA.gov,en,20180107,20180331,S1000066

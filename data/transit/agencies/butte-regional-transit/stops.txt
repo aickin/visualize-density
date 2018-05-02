@@ -1,0 +1,535 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,location_type
+a01d771a-be3e-467d-9b68-764fc642ab31,"326","Transit Center 2nd & Normal","""(CTC  SS)""",39.7282171087394,-121.842904349739,0
+c899fd90-a51e-46d6-bc8c-c64bb36d2094,"324","W 2nd & Cherry","""(CSU WREC)""",39.7258353069922,-121.847089937156,0
+2a087c59-04e8-4964-a8d5-aa742ed54b6a,"171","W 2nd & Cedar","""(Northside)""",39.7245532110067,-121.848964801369,0
+238c62f7-a8a8-42ea-a87d-8c3d316e85b4,"278","Nord Ave & Stewart Ave","""CSUC access path/crosswalk""",39.7273078398292,-121.853167823146,0
+160a9316-0c21-44cb-9214-dd3cff31888f,"387","Nord Ave & W. Sacramento Ave","""Englewood Condos""",39.730028941037,-121.856939009246,0
+532c0eb6-4168-47d8-b792-021d736532d4,"360","W Sac & Nord","""Blue Oval Gas""",39.731072320406,-121.860720924182,0
+2023d66b-ce8f-4959-8a2e-6c59a1e088b6,"384","W Sacramento Ave & Victorian Park Dr.","""Woodglenn Condos""",39.7310320872683,-121.865355781636,0
+af779e4c-7f9e-4b45-b767-30d9a8bdbbac,"459","W Sacramento Ave & Gateway Ln.","""""",39.7310186762225,-121.868677697699,0
+a0025d94-884c-4579-bef3-c02514664890,"361","W 8th Ave & Forty Niner Ct","""Emma Wilson School""",39.7334809442449,-121.870071105365,0
+ba1be8df-79b9-4be8-9fb6-cd2d5a6d0371,"277","Nord Ave & midblock","""Westwood Trees Apts""",39.734280242579,-121.86587747132,0
+82e9485b-81d3-48ea-9f0c-e27c556307b8,"383","Nord at Univ Village Apts","""University Village Apts""",39.7322310347695,-121.861910483951,0
+82c47aba-7c0d-472e-84cc-5ee17a311308,"385","W Sacramento Ave & N. Cedar St.","""by train tracks""",39.7317831058373,-121.856508514673,0
+c5b594db-ab62-47d9-9a44-1b791de9f83c,"318","Warner & W Sac","""(Westside)""",39.7338215848101,-121.852072140698,0
+d7c7aeaf-079c-4946-87de-019c518b82f2,"320","Warner & Legion","""(RT8)""",39.7305063742701,-121.84966083465,0
+87f9077d-05dc-4512-86a5-99701f2604bb,"321","Warner & W 1st Street","""(Parking)""",39.7272381023907,-121.846650054851,0
+c02cbeab-f8b6-4e38-88f0-8390364e3090,"3970","Transit Center 2nd & Salem","""W 2nd St CTC (closer to Normal)""",39.7286261456386,-121.842892279797,0
+e1d4c76c-85e3-4df4-9cf1-7b6409ba41a4,"330","Esplanade & 1st St","""""",39.7312734860941,-121.841380854927,0
+ca20df5a-2635-4816-b53c-3900a83128a3,"115","Esplanade & Memorial","""""",39.7337330719074,-121.842469831852,0
+f664bef8-2a1c-4cec-a840-c3ab3bcdaaae,"116","Esplanade & Washington","""""",39.736590965783,-121.844513675243,0
+935d9adb-787a-4f58-89d6-15385b9549c3,"117","Esplanade & 2nd Ave","""""",39.7393281602459,-121.846542766484,0
+c79c0c2a-5652-4eb8-8beb-802adf449934,"118","Esplanade & 5th Ave","""""",39.7424153830061,-121.848771682308,0
+86a62c85-f247-47db-8cd8-1d72784500a4,"119","Esplanade & 7th Ave","""""",39.7445718791826,-121.850308588166,0
+5891882a-7772-4b54-9ad1-767525203b20,"120","Esplanade & 9th Ave","""""",39.7467283753591,-121.851861587278,0
+d9b7d7a3-d14e-4cb0-90d5-8d2e331b0db2,"517","Esplanade & Cohasset","""(Italian Cottage)""",39.7511821836938,-121.855843326798,0
+d7d6d407-3174-45ad-a566-015a0da358e4,"379","Esplanade & Rio Lindo Ave","""""",39.7526641042628,-121.857310495216,0
+78942bc4-ed95-49ea-903e-6cfb28bb65ac,"186","Esplanade & White Ave","""""",39.7556534263881,-121.860220692171,0
+ab2a2dbd-9710-4dd6-9419-531176de9bac,"187","Esplanade & East Ave","""(Regency)""",39.757425025548,-121.862011066795,0
+40e08285-8d06-482b-821a-ddbc59755e53,"124","Esplanade & Henshaw Ave","""(CVS)""",39.7604653096476,-121.86505000979,0
+5735bf41-881a-4c07-8d53-891889ddaea1,"126","Lassen Ave & SR99","""(southside)""",39.7639226772739,-121.860789320516,0
+6ba22004-ab87-4192-bc71-009ba61f1de7,"127","Lassen Ave & Joshua Tree","""(Almond Grove)""",39.7652195254099,-121.858608684457,0
+038cb79a-ed37-4305-86b8-decbd7feaaca,"128","Lassen Ave & Godman Ave","""(Almond Grove)""",39.7664855281404,-121.856483033686,0
+04bd78b5-17e7-4686-ac8b-bc9d4448a4b2,"129","Lassen Ave & El Paso Way ","""""",39.7678480904012,-121.85419510926,0
+e1135c58-c4dd-4ceb-a772-3faadef89840,"130","E Lassen Ave & White","""(southside)""",39.769802079785,-121.850934884008,0
+3a815872-bd3c-40b5-b84c-3d4331949553,"131","Lassen Ave & Burnap Ave","""(southside)""",39.7715093059247,-121.848056873563,0
+817f1716-02f2-44f4-8671-53dbce96d876,"574","Lassen & Cohasset ","""Bike Path""",39.773156182358,-121.845302244741,0
+3069a79d-f710-4c16-b1d7-3d057e9cd67f,"132","Lassen Ave & Cohasset Rd","""(IWIS)""",39.7734230621709,-121.841689308982,0
+1562166b-8b0a-4b73-a0a0-907dc9822527,"133","Lassen & Ceres","""""",39.7730207307947,-121.83797579038,0
+564004d6-2a20-4344-8545-24392929d962,"534","Eaton Rd & Lassen Ave","""""",39.7731964154956,-121.83558728311,0
+3090e2fe-3c7d-4c99-8003-0ccd46ef9984,"535","Eaton Rd & Keith Hopkins Pl","""""",39.770754264042,-121.834550609264,0
+06784add-bbe1-46c1-8968-26163afef163,"587","Lupin Ave & Ceres Ave","""""",39.7683201592159,-121.834063788299,0
+17008c18-af19-460a-8fbb-3d89959fe531,"456","Ceres Ave & Diablo","""(Syc Glen)""",39.7714342040678,-121.838502844483,0
+18dbb456-aa0a-4f6d-a399-f4a70e179952,"453","Ceres & Lassen","""(Apts)""",39.7729241712644,-121.838207801474,0
+09f20a2b-2962-4fdb-a6f1-be2b7672da9a,"432","Oak St & W 2nd","""(Westside)""",39.7237123384304,-121.850187888753,0
+c823a226-400a-468b-b57e-ba4b36f2dfb8,"177","Ash St & W 3rd St","""""",39.7221070362393,-121.850658616463,0
+a94528f9-afcd-4bd9-98f9-b4c50d1e4276,"178","Hickory & 7th St","""""",39.719124419637,-121.84886555963,0
+a6a41d5a-1529-4580-adbb-fa3a7adab46f,"392","Oak St & W 7th St","""""",39.7202040088298,-121.846903523618,0
+73f550d7-6cd5-4ab8-b32b-c37e90e2bfd7,"176","Oak St & W 2nd","""(Eastside)""",39.7231705321771,-121.850252261773,0
+be626fa8-d2ac-4873-be0f-95ba4fddd6d0,"175","W 2nd St & Cedar St","""(Southside)""",39.7248174086104,-121.848520895751,0
+9056c944-fb01-4ed3-acb0-994db322217d,"454","E Lassen Ave & Ridgewood","""""",39.7733385725819,-121.841005345643,0
+1422d134-fe6e-486c-b5b4-7ec891cab359,"589","Cohasset Rd & Frontier Cir","""Butte Co Fire Rescue""",39.7714891893559,-121.843668779353,0
+32d73b49-de96-4125-b09c-c585eb52ce57,"619","Cohasset Rd & Cameo","""""",39.7687345605334,-121.843617817379,0
+84e800f4-c532-409c-ab73-3e6cead099a4,"92","Cohasset Rd & Cyndi Cir ","""""",39.7657613316632,-121.843574902032,0
+a1a757da-1ba6-4cfa-8301-d7f2110adea9,"93","Cohasset Rd & Pillsbury Rd ","""""",39.7651457646576,-121.843561490986,0
+daf0c0e6-4c7f-43a5-98ed-b247ae703468,"364","Cohasset Rd & East Ave","""(Scrambles)""",39.7620116032369,-121.843503823489,0
+54ffc7f9-833d-4fac-bcc0-32b506622ece,"458","East Ave & Cohasset Rd","""(Firestone)""",39.7608609355009,-121.845750173673,0
+8da25de8-cc0b-40fa-bbf5-481d460c25e3,"95","Pillsbury Rd & Plaza Way ","""""",39.7597344076475,-121.849392613732,0
+959d5272-6374-48b2-a57f-e2cc1eacb8fe,"94","North Valley Plaza","""Pillsbury Rd & Cohasset Rd (KMart)""",39.7579909716839,-121.846097519761,0
+5672f389-9221-4214-be1d-b6774aa23d6c,"149","Cohasset Rd & Rio Lindo Ave","""""",39.7522108109123,-121.847088596051,0
+367034d6-ed8f-48e0-8b27-3d6bdef19b59,"236","Parmac Rd & Cohasset Rd","""(DMV)""",39.7527311594922,-121.850874534301,0
+a8f13c88-6238-41e9-8489-971ffa234544,"147","Rio Lindo & Parmac","""(bloodsource)""",39.7553945932027,-121.849439552393,0
+386a38ee-7a49-47b0-810c-8fc390afc8a7,"148","Rio Lindo Ave & Cohasset","""(Rehab)""",39.7537772210704,-121.848007252694,0
+f2139681-8463-4648-9a62-827763fa9f66,"96","Mangrove Ave & 9th Ave","""""",39.7497606128312,-121.844006737709,0
+60c84b12-158b-4fe9-ad70-6935731b88f8,"97","Mangrove & 5th","""(westside)""",39.7451874461882,-121.84067409281,0
+4027ca36-e4a9-4beb-bd13-8dda07678dda,"98","Mangrove Ave & E 3rd Ave","""(pizza)""",39.743572756265,-121.839511355133,0
+b6b4e5f5-1f40-40eb-873c-0f5213d8326d,"241","Mangrove Ave & E 1st Ave","""(Cemetery)""",39.7403044843855,-121.83729450925,0
+00537e4c-29c2-4638-8f25-64f92406df6d,"575","Mangrove Ave & Palmetto Ave","""cemetery""",39.7382445477393,-121.836036553147,0
+7d234bb8-ace4-4d06-a271-d2512a0946d2,"242","Mangrove Ave & Vallombrosa","""(Cemetery)""",39.7352042636397,-121.835705300314,0
+22843ae0-d871-4c6f-8bf8-18fb6eaff0a5,"426","Vallombrosa & Memorial","""(Cafe)""",39.733113481588,-121.837497016042,0
+e845f006-c2d1-40b7-a898-6275268fe119,"427","E 1st St & E 2nd St","""""",39.7316087622409,-121.839402725661,0
+e968e145-26c8-4c0f-bd92-3de6cd174099,"397","Transit Center 2nd & Salem","""2nd St (closer to Salem)""",39.7289131420203,-121.842463126329,0
+9398930b-8e4e-48c4-90a2-257573db3310,"134","Lassen & Cohasset","""(La Dolce Piazza)""",39.7733653946737,-121.845024636091,0
+84e35b14-0925-4208-a6bb-792d1a160995,"135","E Lassen Ave & Burnap","""(northside)""",39.771583066677,-121.848007252694,0
+ceeb9297-bf53-4a97-b4d0-7450c0b633e5,"136","Lassen Ave & White Ave","""(northside)""",39.7699200969887,-121.850810161281,0
+1626aaf8-445e-4000-bdfc-13e4154fae41,"137","E Lassen Ave & Mayfair","""""",39.7676804523278,-121.854543796452,0
+28b3d5a0-1867-4752-a184-aa962f47791a,"138","E Lassen Ave & Godman","""(Church)""",39.7665364901147,-121.856472304849,0
+e7d38cc5-8a1e-4d66-9bff-f77c5aca971e,"139","E Lassen Ave & Joshua Tree","""(Joshua Tree Apt)""",39.7653053561035,-121.858529559286,0
+844327eb-0586-49b3-b07f-25689fa50e0c,"377","E Lassen Ave & SR 99","""(northside)""",39.763938770529,-121.860855034641,0
+ae52ec71-8d0a-4fee-9621-0c1782cb3f4b,"140","E Lassen Ave & Esplanade","""(Rice Bowl)""",39.7615623332001,-121.864805928755,0
+e6e8ab3f-648d-48e2-9637-aaca9cfb27c5,"141","Esplanade & Lassen","""(westside)""",39.7599878764145,-121.864638290682,0
+2e502445-a463-4753-b046-4017a4dbd616,"142","Esplanade & East","""(Cal Pasta)""",39.7572466586379,-121.861883661859,0
+4aadb688-78bb-4ab7-9e3d-96ed71d0afd0,"143","Esplanade & East","""(westside)""",39.756349459669,-121.860978416263,0
+835a03a3-1a4b-46e8-b68d-edb4cbaeedab,"144","Esplanade & Mission Ranch","""""",39.7537758799658,-121.858489326149,0
+f81f678c-68b3-4892-9231-f83a9f5d7593,"189","Esplanade & Cohasset","""(Miller Mansion)""",39.7501227110697,-121.854899189168,0
+6ce93ac0-ab71-4ac6-91f6-c1721347ee3c,"150","Esplanade & 9th St","""(westside)""",39.7460873273663,-121.851939371344,0
+f5357115-e15f-49b3-ba8d-b8584de02ef6,"152","Esplanade & 5th Ave","""(Enloe)""",39.7421820308079,-121.849057337586,0
+a35f3376-5d14-4a1c-969d-c217079f1850,"153","Esplanade & 2nd Ave","""(westside)""",39.7389781319486,-121.846757343218,0
+f3324227-0627-4561-a4e8-afbbdc39aa30,"154","Esplanade & W Sac","""(Chico HS)""",39.7364595375335,-121.844953557548,0
+648536e8-5af2-46a2-bc34-adeef2bd1bfa,"400","Esplanade & Memorial","""(Bidwell Mansion)""",39.7336257835404,-121.842881550961,0
+08701547-618e-48ef-9d6d-80be4f66d919,"327","Transit Center 2nd & Salem","""(CTC)""",39.728985561668,-121.842084934836,0
+36c121cc-64db-4839-b6c8-dd8e932d7f1d,"85","North Valley Plaza","""Pillsbury Rd @ midblock CVS""",39.758000359416,-121.847275009589,0
+81779622-54bf-41d4-a6cf-1f9034eb9882,"365","Pillsbury Rd & East Ave","""(Taco Bell)""",39.7602319574494,-121.849376520477,0
+8257d4e6-c30d-47d1-9c9b-e1d08d37baf3,"245","East Ave & Pillsbury Rd","""Bike Path""",39.760961518345,-121.849259844378,0
+608c505e-123e-4808-a601-cb5964c4219f,"246","East Ave & El Paso Wy","""""",39.7616360939524,-121.852583101546,0
+e97e91ef-a36d-4c65-a7ff-5f70ca6deb1f,"107","East Ave & SR 99","""Fairview School""",39.7590142344841,-121.857547870728,0
+8c070ae5-82e5-4a10-b886-23b9074a8a0f,"108","East Ave & Esplanade","""Rt 3 time point (Save Mart)""",39.7563870105974,-121.862102261907,0
+659b6f2a-4c4b-4ab4-a158-bc2556651a7a,"109","East Ave & Ilahee","""Enloe Rehab Center""",39.7519157679031,-121.86960171876,0
+a6373b2a-b131-4167-b8dd-4eeff1840eb6,"110","East Ave & Cussick Ave","""""",39.7510735542222,-121.871017925204,0
+0eb8fe7e-1bef-4e06-85f1-979d6dc35973,"111","East Ave & Alamo Ave","""Shastan Homes @ Alamo""",39.7486273794548,-121.875125728555,0
+3417f56d-045d-45f2-9db5-8a55472162e8,"112","East Ave & Guynn Ave","""Inbound (northside)""",39.7463099507278,-121.878740005418,0
+a9c1fe05-38f5-4036-844d-50145c3d4f2d,"516","East Ave & Nord Ave","""Masonic Lodge""",39.7446925785954,-121.881364547096,0
+294b4c09-a708-4409-b915-6c916b7c8d0f,"461","East & Nord","""East Ave & SR 32""",39.7427452947346,-121.882851832083,0
+9f84d8ac-3bc7-4329-9aca-08d3b6dd945d,"274","Nord Ave & Glenwood Ave","""Spirits of America""",39.741063549582,-121.880946122464,0
+8f621e4a-e213-4932-b3a0-2dad2a695524,"275","Nord Ave & La Linda Ln.","""""",39.7386079870825,-121.875230334713,0
+c6b2e95c-d581-4822-9d3a-84c7b4530bba,"381","Nord & W 8th Ave","""Oak Way Park""",39.7362583718454,-121.869754604683,0
+94de1711-e245-4e9b-a151-b5bf498829e0,"386","Nord Ave & W. Sacramento Ave","""TransPacific Gardens""",39.7299820023764,-121.856949738082,0
+8b3e4a20-95c8-4e66-ab06-1a3c5c4306e2,"391","Nord Ave & Stewart Ave","""The Timbers Apts""",39.7273011343063,-121.853232196166,0
+ce8ddcff-6c5d-43b0-81ae-0c901c034f3c,"325","W 2nd St  Hazel St","""""",39.7273225919797,-121.84481676488,0
+429c2f36-7053-45e3-8bf0-14d67e3d8cde,"349","Ellene Ave & Manzanita Ave","""Villa Rita Apts""",39.7545885893457,-121.843227555944,0
+d34db576-c860-4d82-8fcf-485afbed2d9d,"350","North Ave & Geneva Ln","""Bidwell Jr High""",39.7575940047261,-121.838602086222,0
+7bd2ec6f-7de6-434a-bc40-5e2535a7b510,"351","North Ave & East Ave","""Northbound""",39.7606772041724,-121.838693281334,0
+8906dfba-579e-43b3-b096-3a5da5546f0f,"597","East Ave & Ceres Ave","""Church of God""",39.7609642005542,-121.834484895139,0
+11176d60-e494-437f-98fc-f747ce180573,"99","East Ave & Ceres Ave","""Independent Living Services""",39.7609829760184,-121.832738776966,0
+f90190df-3ab6-4de3-9a84-b2a03480a65c,"100","East Ave & Floral Ave","""""",39.7610258913652,-121.829609979964,0
+550f83dc-02e4-412a-b162-75cf1b205353,"101","East Ave & Mariposa Ave","""LDS Church""",39.7610634422936,-121.82429115917,0
+fccf4007-b186-4541-b7ae-2dd948de899b,"102","Pleasant Valley HS","""East Ave & Marigold Ave""",39.7611412263597,-121.815925348754,0
+05151976-8735-4a40-81d0-6349de506c03,"261","Manzanita Ave & Marigold Ave","""Pleasant Valley HS""",39.7587822233905,-121.81517567129,0
+cdc8f6ce-aafe-4c66-bef4-9562b5afe008,"262","Manzanita Ave & Ceanothus Ave","""""",39.755813017834,-121.819581199859,0
+52a2921c-9a0b-4c70-9485-f72a7d871fc7,"263","Manzanita Ave & Mariposa Ave","""Longfellow Apts.""",39.7532246859804,-121.823815067042,0
+47eeef77-3445-4eda-a21d-7af8909efab2,"264","First & Longfellow","""Coffee Shop""",39.7499510496826,-121.825680543523,0
+312ba5f5-df57-4e09-8893-b7404ff1096f,"265","E 1st Ave & Neal Dow Ave","""Chico Assn of Realtors""",39.7467498330325,-121.829770912514,0
+26c79491-c8b8-43c9-9989-ed02c3fcc8b0,"266"," E 1st Ave & Sherman Ave ","""Library""",39.7434212114466,-121.834040989521,0
+10ff5646-5919-46ff-a33b-806062648f0f,"362","E 1st Ave & Arbutus Ave","""1st Ave Square""",39.7417139853069,-121.836770137356,0
+e3ccb970-d272-4934-926e-9a8391cc3a97,"357","E 1st Ave & Palm Ave","""Inbound""",39.7404734635635,-121.839597185826,0
+f080a37d-ae57-4808-9b86-f503145e0c46,"358","Oleander Ave & E. Sacramento Ave","""Southbound""",39.7376075230603,-121.84336971303,0
+8178e2b1-dd48-40dd-b7c1-174c709be346,"401","Chico Jr High School","""Oleander & E. Francis Willard (Butte Co Health)""",39.73515464277,-121.841582020615,0
+24bd9935-2f5e-45d4-9746-e5b8eb76ff07,"359","Memorial Way & Oleander Ave","""Court House""",39.7334179123293,-121.84052791241,0
+18f30aeb-84a0-47a6-b076-2d91c2bd8dad,"337","Esplanade & Hwy 99","""""",39.7928959007797,-121.898691618365,0
+49d2c945-a21a-4009-b834-6be9039b7358,"577","Garner Ln & SR 99","""""",39.790206986082,-121.89163606713,0
+bf95019b-4f51-46df-b215-7f24ae95dde1,"518","Garner Ln & Esplanade","""""",39.7858349851271,-121.891033911171,0
+749c7336-6087-45dc-aa79-12371b712b6d,"338","Esplanade & Nord","""(Creekside)""",39.7810794282603,-121.886007451177,0
+b8d8d014-b0e9-427e-9b8b-19ed43703fc4,"339","Esplanade & Nord","""(W)""",39.7797410058821,-121.884493344098,0
+b96521a3-e8f7-41f9-8aa3-50ca58701643,"608","Esplanade at DeGarmo Park","""(westside)""",39.7772049771073,-121.881906353349,0
+ed2287d8-894b-47c3-b49c-be996b5b389a,"340","Esplanade & Eaton","""(Cafe Sol)""",39.7729000313818,-121.877559833381,0
+2d2a7ec8-d33d-4a75-a7da-bf384ed14e16,"341","Esplanade & Yellowstone","""(W)""",39.7704122823723,-121.875096224254,0
+9de237df-a94b-4a4b-aa8f-ced0832a39f2,"342","Esplanade & Shasta","""(W)""",39.7647474565952,-121.86940591749,0
+3df84578-641d-4a58-964e-a93b06b40f1e,"145","Rio Lindo Ave & Esplanade","""(Sin of Cortez)""",39.7529376895987,-121.85669761042,0
+e3605ab8-eb2d-40fe-8a04-c08f5c70a8c6,"146","Rio Lindo Ave & Porter","""(Rio Town Apt)""",39.7539770456539,-121.854895165854,0
+a958dcc0-13f2-4d45-b55c-4efead242a9e,"188","Cohasset Rd & Parmac","""(Vet Affairs)""",39.7516837568095,-121.851524970026,0
+22079d95-cca0-4aed-abe6-7bf693b0a141,"398","Transit Center 2nd & Salem","""CTC Normal St Regional (20,32,40,41)""",39.7284236388459,-121.843100151008,0
+e793cad9-f7ea-4da0-9164-f2161be35f92,"173","Broadway & 4th St","""""",39.7282533185633,-121.839638760068,0
+a1f95874-be70-480d-a98f-de8bebc163c0,"394","Broadway & 7th St","""""",39.7265004948676,-121.837627103187,0
+08fc1e41-157c-479c-b813-8a298e40e6fc,"396","E 9th & Orient st","""""",39.7272957698879,-121.832218428386,0
+f90e70bf-e38d-4a18-b220-a56e2bfa327c,"322","9th Street & Pine","""""",39.7287414806331,-121.830032427909,0
+b739e437-5b2f-4cb3-8884-124cc83e6b7d,"375","E 9th & Linden","""""",39.7322109182007,-121.824831624319,0
+eb609e64-c587-40c6-802c-3b5d1b97c466,"323","E 9th & Bartlett St","""""",39.7345712622745,-121.821276356058,0
+da56668a-4ce1-4e65-9b79-1c673e7e4dc8,"190","Fir Street Park & Ride","""""",39.7368819854785,-121.81793834674,0
+0177fb86-722b-4191-b72d-3956fadceaed,"370","E 20th St & Chico Mall","""Pier 1""",39.7272072569851,-121.804141062745,0
+3e1555c9-1ab9-4d41-a2c9-48efbec74388,"295","Forest Ave & E 20th St","""""",39.7266386286401,-121.801611739493,0
+9d3ea1ee-2688-443b-bfa5-a6af7b2657cd,"296","Forest Xfer (WalMart)","""""",39.7223403884375,-121.801609057284,0
+df1858f5-447d-4c07-8a6a-80e74ad4673e,"424","Forest Ave at Butte College ","""""",39.7184310685653,-121.800852674297,0
+c6be2115-fa29-405b-9f2c-33499a3f63b9,"198","Notre Dame Blvd & Skyway","""""",39.7164636681356,-121.795330005606,0
+a66d7701-bc4e-4b58-abf3-5232ab0eb548,"609","Garden Dr & SR 70","""Forebay Stop""",39.5348258039251,-121.581178401779,0
+170cc5d6-7175-4e14-816e-17d741a843ff,"616","Table Mountain Blvd & Garden","""""",39.5328932722147,-121.572292242783,0
+ddde5457-f4ac-4b78-b55a-116323bc122b,"37","County Center Dr at Juvenile Hall","""Juvenile Hall""",39.5298798102069,-121.568861697248,0
+b75868a5-5fc2-4bbd-a459-1c8d9cfa5c52,"38","County Center Dr at Admin Building","""County Administration""",39.527994217157,-121.57158682177,0
+d6914adc-b0cf-4be4-abbd-c1b72b671584,"39","Oroville Public Works","""County Public Works""",39.5256566718612,-121.571175102662,0
+f870a8c8-fe20-43f9-a665-09cc81b985dc,"448","3rd St & Grand Ave","""Park 'n ride""",39.5201608252621,-121.572159473429,0
+9185b3e3-ee94-4e90-9790-7e99e8f050c4,"522","Nelson Ave & 2nd St","""""",39.5240768506573,-121.569048110786,0
+ce70b7a8-f1e4-4aa9-bc10-aa64fca20d0e,"507","Nelson Ave & Fogg Ave","""""",39.5240822150756,-121.564261708514,0
+4304acde-2c08-48cb-bb4b-80228469d857,"40","Table Mountain Blvd & Nelson Ave","""LDS Church""",39.5234746946975,-121.557778808938,0
+ab2ae94a-9a2b-4afd-88cc-c4a8308625ce,"42","Table Mountain Blvd & Grand Ave","""Social Security""",39.5222073508625,-121.555846277228,0
+e4c0f7af-a083-4aa6-869f-3ff7419d2e17,"44","Montgomery St & Table Mtn Blvd","""Veteran's Memorial Hall""",39.515578270887,-121.551100108093,0
+85c91a44-1cad-4430-9fd1-1871674a8ec0,"45","Montgomery St & Myers St","""Transit Station""",39.5139716275914,-121.555359456263,0
+be08a7c4-df81-4326-b53e-4765bf618a5b,"468","Myers St & Robinson St","""Public Parking Lot""",39.5122201450002,-121.554558816824,0
+140b6763-45b3-4cb9-bded-ba46b0c58e01,"469","Myers St & Wilcox St","""West, Curves""",39.5078575317775,-121.551963779447,0
+3f48139a-8851-45d0-8572-0a49b9d382d4,"52","Transit Center Mitchell & Spencer ","""Oroville Transit Center""",39.5065901879424,-121.54836291363,0
+a303c5d6-bb16-4144-adfe-e7c4e11894f7,"610","Myers & D St","""Flag stop  time point""",39.497107237405,-121.5487048953,0
+eb822777-4331-4790-9d85-64e4f2447ce3,"547","Olive Hwy & Foothill Blvd","""South, inbound""",39.5011573732589,-121.531967910049,0
+ff289303-301f-4aff-b682-e07ac804efc5,"478","Olive Hwy & Arbol Ave","""Mt. Vista RV Park""",39.504235208287,-121.512068600182,0
+d82dbf90-9b29-4dd8-a739-73e864012192,"479","Gold Country Casino","",39.504155,-121.505815,0
+41ee6b31-8e97-4323-84b9-2290e56ff5a4,"549","Olive Hwy & Skyline Blvd","""across from Wagon Wheel""",39.5100623077191,-121.489374428354,0
+8ac6500d-6422-4859-82eb-d74ec1176dc4,"548","Olive Hwy & Saddle Drive","""Lakeside Market""",39.5042928757842,-121.463442830053,0
+60bfc283-8240-4f77-b7b2-f5927a30235e,"598","Kelly Ridge & Royal Oaks","""Rt 26 timepoint in flag stop area""",39.5315843541374,-121.467243520453,0
+5d6c6051-c9e4-4d3b-b94c-8aa09161b8bb,"550","Olive Hwy & Skyline Blvd","""Wagon Wheel Market""",39.5100891298109,-121.489359676204,0
+37643050-739d-427e-ba3d-062a77e9a707,"480","Olive Hwy & Foothill Blvd","""Oroville Saw""",39.5011761487231,-121.532013507605,0
+9c6bfb07-ca68-425a-b309-3dbaf7b1dc83,"66","Oroville Hospital","""Olive Pharmacy""",39.5044323506613,-121.541917564983,0
+bcb0b321-b8c1-411e-8dcb-1c6b8ad4fb8a,"64","Olive Hwy & Fay Way","""Across from Pastime Autowash""",39.5057546797844,-121.544044556859,0
+d1114491-184b-41c4-b3d4-8ccd29164dea,"481","Washington Ave & Oro Dam Blvd","""Rite Aid""",39.5070850555351,-121.546205076349,0
+f3476be8-511b-4e76-9220-79927cd786d4,"354","Memorial Way & Oleander Ave","""Across from Court house""",39.7333817025055,-121.840480973749,0
+b886028c-3db4-4ae1-9d73-99e2fe2b0991,"355","Chico Jr High School","""Oleander Ave & Francis Willard Ave""",39.7355797729242,-121.841835489382,0
+663a506a-aa56-4ef5-bc98-46baadf96877,"455","Oleander Ave & E. Sacramento Ave","""Northbound""",39.7376222752108,-121.843320092161,0
+b8004bf6-1fb4-4bf0-9b3f-6493bbb4c1b6,"356","E 1st Ave & Palm Ave","""Outbound""",39.7405928218718,-121.839139869162,0
+86c2a695-8eee-43b3-9449-a7a53204a3a2,"252","E 1st Ave & Arbutus Ave","""""",39.7418802822757,-121.836182733547,0
+ba328ad0-84d6-4ffe-97c1-efdc8cafd2c2,"253","E 1st Ave & Sherman Ave","""Across from Library""",39.7432643022099,-121.834130843528,0
+d8e6371c-024f-480b-a4d1-da9b14bf7c77,"255","E 1st Ave & Downing Ave","""""",39.7473707644564,-121.828915287788,0
+a501e73b-d129-4045-b842-94950ce548d5,"256","First & Longfellow","""In Motion Fitness""",39.7497042864385,-121.825944741127,0
+53835d19-2228-4deb-bd49-c48bc7919b60,"257","Manzanita Ave & Mariposa Ave","""""",39.7532085927253,-121.823772151695,0
+27cc03bf-2ed3-4b2d-b421-8dc6b033ba1c,"258","Manzanita Ave & Dove Creek Ct","""""",39.755904212946,-121.819315661151,0
+94b162be-2dc9-4743-bd93-fb56b40ec110,"259","Manzanita Ave & Madrone Ave","""""",39.757408932293,-121.815985698461,0
+ee9d7bff-4948-4ef5-ad41-bfc421476b96,"260","Marigold Ave & Manzanita Ave","""Marigold School""",39.7593857204548,-121.815140802571,0
+cb1cc77d-e52e-42f8-a485-71f96c45332f,"243","Pleasant Valley High School","""East Ave & Marigold Ave (Long's)""",39.7611841417065,-121.815658468941,0
+03fc084e-f5ee-42a5-86e6-db1ceb3ed1b0,"244","East Ave & Mariposa Ave","""Safeway""",39.7610983110129,-121.824277748124,0
+1e3f0711-54e6-428a-a496-97a1a76a18c7,"344","East Ave & Floral Ave","""Church/ Champion Christian""",39.7610473490386,-121.830036451223,0
+63a77041-7d13-4b68-bc8f-6e8e4b8ee236,"106","East Ave & Ceres Ave","""7/11""",39.7609950459596,-121.834365536831,0
+679f28f0-c962-41a2-941b-41b726cb944d,"346","North Ave & East Ave","""Southbound""",39.7605900323743,-121.83872412674,0
+ec05eb4b-9b23-4c77-9e5b-1a2fc4d97130,"347","North Ave & Geneva Ln","""Across from Bidwell Jr High""",39.7575631593205,-121.838639637151,0
+4804fef2-75b5-498a-b2f1-59cedea308c7,"348","Ellene Ave & Manzanita Ave","""""",39.7546140703329,-121.843235602572,0
+9cd9bd16-c783-4536-ad79-69b2880ca998,"84","Pillsbury Rd & Cohasset","""(Wendys CVS)""",39.7579574440692,-121.844602188146,0
+3dfb2d0b-a59c-46f3-9107-77a90d04ad24,"30","Skyway & Colter","""""",39.8491485326975,-121.603774672972,0
+276945df-0edd-468b-97ef-e59af3ca8e69,"29","Skyway & Fremont","""""",39.8448690679591,-121.600161737213,0
+9341a0b5-7008-4df4-8d61-88f1892c60c7,"28","Skyway & Hidden Lake Ln","""Across from Fastrip Gas""",39.8400866890005,-121.597619002916,0
+75a378f6-c0dd-4c26-b705-b2207f82c28e,"26","Skyway & Wycliff","""Across from More or Less Gas""",39.8338961502252,-121.597040986838,0
+231f7b29-ed49-4895-8a9d-6585fbcb3eca,"611","Lakeridge Cir & Skyway","""Magalia  (RiteAid)""",39.8184077333455,-121.591537093612,0
+1c1aeb6a-926b-41e3-925a-55c3cfcd148b,"618","Lakeridge (Holiday Mkt)","""Magalia (Holiday front)""",39.814525235565,-121.590981876313,0
+28024d0a-22ef-432b-af21-c94427c078c1,"413","Old Skyway & Skyway","""""",39.8126771934436,-121.578535084637,0
+ba7d9cc4-163f-4aac-9c34-b18052a6070c,"24","Old Skyway at Community Church","""Magalia Pet Hospital""",39.8062935356077,-121.579101030773,0
+0d024339-ff87-4502-be2f-95820a62a494,"407","Skyway & Clark Rd","""Across from Fastrip Gas""",39.7977828858961,-121.585227196528,0
+2ee3b1c3-9221-4e75-b7fa-334705ce6ac1,"565","Clark Rd & Pheasant Ridge Drive","""Pheasant Ridge""",39.7905637199022,-121.585598682499,0
+e2dbed24-f6e4-48ed-afdd-ae7522183969,"564","Clark Rd & Kilcrease Cir","""Apple Tree Village""",39.7832828630974,-121.587653254727,0
+525a9b0f-65f0-43d5-842b-aaa00ce4ffe3,"563","Clark Rd & Wagstaff Rd","""Paradise Cinemas""",39.7779479490488,-121.590470915465,0
+e25935ac-9039-4525-93c1-cc3a6d9d9611,"511","Wagstaff Rd & Harvey Rd","""N. Fire Station""",39.7776703403992,-121.600498354465,0
+33404dff-70f0-4070-83f7-81de737b9fed,"31","Skyway & Wagstaff","""76 Gas Station""",39.777537571045,-121.606435424473,0
+a154338c-9bd7-411c-8cd5-2f1434bda5cb,"32","Skyway & Billie Rd","""Arco Gas Station""",39.7702500087172,-121.612403339887,0
+655a8dab-d6dc-4561-b4ff-a33503dc331a,"33","Skyway & Lucky John Rd","""Paradise Trailer Park""",39.7657157341072,-121.616963095484,0
+0028de9b-c1ba-4c48-b36b-0e5163b75492,"34","Skyway & Oliver Rd","""K & M Motorsports""",39.7620196498644,-121.622477717547,0
+a4fba5f7-49f1-45fa-9277-32248e0b25b2,"35","Skyway & Fir Stq","""Park 'n Ride lot, Comm. ctr""",39.7563963983295,-121.625976659416,0
+3e147bb1-388b-447a-b1b1-b31842d01bd2,"445","Almond & Birch","""(PTC)""",39.7546435746338,-121.624646283665,0
+866367fa-b57f-417f-8994-111d54227abc,"513","Black Olive Dr & Pearson Rd","""Across from Community Park""",39.7524683029931,-121.624446459082,0
+46d3f880-9717-430d-b916-92a5aab43976,"36","Skyway & Pearson Rd","""Big O Tires""",39.7537611278153,-121.628748722598,0
+cb461ed2-cb5d-4e9d-b604-2c8dc18cf024,"3","Skyway at Town Hall","""Town Hall""",39.7503694743138,-121.631940551516,0
+f608295a-0af7-454e-829c-f1fb06321d5c,"1","Skyway & Neal Rd","""Feather River Health Center""",39.7459867445223,-121.639621057488,0
+fbeb9f93-930b-47ce-9cc2-8418be965b16,"530","Skyway & Princeton Way","""New Apartment Complex""",39.7465030697884,-121.644052067044,0
+107e6d36-5dc6-403a-8fdb-e787fa672f98,"440","Skyway & Bruce Road","""Skyway Tool Center""",39.7138203509939,-121.787314223487,0
+51e0d739-df8a-4ab8-9725-0df6285b4598,"216","Skyway & Forest Ave","""Skyway Professional Ctr""",39.7149830886712,-121.791700976592,0
+b0ce3f0a-20b8-44a5-85ec-0aa39cf02853,"217","Notre Dame Blvd & Skyway","""""",39.7164556215081,-121.795285749154,0
+1c8680b1-3323-4273-87a9-78de073a226d,"423","Forest Ave & Flying V","""""",39.718633575358,-121.800833898832,0
+ac988a95-2fa1-40a0-a4e6-425ba3a19338,"293","Forest Xfer (Bank)","""Rabobank""",39.7231302990395,-121.801398503864,0
+f2e7a05a-3e12-45e8-9aae-e853c766bc54,"369","E 20th St & Chico Mall","""See's Candy""",39.7273561195943,-121.804826367189,0
+b895bf80-4182-4556-b8b5-6301adc20975,"526","E 20th St & MLK","""(Carpet Store)""",39.7250038221481,-121.813491243928,0
+7418d91f-c969-408b-b016-7a99b84839cb,"571","E 20th St & C St","""""",39.7240382268452,-121.818138171323,0
+c30945a0-9991-48c9-b9eb-314d13f30dfe,"572","E 20th St & Mulberry","""""",39.7220037711861,-121.821061779324,0
+b97e9997-2529-49ba-967f-6038b97ab05e,"284","Mulberry St & 18th St","""""",39.7227266265587,-121.822932620223,0
+472e2c1b-52fb-4c06-acd9-5c9ca80d5cba,"438","Mulberry St & 14th St","""Northbound""",39.7250279620306,-121.827079315608,0
+0fbc0a3a-6026-4ef2-98bb-e3158bf4bef2,"395","8th Street & Olive","""""",39.7289654450992,-121.831593473649,0
+9b4016eb-46da-49ed-be1f-5d01d89ec16e,"231","E 8th St & Orient","""""",39.7279502289265,-121.833143790552,0
+983da7c4-af42-43b7-bb20-d434f6d42f3e,"168","Main St & 8th","""""",39.7262658015648,-121.835728099092,0
+588a9f44-bbcc-4b02-91ba-08b00115e53c,"169","Main St & 5th","""""",39.7286073701744,-121.838343253037,0
+4a004e89-c1bb-4a02-a353-92a9c7f42ef8,"405","Pearson Rd & Sierra Park Dr","""(Paradise Parking Lot)""",39.7522269041673,-121.624014623404,0
+24ac0f97-3074-4c06-8760-8e3782cca87e,"410","Pearson Rd & Mallan Lane","""Reid's Nursery""",39.7521732599839,-121.616189278137,0
+dc20bd01-4a23-46eb-8437-ee6f5b37ab80,"412","Pearson Rd & Recreation Dr","""School""",39.7521866710297,-121.613753832206,0
+7d772a06-93a0-4a22-b641-b1a047587660,"17","Clark & Pearson","""Chevron Gas Station""",39.7523932011362,-121.607709473831,0
+feac30c4-9832-4e19-a2a1-749b35890c8c,"18","Clark Rd & Shadowbrook Rd","""Library""",39.7580566858087,-121.606900787765,0
+129f7a00-8797-41f5-8dcb-672c9a1be74d,"19","Clark Rd & Elliot Rd ","""Old Town Plaza/ Shelter Cove""",39.7614255405322,-121.60532364877,0
+10922182-6ebe-4b0a-9762-4253ff301e80,"514","Clark Rd & Central Park Dr.","""McDonald's""",39.7650787094282,-121.602768844531,0
+095e6de1-93c3-4540-8598-e148b1563a54,"20","Clark Rd & Rossi Wy","""PID, Car Wash""",39.7680814425994,-121.599969959257,0
+1452b5e3-0e4f-4b62-bd5f-baccfc7ab1e2,"21","Clark Rd & Billie Rd","""Sam's Liquor Store""",39.7709393364751,-121.597160345147,0
+28f8c8e4-32d9-4467-8d02-68f2a456ca43,"601","Clark Rd & Armstrong Pl","""""",39.7729992731213,-121.595108455128,0
+e9107801-1637-485a-8370-a235b63b5dac,"22","Clark & Wagstaff","""Albertson's, K-Mart""",39.7768857942156,-121.591319834669,0
+b8e624be-8875-4fbd-8ad7-4cc98cb5efb8,"623","North BC Courthouse","""""",39.729778,-121.790482,0
+891c83e1-4e06-4a13-8356-cb53258ab530,"624","E 20th St & Concord","""""",39.727169,-121.792121,0
+6cb06e40-4a52-4670-a297-63832e3d81cc,"220","Forest Ave & E 20th St","""(Winco)""",39.7274768190072,-121.801436054792,0
+abd4315d-7a04-4138-9a11-87967013b6d4,"221","Forest Ave & Hartford Dr","""""",39.7331483503073,-121.801279145555,0
+c888f299-2d9a-4de8-958c-4f62dae13bd2,"222","Forest Ave & Amanda Way","""""",39.7351908525938,-121.802247423068,0
+3947620d-bc22-44ad-9127-438be6aa9725,"422","Forest Ave & Humboldt","""(East side)""",39.7377738200291,-121.804474997787,0
+24da674c-a820-4a3f-b181-5d323e0addfc,"352","Marsh Jr High","""El Monte Ave & Humboldt Rd""",39.7392879271083,-121.799533027383,0
+287aee32-6c31-472b-980c-731e515fa898,"204","Bruce Rd & Sierra Sunrise Ter","""""",39.7437216188742,-121.792383598827,0
+ebdd212f-579d-4338-ac51-59abc418e58c,"205","Bruce Rd & Lakeside Village Commons","""""",39.7489277868824,-121.793956714508,0
+088148b7-6405-43db-9a60-34e83e26a4d0,"206","Bruce Rd & Cal Park Dr","""""",39.7509059161488,-121.794334906002,0
+baa0da37-c1fc-4f10-9251-08f8d26b0e82,"464","Manzanita Ave & Centennial Ave","""Bidwell Park Crossing""",39.7579440330234,-121.795466798274,0
+b8783cf5-bf52-45eb-9e2f-9420f04eac29,"207","Manzanita Ave & Hooker Oak Park","""N. Hooker Oak Park""",39.7595828628292,-121.798929530318,0
+a4362663-a876-43a8-9d3b-91bd8ced023b,"446","East Ave & Tuolumne","""(across from Elk's Lodge)""",39.7616039074423,-121.807243037656,0
+074fe4b9-3c76-4958-9db6-b03f59d57992,"592","East Ave & Cactus Ave","""""",39.7611988938569,-121.810865361146,0
+37cc7725-59e4-4fe4-9020-6c1a9a58f8b0,"582","Floral Ave & East Ave","""""",39.7617970265029,-121.829230447366,0
+a499dfdd-007e-405a-87e8-d5cdae31a9cb,"539","Floral Ave at Silver Oak Dr Access","""""",39.7651363769255,-121.829261292771,0
+6758d1ad-7c78-46db-835c-1a73dbc5d40c,"538","Floral Ave & Whitewood","""""",39.7681391100966,-121.829400767648,0
+8c09aee8-158a-43c5-bd33-40a4150bf4db,"585","Eaton Rd & Floral Ave","""Cobblecreek Apts""",39.7693689030033,-121.829729338272,0
+de34d641-744f-4c01-8d2c-c5633d65050b,"584","Eaton Rd & San Miguel Ct","""""",39.7699737411722,-121.833374460541,0
+b7067508-bc19-4487-af14-aa01d16f2b30,"583","Eaton Rd & Lassen Ave","""Foothill Manor""",39.7728691859763,-121.835489382475,0
+31794a56-dc3c-4354-b868-1e701672a6f4,"588","Ceres & Lassen","""E Lassen & Eaton - end of 7 interline to 2""",39.7736215456499,-121.836520691903,0
+b4bce1d5-cbdf-4988-b06a-5ee4fc47ed7b,"166","Springfield Dr & Forest","""(across Sears)""",39.7301509815545,-121.802770453857,0
+064859f3-0661-40ff-a096-e17c483d0493,"167","Springfield Dr & Chico Mall","""(Calvary Chapel)""",39.7297741311654,-121.806246596947,0
+28938777-258d-458f-a6b5-b03ffe3531cc,"191","Springfield Dr & Auburn Oak Way","""""",39.7321197230887,-121.808965015946,0
+84d0a502-404a-407f-ae94-1f7b186aa4cb,"192","Springfield Dr & Forest","""(Cinn Village Apt)""",39.7343902131552,-121.802960890708,0
+debc7f3d-4844-45fe-a323-b0dfb33f3ad9,"224","Forest Ave & Stansbury","""""",39.7405190611195,-121.804967183171,0
+de88a76d-4c81-4000-9eec-8653c627c991,"225","Forest Ave & Temperance Way","""""",39.7433903660411,-121.805432546463,0
+5447d0c3-401b-4d45-8477-ca677c124e84,"460","8th Street & Forest","""(deer pens)""",39.7455347922763,-121.80700163883,0
+36a177ad-15be-4cf7-9c06-cca3d0ec3873,"226","E 8th St & Kern","""(Cedar Grove)""",39.743657245854,-121.809748221025,0
+fc37b414-758d-477d-b17e-5cc38beb0535,"227","E 8th St at Parkview School","""""",39.7417542184445,-121.812596727168,0
+ed9bb6e3-91e0-4dcd-86cf-7b1511270ff9,"228","E 8th St & Hwy 32 ","""(park side)""",39.7382686876219,-121.817776073085,0
+18aaafa7-faa1-4c81-ab64-073327af2b74,"229","E 8th St & Bartlett","""""",39.7354523679884,-121.821981777071,0
+e4801e22-d87d-475e-bd5f-f92c5a1b5d21,"230","E 8th St & Linden","""""",39.7330960472283,-121.825474013416,0
+91b4bbe1-14f3-4438-99f7-5b9ac3b54d6b,"170","8th & Salem","""""",39.725179506849,-121.83724488838,0
+a332f3e1-b4b3-4fcf-8cef-72ba7b6eaaa0,"600","W. 8th St & Ivy St","""""",39.722585810577,-121.841140797206,0
+a714b5e1-34db-475e-9a59-e96542e35923,"174","Ivy St & W. 5th St","""""",39.7247074380343,-121.843684872608,0
+353d7528-8757-47b1-815c-e2822a289fc2,"268","Nord Ave & W. Sacramento Ave","""Safeway""",39.7308738369271,-121.85898955816,0
+645972df-4780-4dab-bd23-d9d95426837f,"382","Nord Ave & W. Sacramento Ave","""Walnut Grove Apts""",39.7317817647327,-121.860950253066,0
+f5fc0f04-c52d-4e48-9ade-2832fe50c292,"271","Nord Ave & mid block","""Nord Ave Mini Storage""",39.7343446155992,-121.865870765798,0
+4a20db3a-eb75-45de-bca9-369c0ea8c0ca,"270","Nord Ave & mid  block","""Across from Nord Garden Apt""",39.7352713188691,-121.867679915886,0
+4592c86b-efe2-4779-9500-401f6a74fbe9,"272","Nord & W 8th Ave","""76 Gas Station""",39.7362838528325,-121.869754604683,0
+c4898346-3279-4a50-aa61-83f049a21920,"273","Nord Ave & W. Lindo Ave","""""",39.7404989445507,-121.879582219099,0
+6dd0974d-b21f-4ef0-8c6e-421fb7770e15,"380","East & Nord","""Kennedy Ave (Tower Mart0""",39.7434238936558,-121.882200055254,0
+129e54d0-c63a-41ab-afb5-a2272f905418,"113","East Ave & Guynn Ave","""Outbound""",39.7463770059572,-121.878396682644,0
+4d7af52c-101f-4d3a-9152-ee2f7e3cd61c,"114","East Ave & Alamo Ave","""LDS Church""",39.748691752475,-121.87479984014,0
+330c4457-8c29-4f78-960d-aec2a2282e36,"247","East Ave & Cussick Ave","""Pebblewood Pines""",39.7511298806149,-121.87068935458,0
+0c44e2d5-7633-4c87-9f2f-b0d6795b3e25,"378","East Ave & 340 East Ave","""Across from Enloe Center""",39.7530181558739,-121.867493502348,0
+4a2686fa-b087-42f8-9ef3-c403467eacdf,"248","East & Esplanade","""Raley's""",39.7562864277534,-121.862001679063,0
+122d3923-be37-42a2-8988-37e572feb65c,"249","East Ave & Connors Court","""Chuck Patterson Used Cars""",39.7590625142492,-121.857399008119,0
+92c03511-45ed-4111-8cc6-a1052549cb4a,"250","East Ave & Tom Polk Ave","""Beacon Gas Station""",39.761130497523,-121.853926888342,0
+d8897cc6-dda3-4cec-b237-e3c243e97a16,"251","East Ave & White Ave","""Bike Path""",39.7611828006019,-121.850289812701,0
+c2c1d211-0013-4720-a404-65f1e4e0d62c,"279","Park and 11th","""""",39.7242876722984,-121.832280119197,0
+efc95ed4-6763-4446-b82d-93bc1ad76a44,"280","Park & 13th St","""(Senior Housing)""",39.7231946720597,-121.830319424291,0
+dd0eef3e-20da-45ac-bd29-1e768d7e5540,"282","Park & 17th St","""""",39.7207994592666,-121.825994361996,0
+5978cf49-2ade-4de9-8b1a-0d334f4f01a8,"283","20th St & Park","""""",39.7195482086866,-121.823215593291,0
+83fba755-fb40-42f1-8fec-502a8e666d66,"573","E 20th St & Fair St","""""",39.722531,-121.820389,0
+652b5f2c-0437-43ef-9060-f824d48d539b,"570","E 20th St & Franklin St","""""",39.7241334452709,-121.817679513555,0
+3d7c1aa3-b76b-4f47-b12f-3f377723162f,"527","E 20th St & MLK","""(SNB)""",39.7248522773297,-121.812549788508,0
+a8ca680f-6b6e-4034-a5e3-514c437f0d24,"288","MLK & E 20th St","""""",39.7239564194653,-121.811833638658,0
+d8e554a8-cf59-4677-877d-57fa560561bc,"371","MLK & Silver Dollar","""(Cal Water)""",39.7205996346831,-121.807855922452,0
+3df864b6-6378-430f-aeb9-4f0648d8895d,"290","MLK & E Park","""""",39.7152620384253,-121.807166594694,0
+77230086-c160-4510-857f-075ab7329985,"291","E Park & MLK","""(Carmichael)""",39.7147215732766,-121.805488872855,0
+a66ed976-664a-4beb-b37d-5b1af4e33938,"306","20th St & Park","""""",39.7195629608371,-121.823239733174,0
+3f844c14-767a-4c4b-ad39-a06bef0b6e13,"307","Park Ave & 17th St","""""",39.7209952605364,-121.826313544888,0
+8cac5efa-bb5e-4dec-9c8f-85626dcf725e,"309","Park Ave & 13th St","""""",39.7232147886285,-121.83030467214,0
+f105369c-4528-4160-beb1-8918cacc0e1b,"46","Oro Dam Blvd & Myers St","""Subway""",39.5046214464081,-121.550080868607,0
+7f63390a-6771-4827-bbe6-3a5bc5562860,"47","Oro Dam Blvd & 5th Ave","""Las Plumas Plaza""",39.5000670552294,-121.564320717115,0
+9e8abe13-340e-41fe-afd2-3b000476a14b,"506","Oro Dam Blvd & 5th Ave","""America's Best Value Inn""",39.4992905556733,-121.566662285725,0
+de2f009a-e068-44b9-95ad-0dc741096968,"471","Feather River & Oro Dam","""Arco Gas Station""",39.4982646106639,-121.571796034086,0
+2c7cad19-9c3b-43a7-8fd5-e380b991a14f,"298","E Park & MLK","""Chico ER""",39.7148261794344,-121.806679773729,0
+3113ea44-cafb-45ff-ba13-04caa7f12f56,"372","MLK & Silver Dollar Way ","""""",39.7205982935785,-121.80781434821,0
+71fbf15b-3d09-4f77-970f-6d94e8425cd5,"301","MLK & E. 20th St","""""",39.7235460414616,-121.810949850735,0
+7ff9b519-fc3b-492f-bad5-ef0bf3f2f964,"591","Park Ave & 11th St","""""",39.7243855729333,-121.83241825297,0
+70644f56-7669-470b-8723-093e6b199e8c,"122","Cohasset Rd & Esplanade","""(Drive-Thru)""",39.7508589774882,-121.854974291025,0
+4ec357d0-41ef-4b57-b009-990471438a9b,"123","Cohasset Rd & Parmac","""(Childrens ctr)""",39.7516569347177,-121.851555815432,0
+120c252b-0c0e-41bc-9099-1951db8d5fe2,"182","Rio Lindo Ave & Cohasset","""(Dental Office)""",39.7533574553345,-121.84764649556,0
+8c58d3e5-aee2-4405-94f2-dc8bc2622870,"183","Rio Lindo & Parmac","""(across Bloodsource)""",39.7554536018046,-121.849416753615,0
+08a51479-6253-43c1-9ed0-3964e97ed7d6,"184","Rio Lindo Ave & bike path","""""",39.755774125801,-121.851968875645,0
+7ea6a527-4929-49a5-9744-f14edc3ee7fa,"185","Rio Lindo Ave & Porter","""(courtyard)""",39.7541661414007,-121.854714116735,0
+f60bbd65-f483-40ae-8f9c-80ae45f5c858,"331","Esplanade & Shasta","""""",39.7642257669107,-121.868825219204,0
+525d01c1-8c83-41b5-8760-a674f94a2bec,"332","Esplanade at Cavalier Bike Path","""""",39.7655990580082,-121.870202533615,0
+494bbb3b-c59d-4dd9-a4cd-9ddc4f153162,"576","Esplanade at Mt. View Mobile Home Park","""""",39.769356833062,-121.873976401924,0
+eb5cf9cf-0a32-4f51-93f6-0c5cb0a3229b,"333","Esplanade & Eaton","""(Philly Sq)""",39.7711311144311,-121.875760071025,0
+b26dbec1-f94c-4f02-9111-dde3bf53ffbe,"334","Esplanade & Tonea","""""",39.7749546036097,-121.879590265726,0
+1d2e282c-a836-42d0-90a8-1c4a00c26d84,"607","Esplanade at DeGarmo Park","""DeGarmo Park""",39.7775456176725,-121.882182620894,0
+1ff75020-bd8e-4548-a7bf-84c73f73d212,"335","Esplanade at Shasta School","""""",39.779539840194,-121.884215735448,0
+35a8eb41-6060-4f5e-a416-8e08bb05c7eb,"336","Esplanade & Valley Ct","""""",39.7815850246898,-121.886530481966,0
+1fef3792-6d67-413d-8c30-4e0dc39176ad,"603","Pine St & 9th St","""""",39.7284906940753,-121.830173243891,0
+fe0f4162-1790-4501-ba40-a9f4752954ff,"439","Mulberry St & 14th St","""Southbound""",39.7249662712196,-121.827049811307,0
+bc068b26-0a47-40cd-ade0-95e6f4c3c5d8,"305","Mulberry St & 18th St","""""",39.7228406204486,-121.823211569978,0
+4aa88568-1230-454a-9ae0-570661d54fbd,"622","Mulberry St & 19th St","""""",39.7221593393182,-121.822022010208,0
+a3fa470d-df41-45cc-90b4-bc569cade9a6,"199","Skyway & Zanella Way","""Ginno's""",39.7148328849574,-121.791706341011,0
+a6648124-1c40-49c5-a8ba-c85f612d1189,"441","Skyway & Dominic Dr.","""Italian Cottage Restaurant""",39.7137144037315,-121.7874349229,0
+16841379-9d95-43d1-b65f-f5dc8e2a7fe2,"0","Skyway & Princeton Wy","""Old Concrete Shelter""",39.746397122526,-121.64408291245,0
+c6e15144-4d5f-490d-bf1f-88450912c2fb,"508","Skyway & Neal Rd","""Welcome to Paradise Park""",39.746120854981,-121.638330914875,0
+8efaf0ff-115a-4bb1-81a7-dea1d0886ab4,"2","Skyway across from Town Hall ","""Annie's Country Cafe""",39.7503547221634,-121.631917752738,0
+0de94e66-3e43-43dd-8327-c78ef3b511cf,"4","Skyway & Birch St","""Car Mart""",39.7546636912026,-121.627801902759,0
+e84e76ae-bd65-4d84-a1f6-584fdfe8ce49,"509","Fir St & Skyway","""Tech Guy Computers""",39.7563333664139,-121.625909604186,0
+bc1cf5b4-c569-49f9-bea6-938f351a4010,"5","Skyway & Elliott Rd","""Les Schwab Tires""",39.7593012308658,-121.62399584794,0
+6cbfbcea-fa7f-4053-8296-af9bead4f891,"6","Skyway & Luther Dr","""Recreation Center""",39.7616495049983,-121.622593052542,0
+08572162-f548-46de-9f72-006cf6cade2d,"7","Skyway & Lucky John Rd","""Happy Garden Restaurant""",39.7656687954467,-121.616938955601,0
+956f2104-6cef-4f05-8249-34b88772489d,"406","Skyway & Maxwell Dr","""Automotive Center""",39.7671654681662,-121.613645202735,0
+a8261098-94be-4a79-b849-d165cad6a4c6,"8","Skyway & Billie Rd","""Companions Animal Hospital""",39.7705262762622,-121.612208879722,0
+08e4e7b2-8edc-4ad0-8fdf-587b68570fcc,"9","Skyway & Wagstaff","""Shell Gas Station""",39.7775094078487,-121.606384462499,0
+0511adfb-e938-4124-9d27-a5252f1c0519,"510","Wagstaff Rd & Harvey Rd","""S. Fire Station""",39.7776207195294,-121.600446051386,0
+87f84df3-d1f0-47b2-a2a2-b13de1df215f,"566","Clark Rd & Wagstaff Rd","""United Methodist Church""",39.7781960533974,-121.590238904371,0
+3748011e-61f5-43a9-a504-538e609ab078,"567","Clark Rd & Frankie Lane","""""",39.7903799885738,-121.585597341394,0
+8e1b2ab5-8bab-4b96-a3d2-2e279c50d88e,"408","Skyway & Clark","""Fastrip Gas Station""",39.7978325067659,-121.585152094671,0
+235db08e-bab3-4948-b4da-600cccac7532,"23","Old Skyway at Community Church","""Community Church""",39.8064209405435,-121.579072867577,0
+ca612bea-737f-4403-8a79-ef3fb5ac9175,"414","Old Skyway & Skyway","""Magalia Depot""",39.8126624412932,-121.578468029408,0
+0812b2da-daad-47c5-b839-adb655e3bc35,"614","Lakeridge (Holiday Mkt)","""Magalia (across Holiday)""",39.8144836613228,-121.590960418639,0
+15c70203-073b-43b3-ab24-73473345cf96,"612","Lakeridge Cir & Skyway","""Magalia  (PO)""",39.8184533309015,-121.591374819957,0
+a988d9a2-42d0-4f9b-8678-9ecfa1b48825,"417","Skyway at Paradise Pines RV Park","""Campground/ RV Park""",39.8282192545068,-121.596421396519,0
+e15dcb4d-f54d-495d-8078-3ad5109ff0ca,"416","Skyway & Fir Haven","""Across from Red Lion Pizza""",39.8324866493038,-121.596466994075,0
+339acfe4-3a07-44fd-8fd3-ba5ebb9140b7,"25","Skyway & Perry Rd","""More for Less Gas""",39.8342730006142,-121.59713486416,0
+1a8293f7-e8f5-4cb3-ac3a-d3b4bac68389,"415","Skyway & Hollywood Rd","""Holly Pines Mini & RV Storage""",39.8378980063139,-121.59765253053,0
+5c4e50f9-1b5b-43d2-a75c-32299714dd9e,"27","Skyway & Woodward Dr","""Fastrip Gas Station""",39.8392471575288,-121.597526466699,0
+ec27e3f6-e156-4d2c-b77b-f1202442a064,"483","Lincoln Blvd & Marysville Baggett Rd","""""",39.4895903461927,-121.55128920384,0
+97c1af90-5c52-4755-b034-2402ec177180,"489","Lincoln Blvd & Mill St","""Southbound""",39.4862858644894,-121.551097425884,0
+ac51f3d5-4007-4ad6-aaf2-359f2d2d4f77,"487","Lincoln Blvd & Mill St","""Across from Beaver's Market""",39.4839550247166,-121.551314684827,0
+9e2070e2-6300-4ee2-bd0a-1064dd7ba343,"484","Lincoln Blvd & Clinton Ave","""""",39.4816898990685,-121.550256553308,0
+1507f184-ceb0-4b33-81b0-6a3b50a7ac59,"551","Las Plumas High School","""Las Plumas & Autrey Rt 27 timepoint""",39.4804761994169,-121.536247374788,0
+19556d92-7f40-4ac1-ae35-14dbf3906d3f,"485","Lincoln Blvd & Virginia St","""""",39.4821673323016,-121.550453695682,0
+d5901ea7-06bd-4b65-b970-9c47ece9e106,"486","Lincoln Blvd & Mill St","""Beaver's Market""",39.4839550247166,-121.551277133899,0
+f3821fd9-aba9-4600-ba68-6a5c150638c4,"488","Lincoln Blvd & Mill St","""Northbound""",39.4862845233849,-121.551045122805,0
+dbb762ee-affc-4f60-b4e5-ba656e153719,"490","Lincoln Blvd & Grove St","""""",39.4887065582697,-121.551167163322,0
+effed4fa-474a-40d4-9746-9e319b6c5bdd,"10","Clark & Wagstaff","""Rabobank""",39.7771593795514,-121.591141467758,0
+84f35529-8e85-4971-a6cb-4d353ccb8d8d,"531","Clark Rd & Armstrong Pl","""Southbound""",39.773292975026,-121.594932770427,0
+c520d212-43ca-4838-863a-fa9203c8e48b,"11","Clark Rd & Billie Rd","""Post Office""",39.7708119315393,-121.597385650717,0
+a509ecea-cbe7-4d44-ad43-953744a3ed98,"409","Clark Rd & Elk Ln","""Elk's Lodge""",39.768036,-121.600075,0
+23e68fa5-4da0-4158-92b8-b85c4c8c5a7a,"515","Clark Rd & Central Park Dr","""Paradise Mtn. Real Estate""",39.7651108959383,-121.602846628597,0
+4b34379d-0ca4-4332-a0f7-843e05855106,"12","Clark Rd & Maple Park Dr","""Jiffy Lube""",39.7614014006496,-121.605461782543,0
+f3d29dc9-1990-4178-95f5-33f83836f6e1,"13","Clark Rd & Shadowbrook Wy","""DMV""",39.7577039753022,-121.607064402524,0
+3eed91cf-d9b8-4c2b-8dbc-b937dd8817b2,"14","Clark & Pearson","""Paradise Motors""",39.7523985655545,-121.60777652906,0
+d80a0dc1-b84a-4fa7-bcb3-a35d98c3587c,"411","Pearson Rd & Churchill","""Busters Coffee Deli""",39.752244338527,-121.612883455329,0
+221dcf73-1c17-4db8-91f7-e08c2c2738b1,"15","Pearson Rd & Chapel Dr","""Paradise Hobbies""",39.7522322685857,-121.616186595928,0
+f1acef2a-42c1-451c-a1ee-cc69e1476dbc,"16","Pearson Rd & Black Olive Dr","""Community Park""",39.7523704023582,-121.624367333911,0
+6a9f8408-38dc-46d5-9c5e-195b9e124b70,"433","Ivy & 5th St","""""",39.7243708207828,-121.843554785464,0
+64519b86-04f0-4009-a188-b95c48afe9a6,"434","Ivy & 9th St","""""",39.7219233049109,-121.840699573797,0
+cc042de1-27b9-49d2-9845-d5e42ddfdcb5,"602","W 9th St & Chestnut","""""",39.722862078122,-121.83885287278,0
+0d02edd6-39e6-4601-a2b0-2b1df0b5250e,"181","9th St & Salem","""""",39.7244445815351,-121.836487164288,0
+af7eb563-1859-4f42-a8bc-7879afd71918,"376","E 8th St & SR32","""(apts)""",39.7382445477393,-121.817737181052,0
+45e292f5-545c-48be-a4c2-4f3be3ed741e,"155","E 8th & Alpine St","""""",39.74111853487,-121.813503313869,0
+ce5056a5-746b-41c7-811b-154b82ef015a,"156","E 8th St & Glenn St","""""",39.7427037204924,-121.811134923168,0
+f10212d1-aecf-4fcb-a4dc-ca79a85a3de9,"157","E 8th St & Forest","""""",39.7460390476012,-121.806196976077,0
+5fa16f37-2836-4012-913a-65fe09b97075,"158","Forest Ave & Forest Creek Cir","""""",39.7433876838319,-121.805471438496,0
+51cc3cbc-a677-4a9e-a189-dddacddda9b9,"159","Forest Ave & Modoc","""""",39.7401556217763,-121.804943043288,0
+af3be52f-b068-49b5-98c7-c8a16d5ed4f4,"160","Forest Ave & Humboldt Rd","""""",39.737702741486,-121.804602402723,0
+c3c38744-d0dd-4033-acc1-c68614abe47d,"193","Forest Ave & Springfield Dr","""Cinnamon Village Apts""",39.7337652584174,-121.801760602102,0
+02ba9e66-2848-4111-8287-e99437bb7901,"194","Forest Ave & Springfield Dr","""""",39.7285470204679,-121.801591622924,0
+fcc1137b-83d9-41ae-a2dd-04bac4e1acf7,"195","E 20th St & Forest Ave","""Best Buy""",39.7272085980897,-121.80100287801,0
+92fdf99e-56cc-434a-9f51-3bebff247c40,"196","E 20th St & Huntington Dr","""Huntington Apts""",39.7272327379723,-121.797794955837,0
+5d9459a2-6d2e-4041-9e61-ba30814dea81,"528","Notre Dame Blvd & E. 20th St","""""",39.7264294163245,-121.796321081896,0
+8d124ada-e5ed-4484-93dd-0950c126850a,"197","Notre Dame Blvd & Robailey Dr","""Mountain View Apts""",39.7217543257329,-121.79533134671,0
+0a6a92fc-d181-4907-9760-c190d7062e24,"617","Notre Dame Blvd & Forest","""""",39.7185155581543,-121.795346098861,0
+79599782-a0bc-4c9f-ab07-ce846fcbef82,"586","Eaton Rd & Floral Ave","""Eastwood Court""",39.7693407398069,-121.82970519839,0
+3aaf803c-75b4-40d6-9c16-2c5069f13903,"537","Floral Ave & Glenshire Ln","""""",39.7663594643092,-121.829498668283,0
+62f28eb7-abdc-469c-9f60-5492c02dfeb3,"581","Floral Ave & Ravenshoe Way","""""",39.7626727677985,-121.829418202008,0
+2b614c94-7c52-4e6a-81e6-4b3219bf208e,"367","East Ave & Cactus Ave","""""",39.761176095079,-121.81031684937,0
+4ade0ba0-42b8-4990-991f-a31973f00c4f,"105","East Ave & Manzanita Ave","""""",39.7615475810497,-121.807210851145,0
+9b670e69-c62c-4564-9e66-89f0e580e193,"208","Manzanita Ave & Hooker Oak Ave","""S. Hooker Oak Park""",39.7596137082346,-121.799196410131,0
+25a1ca30-367d-41ff-92ba-4d9e9ddba5d2,"209","Bruce Rd & E. 8th St.","""""",39.7502501160056,-121.794549482736,0
+de92b3c6-3394-49eb-a578-f441663a06af,"368","Bruce Rd & Lakewest Dr.","""""",39.7469147888967,-121.792897241884,0
+063680fc-a01a-4afe-94da-9320cd0318f2,"211","Bruce Rd & Sterling Oaks Dr.","""""",39.7444364276192,-121.792850303224,0
+059fd814-54ce-4cec-b427-ac6d4e1f61e8,"540","Marsh Jr High","""Humboldt Rd & El Monte""",39.7390720092697,-121.799794542777,0
+eedf5e0d-b537-4188-8db5-f2275692bbe6,"62","Washington Ave & Oro Dam Blvd","""Oroville Sports Club""",39.5071386997186,-121.546343210122,0
+88343c4a-2997-42b5-af83-207ee55457bb,"63","Olive Hwy & Fay Way","""Pastime Autowash""",39.505739927634,-121.544100883251,0
+5dbb93f5-f590-4f94-919d-d6516bd95143,"67","Olive Hwy & Oroville Medical Center","""Power Equipment""",39.5040420892264,-121.541354301057,0
+3167631a-1626-4d40-b9a4-d1b4a8e9b5a3,"492","Lower Wyandotte Rd & Oro Bangor Hwy","""Across from Robertson's Market""",39.4810354400298,-121.530711295051,0
+7cb3d766-f395-4921-a753-9cf83df3c02e,"493","Alverda Dr & Feather Falls Blvd","""Feather Falls Casino""",39.4665917436237,-121.517673076253,0
+87f0ca9b-29df-4519-a926-c8018920e8c3,"494","Alverda Dr & Majhi Ln","""Tribal Admin""",39.4667419473375,-121.520127297647,0
+2e762741-ca09-4621-8051-ad220b3ce3f2,"495","Lincoln & Palermo","""Post Office""",39.4354673883597,-121.551440748658,0
+cfc3ff1d-6060-43d2-b3c5-23ea7ce272ed,"497","Palermo Rd & Lone Tree Rd","""Northside""",39.4341973623155,-121.576854680589,0
+ab6addc2-3fbc-438f-b043-59e43dde7bd9,"498","State Hwy 70 & Palermo Rd","""Falling Rock""",39.4329487939446,-121.605141258546,0
+58ae078a-c63c-44e6-a007-de7780a70223,"75","E Gridley Rd at Farm Labor Housing","""Farm Labor Housing""",39.3650862196139,-121.647335091074,0
+a2990283-7efa-4c70-b88d-1792a1ab0680,"76","Heritage Oaks Mall","""E Gridley Rd & SR 99 (7/11)""",39.3632274486558,-121.687278550105,0
+a91c4eff-5810-445e-83be-ac3673558f47,"523","Spruce & SR 99","""Gridley (hospital)""",39.3669932703372,-121.688693415445,0
+288c6160-b38d-40a3-9f89-4e32d619a7dc,"78","Spruce St & Kentucky","""Gridley""",39.3657447019663,-121.697073978011,0
+be3993f2-6d4f-4253-8f17-c8e343104106,"80","Spruce St & Oregon St","""""",39.3649386981093,-121.703696352464,0
+8b9ff273-9cdb-4d94-aa64-7f2a54fd14d9,"81","Spruce St & Idaho","""""",39.3649373570047,-121.706192148101,0
+714ed046-53c6-43d2-8c8f-5c7abb0954e5,"502","W Biggs Gridley Rd at Heron Landing","""Gridley""",39.3723885340922,-121.706644100347,0
+c70a05d2-4021-46bd-ae65-3ae6b3a97b58,"533","B St & 10th","""(southside)""",39.4122166581283,-121.71456466404,0
+bc2de141-aa52-4a0c-9f76-b560aea26a40,"503","Biggs 6th & B Street","""Biggs City Hall""",39.4138407357836,-121.710922223981,0
+c7f8df7f-24a9-4b21-a085-5b06829347ac,"312","Warner & W. 1st","""(CSUC Library)""",39.7275519208641,-121.846914252455,0
+99ba5786-2467-4bf5-8366-db8adf4b9646,"313","Warner St & Legion","""(CSUC Whitney)""",39.7304996687472,-121.849623283721,0
+9a506bc9-7b9c-4244-83dc-2dc60a71f88d,"390","Warner & W. Sac","""(Chico High)""",39.7335949381348,-121.851864269487,0
+d2211ff5-3e79-462d-878f-676282b44802,"429","W 1st Ave & Warner ","""""",39.7345015248359,-121.853796801197,0
+62e3e91e-81da-4466-af68-8465e106b4eb,"428","W 1st Ave & Cedar","""""",39.7328492839842,-121.857716849906,0
+7295b5a7-12a2-4eac-b227-ff34ca064d47,"388","N Cedar St & 2nd Ave","""""",39.7340348204395,-121.858687809628,0
+1422feeb-8cb9-407e-aa0c-dd92d8e14280,"314","4th Ave & Cedar","""""",39.7358627459921,-121.859804949749,0
+09a5b444-9424-4f70-bfd2-5d202adfc231,"389","W 4th Ave & Cherry St","""""",39.7369959793685,-121.857192478013,0
+a178fda7-3dc5-4566-b633-42d530a85b0e,"315","Warner St & W. 4th","""""",39.7376558028254,-121.855304202754,0
+dcebb468-d88a-4407-be33-ab8a6a2b7aef,"316","Warner St & 2nd Ave","""""",39.7359955153462,-121.85409854973,0
+7711bf5a-f7d1-42f0-831f-a2bca5b5d84c,"317","Warner & W 1st Ave","""""",39.7347241481974,-121.853198668551,0
+2d70864c-7538-47cc-9251-a475f6df7a9c,"319","Warner & Legion Ave","""(RT9)""",39.7308778602408,-121.849926373358,0
+11f2772a-3823-44b5-a513-ab0cdedcc806,"53","Myers St & Wilcox Ave","""East, Curves""",39.5078696017188,-121.551936957356,0
+59875282-4a24-4df0-ac05-a93b205f31dd,"467","Montgomery St & Myers St","""Transit Station (rt 20, 31) """,39.5140815981675,-121.555434558119,0
+728b4459-78d3-4e03-8fb8-e744989d570e,"465","Montgomery St & Table Mtn Blvd","""Monday Club""",39.5155836353054,-121.550992819726,0
+8868fa4f-f385-4c00-81a8-33b41812ce81,"43","Table Mountain Blvd & Grand Ave","""CEC""",39.5221161557505,-121.55564511154,0
+1b6bb381-9ee8-4b80-a3af-0520e4f8e178,"41","Table Mountain Blvd & Nelson Ave","""Across from LDS church""",39.5234800591159,-121.557717118127,0
+734ef71c-c1c0-42e8-88f4-a0cd97a718e7,"60","Table Mountain Blvd & Flying Cloud Dr","""Tony's Liquor""",39.5258551553401,-121.561307255108,0
+6ebe65a9-5a91-4dfd-afc8-9e54aa47bb50,"59","Table Mountain Blvd & Jasmine Ct","""""",39.5279043631497,-121.564410571123,0
+6f1d9de2-e0d1-4269-8a4c-14173639fef1,"637","5th Ave & Oro Dam","""""",39.4988466500548,-121.565352026543,0
+cd615a4a-1e1f-4990-934c-9a7f0fe99946,"473","Wal Mart","",39.4928157027254,-121.572658364335,0
+71c6df35-a8a8-4fa3-a7d7-0c8ae801fe99,"48","Feather River Blvd & Oro Dam Blvd","""Freedom Homes""",39.4998752772734,-121.571496967763,0
+f09c1f5f-b36f-46f3-9c7a-002c06510a75,"58","Feather River Blvd & Mitchell Ave","""Waffle Shop""",39.5021377207123,-121.570955161509,0
+f6f0dbf6-26fa-4f84-a4ba-2ab1cd0a1edc,"49","Feather River Blvd & Mitchell Ave","""Sunset Inn""",39.5039669873695,-121.57053137246,0
+6881eba7-7460-4546-93f9-a50190d779a2,"505","Mitchell Ave & 5th Ave","""Boulder Creek apts""",39.5041614475346,-121.566711906595,0
+ce938769-9558-4a3a-8cde-cfbe8a377414,"50","Mitchell Ave & 5th Ave","""DMV""",39.5045302512962,-121.565036866965,0
+f3b3c9c3-f042-4e7a-98fe-0cbb7306beb8,"56","5th Ave & Pomona Ave","""Playtown Park""",39.5068369511865,-121.564947012958,0
+a8366245-68f7-4ba7-b554-e00761ec0131,"232","E 2nd St & Wall St","""""",39.7310776848243,-121.839208265496,0
+2c6bcd07-3429-436b-ac49-ba7d9a968582,"425","Vallombrosa & Memorial","""(park)""",39.7333025773348,-121.837282439308,0
+00c8e4e5-212b-4b46-8a3a-2769912524e9,"233","Mangrove Ave & Vallombrosa","""(Safeway)""",39.7355811140288,-121.835671772699,0
+2860517c-1075-4934-9473-8287fe399032,"82","Mangrove Ave & E 1st Ave","""(Medical)""",39.7399490916699,-121.837035676064,0
+519e9f54-4e7b-48d9-80d4-cc829e7877a4,"83","Mangrove Ave & 3rd Ave ","""(Tax)""",39.7431060518686,-121.839146574685,0
+bf3e9bdc-c88c-4399-9c5d-32c1569ef51e,"234","Mangrove Ave & 5th","""(Plaza)""",39.7459317592342,-121.841191759181,0
+1893be86-854a-4dff-b051-f02aecd7e559,"235","Mangrove Ave & 9th Ave","""(Bank)""",39.7495232373192,-121.843796184289,0
+dfcf2aec-ebef-4414-aff0-1404bbbf5b7c,"86","East Ave & Cohasset","""(Tinseltown)""",39.7608207023633,-121.845739444836,0
+be99a0ed-29be-42da-a6db-86771f337f53,"87","Cohasset Rd & East Ave","""(Car)""",39.7620384253286,-121.843455543724,0
+cf7771a6-00a4-4de0-b630-7199cf105ba9,"88","Cohasset Rd & Christi","""""",39.7651605168081,-121.843522598953,0
+b686337a-5dec-46b0-acda-1df93f98494a,"89","Cohasset Rd & Phlox","""""",39.7668918828304,-121.843561490986,0
+bdc51536-5c4c-46f3-8a41-fc62069ce1c5,"620","Cohasset Rd & Lupin","""""",39.7682799260783,-121.843585630869,0
+b23aa544-4661-414b-a4e3-df816dca07e9,"590","Cohasset Rd & Glen Brook Ct ","""Country Village""",39.7706416112567,-121.843601724124,0
+a9b31e10-4694-4745-9346-59c29630de5c,"403","Ceres & Lassen","""""",39.7726049883726,-121.838194390428,0
+ed1643b9-2e88-4e1c-aba3-a64629e044fd,"404","Diablo & Ceres","""(Sycamore Glen)""",39.7713778776752,-121.837994565844,0
+bfd49486-7796-4add-9d37-c2c907f88992,"558","Mitchell Ave & Lincoln Blvd","""across from Library""",39.5062991682469,-121.554415318633,0
+1d0da62b-ee2d-4e0b-9ed8-2385541e526e,"559","Mitchell Ave & 3rd St","""Harrison Stadium""",39.5061677399974,-121.560328248759,0
+22139871-e525-4483-bd90-4fd8e241b9f2,"560","Mitchell Ave & 5th Ave","""Across from DMV""",39.5045396390283,-121.565111968822,0
+796edfd6-2cc7-44be-b6ce-007cb0647578,"561","Feather River Blvd & Mitchell Ave","""Across from Feather River Rec""",39.5034895541364,-121.570672188441,0
+d2e5a606-2941-4013-af9b-cf282cb41c49,"562","Feather River Blvd & Oro Dam Blvd","""Applebee's""",39.5012633205213,-121.571201924753,0
+104e2857-0c3a-42de-8029-0d8d9d7d2b39,"595","Feather River Blvd & Oro Dam Blvd","""Staples """,39.4999061226789,-121.5715372009,0
+c69e14cb-178d-49f2-9f6b-543cffc49544,"599","14th & Grand","""Rt 24 Timepoint in flag stop area""",39.5113913423652,-121.595821922768,0
+c60c57bd-3049-480a-aced-f6b1a1b30ac2,"474","Yard St & Bridge St","""Oroville High School""",39.5132071979766,-121.546399536514,0
+9f5974aa-b5ea-4c79-961e-a1b25fee9c74,"475","Bridge St & Mitchell Ave","""Bill's Barber Shop""",39.5108522183211,-121.542982402026,0
+de348b9e-181a-45d2-ac7d-4ceb64307706,"557","Mitchell Ave & Washington Ave","""Oroville Adult Education""",39.5093555456016,-121.5456646112,0
+fc827a7c-2c91-4caf-b4aa-e9ac92029fb0,"569","Clark Rd & McKale Rd","""Northbound""",39.735577090715,-121.61268497185,0
+fd44fb18-add4-4144-9e28-a022a4d1facf,"521","Clark Rd  & Pearson Rd ","""ACE Hardware""",39.7514892966443,-121.607693380576,0
+99f6b99d-f388-4f83-9c6c-ef1f95c4faed,"596","Washington Ave & Yard St","""Eastside Elementary School""",39.51282230096,-121.547172012757,0
+00fcb57a-e3b8-4149-ae0f-4b7920b1dfd3,"552","Orange Ave & Bridge St","""Oroville HS""",39.5151263186411,-121.546254697219,0
+01c9c9cf-9424-454f-8d14-96d777491856,"553","Orange Ave & Hammon Ave","""""",39.516345382711,-121.542903276855,0
+2d885ef0-945a-4986-9114-88e8c92e2f77,"604","Orange Ave & Acacia Ave","""Nicks Stuff 'n Things""",39.5173901031846,-121.537451686707,0
+77dcf47a-875e-4c5a-a79f-53b65b01f7df,"554","Orange & Acacia","""7/11""",39.5178018222929,-121.534764113114,0
+a8dceaa2-cb3f-4693-96dc-0412bc1a2929,"555","Acacia Ave & Oak Park Way","""United Methodist Church""",39.5160329053421,-121.532061787371,0
+348a753d-fe32-41de-af92-c0374f718d6c,"556","Canyon Highlands Dr & Acacia Ave","""Calvary Chapel""",39.5125755377159,-121.532073857312,0
+5c1f0ef7-d101-4dab-a0fb-93acb0e4a824,"605","Canyon Highlands Dr & Argonaut Ave","""PGE empty lot""",39.5108294195431,-121.533756943569,0
+83ae55ea-b75b-4d5a-9cbd-13a75b138303,"606","Canyon Highlands Dr & Oro Quincy Hwy","""""",39.509584874486,-121.539538445445,0
+ccc09e8d-9b08-4a17-a616-0de7452ca6a6,"635","Ryan Ave & Cohasset Rd","""(CMA - 5th Sun)""",39.8073945824739,-121.849965265391,0
+806c7296-7ac9-4b2d-97b7-645945c9b4ae,"636","Cohasset Rd & Lassen Ave","""Rt 52 connector""",39.7738079591875,-121.843813618649,0
+f027183b-388f-4c97-8a91-aa9e09df00bf,"55","Mitchell Ave & Veatch St","""PCP""",39.5066116456158,-121.558827552726,0
+9ac416f2-1a71-4147-9430-9245ef0ae0ce,"504","Mitchell Ave & Lincoln Blvd","""Oroville Library""",39.5060175362836,-121.552477422504,0
+b206950e-3b88-4ab7-9c31-45eefb8ab728,"373","Fair St & 22nd St","""Outbound""",39.7188991140663,-121.817969192145,0
+fb508a2d-9cb3-4ef0-bd02-fd21ec9f9aee,"437","Fair St & Fair Grounds","""W Silver Dollar Fair Grounds""",39.716215563787,-121.814847100666,0
+6398ef19-85e2-4e09-ace5-89a49c845a45,"462","Fair St & E. Park Ave","""Casa Ramos""",39.7143246063187,-121.812717426581,0
+4f4b0593-733d-4bf4-a71e-ee150e1c6860,"281","Park & 15th St","""""",39.7219313515384,-121.828036864283,0
+c92f7544-12a5-4803-8bdf-cb7199ba094a,"546","Midway Durham Dayton Hwy","""Durham (west)""",39.6465317694266,-121.800285387056,0
+c962c44d-5d1b-40ef-8de6-24641230519a,"625","Cohasset Rd & Lassen Ave","""Rt 52 connector""",39.7739581629013,-121.843637933948,0
+aa208e80-2658-4d59-814b-8602f6f52a56,"626","Ryan Ave & Cohasset Rt","""(CMA - 5th Sun)""",39.8072899763161,-121.851437798228,0
+32bfecf7-3c1a-4881-a19a-fa75a5a7c16d,"627","Marauder St & Lockheed Ave","""(CMA - Lares)""",39.802047598484,-121.851016691388,0
+de16c81e-4319-4a9d-a4a9-0deb6a9c983e,"628","Marauder St & Convair Ave","""(CMA - Milestone)""",39.7995947181937,-121.849006375611,0
+aca171d9-1774-42cc-b28a-5869c9d431e0,"629","Boeing Ave & Marauder St","""(CMA)""",39.7970224795951,-121.846844515016,0
+b2e2f517-f9c7-48c8-9e62-05ac3fd761fd,"630","Boeing Ave & Fortress St","""(CMA - Stott)""",39.7954922792609,-121.849955877659,0
+7993c3bd-6247-45af-852f-ebf695b70f1c,"631","Fortress St & Convair Ave","""(CMA - Tri-Counties Bank)""",39.7980350135586,-121.85214590145,0
+9e7561b7-afcc-41ca-b4a8-efa9ce54af21,"632","Fortress St & Lockheed Ave","""(CMA - across from terminal)""",39.800474482803,-121.854170969377,0
+23c05ce1-c211-4955-8288-ab9d01022d2a,"633","Fortress St & Ryan St","""(CMA)""",39.8043154063413,-121.857334635099,0
+9caae00e-ba21-40de-afab-efeff4935139,"634","Ryan Ave & Marauder St","""(CMA)""",39.8058965686498,-121.854288986581,0
+c9aba930-f8df-46cd-aec5-4304dd1e72d6,"0310","Wagstaff & Skyway","""Route 41 first loop stop start point""",39.7776649759808,-121.606121606,0
+74a55f4b-702f-47c6-8ad0-a52dd1d2844b,"463","Fair St & E. Park Ave","""Tower Mart""",39.7143393584692,-121.812683898967,0
+0ea0cff0-2661-40e6-b7be-6d4125502c29,"436","Fair St & Fair Grounds","""E Silver Dollar Fair Grounds""",39.7162812779118,-121.81488331049,0
+3fe2bb0f-6dfb-4660-80ad-312737463a31,"374","Fair St & 22nd St","""Work Training Center""",39.718932641681,-121.817962486622,0
+f712fc54-3585-473c-b3c1-23816389e90c,"532","B St & 8th","""Biggs (Family Park)""",39.4125197477651,-121.713371080957,0
+ba8a8dd2-bf06-44e2-b8ea-ec14ea810eba,"580","W Biggs Gridley Rd & Macedo Rd","""Across from Heron Landing""",39.3721793217766,-121.706701767844,0
+6a4bb48d-4de1-4407-bba3-073c330fe527,"501","Spruce & Idaho","""Gridley (southside)""",39.36490382939,-121.706184101473,0
+17472b9e-9c4c-4804-94b1-9a3811489ff9,"500","Spruce St & Oregon","""Gridley (southside)""",39.3649118760176,-121.703697693568,0
+0c579419-3c9d-4f8b-babf-127e5347e4d4,"79","Spruce St & Kentucky","""Gridley""",39.3657379964434,-121.697035085978,0
+63db2803-2a7b-443f-bd21-03d91ed5e41a,"524","Spruce & SR 99","""Gridley (across from hospital)""",39.3669664482454,-121.688717555327,0
+1492a195-376c-4fb7-a7e4-0e58049e02d3,"77","Heritage Oaks Mall","""E Gridley Rd & SR 99 (Heritage Oaks)""",39.3632006265641,-121.687254410222,0
+13690862-e93f-4f71-984b-5c3ab3f1e3bd,"499","SR 70 & Palermo Rd","""(Falling Rock)""",39.4329394062125,-121.605062133376,0
+cced6886-c59d-41f1-abc5-c6ea758e2b0e,"496","Palermo Rd & Lone Tree Rd","""Southside""",39.4341705402238,-121.576771532105,0
+b09b71db-9c1e-43dc-b102-a3aee2312a42,"74","Lincoln & Palermo","""Wymancreek Feed""",39.4354687294643,-121.551395151102,0
+5316c863-9d10-4d56-b024-51f6859af5d0,"491","Lower Wyandotte Rd & Oro Bangor Hwy","""Robertson's Market""",39.4810206878794,-121.530429663088,0
+88c74e28-27e3-458e-8edf-4ca81946fbf6,"482","Lower Wyandotte Rd at Southside Community Ctr","""Southside Community Center""",39.4996137618788,-121.538458856252,0
+619ec746-a4cc-4990-9421-56af0e451449,"3000","Rosewood & Skyway Start Point","""Start point for morning loops""",39.8431135620542,-121.597785299884,0
+0e33b8ab-0254-4d09-abfe-1344f2737c60,"568","Clark Rd & McKale Rd","""Southbound""",39.7354872367077,-121.612819082309,0
+16d347d6-e7a5-4fb2-af99-1a44b93eb7a3,"545","Midway Durham Dayton Hwy","""Durham (East)""",39.646055677298,-121.800163346539,0
+5f412bf3-119c-43d6-87ac-54981885b3f9,"308","Park Ave & 15th St","""""",39.7219635380485,-121.82804759312,0
+1cadf279-9a9f-46b3-8af0-1fc7e2ca8858,"449","3rd St & Grand Ave","""Park 'n Ride / DMV""",39.5204746437356,-121.572069619421,0

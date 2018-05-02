@@ -1,0 +1,9 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,trip_short_name,bikes_allowed,wheelchair_accessible
+ACE,72777,1,San Jose,0,,,ACE 1,,
+ACE,72777,3,San Jose,0,,,ACE 3,,
+ACE,72777,5,San Jose,0,,,ACE 5,,
+ACE,72777,7,San Jose,0,,,ACE 7,,
+ACE,72777,4,Stockton,1,,,ACE 4,,
+ACE,72777,6,Stockton,1,,,ACE 6,,
+ACE,72777,8,Stockton,1,,,ACE 8,,
+ACE,72777,10,Stockton,1,,,ACE 10,,

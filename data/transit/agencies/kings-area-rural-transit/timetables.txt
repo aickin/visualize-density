@@ -1,0 +1,36 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation,timetable_page_id,exclude_exceptions
+1,10085,,20170701,20190101,0,0,0,0,0,1,0,Avenal,Year Round (Saturday only),Northbound,horizontal,12,0
+2,10085,,20170701,20190101,0,0,0,0,0,1,0,Avenal,Year Round (Saturday only),Southbound,horizontal,12,0
+3,10085,,20170701,20190101,1,1,1,1,1,0,0,Avenal,Year Round (Monday-Friday),Northbound,horizontal,12,1
+4,10085,,20170701,20190101,1,1,1,1,1,0,0,Avenal,Year Round (Monday-Friday),Southbound,horizontal,12,1
+5,10081,,20170701,20190101,0,0,0,0,0,1,0,Blue Line,Year Round (Saturday only),Loop,horizontal,6,0
+6,10081,,20170701,20190101,1,1,1,1,1,0,0,Blue Line,Year Round (Monday-Friday),Loop,horizontal,6,1
+7,10079,,20170701,20190101,0,0,0,0,0,1,0,Brown Line,Year Round (Saturday only),Loop,horizontal,4,0
+8,10079,,20170701,20190101,1,1,1,1,1,0,0,Brown Line,Year Round (Monday-Friday),Loop,horizontal,4,1
+9,10086,,20170701,20190101,1,1,1,1,1,0,0,Corcoran,Year Round (Monday-Friday),Loop,horizontal,13,0
+10,10072,,20170701,20190101,1,1,1,1,1,0,0,Fresno,Year Round (Monday-Friday),Northbound,horizontal,17,0
+11,10072,,20170701,20190101,1,1,1,1,1,0,0,Fresno,Year Round (Monday-Friday),Southbound,horizontal,17,0
+12,10083,,20170701,20190101,1,1,1,1,1,0,0,Gray Line,Year Round (Monday-Friday),Loop,horizontal,8,0
+13,10076,,20170701,20190101,0,0,0,0,0,1,0,Green Line,Year Round (Saturday only),Loop,horizontal,1,0
+14,10076,,20170701,20190101,1,1,1,1,1,0,0,Green Line,Year Round (Monday-Friday),Loop,horizontal,1,1
+15,10073,,20170701,20190101,0,0,0,0,0,1,0,Hanford - Armona - Lemoore,Year Round (Saturday only),Eastbound,horizontal,20,0
+16,10073,,20170701,20190101,0,0,0,0,0,1,0,Hanford - Armona - Lemoore,Year Round (Saturday only),Westbound,horizontal,20,0
+17,10073,,20170701,20190101,1,1,1,1,1,0,0,Hanford - Armona - Lemoore,Year Round (Monday-Friday),Eastbound,horizontal,20,1
+18,10073,,20170701,20190101,1,1,1,1,1,0,0,Hanford - Armona - Lemoore,Year Round (Monday-Friday),Westbound,horizontal,20,1
+19,10075,,20170701,20190101,1,1,1,1,1,0,0,Laton,Year Round (Monday-Friday),Loop,horizontal,14,0
+20,10089,,20170701,20190101,1,1,1,1,1,0,0,Lemoore NAS,Year Round (Monday-Friday),Loop,horizontal,21,0
+21,10088,,20170701,20190101,0,0,0,0,0,1,0,Lemoore - North,Year Round (Saturday only),Loop,horizontal,30,0
+22,10088,,20170701,20190101,1,1,1,1,1,0,0,Lemoore - North,Year Round (Monday-Friday),Loop,horizontal,30,1
+23,10087,,20170701,20190101,0,0,0,0,0,1,0,Lemoore - South,Year Round (Saturday only),Loop,horizontal,31,0
+24,10087,,20170701,20190101,1,1,1,1,1,0,0,Lemoore - South,Year Round (Monday-Friday),Loop,horizontal,31,1
+25,10077,,20170701,20190101,0,0,0,0,0,1,0,Orange Line,Year Round (Saturday only),Loop,horizontal,2,0
+26,10077,,20170701,20190101,1,1,1,1,1,0,0,Orange Line,Year Round (Monday-Friday),Loop,horizontal,2,1
+27,10080,,20170701,20190101,0,0,0,0,0,1,0,Pink Line,Year Round (Saturday only),Loop,horizontal,5,0
+28,10080,,20170701,20190101,1,1,1,1,1,0,0,Pink Line,Year Round (Monday-Friday),Loop,horizontal,5,1
+29,10078,,20170701,20190101,0,0,0,0,0,1,0,Purple Line,Year Round (Saturday only),Loop,horizontal,3,0
+30,10078,,20170701,20190101,1,1,1,1,1,0,0,Purple Line,Year Round (Monday-Friday),Loop,horizontal,3,1
+31,10082,,20170701,20190101,0,0,0,0,0,1,0,Red Line,Year Round (Saturday only),Loop,horizontal,7,0
+32,10082,,20170701,20190101,1,1,1,1,1,0,0,Red Line,Year Round (Monday-Friday),Loop,horizontal,7,1
+33,10074,,20170701,20190101,1,1,1,1,1,0,0,Visalia,Year Round (Monday-Friday),Loop,horizontal,15,0
+34,10084,,20170701,20190101,0,0,0,0,0,1,0,Yellow Line,Year Round (Saturday only),Loop,horizontal,9,0
+35,10084,,20170701,20190101,1,1,1,1,1,0,0,Yellow Line,Year Round (Monday-Friday),Loop,horizontal,9,1

@@ -1,0 +1,43 @@
+route_long_name,route_id,route_type,route_text_color,agency_id,route_color,route_url,route_short_name
+ALAMO CREEK SHUTTLE,42,3,,,,,ALAMOCR
+BART Concord/Landana,24,3,,,,,315
+Martinez AMTRAK/BART Pleasant Hill,25,3,,,,,316
+DVC/BART Concord,26,3,,,,,320
+BART Walnut Creek/San Ramon,27,3,,,,,321
+Rossmoor/Ygnacio Valley,20,3,,,,,301
+Clayton Rd/BART Concord,21,3,,,,,310
+BART Concord/BART PH/BART WC,22,3,,,,,311
+BART Concord/Monument Blvd/DVC,23,3,,,,,314
+BART Dublin/San Ramon,28,3,,,,,35
+San Ramon/BART Dublin,29,3,,,,,36
+BART Dublin/Bishop Ranch,40,3,,,,,97X
+Martinez/BART Walnut Creek,41,3,,,,,98X
+Rossmoor/Shadelands,1,3,,,,,1
+BART Concord/BART Pleas Hill,3,3,,,,,11
+BART Concord/Clayton,2,3,,,,,10
+Treat Blvd,5,3,,,,,15
+Monument Blvd,4,3,,,,,14
+BART Concord/North Concord,7,3,,,,,17
+AMTRAK/BART Concord,6,3,,,,,16
+AMTRAK/BART Concord,9,3,,,,,19
+AMTRAK/BART Pleasant Hill,8,3,,,,,18
+BART Walnut Creek/San Ramon,13,3,,,,,21
+DVC/BART Concord,12,3,,,,,20
+Rudgear/BART Walnut Creek,11,3,,,,,2
+BART Walnut Creek/John Muir Med Ctr,10,3,,,,,1M
+BART Walnut Creek/Bishop Ranch,39,3,,,,,96X
+San Ramon/BART Walnut Creek,38,3,,,,,95X
+St Marys College Gael Rail Shuttle,15,3,,,,,250
+BART Lafayette/BART Walnut Creek,14,3,,,,,25
+BART Concord/Cal State East Bay,17,3,,,,,260TTH
+BART Concord/Cal State East Bay,16,3,,,,,260MW
+Martinez Community,19,3,,,,,3
+BART North Concord/Martinez,18,3,,,,,28
+Creekside/BART Walnut Creek,31,3,,,,,5
+Broadway Plaza/BART Walnut Creek,30,3,,,,,4
+Kirker Pass Express,37,3,,,,,93X
+ACE Express,36,3,,,,,92X
+Concord Commuter Express,35,3,,,,,91X
+DVC/BART Walnut Creek,34,3,,,,,9
+Shadelands/BART PH,33,3,,,,,7
+Lafayette/Moraga/Orinda,32,3,,,,,6

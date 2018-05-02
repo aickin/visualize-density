@@ -1,0 +1,10 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_3463_b_3369_d_96,Year Round - Beginning Oct. 15 (Weekend),0,0,0,0,0,1,1,20171015,20180616
+c_3463_b_3369_d_32,Year Round - Beginning Oct. 15 (Saturday only),0,0,0,0,0,1,0,20171015,20180616
+c_3463_b_3369_d_31,Year Round - Beginning Oct. 15 (Monday-Friday),1,1,1,1,1,0,0,20171015,20180616
+c_3114_b_2690_d_96,Year Round - Ending Oct. 14 (Weekend),0,0,0,0,0,1,1,20170813,20171014
+c_3114_b_2690_d_32,Year Round - Ending Oct. 14 (Saturday only),0,0,0,0,0,1,0,20170813,20171014
+c_3114_b_2690_d_31,Year Round - Ending Oct. 14 (Monday-Friday),1,1,1,1,1,0,0,20170813,20171014
+c_3113_b_2689_d_4,School Trippers - Beginning Aug. 16 (Wednesday only),0,0,1,0,0,0,0,20170816,20180616
+c_3113_b_2689_d_31,School Trippers - Beginning Aug. 16 (Monday-Friday),1,1,1,1,1,0,0,20170816,20180616
+c_3113_b_2689_d_27,School Trippers - Beginning Aug. 16,1,1,0,1,1,0,0,20170816,20180616

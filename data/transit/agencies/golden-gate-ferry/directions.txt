@@ -1,0 +1,11 @@
+route_id,direction_id,direction
+Ala-Oak-SF,0,West
+Ala-Oak-SF,1,East
+Harbor Bay-SF,0,West
+Harbor Bay-SF,1,East
+South SF-East Bay,0,West
+South SF-East Bay,1,East
+South SF-SF,0,South
+South SF-SF,1,North
+Vallejo-SF,0,South
+Vallejo-SF,1,North

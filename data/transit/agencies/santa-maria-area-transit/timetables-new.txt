@@ -1,0 +1,23 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,3265,,20170213,20191231,0,0,0,0,0,1,1,,"Starting February 13, 2017 (Weekend)",,horizontal
+2,3265,,20170213,20191231,1,1,1,1,1,0,0,,"Starting February 13, 2017 (Monday-Friday)",,horizontal
+3,3266,,20170213,20191231,0,0,0,0,0,1,1,,"Starting February 13, 2017 (Weekend)",,horizontal
+4,3266,,20170213,20191231,1,1,1,1,1,0,0,,"Starting February 13, 2017 (Monday-Friday)",,horizontal
+5,3267,,20170213,20191231,0,0,0,0,0,1,1,,"Starting February 13, 2017 (Weekend)",,horizontal
+6,3267,,20170213,20191231,1,1,1,1,1,0,0,,"Starting February 13, 2017 (Monday-Friday)",,horizontal
+7,3268,,20170213,20191231,0,0,0,0,0,1,1,,"Starting February 13, 2017 (Weekend)",,horizontal
+8,3268,,20170213,20191231,1,1,1,1,1,0,0,,"Starting February 13, 2017 (Monday-Friday)",,horizontal
+9,3269,,20170213,20191231,0,0,0,0,0,1,1,,"Starting February 13, 2017 (Weekend)",,horizontal
+10,3269,,20170213,20191231,1,1,1,1,1,0,0,,"Starting February 13, 2017 (Monday-Friday)",,horizontal
+11,3270,,20170213,20191231,0,0,0,0,0,1,1,,"Starting February 13, 2017 (Weekend)",,horizontal
+12,3270,,20170213,20191231,1,1,1,1,1,0,0,,"Starting February 13, 2017 (Monday-Friday)",,horizontal
+13,3271,,20170213,20191231,0,0,0,0,0,1,1,,"Starting February 13, 2017 (Weekend)",,horizontal
+14,3271,,20170213,20191231,1,1,1,1,1,0,0,,"Starting February 13, 2017 (Monday-Friday)",,horizontal
+15,3272,,20170213,20191231,0,0,0,0,0,1,1,,"Starting February 13, 2017 (Weekend)",,horizontal
+16,3272,,20170213,20191231,1,1,1,1,1,0,0,,"Starting February 13, 2017 (Monday-Friday)",,horizontal
+17,3278,,20160101,20190101,0,0,0,0,0,0,1,Guadalupe Flyer,Year Round Service (Sunday only),,horizontal
+18,3278,,20160101,20190101,1,1,1,1,1,1,0,Guadalupe Flyer,Year Round Service (Monday-Saturday),,horizontal
+19,3275,,20170213,20191231,0,0,0,0,0,1,1,The Breeze 100,"Starting February 13, 2017 (Weekend)",,horizontal
+20,3275,,20170213,20191231,1,1,1,1,1,0,0,The Breeze 100,"Starting February 13, 2017 (Monday-Friday)",,horizontal
+21,3276,,20170213,20191231,0,0,0,0,0,1,1,The Breeze 200,"Starting February 13, 2017 (Weekend)",,horizontal
+22,3276,,20170213,20191231,1,1,1,1,1,0,0,The Breeze 200,"Starting February 13, 2017 (Monday-Friday)",,horizontal

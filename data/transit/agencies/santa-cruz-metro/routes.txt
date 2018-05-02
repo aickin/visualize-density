@@ -1,0 +1,59 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url
+03-118,03,"Mission / Seymour Center / Beach",,3,http://scmtd.com/routes/schedules/systemschedule/03
+03-119,03,"Mission / Seymour Center / Beach",,3,http://scmtd.com/routes/schedules/systemschedule/03
+04-118,04,"Harvey West / Emeline",,3,http://scmtd.com/routes/schedules/systemschedule/04
+04-119,04,"Harvey West / Emeline",,3,http://scmtd.com/routes/schedules/systemschedule/04
+10-118,10,"UCSC Via High",,3,http://scmtd.com/routes/schedules/systemschedule/10
+10-119,10,"UCSC Via High",,3,http://scmtd.com/routes/schedules/systemschedule/10
+15-118,15,"UCSC via Laurel West",,3,http://scmtd.com/routes/schedules/systemschedule/15
+15-119,15,"UCSC via Laurel West",,3,http://scmtd.com/routes/schedules/systemschedule/15
+16-118,16,"UCSC via Laurel East",,3,http://scmtd.com/routes/schedules/systemschedule/16
+16-119,16,"UCSC via Laurel East",,3,http://scmtd.com/routes/schedules/systemschedule/16
+17-118,17,"Amtrak Highway 17 Express",,3,http://scmtd.com/routes/schedules/systemschedule/17
+17-119,17,"Amtrak Highway 17 Express",,3,http://scmtd.com/routes/schedules/systemschedule/17
+19-118,19,"UCSC via Lower Bay",,3,http://scmtd.com/routes/schedules/systemschedule/19
+19-119,19,"UCSC via Lower Bay",,3,http://scmtd.com/routes/schedules/systemschedule/19
+20-118,20,"UCSC via Westside",,3,http://scmtd.com/routes/schedules/systemschedule/20
+20-119,20,"UCSC via Westside",,3,http://scmtd.com/routes/schedules/systemschedule/20
+20D-118,20D,"UCSC via Delaware",,3,http://scmtd.com/routes/schedules/systemschedule/20D
+20D-119,20D,"UCSC via Delaware",,3,http://scmtd.com/routes/schedules/systemschedule/20
+22-118,22,"UCSC/Coastal Science Campus",,3,http://scmtd.com/routes/schedules/systemschedule/22
+22-119,22,"UCSC/Coastal Science Campus",,3,http://scmtd.com/routes/schedules/systemschedule/22
+33-118,33,"Lompico SLV / Felton Fair",,3,http://scmtd.com/routes/schedules/systemschedule/33
+33-119,33,"Lompico SLV / Felton Fair",,3,http://scmtd.com/routes/schedules/systemschedule/33
+34-118,34,"South Felton",,3,http://scmtd.com/routes/schedules/systemschedule/34
+34-119,34,"South Felton",,3,http://scmtd.com/routes/schedules/systemschedule/34
+35-118,35,"San Lorenzo Valley (SLV)",,3,http://scmtd.com/routes/schedules/systemschedule/35
+35-119,35,"San Lorenzo Valley (SLV)",,3,http://scmtd.com/routes/schedules/systemschedule/35
+35A-118,35A,"SLV via Scotts Valley Drive",,3,http://scmtd.com/routes/schedules/systemschedule/35
+35A-119,35A,"SLV via Scotts Valley Drive",,3,http://scmtd.com/routes/schedules/systemschedule/35
+40-118,40,"Davenport / North Coast Beaches",,3,http://scmtd.com/routes/schedules/systemschedule/40
+40-119,40,"Davenport / North Coast Beaches",,3,http://scmtd.com/routes/schedules/systemschedule/40
+41-118,41,"Bonny Doon",,3,http://scmtd.com/routes/schedules/systemschedule/41
+41-119,41,"Bonny Doon",,3,http://scmtd.com/routes/schedules/systemschedule/41
+42-118,42,"Davenport / Bonny Doon",,3,http://scmtd.com/routes/schedules/systemschedule/42
+42-119,42,"Davenport / Bonny Doon",,3,http://scmtd.com/routes/schedules/systemschedule/42
+55-118,55,"Rio Del Mar",,3,http://scmtd.com/routes/schedules/systemschedule/55
+55-119,55,"Rio Del Mar",,3,http://scmtd.com/routes/schedules/systemschedule/55
+66-118,66,"Live Oak via 17th",,3,http://scmtd.com/routes/schedules/systemschedule/66
+66-119,66,"Live Oak via 17th",,3,http://scmtd.com/routes/schedules/systemschedule/66
+68-118,68,"Live Oak via Broadway / Portola",,3,http://scmtd.com/routes/schedules/systemschedule/68
+68-119,68,"Live Oak via Broadway / Portola",,3,http://scmtd.com/routes/schedules/systemschedule/68
+69A-118,69A,"Capitola Rd. / Watsonville via Airport Blvd.",,3,http://scmtd.com/routes/schedules/systemschedule/69
+69A-119,69A,"Capitola Rd. / Watsonville via Airport Blvd.",,3,http://scmtd.com/routes/schedules/systemschedule/69
+69W-118,69W,"Capitola Rd. / Cabrillo / Watsonville",,3,http://scmtd.com/routes/schedules/systemschedule/69
+69W-119,69W,"Capitola Rd. / Cabrillo / Watsonville",,3,http://scmtd.com/routes/schedules/systemschedule/69
+71-118,71,"Santa Cruz / Watsonville",,3,http://scmtd.com/routes/schedules/systemschedule/71
+71-119,71,"Santa Cruz / Watsonville",,3,http://scmtd.com/routes/schedules/systemschedule/71
+72-118,72,"Hospital / Pinto Lake",,3,http://scmtd.com/routes/schedules/systemschedule/72
+72-119,72,"Hospital / Pinto Lake",,3,http://scmtd.com/routes/schedules/systemschedule/72
+72W-118,72W,"Corralitos Weekend",,3,http://scmtd.com/routes/schedules/systemschedule/72W
+72W-119,72W,"Corralitos Weekend",,3,http://scmtd.com/routes/schedules/systemschedule/72W
+74S-118,74S,"PVHS / Watsonville Hospital",,3,http://scmtd.com/routes/schedules/systemschedule/74S
+74S-119,74S,"PVHS / Watsonville Hospital",,3,http://scmtd.com/routes/schedules/systemschedule/74S
+75-118,75,"Green Valley",,3,http://scmtd.com/routes/schedules/systemschedule/75
+75-119,75,"Green Valley",,3,http://scmtd.com/routes/schedules/systemschedule/75
+79-118,79,"Pajaro / East Lake",,3,http://scmtd.com/routes/schedules/systemschedule/79
+79-119,79,"Pajaro / East Lake",,3,http://scmtd.com/routes/schedules/systemschedule/79
+91X-118,91X,"Commuter Express Santa Cruz / Watsonville",,3,http://scmtd.com/routes/schedules/systemschedule/91X
+91X-119,91X,"Commuter Express Santa Cruz / Watsonville",,3,http://scmtd.com/routes/schedules/systemschedule/91X

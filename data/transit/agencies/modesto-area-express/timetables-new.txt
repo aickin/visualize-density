@@ -1,0 +1,87 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,383,,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),,horizontal
+2,383,,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),,horizontal
+3,383,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+4,384,,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),,horizontal
+5,384,,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),,horizontal
+6,384,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+7,386,0,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),Outbound,horizontal
+8,386,0,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Outbound,horizontal
+9,386,0,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Outbound,horizontal
+10,386,1,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),Inbound,horizontal
+11,386,1,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Inbound,horizontal
+12,386,1,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Inbound,horizontal
+13,387,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+14,388,0,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),Outbound,horizontal
+15,388,0,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Outbound,horizontal
+16,388,0,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Outbound,horizontal
+17,388,1,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),Inbound,horizontal
+18,388,1,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Inbound,horizontal
+19,388,1,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Inbound,horizontal
+20,389,,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),,horizontal
+21,389,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+22,390,,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),,horizontal
+23,390,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+24,391,,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),,horizontal
+25,391,,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),,horizontal
+26,391,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+27,392,0,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),Outbound,horizontal
+28,392,0,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Outbound,horizontal
+29,392,0,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Outbound,horizontal
+30,392,1,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),Inbound,horizontal
+31,392,1,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Inbound,horizontal
+32,392,1,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Inbound,horizontal
+33,393,0,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),Outbound,horizontal
+34,393,0,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Outbound,horizontal
+35,393,0,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Outbound,horizontal
+36,393,1,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),Inbound,horizontal
+37,393,1,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Inbound,horizontal
+38,393,1,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Inbound,horizontal
+39,394,,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),,horizontal
+40,394,,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),,horizontal
+41,394,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+42,395,,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),,horizontal
+43,395,,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),,horizontal
+44,395,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+45,396,,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),,horizontal
+46,396,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+47,397,0,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Outbound,horizontal
+48,397,0,20140101,20190101,1,1,1,1,1,1,1,,Year-round service (All days of week),Outbound,horizontal
+49,397,1,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Inbound,horizontal
+50,397,1,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Inbound,horizontal
+51,398,0,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Outbound,horizontal
+52,398,0,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Outbound,horizontal
+53,398,1,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Inbound,horizontal
+54,398,1,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Inbound,horizontal
+55,399,,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),,horizontal
+56,399,,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),,horizontal
+57,399,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+58,400,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+59,401,0,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Outbound,horizontal
+60,401,0,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Outbound,horizontal
+61,401,1,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),Inbound,horizontal
+62,401,1,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Inbound,horizontal
+63,402,,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),,horizontal
+64,402,,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),,horizontal
+65,402,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+66,403,,20140101,20190101,0,0,0,0,0,0,1,,Year-round service (Sunday only),,horizontal
+67,403,,20140101,20190101,0,0,0,0,0,1,0,,Year-round service (Saturday only),,horizontal
+68,403,,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),,horizontal
+69,4518,0,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Northbound,horizontal
+70,4518,1,20140101,20190101,1,1,1,1,1,0,0,,Year-round service (Monday-Friday),Southbound,horizontal
+71,390,,20170807,20171215,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+72,394,,20170807,20171215,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+73,396,,20170807,20171215,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+74,400,,20170807,20171215,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+75,390,,20180116,20180323,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+76,394,,20180116,20180323,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+77,396,,20180116,20180323,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+78,400,,20180116,20180323,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+79,390,,20180402,20180531,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+80,394,,20180402,20180531,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+81,396,,20180402,20180531,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+82,400,,20180402,20180531,1,1,1,1,1,0,0,,School Calendar (Monday-Friday),,horizontal
+83,405,0,20140101,20190101,1,1,1,1,1,0,0,MAX / ACE,Year-round service (Monday-Friday),Outbound,horizontal
+84,405,1,20140101,20190101,1,1,1,1,1,0,0,MAX / ACE,Year-round service (Monday-Friday),Inbound,horizontal
+85,404,0,20140101,20190101,1,1,1,1,1,0,0,MAX / BART,Year-round service (Monday-Friday),Outbound,horizontal
+86,404,1,20140101,20190101,1,1,1,1,1,0,0,MAX / BART,Year-round service (Monday-Friday),Inbound,horizontal

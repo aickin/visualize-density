@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Livermore Amador Valley Transit Authority,http://wheelsbus.com/,en,20170819,20180528,August_17-02_20170821

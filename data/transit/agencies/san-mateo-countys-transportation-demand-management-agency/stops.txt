@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1,,South San Francisco Ferry Terminal,,37.662471, -122.377378,,,0,,,
+2,,Eccles,,37.662359, -122.388456,,,0,,,

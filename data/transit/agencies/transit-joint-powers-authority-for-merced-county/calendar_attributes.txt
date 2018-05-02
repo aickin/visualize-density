@@ -1,0 +1,6 @@
+service_id,service_description
+c_3154_b_2753_d_96,Year Round 17-18 (Weekend)
+c_3154_b_2753_d_64,Year Round 17-18 (Sunday only)
+c_3154_b_2753_d_32,Year Round 17-18 (Saturday only)
+c_3154_b_2753_d_31,Year Round 17-18 (Monday-Friday)
+c_3154_b_2753_d_112,Year Round 17-18 (Friday-Sunday)

@@ -1,0 +1,13 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_3166_b_2776_d_127,Starting 8/31/2017 (All days of week),1,1,1,1,1,1,1,20170831,20190101
+c_2463_b_5072_d_31,Ski Shuttles (Monday-Friday),1,1,1,1,1,0,0,20171117,20180331
+c_2463_b_5072_d_127,Ski Shuttles (All days of week),1,1,1,1,1,1,1,20171117,20180331
+c_2360_b_1449_d_127,New Service Starting Oct. 1 (All days of week),1,1,1,1,1,1,1,20161001,20190101
+c_1641_b_51_d_63,Yearly Service Calendar (Monday-Saturday),1,1,1,1,1,1,0,20150905,20190101
+c_1641_b_51_d_48,Yearly Service Calendar,0,0,0,0,1,1,0,20150905,20190101
+c_1641_b_51_d_127,Yearly Service Calendar (All days of week),1,1,1,1,1,1,1,20150905,20190101
+c_38_b_3302_d_127,Seasonal supplemental service (All days of week),1,1,1,1,1,1,1,20171215,20180331
+c_37_b_860_d_127,Current schedule (All days of week),1,1,1,1,1,1,1,20150701,20190101
+c_4288_b_4207_d_127,Donner Summit Shuttle (All days of week),1,1,1,1,1,1,1,20180301,20180901
+c_3417_b_6555_d_127,Night Service Winter (All days of week),1,1,1,1,1,1,1,20171221,20180408
+c_1947_b_1225_d_127,Year Round (All days of week),1,1,1,1,1,1,1,20160329,20190101

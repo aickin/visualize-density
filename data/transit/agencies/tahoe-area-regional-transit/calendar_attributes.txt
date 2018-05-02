@@ -1,0 +1,14 @@
+service_id,service_description
+c_3166_b_2776_d_127,Starting 8/31/2017 (All days of week)
+c_2463_b_5072_d_31,Ski Shuttles (Monday-Friday)
+c_2463_b_5072_d_127,Ski Shuttles (All days of week)
+c_2360_b_1449_d_127,New Service Starting Oct. 1 (All days of week)
+c_1641_b_51_d_63,Yearly Service Calendar (Monday-Saturday)
+c_1641_b_51_d_48,Yearly Service Calendar
+c_1641_b_51_d_127,Yearly Service Calendar (All days of week)
+c_38_b_3302_d_127,Seasonal supplemental service (All days of week)
+c_37_b_860_d_127,Current schedule (All days of week)
+c_4288_b_4207_d_127,Donner Summit Shuttle (All days of week)
+c_3417_b_6555_d_127,Night Service Winter (All days of week)
+c_1947_b_1225_d_8,Year Round (Thursday only)
+c_1947_b_1225_d_127,Year Round (All days of week)

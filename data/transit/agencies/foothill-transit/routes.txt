@@ -1,0 +1,54 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url
+178-138,178,Puente Hills Mall - El Monte Station,Puente Hills Mall to El Monte Station,3,http://foothilltransit.org/line/178/
+178-139,178,Puente Hills Mall - El Monte Station,Puente Hills Mall to El Monte Station,3,http://foothilltransit.org/line/178/
+185-138,185,Azusa - West  Covina - Hacienda Heights,Azusa to West  Covina to Hacienda Heights,3,http://foothilltransit.org/line/185/
+185-139,185,Azusa - West  Covina - Hacienda Heights,Azusa to West  Covina to Hacienda Heights,3,http://foothilltransit.org/line/185/
+187-138,187,Pasadena - Glendora - Montclair,Pasadena to Glendora to Montclair,3,http://foothilltransit.org/line/187/
+187-139,187,Pasadena - Glendora - Montclair,Pasadena to Glendora to Montclair,3,http://foothilltransit.org/line/187/
+190-138,190,El Monte Station - Cal Poly via Ramona,El Monte Station to Cal Poly via Ramona,3,http://foothilltransit.org/line/190/
+190-139,190,El Monte Station - Cal Poly via Ramona,El Monte Station to Cal Poly via Ramona,3,http://foothilltransit.org/line/190/
+194-138,194,El Monte Station - Cal Poly via Valley,El Monte Station to Cal Poly via Valley,3,http://foothilltransit.org/line/194/
+194-139,194,El Monte Station - Cal Poly via Valley,El Monte Station to Cal Poly via Valley,3,http://foothilltransit.org/line/194/
+195-139,195,Pomona Transcenter- Phillips Ranch- Cal Poly,Pomona Transcenter to Phillips Ranch to Cal Poly,3,http://foothilltransit.org/line/195/
+197-139,197,Montclair Transcenter - Pomona Transcenter,Montclair Transcenter to Pomona Transcenter,3,http://foothilltransit.org/line/197/
+269-138,269,Montebello Town Center - El Monte Station,Montebello Town Center to El Monte Station,3,http://foothilltransit.org/line/269/
+269-139,269,Montebello Town Center - El Monte Station,Montebello Town Center to El Monte Station,3,http://foothilltransit.org/line/269/
+270-138,270,Monrovia - El Monte Station,Monrovia to El Monte Station,3,http://foothilltransit.org/line/270/
+270-139,270,Monrovia - El Monte Station,Monrovia to El Monte Station,3,http://foothilltransit.org/line/270/
+272-138,272,Duarte-Baldwin Park-West Covina,Duarte to Baldwin ParktoWest Covina,3,http://foothilltransit.org/line/272/
+272-139,272,Duarte-Baldwin Park-West Covina,Duarte to Baldwin ParktoWest Covina,3,http://foothilltransit.org/line/272/
+274-138,274,West Covina - Industry - Whittier,West Covina to Industry to Whittier,3,http://foothilltransit.org/line/274/
+274-139,274,West Covina - Industry - Whittier,West Covina to Industry to Whittier,3,http://foothilltransit.org/line/274/
+280-138,280,Azusa-Puente Hills Mall via Azusa Ave.,AzusatoPuente Hills Mall via Azusa Ave.,3,http://foothilltransit.org/line/280/
+280-139,280,Azusa-Puente Hills Mall via Azusa Ave.,Azusa to Puente Hills Mall via Azusa Ave.,3,http://foothilltransit.org/line/280/
+281-138,281,Puente Hills Mall-Glendora,Puente Hills Mall to Glendora,3,http://foothilltransit.org/line/281/
+281-139,281,Puente Hills Mall-Glendora,Puente Hills Mall to Glendora,3,http://foothilltransit.org/line/281/
+282-139,282,Puente Hills Mall - El Monte Station,Puente Hills Mall to El Monte Station,3,http://foothilltransit.org/line/282/
+284-138,284,West Covina - Glendora,West Covina to Glendora,3,http://foothilltransit.org/line/284/
+284-139,284,West Covina - Glendora,West Covina to Glendora,3,http://foothilltransit.org/line/284/
+285-139,285,Puente Hills Mall  - Beach and La Habra,Puente Hills Mall  to Beach and La Habra,3,http://foothilltransit.org/line/285/
+286-139,286,Pomona - Brea Mall Transit Center,Pomona to Brea Mall Transit Center,3,http://foothilltransit.org/line/286/
+289-139,289,Puente Hills Mall - Cal Poly,Puente Hills Mall to Cal Poly,3,http://foothilltransit.org/line/289/
+291-139,291,La Verne - Pomona,La Verne to Pomona,3,http://foothilltransit.org/line/291/
+292-139,292,Claremont - Pomona,Claremont to Pomona,3,http://foothilltransit.org/line/292/
+480-138,480,Montclair - Pomona - West Covina,Montclair to Pomona to West Covina,3,http://foothilltransit.org/line/480/
+480-139,480,Montclair - Pomona - West Covina,Montclair to Pomona to West Covina,3,http://foothilltransit.org/line/480/
+481-139,481,El Monte Station - Downtown LA,El Monte Station to Downtown Los Angeles,3,http://foothilltransit.org/line/481/
+482-139,482,Pomona Trancenter - Puente Hills Mall,Pomona Trancenter to Puente Hills Mall,3,http://foothilltransit.org/line/482/
+486-139,486,Cal Poly  - El Monte Station,Cal Poly  to El Monte Station,3,http://foothilltransit.org/line/486/
+488-139,488,Glendora-West Covina- El Monte Station,GlendoratoWest Covinato El Monte Station,3,http://foothilltransit.org/line/488/
+492-139,492,El Monte Station- Montclair,El Monte Stationto Montclair,3,http://foothilltransit.org/line/492/
+493-139,493,Express Diamond Bar Park & Ride - Downtown L.A.,Express Diamond Bar Park & Ride to Downtown Los Angeles,3,http://foothilltransit.org/line/493/
+494-139,494,San Dimas - El Monte,San Dimas to El Monte,3,http://foothilltransit.org/line/494/
+495-139,495,Express Industry Park & Ride - Los Angeles,Express Industry Park & Ride to Downtown Los Angeles,3,http://foothilltransit.org/line/495/
+497-139,497,Express Chino Park & Ride - Downtown L.A,Express Chino Park & Ride to Downtown Los Angeles,3,http://foothilltransit.org/line/497/
+498-139,498,Express Glendora - West Covina - Downtown L.A.,Express Glendora to West Covina to Downtown Los Angeles.,3,http://foothilltransit.org/line/498/
+499-139,499,Express San Dimas Park& Ride-Downtown L.A.,Express San Dimas Park& Ride to Downtown Los Angeles,3,http://foothilltransit.org/line/499/
+690-139,690,Express Montclair TransCenter- Azusa,Express Montclair TransCenter to Azusa,3,http://foothilltransit.org/line/690/
+699-139,699,Express Montclair TransCenter-Downtown L.A.,Express Montclair TransCenter to Downtown Los Angeles,3,http://foothilltransit.org/line/699/
+707-138,Silver Streak,Montclair-Pomona- El Monte- L.A.,MontclairtoPomonato El Monte to Los Angeles,3,http://foothilltransit.org/line/Silver-Streak/
+707-139,Silver Streak,Montclair-Pomona- El Monte- L.A.,MontclairtoPomonato El Monte to Los Angeles,3,http://foothilltransit.org/line/Silver-Streak/
+851-139,851,West Covina - Covina- Glendora,West Covina to Covina to Glendora,3,http://foothilltransit.org/line/851/
+853-139,853,Diamond Bar- Diamond Ranch,Diamond Bar to Diamond Ranch,3,http://foothilltransit.org/line/853/
+854-139,854,Diamond Bar- Diamond Ranch,Diamond Bar to Diamond Ranch,3,http://foothilltransit.org/line/854/
+855-139,855,Pomona - Claremont,Pomona to Claremont,3,http://foothilltransit.org/line/855/

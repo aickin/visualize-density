@@ -1,0 +1,6 @@
+rider_category_id,rider_category_description
+"1","Regular"
+"2","Senior (Age 65+)"
+"3","Child (Age 0-5 with an Adult)"
+"5","Youth (Age 6-17)"
+"6","Disabled (Certified Disabilities or Medicare)"

@@ -1,0 +1,9 @@
+stop_id,stop_city
+12148,
+12293,
+804148,Yuba City
+804149,Yuba City
+2371244,Live Oak
+2371245,Live Oak
+2371246,Live Oak
+2371251,Dobbins

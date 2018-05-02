@@ -1,0 +1,11 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+266,4.50,USD,1,0,
+267,5.50,USD,1,0,
+268,9.50,USD,1,0,
+269,10.75,USD,1,0,
+270,13.75,USD,1,0,
+271,4.00,USD,1,0,
+272,5.25,USD,1,0,
+273,9.00,USD,1,0,
+274,10.25,USD,1,0,
+275,12.75,USD,1,0,

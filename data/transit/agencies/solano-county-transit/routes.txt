@@ -1,0 +1,17 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+247,1638,1,Broadway,Northwest Vallejo - Vallejo Transit Center,3,http://www.soltransride.com/routes/route-mapsschedules/route-1/,da1a32,ffffff,0,30
+247,1639,2,Northeast,Vallejo Corners - Vallejo Transit Center,3,http://www.soltransride.com/routes/route-mapsschedules/route-2/,9f248f,ffffff,1,30
+247,1875,20,Columbus,Downtown Benicia - Sereno Transit Center,3,,da1a32,ffffff,10,120
+247,6819,38,Jesse Bethel,,3,http://www.soltransride.com/routes/route-mapsschedules/route-38,a0772b,ffffff,11,
+247,1649,78,I-680 SolanoExpress,Vallejo Transit Center - Walnut Creek BART,3,http://www.soltransride.com/routes/multizone-mapschedule/route-78/,5f277e,ffffff,12,10
+247,1650,80,I-80 SolanoExpress,Vallejo Transit Center - El Cerrito Del Norte BART,3,http://www.soltransride.com/routes/multizone-mapschedule/route-80/,83003f,ffffff,13,13
+247,5802,82,SF Express,,3,http://www.soltransride.com/routes/multizone-mapschedule/route-80/,b87887,000000,14,
+247,1651,85,Fairfield SolanoExpress,Vallejo Transit Center - Solano Town Center,3,http://www.soltransride.com/routes/multizone-mapschedule/route-85/,00ae9a,ffffff,15,60
+247,1640,3,Glen Cove,South Vallejo - Vallejo Transit Center,3,http://www.soltransride.com/routes/route-mapsschedules/route-3/,23ae49,ffffff,2,60
+247,1641,4,Tuolumne,Sereno Transit Center - Vallejo Transit Center,3,http://www.soltransride.com/routes/route-mapsschedules/route-4/,00accd,ffffff,3,60
+247,1642,5,Fairgrounds,Six Flags - Vallejo Transit Center,3,http://www.soltransride.com/routes/route-mapsschedules/route-5/,f57f29,ffffff,4,60
+247,1643,6,Tennessee,Hogan M.S. - Vallejo Transit Center,3,http://www.soltransride.com/routes/route-mapsschedules/route-6/,a16125,ffffff,5,60
+247,1644,7,Springs Rd,Gateway Plaza - Vallejo Transit Center,3,http://www.soltransride.com/routes/route-mapsschedules/route-7/,265eac,ffffff,6,30
+247,1861,8,Benicia Rd,Hogan M.S. - Vallejo Transit Center,3,,006a36,ffffff,7,60
+247,1646,15,Benicia Schools,Benicia Middle Schoool - Benicia High School,3,http://www.soltransride.com/routes/route-mapsschedules/routes-15,f57f29,ffffff,8,
+247,1647,17,Benicia Schools,Benicia Middle Schoool - Benicia High School,3,http://www.soltransride.com/routes/route-mapsschedules/routes-17,265eac,ffffff,9,

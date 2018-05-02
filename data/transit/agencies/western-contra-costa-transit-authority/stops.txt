@@ -1,0 +1,223 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+791436,259,,Pinole Valley Rd - Library,,37.99188,-122.28514,,,0,,America/Los_Angeles,,,0
+791456,2107,,San Pablo Ave and Shamrock Dr - Southbound,,37.99544,-122.32779,,,0,,America/Los_Angeles,,,0
+791542,25058,,Sycamore Ave and Redwood Rd,,38.00863,-122.26287,,,0,,America/Los_Angeles,,,0
+791425,245,,Linus Pauling - County EHS Office,,38.02211,-122.27247,,,0,,America/Los_Angeles,,,0
+791516,25028,,San Pablo Ave - Sugar City Building Materials,,38.00524,-122.30812,,,0,,America/Los_Angeles,,,0
+791610,25138,,Alhambra Ave and J St,,37.9973666845077,-122.132493220692,,,0,,America/Los_Angeles,,,0
+791419,231,,Refugio Valley and Pheasant Dr,,38.00778,-122.26976,,,0,,America/Los_Angeles,,,0
+791572,25091,,Marlesta Rd and McDonald Dr,,38.00138,-122.30439,,,0,,America/Los_Angeles,,,0
+791609,25137,,Alhambra Ave and F St,,38.00087,-122.13195,,,0,,America/Los_Angeles,,,0
+791621,25157,,Hilltop Dr and Hillview Dr,,37.98307,-122.33344,,,0,,America/Los_Angeles,,,0
+791639,25503,,Parker Ave and 4th St - Northbound,,38.03281,-122.26697,,,0,,America/Los_Angeles,,,0
+791494,25000,,Tennant Ave and Peach St - Southbound,,38.0029170190974,-122.289096382535,,,0,,America/Los_Angeles,,,0
+791643,25508,,San Pablo Ave and California St - Southbound,,38.04004,-122.26381,,,0,,America/Los_Angeles,,,0
+791634,25212,,Alhambra Ave and Walnut St - Southbound,,37.99236,-122.13092,,,0,,America/Los_Angeles,,,0
+2328345,53,,Sprouts,,37.999788,-122.286897,,,0,,America/Los_Angeles,,,0
+791583,25106,,Simas Ave and Estates Ave,,37.985463324885,-122.277732303076,,,0,,America/Los_Angeles,,,0
+791605,25131,,Alhambra Ave and Bertola St,,38.00726,-122.13052,,,0,,America/Los_Angeles,,,0
+791559,25075,,Blume Dr and Klose Way,,37.9826333924763,-122.322771529239,,,0,,America/Los_Angeles,,,0
+791612,25140,,4075 Lakeside Ave,,37.9874595783394,-122.332410639735,,,0,,America/Los_Angeles,,,0
+791519,25032,,San Pablo Ave and Crestview Dr,,38.0044,-122.31152,,,0,,America/Los_Angeles,,,0
+791557,25073,,Refugio Valley - Community Center,,37.99861,-122.24927,,,0,,America/Los_Angeles,,,0
+791444,272,,Del Monte Dr and San Pablo Ave,,38.0032471803247,-122.316485588271,,,0,,America/Los_Angeles,,,0
+791601,25127,,Viewpointe Blvd and Myrna Way,,38.02691,-122.25014,,,0,,America/Los_Angeles,,,0
+791586,25109,,Simas Ave and Remuda ,,37.98248,-122.26601,,,0,,America/Los_Angeles,,,0
+791445,273,,Broadmore Ave and Cypress Ave,,38.00548,-122.32175,,,0,,America/Los_Angeles,,,0
+791422,241,,Viewpointe Blvd and Coral Dr - Northbound,,38.01866,-122.25633,,,0,,America/Los_Angeles,,,0
+791442,265,,Fitzgerald Dr - Sizzler,,37.99175,-122.30384,,,0,,America/Los_Angeles,,,0
+791590,25113,,Wright Ave and Brazil Ct,,37.98358,-122.25806,,,0,,America/Los_Angeles,,,0
+791567,25086,,Del Monte Dr and Highlands Rd,,38.00484,-122.31846,,,0,,America/Los_Angeles,,,0
+791622,25158,,San Pablo Ave and Victoria Crescent - Northbound,,38.02301,-122.26986,,,0,,America/Los_Angeles,,,0
+791592,25115,,Ellerhorst School,,37.9814,-122.27321,,,0,,America/Los_Angeles,,,0
+791435,258,,Pinole Valley Rd and Simas Ave ,,37.98147,-122.26696,,,0,,America/Los_Angeles,,,0
+791426,246,,Linus Pauling and Alfred Nobel,,38.0228546204561,-122.276253955512,,,0,,America/Los_Angeles,,,0
+791596,25121,,Ridgecrest Rd and Canyon Dr,,37.99614,-122.29931,,,0,,America/Los_Angeles,,,0
+791584,25107,,Simas Ave and Diablo Ct,,37.98572,-122.27527,,,0,,America/Los_Angeles,,,0
+791617,25150,,7th St and Parker Ave,,38.02714,-122.26564,,,0,,America/Los_Angeles,,,0
+791552,25068,,Sparrow Dr and Starling Ave,,38.00033,-122.26445,,,0,,America/Los_Angeles,,,0
+791633,25211,,Refugio Valley and Redwood Rd,,37.99678,-122.24747,,,0,,America/Los_Angeles,,,0
+791575,25095,,Ridgecrest Rd and Greenfield Cir - Northbound,,37.99679,-122.29527,,,0,,America/Los_Angeles,,,0
+791458,2110,,San Pablo Ave and Crestwood Dr - Northbound,,37.99367,-122.3292,,,0,,America/Los_Angeles,,,0
+791527,25041,,Fitzgerald Dr - Target,,37.98837,-122.31064,,,0,,America/Los_Angeles,,,0
+791526,25040,,San Pablo Ave and Victoria Crescent - Southbound,,38.0229,-122.26931,,,0,,America/Los_Angeles,,,0
+791611,25139,,Alhambra Ave - Muir Lodge,,37.99539,-122.13218,,,0,,America/Los_Angeles,,,0
+791496,25002,,Fitzgerald Dr - FedEx,,37.99114,-122.30622,,,0,,America/Los_Angeles,,,0
+791465,2121,,Willow Ave and I-80 - Northbound,,38.02373,-122.26334,,,0,,America/Los_Angeles,,,0
+791427,248,,Fitzgerald Dr - Best Buy,,37.99095,-122.3058,,,0,,America/Los_Angeles,,,0
+791598,25124,,Muir Road and Center Ave - Northbound,,37.99467,-122.1185,,,0,,America/Los_Angeles,,,0
+791616,25149,,Richmond Parkway Westbound -  Hilltop Bayview,,37.98885,-122.32197,,,0,,America/Los_Angeles,,,0
+791577,25097,,San Pablo Ave and Appian Way - Westbound,,38.00409,-122.2981,,,0,,America/Los_Angeles,,,0
+791560,25078,,Tara Hills Dr and Flannery Rd,,37.99657,-122.31675,,,0,,America/Los_Angeles,,,0
+791597,25123,,Viewpointe Blvd and Sandy Cove Dr,,38.02132,-122.2561,,,0,,America/Los_Angeles,,,0
+791533,25048,,Hannah Ranch School,,37.99333,-122.23502,,,0,,America/Los_Angeles,,,0
+791545,25061,,Turquiose Dr and Crystal Circle,,38.00792,-122.27422,,,0,,America/Los_Angeles,,,0
+791537,25052,,Armstrong St and Grissom St,,38.00074,-122.23788,,,0,,America/Los_Angeles,,,0
+791479,2162,,Martinez Amtrak Station ,,38.0189813695363,-122.139471283398,,,0,,America/Los_Angeles,,,0
+791580,25100,,Coral Dr and Bodega Way,,38.01849,-122.25417,,,0,,America/Los_Angeles,,,0
+791566,25085,,Marlesta Rd and Sunnyview Dr,,38.0015967237561,-122.305693830074,,,0,,America/Los_Angeles,,,0
+791579,25099,,Coral Dr and Reef Point Dr,,38.02105,-122.25103,,,0,,America/Los_Angeles,,,0
+791438,261,,San Pablo and Oak Ridge - Southbound,,38.00452,-122.29238,,,0,,America/Los_Angeles,,,0
+791493,21064,,Canyon Dr and Appian Way - Westbound,,37.99553,-122.30141,,,0,,America/Los_Angeles,,,0
+791472,2137,,Pinole Valley High School,,37.9924473167972,-122.285562507935,,,0,,America/Los_Angeles,,,0
+791440,263,,1236 Marionola Way,,37.99891,-122.29553,,,0,,America/Los_Angeles,,,0
+791629,25205,,Alhambra Ave and Jones St,,38.01266,-122.13447,,,0,,America/Los_Angeles,,,0
+791501,25009,,Blume Dr and Auto Plaza - Southbound,,37.9851,-122.31903,,,0,,America/Los_Angeles,,,0
+791636,25215,,1624 Marlesta Rd,,38.0018,-122.29913,,,0,,America/Los_Angeles,,,0
+791457,2108,,San Pablo Ave and Crestwood Dr - Southbound,,37.99382,-122.32964,,,0,,America/Los_Angeles,,,0
+791607,25135,,Berrellesa St and Jones St,,38.01178,-122.13508,,,0,,America/Los_Angeles,,,0
+791443,270,,Appian Way and Mann Dr,,37.99746,-122.3011,,,0,,America/Los_Angeles,,,0
+791625,25201,,Marlesta Rd and Appian Way - Westbound Rt 16,,38.00179,-122.30095,,,0,,America/Los_Angeles,,,0
+791447,275,,Appian Way - Pinole Middle School,,37.99626,-122.30218,,,0,,America/Los_Angeles,,,0
+791467,2125,,San Francisco Transbay Terminal,,37.78975,-122.39286,,,0,,America/Los_Angeles,,,0
+791551,25067,,Tanager Way and Meadowlark Way,,37.99915,-122.26499,,,0,,America/Los_Angeles,,,0
+791500,25008,,Hilltop Dr and Garrity Way,,37.9785856765627,-122.325933622246,,,0,,America/Los_Angeles,,,0
+791485,2181,,Refugio Valley Park,,38.00783,-122.26914,,,0,,America/Los_Angeles,,,0
+791468,2129,,Bio Rad - Northbound,,38.02303,-122.27646,,,0,,America/Los_Angeles,,,0
+791451,2101,,San Pablo Ave and John St - Southbound,,38.007245,-122.288294,,,0,,America/Los_Angeles,,,0
+791644,25509,,386 Parker Ave,,38.0331265501969,-122.267242360783,,,0,,America/Los_Angeles,,,0
+791466,2122,,Victoria Crescent and Victoria Park,,38.02831,-122.272,,,0,,America/Los_Angeles,,,0
+791498,25006,,Hilltop Dr and Robert Miller Dr,,37.9792639878211,-122.332182608486,,,0,,America/Los_Angeles,,,0
+791420,233,,Falcon Way and Sparrow Dr,,38.0005753782916,-122.262182074556,,,0,,America/Los_Angeles,,,0
+791474,2140,,Willow Ave and Viewpointe Blvd - Southbound,,38.01857,-122.2585,,,0,,America/Los_Angeles,,,0
+791608,25136,,2450 Alhambra Ave - Martinez Health Center,,38.00582,-122.13118,,,0,,America/Los_Angeles,,,0
+791506,25016,,San Pablo Ave and Selby Rd,,38.04859,-122.24786,,,0,,America/Los_Angeles,,,0
+791630,25208,,825 Alfred Nobel Dr,,38.02054,-122.27587,,,0,,America/Los_Angeles,,,0
+791489,2199,,Violet Rd and Lupine Rd,,38.00198,-122.24444,,,0,,America/Los_Angeles,,,0
+791576,25096,,Viewpointe Blvd and Seascape Cir,,38.02594,-122.25449,,,0,,America/Los_Angeles,,,0
+791469,2131,,El Cerrito Del Norte BART,,37.92478,-122.31696,,,0,,America/Los_Angeles,,,0
+791520,25034,,San Pablo Ave and 4th Ave,,38.00413,-122.30187,,,0,,America/Los_Angeles,,,0
+791569,25088,,Cypress Ave and Del Monte Dr,,38.0084252395302,-122.314059819462,,,0,,America/Los_Angeles,,,0
+791515,25027,,San Pablo Ave and Roble Ave,,38.00435,-122.30167,,,0,,America/Los_Angeles,,,0
+791620,25154,,Pinole Valley Shopping Center,,37.9955,-122.28581,,,0,,America/Los_Angeles,,,0
+791544,25060,,Turquiose Dr and Sycamore Ave,,38.00876,-122.27219,,,0,,America/Los_Angeles,,,0
+791561,25079,,Dolan Way and Mahan Way,,37.99317,-122.32064,,,0,,America/Los_Angeles,,,0
+791502,25011,,Tennant Ave and Peach St - Northbound,,38.00295,-122.28891,,,0,,America/Los_Angeles,,,0
+791593,25116,,Pinole Valley Rd and Simas Ave - Eastbound,,37.98496,-122.28077,,,0,,America/Los_Angeles,,,0
+791574,25094,,Ridgecrest Rd and Foothill Ave - Westbound,,37.99632,-122.29712,,,0,,America/Los_Angeles,,,0
+791486,2196,,Mandalay Ave and Bonaire Ave,,37.99155,-122.23394,,,0,,America/Los_Angeles,,,0
+791437,260,,Pinole Valley Rd and Henry Ave - Northbound,,38.0008,-122.28667,,,0,,America/Los_Angeles,,,0
+791518,25030,,San Pablo Ave and Kay Rd,,37.9919,-122.33131,,,0,,America/Los_Angeles,,,0
+791628,25204,,Muir Road and Center Ave - Southbound,,37.99484,-122.11877,,,0,,America/Los_Angeles,,,0
+791648,210148,,Richmond Parkway Transit Center,,37.98634,-122.31657,,,0,,America/Los_Angeles,,,0
+791581,25101,,Willow Ave and Viewpointe Blvd - Northbound,,38.01877,-122.25823,,,0,,America/Los_Angeles,,,0
+791600,25126,,Ridgecrest Rd and Tesoro Ct - Northbound,,37.999,-122.29493,,,0,,America/Los_Angeles,,,0
+791541,25057,,Lupine Rd and Poppy Ct,,38.00735,-122.2558,,,0,,America/Los_Angeles,,,0
+791492,2208,,Lupine Rd and Woodfield Park,,38.00636,-122.25189,,,0,,America/Los_Angeles,,,0
+791514,25026,,San Pablo Ave and Fern Ave,,38.00429,-122.29545,,,0,,America/Los_Angeles,,,0
+791603,25129,,Alhambra Ave and K St,,37.99584,-122.13225,,,0,,America/Los_Angeles,,,0
+791591,25114,,Wright Ave and Madera St,,37.98216,-122.26034,,,0,,America/Los_Angeles,,,0
+791585,25108,,Simas Ave and Lassen Way,,37.98625,-122.2672,,,0,,America/Los_Angeles,,,0
+791547,25063,,Obsidian Way and Peridot Court,,38.00227,-122.27785,,,0,,America/Los_Angeles,,,0
+791517,25029,,San Pablo Ave - Public Storage,,38.00396,-122.31359,,,0,,America/Los_Angeles,,,0
+791550,25066,,Pheasant Dr and Malachite Court,,37.99454,-122.26054,,,0,,America/Los_Angeles,,,0
+791481,2175,,Turquiose Dr and Cinnabar Ave,,38.00578,-122.27506,,,0,,America/Los_Angeles,,,0
+791476,2158,,VA Medical Center,,37.99414,-122.11445,,,0,,America/Los_Angeles,,,0
+791641,25506,,John Swett High School,,38.05239,-122.22073,,,0,,America/Los_Angeles,,,0
+791461,2113,,San Pablo Ave and Sunnyview Dr - Westbound,,38.00439,-122.30466,,,0,,America/Los_Angeles,,,0
+791535,25050,,Refugio Valley and Mandalay Ave,,37.99384,-122.23356,,,0,,America/Los_Angeles,,,0
+791509,25019,,San Pablo Ave and Merchant St - Westbound,,38.0551049895207,-122.230685457547,,,0,,America/Los_Angeles,,,0
+791640,25504,,San Pablo Ave and California St - Northbound,,38.03986,-122.26362,,,0,,America/Los_Angeles,,,0
+791439,262,,Marionola Way near Marlesta Rd,,38.00156,-122.29712,,,0,,America/Los_Angeles,,,0
+791595,25118,,Pinole Valley Rd and Estates Ave,,37.99523,-122.2855,,,0,,America/Los_Angeles,,,0
+791543,25059,,Sycamore Ave - Civic Center,,38.00954,-122.26613,,,0,,America/Los_Angeles,,,0
+791449,293,,Hilltop Mall - Westbound,,37.981717866597,-122.32697638525,,,0,,America/Los_Angeles,,,0
+791484,2178,,Pheasant Dr and Tanager Way,,37.99676,-122.26289,,,0,,America/Los_Angeles,,,0
+791594,25117,,Pinole Valley Rd and Helena Ct,,37.98798,-122.28441,,,0,,America/Los_Angeles,,,0
+791637,25307,,Alfred Nobel Dr - Near Venture Commerce Ctr,,38.02033,-122.27524,,,0,,America/Los_Angeles,,,0
+791446,274,,Sunnyview Dr and San Pablo Ave,,38.00436,-122.30529,,,0,,America/Los_Angeles,,,0
+791631,25209,,Coronado St and Decatur,,37.9978,-122.24373,,,0,,America/Los_Angeles,,,0
+791604,25130,,Alhambra Ave and G St,,37.99999,-122.13176,,,0,,America/Los_Angeles,,,0
+791478,2161,,Court St and Marina Vista Ave,,38.0194305179208,-122.13516201108,,,0,,America/Los_Angeles,,,0
+791589,25112,,Marcus Ct and Doidge Ave,,37.98269,-122.25318,,,0,,America/Los_Angeles,,,0
+791434,257,,Doidge Ave and Wright Ave,,37.98357,-122.25118,,,0,,America/Los_Angeles,,,0
+791477,2159,,Alhambra Ave and C Street - County Hospital,,38.00497,-122.13095,,,0,,America/Los_Angeles,,,0
+791510,25020,,San Pablo Ave and A St - Southbound ,,38.0487102856311,-122.248095107465,,,0,,America/Los_Angeles,,,0
+791471,2136,,San Pablo Ave and Belmont Way,,38.0025,-122.31621,,,0,,America/Los_Angeles,,,0
+791483,2177,,Turquiose Dr and Diamond Ct,,37.99405,-122.26302,,,0,,America/Los_Angeles,,,0
+791624,25160,,Ridgecrest Rd and Foothill Ave - Eastbound,,37.99647,-122.29742,,,0,,America/Los_Angeles,,,0
+791507,25017,,San Pablo Ave and Merchant St - Eastbound,,38.05487,-122.2309,,,0,,America/Los_Angeles,,,0
+791588,25111,,Wright Ave and Victor St,,37.98324,-122.25835,,,0,,America/Los_Angeles,,,0
+791565,25084,,Marlesta Rd and Appian Way - SW Corner,,38.0016,-122.29964,,,0,,America/Los_Angeles,,,0
+791454,2105,,San Pablo Ave and Del Monte Dr,,38.00274,-122.31631,,,0,,America/Los_Angeles,,,0
+791452,2103,,San Pablo Ave and Appian Way - Eastbound,,38.00435,-122.29711,,,0,,America/Los_Angeles,,,0
+791614,25147,,Lakeside Dr and Research Dr,,37.98488,-122.33287,,,0,,America/Los_Angeles,,,0
+791645,25510,,586 Parker Ave,,38.0299421279022,-122.266485396872,,,0,,America/Los_Angeles,,,0
+791553,25069,,Falcon Way and Finch Ct,,37.99919,-122.2582,,,0,,America/Los_Angeles,,,0
+844542,2100,,San Pablo and Hercules - Southbound,,38.009967,-122.283738,,,0,,America/Los_Angeles,,,0
+791646,25550,,Contra Costa College - Campus Dr Turnaround,,37.97094,-122.34062,,,0,,America/Los_Angeles,,,0
+791619,25152,,Willow Ave Shopping Center ,,38.02143,-122.26133,,,0,,America/Los_Angeles,,,0
+791539,25055,,Violet Rd and Lilac Circle,,38.00665,-122.2426,,,0,,America/Los_Angeles,,,0
+791428,249,,Fitzgerald Dr - Starbucks,,37.99156,-122.30286,,,0,,America/Los_Angeles,,,0
+791647,25555,,2nd St and Wanda St,,38.05362,-122.22361,,,0,,America/Los_Angeles,,,0
+791488,2198,,Coronado St and Carson St,,37.99953,-122.23893,,,0,,America/Los_Angeles,,,0
+791623,25159,,Pinole Shores Dr and San Pablo Ave,,38.0056,-122.31027,,,0,,America/Los_Angeles,,,0
+791530,25045,,Refugio Valley and Southwind Dr,,37.9954944690799,-122.243977201223,,,0,,America/Los_Angeles,,,0
+791627,25203,,Blume Dr and Auto Plaza - Northbound,,37.9830487630501,-122.322228665438,,,0,,America/Los_Angeles,,,0
+791536,25051,,Carson St and Stanley Ct,,37.998,-122.23765,,,0,,America/Los_Angeles,,,0
+791423,242,,Coral Dr and Stirling Dr,,38.0256,-122.2466,,,0,,America/Los_Angeles,,,0
+791522,25036,,Alfred Nobel and John Muir Pkwy,,38.01788,-122.27432,,,0,,America/Los_Angeles,,,0
+791462,2116,,San Pablo Ave and John St - Northbound,,38.00724,-122.28788,,,0,,America/Los_Angeles,,,0
+791540,25056,,Violet Rd and Iris Rd,,38.00845,-122.24842,,,0,,America/Los_Angeles,,,0
+791430,251,,Marionola Way and Marlesta Rd - Northbound,,38.0017480890345,-122.296995263468,,,0,,America/Los_Angeles,,,0
+791626,25202,,Ridgecrest Rd and Greenfield Circle - Southbound,,37.99677,-122.29561,,,0,,America/Los_Angeles,,,0
+791433,256,,Simas Ave and Pinole Valley Rd,,37.98527,-122.27979,,,0,,America/Los_Angeles,,,0
+791529,25044,,Refugio Valley and Falcon Way,,37.9965613585434,-122.247660233135,,,0,,America/Los_Angeles,,,0
+791441,264,,San Pablo and Oak Ridge Rd,,38.00454,-122.29191,,,0,,America/Los_Angeles,,,0
+791532,25047,,Refugio Valley and Mirimar Ave,,37.99377,-122.23752,,,0,,America/Los_Angeles,,,0
+791587,25110,,Wright Ave and Doidge Ave,,37.98051,-122.26383,,,0,,America/Los_Angeles,,,0
+791508,25018,,Loring Ave and Rolph Ave,,38.05572,-122.22011,,,0,,America/Los_Angeles,,,0
+791632,25210,,Coronado St and Refugio Valley,,37.9960335402466,-122.245539698964,,,0,,America/Los_Angeles,,,0
+791613,25141,,4050 Lakeside Ave,,37.98741,-122.33223,,,0,,America/Los_Angeles,,,0
+791635,25214,,Marlesta Rd and Appian Way - SE Corner,,38.00168,-122.29914,,,0,,America/Los_Angeles,,,0
+791480,2174,,Hercules Middle and High School,,37.9996,-122.25161,,,0,,America/Los_Angeles,,,0
+791512,25022,,Parker Ave and Pacific Ave,,38.03482,-122.26769,,,0,,America/Los_Angeles,,,0
+791424,243,,Viewpointe Blvd and Coral Dr - Southbound,,38.01915,-122.25618,,,0,,America/Los_Angeles,,,0
+791505,25015,,Tosco Refinery - Northbound,,38.04627,-122.25764,,,0,,America/Los_Angeles,,,0
+791453,2104,,San Pablo Ave and Sunnyview Dr - Eastbound,,38.005,-122.3057,,,0,,America/Los_Angeles,,,0
+791564,25083,,Blume Dr and Klose Way - Hilltop Mall Sign,,37.9847410368375,-122.318991679626,,,0,,America/Los_Angeles,,,0
+791421,235,,Refugio Valley and Country Run,,38.00553,-122.26495,,,0,,America/Los_Angeles,,,0
+791429,250,,Canyon Dr and Appian Way - Eastbound,,37.99528,-122.30135,,,0,,America/Los_Angeles,,,0
+791460,2112,,San Pablo Ave and Tara Hills Dr - Northbound,,37.99935,-122.32269,,,0,,America/Los_Angeles,,,0
+791513,25025,,San Pablo Ave and Linus Pauling,,38.02105,-122.27174,,,0,,America/Los_Angeles,,,0
+791497,25003,,Fitzgerald Dr - Applebees,,37.98818,-122.31139,,,0,,America/Los_Angeles,,,0
+791475,2145,,Richmond Parkway and Lakeside Dr - Westbound,,37.98977,-122.32891,,,0,,America/Los_Angeles,,,0
+791487,2197,,Carson St and Raleigh Ct,,37.99476,-122.23644,,,0,,America/Los_Angeles,,,0
+791555,25071,,454 Falcon Way,,37.99663,-122.25204,,,0,,America/Los_Angeles,,,0
+791642,25507,,Pomona St and Port St,,38.05245,-122.22539,,,0,,America/Los_Angeles,,,0
+791548,25064,,Turquiose Dr and Obsidan Way,,37.99994,-122.27689,,,0,,America/Los_Angeles,,,0
+791503,25013,,2nd St and Parker Ave,,38.0358515496971,-122.267630758266,,,0,,America/Los_Angeles,,,0
+791463,2119,,Parker Ave and 6th St - Northbound,,38.02959,-122.26613,,,0,,America/Los_Angeles,,,0
+791562,25080,,Shamrock Dr and Kavanagh Rd,,37.99347,-122.32366,,,0,,America/Los_Angeles,,,0
+791571,25090,,San Pablo Ave and Meadow Ave,,38.00496,-122.30767,,,0,,America/Los_Angeles,,,0
+791455,2106,,San Pablo Ave and Tara Hills Dr - Southbound,,37.99955,-122.32305,,,0,,America/Los_Angeles,,,0
+791599,25125,,Viewpointe Blvd and Sandpoint Dr,,38.02373,-122.25692,,,0,,America/Los_Angeles,,,0
+791582,25105,,Pinole Valley Rd and Johanna Ct,,37.98734,-122.28397,,,0,,America/Los_Angeles,,,0
+791554,25070,,Falcon Way and Wren Ct,,37.99804,-122.25626,,,0,,America/Los_Angeles,,,0
+791615,25148,,Richmond Parkway Eastbound  - Hilltop Bayview,,37.98928,-122.32236,,,0,,America/Los_Angeles,,,0
+791556,25072,,Falcon Way and Refugio Valley,,37.9965,-122.24848,,,0,,America/Los_Angeles,,,0
+791602,25128,,Alhambra Ave and Walnut St - Northbound,,37.99239,-122.13058,,,0,,America/Los_Angeles,,,0
+791499,25007,,Hilltop Dr and Shane Dr,,37.9781947586797,-122.329921332989,,,0,,America/Los_Angeles,,,0
+836604,,,San Pablo Ave and Sycamore,,38.012666,-122.274135,,,0,,America/Los_Angeles,,,0
+791432,255,,Pinole Valley Rd and Ramona St,,37.99205,-122.28558,,,0,,America/Los_Angeles,,,0
+791511,25021,,Tosco Refinery - Parking Lot Side,,38.04638,-122.25795,,,0,,America/Los_Angeles,,,0
+791578,25098,,Coral Dr and Sandpoint Dr,,38.02317,-122.25012,,,0,,America/Los_Angeles,,,0
+791558,25074,,Refugio Valley - Swim Center,,38.00149,-122.25522,,,0,,America/Los_Angeles,,,0
+791638,25501,,Hercules Transit Center,,38.0128,-122.2662,,,0,,America/Los_Angeles,,,0
+848767,,,San Pablo Ave and Tsushima ave,,38.012391,-122.278427,,,0,,America/Los_Angeles,,,0
+791525,25039,,Linus Pauling - County EHS,,38.02182,-122.27259,,,0,,America/Los_Angeles,,,0
+791538,25053,,Grissom St and Shepard St,,37.99982,-122.24112,,,0,,America/Los_Angeles,,,0
+791549,25065,,Turquiose Dr at Reservoir,,37.99601,-122.26997,,,0,,America/Los_Angeles,,,0
+791490,2201,,Sycamore Ave - Creekside Shopping Center,,38.00949,-122.26869,,,0,,America/Los_Angeles,,,0
+791473,2138,,San Pablo Ave and Hercules Ave - Northbound,,38.01025,-122.28225,,,0,,America/Los_Angeles,,,0
+791531,25046,,Refugio Valley and Midship Dr,,37.99451,-122.24141,,,0,,America/Los_Angeles,,,0
+791470,2134,,Richmond Parkway and Lakeside Dr - Eastbound,,37.99006,-122.32892,,,0,,America/Los_Angeles,,,0
+791606,25133,,Alhambra Ave and Main St,,38.016326339417,-122.138008512897,,,0,,America/Los_Angeles,,,0
+791570,25089,,Pinole Shores Rd and Del Monte Dr,,38.00816,-122.31174,,,0,,America/Los_Angeles,,,0
+791568,25087,,Cypress Ave and Meadowlark St,,38.00713,-122.3191,,,0,,America/Los_Angeles,,,0
+791459,2111,,San Pablo Ave and Shamrock Dr - Northbound,,37.99538,-122.32747,,,0,,America/Los_Angeles,,,0
+791563,25081,,Hillview Dr and Hilltop Dr,,37.9823579690335,-122.33300406392,,,0,,America/Los_Angeles,,,0
+791534,25049,,Bonaire Ave and Refugio Valley Rd,,37.99313,-122.2305,,,0,,America/Los_Angeles,,,0
+791546,25062,,Cinnabar Way and Obsidan Way,,38.00424,-122.27588,,,0,,America/Los_Angeles,,,0
+791482,2176,,Turquiose Dr and Jade Ct,,37.99656,-122.27494,,,0,,America/Los_Angeles,,,0
+791521,25035,,San Pablo Ave and Alverez Ave,,38.00397,-122.29424,,,0,,America/Los_Angeles,,,0

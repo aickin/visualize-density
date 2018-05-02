@@ -1,0 +1,13 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+51,Amtrak,http://www.amtrak.com,America/New_York,en
+42,Amtrak California,http://www.amtrak.com,America/New_York,en
+28,Amtrak Chartered Vehicle,http://www.amtrak.com,America/New_York,en
+115,Annett Bus Lines,http://www.amtrak.com,America/New_York,en
+16,Burlington Trailways,http://www.amtrak.com,America/New_York,en
+117,Executive Transportation,http://www.amtrak.com,America/New_York,en
+45,Lone Star Coaches,http://www.amtrak.com,America/New_York,en
+4,Martz First Class Coach,http://www.amtrak.com,America/New_York,en
+108,Martz Trailways,http://www.amtrak.com,America/New_York,en
+112,Sunway Charters,http://www.amtrak.com,America/New_York,en
+116,Trinity Transportation,http://www.amtrak.com,America/New_York,en
+12,Vandalia Bus Lines,http://www.amtrak.com,America/New_York,en

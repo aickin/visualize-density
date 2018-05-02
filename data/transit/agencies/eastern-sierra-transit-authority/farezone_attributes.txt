@@ -1,0 +1,36 @@
+zone_id,zone_name
+294,Lee Vining
+282,Pahrump
+295,Reno
+279,Charleston View
+268,Mammoth Airport
+280,Tecopa
+264,Mojave
+278,Carson City
+263,Inyo Kern
+277,Gardnerville
+259,Aberdeen
+270,Hamil Valley
+296,June Lake
+297,Pearsonville
+265,Lancaster
+257,Bishop
+260,Independence
+267,Rovana
+271,Chalfant
+262,Olancha
+273,Walker
+255,Crowley
+741,Wilkerson
+261,Lone Pine
+274,Coleville
+275,Topaz
+281,Shoshone
+292,Coso Junction
+256,Tom's Place
+740,Keoughs
+266,Millcreek
+272,Bridgeport
+269,Benton
+258,Big Pine
+254,Mammoth

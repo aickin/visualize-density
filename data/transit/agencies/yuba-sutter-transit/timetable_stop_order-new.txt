@@ -1,0 +1,834 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,12412,1,Brownsville (Gold Eagle Market),/Foothill Route
+1,2371251,2,Dobbins/Oregon House Fire Department,/Foothill Route
+1,12414,3,Willow Glen Cafe,"/Foothill Route, /New Route"
+1,12415,4,Loma Rica (Gold Eagle Market),"/Foothill Route, /New Route"
+1,758939,5,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, /Foothill Route, /Live Oak Route, /Wheatland Route"
+2,758939,1,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, /Foothill Route, /Live Oak Route, /Wheatland Route"
+2,12415,2,Loma Rica (Gold Eagle Market),"/Foothill Route, /New Route"
+2,12414,3,Willow Glen Cafe,"/Foothill Route, /New Route"
+2,2371251,4,Dobbins/Oregon House Fire Department,/Foothill Route
+2,12412,5,Brownsville (Gold Eagle Market),/Foothill Route
+3,14923,1,I St & 9th St (SB),"4A/Marysville Loop, 70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+3,14927,2,Power Line Rd & McGowan Pkwy (NB),"70/HWY 70 to Sacramento, MD/Sacramento Mid Day Express"
+3,12403,3,Plumas Lake Park & Ride (Hwy 70),"70/HWY 70 to Sacramento, MD/Sacramento Mid Day Express, /New Route"
+3,14929,4,J St & 4th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+3,14930,5,J St & 8th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+3,14931,6,J St & 11th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+3,14932,7,15th St & K St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+3,14933,8,15th St & N St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+3,14934,9,P St & 13th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+3,14935,10,P St & 9th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+3,14936,11,P St & 5th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+4,14929,1,J St & 4th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+4,14930,2,J St & 8th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+4,14931,3,J St & 11th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+4,14932,4,15th St & K St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+4,14933,5,15th St & N St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+4,14934,6,P St & 13th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+4,14935,7,P St & 9th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+4,14936,8,P St & 5th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+4,12403,9,Plumas Lake Park & Ride (Hwy 70),"70/HWY 70 to Sacramento, MD/Sacramento Mid Day Express, /New Route"
+4,14927,10,Power Line Rd & McGowan Pkwy (NB),"70/HWY 70 to Sacramento, MD/Sacramento Mid Day Express"
+4,14923,11,I St & 9th St (SB),"4A/Marysville Loop, 70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+5,14923,1,I St & 9th St (SB),"4A/Marysville Loop, 70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+5,14924,2,Walton Ave & Sam's Club Entrance (SB),"99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+5,14925,3,Bogue Rd & Highway 99 (SB),"99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+5,14929,4,J St & 4th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+5,14930,5,J St & 8th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+5,14931,6,J St & 11th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+5,14932,7,15th St & K St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+5,14933,8,15th St & N St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+5,14934,9,P St & 13th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+5,14935,10,P St & 9th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+5,14936,11,P St & 5th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+6,14929,1,J St & 4th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+6,14930,2,J St & 8th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+6,14931,3,J St & 11th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+6,14932,4,15th St & K St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+6,14933,5,15th St & N St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+6,14934,6,P St & 13th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+6,14935,7,P St & 9th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+6,14936,8,P St & 5th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+6,14925,9,Bogue Rd & Highway 99 (SB),"99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+6,14926,10,Walton Ave & Sam's Club Entrance (NB),"2A/Yuba City Loop, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+6,14923,11,I St & 9th St (SB),"4A/Marysville Loop, 70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,12283,1,B Street and 8th Street (Caltrans),"4B/Marysville Loop, 99/HWY 99 to Sacramento"
+7,14923,2,I St & 9th St (SB),"4A/Marysville Loop, 70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,26743,3,2379 Gateway Oaks ,99/HWY 99 to Sacramento
+7,14929,4,J St & 4th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,14930,5,J St & 8th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,14931,6,J St & 11th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,14932,7,15th St & K St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,14933,8,15th St & N St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,14934,9,P St & 13th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,14935,10,P St & 9th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,14936,11,P St & 5th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,14925,12,Bogue Rd & Highway 99 (SB),"99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,14926,13,Walton Ave & Sam's Club Entrance (NB),"2A/Yuba City Loop, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+7,14923,14,I St & 9th St (SB),"4A/Marysville Loop, 70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+8,12332,1,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+8,12333,2,North Beale Road and College View Drive,6/Linda Shuttle
+8,12335,3,Alberta Avenue and North Beale Road,6/Linda Shuttle
+8,12337,4,Alberta Ave. and Hammonton-Smartville Road,6/Linda Shuttle
+8,12339,5,Hammonton-Smartville Rd. and Dunning Avenue,6/Linda Shuttle
+8,12342,6,Hammonton-Smartville Road and Mapes Way,6/Linda Shuttle
+8,12343,7,Hammonton-Smartville Road and Hile Avenue,6/Linda Shuttle
+8,12327,8,North Beale Road and between Alpine and Park,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+8,12325,9,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+8,12321,10,North Beale Road and Wal-Mart,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+8,12347,11,Feather River Blvd. and North Beale Road,"3/Olivehurst to Yuba College, 6/Linda Shuttle"
+8,12349,12,Feather River Blvd. and Arboga Road,6/Linda Shuttle
+8,12351,13,Feather River Blvd. and Alicia Avenue (Clover Leaf),6/Linda Shuttle
+8,12352,14,Feather River Blvd. and Riverside,6/Linda Shuttle
+8,12354,15,Feather River Blvd. and Island,6/Linda Shuttle
+8,12356,16,Grand  and Island,6/Linda Shuttle
+8,12359,17,Grand Avenue and Alicia Avenue,6/Linda Shuttle
+8,12360,18,Alicia and Pasado Road,6/Linda Shuttle
+8,12363,19,Pasado Road and Arboga Road,6/Linda Shuttle
+8,12370,20,Edgewater and Rupert,6/Linda Shuttle
+8,12371,21,Edgewater and Oakwood,6/Linda Shuttle
+8,12372,22,Edgewater and Riverbank,6/Linda Shuttle
+8,12373,23,Erle and Ravine Ct. Pedestrian Access,6/Linda Shuttle
+8,12362,24,Pasado Road and Arboga Road,6/Linda Shuttle
+8,12361,25,Pasado Road and Alicia Avenue,6/Linda Shuttle
+8,12358,26,Grand Avenue and Alicia Avenue,6/Linda Shuttle
+8,12357,27,Grand  and Island,6/Linda Shuttle
+8,12355,28,Feather River Blvd. and Island,6/Linda Shuttle
+8,12353,29,Feather River Blvd. and Riverside,6/Linda Shuttle
+8,12350,30,Feather River Blvd. and Alicia Avenue,6/Linda Shuttle
+8,12348,31,Feather River Blvd. and Arboga Road,6/Linda Shuttle
+8,12322,32,North Beale Road and SouthSide,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+8,12324,33,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+8,12326,34,North Beale Road and Park Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+8,12346,35,North Beale Road and Hammonton-Smartville Road,6/Linda Shuttle
+8,12341,36,Hammonton-Smartville Rd. and Farrell,6/Linda Shuttle
+8,12340,37,Hammonton-Smartville Rd. and Dunning Avenue,6/Linda Shuttle
+8,12338,38,Alberta Ave. and Hammonton-Smartville Road,6/Linda Shuttle
+8,12336,39,Alberta Ave. and North Beale Road,6/Linda Shuttle
+8,12334,40,North Beale Road and College View Drive,6/Linda Shuttle
+8,12332,41,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+9,12332,1,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+9,12333,2,North Beale Road and College View Drive,6/Linda Shuttle
+9,12335,3,Alberta Avenue and North Beale Road,6/Linda Shuttle
+9,12337,4,Alberta Ave. and Hammonton-Smartville Road,6/Linda Shuttle
+9,12339,5,Hammonton-Smartville Rd. and Dunning Avenue,6/Linda Shuttle
+9,12342,6,Hammonton-Smartville Road and Mapes Way,6/Linda Shuttle
+9,12343,7,Hammonton-Smartville Road and Hile Avenue,6/Linda Shuttle
+9,12327,8,North Beale Road and between Alpine and Park,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+9,12325,9,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+9,12321,10,North Beale Road and Wal-Mart,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+9,12347,11,Feather River Blvd. and North Beale Road,"3/Olivehurst to Yuba College, 6/Linda Shuttle"
+9,12349,12,Feather River Blvd. and Arboga Road,6/Linda Shuttle
+9,12351,13,Feather River Blvd. and Alicia Avenue (Clover Leaf),6/Linda Shuttle
+9,12352,14,Feather River Blvd. and Riverside,6/Linda Shuttle
+9,12354,15,Feather River Blvd. and Island,6/Linda Shuttle
+9,12356,16,Grand  and Island,6/Linda Shuttle
+9,12359,17,Grand Avenue and Alicia Avenue,6/Linda Shuttle
+9,12360,18,Alicia and Pasado Road,6/Linda Shuttle
+9,12363,19,Pasado Road and Arboga Road,6/Linda Shuttle
+9,12370,20,Edgewater and Rupert,6/Linda Shuttle
+9,12371,21,Edgewater and Oakwood,6/Linda Shuttle
+9,12372,22,Edgewater and Riverbank,6/Linda Shuttle
+9,12373,23,Erle and Ravine Ct. Pedestrian Access,6/Linda Shuttle
+9,12362,24,Pasado Road and Arboga Road,6/Linda Shuttle
+9,12361,25,Pasado Road and Alicia Avenue,6/Linda Shuttle
+9,12358,26,Grand Avenue and Alicia Avenue,6/Linda Shuttle
+9,12357,27,Grand  and Island,6/Linda Shuttle
+9,12355,28,Feather River Blvd. and Island,6/Linda Shuttle
+9,12353,29,Feather River Blvd. and Riverside,6/Linda Shuttle
+9,12350,30,Feather River Blvd. and Alicia Avenue,6/Linda Shuttle
+9,12348,31,Feather River Blvd. and Arboga Road,6/Linda Shuttle
+9,12322,32,North Beale Road and SouthSide,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+9,12324,33,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+9,12326,34,North Beale Road and Park Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+9,12346,35,North Beale Road and Hammonton-Smartville Road,6/Linda Shuttle
+9,12341,36,Hammonton-Smartville Rd. and Farrell,6/Linda Shuttle
+9,12340,37,Hammonton-Smartville Rd. and Dunning Avenue,6/Linda Shuttle
+9,12338,38,Alberta Ave. and Hammonton-Smartville Road,6/Linda Shuttle
+9,12336,39,Alberta Ave. and North Beale Road,6/Linda Shuttle
+9,12334,40,North Beale Road and College View Drive,6/Linda Shuttle
+9,12332,41,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+10,758939,1,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, /Foothill Route, /Live Oak Route, /Wheatland Route"
+10,12172,2,Alturas St. and Shasta St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop, 2B/Yuba City Loop, /Live Oak Route"
+10,2371244,3,Ash St. & Hwy 99,/Live Oak Route
+10,2371245,4,Maple Park Neighborhood Center,/Live Oak Route
+10,12417,5,Pennington Road and O Street (Live Oak Park),/Live Oak Route
+10,2371247,6,Richard Ave & Presley Ave,/Live Oak Route
+10,12418,7,Date Street and O Street (Senior Village),/Live Oak Route
+10,2371246,8,Butte View Estates,/Live Oak Route
+10,12172,9,Alturas St. and Shasta St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop, 2B/Yuba City Loop, /Live Oak Route"
+10,758939,10,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, /Foothill Route, /Live Oak Route, /Wheatland Route"
+11,758939,1,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, /Foothill Route, /Live Oak Route, /Wheatland Route"
+11,12172,2,Alturas St. and Shasta St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop, 2B/Yuba City Loop, /Live Oak Route"
+11,2371244,3,Ash St. & Hwy 99,/Live Oak Route
+11,2371245,4,Maple Park Neighborhood Center,/Live Oak Route
+11,12417,5,Pennington Road and O Street (Live Oak Park),/Live Oak Route
+11,2371247,6,Richard Ave & Presley Ave,/Live Oak Route
+11,12418,7,Date Street and O Street (Senior Village),/Live Oak Route
+11,2371246,8,Butte View Estates,/Live Oak Route
+12,12293,1,East 18th Street and B Street,4A/Marysville Loop
+12,12301,2,Ramirez Street and East 18th Street,4A/Marysville Loop
+12,12303,3,East 19th Street and Sampson Street,4A/Marysville Loop
+12,12306,4,Covillaud Street and East 19th Street,4A/Marysville Loop
+12,12307,5,Covillaud Street and East 22nd Street,4A/Marysville Loop
+12,12310,6,22nd Street and Huston Street,4A/Marysville Loop
+12,12311,7,East 22nd Street and Hansen Street,4A/Marysville Loop
+12,12315,8,Hall Street and East 19th Street,4A/Marysville Loop
+12,12287,9,East 17th Street and Huston Street,4A/Marysville Loop
+12,12289,10,East 17th Street and Del Pero Street,4A/Marysville Loop
+12,12292,11,East 17th Street and Covillaud Street,4A/Marysville Loop
+12,12318,12,Sampson Street and East 16th Street,4A/Marysville Loop
+12,12296,13,Ramirez Street and East 15th Street,4A/Marysville Loop
+12,12297,14,Ramirez Street and East 13th Street,4A/Marysville Loop
+12,12300,15,Yuba Street and 12th Street (One-Stop),"4A/Marysville Loop, 4B/Marysville Loop"
+12,12299,16,Ramirez Street and East 11th Street,"4A/Marysville Loop, 4B/Marysville Loop"
+12,12282,17,B Street and 9th Street,4A/Marysville Loop
+12,12280,18,B Street and 6th Street,4A/Marysville Loop
+12,12278,19,B Street and 3rd Street,4A/Marysville Loop
+12,12432,20,D and 2nd,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+12,12320,21,North Beale Road and Feather River Blvd.,"1/Yuba City to Yuba College, 4A/Marysville Loop"
+12,12322,22,North Beale Road and SouthSide,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+12,12323,23,Peach Tree Clinic (Department),"4A/Marysville Loop, 4B/Marysville Loop"
+13,12293,1,East 18th Street and B Street,4A/Marysville Loop
+13,12301,2,Ramirez Street and East 18th Street,4A/Marysville Loop
+13,12303,3,East 19th Street and Sampson Street,4A/Marysville Loop
+13,12306,4,Covillaud Street and East 19th Street,4A/Marysville Loop
+13,12307,5,Covillaud Street and East 22nd Street,4A/Marysville Loop
+13,12310,6,22nd Street and Huston Street,4A/Marysville Loop
+13,12311,7,East 22nd Street and Hansen Street,4A/Marysville Loop
+13,12315,8,Hall Street and East 19th Street,4A/Marysville Loop
+13,12287,9,East 17th Street and Huston Street,4A/Marysville Loop
+13,12289,10,East 17th Street and Del Pero Street,4A/Marysville Loop
+13,12292,11,East 17th Street and Covillaud Street,4A/Marysville Loop
+13,12318,12,Sampson Street and East 16th Street,4A/Marysville Loop
+13,12296,13,Ramirez Street and East 15th Street,4A/Marysville Loop
+13,12297,14,Ramirez Street and East 13th Street,4A/Marysville Loop
+13,12300,15,Yuba Street and 12th Street (One-Stop),"4A/Marysville Loop, 4B/Marysville Loop"
+13,12299,16,Ramirez Street and East 11th Street,"4A/Marysville Loop, 4B/Marysville Loop"
+13,12282,17,B Street and 9th Street,4A/Marysville Loop
+13,12280,18,B Street and 6th Street,4A/Marysville Loop
+13,12278,19,B Street and 3rd Street,4A/Marysville Loop
+13,12432,20,D and 2nd,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+13,12320,21,North Beale Road and Feather River Blvd.,"1/Yuba City to Yuba College, 4A/Marysville Loop"
+13,12322,22,North Beale Road and SouthSide,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+13,12323,23,Peach Tree Clinic (Department),"4A/Marysville Loop, 4B/Marysville Loop"
+14,12323,1,Peach Tree Clinic (Department),"4A/Marysville Loop, 4B/Marysville Loop"
+14,12321,2,North Beale Road and Wal-Mart,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+14,12319,3,North Beale Road and Rio Rancho Motel,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+14,12432,4,D and 2nd,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+14,12279,5,B Street and 3rd Street,4B/Marysville Loop
+14,12281,6,B Street and 6th Street,4B/Marysville Loop
+14,12283,7,B Street and 8th Street (Caltrans),"4B/Marysville Loop, 99/HWY 99 to Sacramento"
+14,12300,8,Yuba Street and 12th Street (One-Stop),"4A/Marysville Loop, 4B/Marysville Loop"
+14,12299,9,Ramirez Street and East 11th Street,"4A/Marysville Loop, 4B/Marysville Loop"
+14,12298,10,Ramirez Street and East 12th Street,4B/Marysville Loop
+14,12295,11,Ramirez Street and East 15th Street,4B/Marysville Loop
+14,12317,12,Sampson Street and East 16th Street,4B/Marysville Loop
+14,12291,13,East 17th Street and Covillaud Street,4B/Marysville Loop
+14,12290,14,East 17th Street and Del Pero Street,4B/Marysville Loop
+14,12288,15,East 17th Street and Huston Street,4B/Marysville Loop
+14,12316,16,Hall Street and East 19th Street,4B/Marysville Loop
+14,758937,17,Hansen St. and East 22nd St.,4B/Marysville Loop
+14,12309,18,22nd Street and Huston Street,4B/Marysville Loop
+14,12308,19,22nd Street and Covillaud Street,4B/Marysville Loop
+14,12305,20,East 19th Street and Covillaud Street,4B/Marysville Loop
+14,12304,21,East 19th Street and Sampson Street,4B/Marysville Loop
+14,12302,22,Ramirez Street and East 18th Street,4B/Marysville Loop
+14,12294,23,Chestnut and East 18th Street,4B/Marysville Loop
+14,12285,24,B Street and 16th Street,4B/Marysville Loop
+14,12277,25,14th Street and Ellis Lake Drive,4B/Marysville Loop
+14,12274,26,H Street and 14th Street,4B/Marysville Loop
+14,12272,27,H Street and 11th Street,4B/Marysville Loop
+14,12265,28,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+14,12267,29,H Street and 7th Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+14,12269,30,H Street and 4th Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+14,12271,31,Third Street and F Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+14,12432,32,D and 2nd,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+14,12322,33,North Beale Road and SouthSide,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+14,12323,34,Peach Tree Clinic (Department),"4A/Marysville Loop, 4B/Marysville Loop"
+15,12323,1,Peach Tree Clinic (Department),"4A/Marysville Loop, 4B/Marysville Loop"
+15,12321,2,North Beale Road and Wal-Mart,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+15,12319,3,North Beale Road and Rio Rancho Motel,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+15,12432,4,D and 2nd,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+15,12279,5,B Street and 3rd Street,4B/Marysville Loop
+15,12281,6,B Street and 6th Street,4B/Marysville Loop
+15,12283,7,B Street and 8th Street (Caltrans),"4B/Marysville Loop, 99/HWY 99 to Sacramento"
+15,12300,8,Yuba Street and 12th Street (One-Stop),"4A/Marysville Loop, 4B/Marysville Loop"
+15,12299,9,Ramirez Street and East 11th Street,"4A/Marysville Loop, 4B/Marysville Loop"
+15,12298,10,Ramirez Street and East 12th Street,4B/Marysville Loop
+15,12295,11,Ramirez Street and East 15th Street,4B/Marysville Loop
+15,12317,12,Sampson Street and East 16th Street,4B/Marysville Loop
+15,12291,13,East 17th Street and Covillaud Street,4B/Marysville Loop
+15,12290,14,East 17th Street and Del Pero Street,4B/Marysville Loop
+15,12288,15,East 17th Street and Huston Street,4B/Marysville Loop
+15,12316,16,Hall Street and East 19th Street,4B/Marysville Loop
+15,758937,17,Hansen St. and East 22nd St.,4B/Marysville Loop
+15,12309,18,22nd Street and Huston Street,4B/Marysville Loop
+15,12308,19,22nd Street and Covillaud Street,4B/Marysville Loop
+15,12305,20,East 19th Street and Covillaud Street,4B/Marysville Loop
+15,12304,21,East 19th Street and Sampson Street,4B/Marysville Loop
+15,12302,22,Ramirez Street and East 18th Street,4B/Marysville Loop
+15,12294,23,Chestnut and East 18th Street,4B/Marysville Loop
+15,12285,24,B Street and 16th Street,4B/Marysville Loop
+15,12277,25,14th Street and Ellis Lake Drive,4B/Marysville Loop
+15,12274,26,H Street and 14th Street,4B/Marysville Loop
+15,12272,27,H Street and 11th Street,4B/Marysville Loop
+15,12265,28,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+15,12267,29,H Street and 7th Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+15,12269,30,H Street and 4th Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+15,12271,31,Third Street and F Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+15,12432,32,D and 2nd,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+15,12322,33,North Beale Road and SouthSide,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+15,12323,34,Peach Tree Clinic (Department),"4A/Marysville Loop, 4B/Marysville Loop"
+16,12403,1,Plumas Lake Park & Ride (Hwy 70),"70/HWY 70 to Sacramento, MD/Sacramento Mid Day Express, /New Route"
+16,12415,2,Loma Rica (Gold Eagle Market),"/Foothill Route, /New Route"
+16,12414,3,Willow Glen Cafe,"/Foothill Route, /New Route"
+17,12332,1,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+17,12331,2,North Beale Road and Woodland Drive,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+17,12329,3,North Beale Road and Albrecht Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+17,12327,4,North Beale Road and between Alpine and Park,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+17,12325,5,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+17,12321,6,North Beale Road and Wal-Mart,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+17,12347,7,Feather River Blvd. and North Beale Road,"3/Olivehurst to Yuba College, 6/Linda Shuttle"
+17,12377,8,Arboga Road and Feather River Blvd.,3/Olivehurst to Yuba College
+17,12374,9,Arboga Road and Jay,3/Olivehurst to Yuba College
+17,12365,10,Arboga Road and Grand Avenue,3/Olivehurst to Yuba College
+17,12366,11,5585 Arboga Road ,3/Olivehurst to Yuba College
+17,12368,12,Arboga Road and Pasado Road,3/Olivehurst to Yuba College
+17,12378,13,Chestnut Road and Catalpa Street,3/Olivehurst to Yuba College
+17,12380,14,Chestnut Road and 2nd Avenue,3/Olivehurst to Yuba College
+17,12382,15,Chestnut Road and Olivehurst Avenue,3/Olivehurst to Yuba College
+17,12385,16,Olivehurst Avenue and 6th Avenue,3/Olivehurst to Yuba College
+17,12386,17,Olivehurst Avenue and 7th Avenue,3/Olivehurst to Yuba College
+17,12388,18,Olivehurst Avenue and 9th Avenue,3/Olivehurst to Yuba College
+17,12390,19,Olivehurst Avenue and 11th Avenue,3/Olivehurst to Yuba College
+17,12392,20,Olivehurst Avenue and Clarice Avenue,3/Olivehurst to Yuba College
+17,12395,21,Olivehurst Avenue and Bellis Court,3/Olivehurst to Yuba College
+17,12396,22,McGowan Parkway and Ardmore Avenue,3/Olivehurst to Yuba College
+17,12398,23,McGowan Parkway and George Avenue,3/Olivehurst to Yuba College
+17,758936,24,Evelyn and Johnson Park,3/Olivehurst to Yuba College
+18,12332,1,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+18,12331,2,North Beale Road and Woodland Drive,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+18,12329,3,North Beale Road and Albrecht Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+18,12327,4,North Beale Road and between Alpine and Park,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+18,12325,5,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+18,12321,6,North Beale Road and Wal-Mart,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+18,12347,7,Feather River Blvd. and North Beale Road,"3/Olivehurst to Yuba College, 6/Linda Shuttle"
+18,12377,8,Arboga Road and Feather River Blvd.,3/Olivehurst to Yuba College
+18,12374,9,Arboga Road and Jay,3/Olivehurst to Yuba College
+18,12365,10,Arboga Road and Grand Avenue,3/Olivehurst to Yuba College
+18,12366,11,5585 Arboga Road ,3/Olivehurst to Yuba College
+18,12368,12,Arboga Road and Pasado Road,3/Olivehurst to Yuba College
+18,12378,13,Chestnut Road and Catalpa Street,3/Olivehurst to Yuba College
+18,12380,14,Chestnut Road and 2nd Avenue,3/Olivehurst to Yuba College
+18,12382,15,Chestnut Road and Olivehurst Avenue,3/Olivehurst to Yuba College
+18,12385,16,Olivehurst Avenue and 6th Avenue,3/Olivehurst to Yuba College
+18,12386,17,Olivehurst Avenue and 7th Avenue,3/Olivehurst to Yuba College
+18,12388,18,Olivehurst Avenue and 9th Avenue,3/Olivehurst to Yuba College
+18,12390,19,Olivehurst Avenue and 11th Avenue,3/Olivehurst to Yuba College
+18,12392,20,Olivehurst Avenue and Clarice Avenue,3/Olivehurst to Yuba College
+18,12395,21,Olivehurst Avenue and Bellis Court,3/Olivehurst to Yuba College
+18,12396,22,McGowan Parkway and Ardmore Avenue,3/Olivehurst to Yuba College
+18,12398,23,McGowan Parkway and George Avenue,3/Olivehurst to Yuba College
+18,758936,24,Evelyn and Johnson Park,3/Olivehurst to Yuba College
+19,758936,1,Evelyn and Johnson Park,3/Olivehurst to Yuba College
+19,12399,2,McGowan Parkway and George Avenue,3/Olivehurst to Yuba College
+19,12397,3,McGowan Parkway and Ardmore Avenue,3/Olivehurst to Yuba College
+19,12394,4,Olivehurst Avenue and Beverly Avenue,3/Olivehurst to Yuba College
+19,12393,5,Olivehurst Avenue and 14th Avenue,3/Olivehurst to Yuba College
+19,12391,6,Olivehurst Avenue and 11th Avenue,3/Olivehurst to Yuba College
+19,12389,7,Olivehurst Avenue and 9th Avenue,3/Olivehurst to Yuba College
+19,12387,8,Olivehurst Avenue and 7th Avenue,3/Olivehurst to Yuba College
+19,12384,9,Olivehurst Avenue and 6th Avenue,3/Olivehurst to Yuba College
+19,12383,10,Chestnut Road and Olivehurst Avenue,3/Olivehurst to Yuba College
+19,12381,11,Chestnut Road and 2nd Avenue,3/Olivehurst to Yuba College
+19,12379,12,Chestnut Road and Catalpa Street,3/Olivehurst to Yuba College
+19,12369,13,Arboga Road and Pasado Road,3/Olivehurst to Yuba College
+19,12367,14,5594 Arboga Road ,3/Olivehurst to Yuba College
+19,12364,15,Arboga Road and Grand Avenue,3/Olivehurst to Yuba College
+19,12375,16,Arboga Road and Jay,3/Olivehurst to Yuba College
+19,12376,17,Arboga Road and Feather River Blvd.,3/Olivehurst to Yuba College
+19,12322,18,North Beale Road and SouthSide,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+19,12324,19,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+19,12326,20,North Beale Road and Park Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+19,12345,21,Hammonton-Smartville Road and North Beale Road,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+19,12328,22,North Beale Road and Albrecht Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+19,12330,23,North Beale Road and Woodland Drive,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+19,12332,24,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+20,758936,1,Evelyn and Johnson Park,3/Olivehurst to Yuba College
+20,12399,2,McGowan Parkway and George Avenue,3/Olivehurst to Yuba College
+20,12397,3,McGowan Parkway and Ardmore Avenue,3/Olivehurst to Yuba College
+20,12394,4,Olivehurst Avenue and Beverly Avenue,3/Olivehurst to Yuba College
+20,12393,5,Olivehurst Avenue and 14th Avenue,3/Olivehurst to Yuba College
+20,12391,6,Olivehurst Avenue and 11th Avenue,3/Olivehurst to Yuba College
+20,12389,7,Olivehurst Avenue and 9th Avenue,3/Olivehurst to Yuba College
+20,12387,8,Olivehurst Avenue and 7th Avenue,3/Olivehurst to Yuba College
+20,12384,9,Olivehurst Avenue and 6th Avenue,3/Olivehurst to Yuba College
+20,12383,10,Chestnut Road and Olivehurst Avenue,3/Olivehurst to Yuba College
+20,12381,11,Chestnut Road and 2nd Avenue,3/Olivehurst to Yuba College
+20,12379,12,Chestnut Road and Catalpa Street,3/Olivehurst to Yuba College
+20,12369,13,Arboga Road and Pasado Road,3/Olivehurst to Yuba College
+20,12367,14,5594 Arboga Road ,3/Olivehurst to Yuba College
+20,12364,15,Arboga Road and Grand Avenue,3/Olivehurst to Yuba College
+20,12375,16,Arboga Road and Jay,3/Olivehurst to Yuba College
+20,12376,17,Arboga Road and Feather River Blvd.,3/Olivehurst to Yuba College
+20,12322,18,North Beale Road and SouthSide,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+20,12324,19,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+20,12326,20,North Beale Road and Park Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+20,12345,21,Hammonton-Smartville Road and North Beale Road,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+20,12328,22,North Beale Road and Albrecht Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+20,12330,23,North Beale Road and Woodland Drive,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+20,12332,24,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+21,14926,1,Walton Ave & Sam's Club Entrance (NB),"2A/Yuba City Loop, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+21,14923,2,I St & 9th St (SB),"4A/Marysville Loop, 70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+21,14927,3,Power Line Rd & McGowan Pkwy (NB),"70/HWY 70 to Sacramento, MD/Sacramento Mid Day Express"
+21,12403,4,Plumas Lake Park & Ride (Hwy 70),"70/HWY 70 to Sacramento, MD/Sacramento Mid Day Express, /New Route"
+21,14929,5,J St & 4th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+21,14930,6,J St & 8th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+21,14931,7,J St & 11th St (EB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+21,14932,8,15th St & K St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+21,14933,9,15th St & N St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+21,14934,10,P St & 13th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+21,14935,11,P St & 9th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+21,14936,12,P St & 5th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+22,12404,1,J Street and 4th Street,"99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+22,12405,2,J Street and 8th Street,"99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+22,12406,3,J Street and 11th Street,"99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+22,14932,4,15th St & K St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+22,14933,5,15th St & N St (SB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+22,12409,6,P Street and 13th Street,"99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+22,12410,7,P Street and 9th Street,"99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+22,12411,8,P Street and 5th Street,"99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+22,14936,9,P St & 5th St (WB),"70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+22,12403,10,Plumas Lake Park & Ride (Hwy 70),"70/HWY 70 to Sacramento, MD/Sacramento Mid Day Express, /New Route"
+22,14927,11,Power Line Rd & McGowan Pkwy (NB),"70/HWY 70 to Sacramento, MD/Sacramento Mid Day Express"
+22,14923,12,I St & 9th St (SB),"4A/Marysville Loop, 70/HWY 70 to Sacramento, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+23,12433,1,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+23,12210,2,Bridge St. and Walton Ave.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+23,12207,3,Bridge St. and JoAnn Way,"2B/Yuba City Loop, 5/Southwest Yuba City"
+23,12205,4,Bridge St. and Oji Way,"2B/Yuba City Loop, 5/Southwest Yuba City"
+23,12206,5,Onstott Frontage Road and Cinemark Movies 12,5/Southwest Yuba City
+23,12211,6,Franklin Road and Winco Foods (Across Street ),5/Southwest Yuba City
+23,12214,7,Walton Ave. and Franklin Road,5/Southwest Yuba City
+23,12215,8,Walton Ave. and Camino Del Flores (AK School),5/Southwest Yuba City
+23,12217,9,Walton Ave. and Cherry Street,5/Southwest Yuba City
+23,12219,10,Walton Ave. and McCune Avenue,5/Southwest Yuba City
+23,12224,11,Lincoln Road and Crest Drive,5/Southwest Yuba City
+23,12225,12,Lincoln Road and Phillips Road,5/Southwest Yuba City
+23,12226,13,Lincoln Road and Jones Road,5/Southwest Yuba City
+23,12192,14,Lincoln Rd. and Railroad Ave.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+23,12191,15,Lincoln Rd. and Garden Hwy.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+23,12227,16,Garden Highway and Teesdale,5/Southwest Yuba City
+23,12228,17,Garden Highway and River Oaks Drive,5/Southwest Yuba City
+23,12229,18,Bogue Road and Garden Highway,5/Southwest Yuba City
+23,12230,19,Bogue Road and South Park,5/Southwest Yuba City
+23,12231,20,Bogue Road and Railroad Avenue,5/Southwest Yuba City
+23,12263,21,Bogue Road and Ramona Avenue,5/Southwest Yuba City
+23,12264,22,Bogue Road and Walton,5/Southwest Yuba City
+23,12232,23,Bogue Road and Germaine Drive,5/Southwest Yuba City
+23,12233,24,Bogue Road and Falls Drive,5/Southwest Yuba City
+23,12234,25,Sanborn Road and Bogue Road,5/Southwest Yuba City
+23,12236,26,Pebble Beach Drive and Portola Valley Drive (Park),5/Southwest Yuba City
+23,12235,27,Pebble Beach Drive and Walton Ave.,5/Southwest Yuba City
+23,12223,28,Walton Ave. and Tracy Drive,5/Southwest Yuba City
+23,12222,29,Walton Ave. and Joseph Street,5/Southwest Yuba City
+23,12221,30,Walton Ave. and Lincoln Road,5/Southwest Yuba City
+24,12433,1,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+24,12210,2,Bridge St. and Walton Ave.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+24,12207,3,Bridge St. and JoAnn Way,"2B/Yuba City Loop, 5/Southwest Yuba City"
+24,12205,4,Bridge St. and Oji Way,"2B/Yuba City Loop, 5/Southwest Yuba City"
+24,12206,5,Onstott Frontage Road and Cinemark Movies 12,5/Southwest Yuba City
+24,12211,6,Franklin Road and Winco Foods (Across Street ),5/Southwest Yuba City
+24,12214,7,Walton Ave. and Franklin Road,5/Southwest Yuba City
+24,12215,8,Walton Ave. and Camino Del Flores (AK School),5/Southwest Yuba City
+24,12217,9,Walton Ave. and Cherry Street,5/Southwest Yuba City
+24,12219,10,Walton Ave. and McCune Avenue,5/Southwest Yuba City
+24,12224,11,Lincoln Road and Crest Drive,5/Southwest Yuba City
+24,12225,12,Lincoln Road and Phillips Road,5/Southwest Yuba City
+24,12226,13,Lincoln Road and Jones Road,5/Southwest Yuba City
+24,12192,14,Lincoln Rd. and Railroad Ave.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+24,12191,15,Lincoln Rd. and Garden Hwy.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+24,12227,16,Garden Highway and Teesdale,5/Southwest Yuba City
+24,12228,17,Garden Highway and River Oaks Drive,5/Southwest Yuba City
+24,12229,18,Bogue Road and Garden Highway,5/Southwest Yuba City
+24,12230,19,Bogue Road and South Park,5/Southwest Yuba City
+24,12231,20,Bogue Road and Railroad Avenue,5/Southwest Yuba City
+24,12263,21,Bogue Road and Ramona Avenue,5/Southwest Yuba City
+24,12264,22,Bogue Road and Walton,5/Southwest Yuba City
+24,12232,23,Bogue Road and Germaine Drive,5/Southwest Yuba City
+24,12233,24,Bogue Road and Falls Drive,5/Southwest Yuba City
+24,12234,25,Sanborn Road and Bogue Road,5/Southwest Yuba City
+24,12236,26,Pebble Beach Drive and Portola Valley Drive (Park),5/Southwest Yuba City
+24,12235,27,Pebble Beach Drive and Walton Ave.,5/Southwest Yuba City
+24,12223,28,Walton Ave. and Tracy Drive,5/Southwest Yuba City
+24,12222,29,Walton Ave. and Joseph Street,5/Southwest Yuba City
+24,12221,30,Walton Ave. and Lincoln Road,5/Southwest Yuba City
+25,12192,1,Lincoln Rd. and Railroad Ave.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+25,12191,2,Lincoln Rd. and Garden Hwy.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+25,12227,3,Garden Highway and Teesdale,5/Southwest Yuba City
+25,12228,4,Garden Highway and River Oaks Drive,5/Southwest Yuba City
+25,12229,5,Bogue Road and Garden Highway,5/Southwest Yuba City
+25,12230,6,Bogue Road and South Park,5/Southwest Yuba City
+25,12231,7,Bogue Road and Railroad Avenue,5/Southwest Yuba City
+25,12263,8,Bogue Road and Ramona Avenue,5/Southwest Yuba City
+25,12264,9,Bogue Road and Walton,5/Southwest Yuba City
+25,12232,10,Bogue Road and Germaine Drive,5/Southwest Yuba City
+25,12233,11,Bogue Road and Falls Drive,5/Southwest Yuba City
+25,12234,12,Sanborn Road and Bogue Road,5/Southwest Yuba City
+25,12236,13,Pebble Beach Drive and Portola Valley Drive (Park),5/Southwest Yuba City
+25,12235,14,Pebble Beach Drive and Walton Ave.,5/Southwest Yuba City
+25,12223,15,Walton Ave. and Tracy Drive,5/Southwest Yuba City
+25,12222,16,Walton Ave. and Joseph Street,5/Southwest Yuba City
+25,12221,17,Walton Ave. and Lincoln Road,5/Southwest Yuba City
+25,12220,18,Walton Ave. and McCune Avenue,5/Southwest Yuba City
+25,12218,19,Walton Ave. and Cherry Street,5/Southwest Yuba City
+25,12216,20,Walton Ave. and Camino Del Flores,5/Southwest Yuba City
+25,12213,21,Franklin Road and Walton Ave.,5/Southwest Yuba City
+25,12212,22,Franklin Road and Winco Foods,5/Southwest Yuba City
+25,12434,23,Bridge St and ToysRUs,"2A/Yuba City Loop, 5/Southwest Yuba City"
+25,12208,24,Bridge Street and JoAnn Way,"2A/Yuba City Loop, 5/Southwest Yuba City"
+25,12209,25,Walton Ave. and Bridge St.,"2A/Yuba City Loop, 5/Southwest Yuba City"
+25,12143,26,Lassen Boulevard and Walton Avenue,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+25,12144,27,Lassen Boulevard and Tharp Rd.,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+25,12145,28,Lassen Boulevard and Klamath,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+25,12146,29,Harter Road and Spirit Way,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+25,12147,30,Harter Road and Yuba City Marketplace,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+25,12148,31,Butte House Road and Harter Road ,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+25,12149,32,Butte House Rd. and Tharp Rd.,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+25,12150,33,Stabler Ln. and Butte House Rd.,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+25,12152,34,Stabler Ln. and Starr Drive,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+25,12433,35,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+26,12192,1,Lincoln Rd. and Railroad Ave.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+26,12191,2,Lincoln Rd. and Garden Hwy.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+26,12227,3,Garden Highway and Teesdale,5/Southwest Yuba City
+26,12228,4,Garden Highway and River Oaks Drive,5/Southwest Yuba City
+26,12229,5,Bogue Road and Garden Highway,5/Southwest Yuba City
+26,12230,6,Bogue Road and South Park,5/Southwest Yuba City
+26,12231,7,Bogue Road and Railroad Avenue,5/Southwest Yuba City
+26,12263,8,Bogue Road and Ramona Avenue,5/Southwest Yuba City
+26,12264,9,Bogue Road and Walton,5/Southwest Yuba City
+26,12232,10,Bogue Road and Germaine Drive,5/Southwest Yuba City
+26,12233,11,Bogue Road and Falls Drive,5/Southwest Yuba City
+26,12234,12,Sanborn Road and Bogue Road,5/Southwest Yuba City
+26,12236,13,Pebble Beach Drive and Portola Valley Drive (Park),5/Southwest Yuba City
+26,12235,14,Pebble Beach Drive and Walton Ave.,5/Southwest Yuba City
+26,12223,15,Walton Ave. and Tracy Drive,5/Southwest Yuba City
+26,12222,16,Walton Ave. and Joseph Street,5/Southwest Yuba City
+26,12221,17,Walton Ave. and Lincoln Road,5/Southwest Yuba City
+26,12220,18,Walton Ave. and McCune Avenue,5/Southwest Yuba City
+26,12218,19,Walton Ave. and Cherry Street,5/Southwest Yuba City
+26,12216,20,Walton Ave. and Camino Del Flores,5/Southwest Yuba City
+26,12213,21,Franklin Road and Walton Ave.,5/Southwest Yuba City
+26,12212,22,Franklin Road and Winco Foods,5/Southwest Yuba City
+26,12434,23,Bridge St and ToysRUs,"2A/Yuba City Loop, 5/Southwest Yuba City"
+26,12208,24,Bridge Street and JoAnn Way,"2A/Yuba City Loop, 5/Southwest Yuba City"
+26,12209,25,Walton Ave. and Bridge St.,"2A/Yuba City Loop, 5/Southwest Yuba City"
+26,12143,26,Lassen Boulevard and Walton Avenue,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+26,12144,27,Lassen Boulevard and Tharp Rd.,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+26,12145,28,Lassen Boulevard and Klamath,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+26,12146,29,Harter Road and Spirit Way,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+26,12147,30,Harter Road and Yuba City Marketplace,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+26,12148,31,Butte House Road and Harter Road ,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+26,12149,32,Butte House Rd. and Tharp Rd.,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+26,12150,33,Stabler Ln. and Butte House Rd.,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+26,12152,34,Stabler Ln. and Starr Drive,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+26,12433,35,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+27,758939,1,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, /Foothill Route, /Live Oak Route, /Wheatland Route"
+27,12322,2,North Beale Road and SouthSide,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+27,12419,3,Spruce Avenue and Evergreen Drive,/Wheatland Route
+27,12420,4,Highway 65 and Third Street,/Wheatland Route
+27,12421,5,Main Street and C Street,/Wheatland Route
+27,12422,6,Anderson Way and McCurry St. (Wheatland Ranch),/Wheatland Route
+27,12423,7,Donner Trail Manor and 121 C Street (in office parking lot),/Wheatland Route
+28,12419,1,Spruce Avenue and Evergreen Drive,/Wheatland Route
+28,12420,2,Highway 65 and Third Street,/Wheatland Route
+28,12421,3,Main Street and C Street,/Wheatland Route
+28,12422,4,Anderson Way and McCurry St. (Wheatland Ranch),/Wheatland Route
+28,12423,5,Donner Trail Manor and 121 C Street (in office parking lot),/Wheatland Route
+28,12321,6,North Beale Road and Wal-Mart,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+28,758939,7,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, /Foothill Route, /Live Oak Route, /Wheatland Route"
+29,14926,1,Walton Ave & Sam's Club Entrance (NB),"2A/Yuba City Loop, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+29,12153,2,Stabler Ln. and Starr Drive,2A/Yuba City Loop
+29,12151,3,Butte House Rd. and Stabler Ln. (Rite-Aid),"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+29,12154,4,Butte House Rd. and Civic Center Blvd.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+29,12156,5,Butte House Rd. and Yuba City Mall Signal Ent.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+29,12237,6,Washington Ave. and Gray Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+29,12238,7,Washington Ave. and Clark Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+29,12239,8,Ainsley Ave. and Clark Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+29,12240,9,Ainsley Ave. and Yuba City Senior Center,"2A/Yuba City Loop, 2B/Yuba City Loop"
+29,12241,10,Gray Ave. and Queens Ave.,2A/Yuba City Loop
+29,12243,11,Gray Ave. and Casita Dr.,2A/Yuba City Loop
+29,12245,12,Northgate Dr. and Gray Ave.,2A/Yuba City Loop
+29,12247,13,Northgate Dr. and Clark Ave.,2A/Yuba City Loop
+29,12249,14,Northgate Dr. and Live Oak Blvd.,2A/Yuba City Loop
+29,12251,15,Yuba-Sutter Mental Health ,"2A/Yuba City Loop, 2B/Yuba City Loop"
+29,12252,16,Queens Ave. and Live Oak Blvd. (Brundy Ct.),2A/Yuba City Loop
+29,12254,17,Plumas St. and Alemar Way,2A/Yuba City Loop
+29,12256,18,Plumas St. and Sutter Estates (south ent.),2A/Yuba City Loop
+29,12258,19,Plumas St. and Ainsley Ave.,2A/Yuba City Loop
+29,12261,20,Plumas St. and Fremont Hospital (front door),2A/Yuba City Loop
+29,12172,21,Alturas St. and Shasta St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop, 2B/Yuba City Loop, /Live Oak Route"
+29,12171,22,Plumas St.  and Church St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+29,12174,23,Plumas St. and Bridge St.,2A/Yuba City Loop
+29,12176,24,Plumas Street and B Street,2A/Yuba City Loop
+29,12178,25,C Street and Wilbur Avenue,2A/Yuba City Loop
+29,12181,26,Wilbur Ave. and Franklin Ave.,2A/Yuba City Loop
+29,12182,27,Wilbur Ave. and Career Placement Center,2A/Yuba City Loop
+29,12184,28,Wilbur Ave. and Garden Hwy.,2A/Yuba City Loop
+29,12186,29,Garden Hwy. and Percy Ave.,2A/Yuba City Loop
+29,12188,30,Garden Hwy. and Winship Rd.,2A/Yuba City Loop
+29,12190,31,Lincoln Rd. and Garden Hwy.,2A/Yuba City Loop
+29,12193,32,Lincoln Rd. and Railroad Ave.,2A/Yuba City Loop
+29,12194,33,Clark Ave. and Richland Rd.,2A/Yuba City Loop
+29,12196,34,Clark Ave. and Julie Dr. (Hillcrest Plaza),2A/Yuba City Loop
+29,12197,35,Franklin Road and Clark Avenue (Tennis Courts),2A/Yuba City Loop
+29,12200,36,Gray Avenue and Franklin Road,2A/Yuba City Loop
+29,12201,37,Gray Avenue and B Street,2A/Yuba City Loop
+29,12203,38,Bridge St. and Gray Ave. (Save Mart),2A/Yuba City Loop
+29,12434,39,Bridge St and ToysRUs,"2A/Yuba City Loop, 5/Southwest Yuba City"
+29,12208,40,Bridge Street and JoAnn Way,"2A/Yuba City Loop, 5/Southwest Yuba City"
+29,12209,41,Walton Ave. and Bridge St.,"2A/Yuba City Loop, 5/Southwest Yuba City"
+29,14926,42,Walton Ave & Sam's Club Entrance (NB),"2A/Yuba City Loop, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+30,14926,1,Walton Ave & Sam's Club Entrance (NB),"2A/Yuba City Loop, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+30,12153,2,Stabler Ln. and Starr Drive,2A/Yuba City Loop
+30,12151,3,Butte House Rd. and Stabler Ln. (Rite-Aid),"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+30,12154,4,Butte House Rd. and Civic Center Blvd.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+30,12156,5,Butte House Rd. and Yuba City Mall Signal Ent.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+30,12237,6,Washington Ave. and Gray Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+30,12238,7,Washington Ave. and Clark Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+30,12239,8,Ainsley Ave. and Clark Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+30,12240,9,Ainsley Ave. and Yuba City Senior Center,"2A/Yuba City Loop, 2B/Yuba City Loop"
+30,12241,10,Gray Ave. and Queens Ave.,2A/Yuba City Loop
+30,12243,11,Gray Ave. and Casita Dr.,2A/Yuba City Loop
+30,12245,12,Northgate Dr. and Gray Ave.,2A/Yuba City Loop
+30,12247,13,Northgate Dr. and Clark Ave.,2A/Yuba City Loop
+30,12249,14,Northgate Dr. and Live Oak Blvd.,2A/Yuba City Loop
+30,12251,15,Yuba-Sutter Mental Health ,"2A/Yuba City Loop, 2B/Yuba City Loop"
+30,12252,16,Queens Ave. and Live Oak Blvd. (Brundy Ct.),2A/Yuba City Loop
+30,12254,17,Plumas St. and Alemar Way,2A/Yuba City Loop
+30,12256,18,Plumas St. and Sutter Estates (south ent.),2A/Yuba City Loop
+30,12258,19,Plumas St. and Ainsley Ave.,2A/Yuba City Loop
+30,12261,20,Plumas St. and Fremont Hospital (front door),2A/Yuba City Loop
+30,12172,21,Alturas St. and Shasta St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop, 2B/Yuba City Loop, /Live Oak Route"
+30,12171,22,Plumas St.  and Church St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+30,12174,23,Plumas St. and Bridge St.,2A/Yuba City Loop
+30,12176,24,Plumas Street and B Street,2A/Yuba City Loop
+30,12178,25,C Street and Wilbur Avenue,2A/Yuba City Loop
+30,12181,26,Wilbur Ave. and Franklin Ave.,2A/Yuba City Loop
+30,12182,27,Wilbur Ave. and Career Placement Center,2A/Yuba City Loop
+30,12184,28,Wilbur Ave. and Garden Hwy.,2A/Yuba City Loop
+30,12186,29,Garden Hwy. and Percy Ave.,2A/Yuba City Loop
+30,12188,30,Garden Hwy. and Winship Rd.,2A/Yuba City Loop
+30,12190,31,Lincoln Rd. and Garden Hwy.,2A/Yuba City Loop
+30,12193,32,Lincoln Rd. and Railroad Ave.,2A/Yuba City Loop
+30,12194,33,Clark Ave. and Richland Rd.,2A/Yuba City Loop
+30,12196,34,Clark Ave. and Julie Dr. (Hillcrest Plaza),2A/Yuba City Loop
+30,12197,35,Franklin Road and Clark Avenue (Tennis Courts),2A/Yuba City Loop
+30,12200,36,Gray Avenue and Franklin Road,2A/Yuba City Loop
+30,12201,37,Gray Avenue and B Street,2A/Yuba City Loop
+30,12203,38,Bridge St. and Gray Ave. (Save Mart),2A/Yuba City Loop
+30,12434,39,Bridge St and ToysRUs,"2A/Yuba City Loop, 5/Southwest Yuba City"
+30,12208,40,Bridge Street and JoAnn Way,"2A/Yuba City Loop, 5/Southwest Yuba City"
+30,12209,41,Walton Ave. and Bridge St.,"2A/Yuba City Loop, 5/Southwest Yuba City"
+30,14926,42,Walton Ave & Sam's Club Entrance (NB),"2A/Yuba City Loop, 99/HWY 99 to Sacramento, MD/Sacramento Mid Day Express"
+31,12433,1,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+31,12210,2,Bridge St. and Walton Ave.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+31,12207,3,Bridge St. and JoAnn Way,"2B/Yuba City Loop, 5/Southwest Yuba City"
+31,12205,4,Bridge St. and Oji Way,"2B/Yuba City Loop, 5/Southwest Yuba City"
+31,12204,5,Bridge St. and North Barrett Rd.,2B/Yuba City Loop
+31,12202,6,Gray Avenue and B Street,2B/Yuba City Loop
+31,12199,7,Franklin Road and Gray Ave.,2B/Yuba City Loop
+31,12198,8,Clark Ave. and Franklin Ave.,2B/Yuba City Loop
+31,12435,9,Clark Ave and Julie Dr at St. Isadore's,2B/Yuba City Loop
+31,12195,10,Bunce Rd. and Richland Rd.,2B/Yuba City Loop
+31,12192,11,Lincoln Rd. and Railroad Ave.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+31,12191,12,Lincoln Rd. and Garden Hwy.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+31,12189,13,Garden Hwy. and Winship Rd.,2B/Yuba City Loop
+31,12187,14,Garden Hwy. and Percy Ave.,2B/Yuba City Loop
+31,12185,15,Wilbur Ave. and Garden Hwy.,2B/Yuba City Loop
+31,12183,16,Wilbur Ave. and Fairview MHP Entrance,2B/Yuba City Loop
+31,12180,17,Wilbur Avenue and Franklin Road,2B/Yuba City Loop
+31,12179,18,C Street and Wilbur Avenue,2B/Yuba City Loop
+31,12177,19,Plumas Street and Town Square,2B/Yuba City Loop
+31,12175,20,Plumas St. and Bridge St.,2B/Yuba City Loop
+31,12170,21,Plumas St. and Church St.,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+31,12172,22,Alturas St. and Shasta St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop, 2B/Yuba City Loop, /Live Oak Route"
+31,12260,23,Plumas St. and Fremont Hospital,2B/Yuba City Loop
+31,12259,24,Plumas St. and Ainsley Ave.,2B/Yuba City Loop
+31,12257,25,Plumas St. and Sutter Estates (south ent.),2B/Yuba City Loop
+31,12255,26,Plumas St. and Alemar Way,2B/Yuba City Loop
+31,12253,27,Queens Ave. and Live Oak Blvd. (Brundy Ct.),2B/Yuba City Loop
+31,12251,28,Yuba-Sutter Mental Health ,"2A/Yuba City Loop, 2B/Yuba City Loop"
+31,12250,29,Northgate Dr. and Live Oak Blvd.,2B/Yuba City Loop
+31,12248,30,Northgate Dr. and Clark Ave.,2B/Yuba City Loop
+31,12246,31,Northgate Dr. and Gray Ave.,2B/Yuba City Loop
+31,12244,32,Gray Ave. and Casita Dr.,2B/Yuba City Loop
+31,12242,33,Gray Ave. and Queens Ave.,2B/Yuba City Loop
+31,12237,34,Washington Ave. and Gray Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+31,12238,35,Washington Ave. and Clark Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+31,12239,36,Ainsley Ave. and Clark Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+31,12240,37,Ainsley Ave. and Yuba City Senior Center,"2A/Yuba City Loop, 2B/Yuba City Loop"
+31,12157,38,Butte House Rd. and Target Entrance,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+31,12155,39,Butte House Rd. and El Dorado Lane,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+31,12150,40,Stabler Ln. and Butte House Rd.,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+31,12152,41,Stabler Ln. and Starr Drive,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+31,12433,42,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+32,12433,1,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+32,12210,2,Bridge St. and Walton Ave.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+32,12207,3,Bridge St. and JoAnn Way,"2B/Yuba City Loop, 5/Southwest Yuba City"
+32,12205,4,Bridge St. and Oji Way,"2B/Yuba City Loop, 5/Southwest Yuba City"
+32,12204,5,Bridge St. and North Barrett Rd.,2B/Yuba City Loop
+32,12202,6,Gray Avenue and B Street,2B/Yuba City Loop
+32,12199,7,Franklin Road and Gray Ave.,2B/Yuba City Loop
+32,12198,8,Clark Ave. and Franklin Ave.,2B/Yuba City Loop
+32,12435,9,Clark Ave and Julie Dr at St. Isadore's,2B/Yuba City Loop
+32,12195,10,Bunce Rd. and Richland Rd.,2B/Yuba City Loop
+32,12192,11,Lincoln Rd. and Railroad Ave.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+32,12191,12,Lincoln Rd. and Garden Hwy.,"2B/Yuba City Loop, 5/Southwest Yuba City"
+32,12189,13,Garden Hwy. and Winship Rd.,2B/Yuba City Loop
+32,12187,14,Garden Hwy. and Percy Ave.,2B/Yuba City Loop
+32,12185,15,Wilbur Ave. and Garden Hwy.,2B/Yuba City Loop
+32,12183,16,Wilbur Ave. and Fairview MHP Entrance,2B/Yuba City Loop
+32,12180,17,Wilbur Avenue and Franklin Road,2B/Yuba City Loop
+32,12179,18,C Street and Wilbur Avenue,2B/Yuba City Loop
+32,12177,19,Plumas Street and Town Square,2B/Yuba City Loop
+32,12175,20,Plumas St. and Bridge St.,2B/Yuba City Loop
+32,12170,21,Plumas St. and Church St.,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+32,12172,22,Alturas St. and Shasta St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop, 2B/Yuba City Loop, /Live Oak Route"
+32,12260,23,Plumas St. and Fremont Hospital,2B/Yuba City Loop
+32,12259,24,Plumas St. and Ainsley Ave.,2B/Yuba City Loop
+32,12257,25,Plumas St. and Sutter Estates (south ent.),2B/Yuba City Loop
+32,12255,26,Plumas St. and Alemar Way,2B/Yuba City Loop
+32,12253,27,Queens Ave. and Live Oak Blvd. (Brundy Ct.),2B/Yuba City Loop
+32,12251,28,Yuba-Sutter Mental Health ,"2A/Yuba City Loop, 2B/Yuba City Loop"
+32,12250,29,Northgate Dr. and Live Oak Blvd.,2B/Yuba City Loop
+32,12248,30,Northgate Dr. and Clark Ave.,2B/Yuba City Loop
+32,12246,31,Northgate Dr. and Gray Ave.,2B/Yuba City Loop
+32,12244,32,Gray Ave. and Casita Dr.,2B/Yuba City Loop
+32,12242,33,Gray Ave. and Queens Ave.,2B/Yuba City Loop
+32,12237,34,Washington Ave. and Gray Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+32,12238,35,Washington Ave. and Clark Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+32,12239,36,Ainsley Ave. and Clark Ave.,"2A/Yuba City Loop, 2B/Yuba City Loop"
+32,12240,37,Ainsley Ave. and Yuba City Senior Center,"2A/Yuba City Loop, 2B/Yuba City Loop"
+32,12157,38,Butte House Rd. and Target Entrance,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+32,12155,39,Butte House Rd. and El Dorado Lane,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+32,12150,40,Stabler Ln. and Butte House Rd.,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+32,12152,41,Stabler Ln. and Starr Drive,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+32,12433,42,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+33,12332,1,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+33,12331,2,North Beale Road and Woodland Drive,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+33,12329,3,North Beale Road and Albrecht Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+33,12327,4,North Beale Road and between Alpine and Park,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+33,12325,5,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+33,12321,6,North Beale Road and Wal-Mart,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+33,12319,7,North Beale Road and Rio Rancho Motel,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+33,12432,8,D and 2nd,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+33,12286,9,F Street and Second Street (Buttes Manor),"1/Yuba City to Yuba College, 4A/Marysville Loop"
+33,12270,10,3rd St between H St and F St,"1/Yuba City to Yuba College, 4A/Marysville Loop"
+33,12268,11,H Street and 7th Street,"1/Yuba City to Yuba College, 4A/Marysville Loop"
+33,758939,12,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, /Foothill Route, /Live Oak Route, /Wheatland Route"
+33,12172,13,Alturas St. and Shasta St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop, 2B/Yuba City Loop, /Live Oak Route"
+33,12171,14,Plumas St.  and Church St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+33,12169,15,Forbes Ave. and Almond St.,1/Yuba City to Yuba College
+33,12166,16,Forbes Ave. and Orange St.,1/Yuba City to Yuba College
+33,12165,17,Forbes Ave. and Clark Ave.,1/Yuba City to Yuba College
+33,12163,18,Forbes Ave. and Gray Ave.,1/Yuba City to Yuba College
+33,12161,19,Gray Ave. and Louise Ave. (Paradise Motel),1/Yuba City to Yuba College
+33,804148,20,Gray Ave and Ainsley Ave (NB),1/Yuba City to Yuba College
+33,12157,21,Butte House Rd. and Target Entrance,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+33,12155,22,Butte House Rd. and El Dorado Lane,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+33,12150,23,Stabler Ln. and Butte House Rd.,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+33,12152,24,Stabler Ln. and Starr Drive,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+33,12433,25,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+34,12332,1,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+34,12331,2,North Beale Road and Woodland Drive,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+34,12329,3,North Beale Road and Albrecht Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+34,12327,4,North Beale Road and between Alpine and Park,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+34,12325,5,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+34,12321,6,North Beale Road and Wal-Mart,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+34,12319,7,North Beale Road and Rio Rancho Motel,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+34,12432,8,D and 2nd,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+34,12286,9,F Street and Second Street (Buttes Manor),"1/Yuba City to Yuba College, 4A/Marysville Loop"
+34,12270,10,3rd St between H St and F St,"1/Yuba City to Yuba College, 4A/Marysville Loop"
+34,12268,11,H Street and 7th Street,"1/Yuba City to Yuba College, 4A/Marysville Loop"
+34,758939,12,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, /Foothill Route, /Live Oak Route, /Wheatland Route"
+34,12172,13,Alturas St. and Shasta St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop, 2B/Yuba City Loop, /Live Oak Route"
+34,12171,14,Plumas St.  and Church St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+34,12169,15,Forbes Ave. and Almond St.,1/Yuba City to Yuba College
+34,12166,16,Forbes Ave. and Orange St.,1/Yuba City to Yuba College
+34,12165,17,Forbes Ave. and Clark Ave.,1/Yuba City to Yuba College
+34,12163,18,Forbes Ave. and Gray Ave.,1/Yuba City to Yuba College
+34,12161,19,Gray Ave. and Louise Ave. (Paradise Motel),1/Yuba City to Yuba College
+34,804148,20,Gray Ave and Ainsley Ave (NB),1/Yuba City to Yuba College
+34,12157,21,Butte House Rd. and Target Entrance,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+34,12155,22,Butte House Rd. and El Dorado Lane,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+34,12150,23,Stabler Ln. and Butte House Rd.,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+34,12152,24,Stabler Ln. and Starr Drive,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+34,12433,25,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+35,12433,1,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+35,12143,2,Lassen Boulevard and Walton Avenue,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+35,12144,3,Lassen Boulevard and Tharp Rd.,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+35,12145,4,Lassen Boulevard and Klamath,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+35,12146,5,Harter Road and Spirit Way,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+35,12147,6,Harter Road and Yuba City Marketplace,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+35,12148,7,Butte House Road and Harter Road ,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+35,12149,8,Butte House Rd. and Tharp Rd.,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+35,12151,9,Butte House Rd. and Stabler Ln. (Rite-Aid),"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+35,12154,10,Butte House Rd. and Civic Center Blvd.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+35,12156,11,Butte House Rd. and Yuba City Mall Signal Ent.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+35,804149,12,Gray Ave and Ainsley Ave (SB),1/Yuba City to Yuba College
+35,12160,13,Gray Ave. and Louise Ave. (K-Mart),1/Yuba City to Yuba College
+35,12162,14,Forbes Ave. and Gray Ave.,1/Yuba City to Yuba College
+35,12164,15,Forbes Ave. and Clark Ave. (Library),1/Yuba City to Yuba College
+35,12167,16,Forbes Ave. and Orange St.,1/Yuba City to Yuba College
+35,12168,17,Forbes Ave. and Almond St.,1/Yuba City to Yuba College
+35,12170,18,Plumas St. and Church St.,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+35,12172,19,Alturas St. and Shasta St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop, 2B/Yuba City Loop, /Live Oak Route"
+35,12265,20,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+35,12267,21,H Street and 7th Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+35,12269,22,H Street and 4th Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+35,12271,23,Third Street and F Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+35,12432,24,D and 2nd,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+35,12286,25,F Street and Second Street (Buttes Manor),"1/Yuba City to Yuba College, 4A/Marysville Loop"
+35,12320,26,North Beale Road and Feather River Blvd.,"1/Yuba City to Yuba College, 4A/Marysville Loop"
+35,12322,27,North Beale Road and SouthSide,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+35,12324,28,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+35,12326,29,North Beale Road and Park Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+35,12345,30,Hammonton-Smartville Road and North Beale Road,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+35,12328,31,North Beale Road and Albrecht Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+35,12330,32,North Beale Road and Woodland Drive,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+35,12332,33,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+36,12433,1,Walton Terminal Sam's Club,"1/Yuba City to Yuba College, 2B/Yuba City Loop, 5/Southwest Yuba City"
+36,12143,2,Lassen Boulevard and Walton Avenue,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+36,12144,3,Lassen Boulevard and Tharp Rd.,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+36,12145,4,Lassen Boulevard and Klamath,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+36,12146,5,Harter Road and Spirit Way,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+36,12147,6,Harter Road and Yuba City Marketplace,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+36,12148,7,Butte House Road and Harter Road ,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+36,12149,8,Butte House Rd. and Tharp Rd.,"1/Yuba City to Yuba College, 5/Southwest Yuba City"
+36,12151,9,Butte House Rd. and Stabler Ln. (Rite-Aid),"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+36,12154,10,Butte House Rd. and Civic Center Blvd.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+36,12156,11,Butte House Rd. and Yuba City Mall Signal Ent.,"1/Yuba City to Yuba College, 2A/Yuba City Loop"
+36,804149,12,Gray Ave and Ainsley Ave (SB),1/Yuba City to Yuba College
+36,12160,13,Gray Ave. and Louise Ave. (K-Mart),1/Yuba City to Yuba College
+36,12162,14,Forbes Ave. and Gray Ave.,1/Yuba City to Yuba College
+36,12164,15,Forbes Ave. and Clark Ave. (Library),1/Yuba City to Yuba College
+36,12167,16,Forbes Ave. and Orange St.,1/Yuba City to Yuba College
+36,12168,17,Forbes Ave. and Almond St.,1/Yuba City to Yuba College
+36,12170,18,Plumas St. and Church St.,"1/Yuba City to Yuba College, 2B/Yuba City Loop"
+36,12172,19,Alturas St. and Shasta St.,"1/Yuba City to Yuba College, 2A/Yuba City Loop, 2B/Yuba City Loop, /Live Oak Route"
+36,12265,20,Yuba Co. Government Center and I & 9th Streets,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+36,12267,21,H Street and 7th Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+36,12269,22,H Street and 4th Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+36,12271,23,Third Street and F Street,"1/Yuba City to Yuba College, 4B/Marysville Loop"
+36,12432,24,D and 2nd,"1/Yuba City to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop"
+36,12286,25,F Street and Second Street (Buttes Manor),"1/Yuba City to Yuba College, 4A/Marysville Loop"
+36,12320,26,North Beale Road and Feather River Blvd.,"1/Yuba City to Yuba College, 4A/Marysville Loop"
+36,12322,27,North Beale Road and SouthSide,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 4A/Marysville Loop, 4B/Marysville Loop, 6/Linda Shuttle, /Wheatland Route"
+36,12324,28,North Beale Road and Lowe Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+36,12326,29,North Beale Road and Park Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"
+36,12345,30,Hammonton-Smartville Road and North Beale Road,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+36,12328,31,North Beale Road and Albrecht Avenue,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+36,12330,32,North Beale Road and Woodland Drive,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College"
+36,12332,33,Yuba College Terminal and Building 100B,"1/Yuba City to Yuba College, 3/Olivehurst to Yuba College, 6/Linda Shuttle"

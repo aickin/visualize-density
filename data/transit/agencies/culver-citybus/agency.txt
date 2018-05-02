@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+10,Culver City Bus,http://www.culvercity.org/enjoy/culver-city-bus,America/Los_Angeles,en

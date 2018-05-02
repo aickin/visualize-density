@@ -1,0 +1,3 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1,,Cabrillo Mole,,33.344095, -118.321814,,,0,,,
+2,,Island Tour Plaza,,33.342579, -118.326087,,,0,,,

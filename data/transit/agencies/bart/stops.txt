@@ -1,0 +1,49 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+12TH,12th St. Oakland City Center,,37.803768,-122.271450,12TH,http://www.bart.gov/stations/12TH/,0,,,1
+16TH,16th St. Mission,,37.765062,-122.419694,16TH,http://www.bart.gov/stations/16TH/,0,,,1
+19TH,19th St. Oakland,,37.808350,-122.268602,19TH,http://www.bart.gov/stations/19TH/,0,,,1
+19TH_N,19th St. Oakland,,37.808350,-122.268602,19TH,http://www.bart.gov/stations/19TH/,0,,,1
+24TH,24th St. Mission,,37.752470,-122.418143,24TH,http://www.bart.gov/stations/24TH/,0,,,1
+ASHB,Ashby,,37.852803,-122.270062,ASHB,http://www.bart.gov/stations/ASHB/,0,,,1
+BALB,Balboa Park,,37.721585,-122.447506,BALB,http://www.bart.gov/stations/BALB/,0,,,1
+BAYF,Bay Fair,,37.696924,-122.126514,BAYF,http://www.bart.gov/stations/BAYF/,0,,,1
+CAST,Castro Valley,,37.690746,-122.075602,CAST,http://www.bart.gov/stations/CAST/,0,,,1
+CIVC,Civic Center/UN Plaza,,37.779732,-122.414123,CIVC,http://www.bart.gov/stations/CIVC/,0,,,1
+COLS,Coliseum,,37.753661,-122.196869,COLS,http://www.bart.gov/stations/COLS/,0,,,1
+COLM,Colma,,37.684638,-122.466233,COLM,http://www.bart.gov/stations/COLM/,0,,,1
+CONC,Concord,,37.973737,-122.029095,CONC,http://www.bart.gov/stations/CONC/,0,,,1
+DALY,Daly City,,37.706121,-122.469081,DALY,http://www.bart.gov/stations/DALY/,0,,,1
+DBRK,Downtown Berkeley,,37.870104,-122.268133,DBRK,http://www.bart.gov/stations/DBRK/,0,,,1
+DUBL,Dublin/Pleasanton,,37.701687,-121.899179,DUBL,http://www.bart.gov/stations/DUBL/,0,,,1
+DELN,El Cerrito del Norte,,37.925086,-122.316794,DELN,http://www.bart.gov/stations/DELN/,0,,,1
+PLZA,El Cerrito Plaza,,37.902632,-122.298904,PLZA,http://www.bart.gov/stations/PLZA/,0,,,1
+EMBR,Embarcadero,,37.792874,-122.397020,EMBR,http://www.bart.gov/stations/EMBR/,0,,,1
+FRMT,Fremont,,37.557465,-121.976608,FRMT,http://www.bart.gov/stations/FRMT/,0,,,1
+FTVL,Fruitvale,,37.774836,-122.224175,FTVL,http://www.bart.gov/stations/FTVL/,0,,,1
+GLEN,Glen Park,,37.733064,-122.433817,GLEN,http://www.bart.gov/stations/GLEN/,0,,,1
+HAYW,Hayward,,37.669723,-122.087018,HAYW,http://www.bart.gov/stations/HAYW/,0,,,1
+LAFY,Lafayette,,37.893176,-122.124630,LAFY,http://www.bart.gov/stations/LAFY/,0,,,1
+LAKE,Lake Merritt,,37.797027,-122.265180,LAKE,http://www.bart.gov/stations/LAKE/,0,,,1
+MCAR,MacArthur,,37.829065,-122.267040,MCAR,http://www.bart.gov/stations/MCAR/,0,,,1
+MCAR_S,MacArthur,,37.829065,-122.267040,MCAR,http://www.bart.gov/stations/MCAR/,0,,,1
+MLBR,Millbrae,,37.600271,-122.386702,MLBR,http://www.bart.gov/stations/MLBR/,0,,,1
+MONT,Montgomery St.,,37.789405,-122.401066,MONT,http://www.bart.gov/stations/MONT/,0,,,1
+NBRK,North Berkeley,,37.873967,-122.283440,NBRK,http://www.bart.gov/stations/NBRK/,0,,,1
+NCON,North Concord/Martinez,,38.003193,-122.024653,NCON,http://www.bart.gov/stations/NCON/,0,,,1
+OAKL,Oakland International Airport,,37.713238,-122.212191,OAKL,http://www.bart.gov/stations/OAKL/,0,,,1
+ORIN,Orinda,,37.878361,-122.183791,ORIN,http://www.bart.gov/stations/ORIN/,0,,,1
+PITT,Pittsburg/Bay Point,,38.018914,-121.945154,PITT,http://www.bart.gov/stations/PITT/,0,,,1
+PHIL,Pleasant Hill/Contra Costa Centre,,37.928468,-122.056012,PHIL,http://www.bart.gov/stations/PHIL/,0,,,1
+POWL,Powell St.,,37.784471,-122.407974,POWL,http://www.bart.gov/stations/POWL/,0,,,1
+RICH,Richmond,,37.936853,-122.353099,RICH,http://www.bart.gov/stations/RICH/,0,,,1
+ROCK,Rockridge,,37.844702,-122.251371,ROCK,http://www.bart.gov/stations/ROCK/,0,,,1
+SBRN,San Bruno,,37.637761,-122.416287,SBRN,http://www.bart.gov/stations/SBRN/,0,,,1
+SFIA,San Francisco International Airport,,37.615966,-122.392409,SFIA,http://www.bart.gov/stations/SFIA/,0,,,1
+SANL,San Leandro,,37.721947,-122.160844,SANL,http://www.bart.gov/stations/SANL/,0,,,1
+SHAY,South Hayward,,37.634375,-122.057189,SHAY,http://www.bart.gov/stations/SHAY/,0,,,1
+SSAN,South San Francisco,,37.664245,-122.443960,SSAN,http://www.bart.gov/stations/SSAN/,0,,,1
+UCTY,Union City,,37.590630,-122.017388,UCTY,http://www.bart.gov/stations/UCTY/,0,,,1
+WCRK,Walnut Creek,,37.905522,-122.067527,WCRK,http://www.bart.gov/stations/WCRK/,0,,,1
+WARM,Warm Springs/South Fremont,,37.502171,-121.939313,WARM,http://www.bart.gov/stations/WARM/,0,,,1
+WDUB,West Dublin/Pleasanton,,37.699756,-121.928240,WDUB,http://www.bart.gov/stations/WDUB/,0,,,1
+WOAK,West Oakland,,37.804872,-122.295140,WOAK,http://www.bart.gov/stations/WOAK/,0,,,1

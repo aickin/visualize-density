@@ -1,0 +1,4 @@
+agency_id,fare_id,price,currency_type,payment_method,transfers,transfer_duration
+248,1150,3.00,USD,0,0,0
+248,1269,5.00,USD,0,,18000
+248,1578,0.00,USD,0,0,

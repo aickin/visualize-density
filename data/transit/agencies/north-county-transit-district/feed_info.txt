@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_version
+NCTD,http://www.gonctd.com,EN,Version_20170403

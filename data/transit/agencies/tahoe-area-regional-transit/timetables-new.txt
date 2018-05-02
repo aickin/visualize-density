@@ -1,0 +1,52 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,3125,0,20150905,20190101,1,1,1,1,1,1,1,,Yearly Service Calendar (All days of week),Eastbound,horizontal
+2,3125,1,20150905,20190101,1,1,1,1,1,1,1,,Yearly Service Calendar (All days of week),Westbound,horizontal
+3,3126,0,20150905,20190101,0,0,0,0,1,1,0,,Yearly Service Calendar,Eastbound,horizontal
+4,3126,0,20150905,20190101,1,1,1,1,1,1,0,,Yearly Service Calendar (Monday-Saturday),Eastbound,horizontal
+5,3126,1,20150905,20190101,0,0,0,0,1,1,0,,Yearly Service Calendar,Westbound,horizontal
+6,3126,1,20150905,20190101,1,1,1,1,1,1,0,,Yearly Service Calendar (Monday-Saturday),Westbound,horizontal
+7,3124,0,20170831,20190101,1,1,1,1,1,1,1,,Starting 8/31/2017 (All days of week),Eastbound,horizontal
+8,3124,1,20170831,20190101,1,1,1,1,1,1,1,,Starting 8/31/2017 (All days of week),Westbound,horizontal
+9,3127,0,20161001,20190101,1,1,1,1,1,1,1,19X,New Service Starting Oct. 1 (All days of week),Northbound,horizontal
+10,3127,1,20161001,20190101,1,1,1,1,1,1,1,19X,New Service Starting Oct. 1 (All days of week),Southbound,horizontal
+11,3128,0,20161001,20190101,1,1,1,1,1,1,1,20X,New Service Starting Oct. 1 (All days of week),Eastbound,horizontal
+12,3128,1,20161001,20190101,1,1,1,1,1,1,1,20X,New Service Starting Oct. 1 (All days of week),Westbound,horizontal
+13,5415,0,20171117,20180331,1,1,1,1,1,1,1,Blue,Ski Shuttles (All days of week),Eastbound,horizontal
+14,5415,1,20171117,20180331,1,1,1,1,1,1,1,Blue,Ski Shuttles (All days of week),Westbound,horizontal
+15,2596,0,20150701,20190101,1,1,1,1,1,1,1,"Carnelian Bay Tahoe Vista, Kings Beach, Crystal Bay, Incline Village",Current schedule (All days of week),Outbound,horizontal
+16,2596,1,20150701,20190101,1,1,1,1,1,1,1,"Carnelian Bay Tahoe Vista, Kings Beach, Crystal Bay, Incline Village",Current schedule (All days of week),Inbound,horizontal
+17,2596,0,20171215,20180331,1,1,1,1,1,1,1,"Carnelian Bay Tahoe Vista, Kings Beach, Crystal Bay, Incline Village",Seasonal supplemental service (All days of week),Outbound,horizontal
+18,2596,1,20171215,20180331,1,1,1,1,1,1,1,"Carnelian Bay Tahoe Vista, Kings Beach, Crystal Bay, Incline Village",Seasonal supplemental service (All days of week),Inbound,horizontal
+19,7403,0,20180301,20180901,1,1,1,1,1,1,1,Donner Summit Shuttle,Donner Summit Shuttle (All days of week),Eastbound,horizontal
+20,7403,1,20180301,20180901,1,1,1,1,1,1,1,Donner Summit Shuttle,Donner Summit Shuttle (All days of week),Westbound,horizontal
+21,89,0,20160329,20190101,0,0,0,1,0,0,0,Free Crystal Bay/Tahoe Vista Trolley,Year Round (Thursday only),Eastbound,horizontal
+22,89,1,20160329,20190101,0,0,0,1,0,0,0,Free Crystal Bay/Tahoe Vista Trolley,Year Round (Thursday only),Westbound,horizontal
+23,5411,,20171117,20180331,1,1,1,1,1,1,1,Green,Ski Shuttles (All days of week),,horizontal
+24,174,0,20160329,20190101,1,1,1,1,1,1,1,Highway 267,Year Round (All days of week),Northbound,horizontal
+25,174,1,20160329,20190101,1,1,1,1,1,1,1,Highway 267,Year Round (All days of week),Southbound,horizontal
+26,3132,0,20170831,20190101,1,1,1,1,1,1,1,Late Night,Starting 8/31/2017 (All days of week),Eastbound,horizontal
+27,3132,1,20170831,20190101,1,1,1,1,1,1,1,Late Night,Starting 8/31/2017 (All days of week),Westbound,horizontal
+28,5410,0,20171117,20180331,1,1,1,1,1,1,1,Orange,Ski Shuttles (All days of week),Eastbound,horizontal
+29,5410,1,20171117,20180331,1,1,1,1,1,1,1,Orange,Ski Shuttles (All days of week),Westbound,horizontal
+30,5412,0,20171117,20180331,1,1,1,1,1,1,1,Red,Ski Shuttles (All days of week),Eastbound,horizontal
+31,5412,1,20171117,20180331,1,1,1,1,1,0,0,Red,Ski Shuttles (Monday-Friday),Westbound,horizontal
+32,5412,1,20171117,20180331,1,1,1,1,1,1,1,Red,Ski Shuttles (All days of week),Westbound,horizontal
+33,2594,1,20150701,20190101,1,1,1,1,1,1,1,"Squaw Valley, Tahoe City, West Shore",Current schedule (All days of week),Inbound,horizontal
+34,2594,,20150701,20190101,1,1,1,1,1,1,1,"Squaw Valley, Tahoe City, West Shore",Current schedule (All days of week),Eastbound,horizontal
+35,2594,1,20171215,20180331,1,1,1,1,1,1,1,"Squaw Valley, Tahoe City, West Shore",Seasonal supplemental service (All days of week),Inbound,horizontal
+36,7080,0,20171221,20180408,1,1,1,1,1,1,1,TART Highway 267 Night Service,Night Service Winter (All days of week),Northbound,horizontal
+37,7080,1,20171221,20180408,1,1,1,1,1,1,1,TART Highway 267 Night Service,Night Service Winter (All days of week),Southbound,horizontal
+38,91,0,20160329,20190101,1,1,1,1,1,1,1,TART Highway 89,Year Round (All days of week),Northbound,horizontal
+39,91,1,20160329,20190101,1,1,1,1,1,1,1,TART Highway 89,Year Round (All days of week),Southbound,horizontal
+40,7078,0,20171221,20180408,1,1,1,1,1,1,1,TART Highway 89 Night Service,Night Service Winter (All days of week),Northbound,horizontal
+41,7078,1,20171221,20180408,1,1,1,1,1,1,1,TART Highway 89 Night Service,Night Service Winter (All days of week),Southbound,horizontal
+42,90,0,20160329,20190101,1,1,1,1,1,1,1,TART Mainline,Year Round (All days of week),Eastbound,horizontal
+43,90,1,20160329,20190101,1,1,1,1,1,1,1,TART Mainline,Year Round (All days of week),Westbound,horizontal
+44,7079,0,20171221,20180408,1,1,1,1,1,1,1,TART Mainline Night Service,Night Service Winter (All days of week),Northbound,horizontal
+45,7079,1,20171221,20180408,1,1,1,1,1,1,1,TART Mainline Night Service,Night Service Winter (All days of week),Southbound,horizontal
+46,2595,0,20150701,20190101,1,1,1,1,1,1,1,"Truckee, Northstar",Current schedule (All days of week),Outbound,horizontal
+47,2595,1,20150701,20190101,1,1,1,1,1,1,1,"Truckee, Northstar",Current schedule (All days of week),Inbound,horizontal
+48,2595,0,20171215,20180331,1,1,1,1,1,1,1,"Truckee, Northstar",Seasonal supplemental service (All days of week),Outbound,horizontal
+49,2595,1,20171215,20180331,1,1,1,1,1,1,1,"Truckee, Northstar",Seasonal supplemental service (All days of week),Inbound,horizontal
+50,5413,0,20171117,20180331,1,1,1,1,1,1,1,Yellow,Ski Shuttles (All days of week),Eastbound,horizontal
+51,5413,1,20171117,20180331,1,1,1,1,1,1,1,Yellow,Ski Shuttles (All days of week),Westbound,horizontal

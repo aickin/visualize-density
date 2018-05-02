@@ -1,0 +1,64 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,1861,0,20171201,20190101,0,0,0,0,0,1,0,Benicia Rd,Year-round (Saturday only),West,horizontal
+2,1861,0,20171201,20190101,1,1,1,1,1,0,0,Benicia Rd,Year-round (Monday-Friday),West,horizontal
+3,1861,1,20171201,20190101,0,0,0,0,0,1,0,Benicia Rd,Year-round (Saturday only),East,horizontal
+4,1861,1,20171201,20190101,1,1,1,1,1,0,0,Benicia Rd,Year-round (Monday-Friday),East,horizontal
+5,1646,0,20171201,20190101,0,0,0,0,1,0,0,Benicia Schools,Year-round (Friday only),Loop,horizontal
+6,1646,0,20171201,20190101,1,1,1,1,0,0,0,Benicia Schools,Year-round (Monday-Thursday),Loop,horizontal
+7,1646,0,20171201,20190101,1,1,1,1,1,0,0,Benicia Schools,Year-round (Monday-Friday),Loop,horizontal
+8,1647,0,20171201,20190101,0,0,0,0,1,0,0,Benicia Schools,Year-round (Friday only),Loop,horizontal
+9,1647,0,20171201,20190101,1,1,1,1,0,0,0,Benicia Schools,Year-round (Monday-Thursday),Loop,horizontal
+10,1647,0,20171201,20190101,1,1,1,1,1,0,0,Benicia Schools,Year-round (Monday-Friday),Loop,horizontal
+11,1638,0,20171201,20190101,0,0,0,0,0,0,1,Broadway,Year-round (Sunday only),North,horizontal
+12,1638,0,20171201,20190101,0,0,0,0,0,1,0,Broadway,Year-round (Saturday only),North,horizontal
+13,1638,0,20171201,20190101,1,1,1,1,1,0,0,Broadway,Year-round (Monday-Friday),North,horizontal
+14,1638,1,20171201,20190101,0,0,0,0,0,0,1,Broadway,Year-round (Sunday only),South,horizontal
+15,1638,1,20171201,20190101,0,0,0,0,0,1,0,Broadway,Year-round (Saturday only),South,horizontal
+16,1638,1,20171201,20190101,1,1,1,1,1,0,0,Broadway,Year-round (Monday-Friday),South,horizontal
+17,1875,0,20171201,20190101,1,1,1,1,1,0,0,Columbus,Year-round (Monday-Friday),West,horizontal
+18,1875,1,20171201,20190101,1,1,1,1,1,0,0,Columbus,Year-round (Monday-Friday),East,horizontal
+19,1651,0,20171201,20190101,0,0,0,0,0,1,0,Fairfield SolanoExpress,Year-round (Saturday only),North,horizontal
+20,1651,0,20171201,20190101,1,1,1,1,1,0,0,Fairfield SolanoExpress,Year-round (Monday-Friday),North,horizontal
+21,1651,1,20171201,20190101,0,0,0,0,0,1,0,Fairfield SolanoExpress,Year-round (Saturday only),South,horizontal
+22,1651,1,20171201,20190101,1,1,1,1,1,0,0,Fairfield SolanoExpress,Year-round (Monday-Friday),South,horizontal
+23,1642,0,20171201,20190101,0,0,0,0,0,1,0,Fairgrounds,Year-round (Saturday only),North,horizontal
+24,1642,0,20171201,20190101,1,1,1,1,1,0,0,Fairgrounds,Year-round (Monday-Friday),North,horizontal
+25,1642,1,20171201,20190101,0,0,0,0,0,1,0,Fairgrounds,Year-round (Saturday only),South,horizontal
+26,1642,1,20171201,20190101,1,1,1,1,1,0,0,Fairgrounds,Year-round (Monday-Friday),South,horizontal
+27,1640,0,20171201,20190101,0,0,0,0,0,1,0,Glen Cove,Year-round (Saturday only),West,horizontal
+28,1640,0,20171201,20190101,1,1,1,1,1,0,0,Glen Cove,Year-round (Monday-Friday),West,horizontal
+29,1640,1,20171201,20190101,0,0,0,0,0,1,0,Glen Cove,Year-round (Saturday only),East,horizontal
+30,1640,1,20171201,20190101,1,1,1,1,1,0,0,Glen Cove,Year-round (Monday-Friday),East,horizontal
+31,1649,0,20171201,20190101,0,0,0,0,0,0,1,I-680 SolanoExpress,Year-round (Sunday only),West,horizontal
+32,1649,0,20171201,20190101,0,0,0,0,0,1,0,I-680 SolanoExpress,Year-round (Saturday only),West,horizontal
+33,1649,0,20171201,20190101,1,1,1,1,1,0,0,I-680 SolanoExpress,Year-round (Monday-Friday),West,horizontal
+34,1649,1,20171201,20190101,0,0,0,0,0,0,1,I-680 SolanoExpress,Year-round (Sunday only),East,horizontal
+35,1649,1,20171201,20190101,0,0,0,0,0,1,0,I-680 SolanoExpress,Year-round (Saturday only),East,horizontal
+36,1649,1,20171201,20190101,1,1,1,1,1,0,0,I-680 SolanoExpress,Year-round (Monday-Friday),East,horizontal
+37,1650,0,20171201,20190101,0,0,0,0,0,0,1,I-80 SolanoExpress,Year-round (Sunday only),North,horizontal
+38,1650,0,20171201,20190101,0,0,0,0,0,1,0,I-80 SolanoExpress,Year-round (Saturday only),North,horizontal
+39,1650,0,20171201,20190101,1,1,1,1,1,0,0,I-80 SolanoExpress,Year-round (Monday-Friday),North,horizontal
+40,1650,1,20171201,20190101,0,0,0,0,0,0,1,I-80 SolanoExpress,Year-round (Sunday only),South,horizontal
+41,1650,1,20171201,20190101,0,0,0,0,0,1,0,I-80 SolanoExpress,Year-round (Saturday only),South,horizontal
+42,1650,1,20171201,20190101,1,1,1,1,1,0,0,I-80 SolanoExpress,Year-round (Monday-Friday),South,horizontal
+43,6819,0,20171201,20190101,1,1,1,1,1,0,0,Jesse Bethel,Year-round (Monday-Friday),North,horizontal
+44,1639,0,20171201,20190101,0,0,0,0,0,1,0,Northeast,Year-round (Saturday only),North,horizontal
+45,1639,0,20171201,20190101,1,1,1,1,1,0,0,Northeast,Year-round (Monday-Friday),North,horizontal
+46,1639,1,20171201,20190101,0,0,0,0,0,1,0,Northeast,Year-round (Saturday only),South,horizontal
+47,1639,1,20171201,20190101,1,1,1,1,1,0,0,Northeast,Year-round (Monday-Friday),South,horizontal
+48,5802,0,20171201,20190101,1,1,1,1,1,0,0,SF Express,Year-round (Monday-Friday),North,horizontal
+49,5802,1,20171201,20190101,1,1,1,1,1,0,0,SF Express,Year-round (Monday-Friday),South,horizontal
+50,1644,0,20171201,20190101,0,0,0,0,0,0,1,Springs Rd,Year-round (Sunday only),North,horizontal
+51,1644,0,20171201,20190101,0,0,0,0,0,1,0,Springs Rd,Year-round (Saturday only),North,horizontal
+52,1644,0,20171201,20190101,1,1,1,1,1,0,0,Springs Rd,Year-round (Monday-Friday),North,horizontal
+53,1644,1,20171201,20190101,0,0,0,0,0,0,1,Springs Rd,Year-round (Sunday only),South,horizontal
+54,1644,1,20171201,20190101,0,0,0,0,0,1,0,Springs Rd,Year-round (Saturday only),South,horizontal
+55,1644,1,20171201,20190101,1,1,1,1,1,0,0,Springs Rd,Year-round (Monday-Friday),South,horizontal
+56,1643,0,20171201,20190101,0,0,0,0,0,1,0,Tennessee,Year-round (Saturday only),West,horizontal
+57,1643,0,20171201,20190101,1,1,1,1,1,0,0,Tennessee,Year-round (Monday-Friday),West,horizontal
+58,1643,1,20171201,20190101,0,0,0,0,0,1,0,Tennessee,Year-round (Saturday only),East,horizontal
+59,1643,1,20171201,20190101,1,1,1,1,1,0,0,Tennessee,Year-round (Monday-Friday),East,horizontal
+60,1641,0,20171201,20190101,0,0,0,0,0,1,0,Tuolumne,Year-round (Saturday only),North,horizontal
+61,1641,0,20171201,20190101,1,1,1,1,1,0,0,Tuolumne,Year-round (Monday-Friday),North,horizontal
+62,1641,1,20171201,20190101,0,0,0,0,0,1,0,Tuolumne,Year-round (Saturday only),South,horizontal
+63,1641,1,20171201,20190101,1,1,1,1,1,0,0,Tuolumne,Year-round (Monday-Friday),South,horizontal

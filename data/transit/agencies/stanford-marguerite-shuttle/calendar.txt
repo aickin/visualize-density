@@ -1,0 +1,11 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date,service_name
+10806628,1,1,1,1,1,0,0,20170410,20181001,Weekday_start_April 10 2017 (Ex Univ Holidays)
+10785079,0,0,0,0,0,1,1,20180115,20181123,SE_Special/Summer
+7,1,1,1,1,1,0,0,20171124,20180219,"Adds Presidents Day, Tgiving+WinterClosure"
+11059168,1,1,1,1,1,0,0,20170918,20180831,HD_starts18Sept17
+11,0,0,0,0,0,1,1,20170415,20170618,SExp_weekend_thru 2017-06-18
+10808205,1,1,1,1,1,1,1,20170918,20180615,Daily N-O (evenings) 09-18-2017
+10807711,1,1,1,1,1,0,0,20170410,20181001,Weekday_start_April 10 2017 (Incl Univ Holidays)
+"+11+10806628~10785079",1,1,1,1,1,0,0,20170410,20181001,"2017-04-10 → 2018-10-01 (71 Mo, 75 Tu, 75 We, 76 Th, 75 Fr, 10 Sa, 10 Su)"
+"+11+10806628",1,1,1,1,1,0,0,20170410,20181001,"2017-04-10 → 2018-10-01 (71 Mo, 75 Tu, 75 We, 76 Th, 75 Fr, 10 Sa, 10 Su)"
+"+11+10785079~10806628",0,0,0,0,0,1,1,20170415,20181123,"2017-04-15 → 2018-11-23 (4 Mo, We, Fr, 24 Sa, 24 Su)"

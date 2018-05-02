@@ -1,0 +1,18 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+204,1195,A1,Atwater Loop,,3,http://www.mercedthebus.com/175/A1---Atwater-Loop,ff0818,ffffff,0,60
+204,1196,A2,Winton Way,,3,http://www.mercedthebus.com/176/A2---Winton-Way,b50920,ffffff,1,60
+204,1208,L,Livingston Commuter,,3,http://www.mercedthebus.com/198/L---Livingston-Commuter,0820ff,ffffff,10,60
+204,1211,T,Turlock Commuter,,3,http://www.mercedthebus.com/201/T---Turlock-Commuter,a7b1db,ffffff,11,60
+204,1210,P,Planada Commuter,,3,http://www.mercedthebus.com/200/P---Planada-Commuter,6ab8cc,ffffff,12,110
+204,1212,W1,Winton Commuter,,3,http://www.mercedthebus.com/202/W---Winton-Commuter,80adaa,ffffff,13,60
+204,4696,W2,Winton Commuter North,,3,,007c66,000000,14,60
+204,1820,DP,Dos Palos Link,,3,http://www.mercedthebus.com/196/DP---Dos-Palos-Link,ffffff,000000,15,60
+204,1389,G,Gustine Link,,3,http://www.mercedthebus.com/DocumentCenter/View/190,ffffff,000000,16,
+204,1201,M1,Merced West,,3,http://www.mercedthebus.com/182/M1---Merced-West,f29e0c,ffffff,2,30
+204,1202,M2,R Street Shuttle,,3,http://www.mercedthebus.com/185/M2---R-Street-Shuttle,a67726,ffffff,3,30
+204,1203,M3,M Street Shuttle,,3,http://www.mercedthebus.com/186/M3---M-Street-Shuttle,cfb359,ffffff,4,30
+204,1204,M4,G Street Shuttle,,3,http://www.mercedthebus.com/187/M4---G-Street-Shuttle,827033,ffffff,5,30
+204,1205,M5,Merced South-East,,3,http://www.mercedthebus.com/188/M5---Merced-South-East,d17f36,ffffff,6,30
+204,1206,M6,North,,3,http://www.mercedthebus.com/189/M6---Olive-Loops,ffa742,ffffff,7,45
+204,1207,UC,Merced,,3,http://www.mercedthebus.com/193/22---UC-Merced-Shuttle,ba6606,ffffff,8,40
+204,1881,LB,Los Banos Commuter,,3,http://www.mercedthebus.com/199/LB---Los-Banos-Commuter,003f87,ffffff,9,

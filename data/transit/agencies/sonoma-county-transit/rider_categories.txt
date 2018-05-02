@@ -1,0 +1,5 @@
+rider_category_id,rider_category_description
+2,Senior Citizen: Persons 65 years or older
+5,Youth: 18 years or younger
+6,Persons with Disabilities
+15,Medicare Card Holders

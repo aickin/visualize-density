@@ -1,0 +1,7 @@
+service_id,service_description
+c_2631_b_57_d_32,Year Round (Saturday only)
+c_2631_b_57_d_31,Year Round (Monday-Friday)
+c_2549_b_1037_d_31,Year Round Service (Monday-Friday)
+c_4302_b_4275_d_32,"Starting August 28, 2017 (Saturday only)"
+c_4302_b_4275_d_31,"Starting August 28, 2017 (Monday-Friday)"
+c_2182_b_809_d_31,Year-round Calendar (Monday-Friday)

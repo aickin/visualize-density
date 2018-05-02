@@ -1,0 +1,17 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+36,3204,7AT3,Green Valley MS,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-7t/,c06b3f,ffffff,1,
+36,977,5,FTC/Suisun Senior Center,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-5//,50733e,ffffff,10,60
+36,978,6,Solano Town Ctr/Suisun Senior Ctr/Montebello Dr,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-6/,2b579a,ffffff,11,60
+36,979,7, FTC/Solano College/Cordelia Library,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-7/,c06b3f,ffffff,12,60
+36,980,8,Cordelia Library/Oakbrook Dr,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-8/,75488a,ffffff,13,60
+36,259,90,FTC/El Cerrito Del Norte BART/Suisun City Amtrak,,3,http://www.fasttransit.org/schedules-maps/express-intercity-route-maps-and-schedules/route-90/,165ba2,ffffff,14,120
+36,2720,9,Suisun Senior Center/Suisun City Walmart,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-9/,a55828,ffffff,15,30
+36,3205,7BT,Solano Town Center,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-7t/,e1a323,000000,16,
+36,3202,7AT,Rodriguez High School,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-7t/,c06b3f,ffffff,2,
+36,973,1,FTC/Walmart,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-1/,5587b3,ffffff,3,60
+36,193,20,Fairfield/Vacaville,,3,http://www.fasttransit.org/schedules-maps/express-intercity-route-maps-and-schedules/route-20/,b55497,ffffff,4,60
+36,974,2,Route 2 - Solano Town Ctr/Huntington Ct,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-2/,749e4a,ffffff,5,60
+36,190,30,Sacramento/Davis/Fairfield,,3,http://www.fasttransit.org/schedules-maps/express-intercity-route-maps-and-schedules/route-30/,000000,ffffff,6,
+36,975,3,FTC/Solano Town Center/Walmart,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-3//,aa3942,ffffff,7,60
+36,196,40,WC/PH BART - Vacaville/Fairfield,,3,http://www.fasttransit.org/schedules-maps/express-intercity-route-maps-and-schedules/route-40/,165ba2,ffffff,8,
+36,976,4,Smart & Final/Travis Air Force Base,,3,http://www.fasttransit.org/schedules-maps/fixed-local-routes/route-4/,353983,ffffff,9,60

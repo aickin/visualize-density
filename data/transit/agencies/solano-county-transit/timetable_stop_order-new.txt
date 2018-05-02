@@ -1,0 +1,1299 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,777795,1,Georgia & Rosewood (Hogan Middle School),"6/Tennessee, 8/Benicia Rd"
+1,2320162,2,Oakwood & Westwood,"6/Tennessee, 8/Benicia Rd"
+1,777969,3,Springs & Oakwood (Springtowne Center),"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+1,777962,4,Springs & Heartwood,"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+1,777970,5,Springs & Rollingwood,"38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+1,777725,6,Columbus & Ascot ,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+1,777676,7,Ascot & Hilary,8/Benicia Rd
+1,777680,8,Ascot & Southport,8/Benicia Rd
+1,777675,9,Ascot & Hawkins,8/Benicia Rd
+1,777674,10,Ascot & Georgia,8/Benicia Rd
+1,777797,11,Georgia & Southport,8/Benicia Rd
+1,777794,12,Georgia & Norfolk,8/Benicia Rd
+1,2382737,13,Georgia & Delwood,8/Benicia Rd
+1,777786,14,Georgia & Corkwood,8/Benicia Rd
+1,781648,15,Rollingwood Dr & Baywood Dr,8/Benicia Rd
+1,781649,16,Rollingwood Dr & Dryden Dr,8/Benicia Rd
+1,781617,17,Benicia Rd & Banning,8/Benicia Rd
+1,781651,18,Benicia Rd & Home Acres,8/Benicia Rd
+1,781652,19,Benicia Rd & Maple,8/Benicia Rd
+1,781653,20,Benicia Rd & Cedar,8/Benicia Rd
+1,781654,21,Benicia Rd & Carquinez,8/Benicia Rd
+1,781655,22,Benicia Rd & Beach,8/Benicia Rd
+1,781656,23,Benicia Rd & Rice,8/Benicia Rd
+1,781657,24,Maine & Alameda,8/Benicia Rd
+1,781658,25,Maine & Sonoma,8/Benicia Rd
+1,847516,26,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+2,777795,1,Georgia & Rosewood (Hogan Middle School),"6/Tennessee, 8/Benicia Rd"
+2,2320162,2,Oakwood & Westwood,"6/Tennessee, 8/Benicia Rd"
+2,777969,3,Springs & Oakwood (Springtowne Center),"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+2,777962,4,Springs & Heartwood,"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+2,777970,5,Springs & Rollingwood,"38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+2,777725,6,Columbus & Ascot ,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+2,777676,7,Ascot & Hilary,8/Benicia Rd
+2,777680,8,Ascot & Southport,8/Benicia Rd
+2,777675,9,Ascot & Hawkins,8/Benicia Rd
+2,777674,10,Ascot & Georgia,8/Benicia Rd
+2,777797,11,Georgia & Southport,8/Benicia Rd
+2,777794,12,Georgia & Norfolk,8/Benicia Rd
+2,2382737,13,Georgia & Delwood,8/Benicia Rd
+2,777786,14,Georgia & Corkwood,8/Benicia Rd
+2,781648,15,Rollingwood Dr & Baywood Dr,8/Benicia Rd
+2,781649,16,Rollingwood Dr & Dryden Dr,8/Benicia Rd
+2,781617,17,Benicia Rd & Banning,8/Benicia Rd
+2,781651,18,Benicia Rd & Home Acres,8/Benicia Rd
+2,781652,19,Benicia Rd & Maple,8/Benicia Rd
+2,781653,20,Benicia Rd & Cedar,8/Benicia Rd
+2,781654,21,Benicia Rd & Carquinez,8/Benicia Rd
+2,781655,22,Benicia Rd & Beach,8/Benicia Rd
+2,781656,23,Benicia Rd & Rice,8/Benicia Rd
+2,781657,24,Maine & Alameda,8/Benicia Rd
+2,781658,25,Maine & Sonoma,8/Benicia Rd
+2,847516,26,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+3,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+3,777829,2,Maine & Sutter,8/Benicia Rd
+3,777828,3,Maine & Napa,8/Benicia Rd
+3,777827,4,Maine & El Dorado,8/Benicia Rd
+3,777826,5,Maine & Alameda,8/Benicia Rd
+3,777691,6,Benicia Rd & Rice,8/Benicia Rd
+3,777686,7,Benicia Rd & Beach,8/Benicia Rd
+3,777693,8,Benicia Rd & Starr,8/Benicia Rd
+3,777687,9,Benicia Rd & Carquinez,8/Benicia Rd
+3,777688,10,Benicia Rd & Cedar,"38/Jesse Bethel, 8/Benicia Rd"
+3,777690,11,Benicia Rd & Maple,"38/Jesse Bethel, 8/Benicia Rd"
+3,777689,12,Benicia Rd & Home Acres,"38/Jesse Bethel, 8/Benicia Rd"
+3,777694,13,Benicia Rd & Taylor,"38/Jesse Bethel, 8/Benicia Rd"
+3,777692,14,Benicia Rd & Rollingwood,"38/Jesse Bethel, 8/Benicia Rd"
+3,777888,15,Rollingwood & Benicia,"38/Jesse Bethel, 8/Benicia Rd"
+3,781644,16,Rollingwood Dr & Keats Dr,"38/Jesse Bethel, 8/Benicia Rd"
+3,777889,17,Rollingwood & Cottonwood,"38/Jesse Bethel, 8/Benicia Rd"
+3,777892,18,Rollingwood & Springs,"38/Jesse Bethel, 8/Benicia Rd"
+3,777970,19,Springs & Rollingwood,"38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+3,777725,20,Columbus & Ascot ,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+3,777676,21,Ascot & Hilary,8/Benicia Rd
+3,777680,22,Ascot & Southport,8/Benicia Rd
+3,777675,23,Ascot & Hawkins,8/Benicia Rd
+3,777674,24,Ascot & Georgia,8/Benicia Rd
+3,777797,25,Georgia & Southport,8/Benicia Rd
+3,777794,26,Georgia & Norfolk,8/Benicia Rd
+3,2382737,27,Georgia & Delwood,8/Benicia Rd
+3,777786,28,Georgia & Corkwood,8/Benicia Rd
+3,777795,29,Georgia & Rosewood (Hogan Middle School),"6/Tennessee, 8/Benicia Rd"
+4,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+4,777829,2,Maine & Sutter,8/Benicia Rd
+4,777828,3,Maine & Napa,8/Benicia Rd
+4,777827,4,Maine & El Dorado,8/Benicia Rd
+4,777826,5,Maine & Alameda,8/Benicia Rd
+4,777691,6,Benicia Rd & Rice,8/Benicia Rd
+4,777686,7,Benicia Rd & Beach,8/Benicia Rd
+4,777693,8,Benicia Rd & Starr,8/Benicia Rd
+4,777687,9,Benicia Rd & Carquinez,8/Benicia Rd
+4,777688,10,Benicia Rd & Cedar,"38/Jesse Bethel, 8/Benicia Rd"
+4,777690,11,Benicia Rd & Maple,"38/Jesse Bethel, 8/Benicia Rd"
+4,777689,12,Benicia Rd & Home Acres,"38/Jesse Bethel, 8/Benicia Rd"
+4,777694,13,Benicia Rd & Taylor,"38/Jesse Bethel, 8/Benicia Rd"
+4,777692,14,Benicia Rd & Rollingwood,"38/Jesse Bethel, 8/Benicia Rd"
+4,777888,15,Rollingwood & Benicia,"38/Jesse Bethel, 8/Benicia Rd"
+4,781644,16,Rollingwood Dr & Keats Dr,"38/Jesse Bethel, 8/Benicia Rd"
+4,777889,17,Rollingwood & Cottonwood,"38/Jesse Bethel, 8/Benicia Rd"
+4,777892,18,Rollingwood & Springs,"38/Jesse Bethel, 8/Benicia Rd"
+4,777970,19,Springs & Rollingwood,"38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+4,777725,20,Columbus & Ascot ,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+4,777676,21,Ascot & Hilary,8/Benicia Rd
+4,777680,22,Ascot & Southport,8/Benicia Rd
+4,777675,23,Ascot & Hawkins,8/Benicia Rd
+4,777674,24,Ascot & Georgia,8/Benicia Rd
+4,777797,25,Georgia & Southport,8/Benicia Rd
+4,777794,26,Georgia & Norfolk,8/Benicia Rd
+4,2382737,27,Georgia & Delwood,8/Benicia Rd
+4,777786,28,Georgia & Corkwood,8/Benicia Rd
+4,777795,29,Georgia & Rosewood (Hogan Middle School),"6/Tennessee, 8/Benicia Rd"
+5,777842,1,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+5,777848,2,Military West & West 7th,"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+5,777845,3,Military West & Farmar Driveway (Mary Farmar Elementary),"15/Benicia Schools, 17/Benicia Schools"
+5,777844,4,Military West & Benicia High School,"15/Benicia Schools, 17/Benicia Schools"
+5,777846,5,Military West & West 14th,"15/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+5,777893,6,Rose & Cambridge,15/Benicia Schools
+5,777894,7,Rose & Corcoran,15/Benicia Schools
+5,777897,8,Rose & Windsor,15/Benicia Schools
+5,777940,9,Solano & Hastings,15/Benicia Schools
+5,777942,10,Solano & Larkin,15/Benicia Schools
+5,777864,11,Panorama & Essex,15/Benicia Schools
+5,777721,12,Chelsea Hills & Gill Way,15/Benicia Schools
+5,778026,13,Warwick & Chelsea Hills,15/Benicia Schools
+5,778027,14,Warwick & Sunrise,15/Benicia Schools
+5,777928,15,Seaview & Goldenhill Drive,15/Benicia Schools
+5,777744,16,East 2nd & Riverhill,15/Benicia Schools
+5,777745,17,East 3rd & East L,"15/Benicia Schools, 17/Benicia Schools"
+5,777842,18,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+5,777844,19,Military West & Benicia High School,"15/Benicia Schools, 17/Benicia Schools"
+5,777960,20,Southhampton & Turner (Benicia Middle School),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+5,777958,21,Southhampton & Chelsea Hills (Raley's Center),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+5,777743,22,Drolette & Military West (Mary Farmer School),15/Benicia Schools
+6,777842,1,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+6,777848,2,Military West & West 7th,"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+6,777845,3,Military West & Farmar Driveway (Mary Farmar Elementary),"15/Benicia Schools, 17/Benicia Schools"
+6,777844,4,Military West & Benicia High School,"15/Benicia Schools, 17/Benicia Schools"
+6,777846,5,Military West & West 14th,"15/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+6,777893,6,Rose & Cambridge,15/Benicia Schools
+6,777894,7,Rose & Corcoran,15/Benicia Schools
+6,777897,8,Rose & Windsor,15/Benicia Schools
+6,777940,9,Solano & Hastings,15/Benicia Schools
+6,777942,10,Solano & Larkin,15/Benicia Schools
+6,777864,11,Panorama & Essex,15/Benicia Schools
+6,777721,12,Chelsea Hills & Gill Way,15/Benicia Schools
+6,778026,13,Warwick & Chelsea Hills,15/Benicia Schools
+6,778027,14,Warwick & Sunrise,15/Benicia Schools
+6,777928,15,Seaview & Goldenhill Drive,15/Benicia Schools
+6,777744,16,East 2nd & Riverhill,15/Benicia Schools
+6,777745,17,East 3rd & East L,"15/Benicia Schools, 17/Benicia Schools"
+6,777842,18,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+6,777844,19,Military West & Benicia High School,"15/Benicia Schools, 17/Benicia Schools"
+6,777960,20,Southhampton & Turner (Benicia Middle School),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+6,777958,21,Southhampton & Chelsea Hills (Raley's Center),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+6,777743,22,Drolette & Military West (Mary Farmer School),15/Benicia Schools
+7,777842,1,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+7,777848,2,Military West & West 7th,"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+7,777845,3,Military West & Farmar Driveway (Mary Farmar Elementary),"15/Benicia Schools, 17/Benicia Schools"
+7,777844,4,Military West & Benicia High School,"15/Benicia Schools, 17/Benicia Schools"
+7,777846,5,Military West & West 14th,"15/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+7,777893,6,Rose & Cambridge,15/Benicia Schools
+7,777894,7,Rose & Corcoran,15/Benicia Schools
+7,777897,8,Rose & Windsor,15/Benicia Schools
+7,777940,9,Solano & Hastings,15/Benicia Schools
+7,777942,10,Solano & Larkin,15/Benicia Schools
+7,777864,11,Panorama & Essex,15/Benicia Schools
+7,777721,12,Chelsea Hills & Gill Way,15/Benicia Schools
+7,778026,13,Warwick & Chelsea Hills,15/Benicia Schools
+7,778027,14,Warwick & Sunrise,15/Benicia Schools
+7,777928,15,Seaview & Goldenhill Drive,15/Benicia Schools
+7,777744,16,East 2nd & Riverhill,15/Benicia Schools
+7,777745,17,East 3rd & East L,"15/Benicia Schools, 17/Benicia Schools"
+7,777842,18,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+7,777844,19,Military West & Benicia High School,"15/Benicia Schools, 17/Benicia Schools"
+7,777960,20,Southhampton & Turner (Benicia Middle School),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+7,777958,21,Southhampton & Chelsea Hills (Raley's Center),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+7,777743,22,Drolette & Military West (Mary Farmer School),15/Benicia Schools
+8,777960,1,Southhampton & Turner (Benicia Middle School),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+8,777958,2,Southhampton & Chelsea Hills (Raley's Center),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+8,777745,3,East 3rd & East L,"15/Benicia Schools, 17/Benicia Schools"
+8,777842,4,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+8,777848,5,Military West & West 7th,"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+8,777845,6,Military West & Farmar Driveway (Mary Farmar Elementary),"15/Benicia Schools, 17/Benicia Schools"
+8,777844,7,Military West & Benicia High School,"15/Benicia Schools, 17/Benicia Schools"
+8,777959,8,Southhampton & Hastings,"17/Benicia Schools, 20/Columbus"
+8,777820,9,Hastings & Cambridge,17/Benicia Schools
+8,777819,10,Hastings & Sweetbrier,17/Benicia Schools
+8,777818,11,Hastings & Rose,17/Benicia Schools
+8,777895,12,Rose & Kearney (Matthew Turner Elementary School),17/Benicia Schools
+8,777896,13,Rose & Panorama,17/Benicia Schools
+8,777746,14,East 3rd & Viewmont (Robert Semple Elementary),17/Benicia Schools
+8,777749,15,East 5th & Viewmont,17/Benicia Schools
+8,777747,16,East 5th & East N,"17/Benicia Schools, 78/I-680 SolanoExpress, /80s"
+8,777842,17,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+9,777960,1,Southhampton & Turner (Benicia Middle School),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+9,777958,2,Southhampton & Chelsea Hills (Raley's Center),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+9,777745,3,East 3rd & East L,"15/Benicia Schools, 17/Benicia Schools"
+9,777842,4,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+9,777848,5,Military West & West 7th,"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+9,777845,6,Military West & Farmar Driveway (Mary Farmar Elementary),"15/Benicia Schools, 17/Benicia Schools"
+9,777844,7,Military West & Benicia High School,"15/Benicia Schools, 17/Benicia Schools"
+9,777959,8,Southhampton & Hastings,"17/Benicia Schools, 20/Columbus"
+9,777820,9,Hastings & Cambridge,17/Benicia Schools
+9,777819,10,Hastings & Sweetbrier,17/Benicia Schools
+9,777818,11,Hastings & Rose,17/Benicia Schools
+9,777895,12,Rose & Kearney (Matthew Turner Elementary School),17/Benicia Schools
+9,777896,13,Rose & Panorama,17/Benicia Schools
+9,777746,14,East 3rd & Viewmont (Robert Semple Elementary),17/Benicia Schools
+9,777749,15,East 5th & Viewmont,17/Benicia Schools
+9,777747,16,East 5th & East N,"17/Benicia Schools, 78/I-680 SolanoExpress, /80s"
+9,777842,17,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+10,777960,1,Southhampton & Turner (Benicia Middle School),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+10,777958,2,Southhampton & Chelsea Hills (Raley's Center),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+10,777745,3,East 3rd & East L,"15/Benicia Schools, 17/Benicia Schools"
+10,777842,4,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+10,777848,5,Military West & West 7th,"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+10,777845,6,Military West & Farmar Driveway (Mary Farmar Elementary),"15/Benicia Schools, 17/Benicia Schools"
+10,777844,7,Military West & Benicia High School,"15/Benicia Schools, 17/Benicia Schools"
+10,777959,8,Southhampton & Hastings,"17/Benicia Schools, 20/Columbus"
+10,777820,9,Hastings & Cambridge,17/Benicia Schools
+10,777819,10,Hastings & Sweetbrier,17/Benicia Schools
+10,777818,11,Hastings & Rose,17/Benicia Schools
+10,777895,12,Rose & Kearney (Matthew Turner Elementary School),17/Benicia Schools
+10,777896,13,Rose & Panorama,17/Benicia Schools
+10,777746,14,East 3rd & Viewmont (Robert Semple Elementary),17/Benicia Schools
+10,777749,15,East 5th & Viewmont,17/Benicia Schools
+10,777747,16,East 5th & East N,"17/Benicia Schools, 78/I-680 SolanoExpress, /80s"
+10,777842,17,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+11,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+11,777796,2,Georgia & Sonoma,"1/Broadway, 4/Tuolumne"
+11,777793,3,Georgia & Napa,"1/Broadway, 4/Tuolumne"
+11,777788,4,Georgia & El Dorado,"1/Broadway, 4/Tuolumne"
+11,777670,5,Alameda & Virginia,1/Broadway
+11,777668,6,Alameda & Florida,1/Broadway
+11,777702,7,Broadway & Louisiana,1/Broadway
+11,777713,8,Broadway & Tennessee,1/Broadway
+11,777701,9,Broadway & Illinois,1/Broadway
+11,777706,10,Broadway & Nebraska,1/Broadway
+11,777708,11,Broadway & Oregon,1/Broadway
+11,778021,12,Valle Vista & Broadway,1/Broadway
+11,2332223,13,Valle Vista & Couch (opp Post Office),1/Broadway
+11,778024,14,Valle Vista & Sonoma,1/Broadway
+11,777952,15,Sonoma & Redwood,"1/Broadway, 2/Northeast"
+11,777950,16,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express"
+11,777937,17,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+11,777957,18,Sonoma & Yolano,1/Broadway
+11,777941,19,Sonoma & Highway 37,1/Broadway
+11,777949,20,Sonoma & Meadows,1/Broadway
+11,777858,21,Mini & Sonoma,1/Broadway
+11,777854,22,Mini & Elliott,1/Broadway
+11,777856,23,Mini & Roleen,1/Broadway
+11,777850,24,Mini & Coloma,1/Broadway
+11,777857,25,Mini & Severus,1/Broadway
+11,777939,26,Severus & Catalina,1/Broadway
+11,777841,27,Meadows & Severus,1/Broadway
+11,777839,28,Meadows & Old River,1/Broadway
+11,777840,29,Meadows & Sandpiper,1/Broadway
+11,777822,30,Jack London & Susan,1/Broadway
+11,777821,31,Jack London & Echo Summit,1/Broadway
+11,777993,32,Tobin & Donnor Pass,1/Broadway
+11,777753,33,Elliott & Meadows,1/Broadway
+11,777752,34,Elliott & Lorenzo,1/Broadway
+11,777751,35,Elliott & Dillon,1/Broadway
+11,777853,36,Mini & Elliott,1/Broadway
+12,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+12,777796,2,Georgia & Sonoma,"1/Broadway, 4/Tuolumne"
+12,777793,3,Georgia & Napa,"1/Broadway, 4/Tuolumne"
+12,777788,4,Georgia & El Dorado,"1/Broadway, 4/Tuolumne"
+12,777670,5,Alameda & Virginia,1/Broadway
+12,777668,6,Alameda & Florida,1/Broadway
+12,777702,7,Broadway & Louisiana,1/Broadway
+12,777713,8,Broadway & Tennessee,1/Broadway
+12,777701,9,Broadway & Illinois,1/Broadway
+12,777706,10,Broadway & Nebraska,1/Broadway
+12,777708,11,Broadway & Oregon,1/Broadway
+12,778021,12,Valle Vista & Broadway,1/Broadway
+12,2332223,13,Valle Vista & Couch (opp Post Office),1/Broadway
+12,778024,14,Valle Vista & Sonoma,1/Broadway
+12,777952,15,Sonoma & Redwood,"1/Broadway, 2/Northeast"
+12,777950,16,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express"
+12,777937,17,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+12,777957,18,Sonoma & Yolano,1/Broadway
+12,777941,19,Sonoma & Highway 37,1/Broadway
+12,777949,20,Sonoma & Meadows,1/Broadway
+12,777858,21,Mini & Sonoma,1/Broadway
+12,777854,22,Mini & Elliott,1/Broadway
+12,777856,23,Mini & Roleen,1/Broadway
+12,777850,24,Mini & Coloma,1/Broadway
+12,777857,25,Mini & Severus,1/Broadway
+12,777939,26,Severus & Catalina,1/Broadway
+12,777841,27,Meadows & Severus,1/Broadway
+12,777839,28,Meadows & Old River,1/Broadway
+12,777840,29,Meadows & Sandpiper,1/Broadway
+12,777822,30,Jack London & Susan,1/Broadway
+12,777821,31,Jack London & Echo Summit,1/Broadway
+12,777993,32,Tobin & Donnor Pass,1/Broadway
+12,777753,33,Elliott & Meadows,1/Broadway
+12,777752,34,Elliott & Lorenzo,1/Broadway
+12,777751,35,Elliott & Dillon,1/Broadway
+12,777853,36,Mini & Elliott,1/Broadway
+13,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+13,777796,2,Georgia & Sonoma,"1/Broadway, 4/Tuolumne"
+13,777793,3,Georgia & Napa,"1/Broadway, 4/Tuolumne"
+13,777788,4,Georgia & El Dorado,"1/Broadway, 4/Tuolumne"
+13,777670,5,Alameda & Virginia,1/Broadway
+13,777668,6,Alameda & Florida,1/Broadway
+13,777702,7,Broadway & Louisiana,1/Broadway
+13,777713,8,Broadway & Tennessee,1/Broadway
+13,777701,9,Broadway & Illinois,1/Broadway
+13,777706,10,Broadway & Nebraska,1/Broadway
+13,777708,11,Broadway & Oregon,1/Broadway
+13,778021,12,Valle Vista & Broadway,1/Broadway
+13,2332223,13,Valle Vista & Couch (opp Post Office),1/Broadway
+13,778024,14,Valle Vista & Sonoma,1/Broadway
+13,777952,15,Sonoma & Redwood,"1/Broadway, 2/Northeast"
+13,777950,16,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express"
+13,777937,17,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+13,777957,18,Sonoma & Yolano,1/Broadway
+13,777941,19,Sonoma & Highway 37,1/Broadway
+13,777949,20,Sonoma & Meadows,1/Broadway
+13,777858,21,Mini & Sonoma,1/Broadway
+13,777854,22,Mini & Elliott,1/Broadway
+13,777856,23,Mini & Roleen,1/Broadway
+13,777850,24,Mini & Coloma,1/Broadway
+13,777857,25,Mini & Severus,1/Broadway
+13,777939,26,Severus & Catalina,1/Broadway
+13,777841,27,Meadows & Severus,1/Broadway
+13,777839,28,Meadows & Old River,1/Broadway
+13,777840,29,Meadows & Sandpiper,1/Broadway
+13,777822,30,Jack London & Susan,1/Broadway
+13,777821,31,Jack London & Echo Summit,1/Broadway
+13,777993,32,Tobin & Donnor Pass,1/Broadway
+13,777753,33,Elliott & Meadows,1/Broadway
+13,777752,34,Elliott & Lorenzo,1/Broadway
+13,777751,35,Elliott & Dillon,1/Broadway
+13,777853,36,Mini & Elliott,1/Broadway
+14,777853,1,Mini & Elliott,1/Broadway
+14,777705,2,Broadway & Mini,1/Broadway
+14,777704,3,Broadway & Meadows (Meadows Plaza),1/Broadway
+14,777697,4,Broadway & Commercial,1/Broadway
+14,777696,5,Broadway & Ash,"1/Broadway, 2/Northeast, 4/Tuolumne"
+14,777698,6,Broadway & Garibaldi,"1/Broadway, 2/Northeast, 4/Tuolumne"
+14,777936,7,Sereno Transit Center (STC),"1/Broadway, 2/Northeast, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+14,777951,8,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds"
+14,777953,9,Sonoma & Redwood (Vallejo Plaza),"1/Broadway, 2/Northeast, 80/I-80 SolanoExpress"
+14,778023,10,Valle Vista & Sonoma,1/Broadway
+14,2332224,11,Valle Vista & Napa (Post Office),1/Broadway
+14,778022,12,Valle Vista & Broadway,1/Broadway
+14,777709,13,Broadway & Oregon,1/Broadway
+14,777707,14,Broadway & Nebraska,1/Broadway
+14,777700,15,Broadway & Illinois,1/Broadway
+14,777712,16,Broadway & Tennessee,1/Broadway
+14,777703,17,Broadway & Louisiana,1/Broadway
+14,777669,18,Alameda & Ohio,1/Broadway
+14,777671,19,Alameda & Virginia,1/Broadway
+14,777787,20,Georgia & El Dorado,"1/Broadway, 4/Tuolumne"
+14,777792,21,Georgia & Napa,"1/Broadway, 4/Tuolumne"
+14,847516,22,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+15,777853,1,Mini & Elliott,1/Broadway
+15,777705,2,Broadway & Mini,1/Broadway
+15,777704,3,Broadway & Meadows (Meadows Plaza),1/Broadway
+15,777697,4,Broadway & Commercial,1/Broadway
+15,777696,5,Broadway & Ash,"1/Broadway, 2/Northeast, 4/Tuolumne"
+15,777698,6,Broadway & Garibaldi,"1/Broadway, 2/Northeast, 4/Tuolumne"
+15,777936,7,Sereno Transit Center (STC),"1/Broadway, 2/Northeast, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+15,777951,8,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds"
+15,777953,9,Sonoma & Redwood (Vallejo Plaza),"1/Broadway, 2/Northeast, 80/I-80 SolanoExpress"
+15,778023,10,Valle Vista & Sonoma,1/Broadway
+15,2332224,11,Valle Vista & Napa (Post Office),1/Broadway
+15,778022,12,Valle Vista & Broadway,1/Broadway
+15,777709,13,Broadway & Oregon,1/Broadway
+15,777707,14,Broadway & Nebraska,1/Broadway
+15,777700,15,Broadway & Illinois,1/Broadway
+15,777712,16,Broadway & Tennessee,1/Broadway
+15,777703,17,Broadway & Louisiana,1/Broadway
+15,777669,18,Alameda & Ohio,1/Broadway
+15,777671,19,Alameda & Virginia,1/Broadway
+15,777787,20,Georgia & El Dorado,"1/Broadway, 4/Tuolumne"
+15,777792,21,Georgia & Napa,"1/Broadway, 4/Tuolumne"
+15,847516,22,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+16,777853,1,Mini & Elliott,1/Broadway
+16,777705,2,Broadway & Mini,1/Broadway
+16,777704,3,Broadway & Meadows (Meadows Plaza),1/Broadway
+16,777697,4,Broadway & Commercial,1/Broadway
+16,777696,5,Broadway & Ash,"1/Broadway, 2/Northeast, 4/Tuolumne"
+16,777698,6,Broadway & Garibaldi,"1/Broadway, 2/Northeast, 4/Tuolumne"
+16,777936,7,Sereno Transit Center (STC),"1/Broadway, 2/Northeast, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+16,777951,8,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds"
+16,777953,9,Sonoma & Redwood (Vallejo Plaza),"1/Broadway, 2/Northeast, 80/I-80 SolanoExpress"
+16,778023,10,Valle Vista & Sonoma,1/Broadway
+16,2332224,11,Valle Vista & Napa (Post Office),1/Broadway
+16,778022,12,Valle Vista & Broadway,1/Broadway
+16,777709,13,Broadway & Oregon,1/Broadway
+16,777707,14,Broadway & Nebraska,1/Broadway
+16,777700,15,Broadway & Illinois,1/Broadway
+16,777712,16,Broadway & Tennessee,1/Broadway
+16,777703,17,Broadway & Louisiana,1/Broadway
+16,777669,18,Alameda & Ohio,1/Broadway
+16,777671,19,Alameda & Virginia,1/Broadway
+16,777787,20,Georgia & El Dorado,"1/Broadway, 4/Tuolumne"
+16,777792,21,Georgia & Napa,"1/Broadway, 4/Tuolumne"
+16,847516,22,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+17,782079,1,East I & East 4th (Casa De Vilarrasa),20/Columbus
+17,782078,2,East H & East 3rd (Rancho Benicia) ,20/Columbus
+17,2320114,3,Military East & East 5th,20/Columbus
+17,777842,4,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+17,2320117,5,Military West & West 3rd,20/Columbus
+17,777848,6,Military West & West 7th,"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+17,782082,7,Southampton and Chelsea Hills Drive (Raley's),20/Columbus
+17,782080,8,Southampton and O'Farrell (Benicia Middle School),20/Columbus
+17,782081,9,Southampton & Hastings,20/Columbus
+17,777846,10,Military West & West 14th,"15/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+17,2320118,11,Columbus & Rose,20/Columbus
+17,2320119,12,Columbus & Georgia,20/Columbus
+17,2320120,13,Columbus & Springs,"20/Columbus, 38/Jesse Bethel"
+17,2320121,14,Columbus & Tennessee,"20/Columbus, 38/Jesse Bethel"
+17,777725,15,Columbus & Ascot ,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+17,777681,16,Ascot & Sunrise,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+17,781642,17,Ascot opp Wardlaw Park East,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+17,2320122,18,Redwood b/t Claret & Eagle Ridge,20/Columbus
+17,2320123,19,Redwood Pkwy opp Penny Ln,20/Columbus
+17,2320116,20,Redwood & Cabernet Dr,20/Columbus
+17,782476,21,Columbus & St Johns Mine Rd (Solano College) ,20/Columbus
+17,777865,22,Plaza & Admiral Callaghan (Gateway Plaza North),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+17,777866,23,Plaza & Turner (Gateway Plaza; Costco),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+17,2320115,24,Vallejo Corners at Target (opp McDonald's),20/Columbus
+17,778013,25,Tuolumne & Redwood,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+17,777998,26,Tuolumne & Del Mar,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+17,778014,27,Tuolumne & Sereno,"20/Columbus, 4/Tuolumne"
+17,778002,28,Tuolumne & Hospital,"20/Columbus, 4/Tuolumne"
+17,777975,29,Sutter Solano Medical Center & Tuolumne,"20/Columbus, 4/Tuolumne"
+17,778231,30,Hospital Drive & Tuolumne ,"20/Columbus, 4/Tuolumne"
+17,777935,31,Sereno & San Marino,"20/Columbus, 5/Fairgrounds"
+17,781626,32,Sereno Dr opp Kaiser Entrance (Kaiser Medical Center),"20/Columbus, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+17,777937,33,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+18,777937,1,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+18,777932,2,Sereno Dr at Kaiser Entrance (Kaiser Medical Center),"20/Columbus, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+18,777934,3,Sereno & Mesa Verde,"20/Columbus, 5/Fairgrounds"
+18,778014,4,Tuolumne & Sereno,"20/Columbus, 4/Tuolumne"
+18,778002,5,Tuolumne & Hospital,"20/Columbus, 4/Tuolumne"
+18,777975,6,Sutter Solano Medical Center & Tuolumne,"20/Columbus, 4/Tuolumne"
+18,778231,7,Hospital Drive & Tuolumne ,"20/Columbus, 4/Tuolumne"
+18,777999,8,Tuolumne & Del Mar,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+18,777887,9,Redwood & Tuolumne,"20/Columbus, 5/Fairgrounds"
+18,781643,10,Admiral Callaghan & Rotary Way,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+18,777667,11,Admiral Callaghan & Vallejo Corners (Gateway Plaza; Target),"20/Columbus, 2/Northeast, 38/Jesse Bethel, 7/Springs Rd"
+18,777865,12,Plaza & Admiral Callaghan (Gateway Plaza North),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+18,777866,13,Plaza & Turner (Gateway Plaza; Costco),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+18,777726,14,Columbus & College Entrance (Solano College),"20/Columbus, 2/Northeast"
+18,777874,15,Redwood & Bonnie,"20/Columbus, 2/Northeast"
+18,777878,16,Redwood & Headwater,"20/Columbus, 2/Northeast"
+18,781668,17,Redwood & Rocky Shore,20/Columbus
+18,777678,18,Redwood & Ascot,"20/Columbus, 2/Northeast"
+18,777679,19,Ascot at Wardlaw Park East,"20/Columbus, 7/Springs Rd"
+18,777682,20,Ascot & Sunrise,"20/Columbus, 7/Springs Rd"
+18,777677,21,Ascot & Locust,"20/Columbus, 7/Springs Rd"
+18,788385,22,Columbus & Ascot,"20/Columbus, 7/Springs Rd"
+18,2320124,23,Columbus & Tennessee,20/Columbus
+18,2320125,24,Columbus & Springs,20/Columbus
+18,2320126,25,Columbus & Georgia,20/Columbus
+18,2320127,26,Columbus & Rose (CVS),20/Columbus
+18,777847,27,Military West & West 14th,"20/Columbus, 78/I-680 SolanoExpress, /80s"
+18,777959,28,Southhampton & Hastings,"17/Benicia Schools, 20/Columbus"
+18,777960,29,Southhampton & Turner (Benicia Middle School),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+18,777958,30,Southhampton & Chelsea Hills (Raley's Center),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus"
+18,777849,31,Military West & West 7th,"20/Columbus, 78/I-680 SolanoExpress, /80s"
+18,2320128,32,Military West & West 3rd,20/Columbus
+18,777843,33,Military West & 1st (Benicia City Park),"20/Columbus, 78/I-680 SolanoExpress, /80s"
+18,2320129,34,East H & 1st ,20/Columbus
+18,782078,35,East H & East 3rd (Rancho Benicia) ,20/Columbus
+18,782079,36,East I & East 4th (Casa De Vilarrasa),20/Columbus
+19,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+19,844534,2,Mare Island Way & Georgia (Ferry),"5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress, 9/Mare Island - Deprecated"
+19,777937,3,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+19,777932,4,Sereno Dr at Kaiser Entrance (Kaiser Medical Center),"20/Columbus, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+19,777755,5,Six Flags Discovery Kingdom,"5/Fairgrounds, 85/Fairfield SolanoExpress"
+19,848058,6,Suisun Valley Rd at Kaiser Dr,85/Fairfield SolanoExpress
+19,777943,7,Solano College & Suisun Valley (Solano Community College),85/Fairfield SolanoExpress
+19,781662,8,Fairfield Transportation Center (FTC),85/Fairfield SolanoExpress
+19,781665,9,Gateway Blvd at Best Buy/Solano Mall,85/Fairfield SolanoExpress
+19,781666,10,Gateway Blvd at The Courtyard (Solano Mall),85/Fairfield SolanoExpress
+19,777779,11,Gateway Blvd at The Courtyard/Solano Mall,85/Fairfield SolanoExpress
+20,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+20,844534,2,Mare Island Way & Georgia (Ferry),"5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress, 9/Mare Island - Deprecated"
+20,777937,3,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+20,777932,4,Sereno Dr at Kaiser Entrance (Kaiser Medical Center),"20/Columbus, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+20,777755,5,Six Flags Discovery Kingdom,"5/Fairgrounds, 85/Fairfield SolanoExpress"
+20,848058,6,Suisun Valley Rd at Kaiser Dr,85/Fairfield SolanoExpress
+20,777943,7,Solano College & Suisun Valley (Solano Community College),85/Fairfield SolanoExpress
+20,781662,8,Fairfield Transportation Center (FTC),85/Fairfield SolanoExpress
+20,781665,9,Gateway Blvd at Best Buy/Solano Mall,85/Fairfield SolanoExpress
+20,781666,10,Gateway Blvd at The Courtyard (Solano Mall),85/Fairfield SolanoExpress
+20,777779,11,Gateway Blvd at The Courtyard/Solano Mall,85/Fairfield SolanoExpress
+21,777779,1,Gateway Blvd at The Courtyard/Solano Mall,85/Fairfield SolanoExpress
+21,848058,2,Suisun Valley Rd at Kaiser Dr,85/Fairfield SolanoExpress
+21,777943,3,Solano College & Suisun Valley (Solano Community College),85/Fairfield SolanoExpress
+21,777754,4,Six Flags Discovery Kingdom,"5/Fairgrounds, 85/Fairfield SolanoExpress"
+21,781626,5,Sereno Dr opp Kaiser Entrance (Kaiser Medical Center),"20/Columbus, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+21,777936,6,Sereno Transit Center (STC),"1/Broadway, 2/Northeast, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+21,777835,7,Mare Island Way & Georgia (Ferry),"5/Fairgrounds, 80/I-80 SolanoExpress, /80s, 85/Fairfield SolanoExpress, 9/Mare Island - Deprecated"
+21,847516,8,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+22,777779,1,Gateway Blvd at The Courtyard/Solano Mall,85/Fairfield SolanoExpress
+22,848058,2,Suisun Valley Rd at Kaiser Dr,85/Fairfield SolanoExpress
+22,777943,3,Solano College & Suisun Valley (Solano Community College),85/Fairfield SolanoExpress
+22,777754,4,Six Flags Discovery Kingdom,"5/Fairgrounds, 85/Fairfield SolanoExpress"
+22,781626,5,Sereno Dr opp Kaiser Entrance (Kaiser Medical Center),"20/Columbus, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+22,777936,6,Sereno Transit Center (STC),"1/Broadway, 2/Northeast, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+22,777835,7,Mare Island Way & Georgia (Ferry),"5/Fairgrounds, 80/I-80 SolanoExpress, /80s, 85/Fairfield SolanoExpress, 9/Mare Island - Deprecated"
+22,847516,8,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+23,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+23,844534,2,Mare Island Way & Georgia (Ferry),"5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress, 9/Mare Island - Deprecated"
+23,777832,3,Mare Island Way & Florida,"5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 9/Mare Island - Deprecated"
+23,777836,4,Mare Island Way & Harbor,"5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 9/Mare Island - Deprecated"
+23,777838,5,Mare Island Way & Tennessee,5/Fairgrounds
+23,778030,6,Wilson & B,5/Fairgrounds
+23,778031,7,Wilson & Benson,5/Fairgrounds
+23,777740,8,Daniels & B,5/Fairgrounds
+23,777741,9,Daniels & Rodgers,5/Fairgrounds
+23,777901,10,Sacramento & Baldwin,5/Fairgrounds
+23,777884,11,Redwood & Sacramento,5/Fairgrounds
+23,777885,12,Redwood & Sonoma (Seafood City),5/Fairgrounds
+23,777950,13,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express"
+23,777937,14,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+23,777932,15,Sereno Dr at Kaiser Entrance (Kaiser Medical Center),"20/Columbus, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+23,777934,16,Sereno & Mesa Verde,"20/Columbus, 5/Fairgrounds"
+23,781624,17,Tuolumne & Sereno,"4/Tuolumne, 5/Fairgrounds"
+23,777887,18,Redwood & Tuolumne,"20/Columbus, 5/Fairgrounds"
+23,777757,19,Fairgrounds & Sereno,5/Fairgrounds
+23,777755,20,Six Flags Discovery Kingdom,"5/Fairgrounds, 85/Fairfield SolanoExpress"
+23,777923,21,Sage & Griffin,5/Fairgrounds
+23,777778,22,Gateway & Sage,5/Fairgrounds
+23,777777,23,Gateway & Fairgrounds,"2/Northeast, 5/Fairgrounds"
+24,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+24,844534,2,Mare Island Way & Georgia (Ferry),"5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress, 9/Mare Island - Deprecated"
+24,777832,3,Mare Island Way & Florida,"5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 9/Mare Island - Deprecated"
+24,777836,4,Mare Island Way & Harbor,"5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 9/Mare Island - Deprecated"
+24,777838,5,Mare Island Way & Tennessee,5/Fairgrounds
+24,778030,6,Wilson & B,5/Fairgrounds
+24,778031,7,Wilson & Benson,5/Fairgrounds
+24,777740,8,Daniels & B,5/Fairgrounds
+24,777741,9,Daniels & Rodgers,5/Fairgrounds
+24,777901,10,Sacramento & Baldwin,5/Fairgrounds
+24,777884,11,Redwood & Sacramento,5/Fairgrounds
+24,777885,12,Redwood & Sonoma (Seafood City),5/Fairgrounds
+24,777950,13,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express"
+24,777937,14,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+24,777932,15,Sereno Dr at Kaiser Entrance (Kaiser Medical Center),"20/Columbus, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+24,777934,16,Sereno & Mesa Verde,"20/Columbus, 5/Fairgrounds"
+24,781624,17,Tuolumne & Sereno,"4/Tuolumne, 5/Fairgrounds"
+24,777887,18,Redwood & Tuolumne,"20/Columbus, 5/Fairgrounds"
+24,777757,19,Fairgrounds & Sereno,5/Fairgrounds
+24,777755,20,Six Flags Discovery Kingdom,"5/Fairgrounds, 85/Fairfield SolanoExpress"
+24,777923,21,Sage & Griffin,5/Fairgrounds
+24,777778,22,Gateway & Sage,5/Fairgrounds
+24,777777,23,Gateway & Fairgrounds,"2/Northeast, 5/Fairgrounds"
+25,777777,1,Gateway & Fairgrounds,"2/Northeast, 5/Fairgrounds"
+25,777754,2,Six Flags Discovery Kingdom,"5/Fairgrounds, 85/Fairfield SolanoExpress"
+25,777756,3,Fairgrounds & Sereno,5/Fairgrounds
+25,778013,4,Tuolumne & Redwood,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+25,777998,5,Tuolumne & Del Mar,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+25,781625,6,Tuolumne & Sereno,5/Fairgrounds
+25,777935,7,Sereno & San Marino,"20/Columbus, 5/Fairgrounds"
+25,781626,8,Sereno Dr opp Kaiser Entrance (Kaiser Medical Center),"20/Columbus, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+25,777936,9,Sereno Transit Center (STC),"1/Broadway, 2/Northeast, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+25,777951,10,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds"
+25,777883,11,Redwood & Sacramento,5/Fairgrounds
+25,777909,12,Sacramento & Redwood,5/Fairgrounds
+25,777742,13,Daniels & Rodgers,5/Fairgrounds
+25,777739,14,Daniels & B,5/Fairgrounds
+25,778032,15,Wilson & Benson,5/Fairgrounds
+25,778033,16,Wilson & Hichborn,5/Fairgrounds
+25,778034,17,Wilson & Tennessee,5/Fairgrounds
+25,777837,18,Mare Island Way & Harbor Way,"5/Fairgrounds, 80/I-80 SolanoExpress, 9/Mare Island - Deprecated"
+25,777833,19,Mare Island Way & Florida,"5/Fairgrounds, 80/I-80 SolanoExpress, 9/Mare Island - Deprecated"
+25,777835,20,Mare Island Way & Georgia (Ferry),"5/Fairgrounds, 80/I-80 SolanoExpress, /80s, 85/Fairfield SolanoExpress, 9/Mare Island - Deprecated"
+25,847516,21,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+26,777777,1,Gateway & Fairgrounds,"2/Northeast, 5/Fairgrounds"
+26,777754,2,Six Flags Discovery Kingdom,"5/Fairgrounds, 85/Fairfield SolanoExpress"
+26,777756,3,Fairgrounds & Sereno,5/Fairgrounds
+26,778013,4,Tuolumne & Redwood,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+26,777998,5,Tuolumne & Del Mar,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+26,781625,6,Tuolumne & Sereno,5/Fairgrounds
+26,777935,7,Sereno & San Marino,"20/Columbus, 5/Fairgrounds"
+26,781626,8,Sereno Dr opp Kaiser Entrance (Kaiser Medical Center),"20/Columbus, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+26,777936,9,Sereno Transit Center (STC),"1/Broadway, 2/Northeast, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+26,777951,10,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds"
+26,777883,11,Redwood & Sacramento,5/Fairgrounds
+26,777909,12,Sacramento & Redwood,5/Fairgrounds
+26,777742,13,Daniels & Rodgers,5/Fairgrounds
+26,777739,14,Daniels & B,5/Fairgrounds
+26,778032,15,Wilson & Benson,5/Fairgrounds
+26,778033,16,Wilson & Hichborn,5/Fairgrounds
+26,778034,17,Wilson & Tennessee,5/Fairgrounds
+26,777837,18,Mare Island Way & Harbor Way,"5/Fairgrounds, 80/I-80 SolanoExpress, 9/Mare Island - Deprecated"
+26,777833,19,Mare Island Way & Florida,"5/Fairgrounds, 80/I-80 SolanoExpress, 9/Mare Island - Deprecated"
+26,777835,20,Mare Island Way & Georgia (Ferry),"5/Fairgrounds, 80/I-80 SolanoExpress, /80s, 85/Fairfield SolanoExpress, 9/Mare Island - Deprecated"
+26,847516,21,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+27,777799,1,Glen Cove & Bayside,"38/Jesse Bethel, 3/Glen Cove"
+27,777813,2,Glen Cove & Sea Lion,"38/Jesse Bethel, 3/Glen Cove"
+27,777805,3,Glen Cove & James River,"38/Jesse Bethel, 3/Glen Cove"
+27,777802,4,Glen Cove & Glen Cove Marina,"38/Jesse Bethel, 3/Glen Cove"
+27,777801,5,Glen Cove & Camino Del Sol,"38/Jesse Bethel, 3/Glen Cove"
+27,777810,6,Glen Cove & S. Regatta,"38/Jesse Bethel, 3/Glen Cove"
+27,777807,7,Glen Cove & Glen Cove Elem School,"38/Jesse Bethel, 3/Glen Cove"
+27,777800,8,Glen Cove & Bermuda,"38/Jesse Bethel, 3/Glen Cove"
+27,777814,9,Glen Cove & Wellfleet,3/Glen Cove
+27,777775,10,Fulton & Glen Cove,"38/Jesse Bethel, 3/Glen Cove"
+27,777776,11,Fulton & Ladera,"38/Jesse Bethel, 3/Glen Cove"
+27,777733,12,Coronel & Fulton,"38/Jesse Bethel, 3/Glen Cove"
+27,777732,13,Coronel & Alhambra (Beverly Hills Elementary),"38/Jesse Bethel, 3/Glen Cove"
+27,777672,14,Alhambra & Laurel,"38/Jesse Bethel, 3/Glen Cove"
+27,777823,15,Laurel & Denton,"38/Jesse Bethel, 3/Glen Cove"
+27,777824,16,Magazine & Gary,"38/Jesse Bethel, 3/Glen Cove"
+27,777825,17,Magazine & Sheridan,3/Glen Cove
+27,777991,18,5th & Magazine,3/Glen Cove
+27,777990,19,5th & Grant,3/Glen Cove
+27,777992,20,Maretime Academy  & Sonoma,3/Glen Cove
+27,777735,21,Country Lane & Maritime Academy (Cal Maritime Academy),3/Glen Cove
+27,777926,22,Seaport & Country Lane,3/Glen Cove
+27,777927,23,Seaport & Sandy,3/Glen Cove
+27,777924,24,Sandy Beach & Seaport,3/Glen Cove
+27,777868,25,Porter & Adams,3/Glen Cove
+27,777870,26,Porter & Magazine,3/Glen Cove
+27,777869,27,Porter & Larissa,3/Glen Cove
+27,847519,28,Winchester & Sonoma,3/Glen Cove
+27,777948,29,Sonoma & McLane,"3/Glen Cove, 80/I-80 SolanoExpress"
+27,777946,30,Sonoma & Chestnut,"3/Glen Cove, 80/I-80 SolanoExpress"
+27,777954,31,Sonoma & Solano,"3/Glen Cove, 80/I-80 SolanoExpress"
+27,847516,32,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+28,777799,1,Glen Cove & Bayside,"38/Jesse Bethel, 3/Glen Cove"
+28,777813,2,Glen Cove & Sea Lion,"38/Jesse Bethel, 3/Glen Cove"
+28,777805,3,Glen Cove & James River,"38/Jesse Bethel, 3/Glen Cove"
+28,777802,4,Glen Cove & Glen Cove Marina,"38/Jesse Bethel, 3/Glen Cove"
+28,777801,5,Glen Cove & Camino Del Sol,"38/Jesse Bethel, 3/Glen Cove"
+28,777810,6,Glen Cove & S. Regatta,"38/Jesse Bethel, 3/Glen Cove"
+28,777807,7,Glen Cove & Glen Cove Elem School,"38/Jesse Bethel, 3/Glen Cove"
+28,777800,8,Glen Cove & Bermuda,"38/Jesse Bethel, 3/Glen Cove"
+28,777814,9,Glen Cove & Wellfleet,3/Glen Cove
+28,777775,10,Fulton & Glen Cove,"38/Jesse Bethel, 3/Glen Cove"
+28,777776,11,Fulton & Ladera,"38/Jesse Bethel, 3/Glen Cove"
+28,777733,12,Coronel & Fulton,"38/Jesse Bethel, 3/Glen Cove"
+28,777732,13,Coronel & Alhambra (Beverly Hills Elementary),"38/Jesse Bethel, 3/Glen Cove"
+28,777672,14,Alhambra & Laurel,"38/Jesse Bethel, 3/Glen Cove"
+28,777823,15,Laurel & Denton,"38/Jesse Bethel, 3/Glen Cove"
+28,777824,16,Magazine & Gary,"38/Jesse Bethel, 3/Glen Cove"
+28,777825,17,Magazine & Sheridan,3/Glen Cove
+28,777991,18,5th & Magazine,3/Glen Cove
+28,777990,19,5th & Grant,3/Glen Cove
+28,777992,20,Maretime Academy  & Sonoma,3/Glen Cove
+28,777735,21,Country Lane & Maritime Academy (Cal Maritime Academy),3/Glen Cove
+28,777926,22,Seaport & Country Lane,3/Glen Cove
+28,777927,23,Seaport & Sandy,3/Glen Cove
+28,777924,24,Sandy Beach & Seaport,3/Glen Cove
+28,777868,25,Porter & Adams,3/Glen Cove
+28,777870,26,Porter & Magazine,3/Glen Cove
+28,777869,27,Porter & Larissa,3/Glen Cove
+28,847519,28,Winchester & Sonoma,3/Glen Cove
+28,777948,29,Sonoma & McLane,"3/Glen Cove, 80/I-80 SolanoExpress"
+28,777946,30,Sonoma & Chestnut,"3/Glen Cove, 80/I-80 SolanoExpress"
+28,777954,31,Sonoma & Solano,"3/Glen Cove, 80/I-80 SolanoExpress"
+28,847516,32,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+29,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+29,777737,2,Curtola Parkway & Napa,"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+29,777736,3,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+29,777809,4,Glen Cove & Robles,3/Glen Cove
+29,777815,5,Glen Cove & Wellfleet,3/Glen Cove
+29,777811,6,Glen Cove & Saybrook,3/Glen Cove
+29,777808,7,Glen Cove &  Glen Cove Elem School,3/Glen Cove
+29,777798,8,Glen Cove & Antigua,3/Glen Cove
+29,777803,9,Glen Cove & Glen Cove Marina,3/Glen Cove
+29,777806,10,Glen Cove & Mistral,3/Glen Cove
+29,777804,11,Glen Cove & James River,3/Glen Cove
+29,777812,12,Glen Cove & Sea Lion,3/Glen Cove
+29,777799,13,Glen Cove & Bayside,"38/Jesse Bethel, 3/Glen Cove"
+30,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+30,777737,2,Curtola Parkway & Napa,"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+30,777736,3,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+30,777809,4,Glen Cove & Robles,3/Glen Cove
+30,777815,5,Glen Cove & Wellfleet,3/Glen Cove
+30,777811,6,Glen Cove & Saybrook,3/Glen Cove
+30,777808,7,Glen Cove &  Glen Cove Elem School,3/Glen Cove
+30,777798,8,Glen Cove & Antigua,3/Glen Cove
+30,777803,9,Glen Cove & Glen Cove Marina,3/Glen Cove
+30,777806,10,Glen Cove & Mistral,3/Glen Cove
+30,777804,11,Glen Cove & James River,3/Glen Cove
+30,777812,12,Glen Cove & Sea Lion,3/Glen Cove
+30,777799,13,Glen Cove & Bayside,"38/Jesse Bethel, 3/Glen Cove"
+31,778035,1,Walnut Creek BART,"78/I-680 SolanoExpress, /80s"
+31,777747,2,East 5th & East N,"17/Benicia Schools, 78/I-680 SolanoExpress, /80s"
+31,777842,3,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+31,777848,4,Military West & West 7th,"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+31,777846,5,Military West & West 14th,"15/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+31,777736,6,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+31,777738,7,Curtola Parkway & Napa,"78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+31,847516,8,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+32,778035,1,Walnut Creek BART,"78/I-680 SolanoExpress, /80s"
+32,777747,2,East 5th & East N,"17/Benicia Schools, 78/I-680 SolanoExpress, /80s"
+32,777842,3,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+32,777848,4,Military West & West 7th,"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+32,777846,5,Military West & West 14th,"15/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+32,777736,6,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+32,777738,7,Curtola Parkway & Napa,"78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+32,847516,8,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+33,778035,1,Walnut Creek BART,"78/I-680 SolanoExpress, /80s"
+33,777747,2,East 5th & East N,"17/Benicia Schools, 78/I-680 SolanoExpress, /80s"
+33,777842,3,Military West & 1st (Benicia City Park),"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+33,777848,4,Military West & West 7th,"15/Benicia Schools, 17/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+33,777846,5,Military West & West 14th,"15/Benicia Schools, 20/Columbus, 78/I-680 SolanoExpress, /80s"
+33,777736,6,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+33,777738,7,Curtola Parkway & Napa,"78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+33,847516,8,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+34,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+34,777737,2,Curtola Parkway & Napa,"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+34,777736,3,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+34,777847,4,Military West & West 14th,"20/Columbus, 78/I-680 SolanoExpress, /80s"
+34,777849,5,Military West & West 7th,"20/Columbus, 78/I-680 SolanoExpress, /80s"
+34,777843,6,Military West & 1st (Benicia City Park),"20/Columbus, 78/I-680 SolanoExpress, /80s"
+34,777748,7,East 5th & East N,"78/I-680 SolanoExpress, /80s"
+34,777724,8,Pleasant Hill BART,78/I-680 SolanoExpress
+34,778035,9,Walnut Creek BART,"78/I-680 SolanoExpress, /80s"
+35,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+35,777737,2,Curtola Parkway & Napa,"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+35,777736,3,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+35,777847,4,Military West & West 14th,"20/Columbus, 78/I-680 SolanoExpress, /80s"
+35,777849,5,Military West & West 7th,"20/Columbus, 78/I-680 SolanoExpress, /80s"
+35,777843,6,Military West & 1st (Benicia City Park),"20/Columbus, 78/I-680 SolanoExpress, /80s"
+35,777748,7,East 5th & East N,"78/I-680 SolanoExpress, /80s"
+35,777724,8,Pleasant Hill BART,78/I-680 SolanoExpress
+35,778035,9,Walnut Creek BART,"78/I-680 SolanoExpress, /80s"
+36,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+36,777737,2,Curtola Parkway & Napa,"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+36,777736,3,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+36,777847,4,Military West & West 14th,"20/Columbus, 78/I-680 SolanoExpress, /80s"
+36,777849,5,Military West & West 7th,"20/Columbus, 78/I-680 SolanoExpress, /80s"
+36,777843,6,Military West & 1st (Benicia City Park),"20/Columbus, 78/I-680 SolanoExpress, /80s"
+36,777748,7,East 5th & East N,"78/I-680 SolanoExpress, /80s"
+36,777724,8,Pleasant Hill BART,78/I-680 SolanoExpress
+36,778035,9,Walnut Creek BART,"78/I-680 SolanoExpress, /80s"
+37,777750,1,El Cerrito Del Norte BART,"80/I-80 SolanoExpress, 82/SF Express"
+37,777736,2,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+37,777738,3,Curtola Parkway & Napa,"78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+37,847516,4,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+38,777750,1,El Cerrito Del Norte BART,"80/I-80 SolanoExpress, 82/SF Express"
+38,777736,2,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+38,777738,3,Curtola Parkway & Napa,"78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+38,847516,4,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+39,777750,1,El Cerrito Del Norte BART,"80/I-80 SolanoExpress, 82/SF Express"
+39,777736,2,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+39,777738,3,Curtola Parkway & Napa,"78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+39,847516,4,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+40,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+40,777737,2,Curtola Parkway & Napa,"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+40,777736,3,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+40,777750,4,El Cerrito Del Norte BART,"80/I-80 SolanoExpress, 82/SF Express"
+41,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+41,777737,2,Curtola Parkway & Napa,"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+41,777736,3,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+41,777750,4,El Cerrito Del Norte BART,"80/I-80 SolanoExpress, 82/SF Express"
+42,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+42,777737,2,Curtola Parkway & Napa,"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+42,777736,3,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+42,777750,4,El Cerrito Del Norte BART,"80/I-80 SolanoExpress, 82/SF Express"
+43,777799,1,Glen Cove & Bayside,"38/Jesse Bethel, 3/Glen Cove"
+43,777813,2,Glen Cove & Sea Lion,"38/Jesse Bethel, 3/Glen Cove"
+43,777805,3,Glen Cove & James River,"38/Jesse Bethel, 3/Glen Cove"
+43,777802,4,Glen Cove & Glen Cove Marina,"38/Jesse Bethel, 3/Glen Cove"
+43,777801,5,Glen Cove & Camino Del Sol,"38/Jesse Bethel, 3/Glen Cove"
+43,777810,6,Glen Cove & S. Regatta,"38/Jesse Bethel, 3/Glen Cove"
+43,777807,7,Glen Cove & Glen Cove Elem School,"38/Jesse Bethel, 3/Glen Cove"
+43,777800,8,Glen Cove & Bermuda,"38/Jesse Bethel, 3/Glen Cove"
+43,777775,9,Fulton & Glen Cove,"38/Jesse Bethel, 3/Glen Cove"
+43,777776,10,Fulton & Ladera,"38/Jesse Bethel, 3/Glen Cove"
+43,777733,11,Coronel & Fulton,"38/Jesse Bethel, 3/Glen Cove"
+43,777732,12,Coronel & Alhambra (Beverly Hills Elementary),"38/Jesse Bethel, 3/Glen Cove"
+43,777672,13,Alhambra & Laurel,"38/Jesse Bethel, 3/Glen Cove"
+43,777823,14,Laurel & Denton,"38/Jesse Bethel, 3/Glen Cove"
+43,777824,15,Magazine & Gary,"38/Jesse Bethel, 3/Glen Cove"
+43,777688,16,Benicia Rd & Cedar,"38/Jesse Bethel, 8/Benicia Rd"
+43,777690,17,Benicia Rd & Maple,"38/Jesse Bethel, 8/Benicia Rd"
+43,777689,18,Benicia Rd & Home Acres,"38/Jesse Bethel, 8/Benicia Rd"
+43,777694,19,Benicia Rd & Taylor,"38/Jesse Bethel, 8/Benicia Rd"
+43,777692,20,Benicia Rd & Rollingwood,"38/Jesse Bethel, 8/Benicia Rd"
+43,777888,21,Rollingwood & Benicia,"38/Jesse Bethel, 8/Benicia Rd"
+43,781644,22,Rollingwood Dr & Keats Dr,"38/Jesse Bethel, 8/Benicia Rd"
+43,2382764,23,Rollingwood & Baywood,38/Jesse Bethel
+43,777889,24,Rollingwood & Cottonwood,"38/Jesse Bethel, 8/Benicia Rd"
+43,777892,25,Rollingwood & Springs,"38/Jesse Bethel, 8/Benicia Rd"
+43,777970,26,Springs & Rollingwood,"38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+43,2320120,27,Columbus & Springs,"20/Columbus, 38/Jesse Bethel"
+43,2320121,28,Columbus & Tennessee,"20/Columbus, 38/Jesse Bethel"
+43,777725,29,Columbus & Ascot ,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+43,777681,30,Ascot & Sunrise,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+43,781642,31,Ascot opp Wardlaw Park East,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+43,777882,32,Redwood & Oakwood,"38/Jesse Bethel, 7/Springs Rd"
+43,777877,33,Redwood & Foothill,"38/Jesse Bethel, 7/Springs Rd"
+43,2382740,34,Redwood & Admiral Callaghan,"38/Jesse Bethel, 7/Springs Rd"
+43,781643,35,Admiral Callaghan & Rotary Way,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+43,777667,36,Admiral Callaghan & Vallejo Corners (Gateway Plaza; Target),"20/Columbus, 2/Northeast, 38/Jesse Bethel, 7/Springs Rd"
+43,777865,37,Plaza & Admiral Callaghan (Gateway Plaza North),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+43,777866,38,Plaza & Turner (Gateway Plaza; Costco),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+44,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+44,777913,2,Sacramento & Virginia,"2/Northeast, 6/Tennessee"
+44,777904,3,Sacramento & Florida,"2/Northeast, 6/Tennessee"
+44,777908,4,Sacramento & Ohio,"2/Northeast, 6/Tennessee"
+44,777899,5,Sacramento & Alabama,"2/Northeast, 6/Tennessee"
+44,777906,6,Sacramento & Indiana,2/Northeast
+44,777907,7,Sacramento & Mississippi,2/Northeast
+44,2382747,8,Sacramento & Valle Vista,2/Northeast
+44,2382748,9,Valle Vista & Sacramento,2/Northeast
+44,781670,10,Valle Vista & Sonoma,2/Northeast
+44,777952,11,Sonoma & Redwood,"1/Broadway, 2/Northeast"
+44,777950,12,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express"
+44,777937,13,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+44,777711,14,Broadway & Sereno,"2/Northeast, 4/Tuolumne"
+44,777699,15,Broadway & Garibaldi,"2/Northeast, 4/Tuolumne"
+44,777695,16,Broadway & Ash,"2/Northeast, 4/Tuolumne"
+44,777994,17,Tuolumne & Broadway,"2/Northeast, 4/Tuolumne"
+44,781621,18,Tuolumne & Almond,"2/Northeast, 4/Tuolumne"
+44,777718,19,BW Williams & Tuolumne,2/Northeast
+44,777719,20,BW Williams & Walnut,2/Northeast
+44,777716,21,BW Williams & Lewis Brown,2/Northeast
+44,777861,22,Mini & Violet,2/Northeast
+44,777860,23,Mini & Stanford,2/Northeast
+44,777862,24,Mini & Whitney,2/Northeast
+44,777852,25,Mini & Corcoran,2/Northeast
+44,777731,26,Corcoran & Rainier,2/Northeast
+44,777729,27,Corcoran & Cobblestone (Solano Middle School),2/Northeast
+44,777730,28,Corcoran & Erin,2/Northeast
+44,777728,29,Corcoran & Belfast,2/Northeast
+44,777723,30,Christopher & Lillean,2/Northeast
+44,777722,31,Christopher & Evelyn,2/Northeast
+44,777816,32,Griffin & Taper,2/Northeast
+44,777777,33,Gateway & Fairgrounds,"2/Northeast, 5/Fairgrounds"
+44,777726,34,Columbus & College Entrance (Solano College),"20/Columbus, 2/Northeast"
+44,777874,35,Redwood & Bonnie,"20/Columbus, 2/Northeast"
+44,777878,36,Redwood & Headwater,"20/Columbus, 2/Northeast"
+44,777678,37,Redwood & Ascot,"20/Columbus, 2/Northeast"
+44,777683,38,Ascot & Redwood,2/Northeast
+44,778020,39,Turner & North Ascot,2/Northeast
+44,777867,40,Plaza & Turner (Gateway Plaza; Costco),2/Northeast
+44,2382714,41,Plaza Dr at Admiral Callaghan (Gateway Plaza North),2/Northeast
+44,777667,42,Admiral Callaghan & Vallejo Corners (Gateway Plaza; Target),"20/Columbus, 2/Northeast, 38/Jesse Bethel, 7/Springs Rd"
+45,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+45,777913,2,Sacramento & Virginia,"2/Northeast, 6/Tennessee"
+45,777904,3,Sacramento & Florida,"2/Northeast, 6/Tennessee"
+45,777908,4,Sacramento & Ohio,"2/Northeast, 6/Tennessee"
+45,777899,5,Sacramento & Alabama,"2/Northeast, 6/Tennessee"
+45,777906,6,Sacramento & Indiana,2/Northeast
+45,777907,7,Sacramento & Mississippi,2/Northeast
+45,2382747,8,Sacramento & Valle Vista,2/Northeast
+45,2382748,9,Valle Vista & Sacramento,2/Northeast
+45,781670,10,Valle Vista & Sonoma,2/Northeast
+45,777952,11,Sonoma & Redwood,"1/Broadway, 2/Northeast"
+45,777950,12,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express"
+45,777937,13,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+45,777711,14,Broadway & Sereno,"2/Northeast, 4/Tuolumne"
+45,777699,15,Broadway & Garibaldi,"2/Northeast, 4/Tuolumne"
+45,777695,16,Broadway & Ash,"2/Northeast, 4/Tuolumne"
+45,777994,17,Tuolumne & Broadway,"2/Northeast, 4/Tuolumne"
+45,781621,18,Tuolumne & Almond,"2/Northeast, 4/Tuolumne"
+45,777718,19,BW Williams & Tuolumne,2/Northeast
+45,777719,20,BW Williams & Walnut,2/Northeast
+45,777716,21,BW Williams & Lewis Brown,2/Northeast
+45,777861,22,Mini & Violet,2/Northeast
+45,777860,23,Mini & Stanford,2/Northeast
+45,777862,24,Mini & Whitney,2/Northeast
+45,777852,25,Mini & Corcoran,2/Northeast
+45,777731,26,Corcoran & Rainier,2/Northeast
+45,777729,27,Corcoran & Cobblestone (Solano Middle School),2/Northeast
+45,777730,28,Corcoran & Erin,2/Northeast
+45,777728,29,Corcoran & Belfast,2/Northeast
+45,777723,30,Christopher & Lillean,2/Northeast
+45,777722,31,Christopher & Evelyn,2/Northeast
+45,777816,32,Griffin & Taper,2/Northeast
+45,777777,33,Gateway & Fairgrounds,"2/Northeast, 5/Fairgrounds"
+45,777726,34,Columbus & College Entrance (Solano College),"20/Columbus, 2/Northeast"
+45,777874,35,Redwood & Bonnie,"20/Columbus, 2/Northeast"
+45,777878,36,Redwood & Headwater,"20/Columbus, 2/Northeast"
+45,777678,37,Redwood & Ascot,"20/Columbus, 2/Northeast"
+45,777683,38,Ascot & Redwood,2/Northeast
+45,778020,39,Turner & North Ascot,2/Northeast
+45,777867,40,Plaza & Turner (Gateway Plaza; Costco),2/Northeast
+45,2382714,41,Plaza Dr at Admiral Callaghan (Gateway Plaza North),2/Northeast
+45,777667,42,Admiral Callaghan & Vallejo Corners (Gateway Plaza; Target),"20/Columbus, 2/Northeast, 38/Jesse Bethel, 7/Springs Rd"
+46,777667,1,Admiral Callaghan & Vallejo Corners (Gateway Plaza; Target),"20/Columbus, 2/Northeast, 38/Jesse Bethel, 7/Springs Rd"
+46,778028,2,Whitney & De Paul,2/Northeast
+46,778029,3,Whitney & Olympic,2/Northeast
+46,777859,4,Mini & Stanford,2/Northeast
+46,777855,5,Mini & Hwy 37,2/Northeast
+46,777717,6,BW Williams & Pecan,2/Northeast
+46,778003,7,Tuolumne & Lofas,"2/Northeast, 4/Tuolumne"
+46,777696,8,Broadway & Ash,"1/Broadway, 2/Northeast, 4/Tuolumne"
+46,777698,9,Broadway & Garibaldi,"1/Broadway, 2/Northeast, 4/Tuolumne"
+46,777936,10,Sereno Transit Center (STC),"1/Broadway, 2/Northeast, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+46,777951,11,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds"
+46,777953,12,Sonoma & Redwood (Vallejo Plaza),"1/Broadway, 2/Northeast, 80/I-80 SolanoExpress"
+46,781671,13,Valle Vista & Sonoma,2/Northeast
+46,777911,14,Sacramento & Valle Vista,2/Northeast
+46,777902,15,Sacramento & Denio,2/Northeast
+46,777905,16,Sacramento & Hichborn,2/Northeast
+46,777910,17,Sacramento & Tennessee,2/Northeast
+46,777900,18,Sacramento & Alabama,"2/Northeast, 6/Tennessee"
+46,777903,19,Sacramento & Florida,"2/Northeast, 6/Tennessee"
+46,777912,20,Sacramento & Virginia,"2/Northeast, 6/Tennessee"
+46,847516,21,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+47,777667,1,Admiral Callaghan & Vallejo Corners (Gateway Plaza; Target),"20/Columbus, 2/Northeast, 38/Jesse Bethel, 7/Springs Rd"
+47,778028,2,Whitney & De Paul,2/Northeast
+47,778029,3,Whitney & Olympic,2/Northeast
+47,777859,4,Mini & Stanford,2/Northeast
+47,777855,5,Mini & Hwy 37,2/Northeast
+47,777717,6,BW Williams & Pecan,2/Northeast
+47,778003,7,Tuolumne & Lofas,"2/Northeast, 4/Tuolumne"
+47,777696,8,Broadway & Ash,"1/Broadway, 2/Northeast, 4/Tuolumne"
+47,777698,9,Broadway & Garibaldi,"1/Broadway, 2/Northeast, 4/Tuolumne"
+47,777936,10,Sereno Transit Center (STC),"1/Broadway, 2/Northeast, 5/Fairgrounds, 85/Fairfield SolanoExpress"
+47,777951,11,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds"
+47,777953,12,Sonoma & Redwood (Vallejo Plaza),"1/Broadway, 2/Northeast, 80/I-80 SolanoExpress"
+47,781671,13,Valle Vista & Sonoma,2/Northeast
+47,777911,14,Sacramento & Valle Vista,2/Northeast
+47,777902,15,Sacramento & Denio,2/Northeast
+47,777905,16,Sacramento & Hichborn,2/Northeast
+47,777910,17,Sacramento & Tennessee,2/Northeast
+47,777900,18,Sacramento & Alabama,"2/Northeast, 6/Tennessee"
+47,777903,19,Sacramento & Florida,"2/Northeast, 6/Tennessee"
+47,777912,20,Sacramento & Virginia,"2/Northeast, 6/Tennessee"
+47,847516,21,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+48,2326847,1,SF Temporary Transbay Terminal,82/SF Express
+48,777750,2,El Cerrito Del Norte BART,"80/I-80 SolanoExpress, 82/SF Express"
+48,777736,3,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+48,777738,4,Curtola Parkway & Napa,"78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+48,847516,5,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+48,844534,6,Mare Island Way & Georgia (Ferry),"5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress, 9/Mare Island - Deprecated"
+48,777832,7,Mare Island Way & Florida,"5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 9/Mare Island - Deprecated"
+48,777836,8,Mare Island Way & Harbor,"5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 9/Mare Island - Deprecated"
+48,777950,9,Sonoma & Redwood,"1/Broadway, 2/Northeast, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express"
+48,777937,10,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+49,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+49,777737,2,Curtola Parkway & Napa,"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+49,777736,3,Curtola Parkway & Lemon (Curtola Park and Ride),"3/Glen Cove, 78/I-680 SolanoExpress, 80/I-80 SolanoExpress, /80s, 82/SF Express"
+49,777750,4,El Cerrito Del Norte BART,"80/I-80 SolanoExpress, 82/SF Express"
+49,2326847,5,SF Temporary Transbay Terminal,82/SF Express
+50,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+50,777947,2,Sonoma & Florida,"4/Tuolumne, 7/Springs Rd"
+50,777767,3,Florida & Napa,7/Springs Rd
+50,777766,4,Florida & El Dorado,7/Springs Rd
+50,781640,5,Florida & Alameda,7/Springs Rd
+50,781641,6,Florida & Amador,7/Springs Rd
+50,777773,7,Florida & Wolfe,7/Springs Rd
+50,777765,8,Florida & Calaveras,7/Springs Rd
+50,777769,9,Florida & Solano,7/Springs Rd
+50,777964,10,Springs & Hilton,7/Springs Rd
+50,777973,11,Springs & Vervais,7/Springs Rd
+50,777971,12,Springs & Thelma,7/Springs Rd
+50,777969,13,Springs & Oakwood (Springtowne Center),"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+50,777962,14,Springs & Heartwood,"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+50,777970,15,Springs & Rollingwood,"38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+50,777685,16,Avian & Tennessee,7/Springs Rd
+50,777725,17,Columbus & Ascot ,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+50,777681,18,Ascot & Sunrise,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+50,781642,19,Ascot opp Wardlaw Park East,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+50,777882,20,Redwood & Oakwood,"38/Jesse Bethel, 7/Springs Rd"
+50,777877,21,Redwood & Foothill,"38/Jesse Bethel, 7/Springs Rd"
+50,2382740,22,Redwood & Admiral Callaghan,"38/Jesse Bethel, 7/Springs Rd"
+50,781643,23,Admiral Callaghan & Rotary Way,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+50,777667,24,Admiral Callaghan & Vallejo Corners (Gateway Plaza; Target),"20/Columbus, 2/Northeast, 38/Jesse Bethel, 7/Springs Rd"
+50,777865,25,Plaza & Admiral Callaghan (Gateway Plaza North),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+50,777866,26,Plaza & Turner (Gateway Plaza; Costco),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+51,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+51,777947,2,Sonoma & Florida,"4/Tuolumne, 7/Springs Rd"
+51,777767,3,Florida & Napa,7/Springs Rd
+51,777766,4,Florida & El Dorado,7/Springs Rd
+51,781640,5,Florida & Alameda,7/Springs Rd
+51,781641,6,Florida & Amador,7/Springs Rd
+51,777773,7,Florida & Wolfe,7/Springs Rd
+51,777765,8,Florida & Calaveras,7/Springs Rd
+51,777769,9,Florida & Solano,7/Springs Rd
+51,777964,10,Springs & Hilton,7/Springs Rd
+51,777973,11,Springs & Vervais,7/Springs Rd
+51,777971,12,Springs & Thelma,7/Springs Rd
+51,777969,13,Springs & Oakwood (Springtowne Center),"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+51,777962,14,Springs & Heartwood,"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+51,777970,15,Springs & Rollingwood,"38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+51,777685,16,Avian & Tennessee,7/Springs Rd
+51,777725,17,Columbus & Ascot ,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+51,777681,18,Ascot & Sunrise,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+51,781642,19,Ascot opp Wardlaw Park East,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+51,777882,20,Redwood & Oakwood,"38/Jesse Bethel, 7/Springs Rd"
+51,777877,21,Redwood & Foothill,"38/Jesse Bethel, 7/Springs Rd"
+51,2382740,22,Redwood & Admiral Callaghan,"38/Jesse Bethel, 7/Springs Rd"
+51,781643,23,Admiral Callaghan & Rotary Way,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+51,777667,24,Admiral Callaghan & Vallejo Corners (Gateway Plaza; Target),"20/Columbus, 2/Northeast, 38/Jesse Bethel, 7/Springs Rd"
+51,777865,25,Plaza & Admiral Callaghan (Gateway Plaza North),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+51,777866,26,Plaza & Turner (Gateway Plaza; Costco),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+52,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+52,777947,2,Sonoma & Florida,"4/Tuolumne, 7/Springs Rd"
+52,777767,3,Florida & Napa,7/Springs Rd
+52,777766,4,Florida & El Dorado,7/Springs Rd
+52,781640,5,Florida & Alameda,7/Springs Rd
+52,781641,6,Florida & Amador,7/Springs Rd
+52,777773,7,Florida & Wolfe,7/Springs Rd
+52,777765,8,Florida & Calaveras,7/Springs Rd
+52,777769,9,Florida & Solano,7/Springs Rd
+52,777964,10,Springs & Hilton,7/Springs Rd
+52,777973,11,Springs & Vervais,7/Springs Rd
+52,777971,12,Springs & Thelma,7/Springs Rd
+52,777969,13,Springs & Oakwood (Springtowne Center),"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+52,777962,14,Springs & Heartwood,"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+52,777970,15,Springs & Rollingwood,"38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+52,777685,16,Avian & Tennessee,7/Springs Rd
+52,777725,17,Columbus & Ascot ,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd, 8/Benicia Rd"
+52,777681,18,Ascot & Sunrise,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+52,781642,19,Ascot opp Wardlaw Park East,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+52,777882,20,Redwood & Oakwood,"38/Jesse Bethel, 7/Springs Rd"
+52,777877,21,Redwood & Foothill,"38/Jesse Bethel, 7/Springs Rd"
+52,2382740,22,Redwood & Admiral Callaghan,"38/Jesse Bethel, 7/Springs Rd"
+52,781643,23,Admiral Callaghan & Rotary Way,"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+52,777667,24,Admiral Callaghan & Vallejo Corners (Gateway Plaza; Target),"20/Columbus, 2/Northeast, 38/Jesse Bethel, 7/Springs Rd"
+52,777865,25,Plaza & Admiral Callaghan (Gateway Plaza North),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+52,777866,26,Plaza & Turner (Gateway Plaza; Costco),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+53,777866,1,Plaza & Turner (Gateway Plaza; Costco),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+53,777872,2,Redwood & Adm Callaghan,7/Springs Rd
+53,777876,3,Redwood & Foothill,7/Springs Rd
+53,777881,4,Redwood & Oakwood,7/Springs Rd
+53,777679,5,Ascot at Wardlaw Park East,"20/Columbus, 7/Springs Rd"
+53,777682,6,Ascot & Sunrise,"20/Columbus, 7/Springs Rd"
+53,777677,7,Ascot & Locust,"20/Columbus, 7/Springs Rd"
+53,788385,8,Columbus & Ascot,"20/Columbus, 7/Springs Rd"
+53,777684,9,Avian & Tennessee,7/Springs Rd
+53,777961,10,Springs & Avian(Spring Hills Shopping Center),7/Springs Rd
+53,777963,11,Springs & Heartwood,7/Springs Rd
+53,777967,12,Springs & Mosswood,7/Springs Rd
+53,777968,13,Springs & Oakwood,7/Springs Rd
+53,777966,14,Springs & Maple,7/Springs Rd
+53,777972,15,Springs & Vervais,7/Springs Rd
+53,777965,16,Springs & Humboldt,7/Springs Rd
+53,777770,17,Florida & Solano,7/Springs Rd
+53,777772,18,Florida & Tuolumne,7/Springs Rd
+53,777774,19,Florida & Yuba,7/Springs Rd
+53,777762,20,Florida & Amador (Florence Douglas Senior Center),7/Springs Rd
+53,777761,21,Florida & Alameda,7/Springs Rd
+53,777771,22,Florida & Sonoma,7/Springs Rd
+53,2382739,23,Sonoma & Capitol,7/Springs Rd
+53,847516,24,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+54,777866,1,Plaza & Turner (Gateway Plaza; Costco),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+54,777872,2,Redwood & Adm Callaghan,7/Springs Rd
+54,777876,3,Redwood & Foothill,7/Springs Rd
+54,777881,4,Redwood & Oakwood,7/Springs Rd
+54,777679,5,Ascot at Wardlaw Park East,"20/Columbus, 7/Springs Rd"
+54,777682,6,Ascot & Sunrise,"20/Columbus, 7/Springs Rd"
+54,777677,7,Ascot & Locust,"20/Columbus, 7/Springs Rd"
+54,788385,8,Columbus & Ascot,"20/Columbus, 7/Springs Rd"
+54,777684,9,Avian & Tennessee,7/Springs Rd
+54,777961,10,Springs & Avian(Spring Hills Shopping Center),7/Springs Rd
+54,777963,11,Springs & Heartwood,7/Springs Rd
+54,777967,12,Springs & Mosswood,7/Springs Rd
+54,777968,13,Springs & Oakwood,7/Springs Rd
+54,777966,14,Springs & Maple,7/Springs Rd
+54,777972,15,Springs & Vervais,7/Springs Rd
+54,777965,16,Springs & Humboldt,7/Springs Rd
+54,777770,17,Florida & Solano,7/Springs Rd
+54,777772,18,Florida & Tuolumne,7/Springs Rd
+54,777774,19,Florida & Yuba,7/Springs Rd
+54,777762,20,Florida & Amador (Florence Douglas Senior Center),7/Springs Rd
+54,777761,21,Florida & Alameda,7/Springs Rd
+54,777771,22,Florida & Sonoma,7/Springs Rd
+54,2382739,23,Sonoma & Capitol,7/Springs Rd
+54,847516,24,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+55,777866,1,Plaza & Turner (Gateway Plaza; Costco),"20/Columbus, 38/Jesse Bethel, 7/Springs Rd"
+55,777872,2,Redwood & Adm Callaghan,7/Springs Rd
+55,777876,3,Redwood & Foothill,7/Springs Rd
+55,777881,4,Redwood & Oakwood,7/Springs Rd
+55,777679,5,Ascot at Wardlaw Park East,"20/Columbus, 7/Springs Rd"
+55,777682,6,Ascot & Sunrise,"20/Columbus, 7/Springs Rd"
+55,777677,7,Ascot & Locust,"20/Columbus, 7/Springs Rd"
+55,788385,8,Columbus & Ascot,"20/Columbus, 7/Springs Rd"
+55,777684,9,Avian & Tennessee,7/Springs Rd
+55,777961,10,Springs & Avian(Spring Hills Shopping Center),7/Springs Rd
+55,777963,11,Springs & Heartwood,7/Springs Rd
+55,777967,12,Springs & Mosswood,7/Springs Rd
+55,777968,13,Springs & Oakwood,7/Springs Rd
+55,777966,14,Springs & Maple,7/Springs Rd
+55,777972,15,Springs & Vervais,7/Springs Rd
+55,777965,16,Springs & Humboldt,7/Springs Rd
+55,777770,17,Florida & Solano,7/Springs Rd
+55,777772,18,Florida & Tuolumne,7/Springs Rd
+55,777774,19,Florida & Yuba,7/Springs Rd
+55,777762,20,Florida & Amador (Florence Douglas Senior Center),7/Springs Rd
+55,777761,21,Florida & Alameda,7/Springs Rd
+55,777771,22,Florida & Sonoma,7/Springs Rd
+55,2382739,23,Sonoma & Capitol,7/Springs Rd
+55,847516,24,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+56,777795,1,Georgia & Rosewood (Hogan Middle School),"6/Tennessee, 8/Benicia Rd"
+56,2320162,2,Oakwood & Westwood,"6/Tennessee, 8/Benicia Rd"
+56,2320163,3,Tennessee & Oakwood,6/Tennessee
+56,777981,4,Tennessee & Maple,6/Tennessee
+56,777989,5,Tennessee & Vervais,6/Tennessee
+56,778025,6,Vervais & Henry,6/Tennessee
+56,777759,7,Fleming & Skyway,6/Tennessee
+56,777758,8,Fleming & Admiral Callaghan,6/Tennessee
+56,777666,9,Admiral Callaghan & Tennessee,6/Tennessee
+56,777982,10,Tennessee & Mariposa,6/Tennessee
+56,777986,11,Tennessee & Shasta,6/Tennessee
+56,777988,12,Tennessee & Tuolumne,6/Tennessee
+56,777976,13,Tennessee & Amador,6/Tennessee
+56,777983,14,Tennessee & Monterey,6/Tennessee
+56,777977,15,Tennessee & Broadway,6/Tennessee
+56,777980,16,Tennessee & Fern Place,6/Tennessee
+56,777987,17,Tennessee & Sutter,6/Tennessee
+56,777900,18,Sacramento & Alabama,"2/Northeast, 6/Tennessee"
+56,777903,19,Sacramento & Florida,"2/Northeast, 6/Tennessee"
+56,777912,20,Sacramento & Virginia,"2/Northeast, 6/Tennessee"
+56,847516,21,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+57,777795,1,Georgia & Rosewood (Hogan Middle School),"6/Tennessee, 8/Benicia Rd"
+57,2320162,2,Oakwood & Westwood,"6/Tennessee, 8/Benicia Rd"
+57,2320163,3,Tennessee & Oakwood,6/Tennessee
+57,777981,4,Tennessee & Maple,6/Tennessee
+57,777989,5,Tennessee & Vervais,6/Tennessee
+57,778025,6,Vervais & Henry,6/Tennessee
+57,777759,7,Fleming & Skyway,6/Tennessee
+57,777758,8,Fleming & Admiral Callaghan,6/Tennessee
+57,777666,9,Admiral Callaghan & Tennessee,6/Tennessee
+57,777982,10,Tennessee & Mariposa,6/Tennessee
+57,777986,11,Tennessee & Shasta,6/Tennessee
+57,777988,12,Tennessee & Tuolumne,6/Tennessee
+57,777976,13,Tennessee & Amador,6/Tennessee
+57,777983,14,Tennessee & Monterey,6/Tennessee
+57,777977,15,Tennessee & Broadway,6/Tennessee
+57,777980,16,Tennessee & Fern Place,6/Tennessee
+57,777987,17,Tennessee & Sutter,6/Tennessee
+57,777900,18,Sacramento & Alabama,"2/Northeast, 6/Tennessee"
+57,777903,19,Sacramento & Florida,"2/Northeast, 6/Tennessee"
+57,777912,20,Sacramento & Virginia,"2/Northeast, 6/Tennessee"
+57,847516,21,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+58,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+58,777913,2,Sacramento & Virginia,"2/Northeast, 6/Tennessee"
+58,777904,3,Sacramento & Florida,"2/Northeast, 6/Tennessee"
+58,777908,4,Sacramento & Ohio,"2/Northeast, 6/Tennessee"
+58,777899,5,Sacramento & Alabama,"2/Northeast, 6/Tennessee"
+58,781628,6,Tennessee & Sutter,6/Tennessee
+58,781629,7,Tennessee & El Dorado,6/Tennessee
+58,781630,8,Tennessee & Monterey,6/Tennessee
+58,781631,9,Tennessee & Amador,6/Tennessee
+58,781632,10,Tennessee & Tuolumne,6/Tennessee
+58,2382821,11,Tennessee & Shasta,6/Tennessee
+58,781633,12,Tennessee & Mariposa,6/Tennessee
+58,2332231,13,Admiral Callaghan & Henry Ln,6/Tennessee
+58,781634,14,Fleming & Admiral Callaghan,6/Tennessee
+58,781635,15,Fleming & Vervais,6/Tennessee
+58,781636,16,Vervais & Henry,6/Tennessee
+58,781637,17,Tennessee & Maple,6/Tennessee
+58,781638,18,Tennessee & Oakwood,6/Tennessee
+58,777969,19,Springs & Oakwood (Springtowne Center),"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+58,777962,20,Springs & Heartwood,"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+58,2382736,21,Rollingwood Dr & Cottonwood,6/Tennessee
+58,777795,22,Georgia & Rosewood (Hogan Middle School),"6/Tennessee, 8/Benicia Rd"
+59,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+59,777913,2,Sacramento & Virginia,"2/Northeast, 6/Tennessee"
+59,777904,3,Sacramento & Florida,"2/Northeast, 6/Tennessee"
+59,777908,4,Sacramento & Ohio,"2/Northeast, 6/Tennessee"
+59,777899,5,Sacramento & Alabama,"2/Northeast, 6/Tennessee"
+59,781628,6,Tennessee & Sutter,6/Tennessee
+59,781629,7,Tennessee & El Dorado,6/Tennessee
+59,781630,8,Tennessee & Monterey,6/Tennessee
+59,781631,9,Tennessee & Amador,6/Tennessee
+59,781632,10,Tennessee & Tuolumne,6/Tennessee
+59,2382821,11,Tennessee & Shasta,6/Tennessee
+59,781633,12,Tennessee & Mariposa,6/Tennessee
+59,2332231,13,Admiral Callaghan & Henry Ln,6/Tennessee
+59,781634,14,Fleming & Admiral Callaghan,6/Tennessee
+59,781635,15,Fleming & Vervais,6/Tennessee
+59,781636,16,Vervais & Henry,6/Tennessee
+59,781637,17,Tennessee & Maple,6/Tennessee
+59,781638,18,Tennessee & Oakwood,6/Tennessee
+59,777969,19,Springs & Oakwood (Springtowne Center),"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+59,777962,20,Springs & Heartwood,"6/Tennessee, 7/Springs Rd, 8/Benicia Rd"
+59,2382736,21,Rollingwood Dr & Cottonwood,6/Tennessee
+59,777795,22,Georgia & Rosewood (Hogan Middle School),"6/Tennessee, 8/Benicia Rd"
+60,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+60,777796,2,Georgia & Sonoma,"1/Broadway, 4/Tuolumne"
+60,777793,3,Georgia & Napa,"1/Broadway, 4/Tuolumne"
+60,777788,4,Georgia & El Dorado,"1/Broadway, 4/Tuolumne"
+60,777780,5,Georgia & Alameda,4/Tuolumne
+60,777790,6,Georgia & Monterey,4/Tuolumne
+60,777782,7,Georgia & Amador,4/Tuolumne
+60,777785,8,Georgia & Contra Costa,4/Tuolumne
+60,777997,9,Tuolumne & Carolina (Solano County Courthouse),4/Tuolumne
+60,778009,10,Tuolumne & Ohio,4/Tuolumne
+60,778017,11,Tuolumne & Tennessee,4/Tuolumne
+60,778008,12,Tuolumne & Nebraska,4/Tuolumne
+60,778000,13,Tuolumne & Fleming,4/Tuolumne
+60,778001,14,Tuolumne & Greenfield,4/Tuolumne
+60,778019,15,Tuolumne & Valle Vista,4/Tuolumne
+60,778013,16,Tuolumne & Redwood,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+60,777998,17,Tuolumne & Del Mar,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+60,778014,18,Tuolumne & Sereno,"20/Columbus, 4/Tuolumne"
+60,778002,19,Tuolumne & Hospital,"20/Columbus, 4/Tuolumne"
+60,778230,20,Hospital Drive & Tuolumne,4/Tuolumne
+60,777975,21,Sutter Solano Medical Center & Tuolumne,"20/Columbus, 4/Tuolumne"
+60,778231,22,Hospital Drive & Tuolumne ,"20/Columbus, 4/Tuolumne"
+60,778006,23,Tuolumne & N. Camino Alto,4/Tuolumne
+60,778010,24,Tuolumne & Parkview Terrace,4/Tuolumne
+60,778012,25,Tuolumne & Phoenix,4/Tuolumne
+60,778011,26,Tuolumne & Peach,4/Tuolumne
+60,778003,27,Tuolumne & Lofas,"2/Northeast, 4/Tuolumne"
+60,777696,28,Broadway & Ash,"1/Broadway, 2/Northeast, 4/Tuolumne"
+60,777698,29,Broadway & Garibaldi,"1/Broadway, 2/Northeast, 4/Tuolumne"
+60,777937,30,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+61,847516,1,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+61,777796,2,Georgia & Sonoma,"1/Broadway, 4/Tuolumne"
+61,777793,3,Georgia & Napa,"1/Broadway, 4/Tuolumne"
+61,777788,4,Georgia & El Dorado,"1/Broadway, 4/Tuolumne"
+61,777780,5,Georgia & Alameda,4/Tuolumne
+61,777790,6,Georgia & Monterey,4/Tuolumne
+61,777782,7,Georgia & Amador,4/Tuolumne
+61,777785,8,Georgia & Contra Costa,4/Tuolumne
+61,777997,9,Tuolumne & Carolina (Solano County Courthouse),4/Tuolumne
+61,778009,10,Tuolumne & Ohio,4/Tuolumne
+61,778017,11,Tuolumne & Tennessee,4/Tuolumne
+61,778008,12,Tuolumne & Nebraska,4/Tuolumne
+61,778000,13,Tuolumne & Fleming,4/Tuolumne
+61,778001,14,Tuolumne & Greenfield,4/Tuolumne
+61,778019,15,Tuolumne & Valle Vista,4/Tuolumne
+61,778013,16,Tuolumne & Redwood,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+61,777998,17,Tuolumne & Del Mar,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+61,778014,18,Tuolumne & Sereno,"20/Columbus, 4/Tuolumne"
+61,778002,19,Tuolumne & Hospital,"20/Columbus, 4/Tuolumne"
+61,778230,20,Hospital Drive & Tuolumne,4/Tuolumne
+61,777975,21,Sutter Solano Medical Center & Tuolumne,"20/Columbus, 4/Tuolumne"
+61,778231,22,Hospital Drive & Tuolumne ,"20/Columbus, 4/Tuolumne"
+61,778006,23,Tuolumne & N. Camino Alto,4/Tuolumne
+61,778010,24,Tuolumne & Parkview Terrace,4/Tuolumne
+61,778012,25,Tuolumne & Phoenix,4/Tuolumne
+61,778011,26,Tuolumne & Peach,4/Tuolumne
+61,778003,27,Tuolumne & Lofas,"2/Northeast, 4/Tuolumne"
+61,777696,28,Broadway & Ash,"1/Broadway, 2/Northeast, 4/Tuolumne"
+61,777698,29,Broadway & Garibaldi,"1/Broadway, 2/Northeast, 4/Tuolumne"
+61,777937,30,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+62,777937,1,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+62,777711,2,Broadway & Sereno,"2/Northeast, 4/Tuolumne"
+62,777699,3,Broadway & Garibaldi,"2/Northeast, 4/Tuolumne"
+62,777695,4,Broadway & Ash,"2/Northeast, 4/Tuolumne"
+62,777994,5,Tuolumne & Broadway,"2/Northeast, 4/Tuolumne"
+62,781621,6,Tuolumne & Almond,"2/Northeast, 4/Tuolumne"
+62,781616,7,Tuolumne & Peach,4/Tuolumne
+62,781615,8,Tuolumne & Mitchell Court,4/Tuolumne
+62,781622,9,Tuolumne & Parkview Terrace,4/Tuolumne
+62,802613,10,Tuolumne & Hospital Dr,4/Tuolumne
+62,781624,11,Tuolumne & Sereno,"4/Tuolumne, 5/Fairgrounds"
+62,777999,12,Tuolumne & Del Mar,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+62,778005,13,Tuolumne & Los Santos,4/Tuolumne
+62,778018,14,Tuolumne & Valle Vista,4/Tuolumne
+62,778004,15,Tuolumne & Loma Vista,4/Tuolumne
+62,778007,16,Tuolumne & Nebraska,4/Tuolumne
+62,778016,17,Tuolumne & Tennessee,4/Tuolumne
+62,778015,18,Tuolumne & Springs,4/Tuolumne
+62,777996,19,Tuolumne & Capitol(Solano County Courthouse),4/Tuolumne
+62,777784,20,Georgia & Contra Costa,4/Tuolumne
+62,777783,21,Georgia & Amador,4/Tuolumne
+62,777791,22,Georgia & Monterey,4/Tuolumne
+62,777781,23,Georgia & Alameda,4/Tuolumne
+62,777787,24,Georgia & El Dorado,"1/Broadway, 4/Tuolumne"
+62,777792,25,Georgia & Napa,"1/Broadway, 4/Tuolumne"
+62,777947,26,Sonoma & Florida,"4/Tuolumne, 7/Springs Rd"
+62,777768,27,Florida & Santa Clara,4/Tuolumne
+62,777715,28,Butte & Florida,4/Tuolumne
+62,777720,29,Carolina & Branciforte,4/Tuolumne
+62,777925,30,Santa Clara & Georgia,4/Tuolumne
+62,847516,31,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"
+63,777937,1,Sereno Transit Center (STC),"1/Broadway, 20/Columbus, 2/Northeast, 4/Tuolumne, 5/Fairgrounds, 80/I-80 SolanoExpress, 82/SF Express, 85/Fairfield SolanoExpress"
+63,777711,2,Broadway & Sereno,"2/Northeast, 4/Tuolumne"
+63,777699,3,Broadway & Garibaldi,"2/Northeast, 4/Tuolumne"
+63,777695,4,Broadway & Ash,"2/Northeast, 4/Tuolumne"
+63,777994,5,Tuolumne & Broadway,"2/Northeast, 4/Tuolumne"
+63,781621,6,Tuolumne & Almond,"2/Northeast, 4/Tuolumne"
+63,781616,7,Tuolumne & Peach,4/Tuolumne
+63,781615,8,Tuolumne & Mitchell Court,4/Tuolumne
+63,781622,9,Tuolumne & Parkview Terrace,4/Tuolumne
+63,802613,10,Tuolumne & Hospital Dr,4/Tuolumne
+63,781624,11,Tuolumne & Sereno,"4/Tuolumne, 5/Fairgrounds"
+63,777999,12,Tuolumne & Del Mar,"20/Columbus, 4/Tuolumne, 5/Fairgrounds"
+63,778005,13,Tuolumne & Los Santos,4/Tuolumne
+63,778018,14,Tuolumne & Valle Vista,4/Tuolumne
+63,778004,15,Tuolumne & Loma Vista,4/Tuolumne
+63,778007,16,Tuolumne & Nebraska,4/Tuolumne
+63,778016,17,Tuolumne & Tennessee,4/Tuolumne
+63,778015,18,Tuolumne & Springs,4/Tuolumne
+63,777996,19,Tuolumne & Capitol(Solano County Courthouse),4/Tuolumne
+63,777784,20,Georgia & Contra Costa,4/Tuolumne
+63,777783,21,Georgia & Amador,4/Tuolumne
+63,777791,22,Georgia & Monterey,4/Tuolumne
+63,777781,23,Georgia & Alameda,4/Tuolumne
+63,777787,24,Georgia & El Dorado,"1/Broadway, 4/Tuolumne"
+63,777792,25,Georgia & Napa,"1/Broadway, 4/Tuolumne"
+63,777947,26,Sonoma & Florida,"4/Tuolumne, 7/Springs Rd"
+63,777768,27,Florida & Santa Clara,4/Tuolumne
+63,777715,28,Butte & Florida,4/Tuolumne
+63,777720,29,Carolina & Branciforte,4/Tuolumne
+63,777925,30,Santa Clara & Georgia,4/Tuolumne
+63,847516,31,Vallejo Transit Center (VTC),"1/Broadway, 2/Northeast, 3/Glen Cove, 4/Tuolumne, 5/Fairgrounds, 6/Tennessee, 78/I-680 SolanoExpress, 7/Springs Rd, 80/I-80 SolanoExpress, /80s, 82/SF Express, 85/Fairfield SolanoExpress, 8/Benicia Rd, 9/Mare Island - Deprecated"

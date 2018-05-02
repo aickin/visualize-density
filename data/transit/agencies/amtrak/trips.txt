@@ -1,0 +1,2408 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,shape_id
+66,1053612,21001053612,New York Penn Station,2100,0,42
+66,1053614,21001053614,New York Penn Station,2100,0,42
+66,1053615,21001053615,New York Penn Station,2100,0,42
+66,1053618,21001053618,New York Penn Station,2100,0,42
+66,1053606,21031053606,Washington Union Station Amtrak,2103,1,40
+66,1053608,21031053608,Washington Union Station Amtrak,2103,1,40
+66,1053611,21031053611,Washington Union Station Amtrak,2103,1,40
+66,1053619,21041053619,New York Penn Station,2104,0,42
+66,1053621,21041053621,New York Penn Station,2104,0,42
+66,1053622,21041053622,New York Penn Station,2104,0,42
+66,1053625,21041053625,New York Penn Station,2104,0,42
+66,1053632,21071053632,Washington Union Station Amtrak,2107,1,40
+66,1053634,21071053634,Washington Union Station Amtrak,2107,1,40
+66,1053637,21071053637,Washington Union Station Amtrak,2107,1,40
+66,1053626,21091053626,Washington Union Station Amtrak,2109,1,40
+66,1053628,21091053628,Washington Union Station Amtrak,2109,1,40
+66,1053631,21091053631,Washington Union Station Amtrak,2109,1,40
+66,1053638,21101053638,New York Penn Station,2110,0,42
+66,1053640,21101053640,New York Penn Station,2110,0,42
+66,1053643,21101053643,New York Penn Station,2110,0,42
+66,1053644,21171053644,Washington Union Station Amtrak,2117,1,40
+66,1053646,21171053646,Washington Union Station Amtrak,2117,1,40
+66,1053649,21171053649,Washington Union Station Amtrak,2117,1,40
+66,1053650,21191053650,Washington Union Station Amtrak,2119,1,40
+66,1053652,21191053652,Washington Union Station Amtrak,2119,1,40
+66,1053655,21191053655,Washington Union Station Amtrak,2119,1,40
+66,1053662,21211053662,Washington Union Station Amtrak,2121,1,40
+66,1053664,21211053664,Washington Union Station Amtrak,2121,1,40
+66,1053667,21211053667,Washington Union Station Amtrak,2121,1,40
+66,1053656,21221053656,New York Penn Station,2122,0,42
+66,1053658,21221053658,New York Penn Station,2122,0,42
+66,1053661,21221053661,New York Penn Station,2122,0,42
+66,1053668,21241053668,New York Penn Station,2124,0,42
+66,1053670,21241053670,New York Penn Station,2124,0,42
+66,1053671,21241053671,New York Penn Station,2124,0,42
+66,1053673,21241053673,New York Penn Station,2124,0,42
+66,1053674,21261053674,New York Penn Station,2126,0,42
+66,1053676,21261053676,New York Penn Station,2126,0,42
+66,1053679,21261053679,New York Penn Station,2126,0,42
+66,1053823,21281053823,New York Penn Station,2128,0,42
+66,1053825,21281053825,New York Penn Station,2128,0,42
+66,1053828,21281053828,New York Penn Station,2128,0,42
+66,1057071,21501057071,Boston South Station Amtrak,2150,0,41
+66,1057072,21501057072,Boston South Station Amtrak,2150,0,41
+66,1057073,21501057073,Boston South Station Amtrak,2150,0,41
+66,1057075,21501057075,Boston South Station Amtrak,2150,0,41
+66,1057076,21501057076,Boston South Station Amtrak,2150,0,41
+66,1057077,21501057077,Boston South Station Amtrak,2150,0,41
+66,1057079,21501057079,Boston South Station Amtrak,2150,0,41
+66,1053691,21511053691,Washington Union Station Amtrak,2151,1,38
+66,1053693,21511053693,Washington Union Station Amtrak,2151,1,38
+66,1053695,21511053695,Washington Union Station Amtrak,2151,1,38
+66,1053685,21531053685,Washington Union Station Amtrak,2153,1,38
+66,1053687,21531053687,Washington Union Station Amtrak,2153,1,38
+66,1053690,21531053690,Washington Union Station Amtrak,2153,1,38
+66,1053696,21541053696,Boston South Station Amtrak,2154,0,41
+66,1053698,21541053698,Boston South Station Amtrak,2154,0,41
+66,1053700,21541053700,Boston South Station Amtrak,2154,0,41
+66,1053707,21551053707,Washington Union Station Amtrak,2155,1,38
+66,1053709,21551053709,Washington Union Station Amtrak,2155,1,38
+66,1053711,21551053711,Washington Union Station Amtrak,2155,1,38
+66,1057080,21581057080,Boston South Station Amtrak,2158,0,41
+66,1057081,21581057081,Boston South Station Amtrak,2158,0,41
+66,1057082,21581057082,Boston South Station Amtrak,2158,0,41
+66,1057085,21581057085,Boston South Station Amtrak,2158,0,41
+66,1057086,21581057086,Boston South Station Amtrak,2158,0,41
+66,1057087,21581057087,Boston South Station Amtrak,2158,0,41
+66,1057084,21581057084,Boston South Station Amtrak,2158,0,41
+66,1053712,21591053712,Washington Union Station Amtrak,2159,1,38
+66,1053713,21591053713,Washington Union Station Amtrak,2159,1,38
+66,1053715,21591053715,Washington Union Station Amtrak,2159,1,38
+66,1053717,21591053717,Washington Union Station Amtrak,2159,1,38
+66,1053724,21601053724,Boston South Station Amtrak,2160,0,41
+66,1053718,21601053718,Boston South Station Amtrak,2160,0,41
+66,1053720,21601053720,Boston South Station Amtrak,2160,0,41
+66,1053723,21601053723,Boston South Station Amtrak,2160,0,41
+66,1053725,21631053725,Washington Union Station Amtrak,2163,1,38
+66,1053726,21631053726,Washington Union Station Amtrak,2163,1,38
+66,1053728,21631053728,Washington Union Station Amtrak,2163,1,38
+66,1053730,21631053730,Washington Union Station Amtrak,2163,1,38
+66,1057089,21641057089,Boston South Station Amtrak,2164,0,41
+66,1057090,21641057090,Boston South Station Amtrak,2164,0,41
+66,1057091,21641057091,Boston South Station Amtrak,2164,0,41
+66,1057093,21641057093,Boston South Station Amtrak,2164,0,41
+66,1057094,21641057094,Boston South Station Amtrak,2164,0,41
+66,1057095,21641057095,Boston South Station Amtrak,2164,0,41
+66,1057097,21641057097,Boston South Station Amtrak,2164,0,41
+66,1053732,21651053732,Washington Union Station Amtrak,2165,1,38
+66,1053733,21651053733,Washington Union Station Amtrak,2165,1,38
+66,1053735,21651053735,Washington Union Station Amtrak,2165,1,38
+66,1053738,21651053738,Washington Union Station Amtrak,2165,1,38
+66,1053739,21661053739,Boston South Station Amtrak,2166,0,41
+66,1053741,21661053741,Boston South Station Amtrak,2166,0,41
+66,1053744,21661053744,Boston South Station Amtrak,2166,0,41
+66,1057105,21671057105,Washington Union Station Amtrak,2167,1,38
+66,1057098,21671057098,Washington Union Station Amtrak,2167,1,38
+66,1057099,21671057099,Washington Union Station Amtrak,2167,1,38
+66,1057101,21671057101,Washington Union Station Amtrak,2167,1,38
+66,1057102,21671057102,Washington Union Station Amtrak,2167,1,38
+66,1057103,21671057103,Washington Union Station Amtrak,2167,1,38
+66,1057106,21671057106,Washington Union Station Amtrak,2167,1,38
+66,1053757,21681053757,Boston South Station Amtrak,2168,0,41
+66,1053759,21681053759,Boston South Station Amtrak,2168,0,41
+66,1053761,21681053761,Boston South Station Amtrak,2168,0,41
+66,1053751,21701053751,Boston South Station Amtrak,2170,0,41
+66,1053753,21701053753,Boston South Station Amtrak,2170,0,41
+66,1053756,21701053756,Boston South Station Amtrak,2170,0,41
+66,1053762,21711053762,Washington Union Station Amtrak,2171,1,38
+66,1053764,21711053764,Washington Union Station Amtrak,2171,1,38
+66,1053766,21711053766,Washington Union Station Amtrak,2171,1,38
+66,1053767,21721053767,Boston South Station Amtrak,2172,0,41
+66,1053768,21721053768,Boston South Station Amtrak,2172,0,41
+66,1053770,21721053770,Boston South Station Amtrak,2172,0,41
+66,1053772,21721053772,Boston South Station Amtrak,2172,0,41
+66,1053773,21731053773,Washington Union Station Amtrak,2173,1,38
+66,1053774,21731053774,Washington Union Station Amtrak,2173,1,38
+66,1053776,21731053776,Washington Union Station Amtrak,2173,1,38
+66,1053779,21731053779,Washington Union Station Amtrak,2173,1,38
+66,1053816,21751053816,Washington Union Station Amtrak,2175,1,38
+66,1053817,21751053817,Washington Union Station Amtrak,2175,1,38
+66,1053819,21751053819,Washington Union Station Amtrak,2175,1,38
+66,1053821,21751053821,Washington Union Station Amtrak,2175,1,38
+66,1053781,21901053781,Boston South Station Amtrak,2190,0,39
+66,1053780,21901053780,Boston South Station Amtrak,2190,0,39
+66,1053783,21901053783,Boston South Station Amtrak,2190,0,39
+66,1053785,21901053785,Boston South Station Amtrak,2190,0,39
+66,1053786,22031053786,Washington Union Station Amtrak,2203,1,40
+66,1039432,22031039432,Washington Union Station Amtrak,2203,1,40
+66,1053787,22051053787,Washington Union Station Amtrak,2205,1,40
+66,1039435,22051039435,Washington Union Station Amtrak,2205,1,40
+66,1039436,22051039436,Washington Union Station Amtrak,2205,1,40
+66,1039437,22051039437,Washington Union Station Amtrak,2205,1,40
+66,1053789,22081053789,New York Penn Station,2208,0,42
+66,1039441,22081039441,New York Penn Station,2208,0,42
+66,1039438,22081039438,New York Penn Station,2208,0,42
+66,1053790,22111053790,Washington Union Station Amtrak,2211,1,40
+66,1038257,22111038257,Washington Union Station Amtrak,2211,1,40
+66,1053792,22131053792,Washington Union Station Amtrak,2213,1,40
+66,1039444,22131039444,Washington Union Station Amtrak,2213,1,40
+66,1039445,22131039445,Washington Union Station Amtrak,2213,1,40
+66,1039497,22151039497,Washington Union Station Amtrak,2215,1,40
+66,1039499,22151039499,Washington Union Station Amtrak,2215,1,40
+66,1039500,22151039500,Washington Union Station Amtrak,2215,1,40
+66,1053794,22201053794,New York Penn Station,2220,0,42
+66,1039447,22201039447,New York Penn Station,2220,0,42
+66,1053795,22221053795,New York Penn Station,2222,0,42
+66,1039450,22221039450,New York Penn Station,2222,0,42
+66,1039451,22221039451,New York Penn Station,2222,0,42
+66,1039517,22241039517,New York Penn Station,2224,0,42
+66,1039519,22241039519,New York Penn Station,2224,0,42
+66,1039520,22241039520,New York Penn Station,2224,0,42
+66,1039809,22261039809,New York Penn Station,2226,0,42
+66,1053796,22281053796,New York Penn Station,2228,0,42
+66,1039454,22281039454,New York Penn Station,2228,0,42
+66,1039455,22281039455,New York Penn Station,2228,0,42
+66,1039810,22451039810,Washington Union Station Amtrak,2245,1,38
+66,1039515,22481039515,Boston South Station Amtrak,2248,0,41
+66,1039516,22481039516,Boston South Station Amtrak,2248,0,41
+66,1059087,22491059087,Washington Union Station Amtrak,2249,1,38
+66,1059088,22491059088,Washington Union Station Amtrak,2249,1,38
+66,1059089,22491059089,Washington Union Station Amtrak,2249,1,38
+66,1053798,22501053798,Boston South Station Amtrak,2250,0,41
+66,1053800,22501053800,Boston South Station Amtrak,2250,0,41
+66,1057371,22511057371,Washington Union Station Amtrak,2251,1,38
+66,1057372,22511057372,Washington Union Station Amtrak,2251,1,38
+66,1057373,22511057373,Washington Union Station Amtrak,2251,1,38
+66,1057374,22521057374,Boston South Station Amtrak,2252,0,41
+66,1057375,22521057375,Boston South Station Amtrak,2252,0,41
+66,1057377,22521057377,Boston South Station Amtrak,2252,0,41
+66,1057378,22521057378,Boston South Station Amtrak,2252,0,41
+66,1057379,22521057379,Boston South Station Amtrak,2252,0,41
+66,1056514,22531056514,Washington Union Station Amtrak,2253,1,38
+66,1056511,22531056511,Washington Union Station Amtrak,2253,1,38
+66,1056512,22531056512,Washington Union Station Amtrak,2253,1,38
+66,1056513,22531056513,Washington Union Station Amtrak,2253,1,38
+66,1056515,22531056515,Washington Union Station Amtrak,2253,1,38
+66,1056506,22541056506,Boston South Station Amtrak,2254,0,41
+66,1056507,22541056507,Boston South Station Amtrak,2254,0,41
+66,1056508,22541056508,Boston South Station Amtrak,2254,0,41
+66,1056509,22541056509,Boston South Station Amtrak,2254,0,41
+66,1056510,22541056510,Boston South Station Amtrak,2254,0,41
+66,1053809,22551053809,Washington Union Station Amtrak,2255,1,38
+66,1039472,22551039472,Washington Union Station Amtrak,2255,1,38
+66,1039473,22551039473,Washington Union Station Amtrak,2255,1,38
+66,1039474,22551039474,Washington Union Station Amtrak,2255,1,38
+66,1053811,22561053811,Boston South Station Amtrak,2256,0,41
+66,1039482,22561039482,Boston South Station Amtrak,2256,0,41
+66,1039483,22561039483,Boston South Station Amtrak,2256,0,41
+66,1039484,22561039484,Boston South Station Amtrak,2256,0,41
+66,1056516,22571056516,Washington Union Station Amtrak,2257,1,38
+66,1056517,22571056517,Washington Union Station Amtrak,2257,1,38
+66,1056519,22571056519,Washington Union Station Amtrak,2257,1,38
+66,1056520,22571056520,Washington Union Station Amtrak,2257,1,38
+66,1056521,22571056521,Washington Union Station Amtrak,2257,1,38
+66,1056522,22571056522,Washington Union Station Amtrak,2257,1,38
+66,1053812,22581053812,Boston South Station Amtrak,2258,0,41
+66,1039487,22581039487,Boston South Station Amtrak,2258,0,41
+66,1039488,22581039488,Boston South Station Amtrak,2258,0,41
+66,1053814,22591053814,Washington Union Station Amtrak,2259,1,38
+66,1039493,22591039493,Washington Union Station Amtrak,2259,1,38
+66,1039494,22591039494,Washington Union Station Amtrak,2259,1,38
+66,1056527,22601056527,Boston South Station Amtrak,2260,0,41
+66,1056529,22601056529,Boston South Station Amtrak,2260,0,41
+66,1056531,22601056531,Boston South Station Amtrak,2260,0,41
+66,1056532,22601056532,Boston South Station Amtrak,2260,0,41
+66,1056533,22601056533,Boston South Station Amtrak,2260,0,41
+66,1060270,22611060270,Washington Union Station Amtrak,2261,1,38
+66,1060271,22611060271,Washington Union Station Amtrak,2261,1,38
+66,1060273,22611060273,Washington Union Station Amtrak,2261,1,38
+66,1060274,22611060274,Washington Union Station Amtrak,2261,1,38
+66,1039811,22621039811,Boston South Station Amtrak,2262,0,41
+66,1039531,22751039531,Washington Union Station Amtrak,2275,1,38
+66,1039533,22751039533,Washington Union Station Amtrak,2275,1,38
+66,1039534,22751039534,Washington Union Station Amtrak,2275,1,38
+66,1056523,22901056523,Boston South Station Amtrak,2290,0,39
+66,1056524,22901056524,Boston South Station Amtrak,2290,0,39
+66,1056525,22901056525,Boston South Station Amtrak,2290,0,39
+66,1056526,22901056526,Boston South Station Amtrak,2290,0,39
+66,1053815,22971053815,New York Penn Station,2297,1,36
+66,1038263,22971038263,New York Penn Station,2297,1,36
+95,1061887,681061887,New York Penn Station,68,1,3
+95,1046462,681046462,New York Penn Station,68,1,3
+95,1046463,681046463,New York Penn Station,68,1,3
+95,1061886,691061886,Montreal Central Station,69,0,4
+95,1046459,691046459,Montreal Central Station,69,0,4
+95,1046460,691046460,Montreal Central Station,69,0,4
+60,1053989,5001053989,Seattle King Street Station Amtrak,500,0,168
+60,1051694,5001051694,Seattle King Street Station Amtrak,500,0,168
+60,1051696,5001051696,Seattle King Street Station Amtrak,500,0,168
+60,1053990,5011053990,Portland Union Station Amtrak,501,1,163
+60,1053997,5021053997,Seattle King Street Station Amtrak,502,0,166
+60,1051703,5021051703,Seattle King Street Station Amtrak,502,0,166
+60,1051704,5021051704,Seattle King Street Station Amtrak,502,0,166
+60,1053999,5031053999,Portland Union Station Amtrak,503,1,163
+60,1051710,5031051710,Portland Union Station Amtrak,503,1,163
+60,1051712,5031051712,Portland Union Station Amtrak,503,1,163
+60,1053991,5041053991,Seattle King Street Station Amtrak,504,0,166
+60,1051699,5041051699,Seattle King Street Station Amtrak,504,0,166
+60,1051701,5041051701,Seattle King Street Station Amtrak,504,0,166
+60,1053998,5051053998,Portland Union Station Amtrak,505,1,163
+60,1051705,5051051705,Portland Union Station Amtrak,505,1,163
+60,1051706,5051051706,Portland Union Station Amtrak,505,1,163
+60,1063431,5061063431,Seattle King Street Station Amtrak,506,0,166
+60,1063432,5061063432,Seattle King Street Station Amtrak,506,0,166
+60,1063433,5061063433,Seattle King Street Station Amtrak,506,0,166
+60,1063434,5061063434,Seattle King Street Station Amtrak,506,0,166
+60,1053992,5071053992,Eugene Amtrak,507,1,164
+60,1053985,5081053985,Seattle King Street Station Amtrak,508,0,166
+60,1053993,5091053993,Eugene Amtrak,509,1,164
+60,1053994,5101053994,Vancouver Pacific Central Station Amtrak,510,0,162
+60,1053995,5101053995,Vancouver Pacific Central Station Amtrak,510,0,162
+60,1053986,5131053986,Portland Union Station Amtrak,513,1,161
+60,1053996,5161053996,Vancouver Pacific Central Station Amtrak,516,0,170
+60,1053987,5171053987,Seattle King Street Station Amtrak,517,1,160
+60,1053988,5171053988,Seattle King Street Station Amtrak,517,1,160
+77,1061893,521061893,Lorton Amtrak,52,0,6
+77,1061894,531061894,Sanford Amtrak,53,1,5
+71,1052800,3641052800,Port Huron Amtrak,364,1,171
+71,1052801,3651052801,Chicago Union Station Amtrak,365,0,172
+96,1061897,51061897,Emeryville Amtrak,5,0,173
+96,1061898,61061898,Chicago Union Station Amtrak,6,1,174
+84,1057332,15501057332,Sacramento Amtrak,1550,0,57
+84,1053482,5201053482,Sacramento Amtrak,520,0,59
+84,1043524,5201043524,Sacramento Amtrak,520,0,59
+84,1043526,5201043526,Sacramento Amtrak,520,0,59
+84,1053513,5211053513,San Jose Diridon Station Amtrak,521,1,62
+84,1043655,5211043655,San Jose Diridon Station Amtrak,521,1,62
+84,1043657,5211043657,San Jose Diridon Station Amtrak,521,1,62
+84,1053483,5221053483,Sacramento Amtrak,522,0,59
+84,1043529,5221043529,Sacramento Amtrak,522,0,59
+84,1043531,5221043531,Sacramento Amtrak,522,0,59
+84,1053514,5231053514,San Jose Diridon Station Amtrak,523,1,62
+84,1043660,5231043660,San Jose Diridon Station Amtrak,523,1,62
+84,1043662,5231043662,San Jose Diridon Station Amtrak,523,1,62
+84,1053484,5241053484,Sacramento Amtrak,524,0,64
+84,1043534,5241043534,Sacramento Amtrak,524,0,64
+84,1043536,5241043536,Sacramento Amtrak,524,0,64
+84,1053516,5251053516,Oakland Coliseum Station Amtrak,525,1,60
+84,1043670,5251043670,Oakland Coliseum Station Amtrak,525,1,60
+84,1043672,5251043672,Oakland Coliseum Station Amtrak,525,1,60
+84,1053485,5271053485,San Jose Diridon Station Amtrak,527,1,62
+84,1043539,5271043539,San Jose Diridon Station Amtrak,527,1,62
+84,1043541,5271043541,San Jose Diridon Station Amtrak,527,1,62
+84,1053515,5281053515,Sacramento Amtrak,528,0,64
+84,1043665,5281043665,Sacramento Amtrak,528,0,64
+84,1043667,5281043667,Sacramento Amtrak,528,0,64
+84,1053486,5291053486,Oakland Coliseum Station Amtrak,529,1,56
+84,1043544,5291043544,Oakland Coliseum Station Amtrak,529,1,56
+84,1043546,5291043546,Oakland Coliseum Station Amtrak,529,1,56
+84,1053487,5301053487,Sacramento Amtrak,530,0,59
+84,1043549,5301043549,Sacramento Amtrak,530,0,59
+84,1043551,5301043551,Sacramento Amtrak,530,0,59
+84,1053517,5311053517,Oakland Coliseum Station Amtrak,531,1,60
+84,1043675,5311043675,Oakland Coliseum Station Amtrak,531,1,60
+84,1043677,5311043677,Oakland Coliseum Station Amtrak,531,1,60
+84,1053488,5321053488,Sacramento Amtrak,532,0,64
+84,1043554,5321043554,Sacramento Amtrak,532,0,64
+84,1043556,5321043556,Sacramento Amtrak,532,0,64
+84,1053489,5341053489,Sacramento Amtrak,534,0,59
+84,1043559,5341043559,Sacramento Amtrak,534,0,59
+84,1043561,5341043561,Sacramento Amtrak,534,0,59
+84,1053518,5351053518,San Jose Diridon Station Amtrak,535,1,62
+84,1043680,5351043680,San Jose Diridon Station Amtrak,535,1,62
+84,1043682,5351043682,San Jose Diridon Station Amtrak,535,1,62
+84,1053490,5361053490,Auburn Amtrak,536,0,58
+84,1043564,5361043564,Auburn Amtrak,536,0,58
+84,1043566,5361043566,Auburn Amtrak,536,0,58
+84,1053519,5371053519,San Jose Diridon Station Amtrak,537,1,62
+84,1043685,5371043685,San Jose Diridon Station Amtrak,537,1,62
+84,1043687,5371043687,San Jose Diridon Station Amtrak,537,1,62
+84,1053491,5381053491,Sacramento Amtrak,538,0,64
+84,1043569,5381043569,Sacramento Amtrak,538,0,64
+84,1043571,5381043571,Sacramento Amtrak,538,0,64
+84,1053492,5401053492,Sacramento Amtrak,540,0,59
+84,1043574,5401043574,Sacramento Amtrak,540,0,59
+84,1043576,5401043576,Sacramento Amtrak,540,0,59
+84,1053493,5411053493,Oakland Jack London Square Station,541,1,61
+84,1043579,5411043579,Oakland Jack London Square Station,541,1,61
+84,1043581,5411043581,Oakland Jack London Square Station,541,1,61
+84,1053494,5421053494,Sacramento Amtrak,542,0,64
+84,1043584,5421043584,Sacramento Amtrak,542,0,64
+84,1043586,5421043586,Sacramento Amtrak,542,0,64
+84,1053520,5431053520,San Jose Diridon Station Amtrak,543,1,62
+84,1043689,5431043689,San Jose Diridon Station Amtrak,543,1,62
+84,1043692,5431043692,San Jose Diridon Station Amtrak,543,1,62
+84,1053495,5441053495,Sacramento Amtrak,544,0,64
+84,1043589,5441043589,Sacramento Amtrak,544,0,64
+84,1043591,5441043591,Sacramento Amtrak,544,0,64
+84,1053521,5451053521,Oakland Jack London Square Station,545,1,61
+84,1043695,5451043695,Oakland Jack London Square Station,545,1,61
+84,1043697,5451043697,Oakland Jack London Square Station,545,1,61
+84,1053496,5461053496,Sacramento Amtrak,546,0,64
+84,1043594,5461043594,Sacramento Amtrak,546,0,64
+84,1043596,5461043596,Sacramento Amtrak,546,0,64
+84,1053497,5471053497,San Jose Diridon Station Amtrak,547,1,62
+84,1043599,5471043599,San Jose Diridon Station Amtrak,547,1,62
+84,1043601,5471043601,San Jose Diridon Station Amtrak,547,1,62
+84,1053498,5481053498,Sacramento Amtrak,548,0,59
+84,1043604,5481043604,Sacramento Amtrak,548,0,59
+84,1043606,5481043606,Sacramento Amtrak,548,0,59
+84,1055782,5491055782,Oakland Jack London Square Station,549,1,61
+84,1055783,5491055783,Oakland Jack London Square Station,549,1,61
+84,1055784,5491055784,Oakland Jack London Square Station,549,1,61
+84,1055786,5491055786,Oakland Jack London Square Station,549,1,61
+84,1055788,5491055788,Oakland Jack London Square Station,549,1,61
+84,1057723,5501057723,Sacramento Amtrak,550,0,57
+84,1057725,5501057725,Sacramento Amtrak,550,0,57
+84,1057727,5501057727,Sacramento Amtrak,550,0,57
+84,1057729,5501057729,Sacramento Amtrak,550,0,57
+84,1053499,5511053499,Oakland Jack London Square Station,551,1,61
+84,1043609,5511043609,Oakland Jack London Square Station,551,1,61
+84,1043611,5511043611,Oakland Jack London Square Station,551,1,61
+84,1053500,5531053500,Oakland Jack London Square Station,553,1,61
+84,1043614,5531043614,Oakland Jack London Square Station,553,1,61
+84,1043616,5531043616,Oakland Jack London Square Station,553,1,61
+84,1053523,7201053523,Sacramento Amtrak,720,0,59
+84,1043704,7201043704,Sacramento Amtrak,720,0,59
+84,1043705,7201043705,Sacramento Amtrak,720,0,59
+84,1053524,7231053524,San Jose Diridon Station Amtrak,723,1,62
+84,1043707,7231043707,San Jose Diridon Station Amtrak,723,1,62
+84,1043708,7231043708,San Jose Diridon Station Amtrak,723,1,62
+84,1053501,7241053501,Sacramento Amtrak,724,0,64
+84,1043618,7241043618,Sacramento Amtrak,724,0,64
+84,1043619,7241043619,Sacramento Amtrak,724,0,64
+84,1053525,7271053525,San Jose Diridon Station Amtrak,727,1,62
+84,1043710,7271043710,San Jose Diridon Station Amtrak,727,1,62
+84,1043711,7271043711,San Jose Diridon Station Amtrak,727,1,62
+84,1053502,7281053502,Sacramento Amtrak,728,0,64
+84,1043621,7281043621,Sacramento Amtrak,728,0,64
+84,1043622,7281043622,Sacramento Amtrak,728,0,64
+84,1053526,7291053526,Oakland Coliseum Station Amtrak,729,1,56
+84,1043713,7291043713,Oakland Coliseum Station Amtrak,729,1,56
+84,1043714,7291043714,Oakland Coliseum Station Amtrak,729,1,56
+84,1053503,7321053503,Sacramento Amtrak,732,0,59
+84,1043624,7321043624,Sacramento Amtrak,732,0,59
+84,1043625,7321043625,Sacramento Amtrak,732,0,59
+84,1053527,7331053527,San Jose Diridon Station Amtrak,733,1,62
+84,1043716,7331043716,San Jose Diridon Station Amtrak,733,1,62
+84,1043717,7331043717,San Jose Diridon Station Amtrak,733,1,62
+84,1053504,7341053504,Sacramento Amtrak,734,0,64
+84,1043627,7341043627,Sacramento Amtrak,734,0,64
+84,1043628,7341043628,Sacramento Amtrak,734,0,64
+84,1053528,7361053528,Sacramento Amtrak,736,0,64
+84,1043719,7361043719,Sacramento Amtrak,736,0,64
+84,1043720,7361043720,Sacramento Amtrak,736,0,64
+84,1053529,7371053529,San Jose Diridon Station Amtrak,737,1,62
+84,1043722,7371043722,San Jose Diridon Station Amtrak,737,1,62
+84,1043723,7371043723,San Jose Diridon Station Amtrak,737,1,62
+84,1053505,7381053505,Sacramento Amtrak,738,0,59
+84,1043630,7381043630,Sacramento Amtrak,738,0,59
+84,1043631,7381043631,Sacramento Amtrak,738,0,59
+84,1053506,7411053506,San Jose Diridon Station Amtrak,741,1,62
+84,1043633,7411043633,San Jose Diridon Station Amtrak,741,1,62
+84,1043634,7411043634,San Jose Diridon Station Amtrak,741,1,62
+84,1053507,7421053507,Auburn Amtrak,742,0,63
+84,1043636,7421043636,Auburn Amtrak,742,0,63
+84,1043637,7421043637,Auburn Amtrak,742,0,63
+84,1053508,7431053508,San Jose Diridon Station Amtrak,743,1,62
+84,1043639,7431043639,San Jose Diridon Station Amtrak,743,1,62
+84,1043640,7431043640,San Jose Diridon Station Amtrak,743,1,62
+84,1053509,7441053509,Sacramento Amtrak,744,0,64
+84,1043642,7441043642,Sacramento Amtrak,744,0,64
+84,1043643,7441043643,Sacramento Amtrak,744,0,64
+84,1053510,7451053510,Oakland Jack London Square Station,745,1,61
+84,1043645,7451043645,Oakland Jack London Square Station,745,1,61
+84,1043646,7451043646,Oakland Jack London Square Station,745,1,61
+84,1053511,7461053511,Sacramento Amtrak,746,0,59
+84,1043648,7461043648,Sacramento Amtrak,746,0,59
+84,1043649,7461043649,Sacramento Amtrak,746,0,59
+84,1053512,7471053512,San Jose Diridon Station Amtrak,747,1,62
+84,1043651,7471043651,San Jose Diridon Station Amtrak,747,1,62
+84,1043652,7471043652,San Jose Diridon Station Amtrak,747,1,62
+84,1053530,7481053530,Sacramento Amtrak,748,0,64
+84,1043725,7481043725,Sacramento Amtrak,748,0,64
+84,1043726,7481043726,Sacramento Amtrak,748,0,64
+84,1053532,7491053532,Oakland Jack London Square Station,749,1,61
+84,1043731,7491043731,Oakland Jack London Square Station,749,1,61
+84,1043732,7491043732,Oakland Jack London Square Station,749,1,61
+84,1053531,7511053531,Oakland Jack London Square Station,751,1,61
+84,1043728,7511043728,Oakland Jack London Square Station,751,1,61
+84,1043729,7511043729,Oakland Jack London Square Station,751,1,61
+53,1061853,291061853,Chicago Union Station Amtrak,29,0,66
+53,1061854,301061854,Washington Union Station Amtrak,30,1,65
+58,1061867,501061867,New York Penn Station,50,1,187
+58,1061868,501061868,New York Penn Station,50,1,187
+58,1058270,501058270,New York Penn Station,50,1,187
+58,1058271,501058271,New York Penn Station,50,1,187
+58,1061870,511061870,Chicago Union Station Amtrak,51,0,188
+58,1061869,511061869,Chicago Union Station Amtrak,51,0,188
+58,1058274,511058274,Chicago Union Station Amtrak,51,0,188
+58,1058275,511058275,Chicago Union Station Amtrak,51,0,188
+72,1052802,3811052802,Quincy Amtrak,381,0,69
+72,1052803,3821052803,Chicago Union Station Amtrak,382,1,70
+85,1063089,791063089,Charlotte Amtrak,79,1,178
+85,1063090,791063090,Charlotte Amtrak,79,1,178
+85,1063091,791063091,Charlotte Amtrak,79,1,178
+85,1063092,791063092,Charlotte Amtrak,79,1,178
+85,1063094,791063094,Charlotte Amtrak,79,1,178
+85,1063095,801063095,New York Penn Station,80,0,177
+85,1063096,801063096,New York Penn Station,80,0,177
+85,1063097,801063097,New York Penn Station,80,0,177
+85,1063098,801063098,New York Penn Station,80,0,177
+85,1063100,801063100,New York Penn Station,80,0,177
+62,1061871,581061871,Chicago Union Station Amtrak,58,0,74
+62,1061872,591061872,New Orleans Union Passenger Terminal Amtrak,59,1,73
+62,1061873,591061873,New Orleans Union Passenger Terminal Amtrak,59,1,73
+62,1061874,591061874,New Orleans Union Passenger Terminal Amtrak,59,1,73
+62,1061875,591061875,New Orleans Union Passenger Terminal Amtrak,59,1,73
+62,1061876,591061876,New Orleans Union Passenger Terminal Amtrak,59,1,73
+62,1061877,591061877,New Orleans Union Passenger Terminal Amtrak,59,1,73
+65,1065280,111065280,Los Angeles Union Station Amtrak,11,1,180
+65,1065281,111065281,Los Angeles Union Station Amtrak,11,1,180
+65,1065282,111065282,Los Angeles Union Station Amtrak,11,1,180
+65,1065283,141065283,Seattle King Street Station Amtrak,14,0,179
+65,1065284,141065284,Seattle King Street Station Amtrak,14,0,179
+65,1065285,141065285,Seattle King Street Station Amtrak,14,0,179
+89,1061865,191061865,New Orleans Union Passenger Terminal Amtrak,19,1,182
+89,1062184,201062184,New York Penn Station,20,0,181
+89,1062183,201062183,New York Penn Station,20,0,181
+61,1057392,6801057392,Boston North Station Amtrak,680,1,157
+61,1057394,6801057394,Boston North Station Amtrak,680,1,157
+61,1057396,6801057396,Boston North Station Amtrak,680,1,157
+61,1058550,6811058550,Brunswick Amtrak,681,0,152
+61,1058552,6811058552,Brunswick Amtrak,681,0,152
+61,1058553,6811058553,Brunswick Amtrak,681,0,152
+61,1058555,6811058555,Brunswick Amtrak,681,0,152
+61,1058557,6811058557,Brunswick Amtrak,681,0,152
+61,1058558,6811058558,Brunswick Amtrak,681,0,152
+61,1065289,6821065289,Boston North Station Amtrak,682,1,153
+61,1065290,6821065290,Boston North Station Amtrak,682,1,153
+61,1065291,6821065291,Boston North Station Amtrak,682,1,153
+61,1065292,6821065292,Boston North Station Amtrak,682,1,153
+61,1065293,6821065293,Boston North Station Amtrak,682,1,153
+61,1065295,6821065295,Boston North Station Amtrak,682,1,153
+61,1065287,6821065287,Boston North Station Amtrak,682,1,153
+61,1065288,6821065288,Boston North Station Amtrak,682,1,153
+61,1059173,6831059173,Portland Transportation Center Amtrak,683,0,156
+61,1058561,6831058561,Portland Transportation Center Amtrak,683,0,156
+61,1058562,6831058562,Portland Transportation Center Amtrak,683,0,156
+61,1058564,6831058564,Portland Transportation Center Amtrak,683,0,156
+61,1058566,6831058566,Portland Transportation Center Amtrak,683,0,156
+61,1058567,6831058567,Portland Transportation Center Amtrak,683,0,156
+61,1059091,6841059091,Boston North Station Amtrak,684,1,157
+61,1058534,6841058534,Boston North Station Amtrak,684,1,157
+61,1058535,6841058535,Boston North Station Amtrak,684,1,157
+61,1058537,6841058537,Boston North Station Amtrak,684,1,157
+61,1058539,6841058539,Boston North Station Amtrak,684,1,157
+61,1058540,6841058540,Boston North Station Amtrak,684,1,157
+61,1059092,6851059092,Brunswick Amtrak,685,0,152
+61,1057412,6851057412,Brunswick Amtrak,685,0,152
+61,1057414,6851057414,Brunswick Amtrak,685,0,152
+61,1057416,6851057416,Brunswick Amtrak,685,0,152
+61,1057417,6851057417,Brunswick Amtrak,685,0,152
+61,1058541,6861058541,Boston North Station Amtrak,686,1,157
+61,1058543,6861058543,Boston North Station Amtrak,686,1,157
+61,1058544,6861058544,Boston North Station Amtrak,686,1,157
+61,1058546,6861058546,Boston North Station Amtrak,686,1,157
+61,1058548,6861058548,Boston North Station Amtrak,686,1,157
+61,1058549,6861058549,Boston North Station Amtrak,686,1,157
+61,1059094,6871059094,Portland Transportation Center Amtrak,687,0,156
+61,1059093,6871059093,Portland Transportation Center Amtrak,687,0,156
+61,1057427,6871057427,Portland Transportation Center Amtrak,687,0,156
+61,1057428,6871057428,Portland Transportation Center Amtrak,687,0,156
+61,1057430,6871057430,Portland Transportation Center Amtrak,687,0,156
+61,1057432,6871057432,Portland Transportation Center Amtrak,687,0,156
+61,1057433,6871057433,Portland Transportation Center Amtrak,687,0,156
+61,1057434,6871057434,Portland Transportation Center Amtrak,687,0,156
+61,1059095,6881059095,Boston North Station Amtrak,688,1,153
+61,1057436,6881057436,Boston North Station Amtrak,688,1,153
+61,1057438,6881057438,Boston North Station Amtrak,688,1,153
+61,1057440,6881057440,Boston North Station Amtrak,688,1,153
+61,1057441,6881057441,Boston North Station Amtrak,688,1,153
+61,1065296,6891065296,Portland Transportation Center Amtrak,689,0,156
+61,1065297,6891065297,Portland Transportation Center Amtrak,689,0,156
+61,1065298,6891065298,Portland Transportation Center Amtrak,689,0,156
+61,1065299,6891065299,Portland Transportation Center Amtrak,689,0,156
+61,1065300,6891065300,Portland Transportation Center Amtrak,689,0,156
+61,1065301,6891065301,Portland Transportation Center Amtrak,689,0,156
+61,1065302,6891065302,Portland Transportation Center Amtrak,689,0,156
+61,1065303,6891065303,Portland Transportation Center Amtrak,689,0,156
+61,1065304,6891065304,Portland Transportation Center Amtrak,689,0,156
+61,1065306,6891065306,Portland Transportation Center Amtrak,689,0,156
+61,1065307,6891065307,Portland Transportation Center Amtrak,689,0,156
+61,1065308,6891065308,Portland Transportation Center Amtrak,689,0,156
+61,1065309,6891065309,Portland Transportation Center Amtrak,689,0,156
+61,1065310,6891065310,Portland Transportation Center Amtrak,689,0,156
+61,1065311,6891065311,Portland Transportation Center Amtrak,689,0,156
+61,1065312,6891065312,Portland Transportation Center Amtrak,689,0,156
+61,1065325,6891065325,Portland Transportation Center Amtrak,689,0,156
+61,1065313,6891065313,Portland Transportation Center Amtrak,689,0,156
+61,1065314,6891065314,Portland Transportation Center Amtrak,689,0,156
+61,1065315,6891065315,Portland Transportation Center Amtrak,689,0,156
+61,1065316,6891065316,Portland Transportation Center Amtrak,689,0,156
+61,1065317,6891065317,Portland Transportation Center Amtrak,689,0,156
+61,1065318,6891065318,Portland Transportation Center Amtrak,689,0,156
+61,1065319,6891065319,Portland Transportation Center Amtrak,689,0,156
+61,1065320,6891065320,Portland Transportation Center Amtrak,689,0,156
+61,1065321,6891065321,Portland Transportation Center Amtrak,689,0,156
+61,1065322,6891065322,Portland Transportation Center Amtrak,689,0,156
+61,1065323,6891065323,Portland Transportation Center Amtrak,689,0,156
+61,1065324,6891065324,Portland Transportation Center Amtrak,689,0,156
+61,1065326,6891065326,Portland Transportation Center Amtrak,689,0,156
+61,1065327,6891065327,Portland Transportation Center Amtrak,689,0,156
+61,1065328,6891065328,Portland Transportation Center Amtrak,689,0,156
+61,1065329,6891065329,Portland Transportation Center Amtrak,689,0,156
+61,1065330,6891065330,Portland Transportation Center Amtrak,689,0,156
+61,1065331,6891065331,Portland Transportation Center Amtrak,689,0,156
+61,1065332,6891065332,Portland Transportation Center Amtrak,689,0,156
+61,1065333,6891065333,Portland Transportation Center Amtrak,689,0,156
+61,1065334,6891065334,Portland Transportation Center Amtrak,689,0,156
+61,1065335,6891065335,Portland Transportation Center Amtrak,689,0,156
+61,1065336,6891065336,Portland Transportation Center Amtrak,689,0,156
+61,1065337,6891065337,Portland Transportation Center Amtrak,689,0,156
+61,1065338,6891065338,Portland Transportation Center Amtrak,689,0,156
+61,1065339,6891065339,Portland Transportation Center Amtrak,689,0,156
+61,1065340,6891065340,Portland Transportation Center Amtrak,689,0,156
+61,1059136,6901059136,Boston North Station Amtrak,690,1,157
+61,1057443,6901057443,Boston North Station Amtrak,690,1,157
+61,1057444,6901057444,Boston North Station Amtrak,690,1,157
+61,1057445,6901057445,Boston North Station Amtrak,690,1,157
+61,1057446,6901057446,Boston North Station Amtrak,690,1,157
+61,1059468,6911059468,Brunswick Amtrak,691,0,152
+61,1057450,6911057450,Brunswick Amtrak,691,0,152
+61,1057451,6911057451,Brunswick Amtrak,691,0,152
+61,1057447,6911057447,Brunswick Amtrak,691,0,152
+61,1057448,6911057448,Brunswick Amtrak,691,0,152
+61,1059138,6921059138,Boston North Station Amtrak,692,1,153
+61,1057453,6921057453,Boston North Station Amtrak,692,1,153
+61,1057454,6921057454,Boston North Station Amtrak,692,1,153
+61,1057455,6921057455,Boston North Station Amtrak,692,1,153
+61,1057456,6921057456,Boston North Station Amtrak,692,1,153
+61,1059139,6931059139,Portland Transportation Center Amtrak,693,0,156
+61,1057458,6931057458,Portland Transportation Center Amtrak,693,0,156
+61,1057459,6931057459,Portland Transportation Center Amtrak,693,0,156
+61,1057460,6931057460,Portland Transportation Center Amtrak,693,0,156
+61,1057461,6931057461,Portland Transportation Center Amtrak,693,0,156
+61,1059140,6941059140,Boston North Station Amtrak,694,1,157
+61,1057462,6941057462,Boston North Station Amtrak,694,1,157
+61,1057464,6941057464,Boston North Station Amtrak,694,1,157
+61,1057465,6941057465,Boston North Station Amtrak,694,1,157
+61,1057466,6941057466,Boston North Station Amtrak,694,1,157
+61,1059168,6951059168,Brunswick Amtrak,695,0,152
+61,1057468,6951057468,Brunswick Amtrak,695,0,152
+61,1057469,6951057469,Brunswick Amtrak,695,0,152
+61,1057470,6951057470,Brunswick Amtrak,695,0,152
+61,1057471,6951057471,Brunswick Amtrak,695,0,152
+61,1059169,6961059169,Boston North Station Amtrak,696,1,157
+61,1057473,6961057473,Boston North Station Amtrak,696,1,157
+61,1057474,6961057474,Boston North Station Amtrak,696,1,157
+61,1057475,6961057475,Boston North Station Amtrak,696,1,157
+61,1057476,6961057476,Boston North Station Amtrak,696,1,157
+61,1059170,6971059170,Portland Transportation Center Amtrak,697,0,156
+61,1059171,6971059171,Portland Transportation Center Amtrak,697,0,156
+61,1057479,6971057479,Portland Transportation Center Amtrak,697,0,156
+61,1057480,6971057480,Portland Transportation Center Amtrak,697,0,156
+61,1057481,6971057481,Portland Transportation Center Amtrak,697,0,156
+61,1057482,6971057482,Portland Transportation Center Amtrak,697,0,156
+61,1057483,6971057483,Portland Transportation Center Amtrak,697,0,156
+61,1057484,6971057484,Portland Transportation Center Amtrak,697,0,156
+61,1057485,6971057485,Portland Transportation Center Amtrak,697,0,156
+61,1059172,6981059172,Boston North Station Amtrak,698,1,153
+61,1057487,6981057487,Boston North Station Amtrak,698,1,153
+61,1057488,6981057488,Boston North Station Amtrak,698,1,153
+61,1057489,6981057489,Boston North Station Amtrak,698,1,153
+61,1057490,6981057490,Boston North Station Amtrak,698,1,153
+61,1059469,6991059469,Portland Transportation Center Amtrak,699,0,156
+61,1059470,6991059470,Portland Transportation Center Amtrak,699,0,156
+61,1059471,6991059471,Portland Transportation Center Amtrak,699,0,156
+61,1059472,6991059472,Portland Transportation Center Amtrak,699,0,156
+61,1059473,6991059473,Portland Transportation Center Amtrak,699,0,156
+61,1059474,6991059474,Portland Transportation Center Amtrak,699,0,156
+61,1059475,6991059475,Portland Transportation Center Amtrak,699,0,156
+61,1059476,6991059476,Portland Transportation Center Amtrak,699,0,156
+61,1059477,6991059477,Portland Transportation Center Amtrak,699,0,156
+61,1059478,6991059478,Portland Transportation Center Amtrak,699,0,156
+61,1059479,6991059479,Portland Transportation Center Amtrak,699,0,156
+61,1059480,6991059480,Portland Transportation Center Amtrak,699,0,156
+61,1059481,6991059481,Portland Transportation Center Amtrak,699,0,156
+61,1059482,6991059482,Portland Transportation Center Amtrak,699,0,156
+61,1059483,6991059483,Portland Transportation Center Amtrak,699,0,156
+61,1059484,6991059484,Portland Transportation Center Amtrak,699,0,156
+61,1059485,6991059485,Portland Transportation Center Amtrak,699,0,156
+61,1059486,6991059486,Portland Transportation Center Amtrak,699,0,156
+61,1059487,6991059487,Portland Transportation Center Amtrak,699,0,156
+61,1059488,6991059488,Portland Transportation Center Amtrak,699,0,156
+61,1059489,6991059489,Portland Transportation Center Amtrak,699,0,156
+61,1059490,6991059490,Portland Transportation Center Amtrak,699,0,156
+61,1059491,6991059491,Portland Transportation Center Amtrak,699,0,156
+61,1059492,6991059492,Portland Transportation Center Amtrak,699,0,156
+61,1059493,6991059493,Portland Transportation Center Amtrak,699,0,156
+61,1059494,6991059494,Portland Transportation Center Amtrak,699,0,156
+61,1059495,6991059495,Portland Transportation Center Amtrak,699,0,156
+61,1059496,6991059496,Portland Transportation Center Amtrak,699,0,156
+61,1059497,6991059497,Portland Transportation Center Amtrak,699,0,156
+61,1059498,6991059498,Portland Transportation Center Amtrak,699,0,156
+61,1059499,6991059499,Portland Transportation Center Amtrak,699,0,156
+75,1062744,271062744,Portland Union Station Amtrak,27,0,11
+75,1062745,271062745,Portland Union Station Amtrak,27,0,11
+75,1062746,271062746,Portland Union Station Amtrak,27,0,11
+75,1062741,281062741,Chicago Union Station Amtrak,28,1,13
+75,1062742,281062742,Chicago Union Station Amtrak,28,1,13
+75,1062743,281062743,Chicago Union Station Amtrak,28,1,13
+75,1062747,71062747,Seattle King Street Station Amtrak,7,0,184
+75,1062748,71062748,Seattle King Street Station Amtrak,7,0,184
+75,1062749,71062749,Seattle King Street Station Amtrak,7,0,184
+75,1062750,81062750,Chicago Union Station Amtrak,8,1,186
+75,1061320,81061320,Chicago Union Station Amtrak,8,1,186
+75,1062751,81062751,Chicago Union Station Amtrak,8,1,186
+75,1062752,81062752,Chicago Union Station Amtrak,8,1,186
+74,1056534,2301056534,New York Penn Station,230,1,136
+74,1055897,2301055897,New York Penn Station,230,1,136
+74,1055473,2301055473,New York Penn Station,230,1,136
+74,1055475,2301055475,New York Penn Station,230,1,136
+74,1052712,2321052712,New York Penn Station,232,1,136
+74,1046770,2321046770,New York Penn Station,232,1,136
+74,1046772,2321046772,New York Penn Station,232,1,136
+74,1052714,2331052714,Albany-Rensselaer Amtrak,233,0,138
+74,1052720,2341052720,New York Penn Station,234,1,136
+74,1046782,2341046782,New York Penn Station,234,1,136
+74,1046784,2341046784,New York Penn Station,234,1,136
+74,1056535,2351056535,Albany-Rensselaer Amtrak,235,0,138
+74,1055900,2351055900,Albany-Rensselaer Amtrak,235,0,138
+74,1055481,2351055481,Albany-Rensselaer Amtrak,235,0,138
+74,1055476,2351055476,Albany-Rensselaer Amtrak,235,0,138
+74,1052721,2361052721,New York Penn Station,236,1,136
+74,1046786,2361046786,New York Penn Station,236,1,136
+74,1046788,2361046788,New York Penn Station,236,1,136
+74,1055901,2371055901,Albany-Rensselaer Amtrak,237,0,138
+74,1055902,2371055902,Albany-Rensselaer Amtrak,237,0,138
+74,1055904,2371055904,Albany-Rensselaer Amtrak,237,0,138
+74,1055906,2371055906,Albany-Rensselaer Amtrak,237,0,138
+74,1052722,2381052722,New York Penn Station,238,1,136
+74,1050101,2381050101,New York Penn Station,238,1,136
+74,1050102,2381050102,New York Penn Station,238,1,136
+74,1056536,2391056536,Albany-Rensselaer Amtrak,239,0,138
+74,1055910,2391055910,Albany-Rensselaer Amtrak,239,0,138
+74,1055912,2391055912,Albany-Rensselaer Amtrak,239,0,138
+74,1055914,2391055914,Albany-Rensselaer Amtrak,239,0,138
+74,1050139,2401050139,New York Penn Station,240,1,136
+74,1055918,2411055918,Albany-Rensselaer Amtrak,241,0,138
+74,1055919,2411055919,Albany-Rensselaer Amtrak,241,0,138
+74,1056537,2421056537,New York Penn Station,242,1,136
+74,1055917,2421055917,New York Penn Station,242,1,136
+74,1055494,2421055494,New York Penn Station,242,1,136
+74,1055496,2421055496,New York Penn Station,242,1,136
+74,1055925,2431055925,Albany-Rensselaer Amtrak,243,0,138
+74,1055920,2431055920,Albany-Rensselaer Amtrak,243,0,138
+74,1055922,2431055922,Albany-Rensselaer Amtrak,243,0,138
+74,1055924,2431055924,Albany-Rensselaer Amtrak,243,0,138
+74,1052731,2441052731,New York Penn Station,244,1,136
+74,1055926,2451055926,Albany-Rensselaer Amtrak,245,0,138
+74,1055927,2451055927,Albany-Rensselaer Amtrak,245,0,138
+74,1055929,2451055929,Albany-Rensselaer Amtrak,245,0,138
+74,1055931,2451055931,Albany-Rensselaer Amtrak,245,0,138
+74,1052743,2501052743,New York Penn Station,250,1,136
+74,1046815,2501046815,New York Penn Station,250,1,136
+74,1046816,2501046816,New York Penn Station,250,1,136
+74,1052742,2521052742,New York Penn Station,252,1,136
+74,1046812,2521046812,New York Penn Station,252,1,136
+74,1046813,2521046813,New York Penn Station,252,1,136
+74,1052744,2531052744,Albany-Rensselaer Amtrak,253,0,138
+74,1046818,2531046818,Albany-Rensselaer Amtrak,253,0,138
+74,1046819,2531046819,Albany-Rensselaer Amtrak,253,0,138
+74,1052745,2541052745,New York Penn Station,254,1,136
+74,1040506,2541040506,New York Penn Station,254,1,136
+74,1040507,2541040507,New York Penn Station,254,1,136
+74,1052746,2551052746,Albany-Rensselaer Amtrak,255,0,138
+74,1052762,2561052762,New York Penn Station,256,1,136
+74,1040520,2561040520,New York Penn Station,256,1,136
+74,1040521,2561040521,New York Penn Station,256,1,136
+74,1055961,2591055961,Albany-Rensselaer Amtrak,259,0,138
+74,1055958,2591055958,Albany-Rensselaer Amtrak,259,0,138
+74,1055959,2591055959,Albany-Rensselaer Amtrak,259,0,138
+74,1055960,2591055960,Albany-Rensselaer Amtrak,259,0,138
+74,1052764,2601052764,New York Penn Station,260,1,136
+74,1046827,2601046827,New York Penn Station,260,1,136
+74,1046828,2601046828,New York Penn Station,260,1,136
+74,1055935,2611055935,Albany-Rensselaer Amtrak,261,0,138
+74,1055932,2611055932,Albany-Rensselaer Amtrak,261,0,138
+74,1055933,2611055933,Albany-Rensselaer Amtrak,261,0,138
+74,1055934,2611055934,Albany-Rensselaer Amtrak,261,0,138
+74,1055936,2801055936,New York Penn Station,280,1,137
+74,1055937,2801055937,New York Penn Station,280,1,137
+74,1055939,2801055939,New York Penn Station,280,1,137
+74,1055940,2801055940,New York Penn Station,280,1,137
+74,1055941,2801055941,New York Penn Station,280,1,137
+74,1055943,2801055943,New York Penn Station,280,1,137
+74,1055945,2801055945,New York Penn Station,280,1,137
+74,1055947,2801055947,New York Penn Station,280,1,137
+74,1055948,2811055948,Niagara Falls Amtrak,281,0,139
+74,1050860,2811050860,Niagara Falls Amtrak,281,0,139
+74,1050861,2811050861,Niagara Falls Amtrak,281,0,139
+74,1050862,2811050862,Niagara Falls Amtrak,281,0,139
+74,1050863,2811050863,Niagara Falls Amtrak,281,0,139
+74,1050864,2811050864,Niagara Falls Amtrak,281,0,139
+74,1050138,2821050138,New York Penn Station,282,1,137
+74,1055949,2831055949,Niagara Falls Amtrak,283,0,139
+74,1050866,2831050866,Niagara Falls Amtrak,283,0,139
+74,1050867,2831050867,Niagara Falls Amtrak,283,0,139
+74,1050868,2831050868,Niagara Falls Amtrak,283,0,139
+74,1055950,2841055950,New York Penn Station,284,1,137
+74,1055951,2841055951,New York Penn Station,284,1,137
+74,1055952,2841055952,New York Penn Station,284,1,137
+74,1055953,2841055953,New York Penn Station,284,1,137
+74,1055954,2841055954,New York Penn Station,284,1,137
+74,1055955,2841055955,New York Penn Station,284,1,137
+74,1055956,2841055956,New York Penn Station,284,1,137
+74,1055957,2881055957,New York Penn Station,288,1,137
+74,1050876,2881050876,New York Penn Station,288,1,137
+74,1050878,2881050878,New York Penn Station,288,1,137
+74,1050879,2881050879,New York Penn Station,288,1,137
+74,1050880,2881050880,New York Penn Station,288,1,137
+74,1050881,2881050881,New York Penn Station,288,1,137
+74,1050883,2881050883,New York Penn Station,288,1,137
+74,1050884,2881050884,New York Penn Station,288,1,137
+82,1052833,2901052833,New York Penn Station,290,1,16
+82,1050949,2901050949,New York Penn Station,290,1,16
+82,1050951,2901050951,New York Penn Station,290,1,16
+82,1050953,2901050953,New York Penn Station,290,1,16
+82,1052835,2911052835,Rutland Amtrak,291,0,15
+82,1052837,2921052837,New York Penn Station,292,1,16
+82,1046853,2921046853,New York Penn Station,292,1,16
+82,1046854,2921046854,New York Penn Station,292,1,16
+82,1052834,2931052834,Rutland Amtrak,293,0,15
+82,1052836,2961052836,New York Penn Station,296,1,16
+82,1040546,2961040546,New York Penn Station,296,1,16
+82,1040547,2961040547,New York Penn Station,296,1,16
+86,1054000,8211054000,Fort Worth Intermodal Transportation Center,821,1,18
+86,1054001,8221054001,Oklahoma City Amtrak,822,0,17
+54,1065884,3291065884,Milwaukee Intermodal Station Amtrak,329,0,19
+54,984665,329984665,Milwaukee Intermodal Station Amtrak,329,0,19
+54,1065886,3301065886,Chicago Union Station Amtrak,330,1,20
+54,984668,330984668,Chicago Union Station Amtrak,330,1,20
+54,1065888,3311065888,Milwaukee Intermodal Station Amtrak,331,0,19
+54,1065889,3311065889,Milwaukee Intermodal Station Amtrak,331,0,19
+54,1065890,3321065890,Chicago Union Station Amtrak,332,1,20
+54,1065891,3321065891,Chicago Union Station Amtrak,332,1,20
+54,1065864,3331065864,Milwaukee Intermodal Station Amtrak,333,0,19
+54,1065865,3331065865,Milwaukee Intermodal Station Amtrak,333,0,19
+54,1065866,3341065866,Chicago Union Station Amtrak,334,1,20
+54,1065867,3341065867,Chicago Union Station Amtrak,334,1,20
+54,1065868,3351065868,Milwaukee Intermodal Station Amtrak,335,0,19
+54,1065869,3351065869,Milwaukee Intermodal Station Amtrak,335,0,19
+54,1065870,3361065870,Chicago Union Station Amtrak,336,1,20
+54,1065871,3361065871,Chicago Union Station Amtrak,336,1,20
+54,1065872,3371065872,Milwaukee Intermodal Station Amtrak,337,0,19
+54,1065873,3371065873,Milwaukee Intermodal Station Amtrak,337,0,19
+54,1065874,3381065874,Chicago Union Station Amtrak,338,1,20
+54,1065875,3381065875,Chicago Union Station Amtrak,338,1,20
+54,1065876,3391065876,Milwaukee Intermodal Station Amtrak,339,0,19
+54,1065877,3391065877,Milwaukee Intermodal Station Amtrak,339,0,19
+54,1065878,3401065878,Chicago Union Station Amtrak,340,1,20
+54,1065879,3401065879,Chicago Union Station Amtrak,340,1,20
+54,1065880,3411065880,Milwaukee Intermodal Station Amtrak,341,0,19
+54,1065881,3411065881,Milwaukee Intermodal Station Amtrak,341,0,19
+54,1065882,3421065882,Chicago Union Station Amtrak,342,1,20
+54,1065883,3421065883,Chicago Union Station Amtrak,342,1,20
+54,1065892,3431065892,Milwaukee Intermodal Station Amtrak,343,0,19
+54,1065893,3431065893,Milwaukee Intermodal Station Amtrak,343,0,19
+54,1065894,3441065894,Chicago Union Station Amtrak,344,1,20
+54,1065895,3441065895,Chicago Union Station Amtrak,344,1,20
+54,1065896,3441065896,Chicago Union Station Amtrak,344,1,20
+54,1065897,3441065897,Chicago Union Station Amtrak,344,1,20
+54,1065898,3441065898,Chicago Union Station Amtrak,344,1,20
+54,1065899,3441065899,Chicago Union Station Amtrak,344,1,20
+59,1058276,8501058276,Indianapolis Amtrak,850,1,140
+59,1058277,8501058277,Indianapolis Amtrak,850,1,140
+59,1058279,8511058279,Chicago Union Station Amtrak,851,0,141
+59,1058278,8511058278,Chicago Union Station Amtrak,851,0,141
+56,1060222,3921060222,Chicago Union Station Amtrak,392,0,121
+56,1060223,3921060223,Chicago Union Station Amtrak,392,0,121
+56,1060224,3921060224,Chicago Union Station Amtrak,392,0,121
+56,1060225,3921060225,Chicago Union Station Amtrak,392,0,121
+56,1053469,3931053469,Carbondale Amtrak,393,1,122
+93,1053466,3801053466,Chicago Union Station Amtrak,380,1,124
+93,1053467,3831053467,Quincy Amtrak,383,0,123
+94,1055071,6001055071,Philadelphia 30th Street Station Amtrak,600,1,22
+94,1055073,6001055073,Philadelphia 30th Street Station Amtrak,600,1,22
+94,1055075,6001055075,Philadelphia 30th Street Station Amtrak,600,1,22
+94,1054995,6011054995,Harrisburg Amtrak,601,0,25
+94,1054997,6011054997,Harrisburg Amtrak,601,0,25
+94,1054999,6011054999,Harrisburg Amtrak,601,0,25
+94,1055076,6051055076,Harrisburg Amtrak,605,0,25
+94,1055078,6051055078,Harrisburg Amtrak,605,0,25
+94,1055080,6051055080,Harrisburg Amtrak,605,0,25
+94,1055081,6071055081,Harrisburg Amtrak,607,0,25
+94,1055083,6071055083,Harrisburg Amtrak,607,0,25
+94,1055085,6071055085,Harrisburg Amtrak,607,0,25
+94,1055087,6091055087,Harrisburg Amtrak,609,0,25
+94,1055088,6091055088,Harrisburg Amtrak,609,0,25
+94,1055090,6091055090,Harrisburg Amtrak,609,0,25
+94,1053940,6101053940,Philadelphia 30th Street Station Amtrak,610,1,22
+94,1052081,6101052081,Philadelphia 30th Street Station Amtrak,610,1,22
+94,1053969,6111053969,Harrisburg Amtrak,611,0,25
+94,1052165,6111052165,Harrisburg Amtrak,611,0,25
+94,1053970,6121053970,Philadelphia 30th Street Station Amtrak,612,1,22
+94,1052168,6121052168,Philadelphia 30th Street Station Amtrak,612,1,22
+94,1052169,6121052169,Philadelphia 30th Street Station Amtrak,612,1,22
+94,1052170,6121052170,Philadelphia 30th Street Station Amtrak,612,1,22
+94,1053941,6151053941,Harrisburg Amtrak,615,0,25
+94,1052084,6151052084,Harrisburg Amtrak,615,0,25
+94,1052085,6151052085,Harrisburg Amtrak,615,0,25
+94,1052086,6151052086,Harrisburg Amtrak,615,0,25
+94,1055092,6181055092,Philadelphia 30th Street Station Amtrak,618,1,22
+94,1055093,6181055093,Philadelphia 30th Street Station Amtrak,618,1,22
+94,1055096,6181055096,Philadelphia 30th Street Station Amtrak,618,1,22
+94,1055000,6191055000,Harrisburg Amtrak,619,0,25
+94,1055001,6191055001,Harrisburg Amtrak,619,0,25
+94,1055003,6191055003,Harrisburg Amtrak,619,0,25
+94,1055005,6191055005,Harrisburg Amtrak,619,0,25
+94,1055006,6201055006,Philadelphia 30th Street Station Amtrak,620,1,22
+94,1055008,6201055008,Philadelphia 30th Street Station Amtrak,620,1,22
+94,1055010,6201055010,Philadelphia 30th Street Station Amtrak,620,1,22
+94,1055011,6221055011,Philadelphia 30th Street Station Amtrak,622,1,22
+94,1055013,6221055013,Philadelphia 30th Street Station Amtrak,622,1,22
+94,1055015,6221055015,Philadelphia 30th Street Station Amtrak,622,1,22
+94,1053972,6371053972,Philadelphia 30th Street Station Amtrak,637,1,24
+94,1052178,6371052178,Philadelphia 30th Street Station Amtrak,637,1,24
+94,1052179,6371052179,Philadelphia 30th Street Station Amtrak,637,1,24
+94,1052180,6371052180,Philadelphia 30th Street Station Amtrak,637,1,24
+94,1055016,6391055016,Philadelphia 30th Street Station Amtrak,639,1,24
+94,1055018,6391055018,Philadelphia 30th Street Station Amtrak,639,1,24
+94,1055020,6391055020,Philadelphia 30th Street Station Amtrak,639,1,24
+94,1055973,6401055973,New York Penn Station,640,1,21
+94,1055974,6401055974,New York Penn Station,640,1,21
+94,1055975,6401055975,New York Penn Station,640,1,21
+94,1055507,6401055507,New York Penn Station,640,1,21
+94,1055509,6401055509,New York Penn Station,640,1,21
+94,1055097,6411055097,Harrisburg Amtrak,641,0,23
+94,1055099,6411055099,Harrisburg Amtrak,641,0,23
+94,1055101,6411055101,Harrisburg Amtrak,641,0,23
+94,1055985,6421055985,New York Penn Station,642,1,21
+94,1055986,6421055986,New York Penn Station,642,1,21
+94,1055987,6421055987,New York Penn Station,642,1,21
+94,1055535,6421055535,New York Penn Station,642,1,21
+94,1055537,6421055537,New York Penn Station,642,1,21
+94,1055976,6431055976,Harrisburg Amtrak,643,0,23
+94,1055977,6431055977,Harrisburg Amtrak,643,0,23
+94,1055978,6431055978,Harrisburg Amtrak,643,0,23
+94,1055514,6431055514,Harrisburg Amtrak,643,0,23
+94,1055516,6431055516,Harrisburg Amtrak,643,0,23
+94,1055031,6441055031,New York Penn Station,644,1,21
+94,1055033,6441055033,New York Penn Station,644,1,21
+94,1055035,6441055035,New York Penn Station,644,1,21
+94,1055107,6451055107,Harrisburg Amtrak,645,0,23
+94,1055109,6451055109,Harrisburg Amtrak,645,0,23
+94,1055111,6451055111,Harrisburg Amtrak,645,0,23
+94,1055036,6461055036,New York Penn Station,646,1,21
+94,1055038,6461055038,New York Penn Station,646,1,21
+94,1055040,6461055040,New York Penn Station,646,1,21
+94,1055112,6471055112,Harrisburg Amtrak,647,0,23
+94,1055114,6471055114,Harrisburg Amtrak,647,0,23
+94,1055116,6471055116,Harrisburg Amtrak,647,0,23
+94,1055041,6481055041,New York Penn Station,648,1,21
+94,1055043,6481055043,New York Penn Station,648,1,21
+94,1055045,6481055045,New York Penn Station,648,1,21
+94,1055046,6491055046,Harrisburg Amtrak,649,0,23
+94,1055048,6491055048,Harrisburg Amtrak,649,0,23
+94,1055050,6491055050,Harrisburg Amtrak,649,0,23
+94,1055988,6501055988,New York Penn Station,650,1,21
+94,1055989,6501055989,New York Penn Station,650,1,21
+94,1055990,6501055990,New York Penn Station,650,1,21
+94,1055542,6501055542,New York Penn Station,650,1,21
+94,1055544,6501055544,New York Penn Station,650,1,21
+94,1055979,6511055979,Harrisburg Amtrak,651,0,23
+94,1055980,6511055980,Harrisburg Amtrak,651,0,23
+94,1055981,6511055981,Harrisburg Amtrak,651,0,23
+94,1055521,6511055521,Harrisburg Amtrak,651,0,23
+94,1055523,6511055523,Harrisburg Amtrak,651,0,23
+94,1055982,6521055982,New York Penn Station,652,1,21
+94,1055983,6521055983,New York Penn Station,652,1,21
+94,1055984,6521055984,New York Penn Station,652,1,21
+94,1055528,6521055528,New York Penn Station,652,1,21
+94,1055530,6521055530,New York Penn Station,652,1,21
+94,1055991,6531055991,Harrisburg Amtrak,653,0,23
+94,1055992,6531055992,Harrisburg Amtrak,653,0,23
+94,1055993,6531055993,Harrisburg Amtrak,653,0,23
+94,1055549,6531055549,Harrisburg Amtrak,653,0,23
+94,1055551,6531055551,Harrisburg Amtrak,653,0,23
+94,1055061,6541055061,New York Penn Station,654,1,21
+94,1055063,6541055063,New York Penn Station,654,1,21
+94,1055065,6541055065,New York Penn Station,654,1,21
+94,1055994,6551055994,Harrisburg Amtrak,655,0,23
+94,1055995,6551055995,Harrisburg Amtrak,655,0,23
+94,1055996,6551055996,Harrisburg Amtrak,655,0,23
+94,1055556,6551055556,Harrisburg Amtrak,655,0,23
+94,1055558,6551055558,Harrisburg Amtrak,655,0,23
+94,1055066,6561055066,New York Penn Station,656,1,21
+94,1055068,6561055068,New York Penn Station,656,1,21
+94,1055070,6561055070,New York Penn Station,656,1,21
+94,1053957,6581053957,New York Penn Station,658,1,21
+94,1052131,6581052131,New York Penn Station,658,1,21
+94,1053958,6601053958,New York Penn Station,660,1,21
+94,1052133,6601052133,New York Penn Station,660,1,21
+94,1052134,6601052134,New York Penn Station,660,1,21
+94,1053959,6611053959,Harrisburg Amtrak,661,0,23
+94,1052136,6611052136,Harrisburg Amtrak,661,0,23
+94,1052137,6611052137,Harrisburg Amtrak,661,0,23
+94,1053960,6621053960,New York Penn Station,662,1,21
+94,1052139,6621052139,New York Penn Station,662,1,21
+94,1053980,6631053980,Harrisburg Amtrak,663,0,23
+94,1052203,6631052203,Harrisburg Amtrak,663,0,23
+94,1052204,6631052204,Harrisburg Amtrak,663,0,23
+94,1053961,6641053961,New York Penn Station,664,1,21
+94,1052141,6641052141,New York Penn Station,664,1,21
+94,1052142,6641052142,New York Penn Station,664,1,21
+94,1053981,6651053981,Harrisburg Amtrak,665,0,23
+94,1052206,6651052206,Harrisburg Amtrak,665,0,23
+94,1052207,6651052207,Harrisburg Amtrak,665,0,23
+94,1053962,6661053962,New York Penn Station,666,1,21
+94,1052144,6661052144,New York Penn Station,666,1,21
+94,1052145,6661052145,New York Penn Station,666,1,21
+94,1053936,6671053936,Harrisburg Amtrak,667,0,23
+94,1052069,6671052069,Harrisburg Amtrak,667,0,23
+94,1052070,6671052070,Harrisburg Amtrak,667,0,23
+94,1053963,6691053963,Harrisburg Amtrak,669,0,23
+94,1052147,6691052147,Harrisburg Amtrak,669,0,23
+94,1052148,6691052148,Harrisburg Amtrak,669,0,23
+94,1053937,6701053937,New York Penn Station,670,1,21
+94,1052072,6701052072,New York Penn Station,670,1,21
+94,1052073,6701052073,New York Penn Station,670,1,21
+94,1053964,6711053964,Harrisburg Amtrak,671,0,23
+94,1052150,6711052150,Harrisburg Amtrak,671,0,23
+94,1052151,6711052151,Harrisburg Amtrak,671,0,23
+94,1053938,6721053938,New York Penn Station,672,1,21
+94,1052075,6721052075,New York Penn Station,672,1,21
+94,1052076,6721052076,New York Penn Station,672,1,21
+94,1053982,6741053982,New York Penn Station,674,1,21
+94,1052210,6741052210,New York Penn Station,674,1,21
+94,1052211,6741052211,New York Penn Station,674,1,21
+94,1052212,6741052212,New York Penn Station,674,1,21
+81,1053470,4481053470,Boston South Station Amtrak,448,1,126
+81,1053471,4481053471,Boston South Station Amtrak,448,1,126
+81,1053472,4481053472,Boston South Station Amtrak,448,1,126
+81,1053473,4481053473,Boston South Station Amtrak,448,1,126
+81,1053474,4481053474,Boston South Station Amtrak,448,1,126
+81,1053475,4481053475,Boston South Station Amtrak,448,1,126
+81,1053476,4481053476,Boston South Station Amtrak,448,1,126
+81,1053477,4481053477,Boston South Station Amtrak,448,1,126
+81,1053478,4481053478,Boston South Station Amtrak,448,1,126
+81,1053479,4491053479,Chicago Union Station Amtrak,449,0,125
+81,1053480,4491053480,Chicago Union Station Amtrak,449,0,125
+81,1053481,4491053481,Chicago Union Station Amtrak,449,0,125
+81,1061580,481061580,New York Penn Station,48,1,127
+81,1061581,481061581,New York Penn Station,48,1,127
+81,1061582,491061582,Chicago Union Station Amtrak,49,0,128
+76,1064099,3001064099,Chicago Union Station Amtrak,300,0,130
+76,1064100,3001064100,Chicago Union Station Amtrak,300,0,130
+76,1064101,3001064101,Chicago Union Station Amtrak,300,0,130
+76,1064102,3001064102,Chicago Union Station Amtrak,300,0,130
+76,1064103,3001064103,Chicago Union Station Amtrak,300,0,130
+76,1064104,3001064104,Chicago Union Station Amtrak,300,0,130
+76,1064105,3011064105,St. Louis Gateway Station Amtrak,301,1,129
+76,1064106,3011064106,St. Louis Gateway Station Amtrak,301,1,129
+76,1064107,3011064107,St. Louis Gateway Station Amtrak,301,1,129
+76,1064108,3011064108,St. Louis Gateway Station Amtrak,301,1,129
+76,1064109,3011064109,St. Louis Gateway Station Amtrak,301,1,129
+76,1064117,3021064117,Chicago Union Station Amtrak,302,0,130
+76,1064112,3021064112,Chicago Union Station Amtrak,302,0,130
+76,1064113,3021064113,Chicago Union Station Amtrak,302,0,130
+76,1064114,3021064114,Chicago Union Station Amtrak,302,0,130
+76,1064115,3021064115,Chicago Union Station Amtrak,302,0,130
+76,1064116,3021064116,Chicago Union Station Amtrak,302,0,130
+76,1064110,3031064110,St. Louis Gateway Station Amtrak,303,1,129
+76,1064111,3031064111,St. Louis Gateway Station Amtrak,303,1,129
+76,1060936,3031060936,St. Louis Gateway Station Amtrak,303,1,129
+76,1060938,3031060938,St. Louis Gateway Station Amtrak,303,1,129
+76,1064119,3041064119,Chicago Union Station Amtrak,304,0,130
+76,1064118,3041064118,Chicago Union Station Amtrak,304,0,130
+76,1064120,3041064120,Chicago Union Station Amtrak,304,0,130
+76,1064121,3041064121,Chicago Union Station Amtrak,304,0,130
+76,1064122,3041064122,Chicago Union Station Amtrak,304,0,130
+76,1064123,3051064123,St. Louis Gateway Station Amtrak,305,1,129
+76,1064124,3051064124,St. Louis Gateway Station Amtrak,305,1,129
+76,1064125,3051064125,St. Louis Gateway Station Amtrak,305,1,129
+76,1064126,3051064126,St. Louis Gateway Station Amtrak,305,1,129
+76,1064127,3051064127,St. Louis Gateway Station Amtrak,305,1,129
+76,1064128,3051064128,St. Louis Gateway Station Amtrak,305,1,129
+76,1064129,3061064129,Chicago Union Station Amtrak,306,0,130
+76,1064130,3061064130,Chicago Union Station Amtrak,306,0,130
+76,1064131,3061064131,Chicago Union Station Amtrak,306,0,130
+76,1064132,3061064132,Chicago Union Station Amtrak,306,0,130
+76,1064133,3061064133,Chicago Union Station Amtrak,306,0,130
+76,1064134,3071064134,St. Louis Gateway Station Amtrak,307,1,129
+76,1064135,3071064135,St. Louis Gateway Station Amtrak,307,1,129
+76,1064136,3071064136,St. Louis Gateway Station Amtrak,307,1,129
+76,1064138,3071064138,St. Louis Gateway Station Amtrak,307,1,129
+76,1064139,3071064139,St. Louis Gateway Station Amtrak,307,1,129
+76,1064137,3071064137,St. Louis Gateway Station Amtrak,307,1,129
+68,1061905,631061905,Toronto Union Station Amtrak,63,0,197
+68,1061906,631061906,Toronto Union Station Amtrak,63,0,197
+68,1061907,631061907,Toronto Union Station Amtrak,63,0,197
+68,1061908,641061908,New York Penn Station,64,1,198
+68,1061909,641061909,New York Penn Station,64,1,198
+68,1061910,641061910,New York Penn Station,64,1,198
+83,1052839,3111052839,Kansas City Amtrak,311,0,143
+83,1052838,3131052838,Kansas City Amtrak,313,0,143
+83,1052840,3141052840,St. Louis Gateway Station Amtrak,314,1,142
+83,1052841,3161052841,St. Louis Gateway Station Amtrak,316,1,142
+88,1061652,1101061652,New York Penn Station,110,0,99
+88,1061654,1101061654,New York Penn Station,110,0,99
+88,1061656,1101061656,New York Penn Station,110,0,99
+88,1061657,1111061657,Washington Union Station Amtrak,111,1,93
+88,1061659,1111061659,Washington Union Station Amtrak,111,1,93
+88,1061661,1111061661,Washington Union Station Amtrak,111,1,93
+88,959425,1194959425,Boston South Station Amtrak,1194,0,98
+88,1061662,1231061662,Washington Union Station Amtrak,123,1,93
+88,1046867,1231046867,Washington Union Station Amtrak,123,1,93
+88,1046868,1231046868,Washington Union Station Amtrak,123,1,93
+88,1046869,1231046869,Washington Union Station Amtrak,123,1,93
+88,1061663,1251061663,Richmond Staples Mill Amtrak,125,1,92
+88,1046872,1251046872,Richmond Staples Mill Amtrak,125,1,92
+88,1046874,1251046874,Richmond Staples Mill Amtrak,125,1,92
+88,1061664,1261061664,New York Penn Station,126,0,99
+88,1046877,1261046877,New York Penn Station,126,0,99
+88,1046878,1261046878,New York Penn Station,126,0,99
+88,1046879,1261046879,New York Penn Station,126,0,99
+88,1061665,1271061665,Washington Union Station Amtrak,127,1,93
+88,1061667,1271061667,Washington Union Station Amtrak,127,1,93
+88,1061669,1271061669,Washington Union Station Amtrak,127,1,93
+88,1061670,1291061670,Washington Union Station Amtrak,129,1,93
+88,1061672,1291061672,Washington Union Station Amtrak,129,1,93
+88,1061674,1291061674,Washington Union Station Amtrak,129,1,93
+88,1061675,1301061675,New York Penn Station,130,0,99
+88,1046889,1301046889,New York Penn Station,130,0,99
+88,1046891,1301046891,New York Penn Station,130,0,99
+88,1061677,1311061677,Washington Union Station Amtrak,131,1,93
+88,1039843,1311039843,Washington Union Station Amtrak,131,1,93
+88,1061676,1321061676,Boston South Station Amtrak,132,0,98
+88,1046894,1321046894,Boston South Station Amtrak,132,0,98
+88,1046895,1321046895,Boston South Station Amtrak,132,0,98
+88,1046896,1321046896,Boston South Station Amtrak,132,0,98
+88,1061678,1331061678,Washington Union Station Amtrak,133,1,93
+88,1061679,1341061679,New York Penn Station,134,0,99
+88,1040598,1341040598,New York Penn Station,134,0,99
+88,1061680,1351061680,Washington Union Station Amtrak,135,1,87
+88,1061681,1351061681,Washington Union Station Amtrak,135,1,87
+88,1061682,1351061682,Washington Union Station Amtrak,135,1,87
+88,1061692,1361061692,Springfield Amtrak,136,0,100
+88,1061693,1361061693,Springfield Amtrak,136,0,100
+88,1061694,1361061694,Springfield Amtrak,136,0,100
+88,1061695,1361061695,Springfield Amtrak,136,0,100
+88,1061696,1361061696,Springfield Amtrak,136,0,100
+88,1061697,1361061697,Springfield Amtrak,136,0,100
+88,1061683,1371061683,Washington Union Station Amtrak,137,1,87
+88,1061684,1371061684,Washington Union Station Amtrak,137,1,87
+88,1061686,1371061686,Washington Union Station Amtrak,137,1,87
+88,1061687,1371061687,Washington Union Station Amtrak,137,1,87
+88,1061688,1371061688,Washington Union Station Amtrak,137,1,87
+88,1061690,1371061690,Washington Union Station Amtrak,137,1,87
+88,1061691,1381061691,New York Penn Station,138,0,99
+88,1046907,1381046907,New York Penn Station,138,0,99
+88,1046909,1381046909,New York Penn Station,138,0,99
+88,1061709,1391061709,Washington Union Station Amtrak,139,1,87
+88,1061711,1391061711,Washington Union Station Amtrak,139,1,87
+88,1061712,1391061712,Washington Union Station Amtrak,139,1,87
+88,1061713,1391061713,Washington Union Station Amtrak,139,1,87
+88,1061714,1391061714,Washington Union Station Amtrak,139,1,87
+88,1061698,1401061698,Springfield Amtrak,140,0,100
+88,1061699,1401061699,Springfield Amtrak,140,0,100
+88,1061700,1401061700,Springfield Amtrak,140,0,100
+88,1061701,1401061701,Springfield Amtrak,140,0,100
+88,1061702,1401061702,Springfield Amtrak,140,0,100
+88,1061703,1401061703,Springfield Amtrak,140,0,100
+88,1061704,1401061704,Springfield Amtrak,140,0,100
+88,1061705,1401061705,Springfield Amtrak,140,0,100
+88,1061706,1401061706,Springfield Amtrak,140,0,100
+88,1061707,1401061707,Springfield Amtrak,140,0,100
+88,1061708,1411061708,Washington Union Station Amtrak,141,1,97
+88,1046916,1411046916,Washington Union Station Amtrak,141,1,97
+88,1046918,1411046918,Washington Union Station Amtrak,141,1,97
+88,1061715,1431061715,Washington Union Station Amtrak,143,1,97
+88,1061716,1431061716,Washington Union Station Amtrak,143,1,97
+88,1061717,1431061717,Washington Union Station Amtrak,143,1,97
+88,1061718,1431061718,Washington Union Station Amtrak,143,1,97
+88,1061719,1431061719,Washington Union Station Amtrak,143,1,97
+88,1061720,1431061720,Washington Union Station Amtrak,143,1,97
+88,1061721,1431061721,Washington Union Station Amtrak,143,1,97
+88,1061722,1431061722,Washington Union Station Amtrak,143,1,97
+88,1061729,1451061729,Lynchburg Amtrak,145,1,96
+88,1046932,1451046932,Lynchburg Amtrak,145,1,96
+88,1046933,1451046933,Lynchburg Amtrak,145,1,96
+88,1046934,1451046934,Lynchburg Amtrak,145,1,96
+88,1061723,1461061723,Springfield Amtrak,146,0,100
+88,1061724,1461061724,Springfield Amtrak,146,0,100
+88,1061725,1461061725,Springfield Amtrak,146,0,100
+88,1061726,1461061726,Springfield Amtrak,146,0,100
+88,1061727,1461061727,Springfield Amtrak,146,0,100
+88,1061728,1461061728,Springfield Amtrak,146,0,100
+88,1061732,1471061732,Lynchburg Amtrak,147,1,96
+88,1061733,1471061733,Lynchburg Amtrak,147,1,96
+88,1061734,1471061734,Lynchburg Amtrak,147,1,96
+88,1061735,1471061735,Lynchburg Amtrak,147,1,96
+88,1061736,1471061736,Lynchburg Amtrak,147,1,96
+88,1061737,1471061737,Lynchburg Amtrak,147,1,96
+88,1061730,1481061730,Springfield Amtrak,148,0,100
+88,1060899,1481060899,Springfield Amtrak,148,0,100
+88,1060900,1481060900,Springfield Amtrak,148,0,100
+88,1060901,1481060901,Springfield Amtrak,148,0,100
+88,1060902,1481060902,Springfield Amtrak,148,0,100
+88,1060903,1481060903,Springfield Amtrak,148,0,100
+88,1060905,1481060905,Springfield Amtrak,148,0,100
+88,1060906,1481060906,Springfield Amtrak,148,0,100
+88,1060907,1481060907,Springfield Amtrak,148,0,100
+88,1060909,1481060909,Springfield Amtrak,148,0,100
+88,1061842,1491061842,Washington Union Station Amtrak,149,1,87
+88,1047124,1491047124,Washington Union Station Amtrak,149,1,87
+88,1047125,1491047125,Washington Union Station Amtrak,149,1,87
+88,1047126,1491047126,Washington Union Station Amtrak,149,1,87
+88,1061731,1501061731,Boston South Station Amtrak,150,0,98
+88,1046940,1501046940,Boston South Station Amtrak,150,0,98
+88,1046941,1501046941,Boston South Station Amtrak,150,0,98
+88,1061738,1511061738,Washington Union Station Amtrak,151,1,93
+88,1046943,1511046943,Washington Union Station Amtrak,151,1,93
+88,1046945,1511046945,Washington Union Station Amtrak,151,1,93
+88,1061739,1521061739,New York Penn Station,152,0,99
+88,1046947,1521046947,New York Penn Station,152,0,99
+88,1046948,1521046948,New York Penn Station,152,0,99
+88,1061740,1531061740,Washington Union Station Amtrak,153,1,93
+88,1046950,1531046950,Washington Union Station Amtrak,153,1,93
+88,1046951,1531046951,Washington Union Station Amtrak,153,1,93
+88,1061742,1541061742,New York Penn Station,154,0,99
+88,1040650,1541040650,New York Penn Station,154,0,99
+88,1040651,1541040651,New York Penn Station,154,0,99
+88,1061741,1551061741,Washington Union Station Amtrak,155,1,93
+88,1046953,1551046953,Washington Union Station Amtrak,155,1,93
+88,1046954,1551046954,Washington Union Station Amtrak,155,1,93
+88,1061743,1561061743,New York Penn Station,156,0,89
+88,1046956,1561046956,New York Penn Station,156,0,89
+88,1046957,1561046957,New York Penn Station,156,0,89
+88,1061744,1571061744,Richmond Staples Mill Amtrak,157,1,92
+88,1061745,1571061745,Richmond Staples Mill Amtrak,157,1,92
+88,1061746,1571061746,Richmond Staples Mill Amtrak,157,1,92
+88,1061748,1571061748,Richmond Staples Mill Amtrak,157,1,92
+88,1061749,1571061749,Richmond Staples Mill Amtrak,157,1,92
+88,1061750,1571061750,Richmond Staples Mill Amtrak,157,1,92
+88,1061751,1571061751,Richmond Staples Mill Amtrak,157,1,92
+88,1061752,1581061752,New York Penn Station,158,0,99
+88,1046966,1581046966,New York Penn Station,158,0,99
+88,1046967,1581046967,New York Penn Station,158,0,99
+88,1061757,1591061757,Washington Union Station Amtrak,159,1,93
+88,1061758,1591061758,Washington Union Station Amtrak,159,1,93
+88,1061753,1601061753,Boston South Station Amtrak,160,0,98
+88,1061754,1601061754,Boston South Station Amtrak,160,0,98
+88,1061755,1601061755,Boston South Station Amtrak,160,0,98
+88,1061756,1601061756,Boston South Station Amtrak,160,0,98
+88,1061759,1611061759,Washington Union Station Amtrak,161,1,87
+88,1061760,1611061760,Washington Union Station Amtrak,161,1,87
+88,1061761,1611061761,Washington Union Station Amtrak,161,1,87
+88,1061762,1611061762,Washington Union Station Amtrak,161,1,87
+88,1061765,1621061765,Boston South Station Amtrak,162,0,98
+88,1061766,1621061766,Boston South Station Amtrak,162,0,98
+88,1061767,1621061767,Boston South Station Amtrak,162,0,98
+88,1061768,1621061768,Boston South Station Amtrak,162,0,98
+88,1061763,1631061763,Washington Union Station Amtrak,163,1,87
+88,1061764,1631061764,Washington Union Station Amtrak,163,1,87
+88,1061769,1641061769,Boston South Station Amtrak,164,0,94
+88,1061770,1641061770,Boston South Station Amtrak,164,0,94
+88,1061771,1641061771,Boston South Station Amtrak,164,0,94
+88,1061772,1641061772,Boston South Station Amtrak,164,0,94
+88,1061778,1651061778,Washington Union Station Amtrak,165,1,87
+88,1061779,1651061779,Washington Union Station Amtrak,165,1,87
+88,1061780,1651061780,Washington Union Station Amtrak,165,1,87
+88,1061781,1651061781,Washington Union Station Amtrak,165,1,87
+88,1061773,1661061773,Boston South Station Amtrak,166,0,98
+88,1061775,1661061775,Boston South Station Amtrak,166,0,98
+88,1061776,1661061776,Boston South Station Amtrak,166,0,98
+88,1061777,1661061777,Boston South Station Amtrak,166,0,98
+88,1061782,1671061782,Washington Union Station Amtrak,167,1,87
+88,1039887,1671039887,Washington Union Station Amtrak,167,1,87
+88,1061787,1681061787,Boston South Station Amtrak,168,0,98
+88,1039889,1681039889,Boston South Station Amtrak,168,0,98
+88,1061783,1691061783,Washington Union Station Amtrak,169,1,87
+88,1061784,1691061784,Washington Union Station Amtrak,169,1,87
+88,1061785,1691061785,Washington Union Station Amtrak,169,1,87
+88,1061786,1691061786,Washington Union Station Amtrak,169,1,87
+88,1061788,1701061788,Boston South Station Amtrak,170,0,98
+88,1061790,1701061790,Boston South Station Amtrak,170,0,98
+88,1061792,1701061792,Boston South Station Amtrak,170,0,98
+88,1061793,1701061793,Boston South Station Amtrak,170,0,98
+88,1061802,1711061802,Lynchburg Amtrak,171,1,83
+88,1047003,1711047003,Lynchburg Amtrak,171,1,83
+88,1047005,1711047005,Lynchburg Amtrak,171,1,83
+88,1061794,1721061794,Boston South Station Amtrak,172,0,98
+88,1061795,1721061795,Boston South Station Amtrak,172,0,98
+88,1061797,1721061797,Boston South Station Amtrak,172,0,98
+88,1061798,1721061798,Boston South Station Amtrak,172,0,98
+88,1061799,1721061799,Boston South Station Amtrak,172,0,98
+88,1061801,1721061801,Boston South Station Amtrak,172,0,98
+88,1061803,1731061803,Washington Union Station Amtrak,173,1,87
+88,1047008,1731047008,Washington Union Station Amtrak,173,1,87
+88,1047010,1731047010,Washington Union Station Amtrak,173,1,87
+88,1057018,1741057018,Boston South Station Amtrak,174,0,94
+88,1057019,1741057019,Boston South Station Amtrak,174,0,94
+88,1057020,1741057020,Boston South Station Amtrak,174,0,94
+88,1057022,1741057022,Boston South Station Amtrak,174,0,94
+88,1057023,1741057023,Boston South Station Amtrak,174,0,94
+88,1057024,1741057024,Boston South Station Amtrak,174,0,94
+88,1057026,1741057026,Boston South Station Amtrak,174,0,94
+88,1061804,1751061804,Washington Union Station Amtrak,175,1,87
+88,1047012,1751047012,Washington Union Station Amtrak,175,1,87
+88,1047014,1751047014,Washington Union Station Amtrak,175,1,87
+88,1057030,1761057030,Boston South Station Amtrak,176,0,88
+88,1057031,1761057031,Boston South Station Amtrak,176,0,88
+88,1057032,1761057032,Boston South Station Amtrak,176,0,88
+88,1057034,1761057034,Boston South Station Amtrak,176,0,88
+88,1057035,1761057035,Boston South Station Amtrak,176,0,88
+88,1057027,1761057027,Boston South Station Amtrak,176,0,88
+88,1057029,1761057029,Boston South Station Amtrak,176,0,88
+88,1057045,1771057045,Washington Union Station Amtrak,177,1,87
+88,1057046,1771057046,Washington Union Station Amtrak,177,1,87
+88,1057047,1771057047,Washington Union Station Amtrak,177,1,87
+88,1057049,1771057049,Washington Union Station Amtrak,177,1,87
+88,1057050,1771057050,Washington Union Station Amtrak,177,1,87
+88,1057051,1771057051,Washington Union Station Amtrak,177,1,87
+88,1057053,1771057053,Washington Union Station Amtrak,177,1,87
+88,1057037,1781057037,Boston South Station Amtrak,178,0,98
+88,1057036,1781057036,Boston South Station Amtrak,178,0,98
+88,1057038,1781057038,Boston South Station Amtrak,178,0,98
+88,1057040,1781057040,Boston South Station Amtrak,178,0,98
+88,1057041,1781057041,Boston South Station Amtrak,178,0,98
+88,1057042,1781057042,Boston South Station Amtrak,178,0,98
+88,1057044,1781057044,Boston South Station Amtrak,178,0,98
+88,1052674,1791052674,New York Penn Station,179,1,85
+88,1047030,1791047030,New York Penn Station,179,1,85
+88,1047032,1791047032,New York Penn Station,179,1,85
+88,1055871,1801055871,New York Penn Station,180,0,99
+88,1055870,1801055870,New York Penn Station,180,0,99
+88,1055437,1801055437,New York Penn Station,180,0,99
+88,1055439,1801055439,New York Penn Station,180,0,99
+88,1052676,1821052676,New York Penn Station,182,0,99
+88,1047039,1821047039,New York Penn Station,182,0,99
+88,1047040,1821047040,New York Penn Station,182,0,99
+88,1056443,1831056443,Washington Union Station Amtrak,183,1,93
+88,1055874,1831055874,Washington Union Station Amtrak,183,1,93
+88,1055444,1831055444,Washington Union Station Amtrak,183,1,93
+88,1055446,1831055446,Washington Union Station Amtrak,183,1,93
+88,1052678,1841052678,New York Penn Station,184,0,99
+88,1047045,1841047045,New York Penn Station,184,0,99
+88,1047047,1841047047,New York Penn Station,184,0,99
+88,1052679,1851052679,Washington Union Station Amtrak,185,1,93
+88,1047050,1851047050,Washington Union Station Amtrak,185,1,93
+88,1047052,1851047052,Washington Union Station Amtrak,185,1,93
+88,1056444,1861056444,New York Penn Station,186,0,99
+88,1055877,1861055877,New York Penn Station,186,0,99
+88,1055451,1861055451,New York Penn Station,186,0,99
+88,1055453,1861055453,New York Penn Station,186,0,99
+88,1052680,1871052680,Washington Union Station Amtrak,187,1,93
+88,1047054,1871047054,Washington Union Station Amtrak,187,1,93
+88,1047056,1871047056,Washington Union Station Amtrak,187,1,93
+88,1052682,1881052682,New York Penn Station,188,0,99
+88,1047062,1881047062,New York Penn Station,188,0,99
+88,1047064,1881047064,New York Penn Station,188,0,99
+88,1047128,1891047128,Washington Union Station Amtrak,189,1,93
+88,1047130,1891047130,Washington Union Station Amtrak,189,1,93
+88,1047131,1891047131,Washington Union Station Amtrak,189,1,93
+88,1047132,1891047132,Washington Union Station Amtrak,189,1,93
+88,1052683,1901052683,Boston South Station Amtrak,190,0,98
+88,1047068,1901047068,Boston South Station Amtrak,190,0,98
+88,1047070,1901047070,Boston South Station Amtrak,190,0,98
+88,1052685,1921052685,New York Penn Station,192,0,99
+88,1040743,1921040743,New York Penn Station,192,0,99
+88,1055878,1931055878,Washington Union Station Amtrak,193,1,93
+88,1055879,1931055879,Washington Union Station Amtrak,193,1,93
+88,1055880,1931055880,Washington Union Station Amtrak,193,1,93
+88,1055881,1931055881,Washington Union Station Amtrak,193,1,93
+88,1055883,1931055883,Washington Union Station Amtrak,193,1,93
+88,1055885,1931055885,Washington Union Station Amtrak,193,1,93
+88,1056445,1941056445,Boston South Station Amtrak,194,0,90
+88,1056446,1941056446,Boston South Station Amtrak,194,0,90
+88,1056448,1941056448,Boston South Station Amtrak,194,0,90
+88,1056449,1941056449,Boston South Station Amtrak,194,0,90
+88,1052691,1951052691,Richmond Staples Mill Amtrak,195,1,86
+88,1047081,1951047081,Richmond Staples Mill Amtrak,195,1,86
+88,1047082,1951047082,Richmond Staples Mill Amtrak,195,1,86
+88,1052690,1961052690,New York Penn Station,196,0,99
+88,1047077,1961047077,New York Penn Station,196,0,99
+88,1047079,1961047079,New York Penn Station,196,0,99
+88,1061843,651061843,Newport News Amtrak,65,1,84
+88,1040786,651040786,Newport News Amtrak,65,1,84
+88,1040787,651040787,Newport News Amtrak,65,1,84
+88,1061806,661061806,Boston South Station Amtrak,66,0,90
+88,1061807,661061807,Boston South Station Amtrak,66,0,90
+88,1065268,671065268,Newport News Amtrak,67,1,84
+88,1065269,671065269,Newport News Amtrak,67,1,84
+88,1065271,671065271,Newport News Amtrak,67,1,84
+88,1065273,671065273,Newport News Amtrak,67,1,84
+88,1061841,711061841,Norfolk Amtrak,71,1,158
+88,1039903,711039903,Norfolk Amtrak,71,1,158
+88,1061833,821061833,Boston South Station Amtrak,82,0,94
+88,1061834,821061834,Boston South Station Amtrak,82,0,94
+88,1061835,821061835,Boston South Station Amtrak,82,0,94
+88,1061837,831061837,Newport News Amtrak,83,1,84
+88,1061838,831061838,Newport News Amtrak,83,1,84
+88,1061839,831061839,Newport News Amtrak,83,1,84
+88,1061840,831061840,Newport News Amtrak,83,1,84
+88,1061836,841061836,New York Penn Station,84,0,95
+88,1047119,841047119,New York Penn Station,84,0,95
+88,1047121,841047121,New York Penn Station,84,0,95
+88,1061808,851061808,Richmond Staples Mill Amtrak,85,1,92
+88,1047085,851047085,Richmond Staples Mill Amtrak,85,1,92
+88,1047087,851047087,Richmond Staples Mill Amtrak,85,1,92
+88,1061809,861061809,Boston South Station Amtrak,86,0,94
+88,1047089,861047089,Boston South Station Amtrak,86,0,94
+88,1047091,861047091,Boston South Station Amtrak,86,0,94
+88,1061810,871061810,Richmond Staples Mill Amtrak,87,1,92
+88,1047095,871047095,Richmond Staples Mill Amtrak,87,1,92
+88,1047096,871047096,Richmond Staples Mill Amtrak,87,1,92
+88,1047097,871047097,Richmond Staples Mill Amtrak,87,1,92
+88,1061811,881061811,Boston South Station Amtrak,88,0,94
+88,1061812,881061812,Boston South Station Amtrak,88,0,94
+88,1061813,881061813,Boston South Station Amtrak,88,0,94
+88,1061814,881061814,Boston South Station Amtrak,88,0,94
+88,1061815,931061815,Richmond Staples Mill Amtrak,93,1,86
+88,1061816,931061816,Richmond Staples Mill Amtrak,93,1,86
+88,1061818,931061818,Richmond Staples Mill Amtrak,93,1,86
+88,1061819,931061819,Richmond Staples Mill Amtrak,93,1,86
+88,1061820,931061820,Richmond Staples Mill Amtrak,93,1,86
+88,1061822,931061822,Richmond Staples Mill Amtrak,93,1,86
+88,1065274,941065274,Boston South Station Amtrak,94,0,90
+88,1065275,941065275,Boston South Station Amtrak,94,0,90
+88,1065277,941065277,Boston South Station Amtrak,94,0,90
+88,1065279,941065279,Boston South Station Amtrak,94,0,90
+88,1061828,951061828,Newport News Amtrak,95,1,84
+88,1047110,951047110,Newport News Amtrak,95,1,84
+88,1047112,951047112,Newport News Amtrak,95,1,84
+88,1061844,961061844,Boston South Station Amtrak,96,0,90
+88,1061846,961061846,Boston South Station Amtrak,96,0,90
+88,1061847,961061847,Boston South Station Amtrak,96,0,90
+88,1061848,961061848,Boston South Station Amtrak,96,0,90
+88,1061829,991061829,Newport News Amtrak,99,1,84
+88,1061830,991061830,Newport News Amtrak,99,1,84
+88,1061831,991061831,Newport News Amtrak,99,1,84
+88,1061832,991061832,Newport News Amtrak,99,1,84
+78,1057386,15661057386,San Diego Santa Fe Depot Amtrak,1566,1,101
+78,1057387,15661057387,San Diego Santa Fe Depot Amtrak,1566,1,101
+78,1057389,15661057389,San Diego Santa Fe Depot Amtrak,1566,1,101
+78,1057390,15661057390,San Diego Santa Fe Depot Amtrak,1566,1,101
+78,1057391,15661057391,San Diego Santa Fe Depot Amtrak,1566,1,101
+78,1056593,15671056593,Los Angeles Union Station Amtrak,1567,0,102
+78,1056595,15671056595,Los Angeles Union Station Amtrak,1567,0,102
+78,1056596,15671056596,Los Angeles Union Station Amtrak,1567,0,102
+78,1056597,15671056597,Los Angeles Union Station Amtrak,1567,0,102
+78,1065960,15681065960,San Diego Santa Fe Depot Amtrak,1568,0,101
+78,1063082,17611063082,San Luis Obispo Amtrak,1761,0,150
+78,1063083,17611063083,San Luis Obispo Amtrak,1761,0,150
+78,1063084,17611063084,San Luis Obispo Amtrak,1761,0,150
+78,1063085,17611063085,San Luis Obispo Amtrak,1761,0,150
+78,1063086,17611063086,San Luis Obispo Amtrak,1761,0,150
+78,1063087,17611063087,San Luis Obispo Amtrak,1761,0,150
+78,1063088,17611063088,San Luis Obispo Amtrak,1761,0,150
+78,1053909,17901053909,San Diego Santa Fe Depot Amtrak,1790,1,146
+78,1053910,17901053910,San Diego Santa Fe Depot Amtrak,1790,1,146
+78,1053911,17901053911,San Diego Santa Fe Depot Amtrak,1790,1,146
+78,1053912,17901053912,San Diego Santa Fe Depot Amtrak,1790,1,146
+78,1053913,17901053913,San Diego Santa Fe Depot Amtrak,1790,1,146
+78,1063062,5621063062,San Diego Santa Fe Depot Amtrak,562,1,101
+78,1063060,5621063060,San Diego Santa Fe Depot Amtrak,562,1,101
+78,1063063,5621063063,San Diego Santa Fe Depot Amtrak,562,1,101
+78,1053831,5641053831,San Diego Santa Fe Depot Amtrak,564,1,101
+78,1053832,5641053832,San Diego Santa Fe Depot Amtrak,564,1,101
+78,1053833,5641053833,San Diego Santa Fe Depot Amtrak,564,1,101
+78,1063064,5651063064,Los Angeles Union Station Amtrak,565,0,102
+78,1063066,5651063066,Los Angeles Union Station Amtrak,565,0,102
+78,1063068,5651063068,Los Angeles Union Station Amtrak,565,0,102
+78,1057380,5661057380,San Diego Santa Fe Depot Amtrak,566,1,101
+78,1057381,5661057381,San Diego Santa Fe Depot Amtrak,566,1,101
+78,1057383,5661057383,San Diego Santa Fe Depot Amtrak,566,1,101
+78,1057385,5661057385,San Diego Santa Fe Depot Amtrak,566,1,101
+78,1053835,5671053835,Los Angeles Union Station Amtrak,567,0,102
+78,1050891,5671050891,Los Angeles Union Station Amtrak,567,0,102
+78,1050893,5671050893,Los Angeles Union Station Amtrak,567,0,102
+78,1050895,5671050895,Los Angeles Union Station Amtrak,567,0,102
+78,1065959,5681065959,San Diego Santa Fe Depot Amtrak,568,1,101
+78,1056563,5721056563,San Diego Santa Fe Depot Amtrak,572,1,101
+78,1056559,5721056559,San Diego Santa Fe Depot Amtrak,572,1,101
+78,1056560,5721056560,San Diego Santa Fe Depot Amtrak,572,1,101
+78,1056561,5721056561,San Diego Santa Fe Depot Amtrak,572,1,101
+78,1056562,5721056562,San Diego Santa Fe Depot Amtrak,572,1,101
+78,1056564,5721056564,San Diego Santa Fe Depot Amtrak,572,1,101
+78,1056565,5731056565,Los Angeles Union Station Amtrak,573,0,102
+78,1056567,5731056567,Los Angeles Union Station Amtrak,573,0,102
+78,1063069,5791063069,Los Angeles Union Station Amtrak,579,0,102
+78,1063070,5791063070,Los Angeles Union Station Amtrak,579,0,102
+78,1063071,5791063071,Los Angeles Union Station Amtrak,579,0,102
+78,1063073,5791063073,Los Angeles Union Station Amtrak,579,0,102
+78,1053849,5801053849,San Diego Santa Fe Depot Amtrak,580,1,101
+78,1053850,5801053850,San Diego Santa Fe Depot Amtrak,580,1,101
+78,1053851,5801053851,San Diego Santa Fe Depot Amtrak,580,1,101
+78,1056568,5821056568,San Diego Santa Fe Depot Amtrak,582,1,101
+78,1056570,5821056570,San Diego Santa Fe Depot Amtrak,582,1,101
+78,1056577,5831056577,Los Angeles Union Station Amtrak,583,0,102
+78,1056579,5831056579,Los Angeles Union Station Amtrak,583,0,102
+78,1056580,5831056580,Los Angeles Union Station Amtrak,583,0,102
+78,1056581,5831056581,Los Angeles Union Station Amtrak,583,0,102
+78,1056582,5831056582,Los Angeles Union Station Amtrak,583,0,102
+78,1056583,5831056583,Los Angeles Union Station Amtrak,583,0,102
+78,1053860,5911053860,Los Angeles Union Station Amtrak,591,0,102
+78,1053861,5911053861,Los Angeles Union Station Amtrak,591,0,102
+78,1053862,5911053862,Los Angeles Union Station Amtrak,591,0,102
+78,1053863,5911053863,Los Angeles Union Station Amtrak,591,0,102
+78,1053864,5911053864,Los Angeles Union Station Amtrak,591,0,102
+78,1053865,5911053865,Los Angeles Union Station Amtrak,591,0,102
+78,1053866,5911053866,Los Angeles Union Station Amtrak,591,0,102
+78,1063074,5921063074,San Diego Santa Fe Depot Amtrak,592,1,101
+78,1056574,5921056574,San Diego Santa Fe Depot Amtrak,592,1,101
+78,1056575,5921056575,San Diego Santa Fe Depot Amtrak,592,1,101
+78,1063076,5921063076,San Diego Santa Fe Depot Amtrak,592,1,101
+78,1065958,5931065958,Los Angeles Union Station Amtrak,593,0,102
+78,1053867,5951053867,Los Angeles Union Station Amtrak,595,0,102
+78,1053868,5951053868,Los Angeles Union Station Amtrak,595,0,102
+78,1053869,5951053869,Los Angeles Union Station Amtrak,595,0,102
+78,1053895,7611053895,San Luis Obispo Amtrak,761,0,150
+78,1053896,7611053896,San Luis Obispo Amtrak,761,0,150
+78,1053898,7611053898,San Luis Obispo Amtrak,761,0,150
+78,1053900,7611053900,San Luis Obispo Amtrak,761,0,150
+78,1056587,7631056587,Goleta Amtrak,763,0,149
+78,1056584,7631056584,Goleta Amtrak,763,0,149
+78,1056585,7631056585,Goleta Amtrak,763,0,149
+78,1056586,7631056586,Goleta Amtrak,763,0,149
+78,1053872,7681053872,San Diego Santa Fe Depot Amtrak,768,1,151
+78,1053873,7681053873,San Diego Santa Fe Depot Amtrak,768,1,151
+78,1053874,7681053874,San Diego Santa Fe Depot Amtrak,768,1,151
+78,1053875,7681053875,San Diego Santa Fe Depot Amtrak,768,1,151
+78,1053876,7681053876,San Diego Santa Fe Depot Amtrak,768,1,151
+78,1053877,7681053877,San Diego Santa Fe Depot Amtrak,768,1,151
+78,1053878,7681053878,San Diego Santa Fe Depot Amtrak,768,1,151
+78,1053885,7691053885,Goleta Amtrak,769,0,149
+78,1053886,7691053886,Goleta Amtrak,769,0,149
+78,1053887,7691053887,Goleta Amtrak,769,0,149
+78,1053888,7691053888,Goleta Amtrak,769,0,149
+78,1063077,7741063077,San Diego Santa Fe Depot Amtrak,774,1,146
+78,1063078,7741063078,San Diego Santa Fe Depot Amtrak,774,1,146
+78,1063079,7741063079,San Diego Santa Fe Depot Amtrak,774,1,146
+78,1063080,7741063080,San Diego Santa Fe Depot Amtrak,774,1,146
+78,1063081,7741063081,San Diego Santa Fe Depot Amtrak,774,1,146
+78,1053904,7771053904,San Luis Obispo Amtrak,777,0,148
+78,1053905,7771053905,San Luis Obispo Amtrak,777,0,148
+78,1053906,7771053906,San Luis Obispo Amtrak,777,0,148
+78,1053907,7771053907,San Luis Obispo Amtrak,777,0,148
+78,1053891,7841053891,San Diego Santa Fe Depot Amtrak,784,1,151
+78,1053889,7841053889,San Diego Santa Fe Depot Amtrak,784,1,151
+78,1053890,7841053890,San Diego Santa Fe Depot Amtrak,784,1,151
+78,1053882,7851053882,Goleta Amtrak,785,0,149
+78,1053883,7851053883,Goleta Amtrak,785,0,149
+78,1053884,7851053884,Goleta Amtrak,785,0,149
+78,1053908,7901053908,San Diego Santa Fe Depot Amtrak,790,1,146
+78,1050933,7901050933,San Diego Santa Fe Depot Amtrak,790,1,146
+78,1050935,7901050935,San Diego Santa Fe Depot Amtrak,790,1,146
+78,1053892,7961053892,San Diego Santa Fe Depot Amtrak,796,1,151
+78,1053893,7961053893,San Diego Santa Fe Depot Amtrak,796,1,151
+78,1053894,7961053894,San Diego Santa Fe Depot Amtrak,796,1,151
+69,1061888,891061888,Savannah Amtrak,89,1,103
+69,1061889,891061889,Savannah Amtrak,89,1,103
+69,1061355,891061355,Savannah Amtrak,89,1,103
+69,1061354,891061354,Savannah Amtrak,89,1,103
+69,1061890,901061890,New York Penn Station,90,0,104
+69,1061357,901061357,New York Penn Station,90,0,104
+69,1061358,901061358,New York Penn Station,90,0,104
+64,1061878,421061878,New York Penn Station,42,1,106
+64,1061879,431061879,Pittsburgh Amtrak,43,0,105
+55,1053544,3701053544,Grand Rapids Amtrak,370,1,27
+55,1053545,3711053545,Chicago Union Station Amtrak,371,0,28
+79,1062977,731062977,Charlotte Amtrak,73,1,108
+79,1062978,731062978,Charlotte Amtrak,73,1,108
+79,1062979,731062979,Charlotte Amtrak,73,1,108
+79,1062980,731062980,Charlotte Amtrak,73,1,108
+79,1062972,741062972,Raleigh Amtrak,74,0,107
+79,1062973,741062973,Raleigh Amtrak,74,0,107
+79,1062974,741062974,Raleigh Amtrak,74,0,107
+79,1062976,741062976,Raleigh Amtrak,74,0,107
+79,1062982,751062982,Charlotte Amtrak,75,1,108
+79,1062983,751062983,Charlotte Amtrak,75,1,108
+79,1062984,751062984,Charlotte Amtrak,75,1,108
+79,1062986,751062986,Charlotte Amtrak,75,1,108
+79,1062987,761062987,Raleigh Amtrak,76,0,107
+79,1062988,761062988,Raleigh Amtrak,76,0,107
+79,1062989,761062989,Raleigh Amtrak,76,0,107
+63,1052825,3901052825,Chicago Union Station Amtrak,390,0,109
+63,1052826,3901052826,Chicago Union Station Amtrak,390,0,109
+63,1052827,3911052827,Carbondale Amtrak,391,1,110
+26025,1053920,7011053920,Sacramento Amtrak,701,0,222
+26025,1053928,7021053928,Bakersfield Amtrak,702,1,224
+26025,1053929,7031053929,Sacramento Amtrak,703,0,222
+26025,1053930,7041053930,Bakersfield Amtrak,704,1,224
+26025,1053933,7101053933,Bakersfield Amtrak,710,1,223
+26025,1053921,7111053921,Oakland Jack London Square Station,711,0,221
+26025,1053922,7121053922,Bakersfield Amtrak,712,1,223
+26025,1053923,7131053923,Oakland Jack London Square Station,713,0,221
+26025,1053924,7141053924,Bakersfield Amtrak,714,1,223
+26025,1053925,7151053925,Oakland Jack London Square Station,715,0,221
+26025,1053931,7161053931,Bakersfield Amtrak,716,1,223
+26025,1053926,7171053926,Oakland Jack London Square Station,717,0,221
+26025,1053927,7181053927,Bakersfield Amtrak,718,1,223
+26025,1053932,7191053932,Oakland Jack London Square Station,719,0,221
+57,1065904,4011065904,New Haven Union Station Amtrak,401,1,112
+57,1065906,4011065906,New Haven Union Station Amtrak,401,1,112
+57,1065908,4011065908,New Haven Union Station Amtrak,401,1,112
+57,1065909,4011065909,New Haven Union Station Amtrak,401,1,112
+57,1065912,4011065912,New Haven Union Station Amtrak,401,1,112
+57,1065913,4011065913,New Haven Union Station Amtrak,401,1,112
+57,1065914,4051065914,New Haven Union Station Amtrak,405,0,112
+57,1065916,4051065916,New Haven Union Station Amtrak,405,0,112
+57,1065918,4051065918,New Haven Union Station Amtrak,405,0,112
+57,1065919,4051065919,New Haven Union Station Amtrak,405,0,112
+57,1065922,4051065922,New Haven Union Station Amtrak,405,0,112
+57,1065923,4051065923,New Haven Union Station Amtrak,405,0,112
+57,1040463,4071040463,New Haven Union Station Amtrak,407,1,112
+57,1040465,4071040465,New Haven Union Station Amtrak,407,1,112
+57,1040466,4071040466,New Haven Union Station Amtrak,407,1,112
+57,1053552,4321053552,Springfield Amtrak,432,0,111
+57,1040433,4321040433,Springfield Amtrak,432,0,111
+57,1040434,4321040434,Springfield Amtrak,432,0,111
+57,1065924,4501065924,Springfield Amtrak,450,0,111
+57,1065926,4501065926,Springfield Amtrak,450,0,111
+57,1065928,4501065928,Springfield Amtrak,450,0,111
+57,1065929,4501065929,Springfield Amtrak,450,0,111
+57,1065932,4501065932,Springfield Amtrak,450,0,111
+57,1065933,4501065933,Springfield Amtrak,450,0,111
+57,1065934,4601065934,Springfield Amtrak,460,0,111
+57,1065936,4601065936,Springfield Amtrak,460,0,111
+57,1065938,4601065938,Springfield Amtrak,460,0,111
+57,1065939,4601065939,Springfield Amtrak,460,0,111
+57,1065942,4601065942,Springfield Amtrak,460,0,111
+57,1065943,4601065943,Springfield Amtrak,460,0,111
+57,1060825,4631060825,New Haven Union Station Amtrak,463,1,112
+57,1060828,4631060828,New Haven Union Station Amtrak,463,1,112
+57,1060830,4631060830,New Haven Union Station Amtrak,463,1,112
+57,1060832,4631060832,New Haven Union Station Amtrak,463,1,112
+57,1060833,4641060833,Springfield Amtrak,464,0,111
+57,1060835,4641060835,Springfield Amtrak,464,0,111
+57,1060837,4641060837,Springfield Amtrak,464,0,111
+57,1060838,4641060838,Springfield Amtrak,464,0,111
+57,1060839,4641060839,Springfield Amtrak,464,0,111
+57,1060841,4641060841,Springfield Amtrak,464,0,111
+57,1060842,4641060842,Springfield Amtrak,464,0,111
+57,1053583,4651053583,New Haven Union Station Amtrak,465,1,112
+57,1040448,4651040448,New Haven Union Station Amtrak,465,1,112
+57,1040449,4651040449,New Haven Union Station Amtrak,465,1,112
+57,1060843,4671060843,New Haven Union Station Amtrak,467,1,112
+57,1060845,4671060845,New Haven Union Station Amtrak,467,1,112
+57,1060847,4671060847,New Haven Union Station Amtrak,467,1,112
+57,1060849,4671060849,New Haven Union Station Amtrak,467,1,112
+57,1033917,4701033917,Springfield Amtrak,470,0,111
+57,1053577,4751053577,New Haven Union Station Amtrak,475,1,112
+57,1053579,4751053579,New Haven Union Station Amtrak,475,1,112
+57,1053581,4761053581,Springfield Amtrak,476,0,111
+57,1053586,4791053586,New Haven Union Station Amtrak,479,1,112
+57,1065944,4881065944,Springfield Amtrak,488,0,111
+57,1065946,4881065946,Springfield Amtrak,488,0,111
+57,1065948,4881065948,Springfield Amtrak,488,0,111
+57,1065949,4881065949,Springfield Amtrak,488,0,111
+57,1065952,4881065952,Springfield Amtrak,488,0,111
+57,1065953,4881065953,Springfield Amtrak,488,0,111
+57,1033915,4901033915,Springfield Amtrak,490,0,111
+57,1033923,4931033923,New Haven Union Station Amtrak,493,1,112
+57,1053591,4941053591,Springfield Amtrak,494,0,111
+57,1053593,4941053593,Springfield Amtrak,494,0,111
+57,1033925,4951033925,New Haven Union Station Amtrak,495,1,112
+57,1065954,4971065954,New Haven Union Station Amtrak,497,1,112
+57,1065957,4971065957,New Haven Union Station Amtrak,497,1,112
+91,1061891,971061891,Miami Amtrak,97,1,114
+91,1061892,981061892,New York Penn Station,98,0,113
+70,1063105,11921063105,New York Penn Station,1192,0,115
+70,1061899,911061899,Miami Amtrak,91,1,116
+70,1063101,921063101,New York Penn Station,92,0,115
+70,1063102,921063102,New York Penn Station,92,0,115
+70,1063104,921063104,New York Penn Station,92,0,115
+51,1061896,31061896,Los Angeles Union Station Amtrak,3,0,117
+51,1052819,31052819,Los Angeles Union Station Amtrak,3,0,117
+51,1061895,41061895,Chicago Union Station Amtrak,4,1,118
+51,1052817,41052817,Chicago Union Station Amtrak,4,1,118
+73,1061902,11061902,Los Angeles Union Station Amtrak,1,0,46
+73,1052829,11052829,Los Angeles Union Station Amtrak,1,0,46
+73,1061903,21061903,New Orleans Union Passenger Terminal Amtrak,2,1,119
+73,1061904,21061904,New Orleans Union Passenger Terminal Amtrak,2,1,119
+87,1064091,211064091,San Antonio Amtrak,21,1,194
+87,1064092,211064092,San Antonio Amtrak,21,1,194
+87,1064093,211064093,San Antonio Amtrak,21,1,194
+87,1064094,211064094,San Antonio Amtrak,21,1,194
+87,1064095,221064095,Chicago Union Station Amtrak,22,0,196
+87,1064096,221064096,Chicago Union Station Amtrak,22,0,196
+87,1064097,221064097,Chicago Union Station Amtrak,22,0,196
+87,1064098,221064098,Chicago Union Station Amtrak,22,0,196
+87,1063053,3211063053,St. Louis Gateway Station Amtrak,321,1,79
+87,1063055,3211063055,St. Louis Gateway Station Amtrak,321,1,79
+87,1063056,3221063056,Chicago Union Station Amtrak,322,0,82
+87,1063058,3221063058,Chicago Union Station Amtrak,322,0,82
+87,1063047,4211063047,Los Angeles Union Station Amtrak,421,0,193
+87,1063046,4211063046,Los Angeles Union Station Amtrak,421,0,193
+87,1063045,4211063045,Los Angeles Union Station Amtrak,421,0,193
+87,1063044,4211063044,Los Angeles Union Station Amtrak,421,0,193
+87,1063048,4221063048,Chicago Union Station Amtrak,422,1,195
+87,1060540,4221060540,Chicago Union Station Amtrak,422,1,195
+87,1060541,4221060541,Chicago Union Station Amtrak,422,1,195
+87,1060542,4221060542,Chicago Union Station Amtrak,422,1,195
+90,1061857,541061857,St. Albans Amtrak,54,0,191
+90,1061858,541061858,St. Albans Amtrak,54,0,191
+90,1061859,541061859,St. Albans Amtrak,54,0,191
+90,1061860,541061860,St. Albans Amtrak,54,0,191
+90,1061855,551061855,Washington Union Station Amtrak,55,1,190
+90,1061324,551061324,Washington Union Station Amtrak,55,1,190
+90,1061326,551061326,Washington Union Station Amtrak,55,1,190
+90,1061327,551061327,Washington Union Station Amtrak,55,1,190
+90,1061329,551061329,Washington Union Station Amtrak,55,1,190
+90,1061856,561061856,St. Albans Amtrak,56,0,191
+90,1061331,561061331,St. Albans Amtrak,56,0,191
+90,1061333,561061333,St. Albans Amtrak,56,0,191
+90,1061334,561061334,St. Albans Amtrak,56,0,191
+90,1061336,561061336,St. Albans Amtrak,56,0,191
+90,1061861,571061861,Washington Union Station Amtrak,57,1,190
+90,1061862,571061862,Washington Union Station Amtrak,57,1,190
+90,1061863,571061863,Washington Union Station Amtrak,57,1,190
+90,1061864,571061864,Washington Union Station Amtrak,57,1,190
+80,1053537,3501053537,Pontiac Amtrak,350,1,52
+80,1053536,3501053536,Pontiac Amtrak,350,1,52
+80,1065901,3511065901,Chicago Union Station Amtrak,351,0,53
+80,1065900,3511065900,Chicago Union Station Amtrak,351,0,53
+80,1065902,3511065902,Chicago Union Station Amtrak,351,0,53
+80,1065903,3511065903,Chicago Union Station Amtrak,351,0,53
+80,1052531,3521052531,Pontiac Amtrak,352,1,52
+80,1052530,3521052530,Pontiac Amtrak,352,1,52
+80,1053540,3531053540,Chicago Union Station Amtrak,353,0,53
+80,1053541,3531053541,Chicago Union Station Amtrak,353,0,53
+80,1065584,3541065584,Pontiac Amtrak,354,1,52
+80,1065581,3541065581,Pontiac Amtrak,354,1,52
+80,1065582,3541065582,Pontiac Amtrak,354,1,52
+80,1065583,3541065583,Pontiac Amtrak,354,1,52
+80,1054960,3551054960,Chicago Union Station Amtrak,355,0,53
+80,1054959,3551054959,Chicago Union Station Amtrak,355,0,53
+42,1063974,33111063974,San Francisco - Caltrain Station Amtrak,3311,0,
+42,1063975,33111063975,San Francisco - Caltrain Station Amtrak,3311,0,
+42,1063976,33111063976,San Francisco - Caltrain Station Amtrak,3311,0,
+42,1063977,33181063977,Emeryville Amtrak,3318,1,
+42,1063978,33181063978,Emeryville Amtrak,3318,1,
+42,1063979,33181063979,Emeryville Amtrak,3318,1,
+42,1063981,33181063981,Emeryville Amtrak,3318,1,
+42,1063983,33181063983,Emeryville Amtrak,3318,1,
+42,1053187,33211053187,San Francisco - Financial District Amtrak,3321,0,
+42,1050433,33211050433,San Francisco - Financial District Amtrak,3321,0,
+42,1050435,33211050435,San Francisco - Financial District Amtrak,3321,0,
+42,1053188,33231053188,San Francisco - Caltrain Station Amtrak,3323,0,
+42,1050438,33231050438,San Francisco - Caltrain Station Amtrak,3323,0,
+42,1050440,33231050440,San Francisco - Caltrain Station Amtrak,3323,0,
+42,1053189,33251053189,San Francisco - Caltrain Station Amtrak,3325,0,
+42,1050443,33251050443,San Francisco - Caltrain Station Amtrak,3325,0,
+42,1050445,33251050445,San Francisco - Caltrain Station Amtrak,3325,0,
+42,1063872,33271063872,San Francisco - Caltrain Station Amtrak,3327,0,
+42,1063873,33271063873,San Francisco - Caltrain Station Amtrak,3327,0,
+42,1063874,33271063874,San Francisco - Caltrain Station Amtrak,3327,0,
+42,1063876,33271063876,San Francisco - Caltrain Station Amtrak,3327,0,
+42,1063878,33271063878,San Francisco - Caltrain Station Amtrak,3327,0,
+42,1063879,33291063879,San Francisco - Caltrain Station Amtrak,3329,0,
+42,1063880,33291063880,San Francisco - Caltrain Station Amtrak,3329,0,
+42,1063881,33291063881,San Francisco - Caltrain Station Amtrak,3329,0,
+42,1063885,33291063885,San Francisco - Caltrain Station Amtrak,3329,0,
+42,1063883,33291063883,San Francisco - Caltrain Station Amtrak,3329,0,
+42,1063886,33361063886,Emeryville Amtrak,3336,1,
+42,1063887,33361063887,Emeryville Amtrak,3336,1,
+42,1063888,33361063888,Emeryville Amtrak,3336,1,
+42,1063890,33361063890,Emeryville Amtrak,3336,1,
+42,1063892,33361063892,Emeryville Amtrak,3336,1,
+42,1063893,33381063893,Emeryville Amtrak,3338,1,
+42,1063894,33381063894,Emeryville Amtrak,3338,1,
+42,1063895,33381063895,Emeryville Amtrak,3338,1,
+42,1063897,33381063897,Emeryville Amtrak,3338,1,
+42,1063899,33381063899,Emeryville Amtrak,3338,1,
+42,1063900,33401063900,Emeryville Amtrak,3340,1,
+42,1063901,33401063901,Emeryville Amtrak,3340,1,
+42,1063902,33401063902,Emeryville Amtrak,3340,1,
+42,1063904,33401063904,Emeryville Amtrak,3340,1,
+42,1063906,33401063906,Emeryville Amtrak,3340,1,
+42,1063907,33421063907,Emeryville Amtrak,3342,1,
+42,1063908,33421063908,Emeryville Amtrak,3342,1,
+42,1063909,33421063909,Emeryville Amtrak,3342,1,
+42,1063911,33421063911,Emeryville Amtrak,3342,1,
+42,1063913,33421063913,Emeryville Amtrak,3342,1,
+42,1063914,33451063914,San Francisco - Financial District Amtrak,3345,0,
+42,1063915,33451063915,San Francisco - Financial District Amtrak,3345,0,
+42,1063916,33451063916,San Francisco - Financial District Amtrak,3345,0,
+42,1063918,33451063918,San Francisco - Financial District Amtrak,3345,0,
+42,1063920,33451063920,San Francisco - Financial District Amtrak,3345,0,
+42,1053345,33681053345,Emeryville Amtrak,3368,1,
+42,1044126,33681044126,Emeryville Amtrak,3368,1,
+42,1050630,33681050630,Emeryville Amtrak,3368,1,
+42,897574,3370897574,Emeryville Amtrak,3370,1,
+42,897570,3374897570,Emeryville Amtrak,3374,1,
+42,1053357,34011053357,San Francisco - Transbay Terminal Amtrak,3401,0,
+42,1053356,34021053356,Stockton Robert Cabral Station Amtrak,3402,1,
+42,1053358,34031053358,San Francisco - Transbay Terminal Amtrak,3403,0,
+42,1053359,34041053359,Stockton Robert Cabral Station Amtrak,3404,1,
+42,1053421,34101053421,Victorville Amtrak,3410,1,
+42,1053403,34141053403,Victorville Amtrak,3414,1,
+42,1053364,34151053364,Bakersfield Amtrak,3415,0,
+42,1053404,34171053404,Bakersfield Amtrak,3417,0,
+42,1056827,34241056827,Stateline Amtrak,3424,1,
+42,1056828,34241056828,Stateline Amtrak,3424,1,
+42,1056829,34241056829,Stateline Amtrak,3424,1,
+42,1056830,34241056830,Stateline Amtrak,3424,1,
+42,1056831,34241056831,Stateline Amtrak,3424,1,
+42,1056833,34241056833,Stateline Amtrak,3424,1,
+42,1056835,34241056835,Stateline Amtrak,3424,1,
+42,1056836,34471056836,Sacramento Amtrak,3447,0,
+42,1056837,34471056837,Sacramento Amtrak,3447,0,
+42,1056838,34471056838,Sacramento Amtrak,3447,0,
+42,1056839,34471056839,Sacramento Amtrak,3447,0,
+42,1056840,34471056840,Sacramento Amtrak,3447,0,
+42,1056932,34741056932,Stateline Amtrak,3474,1,
+42,1056929,34741056929,Stateline Amtrak,3474,1,
+42,1056930,34741056930,Stateline Amtrak,3474,1,
+42,1056931,34741056931,Stateline Amtrak,3474,1,
+42,1056933,34741056933,Stateline Amtrak,3474,1,
+42,1053354,35101053354,Las Vegas Amtrak,3510,1,
+42,1053360,35111053360,Salinas Amtrak,3511,1,
+42,1053361,35141053361,Salinas Amtrak,3514,1,
+42,1053419,35191053419,Bakersfield Amtrak,3519,0,
+42,1050689,35191050689,Bakersfield Amtrak,3519,0,
+42,1056842,35241056842,Sparks Amtrak,3524,1,
+42,1056843,35241056843,Sparks Amtrak,3524,1,
+42,1056844,35241056844,Sparks Amtrak,3524,1,
+42,1056846,35241056846,Sparks Amtrak,3524,1,
+42,1056841,35241056841,Sparks Amtrak,3524,1,
+42,1056857,35281056857,Sparks Amtrak,3528,1,
+42,1056858,35281056858,Sparks Amtrak,3528,1,
+42,1056859,35281056859,Sparks Amtrak,3528,1,
+42,1056861,35281056861,Sparks Amtrak,3528,1,
+42,1056863,35281056863,Sparks Amtrak,3528,1,
+42,1056851,35341056851,Sparks Amtrak,3534,1,
+42,1056852,35341056852,Sparks Amtrak,3534,1,
+42,1056853,35341056853,Sparks Amtrak,3534,1,
+42,1056848,35371056848,Sacramento Amtrak,3537,0,
+42,1056849,35371056849,Sacramento Amtrak,3537,0,
+42,1056850,35371056850,Sacramento Amtrak,3537,0,
+42,1053402,35381053402,Auburn Amtrak,3538,0,
+42,1050678,35381050678,Auburn Amtrak,3538,0,
+42,1050680,35381050680,Auburn Amtrak,3538,0,
+42,1056854,35431056854,Sacramento Amtrak,3543,0,
+42,1056855,35431056855,Sacramento Amtrak,3543,0,
+42,1056856,35431056856,Sacramento Amtrak,3543,0,
+42,1056943,35491056943,Sacramento Amtrak,3549,0,
+42,1056939,35491056939,Sacramento Amtrak,3549,0,
+42,1056940,35491056940,Sacramento Amtrak,3549,0,
+42,1056942,35491056942,Sacramento Amtrak,3549,0,
+42,1056945,35491056945,Sacramento Amtrak,3549,0,
+42,1056934,35741056934,Reno Amtrak,3574,1,
+42,1056935,35741056935,Reno Amtrak,3574,1,
+42,1056936,35741056936,Reno Amtrak,3574,1,
+42,1056937,35741056937,Reno Amtrak,3574,1,
+42,1056938,35741056938,Reno Amtrak,3574,1,
+42,1056951,35781056951,Sparks Amtrak,3578,1,
+42,1056952,35781056952,Sparks Amtrak,3578,1,
+42,1056953,35781056953,Sparks Amtrak,3578,1,
+42,1056954,35781056954,Sparks Amtrak,3578,1,
+42,1056955,35781056955,Sparks Amtrak,3578,1,
+42,1056946,35991056946,Sacramento Amtrak,3599,0,
+42,1056947,35991056947,Sacramento Amtrak,3599,0,
+42,1056948,35991056948,Sacramento Amtrak,3599,0,
+42,1056949,35991056949,Sacramento Amtrak,3599,0,
+42,1056950,35991056950,Sacramento Amtrak,3599,0,
+42,1053101,36031053101,Sacramento Amtrak,3603,0,
+42,1050362,36031050362,Sacramento Amtrak,3603,0,
+42,1050359,36031050359,Sacramento Amtrak,3603,0,
+42,1053362,36111053362,Carmel Amtrak,3611,0,
+42,1053363,36141053363,Carmel Amtrak,3614,1,
+42,1053102,36231053102,Sacramento Amtrak,3623,0,
+42,1050365,36231050365,Sacramento Amtrak,3623,0,
+42,1050367,36231050367,Sacramento Amtrak,3623,0,
+42,1053103,36251053103,Sacramento Amtrak,3625,0,
+42,1053104,36341053104,Auburn Amtrak,3634,0,
+42,1051468,36341051468,Auburn Amtrak,3634,0,
+42,1051470,36341051470,Auburn Amtrak,3634,0,
+42,1053105,36401053105,Auburn Amtrak,3640,1,
+42,1051473,36401051473,Auburn Amtrak,3640,1,
+42,1051475,36401051475,Auburn Amtrak,3640,1,
+42,1053106,36421053106,Auburn Amtrak,3642,1,
+42,1050370,36421050370,Auburn Amtrak,3642,1,
+42,1050372,36421050372,Auburn Amtrak,3642,1,
+42,1053396,36461053396,Auburn Amtrak,3646,1,
+42,1051572,36461051572,Auburn Amtrak,3646,1,
+42,1051574,36461051574,Auburn Amtrak,3646,1,
+42,1053107,36491053107,Sacramento Amtrak,3649,0,
+42,1051478,36491051478,Sacramento Amtrak,3649,0,
+42,1051480,36491051480,Sacramento Amtrak,3649,0,
+42,1053112,37041053112,Sacramento Amtrak,3704,1,
+42,1053395,37101053395,Stockton San Joaquin Street Station Amtrak,3710,1,
+42,1053109,37111053109,Redding Amtrak,3711,0,
+42,1051483,37111051483,Redding Amtrak,3711,0,
+42,1051485,37111051485,Redding Amtrak,3711,0,
+42,1053108,37121053108,Stockton San Joaquin Street Station Amtrak,3712,1,
+42,1053110,37131053110,Redding Amtrak,3713,0,
+42,1043305,37131043305,Redding Amtrak,3713,0,
+42,1043306,37131043306,Redding Amtrak,3713,0,
+42,1053111,37141053111,Stockton San Joaquin Street Station Amtrak,3714,1,
+42,1053113,37151053113,Redding Amtrak,3715,0,
+42,1053412,37171053412,Redding Amtrak,3717,0,
+42,1053114,37181053114,Stockton San Joaquin Street Station Amtrak,3718,1,
+42,1053353,37611053353,Redding Amtrak,3761,0,
+42,1051565,37611051565,Redding Amtrak,3761,0,
+42,1051566,37611051566,Redding Amtrak,3761,0,
+42,1053382,38011053382,Stockton Robert Cabral Station Amtrak,3801,1,
+42,1053115,38021053115,Sacramento Amtrak,3802,1,
+42,1051488,38021051488,Sacramento Amtrak,3802,1,
+42,1051490,38021051490,Sacramento Amtrak,3802,1,
+42,1053388,38101053388,Stockton San Joaquin Street Station Amtrak,3810,1,
+42,1053116,38111053116,Davis Amtrak,3811,0,
+42,1053117,38121053117,Stockton San Joaquin Street Station Amtrak,3812,1,
+42,1053118,38141053118,Sacramento Amtrak,3814,1,
+42,1053119,38151053119,Davis Amtrak,3815,0,
+42,1053120,38161053120,Stockton San Joaquin Street Station Amtrak,3816,1,
+42,1053121,38171053121,Davis Amtrak,3817,0,
+42,1053409,38191053409,Davis Amtrak,3819,0,
+42,1053410,38301053410,Stockton San Joaquin Street Station Amtrak,3830,1,
+42,1053389,38381053389,Stockton San Joaquin Street Station Amtrak,3838,0,
+42,1053425,38391053425,Lodi Transit Center Amtrak,3839,0,
+42,1053386,38521053386,Sacramento Amtrak,3852,1,
+42,1051568,38521051568,Sacramento Amtrak,3852,1,
+42,1051569,38521051569,Sacramento Amtrak,3852,1,
+42,1053122,39041053122,Stockton Robert Cabral Station Amtrak,3904,0,
+42,1053417,39101053417,Stockton San Joaquin Street Station Amtrak,3910,0,
+42,1053124,39111053124,San Jose Diridon Station Amtrak,3911,1,
+42,1053123,39121053123,Stockton San Joaquin Street Station Amtrak,3912,0,
+42,1053125,39131053125,San Jose Diridon Station Amtrak,3913,1,
+42,1053126,39141053126,Stockton Robert Cabral Station Amtrak,3914,0,
+42,1053127,39151053127,San Jose Diridon Station Amtrak,3915,1,
+42,1051493,39151051493,San Jose Diridon Station Amtrak,3915,1,
+42,1051495,39151051495,San Jose Diridon Station Amtrak,3915,1,
+42,1053128,39171053128,San Jose Diridon Station Amtrak,3917,1,
+42,1053355,39191053355,San Jose Diridon Station Amtrak,3919,1,
+42,1053413,39651053413,San Jose Diridon Station Amtrak,3965,1,
+42,1051576,39651051576,San Jose Diridon Station Amtrak,3965,1,
+42,1051577,39651051577,San Jose Diridon Station Amtrak,3965,1,
+42,1053134,39681053134,Stockton Robert Cabral Station Amtrak,3968,0,
+42,1053373,40031053373,Hanford Amtrak,4003,0,
+42,1053374,40041053374,Santa Maria Amtrak,4004,1,
+42,1053422,40101053422,Santa Maria Amtrak,4010,1,
+42,1053423,40151053423,Hanford Amtrak,4015,0,
+42,1060476,45821060476,Los Angeles Union Station Amtrak,4582,1,
+42,1060477,45821060477,Los Angeles Union Station Amtrak,4582,1,
+42,1060478,45821060478,Los Angeles Union Station Amtrak,4582,1,
+42,1053184,45911053184,Goleta Amtrak,4591,0,
+42,1053387,47401053387,San Luis Obispo Amtrak,4740,1,
+42,1050671,47401050671,San Luis Obispo Amtrak,4740,1,
+42,1050672,47401050672,San Luis Obispo Amtrak,4740,1,
+42,1053218,47591053218,Grover Beach Amtrak,4759,0,
+42,1053351,47611053351,Oakland Jack London Square Station,4761,0,
+42,1046288,47611046288,Oakland Jack London Square Station,4761,0,
+42,1053219,47631053219,Oakland Jack London Square Station,4763,0,
+42,1053196,47641053196,Santa Barbara Amtrak,4764,1,
+42,1053220,47681053220,Santa Barbara Amtrak,4768,1,
+42,1053197,47691053197,Oakland Jack London Square Station,4769,0,
+42,1056309,47771056309,Paso Robles Intermodal Station Amtrak,4777,0,
+42,1056310,47771056310,Paso Robles Intermodal Station Amtrak,4777,0,
+42,1053198,47841053198,Santa Barbara Amtrak,4784,1,
+42,1053199,47851053199,Oakland Jack London Square Station,4785,0,
+42,1053352,47901053352,San Luis Obispo Amtrak,4790,1,
+42,1050639,47901050639,San Luis Obispo Amtrak,4790,1,
+42,1050642,47901050642,San Luis Obispo Amtrak,4790,1,
+42,1053200,47961053200,Santa Barbara Amtrak,4796,1,
+42,1053346,49681053346,Palm Springs Amtrak,4968,1,
+42,1053375,49691053375,Fullerton Transportation Center,4969,0,
+42,1053349,49841053349,Indio Amtrak,4984,1,
+42,1060773,49851060773,Fullerton Transportation Center,4985,0,
+42,1060774,49851060774,Fullerton Transportation Center,4985,0,
+42,1060775,49851060775,Fullerton Transportation Center,4985,0,
+42,1060776,49851060776,Fullerton Transportation Center,4985,0,
+42,1063993,50051063993,San Francisco - Caltrain Station Amtrak,5005,0,
+42,1063994,50051063994,San Francisco - Caltrain Station Amtrak,5005,0,
+42,1063995,50051063995,San Francisco - Caltrain Station Amtrak,5005,0,
+42,1053205,50061053205,Emeryville Amtrak,5006,1,
+42,1053206,50111053206,San Francisco - Caltrain Station Amtrak,5011,0,
+42,1063996,50141063996,Emeryville Amtrak,5014,1,
+42,1063997,50141063997,Emeryville Amtrak,5014,1,
+42,1063998,50141063998,Emeryville Amtrak,5014,1,
+42,1053208,54021053208,Indio Amtrak,5402,1,
+42,1043370,54021043370,Indio Amtrak,5402,1,
+42,1043371,54021043371,Indio Amtrak,5402,1,
+42,1060769,54031060769,Bakersfield Amtrak,5403,0,
+42,1060770,54031060770,Bakersfield Amtrak,5403,0,
+42,1060771,54031060771,Bakersfield Amtrak,5403,0,
+42,1060772,54031060772,Bakersfield Amtrak,5403,0,
+42,1053424,54101053424,Hemet Amtrak,5410,1,
+42,1053224,54121053224,Hemet Amtrak,5412,1,
+42,1053209,54141053209,Indio Amtrak,5414,1,
+42,1053210,54151053210,Bakersfield Amtrak,5415,0,
+42,1050457,54151050457,Bakersfield Amtrak,5415,0,
+42,1050459,54151050459,Bakersfield Amtrak,5415,0,
+42,1053226,54171053226,Bakersfield Amtrak,5417,0,
+42,1053408,54191053408,Bakersfield Amtrak,5419,0,
+42,1043391,54191043391,Bakersfield Amtrak,5419,0,
+42,1043392,54191043392,Bakersfield Amtrak,5419,0,
+42,1043393,54191043393,Bakersfield Amtrak,5419,0,
+42,1043394,54191043394,Bakersfield Amtrak,5419,0,
+42,1053407,54651053407,Bakersfield Amtrak,5465,0,
+42,1050682,54651050682,Bakersfield Amtrak,5465,0,
+42,1050683,54651050683,Bakersfield Amtrak,5465,0,
+42,1053365,56021053365,Santa Barbara Amtrak,5602,1,
+42,1053366,56031053366,Bakersfield Amtrak,5603,0,
+42,1053367,56121053367,Santa Barbara Amtrak,5612,1,
+42,1053368,56141053368,Santa Barbara Amtrak,5614,1,
+42,1053369,56151053369,Bakersfield Amtrak,5615,0,
+42,1053370,56171053370,Bakersfield Amtrak,5617,0,
+42,1053235,57021053235,San Pedro Amtrak,5702,1,
+42,1053227,57031053227,Bakersfield Amtrak,5703,0,
+42,1053393,57101053393,San Pedro Amtrak,5710,1,
+42,1053234,57121053234,San Pedro Amtrak,5712,1,
+42,1053228,57141053228,San Pedro Amtrak,5714,1,
+42,1053236,57151053236,Bakersfield Amtrak,5715,0,
+42,1053237,57171053237,Bakersfield Amtrak,5717,0,
+42,1053397,57191053397,Bakersfield Amtrak,5719,0,
+42,1053229,58011053229,Bakersfield Amtrak,5801,0,
+42,1053230,58021053230,Los Angeles Union Station Amtrak,5802,1,
+42,1053238,58031053238,Bakersfield Amtrak,5803,0,
+42,1053239,58041053239,Santa Ana Regional Transportation Center Amtrak,5804,1,
+42,1053394,58101053394,Los Angeles Union Station Amtrak,5810,1,
+42,1053231,58111053231,Bakersfield Amtrak,5811,0,
+42,1053240,58121053240,Los Angeles Union Station Amtrak,5812,1,
+42,1053232,58131053232,Bakersfield Amtrak,5813,0,
+42,1053241,58141053241,Los Angeles Union Station Amtrak,5814,1,
+42,1053242,58151053242,Bakersfield Amtrak,5815,0,
+42,1053243,58161053243,Los Angeles Union Station Amtrak,5816,1,
+42,1053244,58171053244,Bakersfield Amtrak,5817,0,
+42,1053233,58181053233,San Diego Santa Fe Depot Amtrak,5818,1,
+42,1053392,58191053392,Bakersfield Amtrak,5819,0,
+42,1053306,58721053306,Los Angeles Union Station Amtrak,5872,1,
+42,1053245,58851053245,Fresno Amtrak,5885,0,
+42,1053246,59021053246,Torrance Amtrak,5902,1,
+42,1053247,59031053247,Bakersfield Amtrak,5903,0,
+42,1053248,59031053248,Bakersfield Amtrak,5903,0,
+42,1053249,59031053249,Bakersfield Amtrak,5903,0,
+42,1053401,59101053401,Torrance Amtrak,5910,1,
+42,1053250,59121053250,Torrance Amtrak,5912,1,
+42,1053251,59141053251,Torrance Amtrak,5914,1,
+42,1053307,59151053307,Bakersfield Amtrak,5915,0,
+42,1053308,59171053308,Bakersfield Amtrak,5917,0,
+42,1053309,59171053309,Bakersfield Amtrak,5917,0,
+42,1053310,59171053310,Bakersfield Amtrak,5917,0,
+42,1053398,59191053398,Bakersfield Amtrak,5919,0,
+42,1053399,59191053399,Bakersfield Amtrak,5919,0,
+42,1053400,59191053400,Bakersfield Amtrak,5919,0,
+42,1053252,60111053252,Oakland Jack London Square Station,6011,1,
+42,1064014,60141064014,San Francisco - Shopping Center Amtrak,6014,0,
+42,1064012,60141064012,San Francisco - Shopping Center Amtrak,6014,0,
+42,1064013,60141064013,San Francisco - Shopping Center Amtrak,6014,0,
+42,1053384,62321053384,San Jose Diridon Station Amtrak,6232,0,
+42,1050665,62321050665,San Jose Diridon Station Amtrak,6232,0,
+42,1050666,62321050666,San Jose Diridon Station Amtrak,6232,0,
+42,1053253,62371053253,Santa Barbara Amtrak,6237,1,
+42,1053378,62381053378,San Jose Diridon Station Amtrak,6238,0,
+42,1050650,62381050650,San Jose Diridon Station Amtrak,6238,0,
+42,1050652,62381050652,San Jose Diridon Station Amtrak,6238,0,
+42,1064909,63111064909,Mckinleyville Amtrak,6311,0,
+42,1064910,63111064910,Mckinleyville Amtrak,6311,0,
+42,1064911,63111064911,Mckinleyville Amtrak,6311,0,
+42,1064912,63111064912,Mckinleyville Amtrak,6311,0,
+42,1064913,63111064913,Mckinleyville Amtrak,6311,0,
+42,1064914,63111064914,Mckinleyville Amtrak,6311,0,
+42,1064915,63111064915,Mckinleyville Amtrak,6311,0,
+42,1064916,63111064916,Mckinleyville Amtrak,6311,0,
+42,1064917,63111064917,Mckinleyville Amtrak,6311,0,
+42,1064918,63111064918,Mckinleyville Amtrak,6311,0,
+42,1064919,63111064919,Mckinleyville Amtrak,6311,0,
+42,1064920,63111064920,Mckinleyville Amtrak,6311,0,
+42,1064921,63111064921,Mckinleyville Amtrak,6311,0,
+42,1064922,63111064922,Mckinleyville Amtrak,6311,0,
+42,1064923,63111064923,Mckinleyville Amtrak,6311,0,
+42,1064924,63111064924,Mckinleyville Amtrak,6311,0,
+42,1064925,63111064925,Mckinleyville Amtrak,6311,0,
+42,1064926,63111064926,Mckinleyville Amtrak,6311,0,
+42,1064927,63111064927,Mckinleyville Amtrak,6311,0,
+42,1064928,63111064928,Mckinleyville Amtrak,6311,0,
+42,1064929,63111064929,Mckinleyville Amtrak,6311,0,
+42,1064932,63141064932,Martinez Amtrak,6314,1,
+42,1064933,63141064933,Martinez Amtrak,6314,1,
+42,1064930,63151064930,Mckinleyville Amtrak,6315,0,
+42,1064931,63151064931,Mckinleyville Amtrak,6315,0,
+42,1064907,63181064907,Martinez Amtrak,6318,1,
+42,1064908,63181064908,Martinez Amtrak,6318,1,
+42,1056314,64101056314,Martinez Amtrak,6410,1,
+42,1056315,64101056315,Martinez Amtrak,6410,1,
+42,1056316,64101056316,Martinez Amtrak,6410,1,
+42,1056311,64171056311,Santa Rosa Amtrak,6417,0,
+42,1056312,64171056312,Santa Rosa Amtrak,6417,0,
+42,1056313,64171056313,Santa Rosa Amtrak,6417,0,
+42,1056317,65141056317,Martinez Amtrak,6514,1,
+42,1056318,65141056318,Martinez Amtrak,6514,1,
+42,1056319,65141056319,Martinez Amtrak,6514,1,
+42,1056304,65151056304,Napa Amtrak,6515,0,189
+42,1056302,65151056302,Napa Amtrak,6515,0,189
+42,1056303,65151056303,Napa Amtrak,6515,0,189
+42,1053274,65181053274,Martinez Amtrak,6518,1,
+42,1053275,65181053275,Martinez Amtrak,6518,1,
+42,1053256,65181053256,Martinez Amtrak,6518,1,
+42,1056305,65181056305,Martinez Amtrak,6518,1,
+42,1056306,65181056306,Martinez Amtrak,6518,1,
+42,1053258,65181053258,Martinez Amtrak,6518,1,
+42,1053259,65181053259,Martinez Amtrak,6518,1,
+42,1053260,65181053260,Martinez Amtrak,6518,1,
+42,1053261,65181053261,Martinez Amtrak,6518,1,
+42,1053262,65181053262,Martinez Amtrak,6518,1,
+42,1053263,65181053263,Martinez Amtrak,6518,1,
+42,1053264,65181053264,Martinez Amtrak,6518,1,
+42,1053265,65181053265,Martinez Amtrak,6518,1,
+42,1053266,65181053266,Martinez Amtrak,6518,1,
+42,1053267,65181053267,Martinez Amtrak,6518,1,
+42,1053268,65181053268,Martinez Amtrak,6518,1,
+42,1053269,65181053269,Martinez Amtrak,6518,1,
+42,1053270,65181053270,Martinez Amtrak,6518,1,
+42,1053271,65181053271,Martinez Amtrak,6518,1,
+42,1053272,65181053272,Martinez Amtrak,6518,1,
+42,1053427,66101053427,Emeryville Amtrak,6610,1,
+42,1053333,66111053333,San Francisco - Fisherman's Wharf Amtrak,6611,0,
+42,1053276,66121053276,Emeryville Amtrak,6612,1,
+42,1053277,66131053277,San Francisco - Caltrain Station Amtrak,6613,0,
+42,1053332,66141053332,Emeryville Amtrak,6614,1,
+42,1053278,66151053278,San Francisco - Caltrain Station Amtrak,6615,0,
+42,1053279,66161053279,Emeryville Amtrak,6616,1,
+42,1053280,66171053280,San Francisco - Fisherman's Wharf Amtrak,6617,0,
+42,1053391,66191053391,San Francisco - Transbay Terminal Amtrak,6619,0,
+42,1053281,66201053281,Emeryville Amtrak,6620,1,
+42,1050485,66201050485,Emeryville Amtrak,6620,1,
+42,1050487,66201050487,Emeryville Amtrak,6620,1,
+42,1053334,66211053334,San Francisco - Fisherman's Wharf Amtrak,6621,0,
+42,1050581,66211050581,San Francisco - Fisherman's Wharf Amtrak,6621,0,
+42,1050583,66211050583,San Francisco - Fisherman's Wharf Amtrak,6621,0,
+42,1053282,66221053282,Emeryville Amtrak,6622,1,
+42,1050490,66221050490,Emeryville Amtrak,6622,1,
+42,1050492,66221050492,Emeryville Amtrak,6622,1,
+42,1053283,66231053283,San Francisco - Fisherman's Wharf Amtrak,6623,0,
+42,1050495,66231050495,San Francisco - Fisherman's Wharf Amtrak,6623,0,
+42,1050497,66231050497,San Francisco - Fisherman's Wharf Amtrak,6623,0,
+42,1053335,66241053335,Emeryville Amtrak,6624,1,
+42,1050586,66241050586,Emeryville Amtrak,6624,1,
+42,1050588,66241050588,Emeryville Amtrak,6624,1,
+42,1053284,66251053284,San Francisco - Fisherman's Wharf Amtrak,6625,0,
+42,1050500,66251050500,San Francisco - Fisherman's Wharf Amtrak,6625,0,
+42,1050502,66251050502,San Francisco - Fisherman's Wharf Amtrak,6625,0,
+42,1053336,66271053336,San Francisco - Fisherman's Wharf Amtrak,6627,0,
+42,1050591,66271050591,San Francisco - Fisherman's Wharf Amtrak,6627,0,
+42,1050593,66271050593,San Francisco - Fisherman's Wharf Amtrak,6627,0,
+42,1053285,66281053285,Emeryville Amtrak,6628,1,
+42,1050505,66281050505,Emeryville Amtrak,6628,1,
+42,1050507,66281050507,Emeryville Amtrak,6628,1,
+42,1053286,66291053286,San Francisco - Fisherman's Wharf Amtrak,6629,0,
+42,1050510,66291050510,San Francisco - Fisherman's Wharf Amtrak,6629,0,
+42,1050512,66291050512,San Francisco - Fisherman's Wharf Amtrak,6629,0,
+42,1053287,66301053287,Emeryville Amtrak,6630,1,
+42,1050515,66301050515,Emeryville Amtrak,6630,1,
+42,1050517,66301050517,Emeryville Amtrak,6630,1,
+42,1064015,66311064015,San Francisco - Caltrain Station Amtrak,6631,0,
+42,1064016,66311064016,San Francisco - Caltrain Station Amtrak,6631,0,
+42,1064017,66311064017,San Francisco - Caltrain Station Amtrak,6631,0,
+42,1064019,66311064019,San Francisco - Caltrain Station Amtrak,6631,0,
+42,1064021,66311064021,San Francisco - Caltrain Station Amtrak,6631,0,
+42,1053288,66321053288,Emeryville Amtrak,6632,1,
+42,1050520,66321050520,Emeryville Amtrak,6632,1,
+42,1050522,66321050522,Emeryville Amtrak,6632,1,
+42,1053289,66341053289,Emeryville Amtrak,6634,1,
+42,1050525,66341050525,Emeryville Amtrak,6634,1,
+42,1050527,66341050527,Emeryville Amtrak,6634,1,
+42,1053290,66351053290,San Francisco - Caltrain Station Amtrak,6635,0,
+42,1050530,66351050530,San Francisco - Caltrain Station Amtrak,6635,0,
+42,1050532,66351050532,San Francisco - Caltrain Station Amtrak,6635,0,
+42,1053338,66361053338,Emeryville Amtrak,6636,1,
+42,1050601,66361050601,Emeryville Amtrak,6636,1,
+42,1050603,66361050603,Emeryville Amtrak,6636,1,
+42,1053291,66371053291,San Francisco - Caltrain Station Amtrak,6637,0,
+42,1053339,66381053339,Emeryville Amtrak,6638,1,
+42,1050606,66381050606,Emeryville Amtrak,6638,1,
+42,1050608,66381050608,Emeryville Amtrak,6638,1,
+42,1053340,66401053340,Emeryville Amtrak,6640,1,
+42,1050611,66401050611,Emeryville Amtrak,6640,1,
+42,1050613,66401050613,Emeryville Amtrak,6640,1,
+42,1053292,66411053292,San Francisco - Caltrain Station Amtrak,6641,0,
+42,1064022,66421064022,Emeryville Amtrak,6642,1,
+42,1064023,66421064023,Emeryville Amtrak,6642,1,
+42,1064024,66421064024,Emeryville Amtrak,6642,1,
+42,1064026,66421064026,Emeryville Amtrak,6642,1,
+42,1064028,66421064028,Emeryville Amtrak,6642,1,
+42,1053293,66431053293,San Francisco - Caltrain Station Amtrak,6643,0,
+42,1050535,66431050535,San Francisco - Caltrain Station Amtrak,6643,0,
+42,1050537,66431050537,San Francisco - Caltrain Station Amtrak,6643,0,
+42,1053294,66441053294,Emeryville Amtrak,6644,1,
+42,1050540,66441050540,Emeryville Amtrak,6644,1,
+42,1050542,66441050542,Emeryville Amtrak,6644,1,
+42,1053342,66451053342,San Francisco - Fisherman's Wharf Amtrak,6645,0,
+42,1050621,66451050621,San Francisco - Fisherman's Wharf Amtrak,6645,0,
+42,1050623,66451050623,San Francisco - Fisherman's Wharf Amtrak,6645,0,
+42,1064002,66461064002,Emeryville Amtrak,6646,1,
+42,1064003,66461064003,Emeryville Amtrak,6646,1,
+42,1064004,66461064004,Emeryville Amtrak,6646,1,
+42,1064006,66461064006,Emeryville Amtrak,6646,1,
+42,1064008,66461064008,Emeryville Amtrak,6646,1,
+42,1064009,66471064009,San Francisco - Caltrain Station Amtrak,6647,0,
+42,1064010,66471064010,San Francisco - Caltrain Station Amtrak,6647,0,
+42,1064011,66471064011,San Francisco - Caltrain Station Amtrak,6647,0,
+42,1053343,66481053343,Emeryville Amtrak,6648,1,
+42,1050626,66481050626,Emeryville Amtrak,6648,1,
+42,1050628,66481050628,Emeryville Amtrak,6648,1,
+42,1053297,66491053297,San Francisco - Caltrain Station Amtrak,6649,0,
+42,1050550,66491050550,San Francisco - Caltrain Station Amtrak,6649,0,
+42,1050552,66491050552,San Francisco - Caltrain Station Amtrak,6649,0,
+42,1053426,66501053426,Emeryville Amtrak,6650,1,
+42,1050692,66501050692,Emeryville Amtrak,6650,1,
+42,1050694,66501050694,Emeryville Amtrak,6650,1,
+42,1053298,66511053298,San Francisco - Caltrain Station Amtrak,6651,0,
+42,1050554,66511050554,San Francisco - Caltrain Station Amtrak,6651,0,
+42,1050557,66511050557,San Francisco - Caltrain Station Amtrak,6651,0,
+42,1053344,66531053344,San Francisco - Transbay Terminal Amtrak,6653,0,
+42,1053299,66681053299,Emeryville Amtrak,6668,1,
+42,1050559,66681050559,Emeryville Amtrak,6668,1,
+42,1050560,66681050560,Emeryville Amtrak,6668,1,
+42,1053300,66701053300,Emeryville Amtrak,6670,1,
+42,1050562,66701050562,Emeryville Amtrak,6670,1,
+42,1050563,66701050563,Emeryville Amtrak,6670,1,
+42,1053301,66731053301,San Francisco - Caltrain Station Amtrak,6673,0,
+42,1050565,66731050565,San Francisco - Caltrain Station Amtrak,6673,0,
+42,1050566,66731050566,San Francisco - Caltrain Station Amtrak,6673,0,
+42,1053211,66741053211,Emeryville Amtrak,6674,1,
+42,1050461,66741050461,Emeryville Amtrak,6674,1,
+42,1050462,66741050462,Emeryville Amtrak,6674,1,
+42,1053381,66771053381,San Francisco - Fisherman's Wharf Amtrak,6677,0,
+42,1050659,66771050659,San Francisco - Fisherman's Wharf Amtrak,6677,0,
+42,1050660,66771050660,San Francisco - Fisherman's Wharf Amtrak,6677,0,
+42,1053302,66781053302,Emeryville Amtrak,6678,1,
+42,1050568,66781050568,Emeryville Amtrak,6678,1,
+42,1050569,66781050569,Emeryville Amtrak,6678,1,
+42,1053212,66791053212,San Francisco - Fisherman's Wharf Amtrak,6679,0,
+42,1044013,66791044013,San Francisco - Fisherman's Wharf Amtrak,6679,0,
+42,1050464,66791050464,San Francisco - Fisherman's Wharf Amtrak,6679,0,
+42,1053213,66821053213,Emeryville Amtrak,6682,1,
+42,1050466,66821050466,Emeryville Amtrak,6682,1,
+42,1050467,66821050467,Emeryville Amtrak,6682,1,
+42,1053303,66831053303,San Francisco - Caltrain Station Amtrak,6683,0,
+42,1050571,66831050571,San Francisco - Caltrain Station Amtrak,6683,0,
+42,1050572,66831050572,San Francisco - Caltrain Station Amtrak,6683,0,
+42,1053214,66841053214,Emeryville Amtrak,6684,1,
+42,1050469,66841050469,Emeryville Amtrak,6684,1,
+42,1050470,66841050470,Emeryville Amtrak,6684,1,
+42,1053304,66861053304,Emeryville Amtrak,6686,1,
+42,1050574,66861050574,Emeryville Amtrak,6686,1,
+42,1050575,66861050575,Emeryville Amtrak,6686,1,
+42,1053215,66881053215,Emeryville Amtrak,6688,1,
+42,1050472,66881050472,Emeryville Amtrak,6688,1,
+42,1050473,66881050473,Emeryville Amtrak,6688,1,
+42,1053379,66921053379,Emeryville Amtrak,6692,1,
+42,1044142,66921044142,Emeryville Amtrak,6692,1,
+42,1050654,66921050654,Emeryville Amtrak,6692,1,
+42,1053390,66931053390,San Francisco - Caltrain Station Amtrak,6693,0,
+42,1050674,66931050674,San Francisco - Caltrain Station Amtrak,6693,0,
+42,1050675,66931050675,San Francisco - Caltrain Station Amtrak,6693,0,
+42,1053380,66941053380,Emeryville Amtrak,6694,1,
+42,1050656,66941050656,Emeryville Amtrak,6694,1,
+42,1050657,66941050657,Emeryville Amtrak,6694,1,
+42,1053411,66951053411,San Francisco - Transbay Terminal Amtrak,6695,0,
+42,1050685,66951050685,San Francisco - Transbay Terminal Amtrak,6695,0,
+42,1050686,66951050686,San Francisco - Transbay Terminal Amtrak,6695,0,
+42,1053216,66961053216,Emeryville Amtrak,6696,1,
+42,1050475,66961050475,Emeryville Amtrak,6696,1,
+42,1050476,66961050476,Emeryville Amtrak,6696,1,
+42,1053305,66981053305,Emeryville Amtrak,6698,1,
+42,1050577,66981050577,Emeryville Amtrak,6698,1,
+42,1050578,66981050578,Emeryville Amtrak,6698,1,
+42,1053217,66991053217,San Francisco - Caltrain Station Amtrak,6699,0,
+42,1050478,66991050478,San Francisco - Caltrain Station Amtrak,6699,0,
+42,1050479,66991050479,San Francisco - Caltrain Station Amtrak,6699,0,
+42,1053371,67031053371,Visalia Amtrak,6703,1,
+42,1053372,67041053372,Hanford Amtrak,6704,0,
+42,1053405,67101053405,Hanford Amtrak,6710,0,
+42,1053406,67151053406,Visalia Amtrak,6715,1,
+28,1066064,24791066064,New Haven Union Station Amtrak,2479,1,
+28,1066060,24931066060,New Haven Union Station Amtrak,2493,1,
+28,1066056,24951066056,New Haven Union Station Amtrak,2495,1,
+28,762279,3006762279,Reno Amtrak,3006,1,
+28,762280,3006762280,Reno Amtrak,3006,1,
+28,1063195,30221063195,Joliet Union Station,3022,0,
+28,1063213,30731063213,Charlotte Amtrak,3073,1,
+28,1063209,30741063209,Kannapolis Amtrak,3074,0,
+28,1063208,30751063208,Charlotte Amtrak,3075,1,
+28,1063210,30761063210,Kannapolis Amtrak,3076,0,
+28,1054727,31051054727,Omaha Amtrak,3105,0,
+28,1061060,31361061060,Springfield Amtrak,3136,0,
+28,1061061,31361061061,Springfield Amtrak,3136,0,
+28,1061062,31361061062,Springfield Amtrak,3136,0,
+28,1061041,31401061041,Springfield Amtrak,3140,0,
+28,1061042,31401061042,Springfield Amtrak,3140,0,
+28,1061043,31401061043,Springfield Amtrak,3140,0,
+28,1054782,31431054782,New Haven Union Station Amtrak,3143,1,
+28,1061096,31431061096,New Haven Union Station Amtrak,3143,1,
+28,1061097,31431061097,New Haven Union Station Amtrak,3143,1,
+28,1061093,31461061093,Springfield Amtrak,3146,0,
+28,1061094,31461061094,Springfield Amtrak,3146,0,
+28,1061095,31461061095,Springfield Amtrak,3146,0,
+28,1061090,31471061090,New Haven Union Station Amtrak,3147,1,
+28,1061091,31471061091,New Haven Union Station Amtrak,3147,1,
+28,1061092,31471061092,New Haven Union Station Amtrak,3147,1,
+28,1061078,31481061078,Springfield Amtrak,3148,0,
+28,1061079,31481061079,Springfield Amtrak,3148,0,
+28,1061080,31481061080,Springfield Amtrak,3148,0,
+28,1061075,31571061075,New Haven Union Station Amtrak,3157,1,
+28,1061076,31571061076,New Haven Union Station Amtrak,3157,1,
+28,1061077,31571061077,New Haven Union Station Amtrak,3157,1,
+28,1046121,32741046121,San Diego Santa Fe Depot Amtrak,3274,1,
+28,1046163,32791046163,Irvine Transportation Center Amtrak,3279,0,
+28,1046160,32841046160,San Diego Santa Fe Depot Amtrak,3284,1,
+28,1061023,33011061023,St. Louis Gateway Station Amtrak,3301,1,
+28,1064213,33021064213,Chicago Union Station Amtrak,3302,0,
+28,1061027,33031061027,St. Louis Gateway Station Amtrak,3303,1,
+28,1061026,33041061026,Bloomington-Normal Amtrak,3304,0,
+28,1061028,33051061028,St. Louis Gateway Station Amtrak,3305,1,
+28,1061029,33051061029,St. Louis Gateway Station Amtrak,3305,1,
+28,1061030,33061061030,Bloomington-Normal Amtrak,3306,0,
+28,1061031,33071061031,St. Louis Gateway Station Amtrak,3307,1,
+28,1061032,33071061032,St. Louis Gateway Station Amtrak,3307,1,
+28,1066042,33511066042,Ann Arbor Amtrak,3351,1,
+28,1065713,33541065713,Pontiac Amtrak,3354,0,
+28,1046119,33631046119,Irvine Transportation Center Amtrak,3363,0,
+28,1046155,33641046155,San Diego Santa Fe Depot Amtrak,3364,1,
+28,1046130,33691046130,Irvine Transportation Center Amtrak,3369,0,
+28,1046111,33801046111,San Diego Santa Fe Depot Amtrak,3380,1,
+28,1046137,33851046137,Irvine Transportation Center Amtrak,3385,0,
+28,1046100,33951046100,Irvine Transportation Center Amtrak,3395,0,
+28,1061069,34051061069,New Haven Union Station Amtrak,3405,1,
+28,1061070,34051061070,New Haven Union Station Amtrak,3405,1,
+28,1061071,34051061071,New Haven Union Station Amtrak,3405,1,
+28,1061063,34501061063,Springfield Amtrak,3450,0,
+28,1061064,34501061064,Springfield Amtrak,3450,0,
+28,1061065,34501061065,Springfield Amtrak,3450,0,
+28,1061066,34601061066,Springfield Amtrak,3460,0,
+28,1061067,34601061067,Springfield Amtrak,3460,0,
+28,1061068,34601061068,Springfield Amtrak,3460,0,
+28,1061084,34631061084,New Haven Union Station Amtrak,3463,1,
+28,1061085,34631061085,New Haven Union Station Amtrak,3463,1,
+28,1061086,34631061086,New Haven Union Station Amtrak,3463,1,
+28,1061081,34641061081,Springfield Amtrak,3464,0,
+28,1061082,34641061082,Springfield Amtrak,3464,0,
+28,1061083,34641061083,Springfield Amtrak,3464,0,
+28,1061087,34671061087,New Haven Union Station Amtrak,3467,1,
+28,1061088,34671061088,New Haven Union Station Amtrak,3467,1,
+28,1061089,34671061089,New Haven Union Station Amtrak,3467,1,
+28,1046120,34681046120,San Diego Santa Fe Depot Amtrak,3468,1,
+28,1066066,34701066066,Springfield Amtrak,3470,0,
+28,1066068,34761066068,Springfield Amtrak,3476,0,
+28,1046191,34771046191,Irvine Transportation Center Amtrak,3477,0,
+28,1066062,34791066062,New Haven Union Station Amtrak,3479,1,
+28,1061036,34881061036,Springfield Amtrak,3488,0,
+28,1061037,34881061037,Springfield Amtrak,3488,0,
+28,1061038,34881061038,Springfield Amtrak,3488,0,
+28,1066053,34901066053,Springfield Amtrak,3490,0,
+28,1046166,34911046166,Irvine Transportation Center Amtrak,3491,0,
+28,1046099,34921046099,San Diego Santa Fe Depot Amtrak,3492,1,
+28,1066058,34931066058,New Haven Union Station Amtrak,3493,1,
+28,1066054,34951066054,New Haven Union Station Amtrak,3495,1,
+28,1048978,34961048978,San Diego Santa Fe Depot Amtrak,3496,1,
+28,1066049,35691066049,Irvine Transportation Center Amtrak,3569,0,
+28,1048979,35961048979,San Diego Santa Fe Depot Amtrak,3596,1,
+28,1048980,36961048980,San Diego Santa Fe Depot Amtrak,3696,1,
+28,1046122,37681046122,Oceanside Transportation Center Amtrak,3768,1,
+28,1063198,38631063198,Oceanside Transportation Center Amtrak,3863,0,
+28,1063199,38631063199,Oceanside Transportation Center Amtrak,3863,0,
+28,1046156,38641046156,Solana Beach Amtrak,3864,1,
+28,1063181,38681063181,Solana Beach Amtrak,3868,1,
+28,1063182,38681063182,Solana Beach Amtrak,3868,1,
+28,1046131,38691046131,Irvine Transportation Center Amtrak,3869,0,
+28,1046108,38741046108,Solana Beach Amtrak,3874,1,
+28,1046134,38771046134,Irvine Transportation Center Amtrak,3877,0,
+28,1046164,38791046164,Irvine Transportation Center Amtrak,3879,0,
+28,1046112,38801046112,Solana Beach Amtrak,3880,1,
+28,1046115,38841046115,Solana Beach Amtrak,3884,1,
+28,1046138,38851046138,Irvine Transportation Center Amtrak,3885,0,
+28,1046167,38901046167,San Diego Santa Fe Depot Amtrak,3890,1,
+28,1046143,38911046143,Irvine Transportation Center Amtrak,3891,0,
+28,1046101,38951046101,Irvine Transportation Center Amtrak,3895,0,
+28,1056744,39611056744,Irvine Transportation Center Amtrak,3961,0,
+28,1063192,39641063192,Solana Beach Amtrak,3964,1,
+28,1063193,39641063193,Solana Beach Amtrak,3964,1,
+28,1063200,39691063200,Oceanside Transportation Center Amtrak,3969,0,
+28,1063201,39691063201,Oceanside Transportation Center Amtrak,3969,0,
+28,1063183,39741063183,Solana Beach Amtrak,3974,1,
+28,1063184,39741063184,Solana Beach Amtrak,3974,1,
+28,1063202,39771063202,Oceanside Transportation Center Amtrak,3977,0,
+28,1063203,39771063203,Oceanside Transportation Center Amtrak,3977,0,
+28,1046165,39791046165,Irvine Transportation Center Amtrak,3979,0,
+28,1063185,39801063185,Solana Beach Amtrak,3980,1,
+28,1063186,39801063186,Solana Beach Amtrak,3980,1,
+28,1063187,39841063187,Solana Beach Amtrak,3984,1,
+28,1063188,39841063188,Solana Beach Amtrak,3984,1,
+28,1063204,39851063204,Oceanside Transportation Center Amtrak,3985,0,
+28,1063205,39851063205,Oceanside Transportation Center Amtrak,3985,0,
+28,1063196,39901063196,Solana Beach Amtrak,3990,1,
+28,1063197,39901063197,Solana Beach Amtrak,3990,1,
+28,1063206,39911063206,Oceanside Transportation Center Amtrak,3991,0,
+28,1063207,39911063207,Oceanside Transportation Center Amtrak,3991,0,
+28,1063179,39951063179,Oceanside Transportation Center Amtrak,3995,0,
+28,1063180,39951063180,Oceanside Transportation Center Amtrak,3995,0,
+28,1056745,54611056745,Irvine Transportation Center Amtrak,5461,0,
+28,1046158,54641046158,San Juan Capistrano Amtrak,5464,1,
+28,1046147,54681046147,San Juan Capistrano Amtrak,5468,1,
+28,1046150,54691046150,Irvine Transportation Center Amtrak,5469,0,
+28,1046148,54741046148,San Juan Capistrano Amtrak,5474,1,
+28,1046126,54771046126,Irvine Transportation Center Amtrak,5477,0,
+28,1046162,54791046162,Irvine Transportation Center Amtrak,5479,0,
+28,1046159,54801046159,San Juan Capistrano Amtrak,5480,1,
+28,1046149,54841046149,San Juan Capistrano Amtrak,5484,1,
+28,1046151,54851046151,Irvine Transportation Center Amtrak,5485,0,
+28,1046125,54901046125,San Juan Capistrano Amtrak,5490,1,
+28,1046157,54911046157,Irvine Transportation Center Amtrak,5491,0,
+28,1046161,54951046161,Irvine Transportation Center Amtrak,5495,0,
+28,1046104,55601046104,San Diego Santa Fe Depot Amtrak,5560,1,
+28,1046107,55681046107,San Diego Santa Fe Depot Amtrak,5568,1,
+28,1046118,55841046118,San Diego Santa Fe Depot Amtrak,5584,1,
+28,1046141,55891046141,Irvine Transportation Center Amtrak,5589,0,
+28,1046142,55911046142,Irvine Transportation Center Amtrak,5591,0,
+28,1046152,55931046152,Irvine Transportation Center Amtrak,5593,0,
+28,1046146,55981046146,San Diego Santa Fe Depot Amtrak,5598,1,
+28,1046129,57691046129,Irvine Transportation Center Amtrak,5769,0,
+28,1054783,61191054783,Clemson Amtrak,6119,1,
+28,1054744,61201054744,Clemson Amtrak,6120,1,
+28,1063194,61741063194,San Diego Santa Fe Depot Amtrak,6174,1,
+28,1056155,61921056155,San Diego Santa Fe Depot Amtrak,6192,1,
+28,1054784,62191054784,Greenville Amtrak,6219,0,
+28,1054745,62201054745,Greenville Amtrak,6220,0,
+28,1061072,64011061072,New Haven Union Station Amtrak,6401,1,
+28,1061073,64011061073,New Haven Union Station Amtrak,6401,1,
+28,1061074,64011061074,New Haven Union Station Amtrak,6401,1,
+18172,1054613,62911054613,Lakeland Amtrak,6291,1,
+18172,1063496,62921063496,Jacksonville Amtrak,6292,0,
+18172,1063497,62921063497,Jacksonville Amtrak,6292,0,
+18172,1063498,62921063498,Jacksonville Amtrak,6292,0,
+16,1054808,88901054808,Indianapolis Amtrak,8890,1,
+16,1054809,88921054809,Indianapolis Amtrak,8892,1,
+16,1054810,88931054810,Galesburg Amtrak,8893,0,
+16,1054811,88951054811,Davenport Amtrak,8895,0,
+18650,1065777,55211065777,Springfield Amtrak,5521,1,
+18650,1065776,55221065776,Galesburg Amtrak,5522,0,
+45,1054175,60211054175,Galveston  Amtrak,6021,1,
+45,1054178,60221054178,Longview Amtrak,6022,0,
+45,1054176,61211054176,Shreveport Amtrak,6121,1,
+45,1054179,61221054179,Longview Amtrak,6122,0,
+45,1054177,64211054177,Longview Amtrak,6421,0,
+45,1054180,64221054180,Shreveport Amtrak,6422,1,
+4,821193,6091821193,Fort Myers Amtrak,6091,1,
+4,821195,6091821195,Fort Myers Amtrak,6091,1,
+4,822377,6092822377,Tampa Amtrak,6092,0,
+4,822379,6092822379,Tampa Amtrak,6092,0,
+4,824432,6097824432,Fort Myers Amtrak,6097,1,
+4,824437,6097824437,Fort Myers Amtrak,6097,1,
+4,824444,6098824444,Orlando Amtrak,6098,0,
+4,824443,6098824443,Orlando Amtrak,6098,0,
+15159,1053453,82011053453,Philadelphia 30th Street Station Amtrak,8201,1,
+15159,1053456,82021053456,Scranton Amtrak,8202,0,
+15159,1056964,82031056964,Philadelphia 30th Street Station Amtrak,8203,1,
+15159,1056965,82031056965,Philadelphia 30th Street Station Amtrak,8203,1,
+15159,1053451,82081053451,Scranton Amtrak,8208,0,
+15159,1053455,82091053455,Philadelphia 30th Street Station Amtrak,8209,1,
+15159,1053452,83041053452,Scranton Amtrak,8304,0,
+16694,1065346,60891065346,Morehead City Amtrak,6089,1,
+16694,1065348,60891065348,Morehead City Amtrak,6089,1,
+16694,1065352,60901065352,Wilson Amtrak,6090,0,
+16694,1065354,60901065354,Wilson Amtrak,6090,0,
+16694,1065349,61891065349,Wilmington Amtrak,6189,1,
+16694,1065351,61891065351,Wilmington Amtrak,6189,1,
+16694,1065343,61901065343,Wilson Amtrak,6190,0,
+16694,1065345,61901065345,Wilson Amtrak,6190,0,
+18181,1054716,60481054716,Toledo Amtrak,6048,1,
+18181,1054715,60491054715,East Lansing Amtrak,6049,0,
+12,1053465,83581053465,St. Louis Gateway Station Amtrak,8358,0,
+12,1053464,83591053464,Carbondale Amtrak,8359,1,

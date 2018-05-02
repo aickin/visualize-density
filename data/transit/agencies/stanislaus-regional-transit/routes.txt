@@ -1,0 +1,17 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+68,310,10,Express Service Modesto/Turlock,,3,https://www.srt.org/maps-schedules/countywide/route-10/,fc2631,ffffff,0,60
+70,5796,,CAT Bus,,3,http://www.ci.ceres.ca.us/CeresAreaTransit/CAT-RoutesSchedules-2016.pdf,3394d2,ffffff,0,60
+649,6040,1,Countryside,,3,http://www.turlocktransit.com/1-countryside.html?lang=en,c70021,ffffff,0,
+68,312,15,Modesto/ Ceres/ Keyes/ Turlock,,3,https://www.srt.org/maps-schedules/countywide/route-15/,ee9d18,ffffff,1,90
+649,6041,2,Geer,,3,http://www.turlocktransit.com/2-geer.html?lang=en,d2b413,000000,1,
+68,313,40,Modesto/ Patterson,,3,https://www.srt.org/maps-schedules/countywide/route-40/,a0b72a,ffffff,2,180
+649,6042,3,Olive,,3,http://www.turlocktransit.com/3-olive.html?lang=en,29a235,000000,2,
+68,314,45E,East-Turlock/ Patterson,,3,https://www.srt.org/maps-schedules/countywide/route-45e/,facd0b,000000,3,180
+649,6043,4,Colorado,,3,http://www.turlocktransit.com/4-colorado.html?lang=en,376bbb,ffffff,3,
+68,1095,45W,West-Gustine/Newman/Patterson/Crows Landing,,3,https://www.srt.org/maps-schedules/countywide/route-45w/,75bda7,ffffff,4,180
+649,6044,5,Lander,,3,http://www.turlocktransit.com/5-lander.html?lang=en,ee8528,000000,4,
+68,315,60,Modesto/ Riverbank/ Oakdale,,3,https://www.srt.org/maps-schedules/countywide/route-60/,0b6e7c,ffffff,5,120
+649,6045,6,Soderquist,,3,http://www.turlocktransit.com/6-soderquist.html?lang=en,6c369d,ffffff,5,
+68,317,61,Waterford / Modesto,,3,https://www.srt.org/maps-schedules/countywide/route-61/,c7081e,ffffff,6,120
+68,4978,,StaRT BART Commuter,,3,https://www.srt.org/maps-schedules/commuter/,129dc8,ffffff,8,
+68,319,,Waterford Dial-A-Ride,"The  Dial-A-Ride provides curb to curb services in Waterford, Hickman, and Oakdale on its runs between Waterford and Oakdale.",3,https://www.srt.org/maps-schedules/shuttles/waterfordmodesto-shuttle/,64e986,000000,9,

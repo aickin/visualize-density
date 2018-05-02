@@ -1,0 +1,166 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+784997,117,,Petaluma Blvd. S north of G st.,,38.231193,-122.633368,,,0,,America/Los_Angeles,,,0
+785017,138,,Petaluma Blvd. N north of Oak St. ,,38.239408,-122.643232,,,0,,America/Los_Angeles,,,0
+784993,113,,Petaluma Blvd. S at Roundabout,,38.226928,-122.619205,,,0,,America/Los_Angeles,,,0
+785128,804,,S. McDowell Blvd. Ext. south of Lakeville Hwy,,38.232307,-122.588516,,,0,,America/Los_Angeles,,,0
+785067,410,,S. McDowell Blvd. north of Caulfield Ln.,,38.243395,-122.615301,,,0,,America/Los_Angeles,,,0
+785062,405,,Casa Grande Rd. east of Crinella (Casa Grande HS),,38.240741,-122.598514,,,0,,America/Los_Angeles,,,0
+784982,102,,Keller Street north of Western (Petaluma Market),,38.234048,-122.642485,,,0,,America/Los_Angeles,,,0
+784995,115,,Petaluma Blvd. S. east of McNear Ave.,,38.22714,-122.622446,,,0,,America/Los_Angeles,,,0
+2371009,170,,D Street at Lakeville - SMART Stn. WB,,38.236379204344,-122.63461833659,,,0,,America/Los_Angeles,,,1
+785038,313,,Sonoma Mtn Parkway south of Clary Way,,38.260637,-122.626506,,,0,,America/Los_Angeles,,,0
+785078,422,,Ely Blvd S. north of Village East Dr.,,38.246913,-122.601591,,,0,,America/Los_Angeles,,,0
+784991,111,,Petaluma Blvd. S south of F Street ,,38.231406,-122.634465,,,0,,America/Los_Angeles,,,0
+785117,612,,Lakeville Hwy east of Baywood Dr.,,38.233158,-122.613533,,,0,,America/Los_Angeles,,,0
+785010,131,,Industrial Ave. south of Petaluma Blvd. N. (Comm. School),,38.268281,-122.669474,,,0,,America/Los_Angeles,,,0
+2370996,619,,Lakeville Hwy @ Marina Ave. SB,,38.233078097453,-122.60992850259,,,0,,America/Los_Angeles,,,1
+784988,108,,E. Washington St. west of Ellis St.,,38.243464,-122.631285,,,0,,America/Los_Angeles,,,0
+785108,525,,N. McDowell at Petaluma Plaza SC South,,38.249689,-122.627011,,,0,,America/Los_Angeles,,,0
+785073,417,,S. McDowell Blvd. north of Casa Grande Ave.,,38.236505,-122.603507,,,0,,America/Los_Angeles,,,0
+785070,414,,S. McDowell Blvd at Caulfield Ln,,38.242509,-122.614161,,,0,,America/Los_Angeles,,,0
+785030,305,,Maria Dr. at Sunrise Pkwy,,38.263442,-122.641181,,,0,,America/Los_Angeles,,,0
+785074,418,,Casa Grande Rd. west of Casa de Arroyo Drive ,,38.236327,-122.602142,,,0,,America/Los_Angeles,,,0
+785075,419,,Casa Grande Rd. east of Sartori Dr.,,38.238623,-122.600058,,,0,,America/Los_Angeles,,,0
+785103,520,,N. McDowell Blvd. at Round Walk Circle,,38.25968,-122.644696,,,0,,America/Los_Angeles,,,0
+789256,167,,Grant Ave. at Grant School,,38.221248040061,-122.63003699094,,,0,,America/Los_Angeles,,,1
+784986,106,,E. Washington St. west of Vallejo St.,,38.240821,-122.633488,,,0,,America/Los_Angeles,,,0
+785076,420,,Casa Grande Rd. at Ely Blvd. S. 400 Casa Grande Apts,,38.242509,-122.596511,,,0,,America/Los_Angeles,,,0
+785005,126,,Petaluma Blvd. N south of Kent,,38.239647,-122.643137,,,0,,America/Los_Angeles,,,0
+785089,506,,N. McDowell Blvd. at Petaluma Estates MHP,,38.264591,-122.652913,,,0,,America/Los_Angeles,,,0
+785125,801,,3820 Cypress Drive south of S. McDowell Extension,,38.228489,-122.591319,,,0,,America/Los_Angeles,,,0
+785042,317,,Sonoma Mtn Parkway north of Turtle Creek Way,,38.259388,-122.623729,,,0,,America/Los_Angeles,,,0
+785120,617,,St. Francis Dr. at Miwok School,,38.236116,-122.609766,,,0,,America/Los_Angeles,,,0
+2371000,628,,Lakeville Hwy @ S. McDowell Extension NB,,38.234240613063,-122.59961437756,,,0,,America/Los_Angeles,,,1
+785050,325,,Maria Dr. south of DuPree Way (Meadow School),,38.265874,-122.645882,,,0,,America/Los_Angeles,,,0
+785054,330,,Maria Dr. north of Professional Dr.,,38.25695,-122.629965,,,0,,America/Los_Angeles,,,0
+785099,516,,N. McDowell Blvd. north of Rand St. (Post Office),,38.268375,-122.659563,,,0,,America/Los_Angeles,,,0
+785072,416,,S. McDowell Blvd. south of Evergreen Lane (midblock),,38.237481,-122.605244,,,0,,America/Los_Angeles,,,0
+2371002,163,,Magnolia @ Keokuk EB (St. Vincent's HS),,38.244868399086,-122.64997098957,,,0,,America/Los_Angeles,,,1
+785069,413,,S. McDowell Blvd. at Lindberg Lane,,38.244388,-122.617504,,,0,,America/Los_Angeles,,,0
+785198,,,Sonoma Mtn Parkway west of E Washington St. ,,38.2566853529572,-122.619564318158,,,0,,America/Los_Angeles,,,0
+785052,327,,Maria Dr. at Halley's Court,,38.261692,-122.637217,,,0,,America/Los_Angeles,,,0
+784998,118,,Petaluma Blvd. S east of E st.,,38.23192,-122.63532,,,0,,America/Los_Angeles,,,0
+785110,601,,Lakeville Apartment #2 on Frates Rd.,,38.237902,-122.590958,,,0,,America/Los_Angeles,,,0
+785111,606,,Kaiser Medical Center on Cypress Dr.,,38.229425,-122.585068,,,0,,America/Los_Angeles,,,0
+785098,515,,N. McDowell at Clegg,,38.269041,-122.660265,,,0,,America/Los_Angeles,,,0
+785115,610,,Lakeville Hwy east of Casa Grande Rd. (USA Gas),,38.233913,-122.603652,,,0,,America/Los_Angeles,,,0
+785029,304,,Maria Dr. south of Northstar Dr.,,38.261921,-122.637597,,,0,,America/Los_Angeles,,,0
+785095,512,,1330 Redwood Way at Holistic Institute,,38.276555,-122.666039,,,0,,America/Los_Angeles,,,0
+784983,103,,4th Street west of C St.,,38.232304,-122.638876,,,0,,America/Los_Angeles,,,0
+785043,318,,Sonoma Mtn Parkway south of Castle Drive,,38.260877,-122.626399,,,0,,America/Los_Angeles,,,0
+2371010,171,,E. Washington @ Petaluma Blvd. North,,38.235697810797,-122.64084115721,,,0,,America/Los_Angeles,,,1
+784980,100,,Copeland Street Transit Mall south of Washington Street,,38.236328,-122.636063,,,0,,America/Los_Angeles,,,0
+784999,119,,McNear Ave. north of Mission Dr.,,38.22501,-122.623037,,,0,,America/Los_Angeles,,,0
+785023,202,,Eastside Transit Ctr (Maria Dr.) at Washington Square SC,,38.248184,-122.621782,,,0,,America/Los_Angeles,,,0
+2371004,169,,Bodega Ave @ Webster St EB,,38.234411641218,-122.65329145608,,,0,,America/Los_Angeles,,,0
+785008,129,,Petaluma Blvd. N north of Factory Outlets,,38.255522,-122.651764,,,0,,America/Los_Angeles,,,0
+2370998,622,,Lakeville Hwy @ Caulfield Lane SB,,38.235164789343,-122.62160729685,,,0,,America/Los_Angeles,,,1
+785097,514,,N. McDowell Blvd. north of Ross St.,,38.271238,-122.662608,,,0,,America/Los_Angeles,,,0
+785044,319,,Sonoma Mtn Parkway north of Rainier Drive,,38.262907,-122.629963,,,0,,America/Los_Angeles,,,0
+785016,137,,Petaluma Blvd. N north of West Street,,38.242056,-122.643992,,,0,,America/Los_Angeles,,,0
+784985,105,,E. Washington St. east of Lakeville St. (Taco Bell),,38.238242,-122.635647,,,0,,America/Los_Angeles,,,0
+785027,300,,Maria Dr. north of Monroe St. (Eldredge School),,38.255923,-122.628524,,,0,,America/Los_Angeles,,,0
+785079,423,,Ely Blvd S at Caulfield Ln,,38.248913,-122.605104,,,0,,America/Los_Angeles,,,0
+785106,523,,N. McDowell Blvd. north of Lynch Creek Way (Hospital),,38.253219,-122.633206,,,0,,America/Los_Angeles,,,0
+785003,124,,Bodega Ave. east of Bantam Way,,38.234441,-122.658142,,,0,,America/Los_Angeles,,,0
+784981,101,,E. Washington St. west of Grey St.,,38.236387,-122.639128,,,0,,America/Los_Angeles,,,0
+785009,130,,Petaluma Blvd. N north of Corona Rd./Skillman Ln.,,38.26023,-122.660919,,,0,,America/Los_Angeles,,,0
+785068,411,,S. McDowell Blvd. north of Weaverly Dr.,,38.24497,-122.618118,,,0,,America/Los_Angeles,,,0
+789257,,,Sunnyslope Rd. and Wallenberg Way (FLAG STOP) ,,38.2182108846441,-122.637594848859,,,0,,America/Los_Angeles,,,0
+789254,,,McNear Ave. and Country Club Dr (FLAG STOP),,38.2219041605419,-122.622525185597,,,0,,America/Los_Angeles,,,0
+785112,607,,S. McDowell Blvd. Ext. west of Cypress Dr.,,38.229208,-122.591903,,,0,,America/Los_Angeles,,,0
+785101,518,,N. McDowell Blvd. at Petaluma Estates MHP,,38.264098,-122.65253,,,0,,America/Los_Angeles,,,0
+784992,112,,Petaluma Blvd. S south of Mtn View Ave.,,38.228081,-122.625939,,,0,,America/Los_Angeles,,,0
+784989,109,,E. Washington St. west of Vallejo St.,,38.240866,-122.633685,,,0,,America/Los_Angeles,,,0
+2370997,620,,Lakeville Hwy @ Casa Grande Rd. SB,,38.23355033096,-122.6040118448,,,0,,America/Los_Angeles,,,1
+785024,203,,S. McDowell Blvd. south of E. Washington,,38.248247,-122.623883,,,0,,America/Los_Angeles,,,0
+785090,507,,N. McDowell Blvd. at Youngstown MHP,,38.265444,-122.654461,,,0,,America/Los_Angeles,,,0
+785018,139,,Petaluma Blvd. N north of Washington St.,,38.236378,-122.641702,,,0,,America/Los_Angeles,,,0
+2371069,803,,Lakeville Hwy @ Caltrans Park N Ride,Lakeville Hwy at Caltrans 101 Park N Ride,38.234231300449,-122.61935106644,,,0,,America/Los_Angeles,,,1
+785114,609,,S. McDowell Blvd. Ext. north of Fisher Dr.,,38.232565,-122.599605,,,0,,America/Los_Angeles,,,0
+785041,316,,Sonoma Mtn Parkway north of E. Washington,,38.257307,-122.620188,,,0,,America/Los_Angeles,,,0
+785100,517,,N. McDowell Blvd. at Youngstown MHP,,38.26534,-122.654731,,,0,,America/Los_Angeles,,,0
+785088,505,,N. McDowell Blvd. north of Southpoint Blvd.,,38.261762,-122.647846,,,0,,America/Los_Angeles,,,0
+785059,402,,Ely Blvd. S. at Caulifield Lane,,38.249656,-122.607032,,,0,,America/Los_Angeles,,,0
+785028,302,,Maria Dr. south of Rainier Drive,,38.258451,-122.632338,,,0,,America/Los_Angeles,,,0
+789258,,,El Rose Dr. and D St. (FLAG STOP),,38.2231291011048,-122.642986699035,,,0,,America/Los_Angeles,,,0
+785071,415,,S. McDowell Blvd. north of Baywood Dr.,,38.240535,-122.610653,,,0,,America/Los_Angeles,,,0
+784987,107,,E. Washington St. west of Ellis St. (Swim Center),,38.243117,-122.631316,,,0,,America/Los_Angeles,,,0
+784996,116,,Petaluma Blvd. S east of Mountain View Ave. ,,38.228444,-122.626138,,,0,,America/Los_Angeles,,,0
+2371001,627,,Lakeville Hwy @ S. McDowell Extension SB,,38.234029928658,-122.59938488103,,,0,,America/Los_Angeles,,,1
+785031,306,,Maria Dr. north of Meadow School,,38.266258,-122.646205,,,0,,America/Los_Angeles,,,0
+785012,133,,Petaluma Blvd. N at Gossage Ave. (Park N Ride),,38.256428,-122.653909,,,0,,America/Los_Angeles,,,0
+785122,,,Payran St. at Jefferson St.,,38.2393232233126,-122.627891647107,,,0,,America/Los_Angeles,,,0
+784978,,,Kenilworth Dr. at Target Shopping Center,,38.2431516352181,-122.626284509898,,,0,,America/Los_Angeles,,,0
+785104,521,,N. McDowell Blvd. north of Dynamic St.,,38.258472,-122.642535,,,0,,America/Los_Angeles,,,0
+785049,324,,Maria Dr. south of Morning Glory Dr.,,38.267296,-122.648306,,,0,,America/Los_Angeles,,,0
+785107,524,,N. McDowell Blvd. at Petaluma Plaza S.C. North,,38.251437,-122.630091,,,0,,America/Los_Angeles,,,0
+785102,519,,N. McDowell Blvd. south of Southpoint Blvd.,,38.26094,-122.647001,,,0,,America/Los_Angeles,,,0
+785065,408,,S. McDowell Blvd. north of Baywood Dr.,,38.240789,-122.610679,,,0,,America/Los_Angeles,,,0
+785094,511,,Old Redwood Highway east of N. McDowell Blvd. (IHOP),,38.276288,-122.668971,,,0,,America/Los_Angeles,,,0
+785022,201,,Maria Dr. north of Greenbriar Circle,,38.25017,-122.620221,,,0,,America/Los_Angeles,,,0
+785201,,,Lindberg Lane east of S. Payran,,38.2374784126115,-122.623841730393,,,0,,America/Los_Angeles,,,0
+785060,403,,Ely Blvd  S. south of Juliet (Casa Grande HS Main),,38.245672,-122.599925,,,0,,America/Los_Angeles,,,0
+785064,407,,S. McDowell Blvd. south of Anna Way,,38.237639,-122.604984,,,0,,America/Los_Angeles,,,0
+785109,600,,Lakeville Apartment #1 on Ely Blvd. S.,,38.240493,-122.590834,,,0,,America/Los_Angeles,,,0
+785105,522,,N. McDowell Blvd. south of Rainier Drive (PT Admin),,38.25574,-122.63772,,,0,,America/Los_Angeles,,,0
+785127,803,,St. Francis Dr. south of Baywood Dr.,,38.237335,-122.612069,,,0,,America/Los_Angeles,,,0
+785086,503,,N. McDowell Blvd. south of Candlewood Dr. (Sandlewood MHP),,38.258132,-122.641487,,,0,,America/Los_Angeles,,,0
+785053,329,,Maria Dr. south of Rainier Ave.,,38.258311,-122.632395,,,0,,America/Los_Angeles,,,0
+785006,127,,Petaluma Blvd. N at Cherry,,38.243025,-122.644114,,,0,,America/Los_Angeles,,,0
+785091,508,,N. McDowell Blvd. north of Corona Rd. (Post Office),,38.267807,-122.658589,,,0,,America/Los_Angeles,,,0
+785118,613,,Lakeville Hwy west of Caulifield Lane,,38.235494,-122.62315,,,0,,America/Los_Angeles,,,0
+785063,406,,S. McDowell Blvd. north of Casa Grande Rd.,,38.236468,-122.602984,,,0,,America/Los_Angeles,,,0
+785085,502,,N. McDowell Blvd. north of Rainier Ave.,,38.256534,-122.638644,,,0,,America/Los_Angeles,,,0
+785039,314,,Sonoma Mtn Parkway south of Chehalis Drive,,38.258748,-122.623185,,,0,,America/Los_Angeles,,,0
+785036,311,,Sonoma Mtn Parkway south of Campus Circle/Cygnus Way,,38.265535,-122.635248,,,0,,America/Los_Angeles,,,0
+785113,608,,2000 S. McDowell Blvd. Ext. south of Cader Lane,,38.230094,-122.59597,,,0,,America/Los_Angeles,,,0
+785037,312,,Sonoma Mtn Parkway south of Rainier Ave.,,38.262171,-122.629177,,,0,,America/Los_Angeles,,,0
+785013,134,,Petaluma Blvd. N south of Factory Outlets,,38.25474,-122.651263,,,0,,America/Los_Angeles,,,0
+789255,,,McNear Ave. and Mountain View Ave. (FLAG STOP),,38.2209374373477,-122.626786500518,,,0,,America/Los_Angeles,,,0
+785025,205,,E. Madison St. east of Novak Dr. (Sr Center),,38.252835,-122.626764,,,0,,America/Los_Angeles,,,0
+785002,123,,Bantam Way at Petaluma Junior High,,38.232548,-122.658545,,,0,,America/Los_Angeles,,,0
+785084,501,,N. McDowell Blvd. north of Lynch Creek Way (Hospital),,38.25346,-122.633131,,,0,,America/Los_Angeles,,,0
+785129,805,,Lakeville Hwy north of Wilson St (Silk Mill),,38.235765179502,-122.63105492387,,,0,,America/Los_Angeles,,,0
+785034,309,,Sonoma Mtn Parkway south of Riesling Rd.,,38.268468,-122.64043,,,0,,America/Los_Angeles,,,0
+785057,400,,Ely Blvd. S. south of Gilrix St.,,38.254808,-122.616194,,,0,,America/Los_Angeles,,,0
+785082,426,,Ely Blvd S. north of Gilrix Street,,38.255341,-122.616721,,,0,,America/Los_Angeles,,,0
+2371003,529,,N. McDowell Blvd @ RR Tracks NB (Sr. Apts),,38.263197957404,-122.6504680575,,,0,,America/Los_Angeles,,,1
+785007,128,,Petaluma Blvd. N north of ShastaAve./Sycamore Ln.,,38.246923,-122.645186,,,0,,America/Los_Angeles,,,0
+785116,611,,Lakeville Hwy east of Marina Ave.,,38.233369,-122.610032,,,0,,America/Los_Angeles,,,0
+785051,326,,Maria Dr. north of Sunrise Pkwy,,38.263177,-122.641061,,,0,,America/Los_Angeles,,,0
+785011,132,,Petaluma Blvd. N south of Skillman Ln./Corona Rd.,,38.25969,-122.66039,,,0,,America/Los_Angeles,,,0
+785045,320,,Sonoma Mtn Parkway south of Campus Circle/Cygnus Way,,38.265504,-122.634618,,,0,,America/Los_Angeles,,,0
+785126,802,,St. Francis Dr. at Lombardi Ave. (Caulifield),,38.239377,-122.617671,,,0,,America/Los_Angeles,,,0
+785015,136,,Petaluma Blvd. N. south of Magnolia Ave.,,38.244521,-122.644763,,,0,,America/Los_Angeles,,,0
+785004,125,,Petaluma Blvd. N north of Washington Street GGT,,38.236552,-122.641591,,,0,,America/Los_Angeles,,,0
+785046,321,,Sonoma Mtn Parkway north of Campus Circle (SRJC/Leghorn Park),,38.267412,-122.63792,,,0,,America/Los_Angeles,,,0
+785055,331,,Maria Dr. south of Monroe St. (Eldredge/B&G Club),,38.254842,-122.626869,,,0,,America/Los_Angeles,,,0
+785001,122,,Fair Street West of Douglas St. (Petaluma High School),,38.227454,-122.645114,,,0,,America/Los_Angeles,,,0
+784990,110,,E. Washimgton St. south of Lakeville,,38.237824,-122.636429,,,0,,America/Los_Angeles,,,0
+2370999,625,,Lakeville Hwy @ Frates Rd. NB,,38.234696261645,-122.59447336363,,,0,,America/Los_Angeles,,,1
+785026,206,,E. Madison St. east of Novak Dr. (SR. Center),,38.252768,-122.626992,,,0,,America/Los_Angeles,,,0
+785058,401,,Ely Blvd. S. at Washington Creek Trail,,38.251992,-122.611176,,,0,,America/Los_Angeles,,,0
+785021,200,,Maria south of Creekside Drive,,38.252167,-122.622124,,,0,,America/Los_Angeles,,,0
+785032,307,,Sonoma Mtn Parkway south of Maria Drive,,38.268164,-122.648083,,,0,,America/Los_Angeles,,,0
+785048,323,,Sonoma Mtn Parkway north of Ely Rd./Colombard Rd.,,38.268985,-122.643863,,,0,,America/Los_Angeles,,,0
+785000,120,,Sunnyslope Rd West of I St,,38.2175224049081,-122.631965890877,,,0,,America/Los_Angeles,,,0
+785121,618,,Lakeville Hwy @ Baywood Drive ,,38.232761306929,-122.61516887617,,,0,,America/Los_Angeles,,,1
+785092,509,,N. McDowell Blvd. north of Ross St.,,38.271561,-122.662628,,,0,,America/Los_Angeles,,,0
+785096,513,,1367 N. McDowell Blvd. south of Redwood Way (Gateway SC),,38.273418,-122.66574,,,0,,America/Los_Angeles,,,0
+785056,333,,Dover Lane at Kenilworth JHS,,38.273525,-122.639637,,,0,,America/Los_Angeles,,,0
+785081,425,,Ely Blvd S. north of Clydesdale Way,,38.253298,-122.612912,,,0,,America/Los_Angeles,,,0
+785077,421,,Ely Blvd S. north of Cross Creek St.,,38.244862,-122.598003,,,0,,America/Los_Angeles,,,0
+785093,510,,1368 N. McDowell Bl(Motel 6) south of Redwood Way,,38.274012,-122.666165,,,0,,America/Los_Angeles,,,0
+785124,800,,3860 Cypress Drive at UPS,,38.227435,-122.58861,,,0,,America/Los_Angeles,,,0
+785047,322,,Sonoma Mtn Parkway north of Riesling Rd.,,38.269028,-122.640968,,,0,,America/Los_Angeles,,,0
+785061,404,,Ely Blvd S. north of Casa Grande Rd.,,38.2438191082192,-122.596625748737,,,0,,America/Los_Angeles,,,0
+785080,424,,Ely Blvd S. north of Estuary Way,,38.251714,-122.610126,,,0,,America/Los_Angeles,,,0
+785066,409,,S. McDowell Blvd. north of Covey Way (midblock),,38.242383,-122.613522,,,0,,America/Los_Angeles,,,0
+785087,504,,N. McDowell Blvd. north of Sunrise Pkwy,,38.259681,-122.644198,,,0,,America/Los_Angeles,,,0
+785035,310,,Sonoma Mtn Parkway south of Campus Circle,,38.266659,-122.637207,,,0,,America/Los_Angeles,,,0
+785119,614,,Caulfield Ln. north of Lakeville Hwy,,38.235937,-122.621906,,,0,,America/Los_Angeles,,,0
+785014,135,,Petaluma Blvd. N north of Shasta Ave./Sycamore Ln.,,38.247052,-122.645517,,,0,,America/Los_Angeles,,,0
+785033,308,,Sonoma Mtn Parkway south of Colombard Rd./Ely Rd.,,38.268843,-122.642822,,,0,,America/Los_Angeles,,,0
+785130,430,,Ely Blvd. South @ Capistrano Dr,,38.248103233515,-122.60424940689,,,0,,America/Los_Angeles,,,1
+785083,500,,N. McDowell Blvd. at Community Center/Luchessi,,38.252255,-122.631045,,,0,,America/Los_Angeles,,,0

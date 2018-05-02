@@ -1,0 +1,6 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_3154_b_2753_d_96,Year Round 17-18 (Weekend),0,0,0,0,0,1,1,20170807,20181231
+c_3154_b_2753_d_64,Year Round 17-18 (Sunday only),0,0,0,0,0,0,1,20170807,20181231
+c_3154_b_2753_d_32,Year Round 17-18 (Saturday only),0,0,0,0,0,1,0,20170807,20181231
+c_3154_b_2753_d_31,Year Round 17-18 (Monday-Friday),1,1,1,1,1,0,0,20170807,20181231
+c_3154_b_2753_d_112,Year Round 17-18 (Friday-Sunday),0,0,0,0,1,1,1,20170807,20181231

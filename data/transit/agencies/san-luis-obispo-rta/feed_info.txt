@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_contact_email,feed_lang,feed_start_date,feed_end_date,feed_version
+Transnnovation / SLORTA,http://www.slorta.org/feedback-form,marcy@mjcaction.com,en,20170529,20190331,2017-10-24T20:02:27Z

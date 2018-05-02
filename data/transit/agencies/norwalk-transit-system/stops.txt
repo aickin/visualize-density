@@ -1,0 +1,458 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+2324746,,,Pioneer Boulevard and Excelsior Drive-S/W Corner,,33.8946377442,-118.082665327,,,0,,America/Los_Angeles,,,0
+2326471,,,Firestone Boulevard and Pioneer Boulevard,,33.9133131559,-118.082644293,,,0,,America/Los_Angeles,,,0
+2324561,,,Greenleaf Avenue and Hadley Street,,33.9829448282,-118.037250356,,,0,,America/Los_Angeles,,,0
+2324795,,,Rosecrans Avenue and Flallon Avenue S/W Corner,,33.9020516988,-118.085564611,,,0,,America/Los_Angeles,,,0
+2324861,,,Studebaker Road and Excelsior Drive- N/E Corner,,33.8950673266,-118.099832983,,,0,,America/Los_Angeles,,,0
+2324771,,,Ramona Boulevard and Valley Boulevard,,34.0722557838,-118.033125968,,,0,,America/Los_Angeles,,,0
+2324713,,,Painter Avenue and Mar Vista Street,,33.9736842452,-118.032798609,,,0,,America/Los_Angeles,,,0
+2324793,,,Rosecrans Avenue and Figueras Road S/W Corner,,33.898635012,-118.015256324,,,0,,America/Los_Angeles,,,0
+2324594,,,Imperial Highway and Meyer Road- N/W Corner,,33.9171872305,-118.034522456,,,0,,America/Los_Angeles,,,0
+2324814,,,Rosecrans and Pioneer ,,33.9023098468,-118.083158845,,,0,,America/Los_Angeles,,,0
+2324701,,,Orr and Day Road and Davenrich Street- S/W Corner,,33.9455999619,-118.090764745,,,0,,America/Los_Angeles,,,0
+2324875,,,Studebaker Road and Imperial Highway,,33.9166588525,-118.099400044,,,0,,America/Los_Angeles,,,0
+2324927,,,Green Line Station,Route 4 stop,33.9130994888,-118.103806788,,,0,2324563,,,,0
+2324505,,,Beverly Boulevard and Greenleaf Avenue,,33.9880111774,-118.037248028,,,0,,America/Los_Angeles,,,0
+2324665,,,Norwalk Boulevard and Everest Street,,33.9192206538,-118.072466487,,,0,,America/Los_Angeles,,,0
+2324472,,,183rd Street and Alburtis Avenue- S/E Corner,,33.8656454867,-118.083882947,,,0,,America/Los_Angeles,,,0
+2326466,,,Pickering Avenue and Whittier Boulevard,,33.969245387,-118.042190711,,,0,,America/Los_Angeles,,,0
+2326323,,,Peck Road and Fineview Street,,34.0520847499,-118.030459603,,,0,,America/Los_Angeles,,,0
+2324899,,,Woodruff Avenue and Somerset Boulevard-N/W  Corner,,33.8968541975,-118.116764711,,,0,,America/Los_Angeles,,,0
+2324521,,,Civic Center Drive and Bloomfield Avenue,,33.9146780053,-118.064916326,,,0,,America/Los_Angeles,,,0
+2324836,,,Santa Fe Springs Road and Mulberry Drive,,33.9590590853,-118.050367541,,,0,,America/Los_Angeles,,,0
+2324735,,,Pioneer/Alondra,,33.8878865725,-118.082296618,,,0,,America/Los_Angeles,,,0
+2326328,,,Ramona Boulevard and Valley Boulevard,,34.0723982983,-118.033387014,,,0,,America/Los_Angeles,,,0
+2324573,,,Imperial Highway and Bloomfield Avenue- S/E Corner,,33.9170305432,-118.063412169,,,0,,America/Los_Angeles,,,0
+2324869,,,Studebaker Road and Mapledale Street- S/W Corner,,33.8982571559,-118.100148472,,,0,,America/Los_Angeles,,,0
+2324886,,,Orr and Day/Telegraph,,33.9484585611,-118.089125637,,,0,,America/Los_Angeles,,,0
+2324774,,,Rosecrans Avenue and Ardis Avenue - S/E  Corner,,33.902985283,-118.128898594,,,0,,America/Los_Angeles,,,0
+2324609,,,Imperial/Pioneer,,33.916950384,-118.082136409,,,0,,America/Los_Angeles,,,0
+2324845,,,Shoemaker Avenue and Tom White Way - S/W Corner,,33.9048530243,-118.055477526,,,0,,America/Los_Angeles,,,0
+2324527,,,Civic Center Drive opposite Silverbow Avenue,,33.9143912163,-118.066139987,,,0,,America/Los_Angeles,,,0
+2324580,,,Imperial Highway and 1st Avenue- N/W Corner,,33.9174448093,-117.986021952,,,0,,America/Los_Angeles,,,0
+2324595,,,Imperial Highway and Meyer Road- S/W Corner,,33.9169444303,-118.034084635,,,0,,America/Los_Angeles,,,0
+2324792,,,Rosecrans Avenue and Figueras Road N/E Corner,,33.8987444186,-118.014709981,,,0,,America/Los_Angeles,,,0
+2324839,,,Santa Gertrudes Avenue and Stanbrook Drive,,33.8937736096,-117.999667628,,,0,,America/Los_Angeles,,,0
+2324728,,,Pickering Avenue and Walnut Street,,33.9717379988,-118.041996469,,,0,,America/Los_Angeles,,,0
+2324554,,,Foster Road and Bechard Avenue (Soropt. Village),,33.9096474591,-118.062607015,,,0,,America/Los_Angeles,,,0
+2324806,,,Rosecrans Avenue and La Mirada Boulevard N/E Corner,,33.8985970918,-118.010646791,,,0,,America/Los_Angeles,,,0
+2324571,,,Imperial Highway and Biola Avenue- S/W Corner,,33.9170261222,-118.019232158,,,0,,America/Los_Angeles,,,0
+2324670,,,Norwalk/Imperial (Ihop),,33.9162898388,-118.072751431,,,0,,America/Los_Angeles,,,0
+2324560,,,Greenleaf Avenue and Broadway,,33.986039976,-118.037249442,,,0,,America/Los_Angeles,,,0
+2324846,,,Slauson Avenue and Alburtis Avenue- N/E Corner,,33.9656265463,-118.075735051,,,0,,America/Los_Angeles,,,0
+2326465,,,Pickering Avenue and Walnut Street,,33.9718178087,-118.042155862,,,0,,America/Los_Angeles,,,0
+2324498,,,Alondra Boulevard opposite Elmcroft Avenue,,33.8874330242,-118.095206976,,,0,,America/Los_Angeles,,,0
+2324734,,,Pioneer Boulevard and 183rd Street- N/W Corner,,33.865921617,-118.082357502,,,0,,America/Los_Angeles,,,0
+2324908,,,Workman Mill Road and Rose Hills Gate # 19,,34.0050673354,-118.056196269,,,0,,America/Los_Angeles,,,0
+2324681,,,Norwalk Boulevard and Paddison Avenue Square,,33.9192013874,-118.07277227,,,0,,America/Los_Angeles,,,0
+2324627,,,Imperial Highway opposite Fairford Avenue,,33.9172281829,-118.094596835,,,0,,America/Los_Angeles,,,0
+2324619,,,Imperial Highway and Valley View Avenue- N/W Corner,,33.9172151482,-118.029771287,,,0,,America/Los_Angeles,,,0
+2324856,,,Studebaker Road and Artesia Boulevard- N/E Corner,,33.8733440799,-118.099576073,,,0,,America/Los_Angeles,,,0
+2324711,,,Orr and Day Road and Whiteland Street- S/W Corner,,33.9524797077,-118.087426528,,,0,,America/Los_Angeles,,,0
+2324507,,,Beverly Boulevard and Palm Avenue,,33.9977606367,-118.054500962,,,0,,America/Los_Angeles,,,0
+2324881,,,Telegraph Road and Jersey Avenue,,33.9472836271,-118.086294332,,,0,,America/Los_Angeles,,,0
+2324541,,,Florence Avenue at Kid Zone,,33.935427158,-118.089406187,,,0,,America/Los_Angeles,,,0
+2324762,,,Pioneer Boulevard opposite 163rd Street,,33.8831492346,-118.082539373,,,0,,America/Los_Angeles,,,0
+2324822,,,Rosecrans Avenue and Valley View Avenue N/W Corner,,33.9026477536,-118.029605406,,,0,,America/Los_Angeles,,,0
+2324639,,,Lambert Road and Santa Fe Springs Road,,33.9640368363,-118.046221607,,,0,,America/Los_Angeles,,,0
+2324589,,,Imperial/Norwalk,,33.9169982061,-118.074493665,,,0,,America/Los_Angeles,,,0
+2324638,,,Lambert Road and Whitebrook Drive- S/E Corner,,33.9244628785,-117.962079705,,,0,,America/Los_Angeles,,,0
+2324696,,,Norwalk Boulevard opposite Oracle Street,,33.9286621024,-118.072540581,,,0,,America/Los_Angeles,,,0
+2324509,,,Bloomfield Avenue and Alondra Boulevard,,33.8879636283,-118.06425642,,,0,,America/Los_Angeles,,,0
+2324633,,,Lakeland Road and Paddison Avenue - S/E Corner,,33.9316176001,-118.076883806,,,0,,America/Los_Angeles,,,0
+2324718,,,Peck Road/Elliott,,34.0583697635,-118.030718909,,,0,,America/Los_Angeles,,,0
+2324730,,,Pioneer Boulevard and 163rd Street- S/E Corner,,33.8834827061,-118.0822547,,,0,,America/Los_Angeles,,,0
+2324703,,,Orr and Day Road and Dunning Street,,33.942771062,-118.090456693,,,0,,America/Los_Angeles,,,0
+2324766,,,Pioneer Boulevard opposite Los Nietos Road,,33.9615785524,-118.08374747,,,0,,America/Los_Angeles,,,0
+2324898,,,Woodruff Avenue and Rosecrans Avenue - S/W  Corner,,33.901356619,-118.116798063,,,0,,America/Los_Angeles,,,0
+2324720,,,Peck Road and Garvey Avenue,,34.0631261148,-118.030409467,,,0,,America/Los_Angeles,,,0
+2324583,,,Imperial Highway and Grovedale Drive- S/W Corner,,33.9171882253,-117.989015545,,,0,,America/Los_Angeles,,,0
+2324820,,,Rosecrans Avenue and Studebaker Road N/E Corner,,33.9022229461,-118.099620781,,,0,,America/Los_Angeles,,,0
+2324751,,,Pioneer Boulevard at Little Lake Park,,33.9332917345,-118.081688564,,,0,,America/Los_Angeles,,,0
+2324579,,,Imperial/Firestone,,33.9172223059,-118.090744593,,,0,,America/Los_Angeles,,,0
+2324807,,,Rosecrans Avenue and La Mirada Boulevard S/E Corner,,33.8983774304,-118.010339477,,,0,,America/Los_Angeles,,,0
+2324889,,,Telegraph Road and Pioneer Boulevard,,33.9455417001,-118.082063112,,,0,,America/Los_Angeles,,,0
+2326464,,,Mar Vista Street/Greenleaf,,33.9737846533,-118.037139655,,,0,,America/Los_Angeles,,,0
+2324628,,,Imperial Highway opposite Jersey Avenue,,33.9169788417,-118.086466961,,,0,,America/Los_Angeles,,,0
+2324828,,,Rush Street and Durfee Avenue,,34.0458594878,-118.030230623,,,0,,America/Los_Angeles,,,0
+2324772,,,Rosecrans Avenue and Adelfa Drive N/E Corner,,33.898984052,-118.004863124,,,0,,America/Los_Angeles,,,0
+2324586,,,Imperial Highway and Jersey Avenue- N/E Corner,,33.9172106137,-118.085949704,,,0,,America/Los_Angeles,,,0
+2324883,,,Telegraph Road and Laurel Avenue - N/W Corner,,33.9419273352,-118.048915908,,,0,,America/Los_Angeles,,,0
+2324499,,,Alondra Boulevard opposite Gridley Road,,33.8874623536,-118.090830418,,,0,,America/Los_Angeles,,,0
+2324842,,,Shoemaker/Rosecrans,,33.9027548616,-118.055232415,,,0,,America/Los_Angeles,,,0
+2324921,,,Workman Mill Road and Spy Glass Hill Road,,34.0118851237,-118.047836264,,,0,,America/Los_Angeles,,,0
+2324755,,,Pioneer Boulevard at Neighborhood Center,,33.9583426355,-118.085159259,,,0,,America/Los_Angeles,,,0
+2324849,,,Slauson Avenue and Millergrove Drive- S/W Corner,,33.9663462248,-118.07975182,,,0,,America/Los_Angeles,,,0
+2324733,,,Pioneer Boulevard and 178th Street - N/E Corner,,33.8691694538,-118.082097741,,,0,,America/Los_Angeles,,,0
+2324637,,,Lambert Road and Idaho Street- S/W Corner,,33.9244551748,-117.959419625,,,0,,America/Los_Angeles,,,0
+2324698,,,Orr and Day Road and Clarkman Street,,33.9394645087,-118.090434807,,,0,,America/Los_Angeles,,,0
+2326458,,,Peck Road and Garvey Avenue,,34.0632414965,-118.030706941,,,0,,America/Los_Angeles,,,0
+2324847,,,Slauson Avenue and Alburtis Avenue- S/E Corner,,33.965348489,-118.075633717,,,0,,America/Los_Angeles,,,0
+2324576,,,Imperial Highway and Carmenita Road- N/E Corner,,33.9171179503,-118.046453589,,,0,,America/Los_Angeles,,,0
+2324678,,,Norwalk Boulevard and Orange Grove Avenue- N/W Corner,,33.9959528816,-118.058262416,,,0,,America/Los_Angeles,,,0
+2324844,,,Shoemaker Avenue and Tom White Way,,33.9049411706,-118.055242298,,,0,,America/Los_Angeles,,,0
+2326310,,,Bloomfield/Imperial,,33.9174744,-118.0638014,,,0,,America/Los_Angeles,,,0
+2324753,,,Pioneer Boulevard and Mapledale Street- N/E Corner,,33.8987047332,-118.082419599,,,0,,America/Los_Angeles,,,0
+2324744,,,Pioneer Boulevard and Excelsior Drive- N/E Corner,,33.8951801635,-118.082384253,,,0,,America/Los_Angeles,,,0
+2324780,,,Rosecrans Avenue and Carmenita Road N/W Corner,,33.902536949,-118.04708415,,,0,,America/Los_Angeles,,,0
+2324570,,,Imperial Highway and Beach Boulevard- N/W Corner,,33.917527021,-117.96868414,,,0,,America/Los_Angeles,,,0
+2324770,,,Ramona Boulevard and Tyler Avenue,,34.0719608897,-118.035637523,,,0,,America/Los_Angeles,,,0
+2324636,,,Lambert Road and Beach Boulevard- S/E Corner,,33.9244764829,-117.96726424,,,0,,America/Los_Angeles,,,0
+2324675,,,Norwalk Boulevard and Monte Vista Drive- N/E Corner,,33.9952857969,-118.058628111,,,0,,America/Los_Angeles,,,0
+2324833,,,San Antonio Drive and Olive Street- S/W Corner,,33.9107841425,-118.074791826,,,0,,America/Los_Angeles,,,0
+2324777,,,Rosecrans Avenue and Biola Avenue S/W Corner,,33.9006161894,-118.019597185,,,0,,America/Los_Angeles,,,0
+2324520,,,Civic Center Drive at AMC Theaters,,33.9140957345,-118.071637014,,,0,,America/Los_Angeles,,,0
+2324622,,,Imperial Highway and Volunteer Avenue- S/W Corner,,33.9170192325,-118.068395012,,,0,,America/Los_Angeles,,,0
+2324495,,,Alondra Boulevard and Studebaker Road- S/E Corner,,33.887409566,-118.09946229,,,0,,America/Los_Angeles,,,0
+2324808,,,Rosecrans Avenue and La Fonda Drive N/E Corner,,33.8992320232,-118.000960648,,,0,,America/Los_Angeles,,,0
+2324653,,,Norwalk Boulevard and Bexley Drive- N/W Corner,,33.9862874745,-118.067823592,,,0,,America/Los_Angeles,,,0
+2324874,,,Studebaker Road and Borson Street,,33.9148903613,-118.099087087,,,0,,America/Los_Angeles,,,0
+2324750,,,Pioneer Boulevard and Lindale-S/W Corner,,33.9001333657,-118.082724525,,,0,,America/Los_Angeles,,,0
+2324826,,,Rosecrans Avenue opposite Dumont Avenue,,33.9022040664,-118.103680253,,,0,,America/Los_Angeles,,,0
+2324568,,,Idaho Street opposite Las Lomas,,33.9216250072,-117.959304257,,,0,,America/Los_Angeles,,,0
+2324837,,,Santa Fe Springs Road and Slauson Avenue,,33.9591344759,-118.050695875,,,0,,America/Los_Angeles,,,0
+2324788,,,Rosecrans Avenue and Dumont Avenue,,33.9019494534,-118.103524266,,,0,,America/Los_Angeles,,,0
+2324497,,,Woodruff/Alondra,,33.8892465368,-118.116933692,,,0,,America/Los_Angeles,,,0
+2324787,,,Rosecrans Avenue and Dinard Avenue S/W Corner,,33.9022696451,-118.051205514,,,0,,America/Los_Angeles,,,0
+2324529,,,Clark Avenue and Ives Street - N/E  Corner,,33.8944844268,-118.133919102,,,0,,America/Los_Angeles,,,0
+2324536,,,Firestone Boulevard and Paddison Avenue,,33.9108857899,-118.078657415,,,0,,America/Los_Angeles,,,0
+2324634,,,Lakeland Road and Pioneer Boulevard,,33.9317382136,-118.081461786,,,0,,America/Los_Angeles,,,0
+2324827,,,Rosecrans Avenue opposite S Bloomfield Avenue,,33.9024336912,-118.064813502,,,0,,America/Los_Angeles,,,0
+2324858,,,Studebaker Road and Barnwall Street,,33.8913311428,-118.100091688,,,0,,America/Los_Angeles,,,0
+2324722,,,Peck Road and Meeker Avenue,,34.0652737973,-118.030597627,,,0,,America/Los_Angeles,,,0
+2324490,,,Alondra Boulevard and Mc Nab Avenue- N/W Corner,,33.8887766628,-118.113655385,,,0,,America/Los_Angeles,,,0
+2324682,,,Norwalk Boulevard and Reichling Lane- S/E Corner,,33.9838011808,-118.069898534,,,0,,America/Los_Angeles,,,0
+2324905,,,Workman Mill/College,,34.0201264754,-118.037553973,,,0,,America/Los_Angeles,,,0
+2324548,,,Florence Avenue and Ringwood Avenue- S/W Corner,,33.9351802599,-118.084652699,,,0,,America/Los_Angeles,,,0
+2324607,,,Imperial Highway and Paddison Avenue- S/E Corner,,33.916962873,-118.07719735,,,0,,America/Los_Angeles,,,0
+2326329,,,Ramona Boulevard and Tyler Avenue,,34.0721225682,-118.036373991,,,0,,America/Los_Angeles,,,0
+2324885,,,Telegraph/ Norwalk,,33.9421580369,-118.073153229,,,0,,America/Los_Angeles,,,0
+2324528,,,Clark Avenue and Alondra Boulevard - S/E  Corner,,33.8889986675,-118.133885467,,,0,,America/Los_Angeles,,,0
+2326311,,,Bloomfield Avenue and Lakeland Road, ,33.9315425751,-118.063829083,,,0,,America/Los_Angeles,,,0
+2324866,,,Studebaker Road and Leffingwell Road- N/E Corner,,33.9068547802,-118.099351774,,,0,,America/Los_Angeles,,,0
+2324574,,,Imperial Highway and Burgess Avenue- N/W Corner,,33.9172405603,-118.024188177,,,0,,America/Los_Angeles,,,0
+2324492,,,Alondra Boulevard and Piuma Avenue- N/W Corner,,33.8877717702,-118.106344281,,,0,,America/Los_Angeles,,,0
+2324799,,,Rosecrans Avenue and Greenstone Avenue N/E Corner,,33.9024763101,-118.05753988,,,0,,America/Los_Angeles,,,0
+2324877,,,Telegraph Road and Bloomfield Avenue - N/W Corner,,33.9419815462,-118.064597967,,,0,,America/Los_Angeles,,,0
+2324812,,,Rosecrans Avenue and Norwalk Boulevard N/E Corner,,33.9023847583,-118.072655565,,,0,,America/Los_Angeles,,,0
+2324615,,,Imperial Highway and Studebaker Road- N/W Corner,,33.9172192387,-118.100004961,,,0,,America/Los_Angeles,,,0
+2324726,,,Durfee Avenue and Thienes Avenue,,34.0432609159,-118.032665078,,,0,,America/Los_Angeles,,,0
+2324870,,,Studebaker Road and Melissa Street- S/W Corner,,33.8837030838,-118.10002288,,,0,,America/Los_Angeles,,,0
+2324581,,,Imperial Highway and 1st Avenue- S/W Corner,,33.9172062539,-117.985781661,,,0,,America/Los_Angeles,,,0
+2324683,,,Norwalk Boulevard and Slauson Avenue- N/E Corner,,33.9650912109,-118.070516889,,,0,,America/Los_Angeles,,,0
+2324909,,,Workman Mill Road and Sierra Morena Avenue- S/E Corner,,34.0013535445,-118.05599124,,,0,,America/Los_Angeles,,,0
+2324593,,,Imperial Highway and Leffingwell Road- N/E Corner,,33.9171060567,-118.049811947,,,0,,America/Los_Angeles,,,0
+2324760,,,Pioneer Boulevard and Slauson Avenue- S/E Corner,,33.9667162814,-118.082233396,,,0,,America/Los_Angeles,,,0
+2324546,,,Florence Avenue and Pioneer Boulevard- S/E Corner,,33.9351805373,-118.081479649,,,0,,America/Los_Angeles,,,0
+2324613,,,Imperial Highway and Shoemaker Avenue- S/E Corner,,33.9169144758,-118.054857621,,,0,,America/Los_Angeles,,,0
+2324801,,,Rosecrans Avenue and Harvest Avenue N/E Corner,,33.90225496,-118.091742799,,,0,,America/Los_Angeles,,,0
+2324797,,,Rosecrans Avenue and Grayland Avenue S/E Corner,,33.9021150223,-118.075922272,,,0,,America/Los_Angeles,,,0
+2324551,,,Flower/Bellflower,,33.8821694397,-118.126062006,,,0,,America/Los_Angeles,,,0
+2324689,,,Norwalk Boulevard and Wakeman Street- Sw/E Corner,,33.9672087711,-118.070814246,,,0,,America/Los_Angeles,,,0
+2324757,,,Pioneer/Rosecrans,,33.9029908157,-118.082470196,,,0,,America/Los_Angeles,,,0
+2324832,,,San Antonio Drive and Olive Street- N/E Corner,,33.9112333927,-118.074083645,,,0,,America/Los_Angeles,,,0
+2326316,,,Painter Avenue and Philadelphia Street,,33.9795257141,-118.032541056,,,0,,America/Los_Angeles,,,0
+2324519,,,Bloomfield/Telegraph,,33.9416458809,-118.063844718,,,0,,America/Los_Angeles,,,0
+2324835,,,Santa Fe Springs Road and Los Nietos Road,,33.9494333712,-118.060073715,,,0,,America/Los_Angeles,,,0
+2324684,,,Norwalk Boulevard and Slauson Avenue- N/W Corner,,33.9650199102,-118.070804446,,,0,,America/Los_Angeles,,,0
+2324716,,,Painter Avenue and Wardman Street,,33.9771771579,-118.032557322,,,0,,America/Los_Angeles,,,0
+2324473,,,183rd Street and Best Plaza- N/W Corner,,33.8657778418,-118.095114026,,,0,,America/Los_Angeles,,,0
+2324603,,,Imperial Highway and Oxford Drive- N/E Corner,,33.9173876752,-117.998782332,,,0,,America/Los_Angeles,,,0
+2324767,,,Ralph's,,33.9022814181,-118.087992043,,,0,,America/Los_Angeles,,,0
+2324915,,,Workman Mill Road and Pioneer Boulevard,,34.0084235571,-118.055082552,,,0,,America/Los_Angeles,,,0
+2324706,,,Florence/Orr and Day,,33.9358243059,-118.090420495,,,0,,America/Los_Angeles,,,0
+2324848,,,Slauson Avenue and Millergrove Drive- N/E Corner,,33.9664702436,-118.079167699,,,0,,America/Los_Angeles,,,0
+2324862,,,Studebaker Road and Excelsior Drive- N/W Corner,,33.8950177911,-118.100120804,,,0,,America/Los_Angeles,,,0
+2324850,,,Studebaker Road and 166th Street- N/E Corner,,33.8805763339,-118.099674317,,,0,,America/Los_Angeles,,,0
+2324516,,,Bloomfield Avenue and Florence Avenue,,33.9350779111,-118.064153256,,,0,,America/Los_Angeles,,,0
+2324625,,,Imperial Highway and Orr and Day Road,,33.9169751839,-118.090790601,,,0,,America/Los_Angeles,,,0
+2324539,,,Florence Avenue and Fulton Wells Avenue- S/W Corner,,33.9351879869,-118.076666281,,,0,,America/Los_Angeles,,,0
+2324903,,,Workman Mill Road and Mission Mill Road- S/W Corner,,34.0152398225,-118.044474316,,,0,,America/Los_Angeles,,,0
+2324591,,,Imperial Highway and La Mirada Boulevard- S/W Corner,,33.9170714789,-118.011445458,,,0,,America/Los_Angeles,,,0
+2324649,,,Norwalk/Alondra,,33.8872832447,-118.072987668,,,0,,America/Los_Angeles,,,0
+2324813,,,Rosecrans Avenue and Norwalk Boulevard S/E Corner,,33.9021441192,-118.07267704,,,0,,America/Los_Angeles,,,0
+2324469,,,12801 Rosecrans Avenue,,33.9024930297,-118.059301133,,,0,,America/Los_Angeles,,,0
+2324853,,,StudebakerAlondra,,33.8872096135,-118.100062971,,,0,,America/Los_Angeles,,,0
+2324892,,,Valley Boulevard and Johnson Avenue,,34.0710577131,-118.031130286,,,0,,America/Los_Angeles,,,0
+2324614,,,Imperial Highway and Springview Drive- N/W Corner,,33.917257108,-118.020441602,,,0,,America/Los_Angeles,,,0
+2324731,,,Pioneer Boulevard and 166th Street- N/E Corner,,33.8809257193,-118.082227024,,,0,,America/Los_Angeles,,,0
+2324479,,,Adelfa and Santa Gertrudes,,33.8943251877,-118.001019025,,,0,,America/Los_Angeles,,,0
+2324584,,,Imperial Highway and Hoxie Avenue- S/E Corner,,33.9169605802,-118.103139001,,,0,,America/Los_Angeles,,,0
+2324482,,,Alondra Boulevard and Elmcroft Avenue- N/W Corner,,33.8876819375,-118.095825721,,,0,,America/Los_Angeles,,,0
+2324864,,,Studebaker Road and Foster Road- N/W Corner,,33.9100879655,-118.099394073,,,0,,America/Los_Angeles,,,0
+2324761,,,Pioneer Boulevard and Slauson Avenue- S/W Corner,,33.9667042222,-118.082574507,,,0,,America/Los_Angeles,,,0
+2324508,,,Beverly Boulevard and Pickering Avenue,,33.988067653,-118.041813328,,,0,,America/Los_Angeles,,,0
+2324543,,,Florence Avenue and Norwalk Boulevard- N/W Corner,,33.9354469128,-118.073427566,,,0,,America/Los_Angeles,,,0
+2326327,,,Valley Boulevard and Johnson Avenue,,34.071176704,-118.030838591,,,0,,America/Los_Angeles,,,0
+2324666,,,Norwalk Boulevard and Florence Avenue- S/W Corner,,33.9349518189,-118.072860018,,,0,,America/Los_Angeles,,,0
+2324748,,,Pioneer Boulevard and Lindale- S/E Corner,,33.9000427658,-118.082432356,,,0,,America/Los_Angeles,,,0
+2324608,,,Imperial/Pioneer,,33.9172438727,-118.082593571,,,0,,America/Los_Angeles,,,0
+2324642,,,Mar Vista Street and Washington Boulevard,,33.9735399654,-118.034665372,,,0,,America/Los_Angeles,,,0
+2324810,,,Rosecrans Avenue and Marquardt Avenue S/W Corner,,33.9023370105,-118.038146181,,,0,,America/Los_Angeles,,,0
+2326462,,,Greenleaf Avenue and Broadway,,33.9861243595,-118.037457355,,,0,,America/Los_Angeles,,,0
+2324677,,,Norwalk Boulevard and Oracle Street- S/W Corner,,33.9286500951,-118.072833128,,,0,,America/Los_Angeles,,,0
+2324901,,,Rio Hondo College,,34.0310554935,-118.026017704,,,0,,America/Los_Angeles,,,0
+2324525,,,Civic Center Drive and Volunteer Avenue- N/E Corner,,33.9138412704,-118.068526745,,,0,,America/Los_Angeles,,,0
+2324532,,,Clark/Rosecrans,,33.9038357871,-118.133963901,,,0,,America/Los_Angeles,,,0
+2324741,,,Pioneer Boulevard and Broaded Street- N/E Corner,,33.9579234801,-118.085002623,,,0,,America/Los_Angeles,,,0
+2324592,,,Imperial Highway and Leffingwell Road - S/E Corner,,33.916820597,-118.049749125,,,0,,America/Los_Angeles,,,0
+2324550,,,Flower Street and Ardmore Avenue - N/E  Corner,,33.8821606357,-118.128931944,,,0,,America/Los_Angeles,,,0
+2324878,,,Telegraph/Carmenita,,33.9408735589,-118.047138631,,,0,,America/Los_Angeles,,,0
+2324564,,,Hadley Street and Friends Avenue,,33.982812448,-118.033668049,,,0,,America/Los_Angeles,,,0
+2324784,,,Rosecrans Avenue and Clarkdale Avenue N/W Corner,,33.9023318239,-118.080009259,,,0,,America/Los_Angeles,,,0
+2324778,,,Rosecrans Avenue and Bloomfield Avenue S/W Corner,,33.9021879185,-118.064447159,,,0,,America/Los_Angeles,,,0
+2326307,,,Pioneer/Florence,,33.934983,-118.0819975,,,0,,America/Los_Angeles,,,0
+2324911,,,Workman Mill Road and Rose Hills Road- S/W Corner,,34.0133165854,-118.046810389,,,0,,America/Los_Angeles,,,0
+2324635,,,Lakeland Road opposite Bombardier Avenue,,33.9317368803,-118.080033284,,,0,,America/Los_Angeles,,,0
+2324572,,,Imperial Highway and Bloomfield Avenue- N/E Corner,,33.9172777956,-118.06351238,,,0,,America/Los_Angeles,,,0
+2324803,,,Rosecrans Avenue and Helwig Avenue S/W Corner,,33.9021600059,-118.069355589,,,0,,America/Los_Angeles,,,0
+2324851,,,Studebaker Road and 166th Street- N/W Corner,,33.8804658456,-118.099967541,,,0,,America/Los_Angeles,,,0
+2324641,,,Mar Vista/Greenleaf,,33.9735665331,-118.037740182,,,0,,America/Los_Angeles,,,0
+2324719,,,Peck Road and Fineview Street,,34.0513569904,-118.030730089,,,0,,America/Los_Angeles,,,0
+2324501,,,Beach Boulevard and Fashion Square Lane- S/E Corner,,33.9197179363,-117.967546923,,,0,,America/Los_Angeles,,,0
+2324724,,,Peck Road and Mountain View Road,,34.0556905943,-118.030736267,,,0,,America/Los_Angeles,,,0
+2324514,,,Bloomfield Avenue at Hospital,,33.9101768796,-118.064445331,,,0,,America/Los_Angeles,,,0
+2324794,,,Rosecrans Avenue and Flallon Avenue N/W Corner,,33.9022930904,-118.085292359,,,0,,America/Los_Angeles,,,0
+2324896,,,Woodruff/Alondra,,33.8886953914,-118.117516197,,,0,,America/Los_Angeles,,,0
+2326314,,,Pickering Avenue and Mar Vista Street,,33.9735221932,-118.041991638,,,0,,America/Los_Angeles,,,0
+2324926,,,Green Line Station,Route 2 stop,33.9133585578,-118.103808855,,,0,2324563,,,,0
+2326463,,,Painter Avenue and Wardman Street,,33.9773885976,-118.032780018,,,0,,America/Los_Angeles,,,0
+2326324,,,Peck/Elliott,,34.0588080593,-118.030408727,,,0,,America/Los_Angeles,,,0
+2324900,,,Woodruff Avenue and Woodruff Avenue Pl.-N/W Corner,,33.8938773513,-118.117305392,,,0,,America/Los_Angeles,,,0
+2324882,,,Telegraph Road and Jersey Avenue - N/W Corner,,33.9474284919,-118.085970951,,,0,,America/Los_Angeles,,,0
+2324709,,,Orr and Day/Telegraph,,33.9484256336,-118.089494213,,,0,,America/Los_Angeles,,,0
+2324662,,,Norwalk Boulevard and Coolhurst Drive- S/W Corner,,33.9806204015,-118.073437649,,,0,,America/Los_Angeles,,,0
+2324790,,,Rosecrans Avenue and Elmcroft Avenue,,33.9022402697,-118.095906862,,,0,,America/Los_Angeles,,,0
+2326321,,,Peck Road and Durfee Avenue,,34.0366226964,-118.038334388,,,0,,America/Los_Angeles,,,0
+2324857,,,Studebaker Road and Artesia Boulevard- S/W Corner,,33.8726817257,-118.099871558,,,0,,America/Los_Angeles,,,0
+2324585,,,Imperial/Idaho,,33.9174815421,-117.959928432,,,0,,America/Los_Angeles,,,0
+2324740,,,Pioneer Boulevard and Bluejay Lane- S/E Corner,,33.9594628918,-118.084394009,,,0,,America/Los_Angeles,,,0
+2324721,,,Peck Road and Klingerman Street,,34.0563136385,-118.030429132,,,0,,America/Los_Angeles,,,0
+2324692,,,Norwalk/Whittier,,33.9900631828,-118.063777854,,,0,,America/Los_Angeles,,,0
+2324558,,,Foster Road and Shoemaker Avenue - S/W Corner,,33.9095586587,-118.055802784,,,0,,America/Los_Angeles,,,0
+2324644,,,Norwalk Boulevard and 161st Street  (Coras Market.- S/W Corner,,33.8841907392,-118.072919883,,,0,,America/Los_Angeles,,,0
+2324674,,,Norwalk Boulevard and Mines Boulevard- N/E Corner,,33.9827099973,-118.070978584,,,0,,America/Los_Angeles,,,0
+2324871,,,Studebaker Road and Rosecrans Avenue- N/E Corner,,33.902513712,-118.099891054,,,0,,America/Los_Angeles,,,0
+2324599,,,Imperial/Norwalk,,33.9169543924,-118.071613668,,,0,,America/Los_Angeles,,,0
+2324542,,,Florence Avenue at Lake Center Athletic Park,,33.9354234921,-118.085243184,,,0,,America/Los_Angeles,,,0
+2326318,,,Beverley Boulevard and Citrus Avenue,,33.9882275493,-118.046145622,,,0,,America/Los_Angeles,,,0
+2324557,,,Foster Road and San Antonio Drive- S/W Corner,,33.9075372783,-118.077805403,,,0,,America/Los_Angeles,,,0
+2324540,,,Florence/Orr & Day,"This stop is being used as the ""Orr & Day"" timepoint for Route 1 SB trips. They may change the location of this timepoint at some time....",33.9351793649,-118.088556054,,,0,,America/Los_Angeles,,,0
+2324925,,,Workman Mill Road opposite Spy Glass Hill Road,,34.0116492419,-118.048564935,,,0,,America/Los_Angeles,,,0
+2324690,,,Norwalk/Washington,,33.9728160726,-118.07403448,,,0,,America/Los_Angeles,,,0
+2324923,,,Workman Mill Road opposite Rose Hills Main Gate,,34.0167703130888,-118.041810044041,,,0,,America/Los_Angeles,,,0
+2324737,,,Pioneer Boulevard at Artesia Boulevard Oasis,,33.8688741509,-118.082429829,,,0,,America/Los_Angeles,,,0
+2324819,,,Rosecrans Avenue and Shoemaker Avenue S/W Corner,,33.9022455197,-118.055693852,,,0,,America/Los_Angeles,,,0
+2324895,,,Washington Boulevard and Putnam Street,,33.9679016523,-118.044261894,,,0,,America/Los_Angeles,,,0
+2326330,,,Ramona Boulevard and Lexington Avenue,,34.0720737102,-118.040077795,,,0,,America/Los_Angeles,,,0
+2326461,,,Beverly Boulevard and Greenleaf Avenue,,33.9880700062,-118.037559307,,,0,,America/Los_Angeles,,,0
+2324553,,,Foster Road and Bechard Avenue - S/W Corner,,33.909512113,-118.062526239,,,0,,America/Los_Angeles,,,0
+2324891,,,Telegraph/Carmenita Road (McDonalds),,33.9412800121,-118.04825228,,,0,,America/Los_Angeles,,,0
+2326152,,,Rosecrans/Shoemaker,,33.9024897748,-118.055732672,,,0,,America/Los_Angeles,,,0
+2324510,,,Bloomfield Avenue and Anabella Street,,33.9140768194,-118.064766928,,,0,,America/Los_Angeles,,,0
+2324657,,,Norwalk Boulevard and Civic Center Drive,,33.9144793317,-118.072732922,,,0,,America/Los_Angeles,,,0
+2324578,,,Imperial Highway and Fairford Avenue-S/E Corner,,33.9169664916,-118.094531062,,,0,,America/Los_Angeles,,,0
+2324727,,,Pickering Avenue and Mar Vista Street,,33.9734308141,-118.042165645,,,0,,America/Los_Angeles,,,0
+2324838,,,Bloomfield/Telegraph,,33.942083471,-118.06415862,,,0,,America/Los_Angeles,,,0
+2324620,,,Imperial Highway and Valley View Avenue- S/W Corner,,33.9169632614,-118.029778922,,,0,,America/Los_Angeles,,,0
+2324471,,,183rd Street and Alburtis Avenue- N/E Corner,,33.8658215065,-118.08418829,,,0,,America/Los_Angeles,,,0
+2324488,,,Alondra Boulevard and Maidstone Avenue-N/E Corner,,33.8877398309,-118.086652716,,,0,,America/Los_Angeles,,,0
+2324606,,,Imperial Highway and Paddison Avenue- N/E Corner,,33.9172714696,-118.076614888,,,0,,America/Los_Angeles,,,0
+2324598,,,Imperial/Norwalk,,33.9172784534,-118.074008059,,,0,,America/Los_Angeles,,,0
+2324887,,,Telegraph Road and Painter Avenue,,33.9417511017,-118.051153395,,,0,,America/Los_Angeles,,,0
+2324515,,,Bloomfield Avenue and Civic Center Drive,,33.9149749964,-118.064358506,,,0,,America/Los_Angeles,,,0
+2324502,,,Imperial/Beach,,33.917790031,-117.967740794,,,0,,America/Los_Angeles,,,0
+2324747,,,Pioneer Boulevard and Foster Road- S/E Corner,,33.9095274713,-118.082282853,,,0,,America/Los_Angeles,,,0
+2324782,,,Rosecrans Avenue and Castellon Road S/W Corner,,33.9022467369,-118.023973396,,,0,,America/Los_Angeles,,,0
+2326468,,,Santa Fe Springs Road and Los Nietos Road,,33.9498797321,-118.06003959,,,0,,America/Los_Angeles,,,0
+2324863,,,Studebaker Road and Falcon Way- N/E Corner,,33.8842873614,-118.099725499,,,0,,America/Los_Angeles,,,0
+2324474,,,183rd/Gridley,,33.8658022662,-118.091824709,,,0,,America/Los_Angeles,,,0
+2324491,,,Norwalk/Alondra,,33.8875518505,-118.072540979,,,0,,America/Los_Angeles,,,0
+2326470,,,Firestone Boulevard and Paddison Avenue,,33.9113269029,-118.078961093,,,0,,America/Los_Angeles,,,0
+2324582,,,Imperial Highway and Grovedale Drive- N/E Corner,,33.9174257569,-117.98856804,,,0,,America/Los_Angeles,,,0
+2324768,,,Ramona Boulevard and Lexington Avenue,,34.0718778932,-118.039739953,,,0,,America/Los_Angeles,,,0
+2324631,,,Lakeland Road and Fulton Wells Avenue,,33.9317521448,-118.076567399,,,0,,America/Los_Angeles,,,0
+2326325,,,Peck Road and Meeker Avenue,,34.0657328858,-118.030161947,,,0,,America/Los_Angeles,,,0
+2324611,,,Imperial/Santa Gertrudes,,33.917150088,-117.994723692,,,0,,America/Los_Angeles,,,0
+2324596,,,Imperial Highway and Market Place (East),,33.9174805903,-117.960008382,,,0,,America/Los_Angeles,,,0
+2324763,,,Pioneer Boulevard opposite Bluejay Lane,,33.9594871109,-118.084694975,,,0,,America/Los_Angeles,,,0
+2324672,,,Norwalk Boulevard and Lakeland Road- S/E Corner,,33.9314623043,-118.072564515,,,0,,America/Los_Angeles,,,0
+2324872,,,Studebaker Road and Rosecrans Avenue- S/W Corner,,33.9017926835,-118.100168258,,,0,,America/Los_Angeles,,,0
+2324503,,,Beverly Boulevard and Citrus Avenue,,33.9880719224,-118.045821091,,,0,,America/Los_Angeles,,,0
+2324699,,,Orr and Day Road and Clarkman Street- N/W Corner,,33.9395094105,-118.090735824,,,0,,America/Los_Angeles,,,0
+2324825,,,Rosecrans Avenue opposite Bloomfield Avenue North,,33.9022039435,-118.06043646,,,0,,America/Los_Angeles,,,0
+2324643,,,Metrolink Station,,33.9165360271,-118.060726976,,,0,,America/Los_Angeles,,,0
+2326320,,,Peck Road and Rooks Road,,34.0305681232,-118.037136183,,,0,,America/Los_Angeles,,,0
+2324884,,,Telegraph/Norwalk,,33.9417072329,-118.072036683,,,0,,America/Los_Angeles,,,0
+2324922,,,Workman Mill Road/College,,34.0193841341,-118.038601311,,,0,,America/Los_Angeles,,,0
+2324687,,,Norwalk Boulevard and Waddell Street- N/W Corner,,33.969007388,-118.071855278,,,0,,America/Los_Angeles,,,0
+2324791,,,Rosecrans Avenue and Elmcroft Avenue S/E Corner,,33.9020030903,-118.095410855,,,0,,America/Los_Angeles,,,0
+2324656,,,Norwalk Boulevard and Choisser Street,,33.9761702654,-118.075814103,,,0,,America/Los_Angeles,,,0
+2324800,,,Rosecrans Avenue and Greenstone Avenue S/E Corner,,33.9022320873,-118.057479297,,,0,,America/Los_Angeles,,,0
+2324513,,,Bloomfield Avenue and Hacienda Drive,,33.9134836154,-118.064474652,,,0,,America/Los_Angeles,,,0
+2324907,,,Workman Mill Road and Rose Hills Gate # 17,,34.0056326387,-118.055827984,,,0,,America/Los_Angeles,,,0
+2324671,,,Norwalk/Imperial,,33.917579971,-118.072459117,,,0,,America/Los_Angeles,,,0
+2324759,,,Pioneer/Rosecrans,,33.901557832,-118.082749959,,,0,,America/Los_Angeles,,,0
+2324775,,,Rosecrans Avenue and Bellflower Boulevard -S/E Corner,,33.9018561471,-118.124929731,,,0,,America/Los_Angeles,,,0
+2324865,,,Studebaker Road and Foster Road- S/E Corner,,33.9096184637,-118.099106502,,,0,,America/Los_Angeles,,,0
+2324545,,,Florence/Pioneer,,33.9354424046,-118.08218919,,,0,,America/Los_Angeles,,,0
+2324904,,,Workman Mill Road and Pioneer Boulevard- S/W Corner,,34.0085217741,-118.055366178,,,0,,America/Los_Angeles,,,0
+2324504,,,Beverly Boulevard and Floral Drive,,33.9916097418,-118.050690045,,,0,,America/Los_Angeles,,,0
+2324715,,,Painter Avenue and Philadelphia Street,,33.9792610448,-118.032786477,,,0,,America/Los_Angeles,,,0
+2324880,,,Telegraph Road and Greenleaf Avenue - N/W Corner,,33.9419888754,-118.055636699,,,0,,America/Los_Angeles,,,0
+2324769,,,Ramona Boulevard and Santa Anita Avenue,,34.0718632317,-118.041413379,,,0,,America/Los_Angeles,,,0
+2324779,,,Rosecrans Avenue and Cabell - S/E  Corner,,33.9018797593,-118.121997348,,,0,,America/Los_Angeles,,,0
+2324604,,,Imperial Highway and Oxford Drive- S/W Corner,,33.9171300686,-117.999129242,,,0,,America/Los_Angeles,,,0
+2326469,,,Civic Center Drive opposite AMC Theaters,,33.9142738903,-118.070931802,,,0,,America/Los_Angeles,,,0
+2324647,,,Norwalk Boulevard and Aegean Street- S/W Corner,,33.9235055558,-118.072793405,,,0,,America/Los_Angeles,,,0
+2324559,,,Foster Road and Stanstead Avenue -S/W Corner,,33.9095057114,-118.064177499,,,0,,America/Los_Angeles,,,0
+2324817,,,Rosecrans Avenue and Santa Gertrudes Avenue S/W Corner,,33.8987531225,-117.996977766,,,0,,America/Los_Angeles,,,0
+2324601,,,Imperial Highway and Ocaso Avenue- S/W Corner,,33.9164099182,-118.003384917,,,0,,America/Los_Angeles,,,0
+2324652,,,Norwalk Boulevard and Beverly Boulevard- S/W Corner,,33.9981398616,-118.05610536,,,0,,America/Los_Angeles,,,0
+2324590,,,Imperial Highway and La Mirada Boulevard- N/E Corner,,33.9173205011,-118.011448926,,,0,,America/Los_Angeles,,,0
+2324485,,,Alondra Boulevard and Madris Avenue,,33.887566763,-118.069673778,,,0,,America/Los_Angeles,,,0
+2324879,,,Telegraph Road and Greenleaf Avenue,,33.9417399688,-118.054777724,,,0,,America/Los_Angeles,,,0
+2324717,,,Peck Road and Durfee Avenue,,34.0358716742,-118.038631113,,,0,,America/Los_Angeles,,,0
+2324555,,,Foster Road and Greenstone Avenue,,33.9096742272,-118.058512735,,,0,,America/Los_Angeles,,,0
+2324659,,,Norwalk Boulevard and Civic Center Drive- N/E Corner,,33.9145010482,-118.07242405,,,0,,America/Los_Angeles,,,0
+2324612,,,Imperial Highway and Shoemaker Avenue- N/E Corner,,33.91717766,-118.054974144,,,0,,America/Los_Angeles,,,0
+2324860,,,Studebaker Road and Coast Plaza Hospital,,33.9125821266,-118.099096274,,,0,,America/Los_Angeles,,,0
+2324531,,,Clark Avenue and Oak Street at Youth Employment,,33.8839579604,-118.133854994,,,0,,America/Los_Angeles,,,0
+2324517,,,Bloomfield/Imperial,,33.916768626,-118.064069524,,,0,,America/Los_Angeles,,,0
+2335771,,,Pioneer Boulevard and Glenworth Street,,33.939725885496,-118.081986073,,,0,,America/Los_Angeles,,,0
+2324621,,,Imperial Highway and Volunteer Avenue- N/W Corner,,33.9172591216,-118.069019268,,,0,,America/Los_Angeles,,,0
+2324630,,,Lakeland Road and Arlee Avenue - S/W Corner,,33.9316030442,-118.080760655,,,0,,America/Los_Angeles,,,0
+2324805,,,Rosecrans Avenue and La Fonda Drive S/W Corner,,33.8989609963,-118.0015527,,,0,,America/Los_Angeles,,,0
+2324686,,,Norwalk Boulevard and Tina Street- N/W Corner,,33.9260231596,-118.072805092,,,0,,America/Los_Angeles,,,0
+2324486,,,Alondra Boulevard and Madris Avenue - N/E Corner,,33.8878274307,-118.069333073,,,0,,America/Los_Angeles,,,0
+2324567,,,Hindu Temple (15311 Pioneer Boulevard),,33.8923078282,-118.08264358,,,0,,America/Los_Angeles,,,0
+2324902,,,Workman Mill Road and Cliota Street- S/E Corner,,34.0133935331,-118.046363818,,,0,,America/Los_Angeles,,,0
+2324650,,,Norwalk Boulevard and Balfour Street- N/E Corner,,33.979908858,-118.073792002,,,0,,America/Los_Angeles,,,0
+2324867,,,Studebaker Road and Leffingwell Road- N/W Corner,,33.9067319283,-118.099690355,,,0,,America/Los_Angeles,,,0
+2324830,,,San Antonio Drive and Foster Road- N/W Corner,,33.9076677373,-118.077062547,,,0,,America/Los_Angeles,,,0
+2324475,,,183rd/Gridley,,33.8655490851,-118.091661576,,,0,,America/Los_Angeles,,,0
+2324781,,,Rosecrans Avenue and Carmenita Road S/E Corner,,33.9022934341,-118.046165884,,,0,,America/Los_Angeles,,,0
+2324511,,,Bloomfield Avenue and Dante Street,,33.9106417599,-118.064729943,,,0,,America/Los_Angeles,,,0
+2324924,,,Workman Mill Road opposite Sierra Morena Avenue,,34.0013382107,-118.056287703,,,0,,America/Los_Angeles,,,0
+2324484,,,Alondra Boulevard and Gridley Road- N/W Corner,,33.8877063508,-118.091419171,,,0,,America/Los_Angeles,,,0
+2324855,,,Studebaker Road and Angell opposite Hospital,,33.9124484249,-118.099402823,,,0,,America/Los_Angeles,,,0
+2324729,,,Pickering Avenue and Whittier Boulevard,,33.9690450126,-118.041997981,,,0,,America/Los_Angeles,,,0
+2324732,,,Pioneer Boulevard and 166th Street- N/W Corner,,33.8805830837,-118.082518887,,,0,,America/Los_Angeles,,,0
+2324756,,,Pioneer Boulevard and Orange Street- S/E Corner,,33.905088237,-118.082498423,,,0,,America/Los_Angeles,,,0
+2324618,,,Imperial Highway and Tigrina Avenue- S/W Corner,,33.9172294478,-117.980999213,,,0,,America/Los_Angeles,,,0
+2326322,,,Rush Street and Durfee Avenue,,34.0462155068,-118.030199614,,,0,,America/Los_Angeles,,,0
+2324816,,,Rosecrans Avenue and Santa Gertrudes Avenue N/W Corner,,33.8990027593,-117.997036265,,,0,,America/Los_Angeles,,,0
+2324873,,,Studebaker Road and Spinnaker Street- S/E Corner,,33.8781140107,-118.099632268,,,0,,America/Los_Angeles,,,0
+2324890,,,Telegraph Road and Pioneer Boulevard - N/W Corner,,33.944895508787,-118.08115874703,,,0,,America/Los_Angeles,,,0
+2324736,,,Pioneer Boulevard and Alondra Boulevard- N/W Corner,,33.8878792686,-118.082607181,,,0,,America/Los_Angeles,,,0
+2324821,,,Rosecrans Avenue and Studebaker Road S/W Corner,,33.9019768738,-118.100434891,,,0,,America/Los_Angeles,,,0
+2324494,,,Alondra Boulevard and Studebaker Road- N/E Corner,,33.8876636205,-118.09958956,,,0,,America/Los_Angeles,,,0
+2324868,,,Studebaker Road and Mapledale Street- N/E Corner,,33.8986162096,-118.099854143,,,0,,America/Los_Angeles,,,0
+2324859,,,Studebaker Road and Barnwall Street- N/E Corner,,33.8914375491,-118.099796625,,,0,,America/Los_Angeles,,,0
+2324640,,,Lambert Road and Washington Boulevard,,33.9669986449,-118.048046835,,,0,,America/Los_Angeles,,,0
+2324752,,,Pioneer Boulevard and Los Nietos Road- S/E Corner,,33.9615131666,-118.083461342,,,0,,America/Los_Angeles,,,0
+2324914,,,Workman Mill Road and Cliota Street,,34.0137964609,-118.045985532,,,0,,America/Los_Angeles,,,0
+2324785,,,Rosecrans Avenue and Clarkdale Avenue S/E Corner,,33.9020878319,-118.079616956,,,0,,America/Los_Angeles,,,0
+2324530,,,Clark Avenue and Linden Street - N/E  Corner,,33.8916663551,-118.133900825,,,0,,America/Los_Angeles,,,0
+2324610,,,Imperial/Santa Gertrudes,,33.9174035316,-117.9949168,,,0,,America/Los_Angeles,,,0
+2324786,,,Rosecrans Avenue and Dinard Avenue N/E Corner,,33.9025100924,-118.05072577,,,0,,America/Los_Angeles,,,0
+2324809,,,Rosecrans Avenue and Marquardt Avenue N/E Corner,,33.9025935204,-118.037461031,,,0,,America/Los_Angeles,,,0
+2326459,,,Durfee Avenue and Thienes Avenue,,34.0434780271,-118.032849673,,,0,,America/Los_Angeles,,,0
+2324575,,,Imperial Highway and Burgess Avenue- S/W Corner,,33.91700084,-118.024189824,,,0,,America/Los_Angeles,,,0
+2324823,,,Rosecrans Avenue and Valley View Avenue S/E Corner,,33.9023983253,-118.028745469,,,0,,America/Los_Angeles,,,0
+2324487,,,Alondra/Maidstone,,33.887483857,-118.086501669,,,0,,America/Los_Angeles,,,0
+2324470,,,Norwalk/166th,,33.8802863844,-118.073168838,,,0,,America/Los_Angeles,,,0
+2324894,,,Washington Boulevard and Lambert Road,,33.9673411008,-118.047426419,,,0,,America/Los_Angeles,,,0
+2324743,,,Pioneer Boulevard and Cheshire Street- N/E Corner,,33.8907460074,-118.082332604,,,0,,America/Los_Angeles,,,0
+2324617,,,Imperial Highway and Tigrina Avenue- N/E Corner,,33.9174659923,-117.980531371,,,0,,America/Los_Angeles,,,0
+2324493,,,Alondra Boulevard and Piuma Avenue- S/W Corner,,33.8875035341,-118.106277587,,,0,,America/Los_Angeles,,,0
+2324534,,,El Monte Station - Lower Bay 3/4,,34.0722842914,-118.045078116,,,0,,America/Los_Angeles,,,0
+2324723,,,Durfee Avenue and Michael Hunt Drive,,34.0407545372,-118.035720809,,,0,,America/Los_Angeles,,,0
+2324742,,,Pioneer Boulevard and Charlesworth Road- N/E Corner,,33.9560737508,-118.085618893,,,0,,America/Los_Angeles,,,0
+2324680,,,Norwalk Boulevard and Orange Street- S/E Corner,,33.9919426383,-118.06194358,,,0,,America/Los_Angeles,,,0
+2324679,,,Norwalk Boulevard and Orange Street- N/W Corner,,33.9923994515,-118.0617536,,,0,,America/Los_Angeles,,,0
+2324712,,,Orr and Day/Telegraph,,33.948379397,-118.08985828,,,0,,America/Los_Angeles,,,0
+2324852,,,Studebaker Road and 183rd Street- N/E Corner,,33.8659751604,-118.099512594,,,0,,America/Los_Angeles,,,0
+2326326,,,Valley Boulevard and Peck Road,,34.0692100098,-118.02828685,,,0,,America/Los_Angeles,,,0
+2324831,,,San Antonio Drive and Front Street- N/E Corner,,33.908795188,-118.075990766,,,0,,America/Los_Angeles,,,0
+2324664,,,Norwalk Boulevard and Crewe Street- N/W Corner,,33.9209080933,-118.072781993,,,0,,America/Los_Angeles,,,0
+2326467,,,Washington Boulevard and Putnam Street,,33.9681187469,-118.044381634,,,0,,America/Los_Angeles,,,0
+2324710,,,Orr and Day Road and Whiteland Street- S/E Corner,,33.9524403632,-118.087127841,,,0,,America/Los_Angeles,,,0
+2324533,,,Clark Avenue and Somerset Boulevard- N/E  Corner,,33.8967788556,-118.133928946,,,0,,America/Los_Angeles,,,0
+2324841,,,Shoemaker Avenue and Foster Road,,33.9093843671,-118.055281985,,,0,,America/Los_Angeles,,,0
+2324876,,,Telegraph Road and Bloomfield Avenue,,33.9416979641,-118.064475025,,,0,,America/Los_Angeles,,,0
+2324783,,,Rosecrans Avenue and Claressa Avenue S/W Corner,,33.9022831174,-118.048623912,,,0,,America/Los_Angeles,,,0
+2324632,,,Lakeland Road and Lakeland Road Villa,,33.931745977,-118.074224188,,,0,,America/Los_Angeles,,,0
+2324854,,,Studebaker/Alondra,,33.8881821623,-118.099763005,,,0,,America/Los_Angeles,,,0
+2324893,,,Valley Boulevard and Peck Road,,34.0691119388,-118.028587746,,,0,,America/Los_Angeles,,,0
+2324483,,,Alondra Boulevard and Graystone Avenue,,33.8876997082,-118.093854806,,,0,,America/Los_Angeles,,,0
+2324563,,,Green Line Station,,33.9132978083106,-118.103927487406,,,1,,America/Los_Angeles,,,0
+2326460,,,Durfee Avenue and Michael Hunt Drive,,34.0409246635,-118.035993473,,,0,,America/Los_Angeles,,,0
+2324566,,,Hadley Street and Washington Boulevard,,33.9826212094,-118.035278879,,,0,,America/Los_Angeles,,,0
+2324829,,,San Antonio Drive and Firestone Boulevard- S/W Corner,,33.9089038185,-118.076260371,,,0,,America/Los_Angeles,,,0
+2324654,,,Norwalk Boulevard and Bexley Drive- S/E Corner,,33.985792968,-118.067933672,,,0,,America/Los_Angeles,,,0
+2324500,,,Alondra Boulevard opposite Leibacher Avenue,,33.8873862911,-118.10284902,,,0,,America/Los_Angeles,,,0
+2324577,,,Imperial Highway and Carmenita Road- S/W Corner,,33.9168657842,-118.047233693,,,0,,America/Los_Angeles,,,0
+2324738,,,Pioneer Boulevard and Artesia Boulevard- N/E Corner,,33.8733014641,-118.082141592,,,0,,America/Los_Angeles,,,0
+2324840,,,Shoemaker Avenue at Golf Course,,33.9076132512,-118.055497662,,,0,,America/Los_Angeles,,,0
+2324685,,,Norwalk Boulevard and Tina Street - S/W Corner,,33.9256529331,-118.072804885,,,0,,America/Los_Angeles,,,0
+2324600,,,Imperial Highway and Ocaso Avenue- N/W Corner,,33.9166346067,-118.003529982,,,0,,America/Los_Angeles,,,0
+2324906,,,Workman Mill Road and Rose Hills (Main Gate),,34.0173074156,-118.040698163,,,0,,America/Los_Angeles,,,0
+2324597,,,Imperial Highway and Market Place (West) Wendy's,,33.9174843014,-117.962654891,,,0,,America/Los_Angeles,,,0
+2324912,,,Workman Mill Road and E Mission Mill Road,,34.0151272228,-118.044078275,,,0,,America/Los_Angeles,,,0
+2324694,,,Norwalk Boulevard opposite Crewe Street,,33.9205318408,-118.072490511,,,0,,America/Los_Angeles,,,0
+2326315,,,Painter Avenue and Penn Street,,33.9752364879,-118.032565156,,,0,,America/Los_Angeles,,,0
+2326312,,,Bloomfield Avenue and Florence Avenue,,33.9358380187,-118.063836171,,,0,,America/Los_Angeles,,,0
+2324725,,,Peck Road and Rooks Road,,34.0304996799,-118.037444289,,,0,,America/Los_Angeles,,,0
+2324802,,,Rosecrans Avenue and Harvest Avenue S/W Corner,,33.9020195125,-118.092457397,,,0,,America/Los_Angeles,,,0
+2324535,,,El Monte Station - Lower Bay 6,,34.0722843382,-118.044952545,,,0,,America/Los_Angeles,,,0
+2324648,,,Norwalk Boulevard and Aldrich Street- N/W Corner,,33.9835254225,-118.070543541,,,0,,America/Los_Angeles,,,0
+2324552,,,Flower Street and Civic Center Drive- N/E Corner,,33.8821849897,-118.122078776,,,0,,America/Los_Angeles,,,0
+2324966,,,Orr and Day Road and Davenrich Street,,33.9456948404,-118.090462013,,,0,,America/Los_Angeles,,,0
+2324811,,,Rosecrans Avenue at the Masonic Center,,33.9024080088,-118.069468901,,,0,,America/Los_Angeles,,,0
+2324556,,,Foster Road and Greenstone Avenue -S/E Corner,,33.9095375681,-118.058181929,,,0,,America/Los_Angeles,,,0
+2326306,,,Bloomfield Avenue and Excelsior Drive,,33.8955724637391,-118.063938598191,,,0,,America/Los_Angeles,,,0
+2324693,,,Norwalk/Whittier,,33.9897136317,-118.064373753,,,0,,America/Los_Angeles,,,0
+2324645,,,Norwalk/166th,,33.8799923434,-118.07282975,,,0,,America/Los_Angeles,,,0
+2324668,,,Norwalk Boulevard and Hermes Street- N/W Corner,,33.9311761871,-118.072852264,,,0,,America/Los_Angeles,,,0
+2324616,,,Imperial Highway and Studebaker Road-S/E Corner,,33.916940277,-118.098669749,,,0,,America/Los_Angeles,,,0
+2324754,,,Pioneer Boulevard and Mapledale Street- S/W Corner,,33.8982366125,-118.082704346,,,0,,America/Los_Angeles,,,0
+2326317,,,Beverley Boulevard and Pickering Avenue,,33.9882308422,-118.042370372,,,0,,America/Los_Angeles,,,0
+2324489,,,Alondra Boulevard and Mc Nab Avenue- S/E Corner,,33.8883046367,-118.113242051,,,0,,America/Los_Angeles,,,0
+2324477,,,183rd Street and Studebaker Road- S/E Corner,,33.8654944889,-118.099091592,,,0,,America/Los_Angeles,,,0
+2324776,,,Rosecrans Avenue and Biola Avenue N/E Corner,,33.9005875914,-118.01897029,,,0,,America/Los_Angeles,,,0
+2324789,,,Rosecrans Avenue and El Espejo Road N/E Corner,,33.9021575492,-118.022478245,,,0,,America/Los_Angeles,,,0
+2324739,,,Pioneer Boulevard and Artesia Boulevard- N/W Corner,,33.8734146777,-118.082449906,,,0,,America/Los_Angeles,,,0
+2324897,,,Woodruff Avenue and Flora Vista Street- N/W Corner,,33.8828116527,-118.117464936,,,0,,America/Los_Angeles,,,0
+2324655,,,Norwalk Boulevard and Cedarcrest Drive,,33.8845366505,-118.072683149,,,0,,America/Los_Angeles,,,0
+2324697,,,Norwalk Green Line Station ,Bay 1 Route 7,33.9134496143,-118.104007315,,,0,2324563,,,,0
+2326835,,,Bloomfield Avenue and Alondra Boulevard,,33.888008438,-118.063960378,,,0,,America/Los_Angeles,,,0
+2324651,,,Norwalk Boulevard and Beverly Boulevard- S/E Corner,,33.9979045892,-118.056030631,,,0,,America/Los_Angeles,,,0
+2324524,,,Civic Center Drive and Silverbow Avenue -S/E Corner,,33.9142208738,-118.066027931,,,0,,America/Los_Angeles,,,0
+2324565,,,Hadley Street and Painter Avenue,,33.9826147101,-118.032956726,,,0,,America/Los_Angeles,,,0
+2324910,,,Workman Mill Road and Spy Glass Hill Road- S/E Corner,,34.0115121526,-118.048302034,,,0,,America/Los_Angeles,,,0
+2324888,,,Telegraph Road and Painter Avenue - N/W Corner,,33.941983357,-118.051744357,,,0,,America/Los_Angeles,,,0
+2324512,,,Bloomfield Avenue and Excelsior Drive,,33.8952341333,-118.064226068,,,0,,America/Los_Angeles,,,0
+2324476,,,183rd Street and Los Cerritos Center- S/E Corner,,33.8655305785,-118.094335955,,,0,,America/Los_Angeles,,,0
+2324965,,,Green Line Station,Route 5 stop  ,33.9128884569,-118.103799194,,,0,2324563,,,,0
+2324646,,,Norwalk Boulevard and Aegean Street,,33.9232775037,-118.072509367,,,0,,America/Los_Angeles,,,0
+2324843,,,Shoemaker Avenue and Shoemaker Avenue Ct. Apts.,,33.9033359976,-118.055465079,,,0,,America/Los_Angeles,,,0
+2324569,,,Imperial Highway and 12501 Imperial Highway,,33.9172721558,-118.067056002,,,0,,America/Los_Angeles,,,0
+2324688,,,Norwalk Boulevard and Waddell Street- N/E Corner,,33.9688552234,-118.07140424,,,0,,America/Los_Angeles,,,0
+2324764,,,Pioneer Boulevard opposite Cheshire Street,,33.8901680065,-118.082615306,,,0,,America/Los_Angeles,,,0
+2326319,,,Beverley Boulevard and Floral Drive,,33.9916741726,-118.050488494,,,0,,America/Los_Angeles,,,0
+2324796,,,Rosecrans Avenue and Grayland Avenue N/E Corner,,33.9023565091,-118.076070383,,,0,,America/Los_Angeles,,,0
+2324673,,,Norwalk Boulevard at Metro Hospital Main Gate,,33.9263530339,-118.072530341,,,0,,America/Los_Angeles,,,0
+2324526,,,Civic Center Drive and Volunteer Avenue - S/E Corner,,33.9136565833,-118.068476699,,,0,,America/Los_Angeles,,,0
+2326313,,,Lambert Road and Santa Fe Springs Road,,33.9642635137,-118.046080643,,,0,,America/Los_Angeles,,,0
+2324704,,,Orr and Day Road and Dunning Street- N/W Corner,,33.9432471322,-118.090750748,,,0,,America/Los_Angeles,,,0
+2324765,,,NSQ,,33.9049907533,-118.082786075,,,0,,America/Los_Angeles,,,0
+2324773,,,Rosecrans Avenue and Adelfa Drive S/W Corner,,33.8987031412,-118.005422383,,,0,,America/Los_Angeles,,,0
+2324506,,,Beverly Boulevard and Norwalk Boulevard,,33.9982388677,-118.055192598,,,0,,America/Los_Angeles,,,0
+2324537,,,Firestone Boulevard and Pioneer Boulevard,,33.9123271345,-118.081359702,,,0,,America/Los_Angeles,,,0
+2324714,,,Painter Avenue and Penn Street,,33.975155968,-118.032790596,,,0,,America/Los_Angeles,,,0
+2324691,,,Norwalk/Washington,,33.9718159021,-118.073777467,,,0,,America/Los_Angeles,,,0
+2324518,,,Bloomfield Avenue and Lakeland Road,,33.931210913,-118.064127974,,,0,,America/Los_Angeles,,,0
+2324804,,,Rosecrans Avenue and Jalon Road N/E Corner,,33.8988444382,-118.006914822,,,0,,America/Los_Angeles,,,0
+2324815,,,Rosecrans and Pioneer,,33.9020699247,-118.08213195,,,0,,America/Los_Angeles,,,0
+2324629,,,La Mirada Boulevard and Ocaso Avenue S/E Corner,,33.8917376254,-118.003623149,,,0,,America/Los_Angeles,,,0

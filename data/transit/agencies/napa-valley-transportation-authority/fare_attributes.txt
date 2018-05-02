@@ -1,0 +1,5 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+411,1.60,USD,0,1,3600
+412,1.60,USD,0,0,0
+413,3.00,USD,0,1,3600
+414,5.50,USD,0,1,3600

@@ -1,0 +1,6 @@
+agency_id,fare_id,price,currency_type,payment_method,transfers,transfer_duration
+175,777,1.50,USD,0,,10800
+175,778,2.10,USD,0,,10800
+175,779,3.00,USD,0,,10800
+175,780,3.90,USD,0,,10800
+175,781,4.80,USD,0,,10800

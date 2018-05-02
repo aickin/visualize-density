@@ -1,0 +1,629 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1,1,Palm at Two Bunch Palms,,33.946517,-116.501184,,,,,,0
+2,2,Palm at Hacienda,,33.953131,-116.501175,,,,,,0
+3,3,Palm at Estrella,,33.956542,-116.501183,,,,,,0
+5,5,Palm at Hacienda,,33.9532,-116.501443,,,,,,0
+6,6,Palm at Ironwood,,33.950164,-116.501435,,,,,,0
+8,8,Palm at Sky Haven,,33.941839,-116.501581,,,,,,0
+9,9,Palm Cyn at Racquet Club,,33.851436,-116.551081,,,,,,0
+10,10,Palm Cyn at Via Escuela,,33.848167,-116.547967,,,,,,0
+11,11,Palm Cyn at Hermosa Pl,,33.835906,-116.546928,,,,,,0
+12,12,Palm Cyn at Sonora,,33.804553,-116.545792,,,,,,0
+13,13,Palm Cyn at Camino Real,,33.801175,-116.538706,,,,,,0
+14,14,Palm Cyn at Sunrise,,33.801217,-116.527286,,,,,,0
+15,15,Palm Cyn at Gene Autry,,33.792969,-116.494539,,,,,,0
+16,16,Palm Cyn at Golf Club,,33.790364,-116.485781,,,,,,0
+17,17,Palm Cyn at Bankside,,33.781367,-116.470308,,,,,,0
+19,19,Palm Cyn at Bankside,,33.781569,-116.469994,,,,,,0
+20,20,Palm Cyn at Eagle Cyn,,33.787944,-116.48133,,,,,,0
+21,21,Palm Cyn at Golf Club,,33.7907,-116.485856,,,,,,0
+22,22,Palm Cyn at Escoba,,33.801342,-116.515636,,,,,,0
+23,23,Palm Cyn at Sunrise,,33.801544,-116.5268,,,,,,0
+24,24,Indian Cyn at Andreas,,33.824617,-116.545453,,,,,,0
+25,25,Indian Cyn at Alejo,,33.830003,-116.545467,,,,,,0
+26,26,Indian Cyn at Tachevah,,33.838554,-116.545435,,,,,,0
+27,27,Sunrise at Ramon,,33.816731,-116.528019,,,,,,0
+29,29,Tahquitz Cyn at Civic,,33.823267,-116.512828,,,,,,0
+31,31,Ramon at Compadre,,33.815728,-116.514658,,,,,,0
+32,32,Ramon at Landau,,33.815736,-116.474856,,,,,,0
+33,33,Ramon at San Luis Rey,,33.815976,-116.489255,,,,,,0
+34,34,Ramon at Canyon Vista,,33.81578,-116.46502,,,,,,0
+35,35,Ramon at Cathedral Village E,,33.815767,-116.45595,,,,,,0
+37,37,Ramon at Landau,,33.81605,-116.474681,,,,,,0
+38,38,Ramon at El Cielo,,33.815978,-116.511269,,,,,,0
+39,39,Ramon at Calle El Segundo,,33.815953,-116.539993,,,,,,0
+41,41,Date Palm at Ortega,,33.804611,-116.458167,,,,,,0
+42,42,Date Palm at Dinah Shore,,33.800756,-116.458269,,,,,,0
+43,43,Date Palm at 35th,,33.794816,-116.458174,,,,,,0
+44,44,Date Palm at Gerald Ford,,33.78785,-116.45827,,,,,,0
+45,45,Date Palm at Perez,,33.781244,-116.458186,,,,,,0
+46,46,Date Palm at Grove,,33.779456,-116.458169,,,,,,0
+49,49,Date Palm at 35th,,33.794483,-116.457917,,,,,,0
+50,50,Date Palm at Desert Sands Mbl Prk,Date Palm & Via Colusa - Desert Sands Mobile Home Community,33.810856,-116.457883,,,,,,0
+55,55,Cook at Hovley Ln E,,33.745853,-116.356464,,,,,,0
+56,56,Cook at Joni,,33.740686,-116.356453,,,,,,0
+62,62,Monterey at Fred Waring,Ramon & Rattler (Eastbound) - A short walk North for students of Rancho Mirage High School - Home of the Rattlers,33.728264,-116.39135,,http://www.sunline.org/stop62,,,,0
+63,63,Monterey at Hahn,Monterey & Hahn - Westfield Mall Palm Desert,33.724178,-116.391536,,,,,,0
+65,65,Town Center at Hahn,Town Center & Hahn - Westfield Mall Palm Desert,33.724622,-116.398131,,http://www.sunline.org/stop65,,,,0
+67,67,Town Center at Hahn,Town Center & Hahn - Westfield Mall Palm Desert,33.725756,-116.398536,,http://www.sunline.org/stop67,,,,0
+69,69,Fred Waring at Monterey,,33.728601,-116.39079,,,,,,0
+70,70,Hwy 111 at San Luis Rey,,33.721072,-116.375953,,,,,,0
+71,71,Hwy 111 at Fred Waring,,33.7293,-116.403156,,,,,,0
+72,72,Hwy 111 at Deep Canyon,,33.721161,-116.364814,,,,,,0
+73,73,Hwy 111 at Deep Canyon,,33.721494,-116.365431,,,,,,0
+74,74,Hwy 111 at Cabrillo,,33.721439,-116.370386,,,,,,0
+76,76,Hwy 111 at San Pablo,,33.721459,-116.381875,,,,,,0
+77,77,Fred Waring at COD,,33.728828,-116.388183,,,,,,0
+80,80,Washington at Dudley,,33.738644,-116.304042,,,,,,0
+81,81,Washington at Fred Waring,,33.728167,-116.30405,,,,,,0
+82,82,Hwy 111 at Washington,,33.715719,-116.29575,,,,,,0
+84,84,Adams at Hwy 111,,33.707717,-116.286333,,,,,,0
+86,86,Washington at Ave 50,,33.68504,-116.294975,,,,,,0
+87,87,Bermudas at Calle Tampico,,33.677391,-116.30354,,,,,,0
+88,88,Bermudas at Calle Tampico,,33.676764,-116.303775,,,,,,0
+89,89,Washington at Ave 48,,33.701375,-116.294633,,,,,,0
+90,90,Requa at Fargo,,33.717542,-116.217317,,,,,,0
+91,91,Hwy 111 at Jefferson,,33.707226,-116.267599,,,,,,0
+92,92,Hwy 111 at Madison,,33.707172,-116.25075,,,,,,0
+93,93,Hwy 111 at Dr Carreon,,33.708544,-116.240447,,,,,,0
+94,94,Hwy 111 at Rubidoux,,33.7147,-116.22965,,,,,,0
+95,95,Hwy 111 at Arabia,,33.714722,-116.224525,,,,,,0
+97,97,Jackson at Ruby,,33.726332,-116.216209,,,,,,0
+98,98,Jackson at Market,,33.726136,-116.216431,,,,,,0
+100,100,Hwy 111 at Monroe,,33.713864,-116.2356,,,,,,0
+101,101,Hwy 111 at Las Palmas,,33.711562,-116.238122,,,,,,0
+102,102,Hwy 111 at Clinton,,33.707564,-116.245842,,,,,,0
+103,103,Hwy 111 at Shields,,33.707554,-116.260607,,,,,,0
+105,105,Monroe at Shadow Palm,,33.716886,-116.233942,,,,,,0
+107,107,Monroe at Hoover,,33.72716,-116.233661,,,,,,0
+108,108,Dr Carreon at Arabia,,33.7076,-116.225517,,,,,,0
+109,109,Dr Carreon at Hwy 111,,33.707464,-116.239819,,,,,,0
+110,110,Dr Carreon at Hwy 111,,33.706975,-116.241939,,,,,,0
+111,111,Dr Carreon at Monroe JFK,,33.707347,-116.235454,,,,,,0
+113,113,Jackson at Date,,33.711708,-116.216231,,,,,,0
+114,114,Ave 50 at Harrison,,33.685597,-116.183214,,,,,,0
+115,115,Harrison at Bagdad,,33.674376,-116.18148,,,,,,0
+120,120,Palm Cyn at Stevens,Palm Canyon & Stevens - North-end of Downtown Palm Springs,33.842589,-116.546911,,http://www.sunline.org/stop120,,,,0
+121,121,Palm Cyn at Vereda Del Sur,,33.839605,-116.546875,,,,,,0
+124,124,N Palm Cyn at Chino,,33.831267,-116.546953,,,,,,0
+125,125,N Palm Cyn at Amado,,33.82696,-116.546927,,,,,,0
+127,127,Palm Cyn at Arenas,,33.820817,-116.546892,,,,,,0
+128,128,Palm Cyn at Baristo,,33.819081,-116.546865,,,,,,0
+129,129,Ramon at Indian Cyn,,33.815689,-116.545861,,,,,,0
+130,130,Ramon at Calle Palo Fierro,,33.815772,-116.54095,,,,,,0
+131,131,Ramon at Camino Real,,33.815764,-116.538201,,,,,,0
+132,132,Ramon at Grenfall,,33.81578,-116.534485,,,,,,0
+133,133,Baristo at Sunrise,,33.819449,-116.527061,,,,,,0
+134,134,Two Bunch Palms at Palm,,33.94691,-116.501824,,,,,,0
+135,135,Two Bunch Palms at West,,33.946875,-116.509664,,,,,,0
+136,136,West at Granada,,33.954867,-116.510012,,,,,,0
+138,138,Hacienda at Palm,,33.954017,-116.500503,,,,,,0
+142,142,Ramon at Desert,,33.81576,-116.508333,,,,,,0
+143,143,Ramon at El Placer,,33.815787,-116.506005,,,,,,0
+144,144,Ramon at Paseo Dorotea,,33.81573,-116.501156,,,,,,0
+145,145,Ramon at Vella,,33.815711,-116.497767,,,,,,0
+155,155,Gene Autry at Tamarisk,,33.832779,-116.503331,,,,,,0
+156,156,Gene Autry at Tachevah,,33.838147,-116.506061,,,,,,0
+159,159,Vista Chino at Desert Princess,,33.844734,-116.483436,,,,,,0
+160,160,Vista Chino at Landau,,33.844725,-116.477569,,,,,,0
+162,162,Miravilla at Risueno,,33.834331,-116.46694,,,,,,0
+167,167,Vista Chino at Landau,,33.845053,-116.476486,,,,,,0
+168,168,Vista Chino at Quintana,,33.844953,-116.485328,,,,,,0
+169,169,Vista Chino at Carmela,,33.844999,-116.490351,,,,,,0
+171,171,Gene Autry at Tachevah,,33.837345,-116.50634,,,,,,0
+173,173,Gene Autry at Atlantic Leoco,,33.825233,-116.497472,,,,,,0
+176,176,San Luis Rey at Mission,,33.819771,-116.488622,,,,,,0
+178,178,Ramon at Kirk Douglas,,33.815989,-116.498108,,,,,,0
+179,179,Ramon at Paseo Dorotea,,33.815967,-116.502978,,,,,,0
+180,180,Ramon at El Placer,,33.816022,-116.507664,,,,,,0
+181,181,El Cielo at Kirk Douglas,,33.819892,-116.510517,,,,,,0
+186,186,Ramon at Sunrise,,33.816033,-116.528853,,,,,,0
+187,187,Ramon at Hermosa,,33.815994,-116.533128,,,,,,0
+188,188,Ramon at Caballeros,,33.81595,-116.537525,,,,,,0
+193,193,Indian Cyn at Amado,,33.827535,-116.545476,,,,,,0
+194,194,Indian Cyn at Tamarisk,,33.833819,-116.5455,,,,,,0
+196,196,Indian Cyn at Camino Monte Vista,,33.841478,-116.545464,,,,,,0
+198,198,Monterey at Fred Waring,,33.729285,-116.390963,,,,,,0
+199,199,Racquet Club at Indian Cyn,,33.852231,-116.545972,,,,,,0
+200,200,Palm Cyn at Racquet Club,,33.852562,-116.551788,,,,,,0
+201,201,Palm Cyn at Yorba,,33.856431,-116.555494,,,,,,0
+203,203,Rosa Parks at Granada,,33.863128,-116.551092,,,,,,0
+204,204,Cook at Frank Sinatra,,33.770439,-116.356172,,,,,,0
+205,205,Gerald Ford at Cook,,33.781693,-116.356394,,,,,,0
+206,206,Cook at Berger,,33.775965,-116.355637,,,,,,0
+207,207,Cook at Frank Sinatra,,33.773011,-116.355713,,,,,,0
+208,208,Gerald Ford at Cook,,33.781393,-116.357036,,,,,,0
+209,209,Cook at University Park,,33.776228,-116.356064,,,,,,0
+210,210,Gateway at Palm Cyn,,33.862586,-116.560028,,,,,,0
+211,211,Gateway at Palm Cyn,,33.862446,-116.559586,,,,,,0
+213,213,Palm Cyn at San Marco,,33.855429,-116.554769,,,,,,0
+215,215,Ramon at Sky Blue Water,,33.815795,-116.47047,,,,,,0
+224,224,San Rafael at Caballeros,,33.859436,-116.536384,,,,,,0
+225,225,San Rafael at Caballeros,,33.859611,-116.537297,,,,,,0
+226,226,Indian Cyn at San Rafael,,33.859988,-116.5454,,,,,,0
+227,227,San Rafael at Indian Cyn,,33.859443,-116.545018,,,,,,0
+228,228,Rosa Parks at Granada,,33.863261,-116.551225,,,,,,0
+229,229,Vista Chino at Gene Autry,,33.844779,-116.505219,,,,,,0
+231,231,Monterey at Hovley,,33.752086,-116.391356,,,,,,0
+232,232,Dinah Shore at Bob Hope,,33.80162,-116.404725,,,,,,0
+233,233,Bob Hope at Dinah Shore,,33.801235,-116.406116,,,,,,0
+234,234,E Palm Cyn at Allen,,33.778506,-116.4592,,,,,,0
+238,238,Cathedral Cyn at Officer D Vsqz,,33.782584,-116.466754,,,,,,0
+239,239,Perez at Cathedral Cyn,,33.784611,-116.466094,,,,,,0
+241,241,Monterey at Broadmoor,,33.809398,-116.388315,,,,,,0
+242,242,Monterey at Broadmoor,,33.809347,-116.388067,,,,,,0
+257,257,Ramon at Sky Blue Water,,33.816022,-116.469967,,,,,,0
+273,273,Cook at Sheryl,,33.737675,-116.356503,,,,,,0
+274,274,Date Palm at 30th,,33.829614,-116.458336,,,,,,0
+275,275,Cook at Fred Smith,,33.731525,-116.356467,,,,,,0
+276,276,Date Palm at Ramon,,33.816922,-116.458022,,,,,,0
+277,277,Date Palm at McCallum,,33.823589,-116.457981,,,,,,0
+278,278,30th at Date Palm,,33.830586,-116.458661,,,,,,0
+283,283,Eisenhower at Calle Durango,,33.670898,-116.308151,,,,,,0
+284,284,Eisenhower at Calle Ensenada,,33.667169,-116.308138,,,,,,0
+285,285,Eisenhower at Calle Chihuahua,,33.663109,-116.308151,,,,,,0
+286,286,Eisenhower at Calle Colima,,33.659992,-116.308165,,,,,,0
+287,287,Eisenhower at Calle Chillon,,33.656744,-116.308156,,,,,,0
+290,290,Obregon at Calle Colima,,33.659098,-116.313162,,,,,,0
+294,294,Obregon at Calle Durango,,33.669942,-116.313146,,,,,,0
+298,298,Washington at Calle Tampico,,33.678566,-116.294679,,,,,,0
+303,303,Grapefruit at Ave 49,,33.691958,-116.184663,,,,,,0
+304,304,Harrison at Grapefruit,,33.68789,-116.181811,,,,,,0
+305,305,Harrison at Grapefruit,,33.687979,-116.181555,,,,,,0
+321,321,Monroe at Fred Waring,,33.727799,-116.2339,,,,,,0
+331,331,Monroe at Miles,,33.721578,-116.233919,,,,,,0
+333,333,Hwy 111 at Clinton,,33.708999,-116.240433,,,,,,0
+335,335,Dr Carreon at Santa Rosa Villa,,33.707375,-116.231245,,,,,,0
+336,336,Dr Carreon at Janet,,33.707435,-116.2263,,,,,,0
+348,348,Ave 50 at Fredrick,,33.685355,-116.188761,,,,,,0
+349,349,Ave 50 at Harrison,,33.68537,-116.182885,,,,,,0
+353,353,Shady at Cairo,,33.673109,-116.17314,,,,,,0
+356,356,Harrison at Ave 50,,33.683867,-116.181721,,,,,,0
+364,364,Ave 50 at Frederick,,33.685592,-116.190997,,,,,,0
+368,368,Dr Carreon at Van Buren,,33.707775,-116.200078,,,,,,0
+374,374,Ave 48 at Jackson,,33.7004,-116.217979,,,,,,0
+376,376,Oasis at Ave 48,,33.702115,-116.220781,,,,,,0
+377,377,Dr Carreon at Monroe,,33.70757,-116.23147,,,,,,0
+378,378,Dr Carreon at Monroe,,33.707486,-116.235517,,,,,,0
+379,379,Hwy 111 at Las Palmas,,33.711208,-116.238049,,,,,,0
+381,381,Monroe at Santa Rosa,,33.722673,-116.233667,,,,,,0
+390,390,Miles at Deglet Noor,,33.72105,-116.223006,,,,,,0
+408,408,Date Palm at McCallum,,33.822811,-116.458386,,,,,,0
+409,409,Date Palm at Baristo,,33.818247,-116.458359,,,,,,0
+410,410,Ramon at Rosemary,Ramon & Rosemary - A short walk behind the shelter to SunLine's Admin Bldg to the South - Pass Outlet,33.816228,-116.394306,,,,,,0
+415,415,Ramon at Monterey,,33.816258,-116.3889,,,,,,0
+426,426,Ramon at Thelma,Ramon & Thelma - A short walk across the street to SunLine's Admin Bldg to the South - Pass Outlet,33.816508,-116.394903,,,,,,0
+427,427,Ramon at Shelter,,33.816489,-116.399484,,,,,,0
+429,429,Ramon at Varner,,33.81626,-116.399368,,,,,,0
+430,430,Ramon at Braille Institute,,33.815847,-116.437579,,,,,,0
+432,432,66th at Mecca Family Health Clinic,,33.569248,-116.074221,,,,,,0
+433,433,Home at 66th,,33.569853,-116.06783,,,,,,0
+434,434,66th at Date Palm,,33.569401,-116.074135,,,,,,0
+438,438,Ramon at Sierra Del Sol,,33.816533,-116.388703,,,,,,0
+439,058,Airport at Palm St,,33.642068,-116.143768,,,,,,0
+441,441,Perez at Perez Business Prk,,33.7839,-116.462292,,,,,,0
+442,442,Bob Hope at Ginger Rogers,,33.794782,-116.405813,,,,,,0
+443,443,Bob Hope at Ginger Rogers,,33.793702,-116.406125,,,,,,0
+444,444,Bob Hope at Gerald Ford,,33.786592,-116.406183,,,,,,0
+445,445,Bob Hope at Via Marta,,33.789628,-116.405825,,,,,,0
+446,446,Country Club at John L Sinn,,33.757978,-116.404819,,,,,,0
+450,450,Ramon at Bob Hope,,33.816469,-116.411421,,,,,,0
+451,451,Ave 52 at Cypress,,33.67096,-116.174563,,,,,,0
+453,453,Van Buren at Ave 50,,33.686074,-116.198982,,,,,,0
+481,481,Palm at Paul,,33.883592,-116.501547,,,,,,0
+482,482,Palm at Paul,,33.882572,-116.502164,,,,,,0
+483,483,Palm at Buena Vista,,33.959264,-116.50145,,,,,,0
+488,488,Palm at Palm Mobile Estates,,33.933264,-116.50185,,,,,,0
+489,489,Palm at Dillon,,33.924362,-116.50187,,,,,,0
+490,490,Gene Autry at Vista Chino,,33.845581,-116.505966,,,,,,0
+491,491,Vista Chino at Whitewater Club,,33.845018,-116.511422,,,,,,0
+496,496,Caballeros at Vista Chino,,33.845128,-116.536769,,,,,,0
+501,501,Calhoun at Capricorn,,33.71075,-116.207811,,,,,,0
+503,503,Ave 48 at Chaparrosa,,33.700222,-116.204783,,,,,,0
+504,504,Van Buren at Fiesta,,33.690654,-116.199205,,,,,,0
+505,505,Ave 50 at Van Buren,,33.685334,-116.198604,,,,,,0
+506,506,Tahquitz Cyn at Calle El Segundo,,33.823003,-116.541228,,,,,,0
+507,507,Tahquitz Cyn at Caballeros,,33.823012,-116.537259,,,,,,0
+508,508,Tahquitz Cyn at Hermosa,,33.823008,-116.53294,,,,,,0
+511,511,Ramon at Farrell,,33.815827,-116.517632,,,,,,0
+513,513,Ramon at San Luis Rey,,33.815642,-116.487806,,,,,,0
+515,515,Ave 52 at Harrison,,33.6708,-116.181138,,,,,,0
+517,517,Date Palm at Ramon,,33.81525,-116.458308,,,,,,0
+518,518,Date Palm at Bridge Calvary Chapel,,33.81171,-116.458205,,,,,,0
+522,522,Date Palm at Converse,,33.791308,-116.458311,,,,,,0
+524,524,Palm Cyn at Date Palm,,33.777519,-116.457675,,,,,,0
+530,530,Bob Hope at Columbia,Bob Hope & Columbia - Eisenhower Medical Center,33.763025,-116.408361,,,,,,0
+535,535,Hwy 111 at Magnesia Falls,,33.735415,-116.407948,,,,,,0
+536,536,Hwy 111 at Desert Crossing,Hwy 111 & Desert Crossing - Desert Crossing Shopping Center,33.727436,-116.402364,,,,,,0
+539,539,Hwy 111 at San Pablo,,33.721205,-116.382138,,,,,,0
+540,540,Hwy 111 at Portola,,33.721085,-116.373235,,,,,,0
+542,542,Hwy 111 at Rancho Palmeras,,33.721278,-116.347075,,,,,,0
+543,543,Hwy 111 at El Dorado,,33.721289,-116.338167,,,,,,0
+544,544,Hwy 111 at Indian Wells,,33.72144,-116.329422,,,,,,0
+546,546,Hwy 111 at Manitou,,33.720823,-116.317345,,,,,,0
+547,547,Hwy 111 at Washington,,33.714092,-116.293897,,,,,,0
+548,548,Hwy 111 at Dune Palms,,33.70718,-116.27894,,,,,,0
+549,549,Hwy 111 at Shields,,33.707209,-116.259715,,,,,,0
+550,550,Hwy 111 at Monroe,,33.714511,-116.232869,,,,,,0
+551,551,Hwy 111 at Oasis,,33.714799,-116.220327,,,,,,0
+552,552,Hwy 111 at Depot,,33.707174,-116.272488,,,,,,0
+555,555,Hwy 111 at Smurr,,33.715007,-116.217864,,,,,,0
+556,556,Hwy 111 at King,,33.714939,-116.221778,,,,,,0
+557,557,Hwy 111 at Arabia,,33.714931,-116.225542,,,,,,0
+558,558,Hwy 111 at Monroe,,33.714944,-116.231108,,,,,,0
+560,560,Hwy 111 at Jefferson,,33.707531,-116.269536,,,,,,0
+561,561,Hwy 111 at Adams,,33.708789,-116.286931,,,,,,0
+562,562,Hwy 111 at Miles,,33.721194,-116.318181,,,,,,0
+564,564,Hwy 111 at Indian Wells,,33.721683,-116.330675,,,,,,0
+565,565,Hwy 111 at El Dorado,,33.7216,-116.339389,,,,,,0
+566,566,Hwy 111 at Desert Horizons,,33.721528,-116.348353,,,,,,0
+569,569,Hwy 111 at San Luis Rey,,33.721433,-116.377625,,,,,,0
+571,571,Hwy 111 at Adams,,33.707931,-116.285633,,,,,,0
+572,572,Fred Waring at San Pablo,,33.728889,-116.383178,,,,,,0
+573,573,Fred Waring at Monterey,,33.728854,-116.391826,,,,,,0
+576,576,E Palm Canyon at Sungate,,33.776967,-116.455425,,,,,,0
+582,582,Bob Hope at Hospital,Bob Hope & Hospital - Eisenhower Medical Center,33.763703,-116.407961,,,,,,0
+588,588,Hwy 111 at One Mirage Place,,33.77381,-116.448002,,,,,,0
+591,591,Date Palm at Gerald Ford,,33.787379,-116.45797,,,,,,0
+592,592,Date Palm at Converse,,33.789792,-116.457903,,,,,,0
+593,593,Date Palm at Victoria,,33.798028,-116.457861,,,,,,0
+594,594,Date Palm at Dinah Shore,,33.802042,-116.457769,,,,,,0
+595,595,Date Palm at Dave Kelley,,33.805628,-116.457786,,,,,,0
+596,596,Ramon at Date Palm,,33.816067,-116.4588,,,,,,0
+598,598,Ramon at Crossley,,33.815967,-116.484767,,,,,,0
+599,599,Ramon at Compadre,,33.815983,-116.515342,,,,,,0
+600,600,Farrell at Ramon,,33.816975,-116.517914,,,,,,0
+603,603,Tahquitz Cyn at Hermosa,,33.823247,-116.532878,,,,,,0
+604,604,Tahquitz Cyn at Caballeros,,33.823242,-116.537292,,,,,,0
+605,605,Tahquitz Cyn at Calle El Segundo,,33.823228,-116.541374,,,,,,0
+606,606,Tahquitz Cyn at Calle Encilia,,33.823215,-116.543378,,,,,,0
+609,609,Vista Chino at Caballeros,,33.844711,-116.536103,,,,,,0
+610,610,Vista Chino at Sunrise,,33.844759,-116.530596,,,,,,0
+613,613,Vista Chino at Via Roberto Miguel,,33.844834,-116.510455,,,,,,0
+614,614,Gene Autry at Vista Chino,,33.845614,-116.505575,,,,,,0
+615,615,Palm at Dillon,,33.925608,-116.501578,,,,,,0
+616,616,Palm at Camino Aventura,,33.932628,-116.501542,,,,,,0
+617,617,Palm at Camino Companero,,33.938206,-116.501408,,,,,,0
+618,618,Palm at Park Ln,,33.942872,-116.501261,,,,,,0
+619,619,Palm at Ironwood,,33.950001,-116.501198,,,,,,0
+621,621,Palm at Buena Vista,,33.959253,-116.501183,,,,,,0
+628,628,Palm Cyn at Ramon,,33.815509,-116.5468,,,,,,0
+630,630,Palm Cyn at Sunny Dunes,,33.811769,-116.544778,,,,,,0
+631,631,Palm Cyn at Mesquite,,33.808828,-116.545686,,,,,,0
+632,632,E Palm Cyn at Arquilla,,33.801253,-116.534353,,,,,,0
+633,633,E Palm Cyn at Calle Rolph,,33.801268,-116.529852,,,,,,0
+634,634,E Palm Cyn at Barona,,33.801226,-116.518856,,,,,,0
+635,635,E Palm Cyn at Araby,,33.800672,-116.514523,,,,,,0
+636,636,Palm Cyn at Horizon Mobile Prk,,33.796336,-116.507433,,,,,,0
+637,637,E Palm Cyn at Cherokee,,33.794669,-116.501003,,,,,,0
+639,639,E Palm Cyn at Perez,,33.783992,-116.475067,,,,,,0
+642,642,Hwy 111 at Frank Sinatra,,33.771775,-116.447303,,,,,,0
+643,643,Hwy 111 at Mirage Cove,,33.763597,-116.443136,,,,,,0
+644,644,Hwy 111 at Peterson,,33.758994,-116.438022,,,,,,0
+646,646,Hwy 111 at Thunderbird,,33.753719,-116.430974,,,,,,0
+647,647,Hwy 111 at Indian Trail,,33.745582,-116.417082,,,,,,0
+650,650,Hwy 111 at Rancho Las Palmas,,33.742063,-116.413203,,,,,,0
+659,659,Hwy 111 at Rancho Las Palmas,Hwy 111 & Rancho Las Palmas - The River with restaurants bars shopping & hotels within walking distance East,33.741053,-116.411897,,,,,,0
+660,660,Hwy 111 at Indian Trail,,33.745258,-116.415922,,,,,,0
+662,662,Hwy 111 at Peterson,,33.759582,-116.438089,,,,,,0
+663,663,Hwy 111 at Mirage Cove,,33.765088,-116.443604,,,,,,0
+665,665,Palm Cyn at Auto Park,,33.783833,-116.474106,,,,,,0
+667,667,Palm Cyn at Gene Autry,,33.793878,-116.49675,,,,,,0
+668,668,Palm Cyn at Cherokee,,33.795253,-116.502231,,,,,,0
+669,669,Palm Cyn at Cerritos,,33.801508,-116.524097,,,,,,0
+670,670,Palm Cyn at Sagebrush,,33.801478,-116.531147,,,,,,0
+671,671,Palm Cyn at Deepwell,,33.801476,-116.5362,,,,,,0
+673,673,Palm Cyn at Camino Real,,33.801486,-116.539842,,,,,,0
+674,674,Palm Cyn at Sonora,,33.804539,-116.545529,,,,,,0
+675,675,Palm Cyn at Mesquite,,33.808239,-116.545507,,,,,,0
+677,677,Palm Cyn at Camino Parocela,,33.814478,-116.545453,,,,,,0
+683,683,Gene Autry at Vista Chino,,33.844505,-116.505918,,,,,,0
+685,685,Palm Cyn at Sungate,,33.776752,-116.455562,,,,,,0
+688,688,Hwy 111 at Magnesia Falls,,33.736427,-116.408294,,,,,,0
+689,689,Hwy 111 at Madison,,33.70745,-116.251814,,,,,,0
+691,691,Hwy 111 at Mountain Cove,,33.716989,-116.304258,,,,,,0
+692,692,Hwy 111 at Paxton Gate,Hwy 111 & Paxton - Rancho Mirage Public Library,33.74994,-116.424657,,,,,,0
+693,693,Hwy 111 at Mountain Cove,,33.716531,-116.303408,,,,,,0
+702,702,Hwy 111 at Library,Hwy 111 & Library - Rancho Mirage Public Library,33.748723,-116.423232,,,,,,0
+704,704,Hwy 111 at La Quinta Ctr,,33.71095,-116.289961,,,,,,0
+705,705,Calle Sinaloa at Mendoza,,33.672444,-116.305868,,,,,,0
+706,706,Calle Sinaloa at Herrera,,33.67248,-116.310214,,,,,,0
+707,707,Calle Sinaloa at Villa,,33.672675,-116.304867,,,,,,0
+715,715,Washington at Hovley,,33.742547,-116.304032,,,,,,0
+721,721,Racquet Club at Sunrise,,33.852069,-116.528773,,,,,,0
+722,722,Racquet Club at Sunrise,,33.852248,-116.528546,,,,,,0
+724,724,Sunrise at San Rafael,,33.859046,-116.528201,,,,,,0
+725,725,San Rafael at Sunrise,,33.85962,-116.528564,,,,,,0
+726,726,Sunrise at Tachevah,,33.837108,-116.528084,,,,,,0
+727,727,Sunrise at Tachevah,,33.837114,-116.528342,,,,,,0
+731,731,Sunrise at Alejo,,33.829964,-116.528341,,,,,,0
+732,732,Sunrise at Alejo,,33.829896,-116.528106,,,,,,0
+733,733,Sunrise at Tahquitz Cyn,,33.823883,-116.528067,,,,,,0
+734,734,Sunrise at Tahquitz Cyn,,33.822589,-116.528396,,,,,,0
+735,735,Farrell at Tamarisk,,33.835851,-116.51934,,,,,,0
+736,736,Farrell at Research,,33.836578,-116.519411,,,,,,0
+737,737,E Palm Cyn at Smoke Tree,,33.801275,-116.523601,,,,,,0
+738,738,Sunrise at Vista Chino,,33.843444,-116.527961,,,,,,0
+739,739,Oasis at Don F Kenny,,33.704495,-116.220777,,,,,,0
+762,762,West at 4th,,33.965331,-116.510217,,,,,,0
+763,763,West at Pierson,,33.962494,-116.510212,,,,,,0
+764,764,Pierson at Cactus,,33.961357,-116.504928,,,,,,0
+765,765,Palm at Two Brunch Palm,,33.945847,-116.5015,,,,,,0
+772,772,Farrell at Tahquitz Canyon,,33.822847,-116.517897,,,,,,0
+773,773,Farrell at Tahquitz Canyon,,33.82215,-116.51816,,,,,,0
+775,775,Calle Tampico at L.Q. Library,,33.67805,-116.29825,,,,,,0
+778,778,Monterey at San Gorgonio,,33.722857,-116.391173,,,,,,0
+780,780,Baristo at Farrell,,33.819653,-116.519961,,,,,,0
+781,781,Sunrise at Baristo,,33.819111,-116.528356,,,,,,0
+785,785,Washington at Rancho L.Q.,,33.695902,-116.294677,,,,,,0
+786,786,Calle Madrid at Vallejo,,33.654418,-116.310238,,,,,,0
+787,787,Obregon at Calle Madrid,,33.655035,-116.31317,,,,,,0
+789,789,West at Mission Lakes,,33.975664,-116.510281,,,,,,0
+790,790,Ave 44 at Jackson,,33.72954,-116.21728,,,,,,0
+792,792,Ave 44 at Sola,,33.729532,-116.225977,,,,,,0
+799,799,Ave 44 at Adobe,,33.732441,-116.232625,,,,,,0
+809,809,Miles at Washington,,33.721869,-116.296963,,,,,,0
+810,810,Miles at Adams,,33.72195,-116.286828,,,,,,0
+812,821,Hacienda at Foxdale,,33.954228,-116.489564,,,,,,0
+813,822,Palm at 1st,,33.962908,-116.501203,,,,,,0
+815,815,Harrison at 1st,,33.682401,-116.181435,,,,,,0
+816,816,Van Buren at Fiesta,,33.691414,-116.19888,,,,,,0
+817,817,Miles at Washington,,33.721655,-116.295713,,,,,,0
+818,818,Adams at Miles,,33.721336,-116.286337,,,,,,0
+820,820,Hacienda at Miracle Hill,,33.954203,-116.484203,,,,,,0
+823,823,Palm at 4th,,33.965413,-116.501239,,,,,,0
+824,824,Palm at 8th,,33.969078,-116.501225,,,,,,0
+825,825,Palm at 12th,,33.972064,-116.501236,,,,,,0
+826,826,Mission Lakes at El Mirador,,33.976122,-116.502703,,,,,,0
+827,827,West at 8th,,33.968233,-116.510239,,,,,,0
+829,829,Hacienda at Mesquite,,33.95407,-116.496484,,,,,,0
+830,830,Hacienda at Tamar,,33.954043,-116.487765,,,,,,0
+831,831,Hacienda at Miracle Hill,,33.95405,-116.484253,,,,,,0
+832,832,Hacienda at Hidalgo,,33.954094,-116.478425,,,,,,0
+833,833,Requa at Grace,,33.717553,-116.214036,,,,,,0
+834,834,Jackson at Wilson,,33.716656,-116.216331,,,,,,0
+835,835,Hwy 111 at Flower,Hwy 111 & Flower - SunLine's Indio Transit Hub with CNG pumps available,33.714819,-116.211433,,http://www.sunline.org/stop835,,,,0
+836,836,Washington at Ave 41,,33.75032,-116.303664,,,,,,0
+837,837,Ave 47 at Washington,,33.707643,-116.293705,,,,,,0
+838,838,Ave 47 at Washington,,33.707515,-116.29371,,,,,,0
+839,839,Harris at Washington,,33.756284,-116.303745,,,,,,0
+840,840,Washington at Ave 41,,33.750045,-116.303949,,,,,,0
+847,847,Hwy 111 at Dune Palms,,33.707561,-116.279247,,,,,,0
+849,849,Washington at Hidden River,,33.73845,-116.303692,,,,,,0
+852,852,Ave 52 at Genoa,,33.671037,-116.169549,,,,,,0
+853,853,Tyler at Ave 53,,33.666109,-116.164298,,,,,,0
+854,854,Ave 48 at Van Buren,,33.700475,-116.199719,,,,,,0
+855,855,Jackson at Dr Carreon,,33.70726,-116.21654,,,,,,0
+856,856,Dr Carreon at Bristol,,33.707815,-116.214631,,,,,,0
+859,859,Hacienda at Don English,,33.950303,-116.461875,,,,,,0
+862,862,Farrell at Vista Chino,,33.844144,-116.519543,,,,,,0
+864,864,30th at Ximino,,33.83039,-116.465548,,,,,,0
+867,867,Lincoln at Gardenia Court,,33.580647,-116.078794,,,,,,0
+869,869,Calle Tampico at Washington,,33.678258,-116.295836,,,,,,0
+870,870,Ramon at Maravilla,,33.816061,-116.466686,,,,,,0
+871,871,Washington at Ave 50,,33.68591,-116.29465,,,,,,0
+872,872,Washington at Fred Waring,,33.729572,-116.303673,,,,,,0
+873,873,Hwy 111 at Monterey,,33.721231,-116.389892,,,,,,0
+874,874,30th at Maravilla,,33.830564,-116.466442,,,,,,0
+875,875,Maravilla at Tachevah,,33.837453,-116.466825,,,,,,0
+877,877,Adams at Blackhawk,,33.715074,-116.286116,,,,,,0
+878,878,Adams at Blackhawk,,33.715128,-116.286315,,,,,,0
+884,884,Indian Cyn at Via Escuela,,33.848275,-116.545444,,,,,,0
+889,889,Baristo at Farrell,,33.819446,-116.520018,,,,,,0
+890,890,Hwy 111 at Simon,,33.713092,-116.29215,,,,,,0
+891,891,Adams at Hwy 111,,33.70759,-116.286034,,,,,,0
+892,892,66th at Fillmore,,33.5693,-116.122183,,,,,,0
+893,893,66th at Harrison,,33.569004,-116.179933,,,,,,0
+897,897,66th at Middleton,,33.5691,-116.163912,,,,,,0
+898,898,Martinez at Torres Martinez H C,,33.562757,-116.153391,,,,,,0
+900,900,Shady at Garcia Ranch,,33.652222,-116.172515,,,,,,0
+904,904,Hacienda at Mountain View,,33.954206,-116.475558,,,,,,0
+935,935,Vista Chino at Maravilla,,33.845128,-116.467536,,,,,,0
+938,938,Dinah Shore at Shoppers Ln,,33.802019,-116.391206,,,,,,0
+939,939,Dinah Shore at Shoppers Ln,,33.801653,-116.391871,,,,,,0
+942,942,Ave 54 at Shady,,33.656744,-116.175199,,,,,,0
+943,943,Sunrise at Baristo,,33.820606,-116.528042,,,,,,0
+944,944,Washington at Ave of the States,,33.742003,-116.303642,,,,,,0
+945,945,Ramon at Bob Hope,Ramon & Bob Hope - Agua Caliente Casino Resort & Spa,33.8162,-116.409694,,http://www.sunline.org/stop945,,,,0
+946,946,Fred Waring at San Anselmo,,33.72861,-116.38585,,,,,,0
+948,948,Cook at Santa Fe,,33.731169,-116.356174,,,,,,0
+949,949,Cook at Merle,,33.740146,-116.356149,,,,,,0
+956,956,Country Club at Vista Dunes,,33.757997,-116.394717,,,,,,0
+959,959,Indio Blvd  at Tamarisk,,33.710403,-116.200796,,,,,,0
+960,960,Ave 53 at Shady,,33.663949,-116.173956,,,,,,0
+961,961,Harrison at Ave 53,,33.663929,-116.181589,,,,,,0
+962,962,Cook at County Club,,33.758656,-116.356099,,,,,,0
+966,966,Country Club at John L Sinn,,33.757681,-116.405111,,,,,,0
+971,971,Lincoln at 63rd,,33.591636,-116.078472,,,,,,0
+972,972,Lincoln at Gardenia Court,,33.580632,-116.079012,,,,,,0
+975,975,Home at 2nd,,33.569879,-116.067998,,,,,,0
+978,978,Polk at Oasis Gardens,,33.549279,-116.147646,,,,,,0
+979,979,Lincoln at 63rd,,33.591719,-116.078255,,,,,,0
+980,980,Hwy 111 at La Quinta Center,,33.70989,-116.289513,,,,,,0
+981,981,Harrison at Ave 53,,33.66133,-116.181843,,,,,,0
+982,982,Country Club at Vista Dunes,,33.75774,-116.39272,,,,,,0
+985,985,62nd at Buchanan,,33.598534,-116.09468,,,,,,0
+986,986,62nd at Buchanan,,33.598631,-116.094706,,,,,,0
+987,987,Shady at Garcia Ranch,,33.652152,-116.17261,,,,,,0
+988,988,COD Mecca at Buchanan,,33.60479,-116.093765,,,,,,0
+991,991,Ramon at Calle Encilla,,33.815927,-116.544042,,,,,,0
+998,998,Washington at Ave 48,,33.700374,-116.29506,,,,,,0
+20036,425,Ramon at Da Val,,33.816106,-116.441877,,,,,,0
+20037,117,Jackson at Ave 42,,33.743431,-116.216889,,,,,,0
+20038,295,Obregon at Calle Ensenada,,33.667158,-116.313147,,,,,,0
+20040,272,Fred Waring at Town Center,,33.728449,-116.397711,,,,,,0
+20041,220,66th at Tyler,,33.569242,-116.162998,,,,,,0
+20042,222,70th at Lopez,,33.539886,-116.12026,,,,,,0
+20043,492,S Palm Cyn at Sunny Dunes,,33.812798,-116.5447,,,,,,0
+20044,217,Grapefruit at Ave 48,,33.7,-116.191627,,,,,,0
+20045,219,Harrison at 6th,,33.675153,-116.181723,,,,,,0
+20046,363,5th at Date Palm,,33.572946,-116.074901,,,,,,0
+20047,365,5th at Date Palm,,33.57283,-116.07409,,,,,,0
+20052,337,Dr Carreon at Oasis,,33.707447,-116.221269,,,,,,0
+20053,338,Jackson at Dr Carreon,,33.708611,-116.216303,,,,,,0
+20055,99,Indio Bvld at Indio Trans Cntr,,33.718919,-116.213817,,,,,,0
+20057,119,Aladdin at Shadow Palm,,33.717482,-116.238164,,,,,,0
+20058,371,Clinton at Hwy 111,,33.70852,-116.24252,,,,,,0
+20059,372,Monroe at Requa,,33.718141,-116.233677,,,,,,0
+20060,279,Washington at Eisenhower,,33.696478,-116.295052,,,,,,0
+20066,965,Fir at Stonebridge Town Ctr,,33.935356,-117.189164,,,,,,0
+20067,969,Moreno Valley Mall at Home Town Buf,,33.938938,-117.268273,,,,,,0
+20068,976,UCR Lot 30 at Canyon Crest,,33.969962,-117.33186,,,,,,0
+20069,989,RTA Metrolink Station at Vine,,33.976038,-117.369793,,,,,,0
+20075,174,Mission at San Joaquin,,33.820094,-116.492659,,,,,,0
+20076,612,Palm at 20th,,33.909519,-116.501499,,,,,,0
+20077,905,Hacienda at Acacia,,33.953258,-116.467974,,,,,,0
+20079,382,66th at Filmore,,33.569279,-116.129395,,,,,,0
+20080,366,5th at Dale Kiler,,33.572949,-116.070706,,,,,,0
+20081,367,5th at Dale Kiler,,33.572838,-116.070847,,,,,,0
+20082,373,Lincoln at 7th,,33.575548,-116.07885,,,,,,0
+20083,375,Lincoln at 7th,,33.575537,-116.07907,,,,,,0
+20084,640,E Palm Cyn at Canyon Plz,,33.787841,-116.481697,,,,,,0
+20085,906,Hacienda at La Vista,,33.952955,-116.467765,,,,,,0
+20087,147,B St at Buddy Rogers,B Street & Buddy Rogers - Movie theatres restaurants churches and government offices all within sight and walking distance,33.778263,-116.464149,,http://www.sunline.org/stop147,,,,0
+20088,148,Ramon at Rattler,Ramon & Rattler (Westbound) - A short walk North for students of Rancho Mirage High School - Home of the Rattlers,33.8163,-116.432987,,http://www.sunline.org/stop148,,,,0
+20089,149,Monterey at Park View,,33.732066,-116.391321,,,,,,0
+20091,151,Rosa Parks at Eastgate,,33.863316,-116.555007,,,,,,0
+20092,152,Rosa Parks at Eastgate,,33.863217,-116.554923,,,,,,0
+20093,153,66th at SR86,,33.56948,-116.091033,,,,,,0
+20095,300,Towne at Civic Center,,33.718319,-116.219541,,,,,,0
+20096,970,Casino Morongo at Tumbleweed,,33.921146,-116.799761,,,,,,0
+20097,418,Harrison at Ave 52,,33.670383,-116.181753,,,,,,0
+20098,411,Rosa Parks at Frontage,,33.863251,-116.546347,,,,,,0
+20099,412,Rosa Parks at Frontage,,33.863114,-116.546283,,,,,,0
+20100,391,Ave 46 at Clinton,,33.714618,-116.242068,,,,,,0
+20101,413,Hwy 111 at Fairway,,33.754484,-116.431319,,,,,,0
+20102,414,Park at Requa,,33.717852,-116.224438,,,,,,0
+20103,392,Harrison at Middleton,,33.562489,-116.173098,,,,,,0
+20104,393,Mountain View at Harrison,,33.547308,-116.15606,,,,,,0
+20105,394,Hammond at Thobe,,33.545285,-116.039751,,,,,,0
+20106,395,Hammond at Thobe,,33.545059,-116.039609,,,,,,0
+20107,396,70th at Windward,,33.539956,-115.948436,,,,,,0
+20108,397,70th at Windward,,33.540064,-115.948438,,,,,,0
+20109,398,70th at Vander Veer,,33.539899,-115.939475,,,,,,0
+20110,399,70th at Vander Veer,,33.540022,-115.93961,,,,,,0
+20111,400,Miramar at Lookout,,33.539351,-115.934814,,,,,,0
+20112,401,Miramar at Lookout,,33.538752,-115.934948,,,,,,0
+20113,402,Costa Brava at Salton View,,33.530678,-115.93454,,,,,,0
+20114,403,Costa Brava at Salton View,,33.530781,-115.934508,,,,,,0
+20115,404,Club View at Windlass,,33.522632,-115.921462,,,,,,0
+20116,419,2nd at Commerce,,33.923196,-116.951924,,,,,,0
+20132,191,Fred Waring at Portola,,33.729086,-116.374603,,,,,,0
+20133,192,Fred Waring at Portola,,33.728744,-116.373123,,,,,,0
+20134,202,Fred Waring at Cook,,33.728999,-116.356895,,,,,,0
+20135,218,Fred Waring at Cook,,33.728738,-116.355515,,,,,,0
+20136,223,Fred Waring at Washington,,33.729125,-116.305311,,,,,,0
+20137,243,Fred Waring at Washington,,33.728887,-116.302479,,,,,,0
+20138,244,Fred Waring at Adams,,33.72923,-116.286985,,,,,,0
+20139,246,Fred Waring at Adams,,33.72895,-116.284969,,,,,,0
+20140,247,Fred Waring at Jefferson,,33.72933,-116.27088,,,,,,0
+20141,248,Fred Waring at Jefferson,,33.72907,-116.26672,,,,,,0
+20142,249,Fred Waring at Clinton,,33.72947,-116.243846,,,,,,0
+20143,250,Fred Waring at Clinton,,33.729231,-116.242089,,,,,,0
+20144,251,Requa at Towne,,33.717409,-116.219726,,,,,,0
+20145,252,Requa at Towne,,33.717539,-116.219973,,,,,,0
+20146,253,Hwy 111 at Village Center,,33.721232,-116.358296,,,,,,0
+20147,254,Hwy 111 at Village Center,,33.721569,-116.358325,,,,,,0
+20150,258,Gene Autry at Tamarisk,,33.833987,-116.504427,,,,,,0
+20151,259,66th at Martinez,,33.56925,-116.154083,,,,,,0
+20152,64,Harrison at 66th,,33.568425,-116.180512,,,,,,0
+20153,68,Harrison at Middleton,,33.561844,-116.172556,,,,,,0
+20154,61,Ramon at Rattler,,33.81596,-116.43124,,,,,,0
+20157,262,Fred Waring at Palm Royal,,33.728907,-116.297786,,,,,,0
+20159,269,Fred Waring at Warner,,33.728846,-116.311898,,,,,,0
+20160,282,Fred Waring at Warner,,33.729105,-116.313378,,,,,,0
+20161,291,Fred Waring at Deep Cyn,,33.72871,-116.364408,,,,,,0
+20162,296,Fred Waring at Deep Canyon,,33.729019,-116.365702,,,,,,0
+20163,297,Fred Waring at Madison,,33.729174,-116.251525,,,,,,0
+20164,299,Fred Waring at Madison,,33.729436,-116.252635,,,,,,0
+20165,325,Two Bunch Palms at Cactus,,33.946888,-116.506115,,,,,,0
+20166,326,Vista Chino at Val Yermo,,33.844832,-116.469756,,,,,,0
+20167,327,Maravilla at Tachevah,,33.837408,-116.466967,,,,,,0
+20168,328,Maravilla at Risueno,,33.834538,-116.46682,,,,,,0
+20169,329,Ramon at Companile,,33.816114,-116.448752,,,,,,0
+20170,340,Monterey at Hovley,,33.751751,-116.391023,,,,,,0
+20171,341,Fred Waring at Hwy 111,,33.728495,-116.401113,,,,,,0
+20172,352,Shady at Orchard,,33.675412,-116.173178,,,,,,0
+20179,354,Shady at Bagdad,,33.675166,-116.172941,,,,,,0
+20181,454,Hacienda at Peak,,33.949575,-116.460874,,,,,,0
+20182,455,Dillon at Dillon Estates,,33.925155,-116.448818,,,,,,0
+20183,456,Dillon at Corkill,,33.925111,-116.440081,,,,,,0
+20184,457,Dillon at Langlois,,33.924999,-116.432559,,,,,,0
+20186,458,Aurora at Langlois,,33.921484,-116.43222,,,,,,0
+20187,459,Corkill at Aurora,,33.921852,-116.440476,,,,,,0
+20188,460,Dillon at Johnson,,33.925326,-116.443006,,,,,,0
+20189,461,Dillon at Desert Crest,,33.925395,-116.452148,,,,,,0
+20190,462,Ave 48 at Calhoun,,33.700462,-116.208197,,,,,,0
+20192,464,Ave 48 at Jackson,,33.700159,-116.213237,,,,,,0
+20199,472,Lincoln at 64th,,33.584298,-116.0788,,,,,,0
+20200,473,Lincoln at 64th,,33.584154,-116.078946,,,,,,0
+20201,474,66th at Polk,,33.569334,-116.14807,,,,,,0
+20202,475,70th at Pierce,,33.539932,-116.113432,,,,,,0
+20203,476,70th at Cleveland,,33.540087,-115.974529,,,,,,0
+20204,477,70th at Cleveland,,33.539969,-115.974534,,,,,,0
+20207,480,Tyler at Bouganvilia,,33.677758,-116.164005,,,,,,0
+20208,484,Tyler at Cardinal,,33.674253,-116.164112,,,,,,0
+20209,486,Tyler at Ave 52,,33.672561,-116.162879,,,,,,0
+20210,487,Ave 52 at Tyler,,33.671195,-116.161883,,,,,,0
+20212,494,Ave 52 at La Ponderosa,,33.671419,-116.153983,,,,,,0
+20213,495,Fred Waring at Palm Royal,,33.729182,-116.297904,,,,,,0
+20220,526,Monroe at Oleander,,33.734693,-116.233621,,,,,,0
+20221,527,Ave 42 at Monroe,,33.743849,-116.22859,,,,,,0
+20223,531,Jackson at Ave 44,,33.729049,-116.216421,,,,,,0
+20226,245,Indian Canyon at Baristo,,33.820016,-116.545454,,,,,,0
+20227,260,Tahquitz Canyon at Calle Encila,,33.822989,-116.54398,,,,,,0
+20230,264,Ramon at Desert Shadows,,33.815823,-116.44415,,,,,,0
+20231,1010,Varner at Harry Oliver,,33.812526,-116.397029,,,,,,0
+20233,601,Ave 39 at Jefferson,,33.765608,-116.268526,,,,,,0
+20234,498,Ave 42 at Jackson,,33.743883,-116.215742,,,,,,0
+20235,499,Jackson at Ave 42,,33.744983,-116.216561,,,,,,0
+20236,420,Golf Center at Ave 43,,33.736418,-116.199304,,,,,,0
+20237,421,Golf Center at Ave 43,,33.7364,-116.199549,,,,,,0
+20238,447,Golf Center at Ave 44,,33.72993,-116.199279,,,,,,0
+20239,448,Golf Center at Ave 44,,33.729762,-116.199576,,,,,,0
+20240,478,Ave 44 at Jackson,,33.729356,-116.215593,,,,,,0
+20241,479,Ave 42 at Durham,,33.744093,-116.206861,,,,,,0
+20242,497,Ave 42 at Calhoun,,33.743851,-116.20824,,,,,,0
+20245,500,Ave 41 at Jackson,,33.751391,-116.217789,,,,,,0
+20246,574,Ave 41 at Jackson,,33.751206,-116.217168,,,,,,0
+20247,575,Ave 41 at Gore,,33.751331,-116.226077,,,,,,0
+20248,581,Ave 41 at Gore,,33.751155,-116.225839,,,,,,0
+20249,583,Monroe at Ave 41,,33.751506,-116.233967,,,,,,0
+20250,584,Ave 41 at Monroe,,33.751117,-116.233753,,,,,,0
+20251,585,Ave 40 at Sun City Blvd,,33.758262,-116.242227,,,,,,0
+20252,586,Madison at Ave 40,,33.758934,-116.251371,,,,,,0
+20253,587,Ave 40 at Madison,,33.758235,-116.250453,,,,,,0
+20254,589,Ave 38 at Talavera,,33.773114,-116.260896,,,,,,0
+20255,590,Ave 38 at Talavera,,33.77292,-116.259828,,,,,,0
+20256,602,Cholla at 4th,,33.963735,-116.514391,,,,,,0
+20257,678,5th at Vine,5th & Vine - Across from the Vietnam Veterans Memorial Park in Coachella,33.680174,-116.176011,,http://www.sunline.org/stop678,,,,0
+20258,841,4th at Harrison,,33.678137,-116.181103,,,,,,0
+20259,842,Harrison at 4th,,33.679064,-116.181459,,,,,,0
+20260,622,VISTA CHINO AT FARRELL,,33.844763,-116.518242,,,,,,0
+20261,57,Indian Canyon @ Ramon,,33.816584,-116.545427,,,,,,0
+20264,60,Airport (N) at Desert Cactus,,33.642158,-116.135998,,,,,,0
+20265,139,Airport (S) at Desert Cactus,,33.642025,-116.135767,,,,,,0
+20266,140,Airport at Fillmore,,33.642151,-116.129833,,,,,,0
+20267,141,Airport at Fillmore,,33.642019,-116.13059,,,,,,0
+20268,230,Ave 52 at Enteprise,,33.671137,-116.152721,,,,,,0
+20269,059,Airport @ Palm,,33.642327,-116.143988,,,,,,0
+20271,214,Sunrise @ Vista Chino,,33.84564,-116.528326,,,,,,0
+20273,843,Hwy 111 at Indio Center,,33.714982,-116.210477,,,,,,0
+20277,281,Vine at 7th,,33.678818,-116.174954,,,,,,0
+20278,288,Van Buren at Rancho Las Flores,,33.696881,-116.198858,,,,,,0
+20279,301,Pierson @ West,,33.961553,-116.511235,,,,,,0
+20280,195,Monroe at Ave 42,,33.742725,-116.233859,,,,,,0
+20281,197,Hwy 111 at Jackson,,33.714815,-116.214928,,,,,,0
+20282,289,Hwy 111 at Plaza,Hwy 111 & Plaza - Westfield Mall Palm Desert,33.721994,-116.395966,,,,,,0
+20283,345,El Cielo at Baristo,,33.818982,-116.510792,,,,,,0
+20284,346,El Cielo at Ramon,,33.816571,-116.51052,,,,,,0
+20285,436,Tahquitz Canyon at Civic,,33.823044,-116.511958,,,,,,0
+20287,627,Sunrise (SE) at Racquet Club,,33.852055,-116.528017,,,,,,0
+20288,629,Sunrise (NW) at Racquet Club,,33.85243,-116.528283,,,,,,0
+20289,146,Ave 57 at Filmore,,33.634859,-116.123243,,,,,,0
+20290,157,Ave 57 at Filmore,,33.634957,-116.123671,,,,,,0
+20293,449,Hacienda at Mountian View,,33.954083,-116.474634,,,,,,0
+20557,369,Van Buren @ Dr Carreon,,33.707309,-116.199143,,,,,,0
+20559,370,Van Buren @ Ave 48,,33.700731,-116.198918,,,,,,0
+20573,383,Van Buren @ Manilla,,33.704381,-116.198912,,,,,,0
+21039,672,Indio Blvd @ Temple,,33.705538,-116.196476,,,,,,0

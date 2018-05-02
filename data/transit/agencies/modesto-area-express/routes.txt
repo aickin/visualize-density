@@ -1,0 +1,24 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+95,383,21,,,3,http://www.modestoareaexpress.com/routes/route_21.aspx,0099ff,ffffff,0,15
+95,386,22,,,3,http://www.modestoareaexpress.com/routes/route_22.aspx,cc6633,000000,1,30
+95,393,31,,,3,http://www.modestoareaexpress.com/routes/route_31.aspx,669900,000000,10,30
+95,394,32,,,3,http://www.modestoareaexpress.com/routes/route_32.aspx,669900,000000,11,60
+95,395,33,,,3,http://www.modestoareaexpress.com/routes/route_33.aspx,ff0000,ffffff,12,30
+95,396,34,,,3,http://www.modestoareaexpress.com/routes/route_34.aspx,ff9999,000000,13,60
+95,397,36,,,3,http://www.modestoareaexpress.com/routes/route_36.aspx,999999,000000,14,60
+95,398,37,,,3,http://www.modestoareaexpress.com/routes/route_37.aspx,999999,000000,15,60
+95,399,38,,,3,http://www.modestoareaexpress.com/routes/route_38.aspx,cc99ff,000000,16,60
+95,400,39,,,3,http://www.modestoareaexpress.com/routes/route_39.aspx,ffcc33,000000,17,
+95,401,41,,,3,http://www.modestoareaexpress.com/routes/route_41.aspx,669900,000000,18,30
+95,402,42,,,3,http://www.modestoareaexpress.com/routes/route_42.aspx,0099ff,000000,19,30
+95,4518,23,,,3,http://www.modestoareaexpress.com/routes/route_23.aspx,ff0000,ffffff,2,60
+95,403,43,,,3,http://www.modestoareaexpress.com/routes/route_43.aspx,ffcc33,000000,20,30
+95,405,,MAX / ACE,,3,http://www.modestoareaexpress.com/routes/ace.aspx,ffffff,000000,21,
+95,404,,MAX / BART,,3,http://www.modestoareaexpress.com/routes/bart.aspx,ffffff,000000,22,
+95,387,24,,,3,http://www.modestoareaexpress.com/routes/route_24.aspx,ff9999,000000,3,60
+95,388,25,,,3,http://www.modestoareaexpress.com/routes/route_25.aspx,660066,ffffff,4,60
+95,384,26,,,3,http://www.modestoareaexpress.com/routes/route_26.aspx,000066,ffffff,5,30
+95,389,27,,,3,http://www.modestoareaexpress.com/routes/route_27.aspx,000066,ffffff,6,60
+95,390,28,,,3,http://www.modestoareaexpress.com/routes/route_28.aspx,cc3300,ffffff,7,60
+95,391,29,,,3,http://www.modestoareaexpress.com/routes/route_29.aspx,ff0000,ffffff,8,30
+95,392,30,,,3,http://www.modestoareaexpress.com/routes/route_30.aspx,cc99ff,000000,9,30

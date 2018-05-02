@@ -1,0 +1,17 @@
+service_id,service_description
+c_4823_b_5127_d_127,Blue/Yellow/Green (All days of week)
+c_3092_b_2645_d_31,395 Routes (Monday-Friday)
+c_3092_b_2645_d_21,395 Routes
+c_2903_b_2397_d_127,Purple Line (All days of week)
+c_237_b_78_d_4,Year Round  Service (Wednesday only)
+c_237_b_78_d_18,Year Round  Service
+c_2006_b_5059_d_127,June Mountain Schedule (All days of week)
+c_2004_b_5060_d_127,Pink Line Schedule (All days of week)
+c_2002_b_5128_d_127,Orange Line Schedule (All days of week)
+c_1998_b_4988_d_127,Yellow Line Schedule (All days of week)
+c_1996_b_4990_d_127,Green Line Schedule (All days of week)
+c_1994_b_4989_d_127,Blue Line Schedule (All days of week)
+c_1992_b_5057_d_127,Red Line Schedule (All days of week)
+c_1836_b_5058_d_79,Winter Night Trolley
+c_1836_b_5058_d_48,Winter Night Trolley
+c_1836_b_5058_d_127,Winter Night Trolley (All days of week)

@@ -1,0 +1,504 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+768521,5482,,O St @ 15th (southbound),,37.30101138,-120.4891795,561,,0,,America/Los_Angeles,,,0
+768388,4281,,Winton @ Juniper/St. Anthony's (northbound),,37.35623312,-120.6137064,560,,0,,America/Los_Angeles,,,0
+768385,4265,,Atwater @ Sierra Vista (westbound),,37.34752559,-120.6139034,560,,0,,America/Los_Angeles,,,0
+781955,299,,Felix Torres Housing,,37.30166639,-120.3255701,567,,0,,America/Los_Angeles,,,0
+768313,194,,Yosemite Pkwy @ Carol (to Transpo),,37.29512882,-120.4549062,561,,0,,America/Los_Angeles,,,0
+768643,8195,,Planada/Golden Valley Clinic (to Le Grand),,37.2908,-120.321,567,,0,,America/Los_Angeles,,,0
+768514,5455,,Mansionette @ Redwing/St Patricks Temporary stop,,37.3344822,-120.4643154,561,,0,,America/Los_Angeles,,,0
+768166,28,,Buhach Rd @ Avenue One (southbound),,37.34244935,-120.5770326,560,,0,,America/Los_Angeles,,,0
+768296,170,,R St @ 4th St (southbound),,37.29161229,-120.5000639,561,,0,,America/Los_Angeles,,,0
+768282,156,,Stephens St @ Locust St (southbound),,37.43083304,-120.7772005,563,,0,,America/Los_Angeles,,,0
+782486,,,Golden Gate Ave & Valeria St Stop,,36.9817464328225,-120.627963125795,566,,0,,America/Los_Angeles,,,0
+768185,48,,Buhach Rd @ Juniper Ave/ Buhach High (northbound),,37.35056064,-120.5766463,560,,0,,America/Los_Angeles,,,0
+768614,6437,,Parkwood @ Ranchwood,,37.07979144,-120.8399464,565,,0,,America/Los_Angeles,,,0
+781930,279,,W 15th St @ P St,,37.30134967,-120.4909551,561,,0,,America/Los_Angeles,,,0
+768361,270,,Newcastle @ Main (westbound),,37.37148305,-120.7236958,562,,0,,America/Los_Angeles,,,0
+781934,5562,,3rd  @ T St,,37.29162929,-120.5038069,561,,0,,America/Los_Angeles,,,0
+768228,101,,Pacheco @ Target (Eastbound),,37.05463557,-120.8756322,565,,0,,America/Los_Angeles,,,0
+768266,139,,Crispi Dr @ Topeka St (northbound),,37.28604697,-120.3225499,567,,0,,America/Los_Angeles,,,0
+768435,5173,,15th @ B St/Merced County Health (eastbound),,37.29381441,-120.4703799,561,,0,,America/Los_Angeles,,,0
+768264,137,,Arguello Dr @ Campos Ct (westbound),,37.28337086,-120.3213161,567,,0,,America/Los_Angeles,,,0
+768204,69,,Walnut Ave @ Hammatt Ave (eastbound),,37.38951845,-120.7125002,562,,0,,America/Los_Angeles,,,0
+768439,5185,,Alexander @ G St,,37.31524752,-120.4691166,561,,0,,America/Los_Angeles,,,0
+768263,136,,Crispi Dr @ Topeka St (southbound),,37.28626891,-120.3227109,567,,0,,America/Los_Angeles,,,0
+768593,6164,,I St @ 2nd (westbound),,37.06326849,-120.8529571,565,,0,,America/Los_Angeles,,,0
+768592,6153,,I St @ 2nd (eastbound),,37.06344281,-120.8537103,565,,0,,America/Los_Angeles,,,0
+768163,25,,Bellevue Rd @ Alabama Ave (eastbound),,37.36038514,-120.5977499,560,,0,,America/Los_Angeles,,,0
+768367,4112,,1st @ Bellevue (southbound),,37.35934049,-120.5968259,560,,0,,America/Los_Angeles,,,0
+768590,5865,,Yosemite Av @ Steamboat,,37.33220023,-120.4710424,561,,0,,America/Los_Angeles,,,0
+768347,236,,College Plaza (To Merced),,37.05769007,-120.8177876,565,,0,,America/Los_Angeles,,,0
+781952,11,,Y Chevron (to Dos Palos),,37.051655143193,-120.6352526,,,0,,America/Los_Angeles,,,0
+781922,5303,,24th @ MLK/Amtrak,,37.30689667,-120.4767837,561,,0,,America/Los_Angeles,,,0
+768256,129,,Pacific Drive @ Rudolph Joseph Merino Park (westbound),,37.3354489469229,-120.493623882209,561,,0,,America/Los_Angeles,,,0
+768305,186,,Merced Ave @ Marthella (to Transpo),,37.29158882,-120.4560328,561,,0,,America/Los_Angeles,,,0
+768299,173,,Buchach Rd @ Bellevue Rd (To Winton),,37.36145748,-120.5766973,560,,0,,America/Los_Angeles,,,0
+768175,38,,Winton Way @ Crawfort St (northbound),,37.38384103,-120.6134677,559,,0,,America/Los_Angeles,,,0
+781944,267,,San Luis @ Snow Goose,,37.06094782,-120.8105296,565,,0,,America/Los_Angeles,,,0
+768541,5571,,O St @ 15th (northbound),,37.301,-120.489,561,,0,,America/Los_Angeles,,,0
+768291,165,,4th St @ South Ave (southbound),,37.42820895,-120.7657635,563,,0,,America/Los_Angeles,,,0
+768267,140,,Broaway @ Cabrillo St (eastbound),,37.29053255,-120.3150344,567,,0,,America/Los_Angeles,,,0
+768550,5605,,R St @ Buena Vista/Black Rascal Bike Path,,37.32579116,-120.4869774,561,,0,,America/Los_Angeles,,,0
+768286,160,,Merced Ave @ Darren Ln (southbound),,37.43090546,-120.795241,563,,0,,America/Los_Angeles,,,0
+844204,,,Food 4 Less / Dollar Tree,,37.0580130037353,-120.822685314081,565,,0,,America/Los_Angeles,,,0
+768580,5734,,Yosemite Pkwy @ Murthella (westbound),,37.29527818,-120.4552335,561,,0,,America/Los_Angeles,,,0
+768351,240,,Elgin Ave @ Azusa Ave (To Merced),,37.04905488,-120.6355047,566,,0,,America/Los_Angeles,,,0
+768221,94,,Food 4 Less @ Pacheco Blvd (Westbound),,37.0572443746286,-120.824061326389,565,,0,,America/Los_Angeles,,,0
+768187,50,,Buhach Rd @ Juniper Ave/ Buhach High (southbound),,37.35056064,-120.5768663,560,,0,,America/Los_Angeles,,,0
+782481,,,South Dos Palos County Park,,36.9685376184518,-120.644762888855,566,,0,,America/Los_Angeles,,,0
+768542,5573,,Merced County Workforce Dev (eastbound),,37.2954,-120.511,561,,0,,America/Los_Angeles,,,0
+768450,5234,,18th @ P St (westbound),,37.30479842,-120.4890776,561,,0,,America/Los_Angeles,,,0
+768194,57,,Harvest Ave @ North Main St (eastbound),,37.3955577,-120.717355,562,,0,,America/Los_Angeles,,,0
+768416,4585,,Juniper Ave @ Valley St (eastbound),,37.3496,-120.587,560,,0,,America/Los_Angeles,,,0
+768323,204,,R St @ Buena Vista/ Black Rascal Bike Path (northbound),,37.3256024,-120.4867199,561,,0,,America/Los_Angeles,,,0
+768195,59,,8th St @ F St (northbound),,37.38199535,-120.7164323,562,,0,,America/Los_Angeles,,,0
+781931,278,,Golden Valley Health Ctr,,37.28827485,-120.4953218,561,,0,,America/Los_Angeles,,,0
+768261,134,,Haskell Ave @ Fancher St (eastbound),,37.29284139,-120.3135216,567,,0,,America/Los_Angeles,,,0
+768447,5231,,G St @ Donna (northbound),,37.33061561,-120.4689315,561,,0,,America/Los_Angeles,,,0
+768400,4343,,Broadway @ High (eastbound),,37.34479147,-120.6033862,560,,0,,America/Los_Angeles,,,0
+768477,5335,,G St @ University/Tri College Center,,37.3359921,-120.4691273,561,,0,,America/Los_Angeles,,,0
+768189,52,,Juniper Ave @ Almador Ter (westbound),,37.34984422,-120.5903953,560,,0,,America/Los_Angeles,,,0
+781994,,,Pacific Dr @ Rudolph Joseph Merino Park (eastbound),,37.3354805183858,-120.49186140149,561,,0,,America/Los_Angeles,,,0
+782484,,,Reynolds Ave Stop,,36.9763383532029,-120.64478764418,566,,0,,America/Los_Angeles,,,0
+768605,6356,,Los Banos High School,,37.05103425,-120.8398069,565,,0,,America/Los_Angeles,,,0
+768638,7241,,El Nido Grocery (northbound),,37.13658994,-120.492028,569,,0,,America/Los_Angeles,,,0
+768498,5411,,M St @ 22nd/County Offices (northbound),,37.30676974,-120.4819643,561,,0,,America/Los_Angeles,,,0
+768418,5113,,13th @ D St (eastbound),,37.29256612,-120.4735127,561,,0,,America/Los_Angeles,,,0
+768567,5675,,Stretch @ Parsons,,37.30036159,-120.4509142,561,,0,,America/Los_Angeles,,,0
+768401,4352,,Buchach @ Bellevue (southbound),,37.36144895,-120.5767912,560,,0,,America/Los_Angeles,,,0
+768394,4304,,Bellevue @ Secretariat (westbound),,37.36058127,-120.5786714,560,,0,,America/Los_Angeles,,,0
+768262,135,,Broadway @ Cabrillo St (westbound),,37.29078435,-120.3146321,567,,0,,America/Los_Angeles,,,0
+781938,6357,,JC Penney,,37.056,-120.869,565,,0,,America/Los_Angeles,,,0
+768173,35,,Commerce Ave @ Big 5 (to Winton),,37.34301231,-120.6129634,560,,0,,America/Los_Angeles,,,0
+768387,4273,,Bellevue @ Redwood (eastbound),,37.3604,-120.602,560,,0,,America/Los_Angeles,,,0
+768508,5441,,M St @ Social Security Office (northbound),,37.31817421,-120.4783595,561,,0,,America/Los_Angeles,,,0
+768371,4162,,1st @ Village Circle (southbound),,37.35497415,-120.6005368,560,,0,,America/Los_Angeles,,,0
+768527,5501,,Meadows Ave @ Olivewood (northbound),,37.31815074,-120.4906493,561,,0,,America/Los_Angeles,,,0
+781927,287,,Langtry Ave,,37.32627959,-120.5517823,561,,0,,America/Los_Angeles,,,0
+781948,293,,Santa Fe Market,,37.05910308,-120.8496523,565,,0,,America/Los_Angeles,,,0
+768297,171,,S St @ 2nd St (westbound),,37.29028928,-120.5031323,561,,0,,America/Los_Angeles,,,0
+768533,5532,,R St @ Olive/Sears (southbound),,37.32,-120.487,561,,0,,America/Los_Angeles,,,0
+768481,5343,,26th @ Glen (eastbound),,37.30414694,-120.4617586,561,,0,,America/Los_Angeles,,,0
+768280,154,,R St @ 12th St (northbound),,37.29934075,-120.4954344,561,,0,,America/Los_Angeles,,,0
+768501,5421,,M St @ 26th (northbound),,37.31070368,-120.4796925,561,,0,,America/Los_Angeles,,,0
+768528,5503,,Lopes @ Linda (eastbound),,37.299,-120.509,561,,0,,America/Los_Angeles,,,0
+768350,239,,Dollar General (To Los Banos),,36.99023926,-120.6354618,566,,0,,America/Los_Angeles,,,0
+768271,144,,Yosemite Pkwy @ Shirley St (eastbound),,37.295052,-120.4577601,561,,0,,America/Los_Angeles,,,0
+768626,6586,,Wilmott @ 2nd,,37.0691,-120.85,565,,0,,America/Los_Angeles,,,0
+768569,5684,,Yosemite @ Perch (westbound),,37.33223009,-120.4379761,561,,0,,America/Los_Angeles,,,0
+768488,5364,,26th @ 7th/Hoover MS (westbound),,37.30548507,-120.4651046,561,,0,,America/Los_Angeles,,,0
+768245,118,,West Ave @ 7th St (southbound),,37.29692969,-120.5058146,561,,0,,America/Los_Angeles,,,0
+768161,15,,Atwater Transpo (Counter-Clockwise),,37.3454817,-120.6084292,560,,0,,America/Los_Angeles,,,0
+768214,85,,MLK JR Way @ Fairgrounds (southbound),,37.29055389,-120.4861593,561,,0,,America/Los_Angeles,,,0
+768458,5254,,18th @ S St / EDD (westbound),,37.3066332,-120.4940128,561,,0,,America/Los_Angeles,,,0
+768359,261,,Golden Valley Health Center (Westbound),,37.28824925,-120.4978323,561,,0,,America/Los_Angeles,,,0
+768196,61,,Main St @ B St (southbound),,37.3861246244098,-120.723364520867,562,,0,,America/Los_Angeles,,,0
+768499,5412,,M St @ Villages Apts (southbound),,37.32452208,-120.478397,561,,0,,America/Los_Angeles,,,0
+768258,131,,Gage St @ Hwy 140 (southbound),,37.29441614,-120.3227967,567,,0,,America/Los_Angeles,,,0
+768583,5755,,Transpo (small),,37.30157144,-120.4873462,561,,0,,America/Los_Angeles,,,0
+768426,5135,,27th @ Green),,37.30374081,-120.4548766,561,,0,,America/Los_Angeles,,,0
+768494,5391,,M St @ 13th/Sacred Heart (northbound),,37.297552418111,-120.487307,561,,0,,America/Los_Angeles,,,0
+768449,5233,,18th @ P St (eastbound),,37.30467254,-120.4890709,561,,0,,America/Los_Angeles,,,0
+768376,4195,,Atwater Library (southbound),,37.35058294,-120.6068498,560,,0,,America/Los_Angeles,,,0
+768518,5473,,Childs @ Watertown (eastbound),,37.2878,-120.445,561,,0,,America/Los_Angeles,,,0
+768321,202,,Buena Vista Plaza (north/south bound),,37.32615417,-120.5032611,561,,0,,America/Los_Angeles,,,0
+768169,31,,Broadway @ Mogliotti Ave (westbound),,37.34229582,-120.5944991,560,,0,,America/Los_Angeles,,,0
+768405,4393,,Myrtle @ California (eastbound),,37.39299843,-120.6090313,559,,0,,America/Los_Angeles,,,0
+768511,5451,,M St @ Childs (northbound),,37.28843171,-120.4925065,561,,0,,America/Los_Angeles,,,0
+781949,294,,St. Joseph Church,,37.05333193,-120.8542764,565,,0,,America/Los_Angeles,,,0
+781915,296,,Dollar General,,37.38685881,-120.6121373,,,0,,America/Los_Angeles,,,0
+782485,,,Blossom St Stop,,36.9860704900075,-120.636681170114,566,,0,,America/Los_Angeles,,,0
+768639,7252,,El Nido Grocery (southbound),,37.13663698,-120.4921246,569,,0,,America/Los_Angeles,,,0
+768469,5305,,G St @ Merced High School North Campus,,37.31906264,-120.4694559,561,,0,,America/Los_Angeles,,,0
+768417,5015,,Scholars @ Emigrant,,37.36337189,-120.4308388,561,,0,,America/Los_Angeles,,,0
+768412,4492,,Winton @ Fruitland/Atwater HS (southbound),,37.36374922,-120.6140202,560,,0,,America/Los_Angeles,,,0
+768311,192,,Yosemite Pkwy @ Rose (to Transpo),,37.29516296,-120.4597288,561,,0,,America/Los_Angeles,,,0
+768168,30,,Broadway @ Malibu Ln (westbound),,37.34034249,-120.5891025,560,,0,,America/Los_Angeles,,,0
+768324,205,,Wal-Mart (southbound),,37.31739029,-120.4995663,561,,0,,America/Los_Angeles,,,0
+768254,127,,El Redondo Dr @ Jenner Dr (southbound),,37.3342732,-120.4952842,561,,0,,America/Los_Angeles,,,0
+768378,4211,,Winton @ Bellevue/ 99 cent store (northbound),,37.35933729,-120.6137359,560,,0,,America/Los_Angeles,,,0
+768312,193,,Yosemite Pkwy @ Shirley (to Transpo),,37.29515869,-120.4572129,561,,0,,America/Los_Angeles,,,0
+782480,,,Lexington Ave Stop,,36.9684755583425,-120.653701042328,566,,0,,America/Los_Angeles,,,0
+781942,6557,,Snow Goose @ Ward/Pacheco HS,,37.0666,-120.816,565,,0,,America/Los_Angeles,,,0
+768503,5425,,M St @ Fairfield/Hylond,,37.32154445,-120.4783165,561,,0,,America/Los_Angeles,,,0
+781945,268,,San Luis @ Pacheco Blvd,,37.05785275,-120.8061978,565,,0,,America/Los_Angeles,,,0
+768276,150,,Monte Vista Ave @ Country Side - Turlock (eastbound),,37.5216887323486,-120.882525460188,564,,0,,America/Los_Angeles,,,0
+768300,178,,Olive Ave @ Collins Dr (westbound),,37.31941567,-120.4765034,561,,0,,America/Los_Angeles,,,0
+768310,191,,Yosemite Pkwy @ Cypress (to Transpo),,37.29516296,-120.4638326,561,,0,,America/Los_Angeles,,,0
+768242,116,,F St @ 4th St/County Offices (westbound),,37.06490315,-120.8481073,565,,0,,America/Los_Angeles,,,0
+768177,40,,Park Ave @ Winton Way (westbound),,37.38708045,-120.6133443,559,,0,,America/Los_Angeles,,,0
+768397,4324,,Bellevue @ Winton (westbound),,37.3605,-120.6124077,560,,0,,America/Los_Angeles,,,0
+768604,6346,,K-Mart - Los Banos,,37.05524844,-120.8339303,565,,0,,America/Los_Angeles,,,0
+768433,5171,,G St @ 26th (northbound),,37.30804978,-120.4702927,561,,0,,America/Los_Angeles,,,0
+768409,4452,,Winton @ Bellevue/99 cent store (southbound),,37.35931384,-120.6139411,560,,0,,America/Los_Angeles,,,0
+768178,41,,Winton Way @ Crawfort St (southbound),,37.38418203,-120.6136072,559,,0,,America/Los_Angeles,,,0
+768607,6377,,Los Banos Community Center,,37.06303681,-120.8456505,565,,0,,America/Los_Angeles,,,0
+768437,5181,,G St @ Alexander (northbound),,37.31581175,-120.4692118,561,,0,,America/Los_Angeles,,,0
+768393,4295,,Atwater Flea Market,,37.3530814123925,-120.628935626984,560,,0,,America/Los_Angeles,,,0
+768410,4465,,Center @ Walnut/Winton Library (southbound),,37.38916469,-120.6148303,559,,0,,America/Los_Angeles,,,0
+768199,64,,Main St @ F St (northbound),,37.38242161,-120.7233042,562,,0,,America/Los_Angeles,,,0
+768180,43,,1st St @ Elm Ave (southbound),,37.34818961,-120.6058717,560,,0,,America/Los_Angeles,,,0
+768188,51,,Juniper Ave @ Bridgewater St (westbound),,37.34978452,-120.5852133,560,,0,,America/Los_Angeles,,,0
+768456,5252,,G St @ Skylark (southbound),,37.28591039,-120.4821816,561,,0,,America/Los_Angeles,,,0
+768419,5114,,11th @ W St (westbound),,37.30146586,-120.5040107,561,,0,,America/Los_Angeles,,,0
+768292,166,,Olivewood Dr. @ R St (westbound),,37.31804196,-120.4869479,561,,0,,America/Los_Angeles,,,0
+768317,198,,Mercy Ave @ Paulson Rd (westbound),,37.3380479,-120.4603994,561,,0,,America/Los_Angeles,,,0
+768340,227,,4th @ I St (northbound),,37.06247176,-120.8505321,565,,0,,America/Los_Angeles,,,0
+768641,8175,,Le Grand @ Washington,,37.2284,-120.248,568,,0,,America/Los_Angeles,,,0
+768424,5132,,C.O.V.E. (Northbound),,37.2902651370718,-120.475158261342,561,,0,,America/Los_Angeles,,,0
+768314,195,,G St @ Columbia Ave (northbound),,37.32497852,-120.4689825,561,,0,,America/Los_Angeles,,,0
+768241,115,,I St @ K St (northbound),,37.06102487,-120.8631706,565,,0,,America/Los_Angeles,,,0
+768176,39,,Winton Way @ Myrtle Ave (northbound),,37.39240815,-120.6133175,559,,0,,America/Los_Angeles,,,0
+770325,,,Santa Nella Market,,37.0985736838116,-121.016127264236,565,,0,,America/Los_Angeles,,,0
+768248,121,,F St @ 2nd St (southbound),,37.0666496,-120.8515513,565,,0,,America/Los_Angeles,,,0
+768182,45,,Buchach @ Bellevue (Clockwise),,37.36135728,-120.5766007,560,,0,,America/Los_Angeles,,,0
+768517,5472,,West Av @ 4th (southbound),,37.2938,-120.5057747,561,,0,,America/Los_Angeles,,,0
+768492,5383,,4th @ P St (eastbound),,37.2902,-120.497,561,,0,,America/Los_Angeles,,,0
+781950,6287,,F St @ 4th/County Offices,,37.0648154,-120.8479357,565,,0,,America/Los_Angeles,,,0
+768454,5245,,Cherokee @ El Portal,,37.32517049,-120.4605871,561,,0,,America/Los_Angeles,,,0
+768330,217,,Cooper @ Scholle Corp (westbound),,37.31636104,-120.5171335,561,,0,,America/Los_Angeles,,,0
+768485,5354,,26th @ 4th Av (westbound),,37.30635745,-120.467976,561,,0,,America/Los_Angeles,,,0
+768441,5192,,G St @ Alexander (southbound),,37.31478249,-120.4695082,561,,0,,America/Los_Angeles,,,0
+768253,126,,18th St @ N St (eastbound),,37.30364632,-120.4862988,561,,0,,America/Los_Angeles,,,0
+768443,5202,,G St @ Brookdale (southbound),,37.32178761,-120.4694062,561,,0,,America/Los_Angeles,,,0
+768336,223,,Pacheco Blvd @ San Luis Plaza (eastbound),,37.05565573,-120.8673012,565,,0,,America/Los_Angeles,,,0
+781954,277,,Village Terrace Landing Apts,,37.33529253,-120.4864812,561,,0,,America/Los_Angeles,,,0
+768306,187,,Motel Dr @ Merced Ave (to Transpo),,37.29172112,-120.4618531,561,,0,,America/Los_Angeles,,,0
+768167,29,,Broadway @ Station Ave/Rancho Grande (westbound),,37.33589827,-120.5808413,560,,0,,America/Los_Angeles,,,0
+781911,5282,,K St @ 23rd,,37.30712802,-120.4783138,561,,0,,America/Los_Angeles,,,0
+781937,275,,Loughborough Dr @ M St,,37.32262749,-120.4787189,561,,0,,America/Los_Angeles,,,0
+768395,4305,,Atwater Target (to Winton),,37.34133515,-120.6103657,560,,0,,America/Los_Angeles,,,0
+768461,5263,,21st @ G St (eastbound),,37.3024238,-120.4730326,561,,0,,America/Los_Angeles,,,0
+768578,5724,,Yosemite Pkwy @ Laurel (westbound),,37.29528885,-120.4640794,561,,0,,America/Los_Angeles,,,0
+768588,5835,,Yosemite Av @ Dove,,37.33218317,-120.4563493,561,,0,,America/Los_Angeles,,,0
+770323,,,Gustine City Hall,,37.256626,-121.002454,570,,0,,America/Los_Angeles,,,0
+768476,5332,,M St @ 22nd/Merced County Offices (southbound),,37.3067484,-120.4821897,561,,0,,America/Los_Angeles,,,0
+768544,5581,,Parsons @ Childs/ Holiday Inn (northbound),,37.28717226,-120.451595,561,,0,,America/Los_Angeles,,,0
+768356,253,,Dos Palos/Chics Market (to Los Banos),,36.96455207,-120.6534863,566,,0,,America/Los_Angeles,,,0
+768540,5565,,Parsons @ Olive,,37.31882694,-120.4510921,561,,0,,America/Los_Angeles,,,0
+768483,5351,,K St @ 21st (northbound),,37.3046352,-120.4795825,561,,0,,America/Los_Angeles,,,0
+781916,274,,State Highway Patrol,,37.34292878,-120.6160077,,,0,,America/Los_Angeles,,,0
+768536,5542,,Olivewood Dr. @ R St (southbound),,37.31772839,-120.4867119,561,,0,,America/Los_Angeles,,,0
+768438,5182,,G St @ 26th (southbound),,37.30835486,-120.4702216,561,,0,,America/Los_Angeles,,,0
+768348,237,,Transpo - Small (Southbound),,37.30164292,-120.4873154,561,,0,,America/Los_Angeles,,,0
+768203,68,,Walnut Ave @ Francis St (eastbound),,37.38939485,-120.7187605,562,,0,,America/Los_Angeles,,,0
+768566,5673,,Yosemite Av @ Chapparal (eastbound),,37.33205308,-120.4479781,561,,0,,America/Los_Angeles,,,0
+768354,247,,Motel Dr @ Courtyard by Marriot (Northbound),,37.29459111,-120.4649001,561,,0,,America/Los_Angeles,,,0
+781941,265,,San Luis @ Park Warren,,37.06161561,-120.821929,565,,0,,America/Los_Angeles,,,0
+768468,5304,,21st @ Cherry (westbound),,37.29760181,-120.459635,561,,0,,America/Los_Angeles,,,0
+768597,6204,,Los Banos Memorial Hospital (westbound),,37.06347163,-120.8592607,565,,0,,America/Los_Angeles,,,0
+768422,5124,,13th @ D St (westbound),,37.2926216,-120.4734135,561,,0,,America/Los_Angeles,,,0
+782488,,,Dos Palos City Hall,,36.9866217353429,-120.629004565662,566,,0,,America/Los_Angeles,,,0
+768392,4293,,Bellevue @ Secretariat (eastbound),,37.36041072,-120.5792749,560,,0,,America/Los_Angeles,,,0
+781923,284,,Langtry Ave,,37.32632651,-120.5516911,561,,0,,America/Los_Angeles,,,0
+768529,5514,,Devondwood @ Dogwood (westbound),,37.31640371,-120.4926664,561,,0,,America/Los_Angeles,,,0
+768368,4131,,Academy @ F St (northbound),,37.36319921,-120.5736718,560,,0,,America/Los_Angeles,,,0
+768584,5765,,Transpo (Outside),,37.30196936,-120.4881804,561,,0,,America/Los_Angeles,,,0
+768171,33,,Broadway @ Castle St (westbound),,37.34436929,-120.6018806,560,,0,,America/Los_Angeles,,,0
+768326,208,,Yosemite Ave @ G st (eastbound),,37.33205094,-120.4682207,561,,0,,America/Los_Angeles,,,0
+768206,71,,Walnut Ave @ Barbera Ave (westbound),,37.38939485,-120.6289065,559,,0,,America/Los_Angeles,,,0
+768270,143,,Gage St @ Hwy 140 (northbound),,37.29468073,-120.3225392,567,,0,,America/Los_Angeles,,,0
+781917,4111,,1st @ Cedar,,37.34715119,-120.6063733,560,,0,,America/Los_Angeles,,,0
+768279,153,,R St @ 12th St (southbound),,37.29961812,-120.4954183,561,,0,,America/Los_Angeles,,,0
+768345,234,,Meadows @ Joann Fabrics (northbound),,37.32001,-120.490353,561,,0,,America/Los_Angeles,,,0
+768562,5653,,Yosemite @ G St (eastbound),,37.33203815,-120.4658282,561,,0,,America/Los_Angeles,,,0
+768198,63,,Park St @ 7th St (eastbound),,37.37854256,-120.7189429,562,,0,,America/Los_Angeles,,,0
+768570,5691,,V St @ 10th (northbound),,37.29999203,-120.5023487,561,,0,,America/Los_Angeles,,,0
+768545,5583,,Olive @ College Green (eastbound),,37.3191789,-120.4762539,561,,0,,America/Los_Angeles,,,0
+768343,230,,Hwy 59 @ Riviera MHP (southbound),,37.31121568,-120.505203,561,,0,,America/Los_Angeles,,,0
+768484,5352,,M St @ 8th (southbound),,37.29261949,-120.4902789,561,,0,,America/Los_Angeles,,,0
+768360,264,,Meadows @ Olive (southbound),,37.320595,-120.490459,561,,0,,America/Los_Angeles,,,0
+768512,5453,,Childs @ Manzanita/Golden Valley HS (eastbound),,37.2878,-120.448,561,,0,,America/Los_Angeles,,,0
+768244,118,,18th St @ N St (westbound),,37.30392088,-120.4866904,561,,0,,America/Los_Angeles,,,0
+768334,221,,Washington St @ Jackson (eastbound),,37.2336086,-120.2550548,568,,0,,America/Los_Angeles,,,0
+781816,,,Hilmar High School,,37.4006247913382,-120.85028725342,,,0,,America/Los_Angeles,,,0
+768568,5683,,Yosemite Av @ Parsons (eastbound),,37.3320808,-120.4517037,561,,0,,America/Los_Angeles,,,0
+768269,142,,Bigler Dr @ Vallejo St (northwest bound),,37.29322548,-120.3170085,567,,0,,America/Los_Angeles,,,0
+768453,5242,,G St @ N. Bear Creek Dr (southbound),,37.31061515,-120.4695672,561,,0,,America/Los_Angeles,,,0
+768539,5545,,Parsons @ Alexander,,37.31592161,-120.4511243,561,,0,,America/Los_Angeles,,,0
+768446,5221,,G St @ Childs (northbound),,37.2885677,-120.4816245,561,,0,,America/Los_Angeles,,,0
+768474,5325,,G St @ Park Av,,37.31217566,-120.4695605,561,,0,,America/Los_Angeles,,,0
+768379,4214,,Bellevue @ Bellevue Elementary (westbound),,37.36057274,-120.5846071,560,,0,,America/Los_Angeles,,,0
+768386,4271,,Winton @ Grove (northbound),,37.35315228,-120.6136595,560,,0,,America/Los_Angeles,,,0
+768547,5594,,Loughborough @ Target/Merced Mall (westbound),,37.3235068,-120.4856779,561,,0,,America/Los_Angeles,,,0
+768502,5422,,Meadows Ave @ Jo Ann Fabrics (southbound),,37.31925142,-120.4893431,561,,0,,America/Los_Angeles,,,0
+781936,298,,Meadows @ Olive,,37.31955831,-120.4903623,561,,0,,America/Los_Angeles,,,0
+768579,5733,,Yosemite Pkwy @ Rose (eastbound),,37.29511068,-120.4597288,561,,0,,America/Los_Angeles,,,0
+768164,26,,Bellevue Rd @ Brownell Ave (eastbound),,37.36040219,-120.5938983,560,,0,,America/Los_Angeles,,,0
+768429,5152,,G St @ 18th (southbound),,37.30003205,-120.4751408,561,,0,,America/Los_Angeles,,,0
+768620,6516,,Snow Goose @ Fallbrook,,37.06369144,-120.812882,565,,0,,America/Los_Angeles,,,0
+768538,5544,,Gerard @ Laughlin (westbound),,37.2806,-120.44,561,,0,,America/Los_Angeles,,,0
+768505,5433,,Cartmell @ M St (eastbound),,37.2861,-120.493,561,,0,,America/Los_Angeles,,,0
+768634,7155,,Dos Palos Y Chevron Station,,37.0516183590217,-120.635245860748,566,,0,,America/Los_Angeles,,,0
+768215,86,,Hwy 59 @ Cone Ave (southbound),,37.28336659,-120.4877257,561,,0,,America/Los_Angeles,,,0
+768408,4435,,California @ Helton,,37.3855,-120.609,559,,0,,America/Los_Angeles,,,0
+768464,5291,,G St @ Olive (northbound),,37.3197015,-120.4691434,561,,0,,America/Los_Angeles,,,0
+781928,5442,,N St @ Childs,,37.28854025,-120.4944479,561,,0,,America/Los_Angeles,,,0
+768273,146,,Pico St @ Plainsburg Rd/La Michoacana (northbound),,37.28848398,-120.3246152,567,,0,,America/Los_Angeles,,,0
+768344,233,,Main @ Shopping Center (northbound),,37.38626635,-120.7231593,562,,0,,America/Los_Angeles,,,0
+768530,5515,,Mercy Medical Center,,37.33881135,-120.4670835,561,,0,,America/Los_Angeles,,,0
+768560,5644,,Olive @ Meadows (westbound),,37.31929195,-120.4904911,561,,0,,America/Los_Angeles,,,0
+768372,4175,,1st @ Village Circle (to Merced),,37.35443687,-120.6007862,560,,0,,America/Los_Angeles,,,0
+781946,269,,Walmart - To Merced College,,37.05445146,-120.8790198,565,,0,,America/Los_Angeles,,,0
+768415,4522,,Winton @ Olive (southbound),,37.34886766,-120.6127851,560,,0,,America/Los_Angeles,,,0
+768255,128,,Loughborough Dr @ Austin Ave (eastbound),,37.32328497,-120.4944903,561,,0,,America/Los_Angeles,,,0
+768403,4375,,Broadway @ Capitol/R-N Market,,37.34256588,-120.5972682,560,,0,,America/Los_Angeles,,,0
+768316,197,,Paulson Rd @ Yosemite Ave (northbound),,37.33266516,-120.4598308,561,,0,,America/Los_Angeles,,,0
+768487,5362,,M St @ Childs (southbound),,37.28844879,-120.4926889,561,,0,,America/Los_Angeles,,,0
+768240,114,,I St @ K St (southbound),,37.06107624,-120.8632672,565,,0,,America/Los_Angeles,,,0
+768301,179,,M St @ Fairfield Dr (northbound),,37.32026889,-120.4783219,561,,0,,America/Los_Angeles,,,0
+768186,49,,Atwater Library (northbound),,37.35088474,-120.6065369,560,,0,,America/Los_Angeles,,,0
+768549,5604,,Loughborough Dr @ Village Meadow Apt (westbound),,37.32346307,-120.4892465,561,,0,,America/Los_Angeles,,,0
+768257,130,,Loughborough Dr @ Austin Ave (westbound),,37.32340868,-120.494737,561,,0,,America/Los_Angeles,,,0
+768200,65,,Walnut Ave @ Dwight Way (westbound),,37.38960796,-120.7047647,562,,0,,America/Los_Angeles,,,0
+768553,5614,,Loughborough Dr @ Laurel Glen Apts (westbound),,37.32323164,-120.4814655,561,,0,,America/Los_Angeles,,,0
+782487,,,Lucerne Ave and Ida St ,,36.9827974444815,-120.62537035582,566,,0,,America/Los_Angeles,,,0
+768559,5643,,Valley Community School (eastbound),,37.29537207,-120.5085289,561,,0,,America/Los_Angeles,,,0
+768427,5145,,27th @ McKee,,37.30363414,-120.4453058,561,,0,,America/Los_Angeles,,,0
+768599,6247,,D St @ Mercy Springs (westbound),,37.06386897,-120.836,565,,0,,America/Los_Angeles,,,0
+768285,159,,Merced Ave @ Darren Ln (northbound),,37.43057745,-120.7949674,563,,0,,America/Los_Angeles,,,0
+768496,5401,,M St @ 19th (northbound),,37.30374233,-120.4837319,561,,0,,America/Los_Angeles,,,0
+768260,133,,Bigler Dr @ Vallejo St (southeast bound),,37.29314866,-120.3171748,567,,0,,America/Los_Angeles,,,0
+768383,4254,,Bellevue @ Constitution/Osborn Park (westbound),,37.3605461,-120.5915406,560,,0,,America/Los_Angeles,,,0
+768510,5445,,Mansionette @ Kingfisher,,37.33717782,-120.464243,561,,0,,America/Los_Angeles,,,0
+768265,138,,Arguello Dr @ Campos Ct (eastbound),,37.28315745,-120.3216541,567,,0,,America/Los_Angeles,,,0
+768381,4243,,Bellevue @ Constitution (eastbound),,37.36040646,-120.5907547,560,,0,,America/Los_Angeles,,,0
+768303,181,,K St @ 21st (southbound),,37.30458507,-120.4797435,561,,0,,America/Los_Angeles,,,0
+768561,5651,,R St @ 8th (northbound),,37.29569573,-120.4975494,561,,0,,America/Los_Angeles,,,0
+768537,5543,,Loughborough @ Target/Mall (eastbound),,37.32335322,-120.4853868,561,,0,,America/Los_Angeles,,,0
+768548,5595,,R St @ 23rd,,37.3104897066516,-120.488983658266,561,,0,,America/Los_Angeles,,,0
+782478,,,Police/Fire Station (Dos Palos),,36.9852954661466,-120.627747007549,566,,0,,America/Los_Angeles,,,0
+768352,241,,Dos Palos Y Cash Market (to Los Banos),,37.04876374,-120.635612,566,,0,,America/Los_Angeles,,,0
+768277,151,,Rite Aid Monte Vista Ave & Crowell Rd. ,,37.5217855174328,-120.862139331279,564,,0,,America/Los_Angeles,,,0
+768554,5615,,R St @ Donna,,37.32960468,-120.4869318,561,,0,,America/Los_Angeles,,,0
+768423,5125,,27th @ Glen,,37.30476001,-120.4594982,561,,0,,America/Los_Angeles,,,0
+768342,229,,Hwy 59 @ Willowbrook (southbound),,37.3151238,-120.5051172,561,,0,,America/Los_Angeles,,,0
+781814,,,Hilmar Cheese Factory,,37.4206894400036,-120.850513900082,,,0,,America/Los_Angeles,,,0
+768627,6587,,Wal Mart - Los Banos,,37.05443425,-120.879,565,,0,,America/Los_Angeles,,,0
+768413,4502,,Winton @ Grove (southbound),,37.3532205,-120.6138606,560,,0,,America/Los_Angeles,,,0
+835001,,,Castle H.S.A.,,37.3619934748659,-120.572220710143,,,0,,America/Los_Angeles,,,0
+781921,301,,K St @ 24th St,,37.30746736,-120.4780912,561,,0,,America/Los_Angeles,,,0
+768482,5345,,Gerard @ La Mesa,,37.2808291,-120.4783165,561,,0,,America/Los_Angeles,,,0
+768515,5461,,M St @ Donna (northbound),,37.32953856,-120.4781315,561,,0,,America/Los_Angeles,,,0
+768556,5625,,Santa Fe @ Reef Apts,,37.30200028,-120.4611153,561,,0,,America/Los_Angeles,,,0
+768402,4355,,Bellevue @ Atwater Plaza Shopping,,37.3605,-120.597,560,,0,,America/Los_Angeles,,,0
+768193,56,,Hospital Ave @ Castle Clinic (Clockwise),,37.36622635,-120.5778909,560,,0,,America/Los_Angeles,,,0
+768213,84,,Elgin Ave @ Azusa Ave (To Los Banos),,37.04905488,-120.6353974,566,,0,,America/Los_Angeles,,,0
+768642,8185,,Sutter @ El Mercado (to Merced),,37.2924,-120.321,567,,0,,America/Los_Angeles,,,0
+768534,5533,,Loughborough @village Meadow apts (eastbound),,37.32334896,-120.4893512,561,,0,,America/Los_Angeles,,,0
+768635,7185,,Dos Palos Golden Gate Bus Shelter,,36.98522806,-120.6277129,566,,0,,America/Los_Angeles,,,0
+768644,8205,,Planada/Golden Valley Clinic (to Merced),,37.2905,-120.321,567,,0,,America/Los_Angeles,,,0
+768636,7222,,Dos Palos Y Cash Market (to Merced),,37.04876374,-120.6355879,566,,0,,America/Los_Angeles,,,0
+768493,5384,,26th @ Glen (westbound),,37.30421948,-120.4616437,561,,0,,America/Los_Angeles,,,0
+768174,37,,Winton Way @ Gertrude Ave (northbound),,37.37473579,-120.6135857,559,,0,,America/Los_Angeles,,,0
+768473,5324,,21st @ Orchard (westbound),,37.29961492,-120.4651375,561,,0,,America/Los_Angeles,,,0
+768589,5845,,Yosemite Av @ Paulson,,37.33222583,-120.4596001,561,,0,,America/Los_Angeles,,,0
+768431,5161,,G St @ 23rd (northbound),,37.30445279,-120.4723942,561,,0,,America/Los_Angeles,,,0
+781924,285,,Gurr Rd @ Valley Dr,,37.33075424,-120.5588365,561,,0,,America/Los_Angeles,,,0
+768582,5745,,Merced Transpo (inside),,37.30180882153,-120.488184359525,561,,0,,America/Los_Angeles,,,0
+768281,155,,4th St @ South Ave (northbound),,37.42785111,-120.7656562,563,,0,,America/Los_Angeles,,,0
+768322,203,,Wal-Mart (northbound),,37.31743402,-120.4993813,561,,0,,America/Los_Angeles,,,0
+768339,226,,4th @ I St (southbound),,37.06243751,-120.8506608,565,,0,,America/Los_Angeles,,,0
+768197,62,,Peach Ave @ Main St/Value Market (eastbound),,37.37498731,-120.7241678,562,,0,,America/Los_Angeles,,,0
+768374,4183,,Bellevue @ 5th (eastbound),,37.3604,-120.608,560,,0,,America/Los_Angeles,,,0
+768398,4325,,Atwater Transpo (Clockwise),,37.34549926,-120.6084225,560,,0,,America/Los_Angeles,,,0
+781925,4221,,Winton @ Bellevue/SaveMart,,37.36144682,-120.6138593,560,,0,,America/Los_Angeles,,,0
+768319,200,,G St @ Davita Dialysis (southbound),,37.06724886,-120.8555853,565,,0,,America/Los_Angeles,,,0
+768283,157,,Schendel Ave @ Mimosa Ave (westbound),,37.42686279,-120.7845712,563,,0,,America/Los_Angeles,,,0
+768333,220,, 16th @ T st ( southeast bound),,37.3050715,-120.4971349,561,,0,,America/Los_Angeles,,,0
+768558,5634,,Merced County Workforce Dev (westbound),,37.2955,-120.511,561,,0,,America/Los_Angeles,,,0
+768471,5315,,G St @ Olive/Save Mart,,37.31746175,-120.4694438,561,,0,,America/Los_Angeles,,,0
+768491,5382,,M St @ Main (southbound),,37.30230966,-120.4847378,561,,0,,America/Los_Angeles,,,0
+768341,228,,Hwy 59 @ willowbrook (northbound),,37.31591739,-120.5049678,561,,0,,America/Los_Angeles,,,0
+768192,55,,Stratofortress Dr @ Jetlift Dr (clockwise),,37.36160351,-120.5703445,560,,0,,America/Los_Angeles,,,0
+768287,161,,Schendel Ave @ Driftwood Ave/Delhi HS (eastbound),,37.42682018,-120.7920679,563,,0,,America/Los_Angeles,,,0
+768355,249,,Dollar General (To Los Banos),,36.9897893551103,-120.634823423804,566,,0,,America/Los_Angeles,,,0
+782479,,,Kwik Serv (South Dos Palos),,36.9645033416456,-120.653528678574,566,,0,,America/Los_Angeles,,,0
+781812,,,Stevinson Kwik Serv,,37.3274235859151,-120.851596171419,,,0,,America/Los_Angeles,,,0
+768577,5723,,Yosemite Pkwy @ Cypress (eastbound),,37.29513629,-120.4637723,561,,0,,America/Los_Angeles,,,0
+768640,8165,,Jefferson @ Le Grand/Community Ctr,,37.2288,-120.252,568,,0,,America/Los_Angeles,,,0
+768179,42,,Winton Way @ Gertrude Ave (southbound),,37.37512799,-120.6137198,559,,0,,America/Los_Angeles,,,0
+768289,163,,Stephens St @ Acacia St (northbound),,37.43071377,-120.7767498,563,,0,,America/Los_Angeles,,,0
+768315,196,,Yosemite Ave @ Cordova Ave (eastbound),,37.33208507,-120.4628241,561,,0,,America/Los_Angeles,,,0
+781813,,,Hilmar McDonalds,,37.4039186466593,-120.84957915024,,,0,,America/Los_Angeles,,,0
+770326,,,Walmart Los Banos,,37.0544624508283,-120.878626,565,,0,,America/Los_Angeles,,,0
+768428,5151,,G St @ 21st (northbound),,37.30248781,-120.4735449,561,,0,,America/Los_Angeles,,,0
+768183,46,,Anberry Outpatient Center (northbound),,37.34890604,-120.5958778,560,,0,,America/Los_Angeles,,,0
+768365,3331,,Main @ C St/Livingston City Hall (northbound),,37.38465738,-120.7232682,562,,0,,America/Los_Angeles,,,0
+768208,73,,Dan Ward Rd @ Beachwood Dr (westbound),,37.33177796,-120.5283022,561,,0,,America/Los_Angeles,,,0
+768362,273,,Loughborough @ Village Meadow Apts (westbound),,37.32348547,-120.4879081,561,,0,,America/Los_Angeles,,,0
+768551,5611,,Q St @ 3rd (northbound),,37.2899,-120.499,561,,0,,America/Los_Angeles,,,0
+768451,5235,,Carmen @ Las Brisas,,37.28267727,-120.4774529,561,,0,,America/Los_Angeles,,,0
+768298,172,,Buhach Rd @ Avenue One (northbound),,37.34215934,-120.5768502,560,,0,,America/Los_Angeles,,,0
+768572,5694,,Yosemite Av @ Chapparal (westbound),,37.33215545,-120.4484904,561,,0,,America/Los_Angeles,,,0
+768444,5211,,G St @ Carmen (northbound),,37.28287148,-120.482069,561,,0,,America/Los_Angeles,,,0
+768325,206,,Horizons Health Care,,37.38217011,-120.7136267,562,,0,,America/Los_Angeles,,,0
+768587,5805,,Gallo Rec and Wellness Ctr,,37.36518605,-120.426448,561,,0,,America/Los_Angeles,,,0
+768230,103,,Los Banos Community Center (Eastbound),,37.0631325,-120.8455297,565,,0,,America/Los_Angeles,,,0
+781909,288,,Rancho San Miguel,,37.3868012645558,-120.73523733894,562,,0,,America/Los_Angeles,,,0
+768160,13,,Hwy 140 @ Dollar General (westbound),,37.30286118,-120.5055785,561,,0,,America/Los_Angeles,,,0
+768506,5434,,8th @ V St (westbound),,37.29747625,-120.5030751,561,,0,,America/Los_Angeles,,,0
+768370,4161,,Castle Clinic/ Air Museum (to Atwater),,37.3662,-120.578,560,,0,,America/Los_Angeles,,,0
+768610,6407,,Merced College/Los Banos Campus,,37.0576,-120.895,565,,0,,America/Los_Angeles,,,0
+768382,4251,,Winton @ Doris/Winton PO (northbound),,37.3809169,-120.6134033,559,,0,,America/Los_Angeles,,,0
+768500,5415,,M St @ Fairfield,,37.32170656,-120.4784963,561,,0,,America/Los_Angeles,,,0
+768608,6386,,Overland @ North,,37.0738,-120.846,565,,0,,America/Los_Angeles,,,0
+768247,120,,18th St @ S St/ EDD (eastbound),,37.30621717,-120.493235,561,,0,,America/Los_Angeles,,,0
+781929,263,,M St @ Trudy Way,,37.28441706,-120.4927669,561,,0,,America/Los_Angeles,,,0
+768507,5435,,M St @ Yosemite Av,,37.3327718,-120.4784828,561,,0,,America/Los_Angeles,,,0
+768470,5313,,26th @ 4th Av (eastbound),,37.30636865,-120.4678613,561,,0,,America/Los_Angeles,,,0
+768543,5575,,Parsons @ The Grove,,37.282759,-120.449319,561,,0,,America/Los_Angeles,,,0
+768460,5262,,G St @ Yosemite (southbound),,37.33119359,-120.4691702,561,,0,,America/Los_Angeles,,,0
+768181,44,,1st St @ Elm Ave (northbound),,37.34840283,-120.605641,560,,0,,America/Los_Angeles,,,0
+768623,6567,,St Francis @ Mercy Springs,,37.0868,-120.834,565,,0,,America/Los_Angeles,,,0
+768318,199,,First St @ InShape City (northbound),,37.35940019,-120.596661,560,,0,,America/Los_Angeles,,,0
+781907,283,,Main St @ Crowell St,,37.3893501,-120.7212254,562,,0,,America/Los_Angeles,,,0
+781932,295,,W 15th @ P St,,37.30122648,-120.4902376,561,,0,,America/Los_Angeles,,,0
+768294,168,,R St @ Yosemite Ave (northbound),,37.33276327,-120.4861701,561,,0,,America/Los_Angeles,,,0
+768586,5795,,Scholars at Mammoth Lks.,,37.3632525,-120.4294279,561,,0,,America/Los_Angeles,,,0
+768406,4415,,Buhach @ 5th,,37.35578294,-120.5764292,560,,0,,America/Los_Angeles,,,0
+768421,5123,,13th @ G St (eastbound),,37.294546175529,-120.478946342328,561,,0,,America/Los_Angeles,,,0
+768622,6556,,Stonewood @ Stonewood Center,,37.0781,-120.844,565,,0,,America/Los_Angeles,,,0
+768585,5785,,UC Merced Parking Lot (Merced College),,37.33897769,-120.4765275,561,,0,,America/Los_Angeles,,,0
+768490,5372,,M St @ Donna (southbound),,37.32986488,-120.4785365,561,,0,,America/Los_Angeles,,,0
+768524,5491,,M St @ Village Apts (northbound),,37.32444742,-120.4782549,561,,0,,America/Los_Angeles,,,0
+768472,5322,,M St @ 12th (southbound),,37.2968215442469,-120.487855160713,561,,0,,America/Los_Angeles,,,0
+768602,6286,,F St @ 4th/County Offices,,37.06496302,-120.8480644,565,,0,,America/Los_Angeles,,,0
+768452,5241,,G St @ East Campus (northbound),,37.30056759,-120.4746526,561,,0,,America/Los_Angeles,,,0
+768430,5155,,27th @ Parsons,,37.3036,-120.451,561,,0,,America/Los_Angeles,,,0
+768448,5232,,G St @ Columbia (southbound),,37.32486335,-120.4693258,561,,0,,America/Los_Angeles,,,0
+768369,4151,,Buhach @ Bellevue (northbound),,37.36135728,-120.5765766,560,,0,,America/Los_Angeles,,,0
+781953,276,,El Redondo Dr @ Jenner Dr,,37.334306,-120.495181,561,,0,,America/Los_Angeles,,,0
+768284,158,,Schendel Ave @ Driftwood Ave/Delhi HS (westbound),,37.42688835,-120.7919043,563,,0,,America/Los_Angeles,,,0
+768442,5201,,G St @ Brookdale (northbound),,37.32189853,-120.4691193,561,,0,,America/Los_Angeles,,,0
+768478,5335,,"G St @ Univ/Tri College, to UC Merced",,37.3360966,-120.4691488,561,,0,,America/Los_Angeles,,,0
+768293,167,,R St @ Donna Dr (northbound),,37.32984142,-120.486626,561,,0,,America/Los_Angeles,,,0
+768532,5524,,Gerard @ Coffee/Pioneer Elementary (westbound),,37.2805,-120.435,561,,0,,America/Los_Angeles,,,0
+768349,238,,Dollar General (To Merced),,36.99023926,-120.6355155,566,,0,,America/Los_Angeles,,,0
+768366,3442,,Main @ C St/Livingston City Hall (southbound),,37.38447443,-120.7233433,562,,0,,America/Los_Angeles,,,0
+768377,4203,,Bellevue @ Bellevue Elementary (eastbound),,37.36044483,-120.5835825,560,,0,,America/Los_Angeles,,,0
+768574,5704,,Yosemite Av @ Parsons (westbound),,37.33220876,-120.4514354,561,,0,,America/Los_Angeles,,,0
+768309,190,,Parsons @ Golden Valley HS (southbound),,37.28899573,-120.4517318,561,,0,,America/Los_Angeles,,,0
+768391,4291,,Winton @ Olive (northbound),,37.34856062,-120.612478,560,,0,,America/Los_Angeles,,,0
+768329,216,,16th @ T st (NorthWest bound),,37.30475575,-120.4955041,561,,0,,America/Los_Angeles,,,0
+768373,4181,,Center @ Walnut/Winton Library (northbound),,37.38930534,-120.6147015,559,,0,,America/Los_Angeles,,,0
+768390,4285,,Atwater Blvd near Hwy 99,,37.3496,-120.619,560,,0,,America/Los_Angeles,,,0
+768520,5481,,M St @ N. Bear Creek (northbound),,37.31361348,-120.4785687,561,,0,,America/Los_Angeles,,,0
+768396,4313,,Bellevue @ Winton / Jack in the Box (eastbound),,37.36034573,-120.6131019,560,,0,,America/Los_Angeles,,,0
+781906,244,,Meadows @ Olivewood (to First Christian Church),,37.31813155,-120.490585,561,,0,,America/Los_Angeles,,,0
+768576,5714,,Yosemite Pkwy @ Jean (westbound),,37.29528458,-120.458774,561,,0,,America/Los_Angeles,,,0
+768259,132,,Stanford Ave @ Sutter / El Mercado (eastbound),,37.29212442,-120.3206509,567,,0,,America/Los_Angeles,,,0
+768328,210,,21st @ G ST (westbound),,37.3023918,-120.4725337,561,,0,,America/Los_Angeles,,,0
+768479,5341,,K St @ 18th/ MCAG (northbound),,37.30199816,-120.481098,561,,0,,America/Los_Angeles,,,0
+768170,32,,Broadway @ Capitol St (westbound),,37.34285024,-120.5977714,560,,0,,America/Los_Angeles,,,0
+768278,152,,R St @ 23rd St (southbound),,37.31054582,-120.4891312,561,,0,,America/Los_Angeles,,,0
+768575,5713,,Yosemite Pkwy @ Carol (eastbound),,37.29515121,-120.455,561,,0,,America/Los_Angeles,,,0
+768220,92,,MLK JR Way @ Fairgrounds (northbound),,37.29145012,-120.4853761,561,,0,,America/Los_Angeles,,,0
+781935,297,,DMV,,37.301280219393,-120.49800024329,,,0,,America/Los_Angeles,,,0
+768275,149,,Hwy 140 @ Kibby Rd (westbound),,37.29531659,-120.4157782,561,,0,,America/Los_Angeles,,,0
+768504,5431,,M St @ 8th (northbound),,37.2928,-120.49,561,,0,,America/Los_Angeles,,,0
+768425,5134,,13th @ G St (westbound),,37.29467682,-120.4789464,561,,0,,America/Los_Angeles,,,0
+768535,5534,,Villa Estates MHP (westbound),,37.2806,-120.443,561,,0,,America/Los_Angeles,,,0
+768546,5591,,Parsons @ Golden Valley HS (northbound),,37.28899146,-120.4515762,561,,0,,America/Los_Angeles,,,0
+768434,5172,,G St @ 23rd (southbound),,37.30448053,-120.4725927,561,,0,,America/Los_Angeles,,,0
+768210,75,,Dan Ward Rd @ Franklin Rd (eastbound),,37.3316372,-120.5406404,561,,0,,America/Los_Angeles,,,0
+768495,5392,,M St @ N. Bear Creek (southbound),,37.31397,-120.478696,561,,0,,America/Los_Angeles,,,0
+768399,4325,,Atwater Transpo (westbound),,37.34551891,-120.6084734,560,,0,,America/Los_Angeles,,,0
+768290,164,,4th @ El Capitan (southbound),,37.43262214,-120.7751191,563,,0,,America/Los_Angeles,,,0
+768205,70,,Walnut Ave @ Dwight Way (eastbound),,37.38952271,-120.7047486,562,,0,,America/Los_Angeles,,,0
+768459,5261,,G St @ Gerard (northbound),,37.28114496,-120.482069,561,,0,,America/Los_Angeles,,,0
+768462,5273,,21st @ Glen (eastbound),,37.29933435,-120.4646239,561,,0,,America/Los_Angeles,,,0
+768404,4382,,F St @ 12th (southbound),,37.36161098,-120.5703351,560,,0,,America/Los_Angeles,,,0
+768295,169,,R St @ 8th St (southbound),,37.29571707,-120.4976406,561,,0,,America/Los_Angeles,,,0
+782482,,,Carver Center,,36.9746284004986,-120.644278024467,566,,0,,America/Los_Angeles,,,0
+781947,292,,7th St @ C St,,37.06602465,-120.8425337,565,,0,,America/Los_Angeles,,,0
+768519,5475,,Meadows @ Olive Merced Meadows Apts,,37.31909357,-120.4888764,561,,0,,America/Los_Angeles,,,0
+768335,222,,Turlock Transpo (to Merced),,37.5070108936289,-120.858549142397,564,,0,,America/Los_Angeles,,,0
+768571,5693,,Yosemite Av @ Paulson (eastbound),,37.33208507,-120.4604879,561,,0,,America/Los_Angeles,,,0
+768525,5495,,Merced College,,37.3346059,-120.4779786,561,,0,,America/Los_Angeles,,,0
+768411,4482,,Winton @ Doris/Winton PO (southbound),,37.38090411,-120.6136984,559,,0,,America/Los_Angeles,,,0
+768414,4512,,Winton @ Juniper/ St. Anthony (southbound),,37.35607109,-120.6138875,560,,0,,America/Los_Angeles,,,0
+768637,7235,,Dos Palos/Chics Market,,36.96452204,-120.6536257,566,,0,,America/Los_Angeles,,,0
+768211,76,,Dan Ward Rd @ Beachwood Dr (eastbound),,37.33171824,-120.5283022,561,,0,,America/Los_Angeles,,,0
+768357,259,,Dos Palos Golden Gate Bus Shelter (to Merced),,36.98517878,-120.6277424,566,,0,,America/Los_Angeles,,,0
+768407,4425,,Buhach @ Castle Park,,37.35908294,-120.5764506,560,,0,,America/Los_Angeles,,,0
+768184,47,,Juniper Ave @ Vann Ter (eastbound),,37.34975893,-120.5911517,560,,0,,America/Los_Angeles,,,0
+768628,6596,,Wilmott @ North,,37.0691,-120.8454399,565,,0,,America/Los_Angeles,,,0
+768531,5523,,Loughborough @ Laurel Glen Apts (eastbound),,37.32315699,-120.4814547,561,,0,,America/Los_Angeles,,,0
+782483,,,Reynolds Ave Stop,,36.9763383532029,-120.64478764418,566,,0,,America/Los_Angeles,,,0
+781943,289,,Ancona @ Coliseum Ct,,37.06722318,-120.8247721,,,0,,America/Los_Angeles,,,0
+781933,5502,,R St @ 10th,,37.2972,-120.497,561,,0,,America/Los_Angeles,,,0
+768307,188,,Motel Dr @ Courtyard by Marriot (to Transpo)),,37.2945719,-120.4649726,561,,0,,America/Los_Angeles,,,0
+768308,189,,Parsons St @ Yosemite Pkwy/Rancho San Miguel (soutbound),,37.29468499,-120.4516447,561,,0,,America/Los_Angeles,,,0
+768375,4194,,Bellevue @ 5th (westbound),,37.3605,-120.608,560,,0,,America/Los_Angeles,,,0
+768272,145,,Kibby Rd @ Hwy 140,,37.295090639448,-120.415516614785,561,,0,,America/Los_Angeles,,,0
+768209,74,,Dan Ward Rd @ Franklin Rd (westbound),,37.33169691,-120.5405438,561,,0,,America/Los_Angeles,,,0
+768202,67,,Walnut Ave @ Celia Dr (westbound),,37.38955255,-120.7175696,562,,0,,America/Los_Angeles,,,0
+835719,,,T St. @ 3rd St.,,37.2917890192752,-120.503653001637,,,0,,America/Los_Angeles,,,0
+768420,5121,,Beachwood @ Oakland (northbound),,37.3212,-120.528,561,,0,,America/Los_Angeles,,,0
+781908,282,,Main St @ Davis St,,37.3898168,-120.7211933,562,,0,,America/Los_Angeles,,,0
+768555,5624,,Merced Av @ Murthella (westbound),,37.2916,-120.456,561,,0,,America/Los_Angeles,,,0
+768384,4261,,Winton @ Fruitland/Atwater HS (northbound),,37.36388139,-120.6137896,560,,0,,America/Los_Angeles,,,0
+768304,182,,K St @ 18th/ MCAG (southbound),,37.30225525,-120.4811704,561,,0,,America/Los_Angeles,,,0
+768522,5483,,Devonwood Dr @ Dogwood (eastbound),,37.31631945,-120.4927911,561,,0,,America/Los_Angeles,,,0
+768526,5495,,To UC Merced from Merced College,,37.33478397,-120.4783849,561,,0,,America/Los_Angeles,,,0
+781940,6467,,San Luis @ Los Banos JHS,,37.0617,-120.8297081,565,,0,,America/Los_Angeles,,,0
+768327,209,,Childs @ G St (westbound),,37.28816389,-120.4813582,561,,0,,America/Los_Angeles,,,0
+768331,218,,Beachwood @ Oakland (southbound),,37.32075523,-120.5281788,561,,0,,America/Los_Angeles,,,0
+768523,5485,,Meadows @ Olivewood,,37.31796943,-120.4908049,561,,0,,America/Los_Angeles,,,0
+768201,66,,Walnut Ave @ Hammatt Ave (westbound),,37.38955681,-120.7124949,562,,0,,America/Los_Angeles,,,0
+781912,280,,Loughborough Dr & M St,,37.32278585,-120.4787993,561,,0,,America/Los_Angeles,,,0
+768219,91,,Hwy 59 @ Cone Ave (northbound),,37.28235928,-120.4875433,561,,0,,America/Los_Angeles,,,0
+768358,260,,Dollar General SB (To Merced),,36.99017498,-120.6356335,566,,0,,America/Los_Angeles,,,0
+781913,300,,Winton Pkwy @ Joseph Gallo Ct,,37.38791586,-120.7370237,562,,0,,America/Los_Angeles,,,0
+768581,5743,,Yosemite Pkwy @ Shirley (eastbound),,37.29511922,-120.4572357,561,,0,,America/Los_Angeles,,,0
+768467,5301,,G St @ Skylark (northbound),,37.28589972,-120.4820636,561,,0,,America/Los_Angeles,,,0
+768364,2111,,4th @ El Capitan (northbound),,37.4335,-120.776,563,,0,,America/Los_Angeles,,,0
+768557,5631,,R St @ 4th (northbound),,37.2912,-120.5,561,,0,,America/Los_Angeles,,,0
+768363,1115,,Fulkerth Shopping Center,,37.5074,-120.873,564,,0,,America/Los_Angeles,,,0
+768489,5365,,HSA,,37.2978429571871,-120.519375509262,561,,0,,America/Los_Angeles,,,0
+768346,235,,Atwater Transpo (eastbound),,37.34559613,-120.6084345,560,,0,,America/Los_Angeles,,,0
+768596,6193,,Los Banos Memorial Hospital (eastbound),,37.06339638,-120.8586967,565,,0,,America/Los_Angeles,,,0
+770324,,,Nob Hill (Newman),,37.3094007984002,-121.020239964565,572,,0,,America/Los_Angeles,,,0
+768238,111,,Bella @ Palermo (Northbound),,37.06905518,-120.8205771,565,,0,,America/Los_Angeles,,,0
+781815,,,Rite Aid Monte Vista Ave & Crowell Rd.,,37.5217682173104,-120.862156028311,,,0,,America/Los_Angeles,,,0
+768268,141,,Haskell Ave @ Fancher St (westbound),,37.29301209,-120.3142405,567,,0,,America/Los_Angeles,,,0
+781939,290,,Monte Vista Ave @ Page Ave,,37.04992615,-120.8441135,565,,0,,America/Los_Angeles,,,0
+768465,5293,,21st @ Yosemite Pkwy (eastbound),,37.29569853,-120.4547185,561,,0,,America/Los_Angeles,,,0
+768389,4284,,Bellevue @ Redwood (westbound),,37.3605,-120.602,560,,0,,America/Los_Angeles,,,0
+768212,79,,Olive @ Merced Mall (Westbound),,37.31936447,-120.4817498,561,,0,,America/Los_Angeles,,,0
+768564,5661,,R St @ Childs (northbound),,37.28846586,-120.5016138,561,,0,,America/Los_Angeles,,,0
+768190,53,,Anberry Outpatient center (southbound),,37.34889752,-120.5959314,560,,0,,America/Los_Angeles,,,0
+768466,5294,,21st & Yosemite Pkwy (westbound),,37.29559504,-120.4541954,561,,0,,America/Los_Angeles,,,0
+781956,281,,Fair Grounds,,37.29368304,-120.4789249,561,,0,,America/Los_Angeles,,,0
+768191,54,,Academy @ D St (Clockwise),,37.36318855,-120.5736718,560,,0,,America/Los_Angeles,,,0
+768455,5251,,G St @ El Portal (northbound),,37.32708155,-120.4690214,561,,0,,America/Los_Angeles,,,0
+781926,286,,Gurr Rd @ Valley Dr,,37.33084808,-120.5589759,561,,0,,America/Los_Angeles,,,0
+768165,27,,Buhach Rd @ Castlewood Ave (southbound),,37.35923389,-120.5767,560,,0,,America/Los_Angeles,,,0
+768565,5664,,Valley Community School (westbound),,37.29548302,-120.508427,561,,0,,America/Los_Angeles,,,0
+768516,5462,,West Av @ 1st (southbound),,37.2897872,-120.505823,561,,0,,America/Los_Angeles,,,0
+768552,5613,,R St @ Olive/Sears (northbound),,37.3206,-120.4867586,561,,0,,America/Los_Angeles,,,0
+768353,246,,Motel Dr @ Merced Ave (Northbound),,37.29174886,-120.4618371,561,,0,,America/Los_Angeles,,,0
+768274,147,,McDowell St @ Truman Ave (westbound),,37.23231874,-120.2586919,568,,0,,America/Los_Angeles,,,0
+844203,,,Foster Farms,,37.3911661071621,-120.722594126845,562,,0,,America/Los_Angeles,,,0
+768207,72,,Walnut Ave @ Barbera Ave (eastbound),,37.38933518,-120.628649,559,,0,,America/Los_Angeles,,,0
+768432,5162,,G St @ 21st (southbound),,37.30248781,-120.473738,561,,0,,America/Los_Angeles,,,0
+768497,5402,,Social Security Office (southbound),,37.31842165,-120.4785848,561,,0,,America/Los_Angeles,,,0
+768486,5355,,Gerard @ Parsons/Cal Storage,,37.2806,-120.446,561,,0,,America/Los_Angeles,,,0
+768513,5454,,Amtrak,,37.3069900051686,-120.476799906746,561,,0,,America/Los_Angeles,,,0
+770327,,,Gustine Al-Goman Community Center,,37.2519566974788,-121.00809194595,570,,0,,America/Los_Angeles,,,0
+768288,162,,Schendel Ave @ Mimosa Ave (eastbound),,37.42671368,-120.7840616,563,,0,,America/Los_Angeles,,,0
+768480,5342,,M St @ 26th (southbound),,37.31041889,-120.4800788,561,,0,,America/Los_Angeles,,,0
+768463,5281,,G St @ N. Bear Creek Dr (northbound),,37.31030475,-120.4693231,561,,0,,America/Los_Angeles,,,0
+768436,5175,,Alexander @ Aspen,,37.31563576,-120.456301,561,,0,,America/Los_Angeles,,,0
+782489,,,Obanion Park ,,36.9923358987428,-120.62618719472,566,,0,,America/Los_Angeles,,,0
+768172,34,,Buhach Rd @ Garden (southbound),,37.35567773,-120.5767,560,,0,,America/Los_Angeles,,,0
+768573,5703,,Yosemite Ave @ Perch (eastbound),,37.33205094,-120.4386225,561,,0,,America/Los_Angeles,,,0
+768457,5253,,21st @ Cherry (eastbound),,37.29750793,-120.4596457,561,,0,,America/Los_Angeles,,,0
+768509,5444,,8th St @ T St (westbound),,37.2967,-120.501,561,,0,,America/Los_Angeles,,,0
+768332,219,,Cooper @ Scholle Corp (easttbound),,37.31629705,-120.5175894,561,,0,,America/Los_Angeles,,,0
+768563,5655,,Stretch @ Green,,37.30036586,-120.455941,561,,0,,America/Los_Angeles,,,0
+768440,5191,,G St @ Alpine (northbound),,37.31226953,-120.4692614,561,,0,,America/Los_Angeles,,,0
+768302,180,,Amtrak (To Transpo),,37.30698,-120.476782,561,,0,,America/Los_Angeles,,,0
+768475,5331,,Hwy 59 @ Riviera Holiday Mobile Estates (northbound),,37.31157827,-120.5050644,561,,0,,America/Los_Angeles,,,0
+768380,4234,,Bellevue @ Brownell (westbound),,37.36053437,-120.5939144,560,,0,,America/Los_Angeles,,,0

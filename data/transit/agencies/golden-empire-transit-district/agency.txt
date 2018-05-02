@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_phone,agency_timezone,agency_lang
+1,"Golden Empire Transit District","http://www.getbus.org/","(661) 869-2438","America/Los_Angeles","en"

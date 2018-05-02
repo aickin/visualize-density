@@ -1,0 +1,30 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,lavta-ca-us,1,Santa Rita Jail,,3,,8000FF,FFFFFF
+10R,lavta-ca-us,10R,Pleasanton - Livermore via Stanley,,3,,FF0000,FFFFFF
+11,lavta-ca-us,11,Greenville,,3,,000000,FFFFFF
+14,lavta-ca-us,14,Pleasanton - Livermore via Outlets,,3,,800080,FFFFFF
+15,lavta-ca-us,15,Springtown,,3,,004080,FFFFFF
+2,lavta-ca-us,2,East Dublin,,3,,0AC90A,FFFFFF
+20X,lavta-ca-us,20X,Vasco,,3,,FF0080,FFFFFF
+3,lavta-ca-us,3,Stoneridge,,3,,3399FF,FFFFFF
+30R,lavta-ca-us,30R,Dublin - Livermore via College,,3,,00CC00,FFFFFF
+501,lavta-ca-us,501,Positano Hill,,3,,FF4F4F,FFFFFF
+502,lavta-ca-us,502,Emerald Glen,,3,,FF4F4F,FFFFFF
+503,lavta-ca-us,503,Shannon Park,,3,,FF4F4F,FFFFFF
+504,lavta-ca-us,504,Dublin Ranch,,3,,FF4F4F,FFFFFF
+53,lavta-ca-us,53,Stoneridge,,3,,3366CC,FFFFFF
+54,lavta-ca-us,54,Hacienda,,3,,663300,FFFFFF
+580X,lavta-ca-us,580X,580 Express,,3,,0000FF,FFFFFF
+601,lavta-ca-us,601,Ruby Hill,,3,,FF4F4F,FFFFFF
+602,lavta-ca-us,602,Del Prado Park,,3,,FF4F4F,FFFFFF
+603,lavta-ca-us,603,Muirwood Park,,3,,FF4F4F,FFFFFF
+604,lavta-ca-us,604,Fairlands,,3,,FF4F4F,FFFFFF
+605,lavta-ca-us,605,Fairlands,,3,,FF4F4F,FFFFFF
+606,lavta-ca-us,606,Vintage Hills,,3,,FF4F4F,FFFFFF
+607,lavta-ca-us,607,Laguna Oaks,,3,,FF4F4F,FFFFFF
+608,lavta-ca-us,608,Amaral Park,,3,,FF4F4F,FFFFFF
+609,lavta-ca-us,609,Del Prado Park,,3,,FF4F4F,FFFFFF
+610,lavta-ca-us,610,Fairlands,,3,,FF4F4F,FFFFFF
+611,lavta-ca-us,611,Ruby Hill,,3,,FF4F4F,FFFFFF
+70X,lavta-ca-us,70X,Pleasant Hill,,3,,336600,FFFFFF
+8,lavta-ca-us,8,Hopyard,,3,,CC0066,FFFFFF

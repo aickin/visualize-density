@@ -1,0 +1,8 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_757_b_6408_d_31,School Calendar (Monday-Friday),1,1,1,1,1,0,0,20180402,20180531
+c_757_b_6407_d_31,School Calendar (Monday-Friday),1,1,1,1,1,0,0,20180116,20180323
+c_757_b_3296_d_31,School Calendar (Monday-Friday),1,1,1,1,1,0,0,20170807,20171215
+c_153_b_252_d_64,Year-round service (Sunday only),0,0,0,0,0,0,1,20140101,20190101
+c_153_b_252_d_32,Year-round service (Saturday only),0,0,0,0,0,1,0,20140101,20190101
+c_153_b_252_d_31,Year-round service (Monday-Friday),1,1,1,1,1,0,0,20140101,20190101
+c_153_b_252_d_127,Year-round service (All days of week),1,1,1,1,1,1,1,20140101,20190101

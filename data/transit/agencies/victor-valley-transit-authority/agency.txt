@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+493,http://www.vvta.org,en,Victor Valley Transit Authority,(760) 948-3030,America/Los_Angeles,http://vvta.org/fares/

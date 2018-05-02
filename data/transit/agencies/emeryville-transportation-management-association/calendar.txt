@@ -1,0 +1,4 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_2672_b_2000_d_64,"Year Round Starting April 22,2017 (Sunday only)",0,0,0,0,0,0,1,20170422,20180430
+c_2672_b_2000_d_32,"Year Round Starting April 22,2017 (Saturday only)",0,0,0,0,0,1,0,20170422,20180430
+c_2672_b_2000_d_31,"Year Round Starting April 22,2017 (Monday-Friday)",1,1,1,1,1,0,0,20170422,20180430

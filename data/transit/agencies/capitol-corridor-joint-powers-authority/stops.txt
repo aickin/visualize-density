@@ -1,0 +1,19 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+ARN,ARN,Auburn-Conheim,Robert F. Conheim Memorial Auburn Station,38.9038310,-121.0829220,,http://capitolcorridor.org/stations/auburn.php,0,,,1
+BKY,BKY,Berkeley,Berkeley Station,37.8674390,-122.3009080,,http://capitolcorridor.org/stations/berkeley.php,0,,,1
+DAV,DAV,Davis,Davis Station,38.5434940,-121.7377580,,http://capitolcorridor.org/stations/davis.php,0,,,1
+EMY,EMY,Emeryville,Emeryville Station,37.8404230,-122.2918080,,http://capitolcorridor.org/stations/emeryville.php,0,,,1
+FFV,FFV,Fairfield-Vacaville,,38.2853976,-121.9680691,,http://capitolcorridor.org/stations/fairfield-vacaville.php,0,,,1
+FMT,FMT,Fremont,Fremont Centerville Station,37.5591420,-122.0073820,,http://capitolcorridor.org/stations/fremont.php,0,,,1
+GAC,GAC,Great America-Santa Clara,Great America/Santa Clara Station,37.4068770,-121.9671320,,http://capitolcorridor.org/stations/santa-clara-great-america.php,0,,,1
+HAY,HAY,Hayward,Hayward Platform,37.6659620,-122.0993210,,http://capitolcorridor.org/stations/hayward.php,0,,,1
+MTZ,MTZ,Martinez,Martinez Station,38.0190790,-122.1388300,,http://capitolcorridor.org/stations/martinez.php,0,,,1
+OAC,OAC,Oakland Coliseum,Oakland Coliseum Intermodal Station. Transfer to BART here.,37.7524810,-122.1982180,,http://capitolcorridor.org/stations/oakland-coliseum.php,0,,,1
+OKJ,OKJ,Oakland Jack London,Oakland Jack London Station,37.7937150,-122.2715210,,http://capitolcorridor.org/stations/oakland-jack-london.php,0,,,1
+RIC,RIC,Richmond,Richmond Intermodal Station. Transfer to BART here.,37.9367660,-122.3538960,,http://capitolcorridor.org/stations/richmond.php,0,,,1
+RLN,RLN,Rocklin,Rocklin Station,38.7910510,-121.2373970,,http://capitolcorridor.org/stations/rocklin.php,0,,,1
+RSV,RSV,Roseville,Roseville Station,38.7499590,-121.2862710,,http://capitolcorridor.org/stations/roseville.php,0,,,1
+SAC,SAC,Sacramento,Sacramento Valley Station,38.5840040,-121.5006990,,http://capitolcorridor.org/stations/sacramento.php,0,,,1
+SCC,SCC,University-Santa Clara,University/Santa Clara Station,37.3532180,-121.9364530,,http://capitolcorridor.org/stations/santa-clara-university.php,0,,,1
+SJC,SJC,San Jose,San Jose Diridon Station,37.3299350,-121.9024960,,http://capitolcorridor.org/stations/san-jose.php,0,,,1
+SUI,SUI,Suisun-Fairfield,Suisun-Fairfield Station,38.2434460,-122.0411920,,http://capitolcorridor.org/stations/suisun-fairfield.php,0,,,1

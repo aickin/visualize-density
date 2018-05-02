@@ -1,0 +1,8 @@
+service_id,service_description
+c_70_b_207_d_32,Year-round (Saturday only)
+c_70_b_207_d_31,Year-round (Monday-Friday)
+c_70_b_207_d_15,Year-round (Monday-Thursday)
+c_2557_b_230_d_32,Starting Jan. 9th (Saturday only)
+c_2557_b_230_d_31,Starting Jan. 9th (Monday-Friday)
+c_2557_b_230_d_16,Starting Jan. 9th (Friday only)
+c_2557_b_230_d_15,Starting Jan. 9th (Monday-Thursday)

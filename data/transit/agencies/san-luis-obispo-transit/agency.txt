@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang,agency_fare_url,agency_primary
+SLOT,City of San Luis Obispo Transit,http://www.slotransit.org,America/Los_Angeles,(805) 541-2877,en,http://www.slocity.org/government/department-directory/public-works/slo-transit/fare-information,1

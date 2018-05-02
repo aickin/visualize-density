@@ -1,0 +1,5 @@
+route_id,direction_id,direction
+DB1-131,0,East
+DB1-131,1,West
+DB-131,0,East
+DB-131,1,West

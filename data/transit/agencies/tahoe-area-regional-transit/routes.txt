@@ -1,0 +1,25 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+458,5410,10,Orange,,3,http://www.tahoetransportation.org/images/assets/transit/2016-17_Heavenly_Shuttle_Guide-online.pdf,b86f25,ffffff,0,30
+16,2596,Blue,"Carnelian Bay Tahoe Vista, Kings Beach, Crystal Bay, Incline Village",North Lake Tahoe Express - Blue Route,3,http://bit.ly/1SZg413,139deb,000000,1,
+458,5411,11,Green,,3,http://www.tahoetransportation.org/images/assets/transit/2016-17_Heavenly_Shuttle_Guide-online.pdf,317537,ffffff,1,10
+458,3130,30,Emerald Bay Trolley,,3,http://www.tahoetransportation.org/images/assets/transit/trolley/2017-Route_30_web.pdf,e6852c,ffffff,10,
+14,7080,,TART Highway 267 Night Service,,3,,ffffff,000000,10,
+458,3124,50,,,3,http://www.tahoetransportation.org/transit/south-shore-services,ffffff,000000,11,
+458,3125,53,,,3,http://www.tahoetransportation.org/transit/south-shore-services,ffffff,000000,12,
+458,3132,53,Late Night,,3,http://www.tahoetransportation.org/transit/south-shore-services,ffffff,000000,13,
+14,174,,Highway 267,,3,,fa4502,000000,2,
+16,2594,Red,"Squaw Valley, Tahoe City, West Shore",,3,http://bit.ly/1SZg413,c40d20,ffffff,2,
+458,5412,12,Red,,3,http://www.tahoetransportation.org/images/assets/transit/2016-17_Heavenly_Shuttle_Guide-online.pdf,c22b2e,ffffff,2,30
+16,2595,Green,"Truckee, Northstar",,3,http://bit.ly/1SZg413,35a239,000000,3,
+458,5413,13,Yellow,,3,http://www.tahoetransportation.org/images/assets/transit/2016-17_Heavenly_Shuttle_Guide-online.pdf,f0c726,000000,3,
+14,91,,TART Highway 89,,3,http://www.placer.ca.gov/Departments/Works/Transit/TART/Schedules.aspx,ffffff,000000,4,
+458,5415,15,Blue,,3,http://www.tahoetransportation.org/images/assets/transit/2016-17_Heavenly_Shuttle_Guide-online.pdf,1c5b97,ffffff,5,60
+14,90,,TART Mainline,,3,http://www.laketahoetransit.com/pdf/2016_TART_spring.pdf,ffffff,000000,5,
+458,3127,,19X,,3,http://www.tahoetransportation.org/transit/south-shore-services,ffffff,000000,6,
+14,274,,Truckee Local,,3,http://www.laketahoetransit.com/pdf/2016_brochure_spring.pdf,ffffff,000000,7,60
+458,3128,,20X,,3,http://www.tahoetransportation.org/transit/south-shore-services,ffffff,000000,7,
+458,3126,23,,,3,http://www.tahoetransportation.org/transit/south-shore-services,ffffff,000000,8,
+14,7079,,TART Mainline Night Service,,3,http://www.laketahoetransit.com/,ffffff,000000,8,
+458,3131,28,East Shore Express,,3,http://www.tahoetransportation.org/images/assets/transit/eastshoreexpress/2017_ESE_Brochure_Final-web.pdf,124482,ffffff,9,40
+14,7078,,TART Highway 89 Night Service,,3,http://www.placer.ca.gov/Departments/Works/Transit/TART.aspx,ffffff,000000,9,
+14,7403,,Donner Summit Shuttle,,3,,ffffff,000000,,

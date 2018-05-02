@@ -1,0 +1,5 @@
+route_id,direction_id,Direction
+2118,1,Southbound
+2118,0,Northbound
+1714,1,Outbound
+1714,0,Inbound

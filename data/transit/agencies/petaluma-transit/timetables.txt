@@ -1,0 +1,61 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+3,2034,0,20180107,20180107,1,1,1,1,1,0,0,Route 10,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),North,horizontal
+4,2034,1,20180107,20180107,1,1,1,1,1,0,0,Route 10,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),South,horizontal
+7,2034,0,20180319,20180325,1,1,1,1,1,0,0,Route 10,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),North,horizontal
+8,2034,1,20180319,20180325,1,1,1,1,1,0,0,Route 10,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),South,horizontal
+11,2034,0,20180604,20180815,1,1,1,1,1,0,0,Route 10,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),North,horizontal
+12,2034,1,20180604,20180815,1,1,1,1,1,0,0,Route 10,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),South,horizontal
+19,2039,0,20180107,20180107,0,0,0,0,0,0,1,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),East,horizontal
+20,2039,0,20180107,20180107,0,0,0,0,0,1,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),East,horizontal
+21,2039,0,20180107,20180107,1,1,1,1,1,0,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),East,horizontal
+22,2039,1,20180107,20180107,0,0,0,0,0,0,1,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),West,horizontal
+23,2039,1,20180107,20180107,0,0,0,0,0,1,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),West,horizontal
+24,2039,1,20180107,20180107,1,1,1,1,1,0,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),West,horizontal
+31,2039,0,20180319,20180325,0,0,0,0,0,0,1,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),East,horizontal
+32,2039,0,20180319,20180325,0,0,0,0,0,1,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),East,horizontal
+33,2039,0,20180319,20180325,1,1,1,1,1,0,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),East,horizontal
+34,2039,1,20180319,20180325,0,0,0,0,0,0,1,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),West,horizontal
+35,2039,1,20180319,20180325,0,0,0,0,0,1,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),West,horizontal
+36,2039,1,20180319,20180325,1,1,1,1,1,0,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),West,horizontal
+43,2039,0,20180604,20180815,0,0,0,0,0,0,1,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),East,horizontal
+44,2039,0,20180604,20180815,0,0,0,0,0,1,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),East,horizontal
+45,2039,0,20180604,20180815,1,1,1,1,1,0,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),East,horizontal
+46,2039,1,20180604,20180815,0,0,0,0,0,0,1,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),West,horizontal
+47,2039,1,20180604,20180815,0,0,0,0,0,1,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),West,horizontal
+48,2039,1,20180604,20180815,1,1,1,1,1,0,0,Route 11,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),West,horizontal
+55,2036,0,20180107,20180107,0,0,0,0,0,0,1,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),North,horizontal
+56,2036,0,20180107,20180107,0,0,0,0,0,1,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),North,horizontal
+57,2036,0,20180107,20180107,1,1,1,1,1,0,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),North,horizontal
+58,2036,1,20180107,20180107,0,0,0,0,0,0,1,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),South,horizontal
+59,2036,1,20180107,20180107,0,0,0,0,0,1,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),South,horizontal
+60,2036,1,20180107,20180107,1,1,1,1,1,0,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),South,horizontal
+67,2036,0,20180319,20180325,0,0,0,0,0,0,1,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),North,horizontal
+68,2036,0,20180319,20180325,0,0,0,0,0,1,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),North,horizontal
+69,2036,0,20180319,20180325,1,1,1,1,1,0,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),North,horizontal
+70,2036,1,20180319,20180325,0,0,0,0,0,0,1,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),South,horizontal
+71,2036,1,20180319,20180325,0,0,0,0,0,1,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),South,horizontal
+72,2036,1,20180319,20180325,1,1,1,1,1,0,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),South,horizontal
+79,2036,0,20180604,20180815,0,0,0,0,0,0,1,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),North,horizontal
+80,2036,0,20180604,20180815,0,0,0,0,0,1,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),North,horizontal
+81,2036,0,20180604,20180815,1,1,1,1,1,0,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),North,horizontal
+82,2036,1,20180604,20180815,0,0,0,0,0,0,1,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),South,horizontal
+83,2036,1,20180604,20180815,0,0,0,0,0,1,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),South,horizontal
+84,2036,1,20180604,20180815,1,1,1,1,1,0,0,Route 2,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),South,horizontal
+87,2040,0,20180107,20180107,1,1,1,1,1,0,0,Route 24,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),North,horizontal
+88,2040,1,20180107,20180107,1,1,1,1,1,0,0,Route 24,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),South,horizontal
+91,2040,0,20180319,20180325,1,1,1,1,1,0,0,Route 24,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),North,horizontal
+92,2040,1,20180319,20180325,1,1,1,1,1,0,0,Route 24,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),South,horizontal
+95,2040,0,20180604,20180815,1,1,1,1,1,0,0,Route 24,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),North,horizontal
+96,2040,1,20180604,20180815,1,1,1,1,1,0,0,Route 24,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),South,horizontal
+98,2037,0,20180107,20180107,1,1,1,1,1,0,0,Route 3,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),Loop,horizontal
+100,2037,0,20180319,20180325,1,1,1,1,1,0,0,Route 3,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),Loop,horizontal
+103,2037,0,20180604,20180815,1,1,1,1,1,0,0,Route 3,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),Loop,horizontal
+129,2038,0,20180107,20180107,0,0,0,0,0,0,1,Route 33,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),Loop,horizontal
+130,2038,0,20180107,20180107,0,0,0,0,0,1,0,Route 33,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),Loop,horizontal
+131,2038,0,20180107,20180107,1,1,1,1,1,0,0,Route 33,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),Loop,horizontal
+135,2038,0,20180319,20180325,0,0,0,0,0,0,1,Route 33,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),Loop,horizontal
+136,2038,0,20180319,20180325,0,0,0,0,0,1,0,Route 33,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),Loop,horizontal
+137,2038,0,20180319,20180325,1,1,1,1,1,0,0,Route 33,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),Loop,horizontal
+142,2038,0,20180604,20180815,0,0,0,0,0,0,1,Route 33,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Sunday only),Loop,horizontal
+143,2038,0,20180604,20180815,0,0,0,0,0,1,0,Route 33,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Saturday only),Loop,horizontal
+144,2038,0,20180604,20180815,1,1,1,1,1,0,0,Route 33,Starting 1/7/18 NON-SCHOOLDAY SERVICE (Monday-Friday),Loop,horizontal

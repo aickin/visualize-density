@@ -1,0 +1,5 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_1768_b_79_d_31,Sacramento Routes Year Round (Monday-Friday),1,1,1,1,1,0,0,20130101,20190101
+c_145_b_631_d_32,Year-round service (Saturday only),0,0,0,0,0,1,0,20130101,20190101
+c_145_b_631_d_31,Year-round service (Monday-Friday),1,1,1,1,1,0,0,20130101,20190101
+c_145_b_631_d_14,Year-round service,0,1,1,1,0,0,0,20130101,20190101

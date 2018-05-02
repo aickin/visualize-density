@@ -1,0 +1,317 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+10453,017,,N. 9th St. & Magnolia St.,,37.5931386,-120.9480132,,,0,,America/Los_Angeles,,,0
+10548,112,,Mitchell SW & Hatch ,,37.607358,-120.9388921,,,0,,America/Los_Angeles,,,0
+2330975,,,Monte Vista & Geer,,37.52206,-120.84958,,,0,,America/Los_Angeles,,,0
+2331025,,,Hawkeye & Olive,,37.50741,-120.83942,,,0,,America/Los_Angeles,,,0
+10380,,,W. Monte Vista Ave. & N. Walnut Rd.,,37.5217176,-120.8669631,,,0,,America/Los_Angeles,,,0
+2331056,,,Tully & Canal,,37.50093,-120.87188,,,0,,America/Los_Angeles,,,0
+2331029,,,Turlock Transit Center,,37.5068894682096,-120.858787201223,,,0,2332147,,,,0
+2330960,,,Monte Vista & Walnut,,37.52174,-120.86677,,,0,,America/Los_Angeles,,,0
+841003,115,,Iron Horse Pkway (Dublin Bart Station),,37.702881,-121.897639,,,0,,America/Los_Angeles,,,0
+801459,060,,Kern St. & S St.,,37.315932520941,-121.02809532639,,,0,,America/Los_Angeles,,,0
+10456,,,Rohde Rd. & Esmail Ave.,,37.559532,-120.919032,,,0,,America/Los_Angeles,,,0
+10454,018,,Mitchell Rd. & E. Whitmore Ave. (Whitmore Plaza),,37.59361675,-120.9388543,,,0,,America/Los_Angeles,,,0
+2330977,,,Monte Vista & Crowell,,37.52202,-120.86314,,,0,,America/Los_Angeles,,,0
+2331043,,,5th Street & Linwood,,37.47832,-120.83581,,,0,,America/Los_Angeles,,,0
+840914,112,, Mitchell Rd & E. Hatch Rd (Walmart),,37.60698236217,-120.93854582823,,,0,,America/Los_Angeles,,,0
+10516,,,Mitchell E & Wal-Mart,,37.6064067,-120.9385888,,,0,,America/Los_Angeles,,,0
+10504,032,,Richland Ave. & Herndon Rd. (SRC),,37.60068517,-120.9657908,,,0,,America/Los_Angeles,,,0
+10476,,,Hwy 33 & Valley Oak Dr.,,37.309298,-121.0191933,,,0,,America/Los_Angeles,,,0
+2330995,,,Christoffersen & Geer,,37.52917,-120.84745,,,0,,America/Los_Angeles,,,0
+2331049,,,Golden State & Canal,,37.50002,-120.85027,,,0,,America/Los_Angeles,,,0
+10452,,,Magnolia SE @ Third (near community center),,37.5931282262669,-120.954397916794,,,0,,America/Los_Angeles,,,0
+10425,097,,Patterson Rd. & Jackson Ave.,,37.7328,-120.950524,,,0,,America/Los_Angeles,,,0
+2325079,,,Ninth & Magnolia,,37.5931261,-120.9480196,,,0,,America/Los_Angeles,,,0
+840922,056,,N. First St. & W. Las Palmas Ave.,,37.473325311589,-121.128017349,,,0,,America/Los_Angeles,,,0
+2331035,,,A Street & Broadway/City Hall,,37.49163,-120.84727,,,0,,America/Los_Angeles,,,0
+2331009,,,Olive & Hawkeye,,37.50697,-120.84,,,0,,America/Los_Angeles,,,0
+10447,110,,"Hughson (Resource Center, 3rd & Hughson)",,37.59666653,-120.8668994,,,0,,America/Los_Angeles,,,0
+10444,,,Crows Landing Rd. & Whitmore,,37.59618924,-120.9934229,,,0,,America/Los_Angeles,,,0
+10393,012,,9th St. & K St. (DoubleTree),,37.64120493,-121.0027582,,,0,,America/Los_Angeles,,,0
+10518,,,Moffett SW & Glasgow,,37.607802,-120.947978,,,0,,America/Los_Angeles,,,0
+10427,,,McHenry Ave. & Kiernan Ave.,,37.71025916,-120.9950673,,,0,,America/Los_Angeles,,,0
+10455,019,,Faith Home Rd. & Club Dr. (Western Mobile Estates),,37.56860777,-120.9204675,,,0,,America/Los_Angeles,,,0
+801462,093,,W. F St. & Oak Ave.,,37.7603641063808,-120.862212694443,,,0,,America/Los_Angeles,,,0
+10450,014,,E. Hatch Rd. & Herndon Rd. (Radio Shack),,37.6091495,-120.9706809,,,0,,America/Los_Angeles,,,0
+2330962,3,,Monte Vista & Dels,,37.52172,-120.85758,,,0,,America/Los_Angeles,,,0
+10434,,,Crows Landing Rd. & Whitmore Ave. (Garton Tractor),,37.595916,-120.993756,,,0,,America/Los_Angeles,,,0
+2325075,,,Sixth St. & Magnolia Ave.,,37.5929348,-120.9511096,,,0,,America/Los_Angeles,,,0
+2331033,,,Golden State & Geer,,37.49813,-120.84872,,,0,,America/Los_Angeles,,,0
+10419,,,W. F St. & N. Lee Ave.,,37.75892901,-120.8655805,,,0,,America/Los_Angeles,,,0
+2331008,,,Hawkeye & Denair,,37.50717,-120.84382,,,0,,America/Los_Angeles,,,0
+2331027,,,Hawkeye & Geer,,37.50743,-120.84987,,,0,,America/Los_Angeles,,,0
+758782,065,,Rogers Rd. & Speno Dr.,,37.465832,-121.175533,,,0,,America/Los_Angeles,,,0
+10440,039,,Howard Rd. & Livingston Circle,,37.54261868,-121.2010575,,,0,,America/Los_Angeles,,,0
+2331019,,,East & Colorado,,37.49253,-120.83351,,,0,,America/Los_Angeles,,,0
+10445,043,,Crows Landing Rd. & Winmoore Way (Mi Pueblo),,37.60680895,-120.993382,,,0,,America/Los_Angeles,,,0
+10422,094,,Patterson Rd. & 8th St.,,37.732736,-120.92652,,,0,,America/Los_Angeles,,,0
+10438,038,,Mary St. & Laird St.,,37.562218074645,-121.17820680141,,,0,,America/Los_Angeles,,,0
+10487,062,,Hwy 33 & 5th St.,,37.39400409,-121.0722198,,,0,,America/Los_Angeles,,,0
+2331042,,,Linwood & Amberwood,,37.47806,-120.83989,,,0,,America/Los_Angeles,,,0
+2325071,,,E Hatch Rd & Central Ave,,37.6091225,-120.9597998,,,0,,America/Los_Angeles,,,0
+2331050,,,Golden State & Almond,,37.50384,-120.8546,,,0,,America/Los_Angeles,,,0
+10462,,,E. Las Palmas Ave. & Weber Dr.,,37.47389041,-121.1252885,,,0,,America/Los_Angeles,,,0
+10508,033,,Hatch NW & Richland,,37.60940036,-120.9674717,,,0,,America/Los_Angeles,,,0
+10395,034,, College Ave. & Morris Ave. (MJC),,37.650913,-121.007583,,,0,,America/Los_Angeles,,,0
+2330965,004,,Geer & Minnesota,,37.51597,-120.84904,,,0,,America/Los_Angeles,,,0
+10459,,, Lander Ave. &  W. Main St.  (Community Services Agency),,37.49243757,-120.8488312,,,0,,America/Los_Angeles,,,0
+2330992,,,Christoffersen & Walnut,,37.52905,-120.86795,,,0,,America/Los_Angeles,,,0
+10385,006,,Golden State Blvd. & Geer Rd. (Big 5),,37.49813944,-120.8487263,,,0,,America/Los_Angeles,,,0
+10549,,,Mitchell W & Autozone,,37.60466337,-120.938876,,,0,,America/Los_Angeles,,,0
+10484,,,Kern St. & R St. (Library),,37.31621,-121.027584,,,0,,America/Los_Angeles,,,0
+10495,,,Colorado Ave. & E. Main St. (Turlock Medical Clinic),,37.50220749,-120.835485,,,0,,America/Los_Angeles,,,0
+2331016,,,Alpha & Cottonwood,,37.49012,-120.83455,,,0,,America/Los_Angeles,,,0
+2331026,,,Hawkeye & Denair,,37.5074,-120.84342,,,0,,America/Los_Angeles,,,0
+2330987,,,Golden State & Tuolomne,,37.5152,-120.8696,,,0,,America/Los_Angeles,,,0
+12140,,,Del's Ln.,,37.5063768273798,-120.857988595963,,,0,,America/Los_Angeles,,,0
+16286,,,Blaker NW & Sungate  ,,37.58442468,-120.9661245,,,0,,America/Los_Angeles,,,0
+12510,101,,McHenry Ave. & W. Union Ave.,,37.692942,-120.994534,,,0,,America/Los_Angeles,,,0
+2330982,,,Tully & Tuolumne,,37.51361,-120.87186,,,0,,America/Los_Angeles,,,0
+2331061,,,West & Vermont,,37.48856,-120.85812,,,0,,America/Los_Angeles,,,0
+10501,029,,Mitchell Rd. & Colleen Way (Burger King),,37.592666,-120.938576,,,0,,America/Los_Angeles,,,0
+10478,058,,Inyo Ave. & Main St.,,37.311184,-121.021409,,,0,,America/Los_Angeles,,,0
+2330989,,,Golden State & Roberts,,37.52599,-120.8819,,,0,,America/Los_Angeles,,,0
+10390,,,Fulkerth & Joett,,37.50740749,-120.8635031,,,0,,America/Los_Angeles,,,0
+2331024,,,Hawkeye & Colorado,,37.5074,-120.8364,,,0,,America/Los_Angeles,,,0
+2331046,,,Golden State & Minerva,,37.49164,-120.8424,,,0,,America/Los_Angeles,,,0
+2331020,,,Colorado & Marshall,,37.49649,-120.83321,,,0,,America/Los_Angeles,,,0
+10448,,,Yosemite Blvd. & South Western Ave. (Valley IGA),,37.637203,-120.76719,,,0,,America/Los_Angeles,,,0
+2330959,022,,Monte Vista & Summer Creek,,37.52169,-120.87348,,,0,,America/Los_Angeles,,,0
+16282,,,Hackett NW & Ferris,,37.5876108,-120.9634074,,,0,,America/Los_Angeles,,,0
+2325077,,,Central Ave. & Service Rd.,,37.5808112,-120.9568602,,,0,,America/Los_Angeles,,,0
+2331021,,,Colorado & Canal,,37.50064,-120.83333,,,0,,America/Los_Angeles,,,0
+2325072,,,Mitchell SE & Fowler,,37.601614,-120.9388733,,,0,,America/Los_Angeles,,,0
+10413,088,,E. G St. & S. 2nd Ave. (Library),,37.76456353,-120.8481605,,,0,,America/Los_Angeles,,,0
+10465,070,,Hwy 33 & 5th St.,,37.39340846,-121.0720451,,,0,,America/Los_Angeles,,,0
+2325076,,,Sixth NW & Park,,37.5888212,-120.9510921,,,0,,America/Los_Angeles,,,0
+2330972,,,Geer & North,,37.51033,-120.84872,,,0,,America/Los_Angeles,,,0
+2331065,,,Soderquist & High,,37.48934,-120.86257,,,0,,America/Los_Angeles,,,0
+2331000,,,Delbon & Olive,,37.51055,-120.83768,,,0,,America/Los_Angeles,,,0
+10530,,,Nadine SW & Musick,,37.61294095,-120.9709941,,,0,,America/Los_Angeles,,,0
+10379,002,,W. Monte Vista Ave.  & Countryside Dr. (Safeway Gas Station),,37.52168277,-120.8825254,,,0,,America/Los_Angeles,,,0
+2330981,,,Tuolumne & Countryside,,37.51443,-120.87737,,,0,,America/Los_Angeles,,,0
+842384,064,,Ward Ave & E Las Palmas Ave (Walmart),,37.461797,-121.141104,,,0,,America/Los_Angeles,,,0
+2325078,,,Fifth St. & North St.,,37.5919201,-120.9521133,,,0,,America/Los_Angeles,,,0
+2330973,,,Geer & Tuolumne,,37.51512,-120.84876,,,0,,America/Los_Angeles,,,0
+2331011,,,Canal & Main,,37.50022,-120.83893,,,0,,America/Los_Angeles,,,0
+2331044,,,5th Street & Rockwood,,37.48297,-120.84113,,,0,,America/Los_Angeles,,,0
+10406,084,,Patterson Rd. & 3rd St.,,37.73260017,-120.9354601,,,0,,America/Los_Angeles,,,0
+2331069,,,Tully & Canal,,37.50066,-120.87168,,,0,,America/Los_Angeles,,,0
+10499,,,Rohde Rd. & Esmail Ave.,,37.55995794,-120.9194961,,,0,,America/Los_Angeles,,,0
+10512,,,Whitmore SW & Rose,,37.59461784,-120.9435647,,,0,,America/Los_Angeles,,,0
+10418,086,,W. F St. & Oak Ave.,,37.7601268815859,-120.862138133135,,,0,,America/Los_Angeles,,,0
+10421,,,Claus Rd. & S. Sierra Ave.,,37.73385923,-120.9222498,,,0,,America/Los_Angeles,,,0
+10397,074,,College Ave. & Granger Ave.,,37.6673453618776,-121.007533818483,,,0,,America/Los_Angeles,,,0
+2330969,,,Turlock Transit Center,,37.506935408783,-120.85873043684,,,0,2332147,,,,0
+2325074,,,Whitmore NW & Rose,,37.594839,-120.9438005,,,0,,America/Los_Angeles,,,0
+10411,,,W. F St. & S. Wood Ave.,,37.76122176,-120.8595746,,,0,,America/Los_Angeles,,,0
+10407,085,,Patterson Rd. & Tina Ln.,,37.73253611,-120.924583,,,0,,America/Los_Angeles,,,0
+2330976,003,,Monte Vista & Dels,,37.52206,-120.85767,,,0,,America/Los_Angeles,,,0
+2331062,,,West & South,,37.48599,-120.85814,,,0,,America/Los_Angeles,,,0
+2331041,,,Linwood & Baywood,,37.47808,-120.84495,,,0,,America/Los_Angeles,,,0
+10497,026,,9th St. & Nunes Rd.,,37.551548,-120.905695,,,0,,America/Los_Angeles,,,0
+10529,,,Nadine SE & Herndon,,37.61296173,-120.9750666,,,0,,America/Los_Angeles,,,0
+10480,072,,Merced St. & Eucalyptus Ave.,,37.31503,-121.014814,,,0,,America/Los_Angeles,,,0
+2331013,,,Colorado & Lyons,,37.49892,-120.83335,,,0,,America/Los_Angeles,,,0
+2330993,,,Christoffersen & Crowell,,37.52925,-120.86314,,,0,,America/Los_Angeles,,,0
+2331037,,,Lander & South,,37.4847,-120.84916,,,0,,America/Los_Angeles,,,0
+10710,113,,Merced Transpo 16th St. & N St.,,37.301824272302,-120.488203167915,,,0,,America/Los_Angeles,,,0
+2326105,,,Service Rd. & Central Valley High School,,37.580148,-120.9592634,,,0,,America/Los_Angeles,,,0
+10388,,,Golden State Blvd. & W. Canal Dr.,,37.500039,-120.850265,,,0,,America/Los_Angeles,,,0
+10502,030,,Magnolia St. & 9th St.,,37.593282,-120.948082,,,0,,America/Los_Angeles,,,0
+2326104,,,Hackett & Crownview,,37.5875945,-120.9609678,,,0,,America/Los_Angeles,,,0
+2331051,,,Turlock Transit Center,,37.5069964591463,-120.858946472387,,,0,2332147,,,,0
+10460,025,,W. Main St. & Alaska St. ,,37.49286947,-120.8605818,,,0,,America/Los_Angeles,,,0
+2325080,,,Hatch & Moffett,,37.609421,-120.9484448,,,0,,America/Los_Angeles,,,0
+10414,089,,E. G St. & S Sierra Ave.,,37.765941,-120.844963,,,0,,America/Los_Angeles,,,0
+10417,092,,W. F St. & Laurel Ave.,,37.76401734,-120.8534105,,,0,,America/Los_Angeles,,,0
+10488,063,,Sperry Ave. & S. Del Puerto Ave. ,,37.464394,-121.132327,,,0,,America/Los_Angeles,,,0
+10457,020,,7th St.  & Lizzie Ave.,,37.55602991,-120.9146771,,,0,,America/Los_Angeles,,,0
+2331070,,,Tully & Mayfaire,,37.50348,-120.87169,,,0,,America/Los_Angeles,,,0
+2325070,,,Hatch Rd. & Richland Ave.,,37.6091277,-120.9651858,,,0,,America/Los_Angeles,,,0
+10398,075,,McHenry Ave. & Norwegian Ave.,,37.67151061,-120.9938488,,,0,,America/Los_Angeles,,,0
+10415,090,,E. G St. & Ventanas Ave.,,37.76801153,-120.8342696,,,0,,America/Los_Angeles,,,0
+10389,009,,Golden State Blvd. & Del's Ln. (Turlock Transit  Center),,37.506902751201,-120.85875791178,,,0,2332147,,,,0
+10387,008,,Golden State Blvd. & N. Center St. (KFC),,37.4975105963939,-120.848156453239,,,0,,America/Los_Angeles,,,0
+2330954,,,Fulkerth & Countryside,,37.5074,-120.87359,,,0,,America/Los_Angeles,,,0
+10496,023,,A St. & 3rd St. (by City Hall),,37.491628,-120.847267,,,0,,America/Los_Angeles,,,0
+10576,,,Blaker NW & Service ,,37.580685,-120.966081,,,0,,America/Los_Angeles,,,0
+10507,044,,Vintage Fair Mall,,37.689381,-121.054143,,,0,,America/Los_Angeles,,,0
+758921,,,Washington Rd. & Fulkerth Rd. (Blue Diamond),,37.5058002028052,-120.903521776199,,,0,,America/Los_Angeles,,,0
+27783,017,,Magnolia NW & 9th,,37.593266,-120.94799,,,0,,America/Los_Angeles,,,0
+2331072,,,Fulkerth & Edgewater,,37.50718,-120.86662,,,0,,America/Los_Angeles,,,0
+2331059,,,Main & Soderquist,,37.49263,-120.86134,,,0,,America/Los_Angeles,,,0
+2331002,,,Olive & Runyan,,37.50911,-120.83999,,,0,,America/Los_Angeles,,,0
+2330986,,,Turlock Transit Center,,37.50679,-120.85865,,,0,2332147,,,,0
+10510,,,Magnolia SW & 6th,,37.59313523,-120.951585,,,0,,America/Los_Angeles,,,0
+842379,106,,Yosemite Ave & S Abbie St. (Empire) ,,37.6382489173749,-120.899999690282,,,0,,America/Los_Angeles,,,0
+10409,,,Hwy 108 & Willowood Dr.,,37.7570562033313,-120.869420170784,,,0,,America/Los_Angeles,,,0
+10498,027,,7th St. & Lizzie Ave.,,37.556274,-120.91465,,,0,,America/Los_Angeles,,,0
+842381,080,,Oakdale Rd & Freddi Ln,,37.7132729029734,-120.958314717068,,,0,,America/Los_Angeles,,,0
+10479,059,,Merced St. & S St.,,37.312071,-121.026932,,,0,,America/Los_Angeles,,,0
+2331055,,,Tully & Mayfaire,,37.50345,-120.87185,,,0,,America/Los_Angeles,,,0
+840915,046,,N First St & Washburn St.,,37.477354422036,-121.13077171021,,,0,,America/Los_Angeles,,,0
+10416,091,,S. Maag Ave. & E. F. St.,,37.77173034,-120.8304939,,,0,,America/Los_Angeles,,,0
+10468,,,Orestimba Rd. & T St.,,37.31804234,-121.031113,,,0,,America/Los_Angeles,,,0
+2325073,,,Whitmore NE & Louise,,37.5948476,-120.9401151,,,0,,America/Los_Angeles,,,0
+10403,081,,Patterson Rd. & Oakdale Rd.,,37.7325026,-120.9574286,,,0,,America/Los_Angeles,,,0
+2330958,,,Countryside & Monte Vista,,37.52136,-120.88102,,,0,,America/Los_Angeles,,,0
+758787,,,Washington Rd. & Fulkerth Rd. (Blue Diamond),,37.505802,-120.903638,,,0,,America/Los_Angeles,,,0
+2329728,100,,McHenry Ave. & Bangs Ave.,,37.70436,-120.9948,,,0,,America/Los_Angeles,,,0
+758786,,,Ward Ave. & W. Las Palmas Ave. (Walmart),,37.465191,-121.142963,,,0,,America/Los_Angeles,,,0
+2331038,,,Lander & Montana,,37.48038,-120.84908,,,0,,America/Los_Angeles,,,0
+10420,,,Hwy 108 & Willowood Dr.,,37.75694574,-120.8707771,,,0,,America/Los_Angeles,,,0
+2325068,,,Hatch & Herndon,,37.6094125,-120.9717035,,,0,,America/Los_Angeles,,,0
+2331058,,,Main & Osborn School,,37.49263,-120.86414,,,0,,America/Los_Angeles,,,0
+10435,036,,Hackett Rd. & Crows Landing Rd. (CSA),,37.58772332,-120.9916927,,,0,,America/Los_Angeles,,,0
+842383,098,,Oakdale Rd. & Patterson Rd.,,37.732223749023,-120.95886953786,,,0,,America/Los_Angeles,,,0
+802533,003,,W. Monte Vista Ave. & Dels Ln. (CSUS) ,,37.5220550426295,-120.857656055225,,,0,,America/Los_Angeles,,,0
+10392,011,,Countyside Dr. & W. Monte Vista Ave. (El Pollo Loco),,37.51944799,-120.8805979,,,0,,America/Los_Angeles,,,0
+2331053,,,Fulkerth & Edgewater,,37.50739,-120.86708,,,0,,America/Los_Angeles,,,0
+10500,028,,Faith Home Rd. & Hollywood Dr. (Patio Village),,37.566211,-120.92032,,,0,,America/Los_Angeles,,,0
+10424,096,,Patterson Rd. & Palmer Ave.,,37.732778,-120.944122,,,0,,America/Los_Angeles,,,0
+10505,033,,E. Hatch Rd. & Herndon Rd. (Home Depot),,37.609433,-120.971696,,,0,,America/Los_Angeles,,,0
+10609,,,Mitchell NW & Garrison,,37.598664,-120.93883,,,0,,America/Los_Angeles,,,0
+10528,,,Herndon NE & Hatch ,,37.6097231,-120.9740831,,,0,,America/Los_Angeles,,,0
+12525,,,Mitchell & NE Dale Ct.,,37.59775695,-120.9385662,,,0,,America/Los_Angeles,,,0
+2330991,,,Christoffersen & Mountain View,,37.52889,-120.88019,,,0,,America/Los_Angeles,,,0
+10441,040,,Griscott Way & Walt Ave.,,37.544264699936,-121.201896071434,,,0,,America/Los_Angeles,,,0
+10396,073,,College Ave. & Coldwell Ave. (MJC),,37.65335835,-121.0073403,,,0,,America/Los_Angeles,,,0
+10470,061,,Kern St. & Main St.,,37.317025,-121.023672,,,0,,America/Los_Angeles,,,0
+2331060,,,West & Columbia,,37.49161,-120.85812,,,0,,America/Los_Angeles,,,0
+10432,105,,College Ave. & Orangeburg Ave.,,37.663671,-121.007713,,,0,,America/Los_Angeles,,,0
+758788,049,,W. Main St. & S. Walnut Rd. (Taco Bell),,37.492612,-120.872069,,,0,,America/Los_Angeles,,,0
+10475,,,Inyo Ave. & Main St.,,37.31099641,-121.0213763,,,0,,America/Los_Angeles,,,0
+2331032,,,Golden State & Canal,,37.49974,-120.85033,,,0,,America/Los_Angeles,,,0
+10477,057,,6th St. & 3rd St.,,37.25707509,-121.0017041,,,0,,America/Los_Angeles,,,0
+10482,,,Driskell Ave. & Amy Dr.,,37.318376,-121.016947,,,0,,America/Los_Angeles,,,0
+2332147,,,Turlock Transit Center,,37.506914877014,-120.85875862947,,,1,,America/Los_Angeles,,,0
+2330994,,,Christoffersen & Village Circle,,37.52917,-120.85419,,,0,,America/Los_Angeles,,,0
+2331022,,,Colorado & Main,,37.50295,-120.83523,,,0,,America/Los_Angeles,,,0
+10443,042,,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,,37.47121150358,-121.128868340931,,,0,,America/Los_Angeles,,,0
+2330988,,,Golden State & Monte Vista,,37.52247,-120.87787,,,0,,America/Los_Angeles,,,0
+2331054,,,Fulkerth & Logan,,37.50744,-120.86965,,,0,,America/Los_Angeles,,,0
+10492,,,W. Monte Vista Ave. & Geer Rd. (CVS),,37.5218297,-120.8483366,,,0,,America/Los_Angeles,,,0
+758918,,,College & Orangewood,,37.663359019352,-121.007505655289,,,0,,America/Los_Angeles,,,0
+842380,107,,Yosemite Blvd. & S. Western Ave. (Waterford ),,37.6381367324973,-120.766832478776,,,0,,America/Los_Angeles,,,0
+2331034,,,Golden State & Main/Central Park,,37.49426,-120.84576,,,0,,America/Los_Angeles,,,0
+10384,005,,Geer Rd. & Twentieth  Century Blvd.,,37.50627632,-120.8490569,,,0,,America/Los_Angeles,,,0
+10404,082,,Patterson Rd. & Jackson Ave.,,37.73253575,-120.9510544,,,0,,America/Los_Angeles,,,0
+10451,015,,Richland Ave. & Rancho Dr. (SRC),,37.600632,-120.96603,,,0,,America/Los_Angeles,,,0
+2330964,,,Geer & Regis,,37.51917,-120.84906,,,0,,America/Los_Angeles,,,0
+27767,,,Moffett NE & Glasgow,,37.6080653388311,-120.94781845808,,,0,,America/Los_Angeles,,,0
+10386,007,,Golden State Blvd. & W. Main St. (Central Park) ,,37.493984,-120.845422,,,0,,America/Los_Angeles,,,0
+10446,,,"Empire (Resource Center, 18 S. Abbie)",,37.63751295,-120.8993801,,,0,,America/Los_Angeles,,,0
+10481,,,Driskell Ave. & Woodduck Ct.,,37.318337,-121.010174,,,0,,America/Los_Angeles,,,0
+10449,108,,Waterford Police Station,,37.6417247,-120.7607695,,,0,,America/Los_Angeles,,,0
+10437,,,Amelia St. & Stakes Rd.,,37.56489412,-121.1776121,,,0,,America/Los_Angeles,,,0
+758785,068,,Keystone Pacific Pkwy. & Keystone Blvd. (Del Puerto Health Center),,37.475964,-121.161427,,,0,,America/Los_Angeles,,,0
+10711,,,Merced St. & Hwy. 33,,37.3134598867402,-121.020804047585,,,0,,America/Los_Angeles,,,0
+2331068,,,Soderquist & Canal,,37.50014,-120.8622,,,0,,America/Los_Angeles,,,0
+10381,003,,W. Monte Vista Ave. & Dels Ln. (CSUS) ,,37.52172411,-120.857589,,,0,,America/Los_Angeles,,,0
+2331028,,,Hawkeye & Donnelly Park,,37.5074,-120.85296,,,0,,America/Los_Angeles,,,0
+2330966,,,Geer & North,,37.51069,-120.84904,,,0,,America/Los_Angeles,,,0
+2330996,,,Olive & Christoffersen,,37.52887,-120.8399,,,0,,America/Los_Angeles,,,0
+2330999,,,Colorado & Waldorf,,37.51276,-120.83535,,,0,,America/Los_Angeles,,,0
+10506,001,,Modesto Transit Center,,37.638953,-121.00107,,,0,,America/Los_Angeles,,,0
+2330971,,,Geer & Hawkeye,,37.508,-120.84876,,,0,,America/Los_Angeles,,,0
+10399,076,,McHenry Ave & Floyd Ave.,,37.67836101,-120.993939,,,0,,America/Los_Angeles,,,0
+10426,,,Patterson Rd. & Oakdale Rd.,,37.73280555,-120.9596124,,,0,,America/Los_Angeles,,,0
+2331048,,,Golden State & Center,,37.49741,-120.84805,,,0,,America/Los_Angeles,,,0
+10408,,,Claus Rd. & Santa Fe St.,,37.73571642,-120.9221028,,,0,,America/Los_Angeles,,,0
+2330978,,,Monte Vista & Walnut,,37.522,-120.86786,,,0,,America/Los_Angeles,,,0
+10436,037,,River Rd. & Minnie St.,,37.5649575880386,-121.182790696621,,,0,,America/Los_Angeles,,,0
+27773,,,Central SE & Hardy Ct.,,37.583449,-120.9568019,,,0,,America/Los_Angeles,,,0
+2330956,012,,Countryside & Tuolumne,,37.51392,-120.8777,,,0,,America/Los_Angeles,,,0
+10491,,, E. Las Palmas & LaLynn Dr.,,37.47390112,-121.1248968,,,0,,America/Los_Angeles,,,0
+10428,079,,McHenry Ave. & Bangs Ave.,,37.704291470835,-120.99451589504,,,0,,America/Los_Angeles,,,0
+10537,,,Richland  NW & Hatch,,37.610512,-120.966379930223,,,0,,America/Los_Angeles,,,0
+2330961,,,Monte Vista & Crowell,,37.52177,-120.86194,,,0,,America/Los_Angeles,,,0
+10467,,,Yolo St. & Lee Ave.,,37.31964234,-121.0246923,,,0,,America/Los_Angeles,,,0
+10483,,,Kern St. & Main St.,,37.317124,-121.023684,,,0,,America/Los_Angeles,,,0
+2330990,,,Christoffersen & Golden State,,37.52908,-120.88435,,,0,,America/Los_Angeles,,,0
+2331007,,,Hawkeye & Geer,,37.50717,-120.84808,,,0,,America/Los_Angeles,,,0
+2331067,,,Soderquist & Flower,,37.49514,-120.86218,,,0,,America/Los_Angeles,,,0
+2331014,,,Berkeley & East,,37.49229,-120.8308,,,0,,America/Los_Angeles,,,0
+10473,072,,Merced St. & Eucalyptus Ave.,,37.31496334,-121.0158343,,,0,,America/Los_Angeles,,,0
+10471,071,,Driskell Ave. & Amy Dr.,,37.31819177,-121.0169334,,,0,,America/Los_Angeles,,,0
+2330957,,,Countryside & Monte Vista Crossings,,37.51948,-120.88066,,,0,,America/Los_Angeles,,,0
+758783,066,,Keystone Pacific Pkwy. & Rogers Rd. (Grainger),,37.476195,-121.177231,,,0,,America/Los_Angeles,,,0
+10429,102,,McHenry Ave. & Standiford Ave. (Target),,37.6880566,-120.9944522,,,0,,America/Los_Angeles,,,0
+10431,104,,McHenry Ave. & Bowen Ave.,,37.67423215,-120.9942515,,,0,,America/Los_Angeles,,,0
+758789,,,N. Tully Rd. & W. Main St. (Turlock Memorial Park),,37.4926238625561,-120.867537260056,,,0,,America/Los_Angeles,,,0
+2325081,,,Hatch Rd. & Central Ave.,,37.6093785,-120.9578204,,,0,,America/Los_Angeles,,,0
+2331045,,,F Street & Jessica,,37.48681,-120.84237,,,0,,America/Los_Angeles,,,0
+10402,,,McHenry Ave. & Claribel Ave.,,37.7112870928879,-120.994727611542,,,0,,America/Los_Angeles,,,0
+770747,109,,I St. & Lake Rd.,,37.6236215881553,-120.749988099371,,,0,,America/Los_Angeles,,,0
+840913,111,,E. Whitmore &  Tully Rd ,,37.5948754334669,-120.86966268041,,,0,,America/Los_Angeles,,,0
+10489,,,Sperry Ave. & Del Puerto Ave.,,37.464244,-121.132354,,,0,,America/Los_Angeles,,,0
+10391,010,,Fulkerth Rd. & N. Tully Rd. (Walmart),,37.50741402,-120.8736019,,,0,,America/Los_Angeles,,,0
+10474,059,,Merced St. & S St.,,37.312245,-121.026852,,,0,,America/Los_Angeles,,,0
+10485,,,Orestimba Rd. & T St.,,37.31810157,-121.0309125,,,0,,America/Los_Angeles,,,0
+2330985,,,Turlock Transit Center,,37.5068347729031,-120.858581982803,,,0,2332147,,,,0
+2331031,,,Golden State & Almond,,37.50322,-120.85429,,,0,,America/Los_Angeles,,,0
+840917,048,,E. Las Palmas & S. Hartley St,,37.475516095744,-121.12124578378,,,0,,America/Los_Angeles,,,0
+2330997,050,,Olive & Monte Vista,,37.52143,-120.84002,,,0,,America/Los_Angeles,,,0
+10469,,,Kern St. & R St. (Library),,37.316082,-121.027553,,,0,,America/Los_Angeles,,,0
+2331010,,,Olive & Wayside,,37.5039,-120.83991,,,0,,America/Los_Angeles,,,0
+10503,031,, Magnolia St. & 3rd St.,,37.593284166702,-120.95477388857,,,0,,America/Los_Angeles,,,0
+10514,,,Mitchell NE & Whitmore (Del Taco),,37.59538241,-120.9385424,,,0,,America/Los_Angeles,,,0
+10515,,,Mitchell NE & Fowler ,,37.6022836,-120.9385723,,,0,,America/Los_Angeles,,,0
+2331064,,,South & Soderquist,,37.4855,-120.86246,,,0,,America/Los_Angeles,,,0
+758790,024,,W. Main St. & N. Laurel St.,,37.49287,-120.849521,,,0,,America/Los_Angeles,,,0
+10382,,,Geer Rd. & Regis St.,,37.51919309,-120.8490597,,,0,,America/Los_Angeles,,,0
+10400,077,,McHenry Ave. & Sylvan Ave.,,37.68946638,-120.9941081,,,0,,America/Los_Angeles,,,0
+16289,,,Pine & SW Harold,,37.5868605,-120.955165,,,0,,America/Los_Angeles,,,0
+842382,099,,Oakdale Rd & Freddi Ln,,37.7133019360301,-120.958520241038,,,0,,America/Los_Angeles,,,0
+10394,013,,N. Tully Rd. & Coldwell Ave. (MJC),,37.65137445,-121.0118936,,,0,,America/Los_Angeles,,,0
+2331012,,,Canal & Bell,,37.50009,-120.83594,,,0,,America/Los_Angeles,,,0
+10472,,,Driskell Ave. & Woodduck Ct.,,37.31812376,-121.0101556,,,0,,America/Los_Angeles,,,0
+10458,021,,9th St. & Maud Ave. (Library),,37.553824,-120.908615,,,0,,America/Los_Angeles,,,0
+10405,083,,Patterson Rd. & Roselle Ave.,,37.73263912,-120.9407594,,,0,,America/Los_Angeles,,,0
+758784,067,,Keystone Pacific Pkwy. & Park Center Dr.,,37.475759,-121.165091,,,0,,America/Los_Angeles,,,0
+10423,095,,Patterson Rd. & 3rd St.,,37.73277382,-120.9353531,,,0,,America/Los_Angeles,,,0
+10486,,,Yolo St. & Main St.,,37.31972576,-121.0238019,,,0,,America/Los_Angeles,,,0
+2330955,,,Countryside & Shetland,,37.5102,-120.87634,,,0,,America/Los_Angeles,,,0
+10461,052,,W. Main St. & N. Kilroy Rd. (Regal Cinemas),,37.49283684,-120.8755606,,,0,,America/Los_Angeles,,,0
+10494,051,,N. Olive Ave. & Delbon Ave. (Emanuel Hospital),,37.510574,-120.839988,,,0,,America/Los_Angeles,,,0
+2331073,,,Turlock Transit Center,,37.5070476134697,-120.85890157424,,,0,2332147,,,,0
+10410,,,W. F St. & N. Lee Ave.,,37.75896156,-120.8648677,,,0,,America/Los_Angeles,,,0
+2330983,,,Tully & Fulkerth,,37.50914,-120.87191,,,0,,America/Los_Angeles,,,0
+10442,041,,N. 2nd (Hwy. 33) & L St.,,37.47830704,-121.1334087,,,0,,America/Los_Angeles,,,0
+2331001,,,Olive & North,,37.5102,-120.84,,,0,,America/Los_Angeles,,,0
+10574,,,Blaker SW & Hackett ,,37.5873411,-120.9661149,,,0,,America/Los_Angeles,,,0
+2330980,,,Countryside & Monte Vista Crossings,,37.51891,-120.8807,,,0,,America/Los_Angeles,,,0
+10709,,, W. Las Palmas Ave. & Ward Ave. ,,37.4665473508134,-121.140929460526,,,0,,America/Los_Angeles,,,0
+2330963,,,Monte Vista & Niagra,,37.52174,-120.85043,,,0,,America/Los_Angeles,,,0
+841004,045,,N First St & E. Las Palmas Ave.,,37.473135720182,-121.1277197108,,,0,,America/Los_Angeles,,,0
+801464,016,, Magnolia St. & 3rd St. (Ceres Community Center),,37.593135229874,-120.95438042068,,,0,,America/Los_Angeles,,,0
+10383,004,,Geer Rd. & W. Minnesota Ave.,,37.51603055,-120.8490547,,,0,,America/Los_Angeles,,,0
+10412,087,,W. F St. & Gilbert Ave.,,37.76385141,-120.8533104,,,0,,America/Los_Angeles,,,0
+2331071,,,Fulkerth & Tully,,37.50716,-120.87145,,,0,,America/Los_Angeles,,,0
+10493,050,,W. Monte Vista Ave. & Olive Ave. (DMV),,37.521617,-120.840016,,,0,,America/Los_Angeles,,,0
+2331023,,,Colorado & Escondido,,37.50466,-120.83518,,,0,,America/Los_Angeles,,,0
+2330974,,,Geer & Regis,,37.51971,-120.84874,,,0,,America/Los_Angeles,,,0
+10490,,,N. Salado St. & N. 7th St.,,37.47394022,-121.1387052,,,0,,America/Los_Angeles,,,0
+10563,,,6th NE & Park,,37.58881614,-120.9508587,,,0,,America/Los_Angeles,,,0
+10433,035,,Crows Landing Rd. & Butte Ave. (Don Juan),,37.604529,-120.99368,,,0,,America/Los_Angeles,,,0
+840918,053,,N. Hartley St. & Hillstock Ct,,37.475894,-121.121705,,,0,,America/Los_Angeles,,,0
+10536,,,Richland SW & Nadine,,37.61277042,-120.9663305,,,0,,America/Los_Angeles,,,0
+10513,,,Whitmore SE & Louise,,37.59460963,-120.9404566,,,0,,America/Los_Angeles,,,0
+12509,078,,McHenry Ave. & Meily Way (Perko's/Walmart),,37.6951227896466,-120.994217991829,,,0,,America/Los_Angeles,,,0
+2331039,,,Linwood & Lander,,37.47811,-120.84828,,,0,,America/Los_Angeles,,,0
+2331018,,,Alpha & East,,37.49224,-120.83693,,,0,,America/Los_Angeles,,,0
+2331066,,,Soderquist & Main,,37.49241,-120.86257,,,0,,America/Los_Angeles,,,0
+2331047,,,Golden State & Main/Central Park,,37.49445,-120.84562,,,0,,America/Los_Angeles,,,0
+10463,,,N Salado St. & N 7th St.,,37.474097,-121.138696,,,0,,America/Los_Angeles,,,0
+10430,103,,McHenry Ave. & Floyd Ave.,,37.67836,-120.994297,,,0,,America/Los_Angeles,,,0
+2331057,,,Tully & Main,,37.49375,-120.86844,,,0,,America/Los_Angeles,,,0
+840916,047,,Walnut Ave & Eureka St,,37.4809493730212,-121.127726965592,,,0,,America/Los_Angeles,,,0
+840919,054,,Walnut Ave. & Eureka St.,,37.4811579896811,-121.12767224081,,,0,,America/Los_Angeles,,,0
+2331036,,,Lander & 5th Street,,37.48945,-120.84912,,,0,,America/Los_Angeles,,,0
+2330979,,,Monte Vista & Summer Creek,,37.52198,-120.87389,,,0,,America/Los_Angeles,,,0
+2331015,,,Berkeley & Alpha,,37.48719,-120.83076,,,0,,America/Los_Angeles,,,0
+2330998,,,Tuolumne & Olive,,37.51454,-120.83745,,,0,,America/Los_Angeles,,,0
+840921,055,,N. First St. & Walnut Ave.,,37.47877573646,-121.1319582393,,,0,,America/Los_Angeles,,,0
+10464,069,,Ward Ave. at Las Palmas,,37.46643994,-121.1411555,,,0,,America/Los_Angeles,,,0
+10401,,,McHenry Ave. & Claratina Ave. (CarMax),,37.700737,-120.99435,,,0,,America/Los_Angeles,,,0

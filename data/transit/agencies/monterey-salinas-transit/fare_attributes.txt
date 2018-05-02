@@ -1,0 +1,6 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+Free,0.00,USD,0,0,
+Local,1.50,USD,0,0,
+Base,2.50,USD,0,0,
+Regional,3.50,USD,0,0,
+Commuter,12.00,USD,0,0,

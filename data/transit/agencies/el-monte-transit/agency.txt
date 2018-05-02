@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+22,El Monte Transit (Trolleys),http://www.ci.el-monte.ca.us/Government/PublicWorks/Transportation.aspx,America/Los_Angeles,en

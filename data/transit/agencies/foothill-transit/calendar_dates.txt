@@ -1,0 +1,13 @@
+service_id,date,exception_type
+1707-Arcadia-Sunday-60,20170704,1
+1707-Arcadia-Sunday-60,20170904,1
+1707-Arcadia-Weekday-60,20170704,2
+1707-Arcadia-Weekday-60,20170904,2
+1707-Pomona-Sunday-70,20170704,1
+1707-Pomona-Sunday-70,20170904,1
+1707-Pomona-Weekday-70,20170704,2
+1707-Pomona-Weekday-70-1111000,20170704,2
+1707-Pomona-Weekday-70-0000100,20170704,2
+1707-Pomona-Weekday-70,20170904,2
+1707-Pomona-Weekday-70-1111000,20170904,2
+1707-Pomona-Weekday-70-0000100,20170904,2

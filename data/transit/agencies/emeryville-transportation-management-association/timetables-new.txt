@@ -1,0 +1,10 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,4817,0,20170422,20180430,1,1,1,1,1,0,0,Hollis,"Year Round Starting April 22,2017 (Monday-Friday)",Loop,horizontal
+2,4818,0,20170422,20180430,1,1,1,1,1,0,0,Hollis North,"Year Round Starting April 22,2017 (Monday-Friday)",Loop,horizontal
+3,4819,0,20170422,20180430,1,1,1,1,1,0,0,Hollis South,"Year Round Starting April 22,2017 (Monday-Friday)",Loop,horizontal
+4,4822,0,20170422,20180430,1,1,1,1,1,0,0,North Shellmound,"Year Round Starting April 22,2017 (Monday-Friday)",Loop,horizontal
+5,4820,0,20170422,20180430,0,0,0,0,0,0,1,Shellmound/Powell,"Year Round Starting April 22,2017 (Sunday only)",Loop,horizontal
+6,4820,0,20170422,20180430,0,0,0,0,0,1,0,Shellmound/Powell,"Year Round Starting April 22,2017 (Saturday only)",Loop,horizontal
+7,4820,0,20170422,20180430,1,1,1,1,1,0,0,Shellmound/Powell,"Year Round Starting April 22,2017 (Monday-Friday)",Loop,horizontal
+8,4821,0,20170422,20180430,1,1,1,1,1,0,0,South Shellmound/Powell,"Year Round Starting April 22,2017 (Monday-Friday)",Loop,horizontal
+9,4823,0,20170422,20180430,1,1,1,1,1,0,0,Watergate Express,"Year Round Starting April 22,2017 (Monday-Friday)",Loop,horizontal

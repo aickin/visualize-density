@@ -1,0 +1,5 @@
+service_id,date,exception_type
+1_merged_950531,20170904,2
+1_merged_950531,20171225,2
+1_merged_950531,20171123,2
+1_merged_950534,20180101,2

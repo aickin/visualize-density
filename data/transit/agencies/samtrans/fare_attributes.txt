@@ -1,0 +1,4 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+"OW_Adult_20160110",2.2500,"USD",0,0,
+"OW_LocExp_20160110",4.0000,"USD",0,0,
+"OW_Free_20160110",0.0000,"USD",0,0,

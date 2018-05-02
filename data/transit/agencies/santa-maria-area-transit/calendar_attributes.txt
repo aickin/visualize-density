@@ -1,0 +1,5 @@
+service_id,service_description
+c_1776_b_174_d_64,Year Round Service (Sunday only)
+c_1776_b_174_d_63,Year Round Service (Monday-Saturday)
+c_2573_b_212_d_96,"Starting February 13, 2017 (Weekend)"
+c_2573_b_212_d_31,"Starting February 13, 2017 (Monday-Friday)"

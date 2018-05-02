@@ -1,0 +1,50 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,2668,0,20170501,20180501,1,1,1,1,1,0,0,BayView - Richmond Parkway Transit Center,Year Round Calendar (Monday-Friday),North,horizontal
+2,2668,1,20170501,20180501,1,1,1,1,1,0,0,BayView - Richmond Parkway Transit Center,Year Round Calendar (Monday-Friday),South,horizontal
+3,2659,0,20160601,20180601,0,0,0,0,0,1,0,Crockett - Rodeo - Hercules,Routes 11 & 19 Saturday Service (Saturday only),East,horizontal
+4,2659,1,20160601,20180601,0,0,0,0,0,1,0,Crockett - Rodeo - Hercules,Routes 11 & 19 Saturday Service (Saturday only),West,horizontal
+5,2659,0,20170501,20180501,1,1,1,1,1,0,0,Crockett - Rodeo - Hercules,Year Round Calendar (Monday-Friday),East,horizontal
+6,2659,1,20170501,20180501,1,1,1,1,1,0,0,Crockett - Rodeo - Hercules,Year Round Calendar (Monday-Friday),West,horizontal
+7,2655,,20170501,20180501,1,1,1,1,1,0,0,Gems and Birds,Year Round Calendar (Monday-Friday),,horizontal
+8,2655,,20180102,20180406,0,0,1,0,0,0,0,Gems and Birds,School Calendar (Wednesday only),,horizontal
+9,2655,,20180102,20180406,1,1,0,1,1,0,0,Gems and Birds,School Calendar,,horizontal
+10,2672,0,20160601,20180601,0,0,0,0,0,1,0,Hercules - Pinole - Richmond Parkway Transit Center - Hilltop Mall,Routes 11 & 19 Saturday Service (Saturday only),North,horizontal
+11,2672,1,20160601,20180601,0,0,0,0,0,1,0,Hercules - Pinole - Richmond Parkway Transit Center - Hilltop Mall,Routes 11 & 19 Saturday Service (Saturday only),South,horizontal
+12,2700,0,20160601,20180601,1,1,1,1,1,0,0,Hercules Transit Center - El Cerrito del Norte BART,JX Year Round Service (Monday-Friday),North,horizontal
+13,2700,1,20160601,20180601,1,1,1,1,1,0,0,Hercules Transit Center - El Cerrito del Norte BART,JX Year Round Service (Monday-Friday),South,horizontal
+14,2702,0,20170501,20180501,1,1,1,1,1,0,0,Hercules Transit Center - El Cerrito del Norte BART,Year Round Calendar (Monday-Friday),North,horizontal
+15,2702,1,20170501,20180501,1,1,1,1,1,0,0,Hercules Transit Center - El Cerrito del Norte BART,Year Round Calendar (Monday-Friday),South,horizontal
+16,2706,0,20170501,20180501,1,1,1,1,1,0,0,Hercules Transit Center - Martinez,Year Round Calendar (Monday-Friday),East,horizontal
+17,2706,1,20170501,20180501,1,1,1,1,1,0,0,Hercules Transit Center - Martinez,Year Round Calendar (Monday-Friday),West,horizontal
+18,2674,0,20170501,20180501,1,1,1,1,1,0,0,Hercules Transit Center - Pinole - Contra Costa College,Year Round Calendar (Monday-Friday),East,horizontal
+19,2674,1,20170501,20180501,1,1,1,1,1,0,0,Hercules Transit Center - Pinole - Contra Costa College,Year Round Calendar (Monday-Friday),West,horizontal
+20,2689,0,20160601,20180601,0,0,0,0,0,0,1,Hercules Transit Center - Pinole - Richmond - BART,Express J (Sunday only),North,horizontal
+21,2689,0,20160601,20180601,0,0,0,0,0,1,0,Hercules Transit Center - Pinole - Richmond - BART,Express J (Saturday only),North,horizontal
+22,2689,0,20160601,20180601,1,1,1,1,1,0,0,Hercules Transit Center - Pinole - Richmond - BART,Express J (Monday-Friday),North,horizontal
+23,2689,1,20160601,20180601,0,0,0,0,0,0,1,Hercules Transit Center - Pinole - Richmond - BART,Express J (Sunday only),South,horizontal
+24,2689,1,20160601,20180601,0,0,0,0,0,1,0,Hercules Transit Center - Pinole - Richmond - BART,Express J (Saturday only),South,horizontal
+25,2689,1,20160601,20180601,1,1,1,1,1,0,0,Hercules Transit Center - Pinole - Richmond - BART,Express J (Monday-Friday),South,horizontal
+26,2696,0,20160601,20180601,0,0,0,0,0,0,1,Hercules Transit Center - Pinole - Richmond - BART,Express J (Sunday only),North,horizontal
+27,2696,0,20160601,20180601,0,0,0,0,0,1,0,Hercules Transit Center - Pinole - Richmond - BART,Express J (Saturday only),North,horizontal
+28,2696,0,20160601,20180601,1,1,1,1,1,0,0,Hercules Transit Center - Pinole - Richmond - BART,Express J (Monday-Friday),North,horizontal
+29,2696,1,20160601,20180601,0,0,0,0,0,0,1,Hercules Transit Center - Pinole - Richmond - BART,Express J (Sunday only),South,horizontal
+30,2696,1,20160601,20180601,0,0,0,0,0,1,0,Hercules Transit Center - Pinole - Richmond - BART,Express J (Saturday only),South,horizontal
+31,2696,1,20160601,20180601,1,1,1,1,1,0,0,Hercules Transit Center - Pinole - Richmond - BART,Express J (Monday-Friday),South,horizontal
+32,2689,0,20180102,20180406,1,1,1,1,1,0,0,Hercules Transit Center - Pinole - Richmond - BART,School Calendar (Monday-Friday),North,horizontal
+33,2689,1,20180102,20180406,0,0,1,0,0,0,0,Hercules Transit Center - Pinole - Richmond - BART,School Calendar (Wednesday only),South,horizontal
+34,2689,1,20180102,20180406,1,1,0,1,1,0,0,Hercules Transit Center - Pinole - Richmond - BART,School Calendar,South,horizontal
+35,2696,0,20180102,20180406,1,1,1,1,1,0,0,Hercules Transit Center - Pinole - Richmond - BART,School Calendar (Monday-Friday),North,horizontal
+36,2696,1,20180102,20180406,0,0,1,0,0,0,0,Hercules Transit Center - Pinole - Richmond - BART,School Calendar (Wednesday only),South,horizontal
+37,2696,1,20180102,20180406,1,1,0,1,1,0,0,Hercules Transit Center - Pinole - Richmond - BART,School Calendar,South,horizontal
+38,2666,0,20170501,20180501,1,1,1,1,1,0,0,Pinole Valley - Old Town Pinole - Richmond Parkway Transit Center,Year Round Calendar (Monday-Friday),East,horizontal
+39,2666,1,20170501,20180501,1,1,1,1,1,0,0,Pinole Valley - Old Town Pinole - Richmond Parkway Transit Center,Year Round Calendar (Monday-Friday),West,horizontal
+40,2676,0,20170501,20180501,1,1,1,1,1,0,0,Rodeo/Hercules/San Francisco Transbay Terminal,Year Round Calendar (Monday-Friday),North,horizontal
+41,2676,1,20170501,20180501,1,1,1,1,1,0,0,Rodeo/Hercules/San Francisco Transbay Terminal,Year Round Calendar (Monday-Friday),South,horizontal
+42,2664,0,20170501,20180501,1,1,1,1,1,0,0,Rodeo - Hercules (Viewpointe/North Shore Business Park),Year Round Calendar (Monday-Friday),East,horizontal
+43,2664,1,20170501,20180501,1,1,1,1,1,0,0,Rodeo - Hercules (Viewpointe/North Shore Business Park),Year Round Calendar (Monday-Friday),West,horizontal
+44,2670,0,20170501,20180501,1,1,1,1,1,0,0,Tara Hills - Richmond Parkway Transit Center - Hilltop Mall,Year Round Calendar (Monday-Friday),North,horizontal
+45,2670,1,20170501,20180501,1,1,1,1,1,0,0,Tara Hills - Richmond Parkway Transit Center - Hilltop Mall,Year Round Calendar (Monday-Friday),South,horizontal
+46,2661,0,20170501,20180501,1,1,1,1,1,0,0,Trees and Flowers,Year Round Calendar (Monday-Friday),East,horizontal
+47,2661,1,20170501,20180501,1,1,1,1,1,0,0,Trees and Flowers,Year Round Calendar (Monday-Friday),West,horizontal
+48,2661,1,20180102,20180406,0,0,1,0,0,0,0,Trees and Flowers,School Calendar (Wednesday only),West,horizontal
+49,2661,1,20180102,20180406,1,1,0,1,1,0,0,Trees and Flowers,School Calendar,West,horizontal

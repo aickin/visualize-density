@@ -1,0 +1,1434 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+40,2,220310,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220311,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220312,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220313,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220314,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220315,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220316,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220317,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220318,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220319,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220320,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220321,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220322,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220323,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220324,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220325,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220326,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220327,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220328,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220329,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220330,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220331,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220332,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220333,Metro Express - Pacific Avenue,,0,26723,28821,0,0
+40,2,220334,Metro Express - Pacific Avenue,,0,26724,28821,0,0
+40,2,220338,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220339,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220340,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220341,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220342,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220343,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220344,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220345,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220346,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220347,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220358,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220348,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220349,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220350,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220351,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220352,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220353,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220354,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220355,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220356,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220357,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220359,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220360,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220361,Metro Express - DTC,,1,26724,28822,0,0
+40,2,220362,Metro Express - DTC,,1,26723,28822,0,0
+40,2,220363,Metro Express - DTC,,1,26724,28822,0,0
+43,2,220522,Metro Express - Holman,,0,26616,28824,0,0
+43,2,220523,Metro Express - Holman,,0,26617,28824,0,0
+43,2,220524,Metro Express - Holman,,0,26616,28824,0,0
+43,2,220525,Metro Express - Holman,,0,26617,28824,0,0
+43,2,220526,Metro Express - Holman,,0,26616,28824,0,0
+43,2,220527,Metro Express - Holman,,0,26617,28824,0,0
+43,2,220528,Metro Express - Holman,,0,26616,28824,0,0
+43,2,220529,Metro Express - Holman,,0,26617,28824,0,0
+43,2,220530,Metro Express - Holman,,0,26616,28824,0,0
+43,2,220531,Metro Express - Holman,,0,26617,28824,0,0
+43,2,220532,Metro Express - Holman,,0,26616,28824,0,0
+43,2,220533,Metro Express - Holman,,0,26617,28824,0,0
+43,2,220534,Metro Express - Holman,,0,26616,28824,0,0
+43,2,220535,Metro Express - Holman,,0,26617,28824,0,0
+43,2,220536,Metro Express - Holman,,0,26616,28824,0,0
+43,2,220537,Metro Express - Holman,,0,26617,28824,0,0
+43,2,220538,Metro Express - Holman,,0,26616,28824,0,0
+43,2,220539,Metro Express - Holman,,0,26617,28824,0,0
+43,2,220540,Metro Express - Holman,,0,26616,28824,0,0
+43,2,220541,Metro Express - Holman,,0,26617,28824,0,0
+43,2,220542,Metro Express - Holman,,0,26616,28824,0,0
+43,2,220543,Metro Express - Mariners,,1,26617,28825,0,0
+43,2,220544,Metro Express - Mariners,,1,26616,28825,0,0
+43,2,220545,Metro Express - Mariners,,1,26617,28825,0,0
+43,2,220546,Metro Express - Mariners,,1,26616,28825,0,0
+43,2,220547,Metro Express - Mariners,,1,26617,28825,0,0
+43,2,220548,Metro Express - Mariners,,1,26616,28825,0,0
+43,2,220549,Metro Express - Mariners,,1,26617,28825,0,0
+43,2,220550,Metro Express - Mariners,,1,26616,28825,0,0
+43,2,220551,Metro Express - Mariners,,1,26617,28825,0,0
+43,2,220552,Metro Express - Mariners,,1,26616,28825,0,0
+43,2,220553,Metro Express - Mariners,,1,26617,28825,0,0
+43,2,220554,Metro Express - Mariners,,1,26616,28825,0,0
+43,2,220555,Metro Express - Mariners,,1,26617,28825,0,0
+43,2,220556,Metro Express - Mariners,,1,26616,28825,0,0
+43,2,220557,Metro Express - Mariners,,1,26617,28825,0,0
+43,2,220558,Metro Express - Mariners,,1,26616,28825,0,0
+43,2,220559,Metro Express - Mariners,,1,26617,28825,0,0
+43,2,220560,Metro Express - Mariners,,1,26616,28825,0,0
+43,2,220561,Metro Express - Mariners,,1,26617,28825,0,0
+43,2,220562,Metro Express - Mariners,,1,26616,28825,0,0
+43,2,220563,Metro Express - Mariners,,1,26617,28825,0,0
+44,2,220682,Metro Express - DTC,,0,26731,28827,0,0
+44,2,220686,Metro Express - DTC,,0,26732,28827,0,0
+44,2,220683,Metro Express - DTC,,0,26731,28827,0,0
+44,2,220684,Metro Express - DTC,,0,26732,28827,0,0
+44,2,220687,Metro Express - DTC,,0,26731,28827,0,0
+44,2,220688,Metro Express - DTC,,0,26732,28827,0,0
+44,2,220690,Metro Express - DTC,,0,26731,28827,0,0
+44,2,220691,Metro Express - DTC,,0,26732,28827,0,0
+44,2,220692,Metro Express - DTC,,0,26731,28827,0,0
+44,2,220685,Metro Express - DTC,,0,26732,28827,0,0
+44,2,220689,Metro Express - DTC,,0,26731,28827,0,0
+44,2,220696,Metro Express - DTC,,0,26732,28827,0,0
+44,2,220693,Metro Express - DTC,,0,26731,28827,0,0
+44,2,220694,Metro Express - DTC,,0,26732,28827,0,0
+44,2,220695,Metro Express - DTC,,0,26731,28827,0,0
+44,2,220701,Metro Express - DTC,,0,26732,28827,0,0
+44,2,220697,Metro Express - DTC,,0,26731,28827,0,0
+44,2,220698,Metro Express - DTC,,0,26732,28827,0,0
+44,2,220699,Metro Express - DTC,,0,26731,28827,0,0
+44,2,220700,Metro Express - DTC,,0,26732,28827,0,0
+44,2,220702,Metro Express - DTC,,0,26731,28827,0,0
+44,2,220703,Metro Express - DTC,,0,26732,28827,0,0
+44,2,221569,Metro Express - Airport Way,,1,26731,28959,0,0
+44,2,221575,Metro Express - Airport Way,,1,26732,28959,0,0
+44,2,221570,Metro Express - Airport Way,,1,26731,28959,0,0
+44,2,221576,Metro Express - Airport Way,,1,26732,28959,0,0
+44,2,221571,Metro Express - Airport Way,,1,26731,28959,0,0
+44,2,221572,Metro Express - Airport Way,,1,26732,28959,0,0
+44,2,221577,Metro Express - Airport Way,,1,26731,28959,0,0
+44,2,221581,Metro Express - Airport Way,,1,26732,28959,0,0
+44,2,221578,Metro Express - Airport Way,,1,26731,28959,0,0
+44,2,221582,Metro Express - Airport Way,,1,26732,28959,0,0
+44,2,221583,Metro Express - Airport Way,,1,26731,28959,0,0
+44,2,221573,Metro Express - Airport Way,,1,26732,28959,0,0
+44,2,221574,Metro Express - Airport Way,,1,26731,28959,0,0
+44,2,221579,Metro Express - Airport Way,,1,26732,28959,0,0
+44,2,221584,Metro Express - Airport Way,,1,26731,28959,0,0
+44,2,221585,Metro Express - Airport Way,,1,26732,28959,0,0
+44,2,221580,Metro Express - Airport Way,,1,26731,28959,0,0
+44,2,221586,Metro Express - Airport Way,,1,26732,28959,0,0
+44,2,221587,Metro Express - Airport Way,,1,26731,28959,0,0
+44,2,221589,Metro Express - Airport Way,,1,26732,28959,0,0
+44,2,221590,Metro Express - Airport Way,,1,26731,28959,0,0
+710,2,221015,Manthey - San Joaquin - DTC,,0,26646,28873,0,0
+710,2,221016,Manthey - San Joaquin - DTC,,0,26646,28873,0,0
+710,2,221018,Manthey - San Joaquin - DTC,,0,26646,28873,0,0
+710,2,221020,Manthey - San Joaquin - DTC,,0,26646,28873,0,0
+710,2,221017,Manthey - San Joaquin - DTC,,0,26646,28873,0,0
+710,2,221019,Manthey - San Joaquin - DTC,,0,26646,28873,0,0
+710,2,221021,Manthey - San Joaquin - DTC,,0,26646,28873,0,0
+710,2,221022,Manthey - San Joaquin - DTC,,0,26646,28873,0,0
+710,2,221014,Manthey - San Joaquin - DTC,,0,26646,28873,0,0
+710,2,221023,San Joaquin - Weston Ranch - SJ County Hospital,,1,26646,28874,0,0
+710,2,221024,San Joaquin - Weston Ranch - SJ County Hospital,,1,26646,28874,0,0
+710,2,221025,San Joaquin - Weston Ranch - SJ County Hospital,,1,26646,28874,0,0
+710,2,221026,San Joaquin - Weston Ranch - SJ County Hospital,,1,26646,28874,0,0
+710,2,221027,San Joaquin - Weston Ranch - SJ County Hospital,,1,26646,28874,0,0
+710,2,221028,San Joaquin - Weston Ranch - SJ County Hospital,,1,26646,28874,0,0
+710,2,221029,San Joaquin - Weston Ranch - SJ County Hospital,,1,26646,28874,0,0
+710,2,221030,San Joaquin - Weston Ranch - SJ County Hospital,,1,26646,28874,0,0
+710,2,221031,San Joaquin - Weston Ranch - SJ County Hospital,,1,26646,28874,0,0
+715,2,221050,MLK BLVD - Airport Way - Mariposa,,0,26648,28875,0,0
+715,2,221051,MLK BLVD - Airport Way - Mariposa,,0,26648,28875,0,0
+715,2,221052,MLK BLVD - Airport Way - Mariposa,,0,26648,28875,0,0
+715,2,221053,MLK BLVD - Airport Way - Mariposa,,0,26648,28875,0,0
+715,2,221054,MLK BLVD - Airport Way - Mariposa,,0,26648,28875,0,0
+715,2,221055,MLK BLVD - Airport Way - Mariposa,,0,26648,28875,0,0
+715,2,221056,MLK BLVD - Airport Way - Mariposa,,0,26648,28875,0,0
+715,2,221057,MLK BLVD - Airport Way - Mariposa,,0,26648,28875,0,0
+715,2,221062,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26648,28876,0,0
+715,2,221063,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26648,28876,0,0
+715,2,221064,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26648,28876,0,0
+715,2,221065,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26648,28876,0,0
+715,2,221058,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26648,28876,0,0
+715,2,221059,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26648,28876,0,0
+715,2,221060,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26648,28876,0,0
+715,2,221061,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26648,28876,0,0
+720,2,221082,California - Wilson Way - Wigwam,,0,26650,28877,0,0
+720,2,221083,California - Wilson Way - Wigwam,,0,26650,28877,0,0
+720,2,221084,California - Wilson Way - Wigwam,,0,26650,28877,0,0
+720,2,221085,California - Wilson Way - Wigwam,,0,26650,28877,0,0
+720,2,221086,California - Wilson Way - Wigwam,,0,26650,28877,0,0
+720,2,221087,California - Wilson Way - Wigwam,,0,26650,28877,0,0
+720,2,221088,California - Wilson Way - Wigwam,,0,26650,28877,0,0
+720,2,221089,California - Wilson Way - Wigwam,,0,26650,28877,0,0
+720,2,221090,California - Wilson Way - Wigwam,,0,26650,28877,0,0
+720,2,221091,Alpine - California - DTC,,1,26650,28878,0,0
+720,2,221092,Alpine - California - DTC,,1,26650,28878,0,0
+720,2,221093,Alpine - California - DTC,,1,26650,28878,0,0
+720,2,221094,Alpine - California - DTC,,1,26650,28878,0,0
+720,2,221095,Alpine - California - DTC,,1,26650,28878,0,0
+720,2,221096,Alpine - California - DTC,,1,26650,28878,0,0
+720,2,221097,Alpine - California - DTC,,1,26650,28878,0,0
+720,2,221098,Alpine - California - DTC,,1,26650,28878,0,0
+720,2,221099,Alpine - California - DTC,,1,26650,28878,0,0
+723,2,221118,Lodi Station via West Lane,,0,26652,28879,0,0
+723,2,221119,Lodi Station via West Lane,,0,26653,28879,0,0
+723,2,221120,Lodi Station via West Lane,,0,26652,28879,0,0
+723,2,221121,Lodi Station via West Lane,,0,26653,28879,0,0
+723,2,221122,Lodi Station via West Lane,,0,26652,28879,0,0
+723,2,221124,Lodi Station via West Lane,,0,26653,28879,0,0
+723,2,221125,Lodi Station via West Lane,,0,26652,28879,0,0
+723,2,221123,Lodi Station via West Lane,,0,26653,28879,0,0
+723,2,221126,Kaiser via West Lane - Malls - DTC,,1,26652,28880,0,0
+723,2,221127,Kaiser via West Lane - Malls - DTC,,1,26653,28880,0,0
+723,2,221128,Kaiser via West Lane - Malls - DTC,,1,26652,28880,0,0
+723,2,221129,Kaiser via West Lane - Malls - DTC,,1,26653,28880,0,0
+723,2,221130,Kaiser via West Lane - Malls - DTC,,1,26652,28880,0,0
+723,2,221131,Kaiser via West Lane - Malls - DTC,,1,26653,28880,0,0
+723,2,221132,Kaiser via West Lane - Malls - DTC,,1,26652,28880,0,0
+725,2,221148,Madison - Fremont - Main Street,,0,26656,28881,0,0
+725,2,221149,Madison - Fremont - Main Street,,0,26656,28881,0,0
+725,2,221150,Madison - Fremont - Main Street,,0,26656,28881,0,0
+725,2,221151,Madison - Fremont - Main Street,,0,26656,28881,0,0
+725,2,221152,Madison - Fremont - Main Street,,0,26656,28881,0,0
+725,2,221153,Madison - Fremont - Main Street,,0,26656,28881,0,0
+725,2,221154,Madison - Fremont - Main Street,,0,26656,28881,0,0
+725,2,221155,Madison - Fremont - Main Street,,0,26656,28881,0,0
+725,2,221156,Fremont - Madison - Acacia,,1,26656,28882,0,0
+725,2,221158,Fremont - Madison - Acacia,,1,26656,28882,0,0
+725,2,221159,Fremont - Madison - Acacia,,1,26656,28882,0,0
+725,2,221160,Fremont - Madison - Acacia,,1,26656,28882,0,0
+725,2,221157,Fremont - Madison - Acacia,,1,26656,28882,0,0
+725,2,221161,Fremont - Madison - Acacia,,1,26656,28882,0,0
+725,2,221162,Fremont - Madison - Acacia,,1,26656,28882,0,0
+725,2,221163,Fremont - Madison - Acacia,,1,26656,28882,0,0
+745,2,221180,Country Club - Pershing - Quail Lakes - Mall,,0,26658,28883,0,0
+745,2,221182,Country Club - Pershing - Quail Lakes - Mall,,0,26658,28883,0,0
+745,2,221181,Country Club - Pershing - Quail Lakes - Mall,,0,26658,28883,0,0
+745,2,221184,Country Club - Pershing - Quail Lakes - Mall,,0,26658,28883,0,0
+745,2,221185,Country Club - Pershing - Quail Lakes - Mall,,0,26658,28883,0,0
+745,2,221183,Country Club - Pershing - Quail Lakes - Mall,,0,26658,28883,0,0
+745,2,221186,Country Club - Pershing - Quail Lakes - Mall,,0,26658,28883,0,0
+745,2,221187,Country Club - Pershing - Quail Lakes - Mall,,0,26658,28883,0,0
+745,2,221188,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26658,28884,0,0
+745,2,221189,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26658,28884,0,0
+745,2,221190,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26658,28884,0,0
+745,2,221191,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26658,28884,0,0
+745,2,221192,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26658,28884,0,0
+745,2,221193,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26658,28884,0,0
+745,2,221194,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26658,28884,0,0
+745,2,221195,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26658,28884,0,0
+797,2,221256,Stockton - Manteca,,0,26666,28903,0,0
+797,2,221255,Stockton Airport - Manteca,,0,26667,28904,0,0
+797,2,221258,Stockton Airport - Manteca,,0,26666,28904,0,0
+797,2,221257,Stockton Airport - Manteca,,0,26667,28904,0,0
+797,2,221254,SJ County Hospital,,0,26666,28905,0,0
+797,2,221259,SJ County Hospital,,1,26667,28906,0,0
+797,2,221260,Stockton - SJ County Hospital - Tracy,,1,26666,28907,0,0
+797,2,221263,Stockton - SJ County Hospital - Tracy,,1,26667,28907,0,0
+797,2,221262,Stockton - SJ County Hospital - Tracy,,1,26666,28907,0,0
+797,2,221261,Stockton - DTC,,1,26667,28908,0,0
+40,3,221455,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221454,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221453,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221452,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221451,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221450,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221449,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221448,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221447,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221446,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221445,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221444,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221443,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221442,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221441,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221440,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221439,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221438,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221437,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221436,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221435,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221434,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221433,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221432,Metro Express - Pacific Avenue,,0,26726,28821,0,0
+40,3,221431,Metro Express - Pacific Avenue,,0,26725,28821,0,0
+40,3,221481,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221480,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221479,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221478,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221477,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221476,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221475,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221474,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221473,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221472,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221461,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221471,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221470,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221469,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221468,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221467,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221466,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221465,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221464,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221463,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221462,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221460,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221459,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221458,Metro Express - DTC,,1,26725,28822,0,0
+40,3,221457,Metro Express - DTC,,1,26726,28822,0,0
+40,3,221456,Metro Express - DTC,,1,26725,28822,0,0
+43,3,220564,Metro Express - Holman,,0,26618,28824,0,0
+43,3,220565,Metro Express - Holman,,0,26619,28824,0,0
+43,3,220566,Metro Express - Holman,,0,26618,28824,0,0
+43,3,220567,Metro Express - Holman,,0,26619,28824,0,0
+43,3,220568,Metro Express - Holman,,0,26618,28824,0,0
+43,3,220569,Metro Express - Holman,,0,26619,28824,0,0
+43,3,220570,Metro Express - Holman,,0,26618,28824,0,0
+43,3,220571,Metro Express - Holman,,0,26619,28824,0,0
+43,3,220572,Metro Express - Holman,,0,26618,28824,0,0
+43,3,220573,Metro Express - Holman,,0,26619,28824,0,0
+43,3,220574,Metro Express - Holman,,0,26618,28824,0,0
+43,3,220575,Metro Express - Holman,,0,26619,28824,0,0
+43,3,220576,Metro Express - Holman,,0,26618,28824,0,0
+43,3,220577,Metro Express - Holman,,0,26619,28824,0,0
+43,3,220578,Metro Express - Holman,,0,26618,28824,0,0
+43,3,220579,Metro Express - Holman,,0,26619,28824,0,0
+43,3,220580,Metro Express - Holman,,0,26618,28824,0,0
+43,3,220581,Metro Express - Holman,,0,26619,28824,0,0
+43,3,220582,Metro Express - Holman,,0,26618,28824,0,0
+43,3,220583,Metro Express - Holman,,0,26619,28824,0,0
+43,3,220584,Metro Express - Holman,,0,26618,28824,0,0
+43,3,220585,Metro Express - Mariners,,1,26619,28825,0,0
+43,3,220586,Metro Express - Mariners,,1,26618,28825,0,0
+43,3,220587,Metro Express - Mariners,,1,26619,28825,0,0
+43,3,220588,Metro Express - Mariners,,1,26618,28825,0,0
+43,3,220589,Metro Express - Mariners,,1,26619,28825,0,0
+43,3,220590,Metro Express - Mariners,,1,26618,28825,0,0
+43,3,220591,Metro Express - Mariners,,1,26619,28825,0,0
+43,3,220592,Metro Express - Mariners,,1,26618,28825,0,0
+43,3,220593,Metro Express - Mariners,,1,26619,28825,0,0
+43,3,220594,Metro Express - Mariners,,1,26618,28825,0,0
+43,3,220595,Metro Express - Mariners,,1,26619,28825,0,0
+43,3,220596,Metro Express - Mariners,,1,26618,28825,0,0
+43,3,220597,Metro Express - Mariners,,1,26619,28825,0,0
+43,3,220598,Metro Express - Mariners,,1,26618,28825,0,0
+43,3,220599,Metro Express - Mariners,,1,26619,28825,0,0
+43,3,220600,Metro Express - Mariners,,1,26618,28825,0,0
+43,3,220601,Metro Express - Mariners,,1,26619,28825,0,0
+43,3,220602,Metro Express - Mariners,,1,26618,28825,0,0
+43,3,220603,Metro Express - Mariners,,1,26619,28825,0,0
+43,3,220604,Metro Express - Mariners,,1,26618,28825,0,0
+43,3,220605,Metro Express - Mariners,,1,26619,28825,0,0
+44,3,221612,Metro Express - DTC,,0,26734,28827,0,0
+44,3,221608,Metro Express - DTC,,0,26733,28827,0,0
+44,3,221611,Metro Express - DTC,,0,26734,28827,0,0
+44,3,221610,Metro Express - DTC,,0,26733,28827,0,0
+44,3,221607,Metro Express - DTC,,0,26734,28827,0,0
+44,3,221606,Metro Express - DTC,,0,26733,28827,0,0
+44,3,221604,Metro Express - DTC,,0,26734,28827,0,0
+44,3,221603,Metro Express - DTC,,0,26733,28827,0,0
+44,3,221602,Metro Express - DTC,,0,26734,28827,0,0
+44,3,221609,Metro Express - DTC,,0,26733,28827,0,0
+44,3,221605,Metro Express - DTC,,0,26734,28827,0,0
+44,3,221598,Metro Express - DTC,,0,26733,28827,0,0
+44,3,221601,Metro Express - DTC,,0,26734,28827,0,0
+44,3,221600,Metro Express - DTC,,0,26733,28827,0,0
+44,3,221599,Metro Express - DTC,,0,26734,28827,0,0
+44,3,221593,Metro Express - DTC,,0,26733,28827,0,0
+44,3,221597,Metro Express - DTC,,0,26734,28827,0,0
+44,3,221596,Metro Express - DTC,,0,26733,28827,0,0
+44,3,221595,Metro Express - DTC,,0,26734,28827,0,0
+44,3,221594,Metro Express - DTC,,0,26733,28827,0,0
+44,3,221592,Metro Express - DTC,,0,26734,28827,0,0
+44,3,221591,Metro Express - DTC,,0,26733,28827,0,0
+44,3,221633,Metro Express - Airport Way,,1,26734,28959,0,0
+44,3,221627,Metro Express - Airport Way,,1,26733,28959,0,0
+44,3,221632,Metro Express - Airport Way,,1,26734,28959,0,0
+44,3,221626,Metro Express - Airport Way,,1,26733,28959,0,0
+44,3,221631,Metro Express - Airport Way,,1,26734,28959,0,0
+44,3,221630,Metro Express - Airport Way,,1,26733,28959,0,0
+44,3,221625,Metro Express - Airport Way,,1,26734,28959,0,0
+44,3,221621,Metro Express - Airport Way,,1,26733,28959,0,0
+44,3,221624,Metro Express - Airport Way,,1,26734,28959,0,0
+44,3,221620,Metro Express - Airport Way,,1,26733,28959,0,0
+44,3,221619,Metro Express - Airport Way,,1,26734,28959,0,0
+44,3,221629,Metro Express - Airport Way,,1,26733,28959,0,0
+44,3,221628,Metro Express - Airport Way,,1,26734,28959,0,0
+44,3,221623,Metro Express - Airport Way,,1,26733,28959,0,0
+44,3,221618,Metro Express - Airport Way,,1,26734,28959,0,0
+44,3,221617,Metro Express - Airport Way,,1,26733,28959,0,0
+44,3,221622,Metro Express - Airport Way,,1,26734,28959,0,0
+44,3,221616,Metro Express - Airport Way,,1,26733,28959,0,0
+44,3,221615,Metro Express - Airport Way,,1,26734,28959,0,0
+44,3,221614,Metro Express - Airport Way,,1,26733,28959,0,0
+44,3,221613,Metro Express - Airport Way,,1,26734,28959,0,0
+710,3,221033,Manthey - San Joaquin - DTC,,0,26647,28873,0,0
+710,3,221034,Manthey - San Joaquin - DTC,,0,26647,28873,0,0
+710,3,221036,Manthey - San Joaquin - DTC,,0,26647,28873,0,0
+710,3,221038,Manthey - San Joaquin - DTC,,0,26647,28873,0,0
+710,3,221035,Manthey - San Joaquin - DTC,,0,26647,28873,0,0
+710,3,221037,Manthey - San Joaquin - DTC,,0,26647,28873,0,0
+710,3,221039,Manthey - San Joaquin - DTC,,0,26647,28873,0,0
+710,3,221040,Manthey - San Joaquin - DTC,,0,26647,28873,0,0
+710,3,221032,Manthey - San Joaquin - DTC,,0,26647,28873,0,0
+710,3,221041,San Joaquin - Weston Ranch - SJ County Hospital,,1,26647,28874,0,0
+710,3,221042,San Joaquin - Weston Ranch - SJ County Hospital,,1,26647,28874,0,0
+710,3,221043,San Joaquin - Weston Ranch - SJ County Hospital,,1,26647,28874,0,0
+710,3,221044,San Joaquin - Weston Ranch - SJ County Hospital,,1,26647,28874,0,0
+710,3,221045,San Joaquin - Weston Ranch - SJ County Hospital,,1,26647,28874,0,0
+710,3,221046,San Joaquin - Weston Ranch - SJ County Hospital,,1,26647,28874,0,0
+710,3,221047,San Joaquin - Weston Ranch - SJ County Hospital,,1,26647,28874,0,0
+710,3,221048,San Joaquin - Weston Ranch - SJ County Hospital,,1,26647,28874,0,0
+710,3,221049,San Joaquin - Weston Ranch - SJ County Hospital,,1,26647,28874,0,0
+715,3,221066,MLK Blvd - Airport Way - Mariposa,,0,26649,28875,0,0
+715,3,221067,MLK Blvd - Airport Way - Mariposa,,0,26649,28875,0,0
+715,3,221068,MLK Blvd - Airport Way - Mariposa,,0,26649,28875,0,0
+715,3,221069,MLK Blvd - Airport Way - Mariposa,,0,26649,28875,0,0
+715,3,221070,MLK Blvd - Airport Way - Mariposa,,0,26649,28875,0,0
+715,3,221071,MLK Blvd - Airport Way - Mariposa,,0,26649,28875,0,0
+715,3,221072,MLK Blvd - Airport Way - Mariposa,,0,26649,28875,0,0
+715,3,221073,MLK Blvd - Airport Way - Mariposa,,0,26649,28875,0,0
+715,3,221074,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26649,28876,0,0
+715,3,221075,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26649,28876,0,0
+715,3,221076,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26649,28876,0,0
+715,3,221077,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26649,28876,0,0
+715,3,221078,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26649,28876,0,0
+715,3,221079,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26649,28876,0,0
+715,3,221080,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26649,28876,0,0
+715,3,221081,MLK Blvd - Lincoln - Fresno - 8th Street,,1,26649,28876,0,0
+720,3,221100,California - Wilson Way - Wigwam,,0,26651,28877,0,0
+720,3,221101,California - Wilson Way - Wigwam,,0,26651,28877,0,0
+720,3,221102,California - Wilson Way - Wigwam,,0,26651,28877,0,0
+720,3,221103,California - Wilson Way - Wigwam,,0,26651,28877,0,0
+720,3,221104,California - Wilson Way - Wigwam,,0,26651,28877,0,0
+720,3,221105,California - Wilson Way - Wigwam,,0,26651,28877,0,0
+720,3,221106,California - Wilson Way - Wigwam,,0,26651,28877,0,0
+720,3,221107,California - Wilson Way - Wigwam,,0,26651,28877,0,0
+720,3,221108,California - Wilson Way - Wigwam,,0,26651,28877,0,0
+720,3,221109,Alpine - California - DTC,,1,26651,28878,0,0
+720,3,221110,Alpine - California - DTC,,1,26651,28878,0,0
+720,3,221111,Alpine - California - DTC,,1,26651,28878,0,0
+720,3,221112,Alpine - California - DTC,,1,26651,28878,0,0
+720,3,221113,Alpine - California - DTC,,1,26651,28878,0,0
+720,3,221114,Alpine - California - DTC,,1,26651,28878,0,0
+720,3,221115,Alpine - California - DTC,,1,26651,28878,0,0
+720,3,221116,Alpine - California - DTC,,1,26651,28878,0,0
+720,3,221117,Alpine - California - DTC,,1,26651,28878,0,0
+723,3,221135,Lodi Station via West Lane,,0,26655,28879,0,0
+723,3,221134,Lodi Station via West Lane,,0,26654,28879,0,0
+723,3,221136,Lodi Station via West Lane,,0,26655,28879,0,0
+723,3,221140,Lodi Station via West Lane,,0,26654,28879,0,0
+723,3,221138,Lodi Station via West Lane,,0,26655,28879,0,0
+723,3,221133,Lodi Station via West Lane,,0,26654,28879,0,0
+723,3,221137,Lodi Station via West Lane,,0,26655,28879,0,0
+723,3,221139,Lodi Station via West Lane,,0,26654,28879,0,0
+723,3,221142,Kaiser via West Lane - Malls - DTC,,1,26655,28880,0,0
+723,3,221143,Kaiser via West Lane - Malls - DTC,,1,26654,28880,0,0
+723,3,221144,Kaiser via West Lane - Malls - DTC,,1,26655,28880,0,0
+723,3,221141,Kaiser via West Lane - Malls - DTC,,1,26654,28880,0,0
+723,3,221145,Kaiser via West Lane - Malls - DTC,,1,26655,28880,0,0
+723,3,221146,Kaiser via West Lane - Malls - DTC,,1,26654,28880,0,0
+723,3,221147,Kaiser via West Lane - Malls - DTC,,1,26655,28880,0,0
+725,3,221164,Madison - Fremont - Main Street,,0,26657,28881,0,0
+725,3,221165,Madison - Fremont - Main Street,,0,26657,28881,0,0
+725,3,221166,Madison - Fremont - Main Street,,0,26657,28881,0,0
+725,3,221167,Madison - Fremont - Main Street,,0,26657,28881,0,0
+725,3,221168,Madison - Fremont - Main Street,,0,26657,28881,0,0
+725,3,221169,Madison - Fremont - Main Street,,0,26657,28881,0,0
+725,3,221170,Madison - Fremont - Main Street,,0,26657,28881,0,0
+725,3,221171,Madison - Fremont - Main Street,,0,26657,28881,0,0
+725,3,221172,Fremont - Madison - Acacia,,1,26657,28882,0,0
+725,3,221173,Fremont - Madison - Acacia,,1,26657,28882,0,0
+725,3,221174,Fremont - Madison - Acacia,,1,26657,28882,0,0
+725,3,221175,Fremont - Madison - Acacia,,1,26657,28882,0,0
+725,3,221176,Fremont - Madison - Acacia,,1,26657,28882,0,0
+725,3,221177,Fremont - Madison - Acacia,,1,26657,28882,0,0
+725,3,221178,Fremont - Madison - Acacia,,1,26657,28882,0,0
+725,3,221179,Fremont - Madison - Acacia,,1,26657,28882,0,0
+745,3,221196,Country Club - Pershing - Quail Lakes - Mall,,0,26659,28883,0,0
+745,3,221197,Country Club - Pershing - Quail Lakes - Mall,,0,26659,28883,0,0
+745,3,221198,Country Club - Pershing - Quail Lakes - Mall,,0,26659,28883,0,0
+745,3,221199,Country Club - Pershing - Quail Lakes - Mall,,0,26659,28883,0,0
+745,3,221200,Country Club - Pershing - Quail Lakes - Mall,,0,26659,28883,0,0
+745,3,221201,Country Club - Pershing - Quail Lakes - Mall,,0,26659,28883,0,0
+745,3,221202,Country Club - Pershing - Quail Lakes - Mall,,0,26659,28883,0,0
+745,3,221203,Country Club - Pershing - Quail Lakes - Mall,,0,26659,28883,0,0
+745,3,221204,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26659,28884,0,0
+745,3,221205,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26659,28884,0,0
+745,3,221206,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26659,28884,0,0
+745,3,221207,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26659,28884,0,0
+745,3,221208,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26659,28884,0,0
+745,3,221209,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26659,28884,0,0
+745,3,221210,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26659,28884,0,0
+745,3,221211,Robinhood - Quail Lakes - Pershing - Alpine - Country Club,,1,26659,28884,0,0
+797,3,221264,Stockton - Manteca,,0,26668,28903,0,0
+797,3,221265,Stockton Airport - Manteca,,0,26669,28904,0,0
+797,3,221266,Stockton Airport - Manteca,,0,26668,28904,0,0
+797,3,221267,Stockton Airport - Manteca,,0,26669,28904,0,0
+797,3,221268,SJ County Hospital,,0,26668,28905,0,0
+797,3,221269,SJ COUNTY HOSPITAL,,1,26669,28906,0,0
+797,3,221270,Stockton - SJ County Hospital - Tracy,,1,26668,28907,0,0
+797,3,221273,Stockton - SJ County Hospital - Tracy,,1,26669,28907,0,0
+797,3,221272,Stockton - SJ County Hospital - Tracy,,1,26668,28907,0,0
+797,3,221271,Stockton - DTC,,1,26669,28908,0,0
+1,4,219928,Roundtrip Brookside Rd & March Lane NB,,0,26536,28742,0,0
+1,4,219929,West March Lane - Social Security - Quail Lakes,,0,26536,28741,0,0
+1,4,219930,West March Lane - Social Security - Quail Lakes,,0,26536,28741,0,0
+1,4,219931,West March Lane - Social Security - Quail Lakes,,0,26536,28741,0,0
+1,4,219932,West March Lane - Social Security - Quail Lakes,,0,26536,28741,0,0
+1,4,219933,West March Lane - Social Security - Quail Lakes,,0,26536,28741,0,0
+1,4,219934,West March Lane - Social Security - Quail Lakes,,0,26536,28741,0,0
+1,4,219935,West March Lane - Social Security - Quail Lakes,,0,26536,28741,0,0
+1,4,219936,West March Lane - Social Security - Quail Lakes,,0,26536,28741,0,0
+1,4,219937,West March Lane - Social Security - Quail Lakes,,0,26536,28741,0,0
+1,4,219938,West March Lane - Social Security - Quail Lakes,,0,26536,28741,0,0
+1,4,219939,,,0,26536,28740,0,0
+2,4,219941,Pershing - Ben Holt,,0,26537,28743,0,0
+2,4,219940,Pershing - Ben Holt,,0,26537,28743,0,0
+2,4,219942,Pershing - Ben Holt,,0,26537,28743,0,0
+2,4,219943,Pershing - Ben Holt,,0,26537,28743,0,0
+2,4,219944,Pershing - Ben Holt,,0,26537,28743,0,0
+2,4,219945,Pershing - Ben Holt,,0,26537,28743,0,0
+2,4,219946,Pershing - Ben Holt,,0,26537,28743,0,0
+2,4,219949,Pershing - Ben Holt,,0,26537,28743,0,0
+2,4,219947,Pershing - Ben Holt,,0,26537,28743,0,0
+2,4,219948,Pershing - Ben Holt,,0,26537,28743,0,0
+2,4,219950,Hammer - Don - Malls,,0,26537,28744,0,0
+3,4,219952,Malls - Pacific - Inglewood,,0,26538,28745,0,0
+3,4,219951,Malls - Pacific - Inglewood,,0,26538,28745,0,0
+3,4,219953,Malls - Pacific - Inglewood,,0,26538,28745,0,0
+3,4,219954,Malls - Pacific - Inglewood,,0,26538,28745,0,0
+3,4,219955,Malls - Pacific - Inglewood,,0,26538,28745,0,0
+3,4,219956,Malls - Pacific - Inglewood,,0,26538,28745,0,0
+3,4,219957,Malls - Pacific - Inglewood,,0,26538,28745,0,0
+3,4,219958,Malls - Pacific - Inglewood,,0,26538,28745,0,0
+3,4,219959,Malls - Pacific - Inglewood,,0,26538,28745,0,0
+3,4,219960,Iris - Hammer Triangle - Kaiser - Bianchi,,0,26538,28746,0,0
+4,4,219970,Pershing - Flora - Commerce - DTC,,0,26540,28747,0,0
+4,4,219969,Pershing - Flora - Commerce - DTC,,0,26539,28747,0,0
+4,4,219968,Pershing - Flora - Commerce - DTC,,0,26540,28747,0,0
+4,4,219967,Pershing - Flora - Commerce - DTC,,0,26539,28747,0,0
+4,4,219966,Pershing - Flora - Commerce - DTC,,0,26540,28747,0,0
+4,4,219965,Pershing - Flora - Commerce - DTC,,0,26539,28747,0,0
+4,4,219964,Pershing - Flora - Commerce - DTC,,0,26540,28747,0,0
+4,4,219963,Pershing - Flora - Commerce - DTC,,0,26539,28747,0,0
+4,4,219962,Pershing - Flora - Commerce - DTC,,0,26540,28747,0,0
+4,4,219961,Pershing - Flora - Commerce - DTC,,0,26539,28747,0,0
+4,4,219972,Commerce - Flora - Robinhood - Malls,,1,26540,28748,0,0
+4,4,219971,Commerce - Flora - Robinhood - Malls,,1,26539,28748,0,0
+4,4,219973,Commerce - Flora - Robinhood - Malls,,1,26540,28748,0,0
+4,4,219974,Commerce - Flora - Robinhood - Malls,,1,26539,28748,0,0
+4,4,219975,Commerce - Flora - Robinhood - Malls,,1,26540,28748,0,0
+4,4,219976,Commerce - Flora - Robinhood - Malls,,1,26539,28748,0,0
+4,4,219977,Commerce - Flora - Robinhood - Malls,,1,26540,28748,0,0
+4,4,219978,Commerce - Flora - Robinhood - Malls,,1,26539,28748,0,0
+4,4,219979,Commerce - Flora - Robinhood - Malls,,1,26540,28748,0,0
+5,4,219981,California - University Park - Oak Park - Malls,,0,26542,28749,0,0
+5,4,219980,California - University Park - Oak Park - Malls,,0,26541,28749,0,0
+5,4,219982,California - University Park - Oak Park - Malls,,0,26542,28749,0,0
+5,4,219983,California - University Park - Oak Park - Malls,,0,26541,28749,0,0
+5,4,219984,California - University Park - Oak Park - Malls,,0,26542,28749,0,0
+5,4,219985,California - University Park - Oak Park - Malls,,0,26541,28749,0,0
+5,4,219986,California - University Park - Oak Park - Malls,,0,26542,28749,0,0
+5,4,219987,California - University Park - Oak Park - Malls,,0,26541,28749,0,0
+5,4,219988,California - University Park - Oak Park - Malls,,0,26542,28749,0,0
+5,4,219990,Fulton - California - DTC - Eastland Plaza,,1,26542,28751,0,0
+5,4,219989,Fulton - California - DTC - Eastland Plaza,,1,26541,28751,0,0
+5,4,219991,Fulton - California - DTC - Eastland Plaza,,1,26542,28751,0,0
+5,4,219992,Fulton - California - DTC - Eastland Plaza,,1,26541,28751,0,0
+5,4,219993,Fulton - California - DTC - Eastland Plaza,,1,26542,28751,0,0
+5,4,219994,Fulton - California - DTC - Eastland Plaza,,1,26541,28751,0,0
+5,4,219995,Fulton - California - DTC - Eastland Plaza,,1,26542,28751,0,0
+5,4,219996,Fulton - California - DTC - Eastland Plaza,,1,26541,28751,0,0
+5,4,219997,Fulton - California - DTC - Eastland Plaza,,1,26542,28751,0,0
+5,4,219998,Southbound DTC Weber Ave,,1,26541,28750,0,0
+6,4,220000,Bianchi - West Lane - Hammer - Holman - Inspiration,,0,26543,28752,0,0
+6,4,219999,Bianchi - West Lane - Hammer - Holman - Inspiration,,0,26543,28752,0,0
+6,4,220001,Bianchi - West Lane - Hammer - Holman - Inspiration,,0,26543,28752,0,0
+6,4,220002,Bianchi - West Lane - Hammer - Holman - Inspiration,,0,26543,28752,0,0
+6,4,220003,Bianchi - West Lane - Hammer - Holman - Inspiration,,0,26543,28752,0,0
+6,4,220004,Bianchi - West Lane - Hammer - Holman - Inspiration,,0,26543,28752,0,0
+6,4,220005,Bianchi - West Lane - Hammer - Holman - Inspiration,,0,26543,28752,0,0
+6,4,220006,Bianchi - West Lane - Hammer - Holman - Inspiration,,0,26543,28752,0,0
+6,4,220007,Bianchi - West Lane - Hammer - Holman - Inspiration,,0,26543,28752,0,0
+6,4,220008,Lorraine - Malls,,0,26543,28753,0,0
+7,4,220010,Lincoln - Commerce - DTC,,0,26544,28754,0,0
+7,4,220009,Lincoln - Commerce - DTC,,0,26544,28754,0,0
+7,4,220011,Lincoln - Commerce - DTC,,0,26544,28754,0,0
+7,4,220012,Lincoln - Commerce - DTC,,0,26544,28754,0,0
+7,4,220013,Lincoln - Commerce - DTC,,0,26544,28754,0,0
+7,4,220014,Lincoln - Commerce - DTC,,0,26544,28754,0,0
+7,4,220015,Lincoln - Commerce - DTC,,0,26544,28754,0,0
+7,4,220016,Lincoln - Commerce - DTC,,0,26544,28754,0,0
+7,4,220017,Lincoln - Commerce - DTC,,0,26544,28754,0,0
+7,4,220018,Lincoln - Commerce - DTC,,0,26544,28754,0,0
+7,4,220020,Commerce - Lincoln - Weston Ranch - William Moss,,1,26544,28755,0,0
+7,4,220019,Commerce - Lincoln - Weston Ranch - William Moss,,1,26544,28755,0,0
+7,4,220021,Commerce - Lincoln - Weston Ranch - William Moss,,1,26544,28755,0,0
+7,4,220022,Commerce - Lincoln - Weston Ranch - William Moss,,1,26544,28755,0,0
+7,4,220023,Commerce - Lincoln - Weston Ranch - William Moss,,1,26544,28755,0,0
+7,4,220024,Commerce - Lincoln - Weston Ranch - William Moss,,1,26544,28755,0,0
+7,4,220025,Commerce - Lincoln - Weston Ranch - William Moss,,1,26544,28755,0,0
+7,4,220026,Commerce - Lincoln - Weston Ranch - William Moss,,1,26544,28755,0,0
+7,4,220027,Commerce - Lincoln - Weston Ranch - William Moss,,1,26544,28755,0,0
+7,4,220028,Commerce - Lincoln - Weston Ranch - William Moss,,1,26544,28755,0,0
+8,4,220030,East March - Hammer/Holman - Shadow Lakes Mobile Home Park,,0,26545,28756,0,0
+8,4,220029,East March - Hammer/Holman - Shadow Lakes Mobile Home Park,,0,26545,28756,0,0
+8,4,220031,East March - Hammer/Holman - Shadow Lakes Mobile Home Park,,0,26545,28756,0,0
+8,4,220032,East March - Hammer/Holman - Shadow Lakes Mobile Home Park,,0,26545,28756,0,0
+8,4,220033,East March - Hammer/Holman - Shadow Lakes Mobile Home Park,,0,26545,28756,0,0
+8,4,220034,East March - Hammer/Holman - Shadow Lakes Mobile Home Park,,0,26545,28756,0,0
+8,4,220035,East March - Hammer/Holman - Shadow Lakes Mobile Home Park,,0,26545,28756,0,0
+8,4,220036,East March - Hammer/Holman - Shadow Lakes Mobile Home Park,,0,26545,28756,0,0
+8,4,220037,East March - Hammer/Holman - Shadow Lakes Mobile Home Park,,0,26545,28756,0,0
+8,4,220038,East March - Hammer/Holman - Shadow Lakes Mobile Home Park,,0,26545,28756,0,0
+8,4,220039,East March - Hammer/Holman - Shadow Lakes Mobile Home Park,,0,26545,28756,0,0
+8,4,220041,Holman - East March - Malls,,1,26545,28757,0,0
+8,4,220040,Holman - East March - Malls,,1,26545,28757,0,0
+8,4,220042,Holman - East March - Malls,,1,26545,28757,0,0
+8,4,220043,Holman - East March - Malls,,1,26545,28757,0,0
+8,4,220044,Holman - East March - Malls,,1,26545,28757,0,0
+8,4,220045,Holman - East March - Malls,,1,26545,28757,0,0
+8,4,220046,Holman - East March - Malls,,1,26545,28757,0,0
+8,4,220047,Holman - East March - Malls,,1,26545,28757,0,0
+8,4,220048,Holman - East March - Malls,,1,26545,28757,0,0
+8,4,220049,Holman - East March - Malls,,1,26545,28757,0,0
+9,4,220059,Wilson - 8th - Airport - Hazelton - DTC,,0,26546,28758,0,0
+9,4,220058,Wilson - 8th - Airport - Hazelton - DTC,,0,26546,28758,0,0
+9,4,220057,Wilson - 8th - Airport - Hazelton - DTC,,0,26546,28758,0,0
+9,4,220056,Wilson - 8th - Airport - Hazelton - DTC,,0,26546,28758,0,0
+9,4,220055,Wilson - 8th - Airport - Hazelton - DTC,,0,26546,28758,0,0
+9,4,220054,Wilson - 8th - Airport - Hazelton - DTC,,0,26546,28758,0,0
+9,4,220053,Wilson - 8th - Airport - Hazelton - DTC,,0,26546,28758,0,0
+9,4,220052,Wilson - 8th - Airport - Hazelton - DTC,,0,26546,28758,0,0
+9,4,220051,Wilson - 8th - Airport - Hazelton - DTC,,0,26546,28758,0,0
+9,4,220050,Wilson - Nightingale,,0,26546,28759,0,0
+150,4,220068,Livermore/Dublin BART,,0,26554,28764,0,0
+150,4,220073,Livermore/Dublin BART,,0,26558,28766,0,0
+150,4,220066,Livermore/Dublin BART,,0,26552,28764,0,0
+150,4,220074,Livermore/Dublin BART,,0,26558,28766,0,0
+150,4,220069,Southbound Tracy Park and Ride,,0,26555,28765,0,0
+150,4,220065,Southbound Tracy Park and Ride,,0,26552,28765,0,0
+150,4,220070,Southbound Tracy Park and Ride,,0,26555,28765,0,0
+150,4,220067,Southbound Tracy Park and Ride,,0,26553,28765,0,0
+150,4,220071,Southbound Tracy Park and Ride,,0,26556,28765,0,0
+150,4,220072,Southbound Tracy Park and Ride,,0,26557,28765,0,0
+150,4,220064,Southbound Tracy Park and Ride,,0,26551,28765,0,0
+150,4,220079,Dublin - Stockton,,1,26554,28772,0,0
+150,4,220080,Dublin - Stockton,,1,26552,28772,0,0
+150,4,220081,Dublin - Stockton,,1,26555,28772,0,0
+150,4,220082,Dublin - Stockton,,1,26552,28772,0,0
+150,4,220083,Dublin - Stockton,,1,26555,28772,0,0
+150,4,220084,Dublin - Stockton,,1,26553,28771,0,0
+150,4,220076,Dublin - Stockton,,1,26556,28771,0,0
+150,4,220077,Northbound Manteca Main @ Northgate P&R,,1,26559,28770,0,0
+150,4,220085,Dublin - Stockton,,1,26557,28771,0,0
+150,4,220078,Northbound Manteca Main @ Northgate P&R,,1,26559,28770,0,0
+150,4,220075,Northbound Manteca Main @ Northgate P&R,,1,26559,28770,0,0
+150,4,220086,Dublin - Stockton,,1,26551,28771,0,0
+152,4,220087,Westbound East Gate Arrive,,0,26560,28773,0,0
+152,4,220088,Eastbound Michigan & Kirk,,1,26561,28774,0,0
+163,4,220089,Sacramento 99 Northbound Sac RT bus lot 29th & N,,0,26562,28775,0,0
+163,4,220090,Sacramento 99 Southbound,,1,26563,28776,0,0
+165,4,220091,Sacramento I-5 Northbound RT Lot Depart,,0,26564,28777,0,0
+165,4,220092,Sacramento I-5 Southbound Michigan & Kirk,,1,26565,28778,0,0
+172,4,220093,Lockheed 4 Westbound 1st/Mathilda,,0,26566,28779,0,0
+172,4,220094,Lockheed 4 Eastbound Marina Center,,1,26567,28780,0,0
+173,4,220095,Northrop/Grumman Westbound VTA Lot Parkout Depart,,0,26568,28781,0,0
+173,2604,220096,Northrop/Grumman Eastbound Stockton Inn,,1,26569,28782,0,0
+173,2504,220097,Northrop/Grumman Eastbound Stockton Inn,,1,26569,28782,0,0
+23,4,220098,Lodi Station via West Lane,,0,26570,28784,0,0
+23,4,220099,Kaiser via West Lane - Malls - DTC,,0,26571,28783,0,0
+23,4,220100,Kaiser via West Lane - Malls - DTC,,0,26572,28783,0,0
+23,4,220101,Kaiser via West Lane - Malls - DTC,,0,26572,28783,0,0
+23,4,220102,Kaiser via West Lane - Malls - DTC,,0,26573,28783,0,0
+23,4,220103,Kaiser via West Lane - Malls - DTC,,0,26574,28783,0,0
+23,4,220104,Kaiser via West Lane - Malls - DTC,,0,26575,28783,0,0
+23,4,220105,Pacific/Yokuts Only,,1,26570,28786,0,0
+23,4,220106,Lodi - Stockton Downtown Transit Center,,1,26576,28785,0,0
+23,4,220107,Lodi - Stockton Downtown Transit Center,,1,26570,28785,0,0
+23,4,220108,Lodi - Stockton Downtown Transit Center,,1,26571,28785,0,0
+23,4,220109,Lodi - Stockton Downtown Transit Center,,1,26572,28785,0,0
+23,4,220110,Lodi - Stockton Downtown Transit Center,,1,26572,28785,0,0
+23,4,220111,Lodi - Stockton Downtown Transit Center,,1,26573,28785,0,0
+23,4,220112,Lodi - Stockton Downtown Transit Center,,1,26574,28785,0,0
+310,4,220113,MLK Blvd - DTC,,0,26577,28787,0,0
+310,4,220115,MLK Blvd - DTC,,0,26577,28787,0,0
+310,4,220114,MLK Blvd - DTC,,0,26578,28787,0,0
+310,4,220116,MLK Blvd - El Dorado - 8th Street,,1,26577,28788,0,0
+310,4,220117,MLK Blvd - El Dorado - 8th Street,,1,26577,28788,0,0
+310,4,220118,MLK Blvd - El Dorado - 8th Street,,1,26578,28788,0,0
+315,4,220119,Amtrak - DTC,,0,26579,28790,0,0
+315,4,220120,MLK Blvd - San Joaquin - DTC,,0,26580,28789,0,0
+315,4,220121,MLK Blvd - San Joaquin-DTC,,0,26580,28791,0,0
+315,4,220122,Argonaut - 8th - Houston,,1,26579,28792,0,0
+315,4,220123,Argonaut - 8th - Houston,,1,26580,28793,0,0
+315,4,220124,Argonaut - 8th - Houston,,1,26580,28793,0,0
+340,4,220125,Alpine - Holman - Morada,,0,26578,28794,0,0
+340,4,220126,Holman - Alpine - Farm,,1,26581,28795,0,0
+345,4,220128,Kermit - Hammer - Kaiser,,0,26582,28796,0,0
+345,4,220127,Kermit - Hammer - Kaiser,,0,26582,28796,0,0
+345,4,220129,Tam O Shanter - Kermit - Malls,,1,26582,28797,0,0
+345,4,220130,Hammer - Holman,,1,26582,28799,0,0
+345,4,220131,Tam O Shanter - Kermit - Malls,,1,26583,28798,0,0
+360,4,220132,Alpine - Holman,,0,26584,28800,0,0
+360,4,220133,Sanguinetti - Cherokee - DTC,,1,26585,28801,0,0
+365,4,220134,Swain - Kelley - Don - Otto,,0,26586,28804,0,0
+365,4,220135,Swain - Kelley - Don - Otto,,0,26586,28805,0,0
+365,4,220136,Swain - Kelley - Don - Otto,,0,26587,28804,0,0
+365,4,220139,Swain - Kelley - Don - Otto,,0,26587,28804,0,0
+365,4,220137,Don - Wagner Heights - Otto,,0,26587,28802,0,0
+365,4,220138,Swain - Kelley - Don - Otto,,0,26588,28803,0,0
+365,4,220140,Don - Hammer Triangle,,1,26586,28808,0,0
+365,4,220141,Swain - Kelley - Don - Otto,,1,26586,28806,0,0
+365,4,220142,Otto - Don - Hammer,,1,26586,28807,0,0
+365,4,220143,Don - Hammer Triangle,,1,26587,28808,0,0
+365,4,220144,Otto - Don - Hammer,,1,26587,28807,0,0
+365,4,220145,Swain - Kelley - Don - Otto,,1,26587,28806,0,0
+375,4,220148,Calworks - Cherokee - Holman - Morada,,0,26590,28809,0,0
+375,4,220149,Calworks - Cherokee - Holman - Morada,,0,26589,28809,0,0
+375,4,220146,Calworks - Cherokee - Holman - Morada,,0,26589,28809,0,0
+375,4,220147,Morada - Diamond Bar,,0,26589,28810,0,0
+375,4,220152,Holman - Cherokee - DTC,,1,26590,28811,0,0
+375,4,220153,Holman - Cherokee - DTC,,1,26589,28812,0,0
+375,4,220150,Holman - Cherokee - DTC,,1,26589,28812,0,0
+375,4,220151,Hammer,,1,26589,28813,0,0
+375,4,220154,Hammer,,1,26589,28813,0,0
+380,4,220155,Airport Way - 10th Street,,0,26591,28814,0,0
+380,4,220156,Airport Way - 10th Street,,0,26592,28814,0,0
+380,4,220157,Airport Way - 10th Street,,1,26593,28815,0,0
+380,4,220158,Airport Way - 10th Street,,1,26594,28816,0,0
+385,4,220159,Farm - Togninali - Arch Rd,,0,26595,28817,0,0
+385,4,220160,Oro - Farm - DTC,,1,26596,28818,0,0
+385,4,220161,Oro - Farm - DTC,,1,26745,28818,0,0
+390,4,220162,POCK - ORO/FARM - DTC,,0,26585,28819,0,0
+390,4,220163,Farm - Togninali - Frontage 99,,1,26590,28820,0,0
+40,4,220184,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220164,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220182,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220183,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220185,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220186,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220165,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220188,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220189,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220166,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220190,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220187,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220167,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220191,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220192,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220193,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220194,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220195,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220168,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220169,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220196,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220197,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220198,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220199,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220170,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220200,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220201,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220202,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220203,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220171,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220172,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220204,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220205,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220206,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220207,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220208,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220173,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220209,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220210,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220174,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220211,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220212,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220175,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220213,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220214,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220215,Metro Express - Pacific Avenue,,0,26720,28821,0,0
+40,4,220216,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220217,Metro Express - Pacific Avenue,,0,26719,28821,0,0
+40,4,220176,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220177,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220218,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220219,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220220,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220221,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220178,Metro Express - Pacific Avenue,,0,26722,28821,0,0
+40,4,220222,Metro Express - Pacific Avenue,,0,26721,28821,0,0
+40,4,220274,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220275,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220276,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220277,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220278,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220241,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220271,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220273,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220272,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220253,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220255,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220235,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220254,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220256,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220236,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220257,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220258,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220237,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220259,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220260,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220261,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220262,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220263,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220238,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220239,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220264,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220265,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220266,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220267,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220240,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220268,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220269,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220270,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220279,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220242,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220243,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220280,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220281,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220282,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220283,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220284,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220244,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220285,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220286,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220245,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220287,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220288,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220246,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220289,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220290,Metro Express - DTC,,1,26720,28822,0,0
+40,4,220291,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220292,Metro Express - DTC,,1,26719,28822,0,0
+40,4,220293,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220247,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220248,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220294,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220295,Metro Express - DTC,,1,26722,28822,0,0
+40,4,220296,Metro Express - DTC,,1,26721,28822,0,0
+40,4,220297,Metro Express - DTC,,1,26722,28822,0,0
+43,4,220424,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220425,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220426,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220427,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220428,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220429,Metro Express - Holman,,0,26615,28824,0,0
+43,4,220430,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220431,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220432,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220433,Metro Express - Holman,,0,26718,28824,0,0
+43,4,220434,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220435,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220436,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220437,Metro Express - Holman,,0,26718,28824,0,0
+43,4,220438,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220439,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220440,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220441,Metro Express - Holman,,0,26718,28824,0,0
+43,4,220442,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220443,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220444,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220445,Metro Express - Holman,,0,26718,28824,0,0
+43,4,220446,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220447,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220448,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220449,Metro Express - Holman,,0,26718,28824,0,0
+43,4,220450,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220451,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220452,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220453,Metro Express - Holman,,0,26718,28824,0,0
+43,4,220454,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220455,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220456,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220457,Metro Express - Holman,,0,26718,28824,0,0
+43,4,220458,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220459,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220460,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220461,Metro Express - Holman,,0,26718,28824,0,0
+43,4,220462,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220463,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220464,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220465,Metro Express - Holman,,0,26718,28824,0,0
+43,4,220466,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220467,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220468,Metro Express - Holman,,0,26613,28824,0,0
+43,4,220469,Metro Express - Holman,,0,26718,28824,0,0
+43,4,220470,Metro Express - Holman,,0,26612,28824,0,0
+43,4,220471,Metro Express - Holman,,0,26614,28824,0,0
+43,4,221429,Metro Express - Holman,,0,26612,28824,0,0
+43,4,221430,Metro Express - Holman,,0,26614,28824,0,0
+43,4,220472,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220473,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220474,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220475,Metro Express - Mariners,,1,26615,28825,0,0
+43,4,220476,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220477,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220478,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220479,Metro Express - Mariners,,1,26615,28825,0,0
+43,4,220480,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220481,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220482,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220483,Metro Express - Mariners,,1,26718,28825,0,0
+43,4,220484,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220485,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220486,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220487,Metro Express - Mariners,,1,26718,28825,0,0
+43,4,220488,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220489,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220490,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220491,Metro Express - Mariners,,1,26718,28825,0,0
+43,4,220492,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220493,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220494,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220495,Metro Express - Mariners,,1,26718,28825,0,0
+43,4,220496,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220497,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220498,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220499,Metro Express - Mariners,,1,26718,28825,0,0
+43,4,220500,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220501,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220502,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220503,Metro Express - Mariners,,1,26718,28825,0,0
+43,4,220504,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220505,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220506,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220508,Metro Express - Mariners,,1,26718,28825,0,0
+43,4,220509,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220512,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220507,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220510,Metro Express - Mariners,,1,26718,28825,0,0
+43,4,220511,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220513,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220514,Metro Express - Mariners,,1,26613,28825,0,0
+43,4,220515,Metro Express - Mariners,,1,26718,28825,0,0
+43,4,220517,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220516,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220518,Metro Express - Mariners,,1,26718,28825,0,0
+43,4,220519,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,220520,Metro Express - Mariners,,1,26614,28825,0,0
+43,4,220521,Metro Express - Mariners,,1,26612,28825,0,0
+43,4,221428,Metro Express - Mariners,,1,26614,28825,0,0
+44,4,221525,Metro Express - DTC,,0,26727,28960,0,0
+44,4,221529,Metro Express - DTC,,0,26728,28960,0,0
+44,4,221533,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221527,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221534,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221535,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221536,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221537,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221539,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221540,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221541,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221542,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221543,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221546,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221538,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221544,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221545,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221547,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221548,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221549,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221550,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221551,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221552,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221555,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221556,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221553,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221554,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221557,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221558,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221559,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221560,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221561,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221562,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221563,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221564,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221566,Metro Express - DTC,,0,26729,28827,0,0
+44,4,221565,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221567,Metro Express - DTC,,0,26728,28827,0,0
+44,4,221568,Metro Express - DTC,,0,26727,28827,0,0
+44,4,221482,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221483,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221487,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221490,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221484,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221485,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221488,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221491,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221489,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221492,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221493,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221495,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221496,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221494,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221497,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221498,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221499,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221501,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221502,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221503,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221500,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221504,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221505,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221513,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221507,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221508,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221514,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221515,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221516,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221517,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221518,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221519,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221520,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221521,Metro Express - Airport Way,,1,26729,28959,0,0
+44,4,221522,Metro Express - Airport Way,,1,26727,28959,0,0
+44,4,221523,Metro Express - Airport Way,,1,26728,28959,0,0
+44,4,221524,Metro Express - Airport Way,,1,26727,28959,0,0
+51,4,220779,SJ County Hospitals - Malls,,0,26628,28831,0,0
+51,4,220780,SJ County Hospitals - Malls,,0,26626,28831,0,0
+51,4,220771,SJ County Hospitals - Malls,,0,26625,28831,0,0
+51,4,220778,SJ County Hospitals - Malls,,0,26626,28831,0,0
+51,4,220772,SJ County Hospitals - Malls,,0,26625,28831,0,0
+51,4,220782,SJ County Hospitals - Malls,,0,26626,28831,0,0
+51,4,220773,SJ County Hospitals - Malls,,0,26625,28831,0,0
+51,4,220783,SJ County Hospitals - Malls,,0,26626,28831,0,0
+51,4,220774,SJ County Hospitals - Malls,,0,26625,28831,0,0
+51,4,220775,SJ County Hospitals - Malls,,0,26626,28831,0,0
+51,4,220770,SJ County Hospitals - Malls,,0,26625,28831,0,0
+51,4,220776,SJ County Hospitals - Malls,,0,26627,28831,0,0
+51,4,220777,SJ County Hospitals - Malls,,0,26625,28831,0,0
+51,4,220781,Amtrak Station - San Joaquin Hospital,,0,26627,28832,0,0
+51,4,220784,SJ County Hospital - Weston Ranch,,0,26625,28830,0,0
+51,4,220798,Amtrak Station - SJ County Hospital,,1,26626,28833,0,0
+51,4,220797,Amtrak Station - SJ County Hospital,,1,26625,28834,0,0
+51,4,220785,Amtrak Station - SJ County Hospital,,1,26626,28834,0,0
+51,4,220796,Amtrak Station - SJ County Hospital,,1,26625,28834,0,0
+51,4,220789,Amtrak Station - SJ County Hospital,,1,26626,28834,0,0
+51,4,220786,Amtrak Station - SJ County Hospital,,1,26625,28834,0,0
+51,4,220790,Amtrak Station - SJ County Hospital,,1,26626,28834,0,0
+51,4,220791,Amtrak Station - SJ County Hospital,,1,26625,28834,0,0
+51,4,220787,Amtrak Station - SJ County Hospital,,1,26626,28834,0,0
+51,4,220792,Amtrak Station - SJ County Hospital,,1,26625,28834,0,0
+51,4,220793,Amtrak Station - SJ County Hospital,,1,26627,28834,0,0
+51,4,220788,Amtrak Station - SJ County Hospital,,1,26625,28833,0,0
+51,4,220794,Amtrak Station - SJ County Hospital,,1,26627,28834,0,0
+51,4,220795,Amtrak Station - SJ County Hospital,,1,26625,28833,0,0
+52,4,220799,California - West Lane - Kaiser,,0,26629,28835,0,0
+52,4,220800,California - West Lane - Kaiser,,0,26630,28836,0,0
+52,4,220801,California - West Lane - Kaiser,,0,26629,28836,0,0
+52,4,220802,California - West Lane - Kaiser,,0,26630,28836,0,0
+52,4,220803,California - West Lane - Kaiser,,0,26629,28836,0,0
+52,4,220804,California - West Lane - Kaiser,,0,26630,28836,0,0
+52,4,220805,California - West Lane - Kaiser,,0,26629,28836,0,0
+52,4,220806,California - West Lane - Kaiser,,0,26630,28836,0,0
+52,4,220807,California - West Lane - Kaiser,,0,26629,28836,0,0
+52,4,220808,California - West Lane - Kaiser,,0,26630,28836,0,0
+52,4,220809,California - West Lane - Kaiser,,0,26629,28836,0,0
+52,4,220810,California - West Lane - Kaiser,,0,26630,28836,0,0
+52,4,220811,Hosptials - DTC,,0,26629,28837,0,0
+52,4,220812,California - Manthey - Honor Farm,,1,26629,28838,0,0
+52,4,220813,California - Manthey - Honor Farm,,1,26630,28838,0,0
+52,4,220814,California - Manthey - Honor Farm,,1,26629,28838,0,0
+52,4,220815,California - Manthey - Honor Farm,,1,26630,28838,0,0
+52,4,220816,California - Manthey - Honor Farm,,1,26629,28838,0,0
+52,4,220817,California - Manthey - Honor Farm,,1,26630,28838,0,0
+52,4,220818,California - Manthey - Honor Farm,,1,26629,28838,0,0
+52,4,220819,California - Manthey - Honor Farm,,1,26630,28838,0,0
+52,4,220820,California - Manthey - Honor Farm,,1,26629,28838,0,0
+52,4,220821,California - Manthey - Honor Farm,,1,26630,28838,0,0
+52,4,220822,California - Manthey - Honor Farm,,1,26629,28838,0,0
+52,4,220823,California - DTC,,1,26630,28839,0,0
+54,4,220824,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220825,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220826,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220827,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220828,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220829,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220830,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220831,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220832,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220833,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220834,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220835,Lincoln - Amtrak Station - DTC,,0,26631,28840,0,0
+54,4,220836,Lincoln - Amtrak Station - DTC,,0,26632,28840,0,0
+54,4,220837,San Joaquin - Houston,,1,26631,28842,0,0
+54,4,220838,San Joaquin - Houston,,1,26631,28841,0,0
+54,4,220839,San Joaquin - Houston,,1,26631,28841,0,0
+54,4,220840,San Joaquin - Houston,,1,26631,28841,0,0
+54,4,220841,San Joaquin - Houston,,1,26631,28841,0,0
+54,4,220842,San Joaquin - Houston,,1,26631,28841,0,0
+54,4,220843,San Joaquin - Houston,,1,26631,28841,0,0
+54,4,220844,San Joaquin - Houston,,1,26631,28841,0,0
+54,4,220845,San Joaquin - Houston,,1,26631,28841,0,0
+54,4,220846,San Joaquin - Houston,,1,26631,28841,0,0
+54,4,220847,San Joaquin - Houston,,1,26631,28841,0,0
+54,4,220848,San Joaquin - Houston,,1,26631,28841,0,0
+54,4,220849,San Joaquin - Houston,,1,26632,28841,0,0
+55,4,220852,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26702,28843,0,0
+55,4,220853,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26702,28843,0,0
+55,4,220854,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26702,28843,0,0
+55,4,220855,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26703,28843,0,0
+55,4,220856,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26703,28843,0,0
+55,4,220857,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26703,28843,0,0
+55,4,220858,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26703,28843,0,0
+55,4,220859,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26703,28843,0,0
+55,4,220860,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26703,28843,0,0
+55,4,220861,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26703,28843,0,0
+55,4,220851,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26703,28843,0,0
+55,4,220863,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26703,28843,0,0
+55,4,220862,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26703,28843,0,0
+55,4,220850,Weston Ranch - MLK Blvd - Stanislaus - DTC,,0,26703,28843,0,0
+55,4,220864,Weston Ranch,,1,26702,28844,0,0
+55,4,220865,DTC - Stanislaus - MLK - Weston Ranch,,1,26702,28845,0,0
+55,4,220866,DTC - Stanislaus - MLK - Weston Ranch,,1,26702,28845,0,0
+55,4,220867,DTC - Stanislaus - MLK - Weston Ranch,,1,26703,28845,0,0
+55,4,220868,DTC - Stanislaus - MLK - Weston Ranch,,1,26703,28845,0,0
+55,4,220869,DTC - Stanislaus - MLK - Weston Ranch,,1,26703,28845,0,0
+55,4,220871,DTC - Stanislaus - MLK - Weston Ranch,,1,26703,28845,0,0
+55,4,220872,DTC - Stanislaus - MLK - Weston Ranch,,1,26703,28845,0,0
+55,4,220874,DTC - Stanislaus - MLK - Weston Ranch,,1,26703,28845,0,0
+55,4,220875,DTC - Stanislaus - MLK - Weston Ranch,,1,26703,28845,0,0
+55,4,220870,DTC - Stanislaus - MLK - Weston Ranch,,1,26703,28845,0,0
+55,4,220876,DTC - Stanislaus - MLK - Weston Ranch,,1,26703,28845,0,0
+55,4,220877,DTC - Stanislaus - MLK - Weston Ranch,,1,26703,28845,0,0
+55,4,220873,DTC - Stanislaus - MLK - Weston Ranch,,1,26703,28845,0,0
+60,4,220888,Monte Diable - Pixie Woods,,0,26635,28846,0,0
+60,4,220884,Monte Diable - Pixie Woods,,0,26635,28849,0,0
+60,4,220885,Monte Diable - Pixie Woods,,0,26635,28848,0,0
+60,4,220886,Monte Diable - Pixie Woods,,0,26635,28848,0,0
+60,4,220887,Monte Diable - Pixie Woods via Lincoln - Waterfront,,0,26635,28847,0,0
+60,4,220889,Monte Diable - Pixie Woods,,0,26745,28846,0,0
+60,4,220879,Monte Diable - Pixie Woods via Lincoln - Waterfront,,0,26745,28847,0,0
+60,4,220880,Monte Diable - Pixie Woods via Lincoln - Waterfront,,0,26745,28847,0,0
+60,4,220881,Monte Diable - Pixie Woods via Lincoln - Waterfront,,0,26745,28847,0,0
+60,4,220882,Monte Diable - Pixie Woods via Lincoln - Waterfront,,0,26745,28847,0,0
+60,4,220883,Monte Diable - Pixie Woods via Lincoln - Waterfront,,0,26745,28847,0,0
+60,4,220878,Monte Diable - Pixie Woods,,0,26630,28848,0,0
+60,4,220891,Monte Diable - Pixie Woods via Lincoln - WATERFRONT,,1,26635,28852,0,0
+60,4,220892,West Fremont - DTC,,1,26635,28850,0,0
+60,4,220893,Monte Diabloe - Pixie Woods via Lincoln - Waterfront,,1,26635,28852,0,0
+60,4,220890,Monte Diabloe - Pixie Woods via Lincoln - Waterfront,,1,26635,28852,0,0
+60,4,220894,Monte Diabloe - Pixie Woods via Lincoln - Waterfront,,1,26635,28852,0,0
+60,4,220895,Monte Diabloe - Pixie Woods via Lincoln - Waterfront,,1,26745,28852,0,0
+60,4,220896,Monte Diabloe - Pixie Woods via Lincoln - Waterfront,,1,26745,28852,0,0
+60,4,220897,Monte Diabloe - Pixie Woods via Lincoln - Waterfront,,1,26745,28852,0,0
+60,4,220898,Monte Diabloe - Pixie Woods via Lincoln - Waterfront,,1,26745,28852,0,0
+60,4,220899,Monte Diabloe - Pixie Woods via Lincoln - Waterfront,,1,26745,28852,0,0
+60,4,220900,Monte Diabloe - Pixie Woods via Lincoln - Waterfront,,1,26745,28851,0,0
+60,4,221674,Monte Diabloe - Pixie Woods via Lincoln - Waterfront,,1,26630,28852,0,0
+61,4,220905,Quail Lakes - Mall,,0,26637,28854,0,0
+61,4,220906,Fontana - Country Club - Robinhood - Malls,,0,26638,28853,0,0
+61,4,220907,Fontana - Country Club - Robinhood - Malls,,0,26637,28853,0,0
+61,4,220908,Fontana - Country Club - Robinhood - Malls,,0,26638,28853,0,0
+61,4,220909,Fontana - Country Club - Robinhood - Malls,,0,26637,28853,0,0
+61,4,220910,Fontana - Country Club - Robinhood - Malls,,0,26638,28853,0,0
+61,4,220911,Fontana - Country Club - Robinhood - Malls,,0,26639,28853,0,0
+61,4,220912,Fontana - Country Club - Robinhood - Malls,,0,26638,28853,0,0
+61,4,220913,Fontana - Country Club - Robinhood - Malls,,0,26639,28853,0,0
+61,4,220914,Fontana - Country Club - Robinhood - Malls,,0,26632,28853,0,0
+61,4,220915,Fontana - Country Club - Robinhood - Malls,,0,26632,28853,0,0
+61,4,220904,Fontana - Country Club - Robinhood - Malls,,0,26583,28853,0,0
+61,4,220916,Fontana - Country Club - Robinhood - Malls,,0,26632,28853,0,0
+61,4,220903,Fontana - Country Club - Robinhood - Malls,,0,26583,28853,0,0
+61,4,220902,Fontana - Country Club - Malls,,0,26636,28855,0,0
+61,4,220920,Downtown Transit Center,,1,26638,28857,0,0
+61,4,220921,Quail Lakes - Pershing - Country Club - DTC,,1,26637,28858,0,0
+61,4,220922,Quail Lakes - Pershing - Country Club - DTC,,1,26638,28858,0,0
+61,4,220923,Quail Lakes - Pershing - Country Club - DTC,,1,26637,28858,0,0
+61,4,220924,Quail Lakes - Pershing - Country Club - DTC,,1,26638,28858,0,0
+61,4,220925,Quail Lakes - Pershing - Country Club - DTC,,1,26639,28858,0,0
+61,4,220926,Quail Lakes - Pershing - Country Club - DTC,,1,26638,28858,0,0
+61,4,220927,Quail Lakes - Pershing - Country Club - DTC,,1,26639,28858,0,0
+61,4,220928,Quail Lakes - Pershing - Country Club - DTC,,1,26580,28859,0,0
+61,4,220929,Quail Lakes - Pershing - Country Club - DTC,,1,26639,28856,0,0
+61,4,220918,Quail Lakes - Pershing - Country Club - DTC,,1,26583,28858,0,0
+61,4,220930,Quail Lakes - Pershing - Country Club - DTC,,1,26632,28858,0,0
+61,4,220919,Quail Lakes - Pershing - Country Club - DTC,,1,26583,28858,0,0
+61,4,220931,Quail Lakes - Pershing - Country Club - DTC,,1,26632,28860,0,0
+61,4,220917,Downtown Transit Center A,,1,26636,28861,0,0
+63,4,220932,Ben Holt - Douglas - Pershing - Malls,,0,26640,28862,0,0
+63,4,220933,Ben Holt - Douglas - Pershing - Malls,,0,26640,28862,0,0
+63,4,220934,Ben Holt - Douglas - Pershing - Malls,,0,26640,28862,0,0
+63,4,220940,Ben Holt - Douglas - Pershing - Malls,,0,26640,28862,0,0
+63,4,220935,Ben Holt - Douglas - Pershing - Malls,,0,26588,28862,0,0
+63,4,220936,Ben Holt - Douglas - Pershing - Malls,,0,26588,28862,0,0
+63,4,220937,Ben Holt - Douglas - Pershing - Malls,,0,26588,28862,0,0
+63,4,220938,Ben Holt - Douglas - Pershing - Malls,,0,26588,28862,0,0
+63,4,220939,Ben Holt - Douglas - Pershing - Malls,,0,26588,28862,0,0
+63,4,220941,Express - Malls Only,,0,26588,28863,0,0
+63,4,220943,Pershing - Ben Holt - Cumberland,,1,26640,28864,0,0
+63,4,220942,Pershing - Ben Holt - Cumberland,,1,26640,28864,0,0
+63,4,220949,Pershing - Ben Holt - Cumberland,,1,26640,28864,0,0
+63,4,220944,Pershing - Ben Holt - Cumberland,,1,26588,28864,0,0
+63,4,220945,Pershing - Ben Holt - Cumberland,,1,26588,28864,0,0
+63,4,220946,Pershing - Ben Holt - Cumberland,,1,26588,28864,0,0
+63,4,220947,Pershing - Ben Holt - Cumberland,,1,26588,28864,0,0
+63,4,220948,Pershing - Ben Holt - Cumberland,,1,26588,28864,0,0
+66,4,220956,Ponce De Leon - Lower Sacramento - Hickock - Spanos Park West,,0,26642,28865,0,0
+66,4,220957,Ponce De Leon - Lower Sacramento - Hickock - Spanos Park West,,0,26642,28865,0,0
+66,4,220950,Ponce De Leon - Lower Sacramento - Hickock - Spanos Park West,,0,26641,28865,0,0
+66,4,220951,Ponce De Leon - Lower Sacramento - Hickock - Spanos Park West,,0,26641,28865,0,0
+66,4,220952,Ponce De Leon - Lower Sacramento - Hickock - Spanos Park West,,0,26641,28865,0,0
+66,4,220953,Ponce De Leon - Lower Sacramento - Hickock - Spanos Park West,,0,26641,28865,0,0
+66,4,220954,Ponce De Leon - Lower Sacramento - Hickock - Spanos Park West,,0,26641,28865,0,0
+66,4,220955,Ponce De Leon - Lower Sacramento - Hickock - Spanos Park West,,0,26641,28865,0,0
+66,4,220958,Davis - Royal Oaks - Hammer,,1,26642,28866,0,0
+66,4,220959,Davis - Royal Oaks - Hammer,,1,26642,28866,0,0
+66,4,220960,Davis - Royal Oaks - Hammer,,1,26642,28866,0,0
+66,4,220961,Davis - Royal Oaks - Hammer,,1,26641,28866,0,0
+66,4,220962,Davis - Royal Oaks - Hammer,,1,26641,28866,0,0
+66,4,220963,Davis - Royal Oaks - Hammer,,1,26641,28866,0,0
+66,4,220964,Davis - Royal Oaks - Hammer,,1,26641,28866,0,0
+66,4,220965,Davis - Royal Oaks - Hammer,,1,26641,28866,0,0
+70,4,220979,El Dorado - Knickerbocker - Hammer via Prospector,,0,26644,28868,0,0
+70,4,220966,El Dorado - Knickerbocker - Hammer,,0,26643,28867,0,0
+70,4,220967,El Dorado - Knickerbocker - Hammer,,0,26644,28867,0,0
+70,4,220968,El Dorado - Knickerbocker - Hammer,,0,26643,28867,0,0
+70,4,220969,El Dorado - Knickerbocker - Hammer,,0,26644,28867,0,0
+70,4,220970,El Dorado - Knickerbocker - Hammer,,0,26643,28867,0,0
+70,4,220971,El Dorado - Knickerbocker - Hammer,,0,26644,28867,0,0
+70,4,220972,El Dorado - Knickerbocker - Hammer,,0,26643,28867,0,0
+70,4,220973,El Dorado - Knickerbocker - Hammer,,0,26644,28867,0,0
+70,4,220974,El Dorado - Knickerbocker - Hammer,,0,26643,28867,0,0
+70,4,220975,El Dorado - Knickerbocker - Hammer,,0,26644,28867,0,0
+70,4,220976,El Dorado - Knickerbocker - Hammer,,0,26643,28867,0,0
+70,4,220977,El Dorado - Knickerbocker - Hammer,,0,26644,28867,0,0
+70,4,220978,El Dorado - Knickerbocker - Hammer,,0,26643,28867,0,0
+70,4,220980,El Dorado - DTC,,1,26643,28869,0,0
+70,4,220981,El Dorado - DTC,,1,26644,28869,0,0
+70,4,220982,El Dorado - DTC,,1,26643,28869,0,0
+70,4,220983,El Dorado - DTC,,1,26644,28869,0,0
+70,4,220984,El Dorado - DTC,,1,26643,28869,0,0
+70,4,220985,El Dorado - DTC,,1,26644,28869,0,0
+70,4,220986,El Dorado - DTC,,1,26643,28869,0,0
+70,4,220987,El Dorado - DTC,,1,26644,28869,0,0
+70,4,220988,El Dorado - DTC,,1,26643,28869,0,0
+70,4,220989,El Dorado - DTC,,1,26644,28869,0,0
+70,4,220990,El Dorado - DTC,,1,26643,28869,0,0
+70,4,220991,El Dorado - DTC,,1,26644,28869,0,0
+70,4,220992,El Dorado - DTC,,1,26643,28869,0,0
+70,4,220993,El Dorado - DTC,,1,26644,28869,0,0
+71,4,220995,,,0,26645,28871,0,0
+71,4,221003,March - Holman - Bordeaux,,0,26645,28870,0,0
+71,4,220994,March - Holman - Bordeaux,,0,26645,28870,0,0
+71,4,220996,March - Holman - Bordeaux,,0,26582,28870,0,0
+71,4,220997,March - Holman - Bordeaux,,0,26582,28870,0,0
+71,4,220998,March - Holman - Bordeaux,,0,26582,28870,0,0
+71,4,220999,March - Holman - Bordeaux,,0,26582,28870,0,0
+71,4,221000,March - Holman - Bordeaux,,0,26582,28870,0,0
+71,4,221001,March - Holman - Bordeaux,,0,26582,28870,0,0
+71,4,221002,March - Holman - Bordeaux,,0,26582,28870,0,0
+71,4,221009,Holman - Bianchi - Malls,,1,26645,28872,0,0
+71,4,221007,Holman - Bianchi - Malls,,1,26645,28872,0,0
+71,4,221008,Holman - Bianchi - Malls,,1,26645,28872,0,0
+71,4,221010,Holman - Bianchi - Malls,,1,26582,28872,0,0
+71,4,221004,Holman - Bianchi - Malls,,1,26582,28872,0,0
+71,4,221005,Holman - Bianchi - Malls,,1,26582,28872,0,0
+71,4,221006,Holman - Bianchi - Malls,,1,26582,28872,0,0
+71,4,221011,Holman - Bianchi - Malls,,1,26582,28872,0,0
+71,4,221013,Holman - Bianchi - Malls,,1,26582,28872,0,0
+71,4,221012,Holman - Bianchi - Malls,,1,26582,28872,0,0
+76,4,221220,Eastland Plaza - Sanguinetti,,0,26662,28889,0,0
+76,4,221212,Lincoln - DTC,,0,26660,28888,0,0
+76,4,221219,Eastland Plaza - Sanguinetti,,0,26662,28889,0,0
+76,4,221216,Lincoln - DTC,,0,26579,28887,0,0
+76,4,221215,Lincoln - DTC,,0,26662,28885,0,0
+76,4,221218,Eastland Plaza - Sanguinetti,,0,26662,28890,0,0
+76,4,221217,Wilson - Bradford,,0,26662,28886,0,0
+76,4,221223,Eastland Plaza - Sanguinetti,,0,26591,28890,0,0
+76,4,221222,Eastland Plaza - Sanguinetti,,0,26661,28890,0,0
+76,4,221221,Eastland Plaza - Sanguinetti,,0,26661,28890,0,0
+76,4,221214,Eastland Plaza - Sanguinetti,,0,26661,28890,0,0
+76,4,221213,Eastland Plaza - Sanguinetti,,0,26661,28889,0,0
+76,4,221224,DTC - Los Angeles Street,,1,26660,28895,0,0
+76,4,221231,Wilson - DTC,,1,26662,28894,0,0
+76,4,221235,Wilson - DTC,,1,26662,28894,0,0
+76,4,221228,DTC - Los Angeles Street,,1,26579,28895,0,0
+76,4,221230,Lincoln - Weber ONLY,,1,26662,28892,0,0
+76,4,221229,Wilson - DTC - Los Angeles St,,1,26662,28896,0,0
+76,4,221227,Wilson - DTC,,1,26662,28894,0,0
+76,4,221226,Wilson - DTC - Los Angeles St,,1,26591,28896,0,0
+76,4,221233,Wilson - DTC - Los Angeles St,,1,26661,28896,0,0
+76,4,221232,Wilson - DTC - Los Angeles St,,1,26661,28896,0,0
+76,4,221234,Wilson - DTC - Los Angeles St,,1,26661,28896,0,0
+76,4,221225,Wilson - DTC,,1,26661,28894,0,0
+77,4,221240,Farm Gertrude,,0,26664,28898,0,0
+77,4,221241,Eastland Plaza - Filbert - Wilcox,,0,26664,28897,0,0
+77,4,221243,Eastland Plaza - Filbert - Wilcox,,0,26582,28897,0,0
+77,4,221242,Eastland Plaza - Filbert - Wilcox,,0,26582,28897,0,0
+77,4,221238,Eastland Plaza - Filbert - Wilcox,,0,26663,28897,0,0
+77,4,221236,Farm - Gertrude,,0,26663,28899,0,0
+77,4,221239,Eastland Plaza - Filbert - Wilcox,,0,26663,28897,0,0
+77,4,221237,Eastland Plaza - Filbert - Wilcox,,0,26580,28897,0,0
+77,4,221244,Eastland Plaza - Filbert - Wilcox,,0,26665,28897,0,0
+77,4,221245,Waterloo - Minter - DTC,,1,26584,28900,0,0
+77,4,221250,Waterloo - Minter - DTC,,1,26664,28901,0,0
+77,4,221251,Waterloo - Minter - DTC,,1,26582,28901,0,0
+77,4,221252,Waterloo - Minter - DTC,,1,26582,28901,0,0
+77,4,221249,Waterloo - Minter - DTC,,1,26663,28901,0,0
+77,4,221247,Filbert - Miner,,1,26663,28902,0,0
+77,4,221246,Waterloo - Minter - DTC,,1,26663,28901,0,0
+77,4,221248,Waterloo - Minter - DTC,,1,26580,28901,0,0
+77,4,221253,Waterloo - Minter - DTC,,1,26665,28901,0,0
+83,4,221323,Main/Gertrude,,0,26660,28917,0,0
+83,4,221322,Main/Gertrude,,0,26664,28916,0,0
+83,4,221321,Main/Gertrude,,0,26660,28917,0,0
+83,4,221327,Main/Gertrude,,0,26660,28917,0,0
+83,4,221326,Main/Gertrude,,0,26660,28917,0,0
+83,4,221325,Main/Gertrude,,0,26660,28917,0,0
+83,4,221324,Main/Gertrude,,0,26660,28917,0,0
+83,4,221320,Main/Gertrude,,0,26660,28917,0,0
+83,4,221314,Main/Gertrude,,0,26660,28917,0,0
+83,4,221315,Main/Gertrude,,0,26674,28917,0,0
+83,4,221316,Main/Gertrude,,0,26674,28917,0,0
+83,4,221317,Main/Gertrude,,0,26674,28917,0,0
+83,4,221318,Main/Gertrude,,0,26674,28917,0,0
+83,4,221319,Main/Gertrude,,0,26674,28917,0,0
+83,4,221328,Main/Gertrude,,1,26660,28919,0,0
+83,4,221342,Main/Gertrude,,1,26664,28919,0,0
+83,4,221329,Farm - Main/Gertrude,,1,26660,28918,0,0
+83,4,221330,Farm - Main/Gertrude,,1,26660,28918,0,0
+83,4,221331,Farm - Main/Gertrude,,1,26660,28918,0,0
+83,4,221332,Farm - Main/Gertrude,,1,26660,28918,0,0
+83,4,221333,Farm - Main/Gertrude,,1,26660,28918,0,0
+83,4,221334,Farm - Main/Gertrude,,1,26660,28918,0,0
+83,4,221335,Farm - Main/Gertrude,,1,26660,28918,0,0
+83,4,221336,Farm - Main/Gertrude,,1,26674,28918,0,0
+83,4,221337,Farm - Main/Gertrude,,1,26674,28918,0,0
+83,4,221338,Farm - Main/Gertrude,,1,26674,28918,0,0
+83,4,221339,Farm - Main/Gertrude,,1,26674,28918,0,0
+83,4,221340,Farm - Main/Gertrude,,1,26674,28918,0,0
+83,4,221341,Farm - Main/Gertrude,,1,26674,28918,0,0
+85,4,221343,Wilson - Miner - DTC,,0,26595,28920,0,0
+85,4,221344,Wilson - Miner - DTC,,0,26596,28920,0,0
+85,4,221345,Wilson - Miner - DTC,,0,26639,28920,0,0
+85,4,221346,Wilson - Miner - DTC,,0,26745,28920,0,0
+85,4,221347,'B' Street - Togninali - Qantas,,1,26595,28921,0,0
+90,4,221349,Delta College,,0,26676,28925,0,0
+90,4,221356,Delta College,,0,26681,28925,0,0
+90,4,221351,Downtown Stockton,,0,26677,28924,0,0
+90,4,221352,Downtown Stockton,,0,26678,28924,0,0
+90,4,221348,Downtown Stockton,,0,26675,28924,0,0
+90,4,221350,Downtown Stockton,,0,26675,28924,0,0
+90,4,221353,Downtown Stockton,,0,26679,28924,0,0
+90,4,221354,Delta College,,0,26680,28922,0,0
+90,4,221355,Downtown Stockton,,0,26680,28923,0,0
+90,4,221364,SJ County Hospital,,1,26681,28926,0,0
+90,4,221357,SJ County Hospital,,1,26678,28926,0,0
+90,4,221358,Tracy via Grant Line,,1,26675,28929,0,0
+90,4,221359,SJ County Hospital,,1,26675,28926,0,0
+90,4,221360,SJ County Hospital,,1,26682,28926,0,0
+90,4,221361,SJ County Hospital,,1,26680,28926,0,0
+90,4,221362,Tracy via Grant Line,,1,26680,28928,0,0
+90,4,221363,Stockton - Lathrop - Tracy,,1,26680,28927,0,0
+91,4,221365,Delta College,,0,26683,28934,0,0
+91,4,221370,Delta College,,0,26687,28933,0,0
+91,4,221371,Stockton via Arch Rd,,0,26688,28935,0,0
+91,4,221366,Manteca - Stockton,,0,26684,28936,0,0
+91,4,221369,Manteca - Stockton,,0,26683,28937,0,0
+91,4,221368,Manteca - Stockton,,0,26686,28937,0,0
+91,4,221372,Manteca - Stockton,,0,26686,28936,0,0
+91,4,221367,Stockton via Arch Rd,,0,26685,28938,0,0
+91,4,221373,Delta College,,0,26689,28931,0,0
+91,4,221374,Manteca - Stockton,,0,26689,28932,0,0
+91,4,221375,Manteca - Stockton,,0,26689,28930,0,0
+91,4,221379,Stokton - Manteca - Ripon,,1,26683,28945,0,0
+91,4,221380,Stokton - Manteca - Ripon,,1,26686,28944,0,0
+91,4,221378,Stockton - Manteca,,1,26686,28941,0,0
+91,4,221377,Stockton - Manteca - Ripon,,1,26685,28943,0,0
+91,4,221376,Manteca via Arch Rd,,1,26690,28942,0,0
+91,4,221381,Stockton - Manteca - Ripon,,1,26689,28944,0,0
+91,4,221382,Stockton - Manteca - Ripon,,1,26689,28939,0,0
+91,4,221383,Stockton - Manteca,,1,26689,28940,0,0
+93,4,221384,Downtown Stockton via PACIFIC,,0,26691,28946,0,0
+93,4,221385,Delta College via Pacific,,0,26692,28948,0,0
+93,4,221386,Delta College via Pacific,,0,26693,28948,0,0
+93,4,221390,Delta College via Pacific,,0,26697,28948,0,0
+93,4,221387,Downtown Stockton,,0,26694,28947,0,0
+93,4,221388,Delta College via Pacific,,0,26695,28949,0,0
+93,4,221389,Delta College via Pacific,,0,26696,28949,0,0
+93,4,221391,Lodi Station,,1,26692,28950,0,0
+93,4,221392,Lodi Station,,1,26693,28950,0,0
+93,4,221393,Lodi Station,,1,26697,28953,0,0
+93,4,221394,Lodi Station,,1,26694,28951,0,0
+93,4,221395,Lodi Station,,1,26695,28951,0,0
+93,4,221396,Lodi Station,,1,26695,28954,0,0
+93,4,221397,Lodi Station,,1,26698,28951,0,0
+93,4,221399,Lodi Station,,1,26696,28952,0,0
+93,4,221398,Lodi Station,,1,26696,28954,0,0
+97,4,221400,Tracy - Lathrop - Stockton,,0,26699,28955,0,0
+97,4,221401,Tracy - Lathrop - Stockton,,0,26699,28955,0,0
+97,4,221402,Tracy - Lathrop - Stockton,,0,26700,28955,0,0
+97,4,221403,Tracy - Lathrop - Stockton,,0,26701,28956,0,0
+97,4,221404,Tracy Transit Station,,1,26699,28958,0,0
+97,4,221405,Tracy Transit Station,,1,26700,28958,0,0
+97,4,221406,Stockton - Lathrop - Tracy,,1,26701,28957,0,0
+80,4,221635,Pershing - Malls,,0,26625,28962,0,0
+80,4,221649,Pershing - Malls,,0,26744,28961,0,0
+80,4,221634,Pershing - Malls,,0,26636,28962,0,0
+80,4,221636,Pershing - Malls,,0,26741,28962,0,0
+80,4,221637,Pershing - Malls,,0,26636,28962,0,0
+80,4,221638,Pershing - Malls,,0,26741,28962,0,0
+80,4,221639,Pershing - Malls,,0,26636,28962,0,0
+80,4,221640,Pershing - Malls,,0,26741,28962,0,0
+80,4,221641,Pershing - Malls,,0,26636,28962,0,0
+80,4,221643,Pershing - Malls,,0,26742,28961,0,0
+80,4,221642,Pershing - Malls,,0,26741,28962,0,0
+80,4,221644,Pershing - Malls,,0,26743,28961,0,0
+80,4,221645,Pershing - Malls,,0,26742,28961,0,0
+80,4,221646,Pershing - Malls,,0,26636,28962,0,0
+80,4,221647,Pershing - Malls,,0,26742,28961,0,0
+80,4,221648,Pershing - Malls,,0,26741,28962,0,0
+80,4,221650,Pershing - Malls,,0,26636,28962,0,0
+80,4,221651,Pershing - Malls,,0,26741,28962,0,0
+80,4,221652,Pershing Mall via Fontana - Alpine,,0,26636,28964,0,0
+80,4,221666,Pock - Oro,,1,26636,28966,0,0
+80,4,221653,Pock - Oro,,1,26741,28966,0,0
+80,4,221668,Pershing - Acacia - DTC,,1,26744,28967,0,0
+80,4,221667,Pock - Oro,,1,26636,28966,0,0
+80,4,221655,Pock - Oro,,1,26741,28966,0,0
+80,4,221656,Pock - Oro,,1,26636,28966,0,0
+80,4,221657,Pock - Oro,,1,26741,28966,0,0
+80,4,221658,Pock - Oro,,1,26636,28966,0,0
+80,4,221659,Pock - Oro,,1,26741,28966,0,0
+80,4,221669,Pershing - Acacia - DTC,,1,26742,28967,0,0
+80,4,221660,Pock - Oro,,1,26636,28966,0,0
+80,4,221670,Pershing - Acacia - DTC,,1,26742,28967,0,0
+80,4,221661,Pock - Oro,,1,26743,28966,0,0
+80,4,221673,Pock - Oro,,1,26741,28966,0,0
+80,4,221671,Pershing - Acacia - DTC,,1,26742,28967,0,0
+80,4,221662,Pock - Oro,,1,26636,28966,0,0
+80,4,221672,Pershing - Acacia - DTC,,1,26742,28967,0,0
+80,4,221663,Pock - Oro,,1,26741,28966,0,0
+80,4,221654,Pock - Oro,,1,26636,28966,0,0
+80,4,221664,Pock - Oro,,1,26741,28966,0,0
+80,4,221665,Wilson - Airport Way - B St - Oro,,1,26636,28965,0,0

@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+40,Pasadena Transit,http://cityofpasadena.net/Transportation/Arts_Routes_and_Schedules/,America/Los_Angeles,en

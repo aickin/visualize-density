@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+95,http://www.modestoareaexpress.com/,en,Modesto Area Express,(209) 521-1274,America/Los_Angeles,http://www.modestoareaexpress.com/fares/

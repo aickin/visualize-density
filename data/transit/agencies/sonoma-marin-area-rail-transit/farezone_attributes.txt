@@ -1,0 +1,6 @@
+zone_id,zone_name
+"1","Larkspur-SanRafael-MarinCivicCenter"
+"2","Novato Hamilton-Novato San Marin"
+"3","Petaluma-Cotati-Rohnert Park"
+"4","SantaRosaDowntown-SantaRosaNorth"
+"5","Sonoma County Airport"

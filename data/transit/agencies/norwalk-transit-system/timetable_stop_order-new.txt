@@ -1,0 +1,960 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,2324470,1,Norwalk/166th,3/Gateway Plaza/Norwalk/166th Street
+1,2324655,2,Norwalk Boulevard and Cedarcrest Drive,3/Gateway Plaza/Norwalk/166th Street
+1,2324491,3,Norwalk/Alondra,3/Gateway Plaza/Norwalk/166th Street
+1,2324485,4,Alondra Boulevard and Madris Avenue,3/Gateway Plaza/Norwalk/166th Street
+1,2326835,5,Bloomfield Avenue and Alondra Boulevard,3/Gateway Plaza/Norwalk/166th Street
+1,2326306,6,Bloomfield Avenue and Excelsior Drive,3/Gateway Plaza/Norwalk/166th Street
+1,2324825,7,Rosecrans Avenue opposite Bloomfield Avenue North,"3/Gateway Plaza/Norwalk/166th Street, 5/Green Line Station To/From La Mirada Via Rosecrans"
+1,2324800,8,Rosecrans Avenue and Greenstone Avenue S/E Corner,"3/Gateway Plaza/Norwalk/166th Street, 5/Green Line Station To/From La Mirada Via Rosecrans"
+1,2324842,9,Shoemaker/Rosecrans,3/Gateway Plaza/Norwalk/166th Street
+1,2324844,10,Shoemaker Avenue and Tom White Way,3/Gateway Plaza/Norwalk/166th Street
+1,2324841,11,Shoemaker Avenue and Foster Road,3/Gateway Plaza/Norwalk/166th Street
+1,2324555,12,Foster Road and Greenstone Avenue,3/Gateway Plaza/Norwalk/166th Street
+1,2324554,13,Foster Road and Bechard Avenue (Soropt. Village),3/Gateway Plaza/Norwalk/166th Street
+1,2324514,14,Bloomfield Avenue at Hospital,3/Gateway Plaza/Norwalk/166th Street
+1,2324513,15,Bloomfield Avenue and Hacienda Drive,3/Gateway Plaza/Norwalk/166th Street
+1,2324527,16,Civic Center Drive opposite Silverbow Avenue,3/Gateway Plaza/Norwalk/166th Street
+1,2324525,17,Civic Center Drive and Volunteer Avenue- N/E Corner,"3/Gateway Plaza/Norwalk/166th Street, 7/Green Line Station/El Monte Station"
+1,2324659,18,Norwalk Boulevard and Civic Center Drive- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324671,19,Norwalk/Imperial,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324694,20,Norwalk Boulevard opposite Crewe Street,3/Gateway Plaza/Norwalk/166th Street
+1,2324646,21,Norwalk Boulevard and Aegean Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324673,22,Norwalk Boulevard at Metro Hospital Main Gate,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324696,23,Norwalk Boulevard opposite Oracle Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324632,24,Lakeland Road and Lakeland Road Villa,3/Gateway Plaza/Norwalk/166th Street
+1,2324631,25,Lakeland Road and Fulton Wells Avenue,3/Gateway Plaza/Norwalk/166th Street
+1,2324635,26,Lakeland Road opposite Bombardier Avenue,3/Gateway Plaza/Norwalk/166th Street
+1,2324634,27,Lakeland Road and Pioneer Boulevard,3/Gateway Plaza/Norwalk/166th Street
+1,2324751,28,Pioneer Boulevard at Little Lake Park,3/Gateway Plaza/Norwalk/166th Street
+1,2324545,29,Florence/Pioneer,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324542,30,Florence Avenue at Lake Center Athletic Park,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324541,31,Florence Avenue at Kid Zone,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324706,32,Florence/Orr and Day,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324698,33,Orr and Day Road and Clarkman Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324703,34,Orr and Day Road and Dunning Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324966,35,Orr and Day Road and Davenrich Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324886,36,Orr and Day/Telegraph,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324881,37,Telegraph Road and Jersey Avenue,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324889,38,Telegraph Road and Pioneer Boulevard,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+1,2324884,39,Telegraph/Norwalk,3/Gateway Plaza/Norwalk/166th Street
+1,2324876,40,Telegraph Road and Bloomfield Avenue,3/Gateway Plaza/Norwalk/166th Street
+1,2324879,41,Telegraph Road and Greenleaf Avenue,3/Gateway Plaza/Norwalk/166th Street
+1,2324887,42,Telegraph Road and Painter Avenue,3/Gateway Plaza/Norwalk/166th Street
+1,2324891,43,Telegraph/Carmenita Road (McDonalds),3/Gateway Plaza/Norwalk/166th Street
+2,2324878,1,Telegraph/Carmenita,3/Gateway Plaza/Norwalk/166th Street
+2,2324883,2,Telegraph Road and Laurel Avenue - N/W Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324888,3,Telegraph Road and Painter Avenue - N/W Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324880,4,Telegraph Road and Greenleaf Avenue - N/W Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324877,5,Telegraph Road and Bloomfield Avenue - N/W Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324885,6,Telegraph/ Norwalk,3/Gateway Plaza/Norwalk/166th Street
+2,2324890,7,Telegraph Road and Pioneer Boulevard - N/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+2,2335771,8,Pioneer Boulevard and Glenworth Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+2,2326307,9,Pioneer/Florence,3/Gateway Plaza/Norwalk/166th Street
+2,2324630,10,Lakeland Road and Arlee Avenue - S/W Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324633,11,Lakeland Road and Paddison Avenue - S/E Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324668,12,Norwalk Boulevard and Hermes Street- N/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+2,2324677,13,Norwalk Boulevard and Oracle Street- S/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+2,2324685,14,Norwalk Boulevard and Tina Street - S/W Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324647,15,Norwalk Boulevard and Aegean Street- S/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+2,2324664,16,Norwalk Boulevard and Crewe Street- N/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+2,2324681,17,Norwalk Boulevard and Paddison Avenue Square,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+2,2324670,18,Norwalk/Imperial (Ihop),"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 3/Gateway Plaza/Norwalk/166th Street"
+2,2324520,19,Civic Center Drive at AMC Theaters,"3/Gateway Plaza/Norwalk/166th Street, 7/Green Line Station/El Monte Station"
+2,2324526,20,Civic Center Drive and Volunteer Avenue - S/E Corner,"3/Gateway Plaza/Norwalk/166th Street, 7/Green Line Station/El Monte Station"
+2,2324524,21,Civic Center Drive and Silverbow Avenue -S/E Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324510,22,Bloomfield Avenue and Anabella Street,3/Gateway Plaza/Norwalk/166th Street
+2,2324511,23,Bloomfield Avenue and Dante Street,3/Gateway Plaza/Norwalk/166th Street
+2,2324559,24,Foster Road and Stanstead Avenue -S/W Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324553,25,Foster Road and Bechard Avenue - S/W Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324556,26,Foster Road and Greenstone Avenue -S/E Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324558,27,Foster Road and Shoemaker Avenue - S/W Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324840,28,Shoemaker Avenue at Golf Course,3/Gateway Plaza/Norwalk/166th Street
+2,2324845,29,Shoemaker Avenue and Tom White Way - S/W Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324843,30,Shoemaker Avenue and Shoemaker Avenue Ct. Apts.,3/Gateway Plaza/Norwalk/166th Street
+2,2326152,31,Rosecrans/Shoemaker,"3/Gateway Plaza/Norwalk/166th Street, 5/Green Line Station To/From La Mirada Via Rosecrans"
+2,2324799,32,Rosecrans Avenue and Greenstone Avenue N/E Corner,"3/Gateway Plaza/Norwalk/166th Street, 5/Green Line Station To/From La Mirada Via Rosecrans"
+2,2324469,33,12801 Rosecrans Avenue,"3/Gateway Plaza/Norwalk/166th Street, 5/Green Line Station To/From La Mirada Via Rosecrans"
+2,2324512,34,Bloomfield Avenue and Excelsior Drive,3/Gateway Plaza/Norwalk/166th Street
+2,2324509,35,Bloomfield Avenue and Alondra Boulevard,3/Gateway Plaza/Norwalk/166th Street
+2,2324486,36,Alondra Boulevard and Madris Avenue - N/E Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324649,37,Norwalk/Alondra,3/Gateway Plaza/Norwalk/166th Street
+2,2324644,38,Norwalk Boulevard and 161st Street  (Coras Market.- S/W Corner,3/Gateway Plaza/Norwalk/166th Street
+2,2324645,39,Norwalk/166th,3/Gateway Plaza/Norwalk/166th Street
+3,2324697,1,Norwalk Green Line Station ,7/Green Line Station/El Monte Station
+3,2324874,2,Studebaker Road and Borson Street,7/Green Line Station/El Monte Station
+3,2324616,3,Imperial Highway and Studebaker Road-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+3,2324578,4,Imperial Highway and Fairford Avenue-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+3,2324625,5,Imperial Highway and Orr and Day Road,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+3,2324537,6,Firestone Boulevard and Pioneer Boulevard,7/Green Line Station/El Monte Station
+3,2324536,7,Firestone Boulevard and Paddison Avenue,7/Green Line Station/El Monte Station
+3,2324832,8,San Antonio Drive and Olive Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+3,2324520,9,Civic Center Drive at AMC Theaters,"3/Gateway Plaza/Norwalk/166th Street, 7/Green Line Station/El Monte Station"
+3,2324526,10,Civic Center Drive and Volunteer Avenue - S/E Corner,"3/Gateway Plaza/Norwalk/166th Street, 7/Green Line Station/El Monte Station"
+3,2324515,11,Bloomfield Avenue and Civic Center Drive,7/Green Line Station/El Monte Station
+3,2326310,12,Bloomfield/Imperial,7/Green Line Station/El Monte Station
+3,2326311,13,Bloomfield Avenue and Lakeland Road,7/Green Line Station/El Monte Station
+3,2326312,14,Bloomfield Avenue and Florence Avenue,7/Green Line Station/El Monte Station
+3,2324519,15,Bloomfield/Telegraph,7/Green Line Station/El Monte Station
+3,2324835,16,Santa Fe Springs Road and Los Nietos Road,7/Green Line Station/El Monte Station
+3,2324836,17,Santa Fe Springs Road and Mulberry Drive,7/Green Line Station/El Monte Station
+3,2326313,18,Lambert Road and Santa Fe Springs Road,7/Green Line Station/El Monte Station
+3,2324894,19,Washington Boulevard and Lambert Road,7/Green Line Station/El Monte Station
+3,2324895,20,Washington Boulevard and Putnam Street,7/Green Line Station/El Monte Station
+3,2324729,21,Pickering Avenue and Whittier Boulevard,7/Green Line Station/El Monte Station
+3,2324728,22,Pickering Avenue and Walnut Street,7/Green Line Station/El Monte Station
+3,2326314,23,Pickering Avenue and Mar Vista Street,7/Green Line Station/El Monte Station
+3,2324641,24,Mar Vista/Greenleaf,7/Green Line Station/El Monte Station
+3,2324642,25,Mar Vista Street and Washington Boulevard,7/Green Line Station/El Monte Station
+3,2326315,26,Painter Avenue and Penn Street,7/Green Line Station/El Monte Station
+3,2324716,27,Painter Avenue and Wardman Street,7/Green Line Station/El Monte Station
+3,2326316,28,Painter Avenue and Philadelphia Street,7/Green Line Station/El Monte Station
+3,2324564,29,Hadley Street and Friends Avenue,7/Green Line Station/El Monte Station
+3,2324561,30,Greenleaf Avenue and Hadley Street,7/Green Line Station/El Monte Station
+3,2324560,31,Greenleaf Avenue and Broadway,7/Green Line Station/El Monte Station
+3,2324505,32,Beverly Boulevard and Greenleaf Avenue,7/Green Line Station/El Monte Station
+3,2326317,33,Beverley Boulevard and Pickering Avenue,7/Green Line Station/El Monte Station
+3,2326318,34,Beverley Boulevard and Citrus Avenue,7/Green Line Station/El Monte Station
+3,2326319,35,Beverley Boulevard and Floral Drive,7/Green Line Station/El Monte Station
+3,2324507,36,Beverly Boulevard and Palm Avenue,7/Green Line Station/El Monte Station
+3,2324909,37,Workman Mill Road and Sierra Morena Avenue- S/E Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+3,2324907,38,Workman Mill Road and Rose Hills Gate # 17,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+3,2324915,39,Workman Mill Road and Pioneer Boulevard,7/Green Line Station/El Monte Station
+3,2324921,40,Workman Mill Road and Spy Glass Hill Road,7/Green Line Station/El Monte Station
+3,2324914,41,Workman Mill Road and Cliota Street,7/Green Line Station/El Monte Station
+3,2324912,42,Workman Mill Road and E Mission Mill Road,7/Green Line Station/El Monte Station
+3,2324906,43,Workman Mill Road and Rose Hills (Main Gate),"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+3,2324905,44,Workman Mill/College,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+3,2326320,45,Peck Road and Rooks Road,7/Green Line Station/El Monte Station
+3,2326321,46,Peck Road and Durfee Avenue,7/Green Line Station/El Monte Station
+3,2324723,47,Durfee Avenue and Michael Hunt Drive,7/Green Line Station/El Monte Station
+3,2324726,48,Durfee Avenue and Thienes Avenue,7/Green Line Station/El Monte Station
+3,2326322,49,Rush Street and Durfee Avenue,7/Green Line Station/El Monte Station
+3,2326323,50,Peck Road and Fineview Street,7/Green Line Station/El Monte Station
+3,2324721,51,Peck Road and Klingerman Street,7/Green Line Station/El Monte Station
+3,2326324,52,Peck/Elliott,7/Green Line Station/El Monte Station
+3,2324720,53,Peck Road and Garvey Avenue,7/Green Line Station/El Monte Station
+3,2326325,54,Peck Road and Meeker Avenue,7/Green Line Station/El Monte Station
+3,2326326,55,Valley Boulevard and Peck Road,7/Green Line Station/El Monte Station
+3,2326327,56,Valley Boulevard and Johnson Avenue,7/Green Line Station/El Monte Station
+3,2326328,57,Ramona Boulevard and Valley Boulevard,7/Green Line Station/El Monte Station
+3,2326329,58,Ramona Boulevard and Tyler Avenue,7/Green Line Station/El Monte Station
+3,2326330,59,Ramona Boulevard and Lexington Avenue,7/Green Line Station/El Monte Station
+3,2324534,60,El Monte Station - Lower Bay 3/4,7/Green Line Station/El Monte Station
+4,2324697,1,Norwalk Green Line Station ,7/Green Line Station/El Monte Station
+4,2324874,2,Studebaker Road and Borson Street,7/Green Line Station/El Monte Station
+4,2324616,3,Imperial Highway and Studebaker Road-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+4,2324578,4,Imperial Highway and Fairford Avenue-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+4,2324625,5,Imperial Highway and Orr and Day Road,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+4,2324537,6,Firestone Boulevard and Pioneer Boulevard,7/Green Line Station/El Monte Station
+4,2324536,7,Firestone Boulevard and Paddison Avenue,7/Green Line Station/El Monte Station
+4,2324832,8,San Antonio Drive and Olive Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+4,2324520,9,Civic Center Drive at AMC Theaters,"3/Gateway Plaza/Norwalk/166th Street, 7/Green Line Station/El Monte Station"
+4,2324526,10,Civic Center Drive and Volunteer Avenue - S/E Corner,"3/Gateway Plaza/Norwalk/166th Street, 7/Green Line Station/El Monte Station"
+4,2324515,11,Bloomfield Avenue and Civic Center Drive,7/Green Line Station/El Monte Station
+4,2326310,12,Bloomfield/Imperial,7/Green Line Station/El Monte Station
+4,2326311,13,Bloomfield Avenue and Lakeland Road,7/Green Line Station/El Monte Station
+4,2326312,14,Bloomfield Avenue and Florence Avenue,7/Green Line Station/El Monte Station
+4,2324519,15,Bloomfield/Telegraph,7/Green Line Station/El Monte Station
+4,2324835,16,Santa Fe Springs Road and Los Nietos Road,7/Green Line Station/El Monte Station
+4,2324836,17,Santa Fe Springs Road and Mulberry Drive,7/Green Line Station/El Monte Station
+4,2326313,18,Lambert Road and Santa Fe Springs Road,7/Green Line Station/El Monte Station
+4,2324894,19,Washington Boulevard and Lambert Road,7/Green Line Station/El Monte Station
+4,2324895,20,Washington Boulevard and Putnam Street,7/Green Line Station/El Monte Station
+4,2324729,21,Pickering Avenue and Whittier Boulevard,7/Green Line Station/El Monte Station
+4,2324728,22,Pickering Avenue and Walnut Street,7/Green Line Station/El Monte Station
+4,2326314,23,Pickering Avenue and Mar Vista Street,7/Green Line Station/El Monte Station
+4,2324641,24,Mar Vista/Greenleaf,7/Green Line Station/El Monte Station
+4,2324642,25,Mar Vista Street and Washington Boulevard,7/Green Line Station/El Monte Station
+4,2326315,26,Painter Avenue and Penn Street,7/Green Line Station/El Monte Station
+4,2324716,27,Painter Avenue and Wardman Street,7/Green Line Station/El Monte Station
+4,2326316,28,Painter Avenue and Philadelphia Street,7/Green Line Station/El Monte Station
+4,2324564,29,Hadley Street and Friends Avenue,7/Green Line Station/El Monte Station
+4,2324561,30,Greenleaf Avenue and Hadley Street,7/Green Line Station/El Monte Station
+4,2324560,31,Greenleaf Avenue and Broadway,7/Green Line Station/El Monte Station
+4,2324505,32,Beverly Boulevard and Greenleaf Avenue,7/Green Line Station/El Monte Station
+4,2326317,33,Beverley Boulevard and Pickering Avenue,7/Green Line Station/El Monte Station
+4,2326318,34,Beverley Boulevard and Citrus Avenue,7/Green Line Station/El Monte Station
+4,2326319,35,Beverley Boulevard and Floral Drive,7/Green Line Station/El Monte Station
+4,2324507,36,Beverly Boulevard and Palm Avenue,7/Green Line Station/El Monte Station
+4,2324909,37,Workman Mill Road and Sierra Morena Avenue- S/E Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+4,2324907,38,Workman Mill Road and Rose Hills Gate # 17,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+4,2324915,39,Workman Mill Road and Pioneer Boulevard,7/Green Line Station/El Monte Station
+4,2324921,40,Workman Mill Road and Spy Glass Hill Road,7/Green Line Station/El Monte Station
+4,2324914,41,Workman Mill Road and Cliota Street,7/Green Line Station/El Monte Station
+4,2324912,42,Workman Mill Road and E Mission Mill Road,7/Green Line Station/El Monte Station
+4,2324906,43,Workman Mill Road and Rose Hills (Main Gate),"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+4,2324905,44,Workman Mill/College,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+4,2326320,45,Peck Road and Rooks Road,7/Green Line Station/El Monte Station
+4,2326321,46,Peck Road and Durfee Avenue,7/Green Line Station/El Monte Station
+4,2324723,47,Durfee Avenue and Michael Hunt Drive,7/Green Line Station/El Monte Station
+4,2324726,48,Durfee Avenue and Thienes Avenue,7/Green Line Station/El Monte Station
+4,2326322,49,Rush Street and Durfee Avenue,7/Green Line Station/El Monte Station
+4,2326323,50,Peck Road and Fineview Street,7/Green Line Station/El Monte Station
+4,2324721,51,Peck Road and Klingerman Street,7/Green Line Station/El Monte Station
+4,2326324,52,Peck/Elliott,7/Green Line Station/El Monte Station
+4,2324720,53,Peck Road and Garvey Avenue,7/Green Line Station/El Monte Station
+4,2326325,54,Peck Road and Meeker Avenue,7/Green Line Station/El Monte Station
+4,2326326,55,Valley Boulevard and Peck Road,7/Green Line Station/El Monte Station
+4,2326327,56,Valley Boulevard and Johnson Avenue,7/Green Line Station/El Monte Station
+4,2326328,57,Ramona Boulevard and Valley Boulevard,7/Green Line Station/El Monte Station
+4,2326329,58,Ramona Boulevard and Tyler Avenue,7/Green Line Station/El Monte Station
+4,2326330,59,Ramona Boulevard and Lexington Avenue,7/Green Line Station/El Monte Station
+4,2324534,60,El Monte Station - Lower Bay 3/4,7/Green Line Station/El Monte Station
+5,2324535,1,El Monte Station - Lower Bay 6,7/Green Line Station/El Monte Station
+5,2324769,2,Ramona Boulevard and Santa Anita Avenue,7/Green Line Station/El Monte Station
+5,2324768,3,Ramona Boulevard and Lexington Avenue,7/Green Line Station/El Monte Station
+5,2324770,4,Ramona Boulevard and Tyler Avenue,7/Green Line Station/El Monte Station
+5,2324771,5,Ramona Boulevard and Valley Boulevard,7/Green Line Station/El Monte Station
+5,2324892,6,Valley Boulevard and Johnson Avenue,7/Green Line Station/El Monte Station
+5,2324893,7,Valley Boulevard and Peck Road,7/Green Line Station/El Monte Station
+5,2324722,8,Peck Road and Meeker Avenue,7/Green Line Station/El Monte Station
+5,2326458,9,Peck Road and Garvey Avenue,7/Green Line Station/El Monte Station
+5,2324718,10,Peck Road/Elliott,7/Green Line Station/El Monte Station
+5,2324724,11,Peck Road and Mountain View Road,7/Green Line Station/El Monte Station
+5,2324719,12,Peck Road and Fineview Street,7/Green Line Station/El Monte Station
+5,2324828,13,Rush Street and Durfee Avenue,7/Green Line Station/El Monte Station
+5,2326459,14,Durfee Avenue and Thienes Avenue,7/Green Line Station/El Monte Station
+5,2326460,15,Durfee Avenue and Michael Hunt Drive,7/Green Line Station/El Monte Station
+5,2324717,16,Peck Road and Durfee Avenue,7/Green Line Station/El Monte Station
+5,2324725,17,Peck Road and Rooks Road,7/Green Line Station/El Monte Station
+5,2324922,18,Workman Mill Road/College,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+5,2324923,19,Workman Mill Road opposite Rose Hills Main Gate,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+5,2324903,20,Workman Mill Road and Mission Mill Road- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+5,2324911,21,Workman Mill Road and Rose Hills Road- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+5,2324904,22,Workman Mill Road and Pioneer Boulevard- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+5,2324908,23,Workman Mill Road and Rose Hills Gate # 19,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+5,2324924,24,Workman Mill Road opposite Sierra Morena Avenue,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+5,2324506,25,Beverly Boulevard and Norwalk Boulevard,7/Green Line Station/El Monte Station
+5,2324504,26,Beverly Boulevard and Floral Drive,7/Green Line Station/El Monte Station
+5,2324503,27,Beverly Boulevard and Citrus Avenue,7/Green Line Station/El Monte Station
+5,2324508,28,Beverly Boulevard and Pickering Avenue,7/Green Line Station/El Monte Station
+5,2326461,29,Beverly Boulevard and Greenleaf Avenue,7/Green Line Station/El Monte Station
+5,2326462,30,Greenleaf Avenue and Broadway,7/Green Line Station/El Monte Station
+5,2324566,31,Hadley Street and Washington Boulevard,7/Green Line Station/El Monte Station
+5,2324565,32,Hadley Street and Painter Avenue,7/Green Line Station/El Monte Station
+5,2324715,33,Painter Avenue and Philadelphia Street,7/Green Line Station/El Monte Station
+5,2326463,34,Painter Avenue and Wardman Street,7/Green Line Station/El Monte Station
+5,2324714,35,Painter Avenue and Penn Street,7/Green Line Station/El Monte Station
+5,2324713,36,Painter Avenue and Mar Vista Street,7/Green Line Station/El Monte Station
+5,2326464,37,Mar Vista Street/Greenleaf,7/Green Line Station/El Monte Station
+5,2324727,38,Pickering Avenue and Mar Vista Street,7/Green Line Station/El Monte Station
+5,2326465,39,Pickering Avenue and Walnut Street,7/Green Line Station/El Monte Station
+5,2326466,40,Pickering Avenue and Whittier Boulevard,7/Green Line Station/El Monte Station
+5,2326467,41,Washington Boulevard and Putnam Street,7/Green Line Station/El Monte Station
+5,2324640,42,Lambert Road and Washington Boulevard,7/Green Line Station/El Monte Station
+5,2324639,43,Lambert Road and Santa Fe Springs Road,7/Green Line Station/El Monte Station
+5,2324837,44,Santa Fe Springs Road and Slauson Avenue,7/Green Line Station/El Monte Station
+5,2326468,45,Santa Fe Springs Road and Los Nietos Road,7/Green Line Station/El Monte Station
+5,2324838,46,Bloomfield/Telegraph,7/Green Line Station/El Monte Station
+5,2324516,47,Bloomfield Avenue and Florence Avenue,7/Green Line Station/El Monte Station
+5,2324518,48,Bloomfield Avenue and Lakeland Road,7/Green Line Station/El Monte Station
+5,2324517,49,Bloomfield/Imperial,7/Green Line Station/El Monte Station
+5,2324521,50,Civic Center Drive and Bloomfield Avenue,7/Green Line Station/El Monte Station
+5,2324525,51,Civic Center Drive and Volunteer Avenue- N/E Corner,"3/Gateway Plaza/Norwalk/166th Street, 7/Green Line Station/El Monte Station"
+5,2326469,52,Civic Center Drive opposite AMC Theaters,7/Green Line Station/El Monte Station
+5,2324833,53,San Antonio Drive and Olive Street- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+5,2326470,54,Firestone Boulevard and Paddison Avenue,7/Green Line Station/El Monte Station
+5,2326471,55,Firestone Boulevard and Pioneer Boulevard,7/Green Line Station/El Monte Station
+5,2324579,56,Imperial/Firestone,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+5,2324627,57,Imperial Highway opposite Fairford Avenue,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+5,2324875,58,Studebaker Road and Imperial Highway,7/Green Line Station/El Monte Station
+5,2324697,59,Norwalk Green Line Station ,7/Green Line Station/El Monte Station
+6,2324535,1,El Monte Station - Lower Bay 6,7/Green Line Station/El Monte Station
+6,2324769,2,Ramona Boulevard and Santa Anita Avenue,7/Green Line Station/El Monte Station
+6,2324768,3,Ramona Boulevard and Lexington Avenue,7/Green Line Station/El Monte Station
+6,2324770,4,Ramona Boulevard and Tyler Avenue,7/Green Line Station/El Monte Station
+6,2324771,5,Ramona Boulevard and Valley Boulevard,7/Green Line Station/El Monte Station
+6,2324892,6,Valley Boulevard and Johnson Avenue,7/Green Line Station/El Monte Station
+6,2324893,7,Valley Boulevard and Peck Road,7/Green Line Station/El Monte Station
+6,2324722,8,Peck Road and Meeker Avenue,7/Green Line Station/El Monte Station
+6,2326458,9,Peck Road and Garvey Avenue,7/Green Line Station/El Monte Station
+6,2324718,10,Peck Road/Elliott,7/Green Line Station/El Monte Station
+6,2324724,11,Peck Road and Mountain View Road,7/Green Line Station/El Monte Station
+6,2324719,12,Peck Road and Fineview Street,7/Green Line Station/El Monte Station
+6,2324828,13,Rush Street and Durfee Avenue,7/Green Line Station/El Monte Station
+6,2326459,14,Durfee Avenue and Thienes Avenue,7/Green Line Station/El Monte Station
+6,2326460,15,Durfee Avenue and Michael Hunt Drive,7/Green Line Station/El Monte Station
+6,2324717,16,Peck Road and Durfee Avenue,7/Green Line Station/El Monte Station
+6,2324725,17,Peck Road and Rooks Road,7/Green Line Station/El Monte Station
+6,2324922,18,Workman Mill Road/College,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+6,2324923,19,Workman Mill Road opposite Rose Hills Main Gate,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+6,2324903,20,Workman Mill Road and Mission Mill Road- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+6,2324911,21,Workman Mill Road and Rose Hills Road- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+6,2324904,22,Workman Mill Road and Pioneer Boulevard- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+6,2324908,23,Workman Mill Road and Rose Hills Gate # 19,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+6,2324924,24,Workman Mill Road opposite Sierra Morena Avenue,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+6,2324506,25,Beverly Boulevard and Norwalk Boulevard,7/Green Line Station/El Monte Station
+6,2324504,26,Beverly Boulevard and Floral Drive,7/Green Line Station/El Monte Station
+6,2324503,27,Beverly Boulevard and Citrus Avenue,7/Green Line Station/El Monte Station
+6,2324508,28,Beverly Boulevard and Pickering Avenue,7/Green Line Station/El Monte Station
+6,2326461,29,Beverly Boulevard and Greenleaf Avenue,7/Green Line Station/El Monte Station
+6,2326462,30,Greenleaf Avenue and Broadway,7/Green Line Station/El Monte Station
+6,2324566,31,Hadley Street and Washington Boulevard,7/Green Line Station/El Monte Station
+6,2324565,32,Hadley Street and Painter Avenue,7/Green Line Station/El Monte Station
+6,2324715,33,Painter Avenue and Philadelphia Street,7/Green Line Station/El Monte Station
+6,2326463,34,Painter Avenue and Wardman Street,7/Green Line Station/El Monte Station
+6,2324714,35,Painter Avenue and Penn Street,7/Green Line Station/El Monte Station
+6,2324713,36,Painter Avenue and Mar Vista Street,7/Green Line Station/El Monte Station
+6,2326464,37,Mar Vista Street/Greenleaf,7/Green Line Station/El Monte Station
+6,2324727,38,Pickering Avenue and Mar Vista Street,7/Green Line Station/El Monte Station
+6,2326465,39,Pickering Avenue and Walnut Street,7/Green Line Station/El Monte Station
+6,2326466,40,Pickering Avenue and Whittier Boulevard,7/Green Line Station/El Monte Station
+6,2326467,41,Washington Boulevard and Putnam Street,7/Green Line Station/El Monte Station
+6,2324640,42,Lambert Road and Washington Boulevard,7/Green Line Station/El Monte Station
+6,2324639,43,Lambert Road and Santa Fe Springs Road,7/Green Line Station/El Monte Station
+6,2324837,44,Santa Fe Springs Road and Slauson Avenue,7/Green Line Station/El Monte Station
+6,2326468,45,Santa Fe Springs Road and Los Nietos Road,7/Green Line Station/El Monte Station
+6,2324838,46,Bloomfield/Telegraph,7/Green Line Station/El Monte Station
+6,2324516,47,Bloomfield Avenue and Florence Avenue,7/Green Line Station/El Monte Station
+6,2324518,48,Bloomfield Avenue and Lakeland Road,7/Green Line Station/El Monte Station
+6,2324517,49,Bloomfield/Imperial,7/Green Line Station/El Monte Station
+6,2324521,50,Civic Center Drive and Bloomfield Avenue,7/Green Line Station/El Monte Station
+6,2324525,51,Civic Center Drive and Volunteer Avenue- N/E Corner,"3/Gateway Plaza/Norwalk/166th Street, 7/Green Line Station/El Monte Station"
+6,2326469,52,Civic Center Drive opposite AMC Theaters,7/Green Line Station/El Monte Station
+6,2324833,53,San Antonio Drive and Olive Street- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+6,2326470,54,Firestone Boulevard and Paddison Avenue,7/Green Line Station/El Monte Station
+6,2326471,55,Firestone Boulevard and Pioneer Boulevard,7/Green Line Station/El Monte Station
+6,2324579,56,Imperial/Firestone,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+6,2324627,57,Imperial Highway opposite Fairford Avenue,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+6,2324875,58,Studebaker Road and Imperial Highway,7/Green Line Station/El Monte Station
+6,2324697,59,Norwalk Green Line Station ,7/Green Line Station/El Monte Station
+7,2324965,1,Green Line Station,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324788,2,Rosecrans Avenue and Dumont Avenue,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324821,3,Rosecrans Avenue and Studebaker Road S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324791,4,Rosecrans Avenue and Elmcroft Avenue S/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324802,5,Rosecrans Avenue and Harvest Avenue S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324795,6,Rosecrans Avenue and Flallon Avenue S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324815,7,Rosecrans and Pioneer,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324785,8,Rosecrans Avenue and Clarkdale Avenue S/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324797,9,Rosecrans Avenue and Grayland Avenue S/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324813,10,Rosecrans Avenue and Norwalk Boulevard S/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324803,11,Rosecrans Avenue and Helwig Avenue S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324778,12,Rosecrans Avenue and Bloomfield Avenue S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324825,13,Rosecrans Avenue opposite Bloomfield Avenue North,"3/Gateway Plaza/Norwalk/166th Street, 5/Green Line Station To/From La Mirada Via Rosecrans"
+7,2324800,14,Rosecrans Avenue and Greenstone Avenue S/E Corner,"3/Gateway Plaza/Norwalk/166th Street, 5/Green Line Station To/From La Mirada Via Rosecrans"
+7,2324819,15,Rosecrans Avenue and Shoemaker Avenue S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324787,16,Rosecrans Avenue and Dinard Avenue S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324783,17,Rosecrans Avenue and Claressa Avenue S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324781,18,Rosecrans Avenue and Carmenita Road S/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324810,19,Rosecrans Avenue and Marquardt Avenue S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324823,20,Rosecrans Avenue and Valley View Avenue S/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324782,21,Rosecrans Avenue and Castellon Road S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324777,22,Rosecrans Avenue and Biola Avenue S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324793,23,Rosecrans Avenue and Figueras Road S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324807,24,Rosecrans Avenue and La Mirada Boulevard S/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324773,25,Rosecrans Avenue and Adelfa Drive S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324805,26,Rosecrans Avenue and La Fonda Drive S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324817,27,Rosecrans Avenue and Santa Gertrudes Avenue S/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+7,2324479,28,Adelfa and Santa Gertrudes,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324479,1,Adelfa and Santa Gertrudes,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324629,2,La Mirada Boulevard and Ocaso Avenue S/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324839,3,Santa Gertrudes Avenue and Stanbrook Drive,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324816,4,Rosecrans Avenue and Santa Gertrudes Avenue N/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324808,5,Rosecrans Avenue and La Fonda Drive N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324772,6,Rosecrans Avenue and Adelfa Drive N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324804,7,Rosecrans Avenue and Jalon Road N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324806,8,Rosecrans Avenue and La Mirada Boulevard N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324792,9,Rosecrans Avenue and Figueras Road N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324776,10,Rosecrans Avenue and Biola Avenue N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324789,11,Rosecrans Avenue and El Espejo Road N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324822,12,Rosecrans Avenue and Valley View Avenue N/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324809,13,Rosecrans Avenue and Marquardt Avenue N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324780,14,Rosecrans Avenue and Carmenita Road N/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324786,15,Rosecrans Avenue and Dinard Avenue N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2326152,16,Rosecrans/Shoemaker,"3/Gateway Plaza/Norwalk/166th Street, 5/Green Line Station To/From La Mirada Via Rosecrans"
+8,2324799,17,Rosecrans Avenue and Greenstone Avenue N/E Corner,"3/Gateway Plaza/Norwalk/166th Street, 5/Green Line Station To/From La Mirada Via Rosecrans"
+8,2324469,18,12801 Rosecrans Avenue,"3/Gateway Plaza/Norwalk/166th Street, 5/Green Line Station To/From La Mirada Via Rosecrans"
+8,2324827,19,Rosecrans Avenue opposite S Bloomfield Avenue,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324811,20,Rosecrans Avenue at the Masonic Center,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324812,21,Rosecrans Avenue and Norwalk Boulevard N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324796,22,Rosecrans Avenue and Grayland Avenue N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324784,23,Rosecrans Avenue and Clarkdale Avenue N/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324814,24,Rosecrans and Pioneer ,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324794,25,Rosecrans Avenue and Flallon Avenue N/W Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324767,26,Ralph's,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324801,27,Rosecrans Avenue and Harvest Avenue N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324790,28,Rosecrans Avenue and Elmcroft Avenue,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324820,29,Rosecrans Avenue and Studebaker Road N/E Corner,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324826,30,Rosecrans Avenue opposite Dumont Avenue,5/Green Line Station To/From La Mirada Via Rosecrans
+8,2324965,31,Green Line Station,5/Green Line Station To/From La Mirada Via Rosecrans
+9,2324927,1,Green Line Station,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324584,2,Imperial Highway and Hoxie Avenue- S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+9,2324616,3,Imperial Highway and Studebaker Road-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+9,2324578,4,Imperial Highway and Fairford Avenue-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+9,2324625,5,Imperial Highway and Orr and Day Road,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+9,2324628,6,Imperial Highway opposite Jersey Avenue,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+9,2324609,7,Imperial/Pioneer,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+9,2324607,8,Imperial Highway and Paddison Avenue- S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+9,2324589,9,Imperial/Norwalk,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+9,2324599,10,Imperial/Norwalk,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324622,11,Imperial Highway and Volunteer Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324573,12,Imperial Highway and Bloomfield Avenue- S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324643,13,Metrolink Station,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324613,14,Imperial Highway and Shoemaker Avenue- S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324592,15,Imperial Highway and Leffingwell Road - S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324577,16,Imperial Highway and Carmenita Road- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324595,17,Imperial Highway and Meyer Road- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324620,18,Imperial Highway and Valley View Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324575,19,Imperial Highway and Burgess Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324571,20,Imperial Highway and Biola Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324591,21,Imperial Highway and La Mirada Boulevard- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324601,22,Imperial Highway and Ocaso Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324604,23,Imperial Highway and Oxford Drive- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324611,24,Imperial/Santa Gertrudes,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324583,25,Imperial Highway and Grovedale Drive- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324581,26,Imperial Highway and 1st Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324618,27,Imperial Highway and Tigrina Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324502,28,Imperial/Beach,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324501,29,Beach Boulevard and Fashion Square Lane- S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324636,30,Lambert Road and Beach Boulevard- S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324638,31,Lambert Road and Whitebrook Drive- S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324637,32,Lambert Road and Idaho Street- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324568,33,Idaho Street opposite Las Lomas,4/Imperial Highway/Metrolink Station/Green Line Station
+9,2324585,34,Imperial/Idaho,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324927,1,Green Line Station,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324584,2,Imperial Highway and Hoxie Avenue- S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+10,2324616,3,Imperial Highway and Studebaker Road-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+10,2324578,4,Imperial Highway and Fairford Avenue-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+10,2324625,5,Imperial Highway and Orr and Day Road,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+10,2324628,6,Imperial Highway opposite Jersey Avenue,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+10,2324609,7,Imperial/Pioneer,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+10,2324607,8,Imperial Highway and Paddison Avenue- S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+10,2324589,9,Imperial/Norwalk,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+10,2324599,10,Imperial/Norwalk,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324622,11,Imperial Highway and Volunteer Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324573,12,Imperial Highway and Bloomfield Avenue- S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324643,13,Metrolink Station,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324613,14,Imperial Highway and Shoemaker Avenue- S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324592,15,Imperial Highway and Leffingwell Road - S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324577,16,Imperial Highway and Carmenita Road- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324595,17,Imperial Highway and Meyer Road- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324620,18,Imperial Highway and Valley View Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324575,19,Imperial Highway and Burgess Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324571,20,Imperial Highway and Biola Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324591,21,Imperial Highway and La Mirada Boulevard- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324601,22,Imperial Highway and Ocaso Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324604,23,Imperial Highway and Oxford Drive- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324611,24,Imperial/Santa Gertrudes,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324583,25,Imperial Highway and Grovedale Drive- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324581,26,Imperial Highway and 1st Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324618,27,Imperial Highway and Tigrina Avenue- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324502,28,Imperial/Beach,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324501,29,Beach Boulevard and Fashion Square Lane- S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324636,30,Lambert Road and Beach Boulevard- S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324638,31,Lambert Road and Whitebrook Drive- S/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324637,32,Lambert Road and Idaho Street- S/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324568,33,Idaho Street opposite Las Lomas,4/Imperial Highway/Metrolink Station/Green Line Station
+10,2324585,34,Imperial/Idaho,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324585,1,Imperial/Idaho,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324597,2,Imperial Highway and Market Place (West) Wendy's,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324570,3,Imperial Highway and Beach Boulevard- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324617,4,Imperial Highway and Tigrina Avenue- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324580,5,Imperial Highway and 1st Avenue- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324582,6,Imperial Highway and Grovedale Drive- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324610,7,Imperial/Santa Gertrudes,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324603,8,Imperial Highway and Oxford Drive- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324600,9,Imperial Highway and Ocaso Avenue- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324590,10,Imperial Highway and La Mirada Boulevard- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324614,11,Imperial Highway and Springview Drive- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324574,12,Imperial Highway and Burgess Avenue- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324619,13,Imperial Highway and Valley View Avenue- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324594,14,Imperial Highway and Meyer Road- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324576,15,Imperial Highway and Carmenita Road- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324593,16,Imperial Highway and Leffingwell Road- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324612,17,Imperial Highway and Shoemaker Avenue- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324643,18,Metrolink Station,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324572,19,Imperial Highway and Bloomfield Avenue- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324569,20,Imperial Highway and 12501 Imperial Highway,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324621,21,Imperial Highway and Volunteer Avenue- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+11,2324598,22,Imperial/Norwalk,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+11,2324606,23,Imperial Highway and Paddison Avenue- N/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+11,2324608,24,Imperial/Pioneer,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+11,2324586,25,Imperial Highway and Jersey Avenue- N/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+11,2324579,26,Imperial/Firestone,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+11,2324627,27,Imperial Highway opposite Fairford Avenue,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+11,2324615,28,Imperial Highway and Studebaker Road- N/W Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+11,2324927,29,Green Line Station,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324585,1,Imperial/Idaho,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324597,2,Imperial Highway and Market Place (West) Wendy's,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324570,3,Imperial Highway and Beach Boulevard- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324617,4,Imperial Highway and Tigrina Avenue- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324580,5,Imperial Highway and 1st Avenue- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324582,6,Imperial Highway and Grovedale Drive- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324610,7,Imperial/Santa Gertrudes,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324603,8,Imperial Highway and Oxford Drive- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324600,9,Imperial Highway and Ocaso Avenue- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324590,10,Imperial Highway and La Mirada Boulevard- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324614,11,Imperial Highway and Springview Drive- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324574,12,Imperial Highway and Burgess Avenue- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324619,13,Imperial Highway and Valley View Avenue- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324594,14,Imperial Highway and Meyer Road- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324576,15,Imperial Highway and Carmenita Road- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324593,16,Imperial Highway and Leffingwell Road- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324612,17,Imperial Highway and Shoemaker Avenue- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324643,18,Metrolink Station,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324572,19,Imperial Highway and Bloomfield Avenue- N/E Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324569,20,Imperial Highway and 12501 Imperial Highway,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324621,21,Imperial Highway and Volunteer Avenue- N/W Corner,4/Imperial Highway/Metrolink Station/Green Line Station
+12,2324598,22,Imperial/Norwalk,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+12,2324606,23,Imperial Highway and Paddison Avenue- N/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+12,2324608,24,Imperial/Pioneer,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+12,2324586,25,Imperial Highway and Jersey Avenue- N/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+12,2324579,26,Imperial/Firestone,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+12,2324627,27,Imperial Highway opposite Fairford Avenue,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+12,2324615,28,Imperial Highway and Studebaker Road- N/W Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+12,2324927,29,Green Line Station,4/Imperial Highway/Metrolink Station/Green Line Station
+13,2324765,1,NSQ,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+13,2324759,2,Pioneer/Rosecrans,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+13,2324750,3,Pioneer Boulevard and Lindale-S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+13,2324754,4,Pioneer Boulevard and Mapledale Street- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+13,2324746,5,Pioneer Boulevard and Excelsior Drive-S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+13,2324567,6,Hindu Temple (15311 Pioneer Boulevard),"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+13,2324764,7,Pioneer Boulevard opposite Cheshire Street,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+13,2324736,8,Pioneer Boulevard and Alondra Boulevard- N/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+13,2324762,9,Pioneer Boulevard opposite 163rd Street,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324732,10,Pioneer Boulevard and 166th Street- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324739,11,Pioneer Boulevard and Artesia Boulevard- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324737,12,Pioneer Boulevard at Artesia Boulevard Oasis,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324734,13,Pioneer Boulevard and 183rd Street- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324471,14,183rd Street and Alburtis Avenue- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324474,15,183rd/Gridley,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324473,16,183rd Street and Best Plaza- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324852,17,Studebaker Road and 183rd Street- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324856,18,Studebaker Road and Artesia Boulevard- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324873,19,Studebaker Road and Spinnaker Street- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324850,20,Studebaker Road and 166th Street- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324863,21,Studebaker Road and Falcon Way- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324854,22,Studebaker/Alondra,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324859,23,Studebaker Road and Barnwall Street- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324861,24,Studebaker Road and Excelsior Drive- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324868,25,Studebaker Road and Mapledale Street- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324871,26,Studebaker Road and Rosecrans Avenue- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324866,27,Studebaker Road and Leffingwell Road- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324865,28,Studebaker Road and Foster Road- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324860,29,Studebaker Road and Coast Plaza Hospital,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324926,30,Green Line Station,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+13,2324584,31,Imperial Highway and Hoxie Avenue- S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+13,2324616,32,Imperial Highway and Studebaker Road-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+13,2324578,33,Imperial Highway and Fairford Avenue-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+13,2324625,34,Imperial Highway and Orr and Day Road,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+13,2324628,35,Imperial Highway opposite Jersey Avenue,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+13,2324609,36,Imperial/Pioneer,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+13,2324607,37,Imperial Highway and Paddison Avenue- S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+13,2324589,38,Imperial/Norwalk,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+13,2324670,39,Norwalk/Imperial (Ihop),"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 3/Gateway Plaza/Norwalk/166th Street"
+13,2324657,40,Norwalk Boulevard and Civic Center Drive,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+13,2324833,41,San Antonio Drive and Olive Street- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+13,2324829,42,San Antonio Drive and Firestone Boulevard- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+13,2324830,43,San Antonio Drive and Foster Road- N/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+13,2324765,44,NSQ,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324765,1,NSQ,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324759,2,Pioneer/Rosecrans,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324750,3,Pioneer Boulevard and Lindale-S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324754,4,Pioneer Boulevard and Mapledale Street- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324746,5,Pioneer Boulevard and Excelsior Drive-S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324567,6,Hindu Temple (15311 Pioneer Boulevard),"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324764,7,Pioneer Boulevard opposite Cheshire Street,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324736,8,Pioneer Boulevard and Alondra Boulevard- N/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324762,9,Pioneer Boulevard opposite 163rd Street,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324732,10,Pioneer Boulevard and 166th Street- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324739,11,Pioneer Boulevard and Artesia Boulevard- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324737,12,Pioneer Boulevard at Artesia Boulevard Oasis,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324734,13,Pioneer Boulevard and 183rd Street- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324471,14,183rd Street and Alburtis Avenue- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324474,15,183rd/Gridley,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324473,16,183rd Street and Best Plaza- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324852,17,Studebaker Road and 183rd Street- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324856,18,Studebaker Road and Artesia Boulevard- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324873,19,Studebaker Road and Spinnaker Street- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324850,20,Studebaker Road and 166th Street- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324863,21,Studebaker Road and Falcon Way- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324854,22,Studebaker/Alondra,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324859,23,Studebaker Road and Barnwall Street- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324861,24,Studebaker Road and Excelsior Drive- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324868,25,Studebaker Road and Mapledale Street- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324871,26,Studebaker Road and Rosecrans Avenue- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324866,27,Studebaker Road and Leffingwell Road- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324865,28,Studebaker Road and Foster Road- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324860,29,Studebaker Road and Coast Plaza Hospital,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324926,30,Green Line Station,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+14,2324584,31,Imperial Highway and Hoxie Avenue- S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+14,2324616,32,Imperial Highway and Studebaker Road-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+14,2324578,33,Imperial Highway and Fairford Avenue-S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+14,2324625,34,Imperial Highway and Orr and Day Road,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+14,2324628,35,Imperial Highway opposite Jersey Avenue,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+14,2324609,36,Imperial/Pioneer,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+14,2324607,37,Imperial Highway and Paddison Avenue- S/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+14,2324589,38,Imperial/Norwalk,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+14,2324670,39,Norwalk/Imperial (Ihop),"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 3/Gateway Plaza/Norwalk/166th Street"
+14,2324657,40,Norwalk Boulevard and Civic Center Drive,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324833,41,San Antonio Drive and Olive Street- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+14,2324829,42,San Antonio Drive and Firestone Boulevard- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324830,43,San Antonio Drive and Foster Road- N/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+14,2324765,44,NSQ,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+15,2324757,1,Pioneer/Rosecrans,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+15,2324756,2,Pioneer Boulevard and Orange Street- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+15,2324747,3,Pioneer Boulevard and Foster Road- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+15,2324557,4,Foster Road and San Antonio Drive- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+15,2324831,5,San Antonio Drive and Front Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+15,2324832,6,San Antonio Drive and Olive Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+15,2324659,7,Norwalk Boulevard and Civic Center Drive- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 3/Gateway Plaza/Norwalk/166th Street"
+15,2324598,8,Imperial/Norwalk,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+15,2324606,9,Imperial Highway and Paddison Avenue- N/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+15,2324608,10,Imperial/Pioneer,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+15,2324586,11,Imperial Highway and Jersey Avenue- N/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+15,2324579,12,Imperial/Firestone,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+15,2324627,13,Imperial Highway opposite Fairford Avenue,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+15,2324615,14,Imperial Highway and Studebaker Road- N/W Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+15,2324926,15,Green Line Station,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324855,16,Studebaker Road and Angell opposite Hospital,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324864,17,Studebaker Road and Foster Road- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324867,18,Studebaker Road and Leffingwell Road- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324872,19,Studebaker Road and Rosecrans Avenue- S/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324869,20,Studebaker Road and Mapledale Street- S/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324862,21,Studebaker Road and Excelsior Drive- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324858,22,Studebaker Road and Barnwall Street,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324853,23,StudebakerAlondra,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324870,24,Studebaker Road and Melissa Street- S/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324851,25,Studebaker Road and 166th Street- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324857,26,Studebaker Road and Artesia Boulevard- S/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324477,27,183rd Street and Studebaker Road- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324476,28,183rd Street and Los Cerritos Center- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324475,29,183rd/Gridley,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324472,30,183rd Street and Alburtis Avenue- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324733,31,Pioneer Boulevard and 178th Street - N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324738,32,Pioneer Boulevard and Artesia Boulevard- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324731,33,Pioneer Boulevard and 166th Street- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324730,34,Pioneer Boulevard and 163rd Street- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+15,2324735,35,Pioneer/Alondra,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+15,2324743,36,Pioneer Boulevard and Cheshire Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+15,2324744,37,Pioneer Boulevard and Excelsior Drive- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+15,2324753,38,Pioneer Boulevard and Mapledale Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+15,2324748,39,Pioneer Boulevard and Lindale- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+15,2324757,40,Pioneer/Rosecrans,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+16,2324757,1,Pioneer/Rosecrans,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+16,2324756,2,Pioneer Boulevard and Orange Street- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+16,2324747,3,Pioneer Boulevard and Foster Road- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+16,2324557,4,Foster Road and San Antonio Drive- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+16,2324831,5,San Antonio Drive and Front Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+16,2324832,6,San Antonio Drive and Olive Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+16,2324659,7,Norwalk Boulevard and Civic Center Drive- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 3/Gateway Plaza/Norwalk/166th Street"
+16,2324598,8,Imperial/Norwalk,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+16,2324606,9,Imperial Highway and Paddison Avenue- N/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+16,2324608,10,Imperial/Pioneer,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+16,2324586,11,Imperial Highway and Jersey Avenue- N/E Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+16,2324579,12,Imperial/Firestone,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+16,2324627,13,Imperial Highway opposite Fairford Avenue,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station, 7/Green Line Station/El Monte Station"
+16,2324615,14,Imperial Highway and Studebaker Road- N/W Corner,"2/NSQ/Green Line/Cerritos College/Cerritos Mall, 4/Imperial Highway/Metrolink Station/Green Line Station"
+16,2324926,15,Green Line Station,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324855,16,Studebaker Road and Angell opposite Hospital,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324864,17,Studebaker Road and Foster Road- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324867,18,Studebaker Road and Leffingwell Road- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324872,19,Studebaker Road and Rosecrans Avenue- S/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324869,20,Studebaker Road and Mapledale Street- S/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324862,21,Studebaker Road and Excelsior Drive- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324858,22,Studebaker Road and Barnwall Street,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324853,23,StudebakerAlondra,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324870,24,Studebaker Road and Melissa Street- S/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324851,25,Studebaker Road and 166th Street- N/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324857,26,Studebaker Road and Artesia Boulevard- S/W Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324477,27,183rd Street and Studebaker Road- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324476,28,183rd Street and Los Cerritos Center- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324475,29,183rd/Gridley,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324472,30,183rd Street and Alburtis Avenue- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324733,31,Pioneer Boulevard and 178th Street - N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324738,32,Pioneer Boulevard and Artesia Boulevard- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324731,33,Pioneer Boulevard and 166th Street- N/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324730,34,Pioneer Boulevard and 163rd Street- S/E Corner,2/NSQ/Green Line/Cerritos College/Cerritos Mall
+16,2324735,35,Pioneer/Alondra,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+16,2324743,36,Pioneer Boulevard and Cheshire Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+16,2324744,37,Pioneer Boulevard and Excelsior Drive- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+16,2324753,38,Pioneer Boulevard and Mapledale Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+16,2324748,39,Pioneer Boulevard and Lindale- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+16,2324757,40,Pioneer/Rosecrans,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+17,2324551,1,Flower/Bellflower,1/Rio Hondo/Bellflower
+17,2324550,2,Flower Street and Ardmore Avenue - N/E  Corner,1/Rio Hondo/Bellflower
+17,2324531,3,Clark Avenue and Oak Street at Youth Employment,1/Rio Hondo/Bellflower
+17,2324528,4,Clark Avenue and Alondra Boulevard - S/E  Corner,1/Rio Hondo/Bellflower
+17,2324530,5,Clark Avenue and Linden Street - N/E  Corner,1/Rio Hondo/Bellflower
+17,2324529,6,Clark Avenue and Ives Street - N/E  Corner,1/Rio Hondo/Bellflower
+17,2324533,7,Clark Avenue and Somerset Boulevard- N/E  Corner,1/Rio Hondo/Bellflower
+17,2324532,8,Clark/Rosecrans,1/Rio Hondo/Bellflower
+17,2324774,9,Rosecrans Avenue and Ardis Avenue - S/E  Corner,1/Rio Hondo/Bellflower
+17,2324775,10,Rosecrans Avenue and Bellflower Boulevard -S/E Corner,1/Rio Hondo/Bellflower
+17,2324779,11,Rosecrans Avenue and Cabell - S/E  Corner,1/Rio Hondo/Bellflower
+17,2324898,12,Woodruff Avenue and Rosecrans Avenue - S/W  Corner,1/Rio Hondo/Bellflower
+17,2324899,13,Woodruff Avenue and Somerset Boulevard-N/W  Corner,1/Rio Hondo/Bellflower
+17,2324900,14,Woodruff Avenue and Woodruff Avenue Pl.-N/W Corner,1/Rio Hondo/Bellflower
+17,2324497,15,Woodruff/Alondra,1/Rio Hondo/Bellflower
+17,2324489,16,Alondra Boulevard and Mc Nab Avenue- S/E Corner,1/Rio Hondo/Bellflower
+17,2324493,17,Alondra Boulevard and Piuma Avenue- S/W Corner,1/Rio Hondo/Bellflower
+17,2324500,18,Alondra Boulevard opposite Leibacher Avenue,1/Rio Hondo/Bellflower
+17,2324495,19,Alondra Boulevard and Studebaker Road- S/E Corner,1/Rio Hondo/Bellflower
+17,2324498,20,Alondra Boulevard opposite Elmcroft Avenue,1/Rio Hondo/Bellflower
+17,2324499,21,Alondra Boulevard opposite Gridley Road,1/Rio Hondo/Bellflower
+17,2324487,22,Alondra/Maidstone,1/Rio Hondo/Bellflower
+17,2324735,23,Pioneer/Alondra,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+17,2324743,24,Pioneer Boulevard and Cheshire Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+17,2324744,25,Pioneer Boulevard and Excelsior Drive- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+17,2324753,26,Pioneer Boulevard and Mapledale Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+17,2324748,27,Pioneer Boulevard and Lindale- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+17,2324757,28,Pioneer/Rosecrans,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+17,2324756,29,Pioneer Boulevard and Orange Street- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+17,2324747,30,Pioneer Boulevard and Foster Road- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+17,2324557,31,Foster Road and San Antonio Drive- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+17,2324831,32,San Antonio Drive and Front Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+17,2324832,33,San Antonio Drive and Olive Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+17,2324659,34,Norwalk Boulevard and Civic Center Drive- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324671,35,Norwalk/Imperial,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324665,36,Norwalk Boulevard and Everest Street,1/Rio Hondo/Bellflower
+17,2324646,37,Norwalk Boulevard and Aegean Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324673,38,Norwalk Boulevard at Metro Hospital Main Gate,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324696,39,Norwalk Boulevard opposite Oracle Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324672,40,Norwalk Boulevard and Lakeland Road- S/E Corner,1/Rio Hondo/Bellflower
+17,2324543,41,Florence Avenue and Norwalk Boulevard- N/W Corner,1/Rio Hondo/Bellflower
+17,2324545,42,Florence/Pioneer,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324542,43,Florence Avenue at Lake Center Athletic Park,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324541,44,Florence Avenue at Kid Zone,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324706,45,Florence/Orr and Day,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324698,46,Orr and Day Road and Clarkman Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324703,47,Orr and Day Road and Dunning Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324966,48,Orr and Day Road and Davenrich Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+17,2324709,49,Orr and Day/Telegraph,1/Rio Hondo/Bellflower
+17,2324710,50,Orr and Day Road and Whiteland Street- S/E Corner,1/Rio Hondo/Bellflower
+17,2324742,51,Pioneer Boulevard and Charlesworth Road- N/E Corner,1/Rio Hondo/Bellflower
+17,2324741,52,Pioneer Boulevard and Broaded Street- N/E Corner,1/Rio Hondo/Bellflower
+17,2324740,53,Pioneer Boulevard and Bluejay Lane- S/E Corner,1/Rio Hondo/Bellflower
+17,2324741,54,Pioneer Boulevard and Broaded Street- N/E Corner,1/Rio Hondo/Bellflower
+17,2324740,55,Pioneer Boulevard and Bluejay Lane- S/E Corner,1/Rio Hondo/Bellflower
+17,2324752,56,Pioneer Boulevard and Los Nietos Road- S/E Corner,1/Rio Hondo/Bellflower
+17,2324760,57,Pioneer Boulevard and Slauson Avenue- S/E Corner,1/Rio Hondo/Bellflower
+17,2324849,58,Slauson Avenue and Millergrove Drive- S/W Corner,1/Rio Hondo/Bellflower
+17,2324847,59,Slauson Avenue and Alburtis Avenue- S/E Corner,1/Rio Hondo/Bellflower
+17,2324683,60,Norwalk Boulevard and Slauson Avenue- N/E Corner,1/Rio Hondo/Bellflower
+17,2324689,61,Norwalk Boulevard and Wakeman Street- Sw/E Corner,1/Rio Hondo/Bellflower
+17,2324688,62,Norwalk Boulevard and Waddell Street- N/E Corner,1/Rio Hondo/Bellflower
+17,2324690,63,Norwalk/Washington,1/Rio Hondo/Bellflower
+17,2324650,64,Norwalk Boulevard and Balfour Street- N/E Corner,1/Rio Hondo/Bellflower
+17,2324674,65,Norwalk Boulevard and Mines Boulevard- N/E Corner,1/Rio Hondo/Bellflower
+17,2324682,66,Norwalk Boulevard and Reichling Lane- S/E Corner,1/Rio Hondo/Bellflower
+17,2324654,67,Norwalk Boulevard and Bexley Drive- S/E Corner,1/Rio Hondo/Bellflower
+17,2324692,68,Norwalk/Whittier,1/Rio Hondo/Bellflower
+17,2324680,69,Norwalk Boulevard and Orange Street- S/E Corner,1/Rio Hondo/Bellflower
+17,2324675,70,Norwalk Boulevard and Monte Vista Drive- N/E Corner,1/Rio Hondo/Bellflower
+17,2324651,71,Norwalk Boulevard and Beverly Boulevard- S/E Corner,1/Rio Hondo/Bellflower
+17,2324909,72,Workman Mill Road and Sierra Morena Avenue- S/E Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+17,2324907,73,Workman Mill Road and Rose Hills Gate # 17,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+17,2324910,74,Workman Mill Road and Spy Glass Hill Road- S/E Corner,1/Rio Hondo/Bellflower
+17,2324902,75,Workman Mill Road and Cliota Street- S/E Corner,1/Rio Hondo/Bellflower
+17,2324906,76,Workman Mill Road and Rose Hills (Main Gate),"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+17,2324905,77,Workman Mill/College,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+17,2324901,78,Rio Hondo College,1/Rio Hondo/Bellflower
+18,2324551,1,Flower/Bellflower,1/Rio Hondo/Bellflower
+18,2324550,2,Flower Street and Ardmore Avenue - N/E  Corner,1/Rio Hondo/Bellflower
+18,2324531,3,Clark Avenue and Oak Street at Youth Employment,1/Rio Hondo/Bellflower
+18,2324528,4,Clark Avenue and Alondra Boulevard - S/E  Corner,1/Rio Hondo/Bellflower
+18,2324530,5,Clark Avenue and Linden Street - N/E  Corner,1/Rio Hondo/Bellflower
+18,2324529,6,Clark Avenue and Ives Street - N/E  Corner,1/Rio Hondo/Bellflower
+18,2324533,7,Clark Avenue and Somerset Boulevard- N/E  Corner,1/Rio Hondo/Bellflower
+18,2324532,8,Clark/Rosecrans,1/Rio Hondo/Bellflower
+18,2324774,9,Rosecrans Avenue and Ardis Avenue - S/E  Corner,1/Rio Hondo/Bellflower
+18,2324775,10,Rosecrans Avenue and Bellflower Boulevard -S/E Corner,1/Rio Hondo/Bellflower
+18,2324779,11,Rosecrans Avenue and Cabell - S/E  Corner,1/Rio Hondo/Bellflower
+18,2324898,12,Woodruff Avenue and Rosecrans Avenue - S/W  Corner,1/Rio Hondo/Bellflower
+18,2324899,13,Woodruff Avenue and Somerset Boulevard-N/W  Corner,1/Rio Hondo/Bellflower
+18,2324900,14,Woodruff Avenue and Woodruff Avenue Pl.-N/W Corner,1/Rio Hondo/Bellflower
+18,2324497,15,Woodruff/Alondra,1/Rio Hondo/Bellflower
+18,2324489,16,Alondra Boulevard and Mc Nab Avenue- S/E Corner,1/Rio Hondo/Bellflower
+18,2324493,17,Alondra Boulevard and Piuma Avenue- S/W Corner,1/Rio Hondo/Bellflower
+18,2324500,18,Alondra Boulevard opposite Leibacher Avenue,1/Rio Hondo/Bellflower
+18,2324495,19,Alondra Boulevard and Studebaker Road- S/E Corner,1/Rio Hondo/Bellflower
+18,2324498,20,Alondra Boulevard opposite Elmcroft Avenue,1/Rio Hondo/Bellflower
+18,2324499,21,Alondra Boulevard opposite Gridley Road,1/Rio Hondo/Bellflower
+18,2324487,22,Alondra/Maidstone,1/Rio Hondo/Bellflower
+18,2324735,23,Pioneer/Alondra,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+18,2324743,24,Pioneer Boulevard and Cheshire Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+18,2324744,25,Pioneer Boulevard and Excelsior Drive- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+18,2324753,26,Pioneer Boulevard and Mapledale Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+18,2324748,27,Pioneer Boulevard and Lindale- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+18,2324757,28,Pioneer/Rosecrans,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+18,2324756,29,Pioneer Boulevard and Orange Street- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+18,2324747,30,Pioneer Boulevard and Foster Road- S/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+18,2324557,31,Foster Road and San Antonio Drive- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+18,2324831,32,San Antonio Drive and Front Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+18,2324832,33,San Antonio Drive and Olive Street- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+18,2324659,34,Norwalk Boulevard and Civic Center Drive- N/E Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324671,35,Norwalk/Imperial,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324665,36,Norwalk Boulevard and Everest Street,1/Rio Hondo/Bellflower
+18,2324646,37,Norwalk Boulevard and Aegean Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324673,38,Norwalk Boulevard at Metro Hospital Main Gate,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324696,39,Norwalk Boulevard opposite Oracle Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324672,40,Norwalk Boulevard and Lakeland Road- S/E Corner,1/Rio Hondo/Bellflower
+18,2324543,41,Florence Avenue and Norwalk Boulevard- N/W Corner,1/Rio Hondo/Bellflower
+18,2324545,42,Florence/Pioneer,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324542,43,Florence Avenue at Lake Center Athletic Park,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324541,44,Florence Avenue at Kid Zone,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324706,45,Florence/Orr and Day,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324698,46,Orr and Day Road and Clarkman Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324703,47,Orr and Day Road and Dunning Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324966,48,Orr and Day Road and Davenrich Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+18,2324709,49,Orr and Day/Telegraph,1/Rio Hondo/Bellflower
+18,2324710,50,Orr and Day Road and Whiteland Street- S/E Corner,1/Rio Hondo/Bellflower
+18,2324742,51,Pioneer Boulevard and Charlesworth Road- N/E Corner,1/Rio Hondo/Bellflower
+18,2324741,52,Pioneer Boulevard and Broaded Street- N/E Corner,1/Rio Hondo/Bellflower
+18,2324740,53,Pioneer Boulevard and Bluejay Lane- S/E Corner,1/Rio Hondo/Bellflower
+18,2324741,54,Pioneer Boulevard and Broaded Street- N/E Corner,1/Rio Hondo/Bellflower
+18,2324740,55,Pioneer Boulevard and Bluejay Lane- S/E Corner,1/Rio Hondo/Bellflower
+18,2324752,56,Pioneer Boulevard and Los Nietos Road- S/E Corner,1/Rio Hondo/Bellflower
+18,2324760,57,Pioneer Boulevard and Slauson Avenue- S/E Corner,1/Rio Hondo/Bellflower
+18,2324849,58,Slauson Avenue and Millergrove Drive- S/W Corner,1/Rio Hondo/Bellflower
+18,2324847,59,Slauson Avenue and Alburtis Avenue- S/E Corner,1/Rio Hondo/Bellflower
+18,2324683,60,Norwalk Boulevard and Slauson Avenue- N/E Corner,1/Rio Hondo/Bellflower
+18,2324689,61,Norwalk Boulevard and Wakeman Street- Sw/E Corner,1/Rio Hondo/Bellflower
+18,2324688,62,Norwalk Boulevard and Waddell Street- N/E Corner,1/Rio Hondo/Bellflower
+18,2324690,63,Norwalk/Washington,1/Rio Hondo/Bellflower
+18,2324650,64,Norwalk Boulevard and Balfour Street- N/E Corner,1/Rio Hondo/Bellflower
+18,2324674,65,Norwalk Boulevard and Mines Boulevard- N/E Corner,1/Rio Hondo/Bellflower
+18,2324682,66,Norwalk Boulevard and Reichling Lane- S/E Corner,1/Rio Hondo/Bellflower
+18,2324654,67,Norwalk Boulevard and Bexley Drive- S/E Corner,1/Rio Hondo/Bellflower
+18,2324692,68,Norwalk/Whittier,1/Rio Hondo/Bellflower
+18,2324680,69,Norwalk Boulevard and Orange Street- S/E Corner,1/Rio Hondo/Bellflower
+18,2324675,70,Norwalk Boulevard and Monte Vista Drive- N/E Corner,1/Rio Hondo/Bellflower
+18,2324651,71,Norwalk Boulevard and Beverly Boulevard- S/E Corner,1/Rio Hondo/Bellflower
+18,2324909,72,Workman Mill Road and Sierra Morena Avenue- S/E Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+18,2324907,73,Workman Mill Road and Rose Hills Gate # 17,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+18,2324910,74,Workman Mill Road and Spy Glass Hill Road- S/E Corner,1/Rio Hondo/Bellflower
+18,2324902,75,Workman Mill Road and Cliota Street- S/E Corner,1/Rio Hondo/Bellflower
+18,2324906,76,Workman Mill Road and Rose Hills (Main Gate),"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+18,2324905,77,Workman Mill/College,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+18,2324901,78,Rio Hondo College,1/Rio Hondo/Bellflower
+19,2324901,1,Rio Hondo College,1/Rio Hondo/Bellflower
+19,2324922,2,Workman Mill Road/College,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+19,2324923,3,Workman Mill Road opposite Rose Hills Main Gate,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+19,2324903,4,Workman Mill Road and Mission Mill Road- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+19,2324911,5,Workman Mill Road and Rose Hills Road- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+19,2324925,6,Workman Mill Road opposite Spy Glass Hill Road,1/Rio Hondo/Bellflower
+19,2324904,7,Workman Mill Road and Pioneer Boulevard- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+19,2324908,8,Workman Mill Road and Rose Hills Gate # 19,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+19,2324924,9,Workman Mill Road opposite Sierra Morena Avenue,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+19,2324652,10,Norwalk Boulevard and Beverly Boulevard- S/W Corner,1/Rio Hondo/Bellflower
+19,2324678,11,Norwalk Boulevard and Orange Grove Avenue- N/W Corner,1/Rio Hondo/Bellflower
+19,2324679,12,Norwalk Boulevard and Orange Street- N/W Corner,1/Rio Hondo/Bellflower
+19,2324693,13,Norwalk/Whittier,1/Rio Hondo/Bellflower
+19,2324653,14,Norwalk Boulevard and Bexley Drive- N/W Corner,1/Rio Hondo/Bellflower
+19,2324648,15,Norwalk Boulevard and Aldrich Street- N/W Corner,1/Rio Hondo/Bellflower
+19,2324662,16,Norwalk Boulevard and Coolhurst Drive- S/W Corner,1/Rio Hondo/Bellflower
+19,2324656,17,Norwalk Boulevard and Choisser Street,1/Rio Hondo/Bellflower
+19,2324691,18,Norwalk/Washington,1/Rio Hondo/Bellflower
+19,2324687,19,Norwalk Boulevard and Waddell Street- N/W Corner,1/Rio Hondo/Bellflower
+19,2324684,20,Norwalk Boulevard and Slauson Avenue- N/W Corner,1/Rio Hondo/Bellflower
+19,2324846,21,Slauson Avenue and Alburtis Avenue- N/E Corner,1/Rio Hondo/Bellflower
+19,2324848,22,Slauson Avenue and Millergrove Drive- N/E Corner,1/Rio Hondo/Bellflower
+19,2324761,23,Pioneer Boulevard and Slauson Avenue- S/W Corner,1/Rio Hondo/Bellflower
+19,2324766,24,Pioneer Boulevard opposite Los Nietos Road,1/Rio Hondo/Bellflower
+19,2324763,25,Pioneer Boulevard opposite Bluejay Lane,1/Rio Hondo/Bellflower
+19,2324755,26,Pioneer Boulevard at Neighborhood Center,1/Rio Hondo/Bellflower
+19,2324711,27,Orr and Day Road and Whiteland Street- S/W Corner,1/Rio Hondo/Bellflower
+19,2324886,28,Orr and Day/Telegraph,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+19,2324881,29,Telegraph Road and Jersey Avenue,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+19,2324889,30,Telegraph Road and Pioneer Boulevard,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+19,2324890,31,Telegraph Road and Pioneer Boulevard - N/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+19,2335771,32,Pioneer Boulevard and Glenworth Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+19,2324546,33,Florence Avenue and Pioneer Boulevard- S/E Corner,1/Rio Hondo/Bellflower
+19,2324539,34,Florence Avenue and Fulton Wells Avenue- S/W Corner,1/Rio Hondo/Bellflower
+19,2324666,35,Norwalk Boulevard and Florence Avenue- S/W Corner,1/Rio Hondo/Bellflower
+19,2324668,36,Norwalk Boulevard and Hermes Street- N/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+19,2324677,37,Norwalk Boulevard and Oracle Street- S/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+19,2324686,38,Norwalk Boulevard and Tina Street- N/W Corner,1/Rio Hondo/Bellflower
+19,2324647,39,Norwalk Boulevard and Aegean Street- S/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+19,2324664,40,Norwalk Boulevard and Crewe Street- N/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+19,2324681,41,Norwalk Boulevard and Paddison Avenue Square,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+19,2324670,42,Norwalk/Imperial (Ihop),"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 3/Gateway Plaza/Norwalk/166th Street"
+19,2324657,43,Norwalk Boulevard and Civic Center Drive,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+19,2324833,44,San Antonio Drive and Olive Street- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+19,2324829,45,San Antonio Drive and Firestone Boulevard- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+19,2324830,46,San Antonio Drive and Foster Road- N/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+19,2324765,47,NSQ,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+19,2324759,48,Pioneer/Rosecrans,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+19,2324750,49,Pioneer Boulevard and Lindale-S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+19,2324754,50,Pioneer Boulevard and Mapledale Street- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+19,2324746,51,Pioneer Boulevard and Excelsior Drive-S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+19,2324567,52,Hindu Temple (15311 Pioneer Boulevard),"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+19,2324764,53,Pioneer Boulevard opposite Cheshire Street,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+19,2324736,54,Pioneer Boulevard and Alondra Boulevard- N/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+19,2324488,55,Alondra Boulevard and Maidstone Avenue-N/E Corner,1/Rio Hondo/Bellflower
+19,2324484,56,Alondra Boulevard and Gridley Road- N/W Corner,1/Rio Hondo/Bellflower
+19,2324483,57,Alondra Boulevard and Graystone Avenue,1/Rio Hondo/Bellflower
+19,2324482,58,Alondra Boulevard and Elmcroft Avenue- N/W Corner,1/Rio Hondo/Bellflower
+19,2324494,59,Alondra Boulevard and Studebaker Road- N/E Corner,1/Rio Hondo/Bellflower
+19,2324492,60,Alondra Boulevard and Piuma Avenue- N/W Corner,1/Rio Hondo/Bellflower
+19,2324490,61,Alondra Boulevard and Mc Nab Avenue- N/W Corner,1/Rio Hondo/Bellflower
+19,2324896,62,Woodruff/Alondra,1/Rio Hondo/Bellflower
+19,2324897,63,Woodruff Avenue and Flora Vista Street- N/W Corner,1/Rio Hondo/Bellflower
+19,2324552,64,Flower Street and Civic Center Drive- N/E Corner,1/Rio Hondo/Bellflower
+19,2324551,65,Flower/Bellflower,1/Rio Hondo/Bellflower
+20,2324901,1,Rio Hondo College,1/Rio Hondo/Bellflower
+20,2324922,2,Workman Mill Road/College,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+20,2324923,3,Workman Mill Road opposite Rose Hills Main Gate,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+20,2324903,4,Workman Mill Road and Mission Mill Road- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+20,2324911,5,Workman Mill Road and Rose Hills Road- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+20,2324925,6,Workman Mill Road opposite Spy Glass Hill Road,1/Rio Hondo/Bellflower
+20,2324904,7,Workman Mill Road and Pioneer Boulevard- S/W Corner,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+20,2324908,8,Workman Mill Road and Rose Hills Gate # 19,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+20,2324924,9,Workman Mill Road opposite Sierra Morena Avenue,"1/Rio Hondo/Bellflower, 7/Green Line Station/El Monte Station"
+20,2324652,10,Norwalk Boulevard and Beverly Boulevard- S/W Corner,1/Rio Hondo/Bellflower
+20,2324678,11,Norwalk Boulevard and Orange Grove Avenue- N/W Corner,1/Rio Hondo/Bellflower
+20,2324679,12,Norwalk Boulevard and Orange Street- N/W Corner,1/Rio Hondo/Bellflower
+20,2324693,13,Norwalk/Whittier,1/Rio Hondo/Bellflower
+20,2324653,14,Norwalk Boulevard and Bexley Drive- N/W Corner,1/Rio Hondo/Bellflower
+20,2324648,15,Norwalk Boulevard and Aldrich Street- N/W Corner,1/Rio Hondo/Bellflower
+20,2324662,16,Norwalk Boulevard and Coolhurst Drive- S/W Corner,1/Rio Hondo/Bellflower
+20,2324656,17,Norwalk Boulevard and Choisser Street,1/Rio Hondo/Bellflower
+20,2324691,18,Norwalk/Washington,1/Rio Hondo/Bellflower
+20,2324687,19,Norwalk Boulevard and Waddell Street- N/W Corner,1/Rio Hondo/Bellflower
+20,2324684,20,Norwalk Boulevard and Slauson Avenue- N/W Corner,1/Rio Hondo/Bellflower
+20,2324846,21,Slauson Avenue and Alburtis Avenue- N/E Corner,1/Rio Hondo/Bellflower
+20,2324848,22,Slauson Avenue and Millergrove Drive- N/E Corner,1/Rio Hondo/Bellflower
+20,2324761,23,Pioneer Boulevard and Slauson Avenue- S/W Corner,1/Rio Hondo/Bellflower
+20,2324766,24,Pioneer Boulevard opposite Los Nietos Road,1/Rio Hondo/Bellflower
+20,2324763,25,Pioneer Boulevard opposite Bluejay Lane,1/Rio Hondo/Bellflower
+20,2324755,26,Pioneer Boulevard at Neighborhood Center,1/Rio Hondo/Bellflower
+20,2324711,27,Orr and Day Road and Whiteland Street- S/W Corner,1/Rio Hondo/Bellflower
+20,2324886,28,Orr and Day/Telegraph,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+20,2324881,29,Telegraph Road and Jersey Avenue,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+20,2324889,30,Telegraph Road and Pioneer Boulevard,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+20,2324890,31,Telegraph Road and Pioneer Boulevard - N/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+20,2335771,32,Pioneer Boulevard and Glenworth Street,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+20,2324546,33,Florence Avenue and Pioneer Boulevard- S/E Corner,1/Rio Hondo/Bellflower
+20,2324539,34,Florence Avenue and Fulton Wells Avenue- S/W Corner,1/Rio Hondo/Bellflower
+20,2324666,35,Norwalk Boulevard and Florence Avenue- S/W Corner,1/Rio Hondo/Bellflower
+20,2324668,36,Norwalk Boulevard and Hermes Street- N/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+20,2324677,37,Norwalk Boulevard and Oracle Street- S/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+20,2324686,38,Norwalk Boulevard and Tina Street- N/W Corner,1/Rio Hondo/Bellflower
+20,2324647,39,Norwalk Boulevard and Aegean Street- S/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+20,2324664,40,Norwalk Boulevard and Crewe Street- N/W Corner,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+20,2324681,41,Norwalk Boulevard and Paddison Avenue Square,"1/Rio Hondo/Bellflower, 3/Gateway Plaza/Norwalk/166th Street"
+20,2324670,42,Norwalk/Imperial (Ihop),"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 3/Gateway Plaza/Norwalk/166th Street"
+20,2324657,43,Norwalk Boulevard and Civic Center Drive,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+20,2324833,44,San Antonio Drive and Olive Street- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall, 7/Green Line Station/El Monte Station"
+20,2324829,45,San Antonio Drive and Firestone Boulevard- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+20,2324830,46,San Antonio Drive and Foster Road- N/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+20,2324765,47,NSQ,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+20,2324759,48,Pioneer/Rosecrans,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+20,2324750,49,Pioneer Boulevard and Lindale-S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+20,2324754,50,Pioneer Boulevard and Mapledale Street- S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+20,2324746,51,Pioneer Boulevard and Excelsior Drive-S/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+20,2324567,52,Hindu Temple (15311 Pioneer Boulevard),"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+20,2324764,53,Pioneer Boulevard opposite Cheshire Street,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+20,2324736,54,Pioneer Boulevard and Alondra Boulevard- N/W Corner,"1/Rio Hondo/Bellflower, 2/NSQ/Green Line/Cerritos College/Cerritos Mall"
+20,2324488,55,Alondra Boulevard and Maidstone Avenue-N/E Corner,1/Rio Hondo/Bellflower
+20,2324484,56,Alondra Boulevard and Gridley Road- N/W Corner,1/Rio Hondo/Bellflower
+20,2324483,57,Alondra Boulevard and Graystone Avenue,1/Rio Hondo/Bellflower
+20,2324482,58,Alondra Boulevard and Elmcroft Avenue- N/W Corner,1/Rio Hondo/Bellflower
+20,2324494,59,Alondra Boulevard and Studebaker Road- N/E Corner,1/Rio Hondo/Bellflower
+20,2324492,60,Alondra Boulevard and Piuma Avenue- N/W Corner,1/Rio Hondo/Bellflower
+20,2324490,61,Alondra Boulevard and Mc Nab Avenue- N/W Corner,1/Rio Hondo/Bellflower
+20,2324896,62,Woodruff/Alondra,1/Rio Hondo/Bellflower
+20,2324897,63,Woodruff Avenue and Flora Vista Street- N/W Corner,1/Rio Hondo/Bellflower
+20,2324552,64,Flower Street and Civic Center Drive- N/E Corner,1/Rio Hondo/Bellflower
+20,2324551,65,Flower/Bellflower,1/Rio Hondo/Bellflower

@@ -1,0 +1,6 @@
+from_stop_id,to_stop_id,transfer_type,min_transfer_time
+2243,2245,1,
+758776,758776,1,
+2245,2245,1,
+2243,2243,1,
+2245,2243,1,

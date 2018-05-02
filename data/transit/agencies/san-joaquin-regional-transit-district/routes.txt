@@ -1,0 +1,56 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,,1,Metro Hopper - Northwest Stockton,"Each Metro Hopper bus can deviate up to 1 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-946-0520.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route01.php,00BCE4,FFFFFF
+2,,2,Metro Hopper - Northwest Stockton,"Each Metro Hopper bus can deviate up to 1 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-946-0520.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route02.php,47AA42,FFFFFF
+3,,3,Metro Hopper - North Stockton,"Each Metro Hopper bus can deviate up to 1 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-946-0520.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route03.php,ffbd3d,000000
+4,,4,Metro Hopper - Central Stockton,"Each Metro Hopper bus can deviate up to 1 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-946-0520.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route04.php,D31145,FFFFFF
+5,,5,Metro Hopper - Central Stockton,"Each Metro Hopper bus can deviate up to 1 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-946-0520.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route05.php,FF6600,FFFFFF
+6,,6,Metro Hopper - Northeast Stockton,"Each Metro Hopper bus can deviate up to 1 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-946-0520.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route06.php,A54399,FFFFFF
+7,,7,Metro Hopper - South Stockton,"Each Metro Hopper bus can deviate up to 1 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-946-0520.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route07.php,0055A5,FFFFFF
+8,,8,Metro Hopper - Northeast Stockton,"Each Metro Hopper bus can deviate up to 1 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-946-0520.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route08.php,F06C9B,FFFFFF
+9,,9,Metro Hopper - Southeast Stockton,"Each Metro Hopper bus can deviate up to 1 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-946-0520.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route09.php,00AF91,000000
+150,,150,Livermore/Dublin BART,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route150.php,00FFFF,000000
+152,,152,Stockton - Lathrop - Tracy - Livermore,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route152.php,98012E,FFFFFF
+163,,163,Sacramento via 99,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route163.php,98012E,FFFFFF
+165,,165,Sacramento via I-5,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route165.php,98012E,FFFFFF
+172,,172,Lockheed 4,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route172.php,98012E,FFFFFF
+173,,173,Northrop Grumman/Sunnyvale,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route173.php,98012E,FFFFFF
+23,,23,Stockton - Lodi,Intercity service,3,http://sanjoaquinrtd.com/maps_and_schedules/Route23.php,09BCDC,000000
+310,,310,DTC - ACE - 8TH,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route310.php,05BBFF,FFFFFF
+315,,315,DTC - MLK,Limited weekday crosstown service,3,http://sanjoaquinrtd.com/maps_and_schedules/Route315.php,f26f72,FFFFFF
+340,,340,Franklin HS - West Ln - Cesar Chavez HS,Limited weekday crosstown service,3,http://sanjoaquinrtd.com/maps_and_schedules/Route340-350.php,ff9c1b,000000
+345,,345,Kermit - Hammer - Kaiser,Limited weekday crosstown service,3,http://sanjoaquinrtd.com/maps_and_schedules/Route340-350.php,ffb81f,000000
+360,,360,Franklin HS - Alpine - Cesar Chavez HS,Limited weekday crosstown service,3,http://sanjoaquinrtd.com/maps_and_schedules/Route360-390.php,AD7D07,FFFFFF
+365,,365,Kelly - Don - Otto,Limited weekday service to Mall Transfer Station,3,http://sanjoaquinrtd.com/maps_and_schedules/Route365.php,8fbbe6,FFFFFF
+375,,375,CalWorks - Cherokee - Holman - Morada,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route375.php,ca9dc2,000000
+380,,380,Franklin HS - DTC - Edison HS,Limited weekday crosstown service,3,http://sanjoaquinrtd.com/maps_and_schedules/Route370-380.php,7B7E01,FFFFFF
+385,,385,DTC - Togninali - Arch Road,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route385.php,D50D85,FFFFFF
+390,,390,Franklin HS - DTC,Limited weekday crosstown service,3,http://sanjoaquinrtd.com/maps_and_schedules/Route360-390.php,ffe8b6,000000
+40,,40,Metro Express - Pacific Avenue,High-frequency express service arriving up to every 10 minutes during peak times,3,http://sanjoaquinrtd.com/maps_and_schedules/Route40.php,98012E,FFFFFF
+43,,43,Metro Express - Hammer Lane,High-frequency express service arriving up to every 10 minutes during peak times,3,http://sanjoaquinrtd.com/maps_and_schedules/Route43.php,98012E,FFFFFF
+44,,44,Metro Express - Airport Way,High-frequency express service arriving up to every 10 minutes during peak times,3,http://sanjoaquinrtd.com/maps_and_schedules/Route40.php,98012E,FFFFFF
+51,,51,DTC - San Joaquin - Eldorado,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route51.php,EF3E36,FFFFFF
+52,,52,Hospitals - DTC,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route52.php,D28417,FFFFFF
+54,,54,DTC - Amtrak - San Joaquin,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route54.php,C1D72D,000000
+55,,55,DTC - Amtrak - MLK - Weston Ranch,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route55.php,619080,000000
+60,,60,DTC - Fremont - Monte Diablo,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route60.php,B6BCD4,000000
+61,,61,DTC - Pershing - Malls,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route61.php,99005D,FFFFFF
+63,,63,Malls - Cumberland,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route63.php,FFD006,000000
+66,,66,Hammer - Spanos Park,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route66.php,D60D8D,FFFFFF
+70,,70,DTC - El Dorado - Knickerbocker,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route70.php,706017,FFFFFF
+71,,71,Malls - Claremont - Holman - Auto Center,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route71.php,7686C2,FFFFFF
+710,,710,DTC - Weston Ranch - County Hospital,Saturday and Sunday Only,3,http://sanjoaquinrtd.com/maps_and_schedules/Route710.php,532380,FFFFFF
+715,,715,8th - MLK - Airport - Madrid,Saturday and Sunday Only,3,http://sanjoaquinrtd.com/maps_and_schedules/Route715.php,FDB813,000000
+720,,720,DTC - WIGWAM,Saturday and Sunday Only,3,http://sanjoaquinrtd.com/maps_and_schedules/Route720.php,72a492,FFFFFF
+723,,723,DTC - Kaiser - Lodi,Saturday and Sunday Only,3,http://sanjoaquinrtd.com/maps_and_schedules/Route723.php,d97b00,FFFFFF
+725,,725,Acacia - DTC -  Fremont - Main,Saturday and Sunday Only,3,http://sanjoaquinrtd.com/maps_and_schedules/Route725.php,00BCE4,FFFFFF
+745,,745,Malls - Pershing - Country Club,Saturday and Sunday Only,3,http://sanjoaquinrtd.com/maps_and_schedules/Route745.php,cbe57e,000000
+76,,76,Sanguinetti - Alpine - Sutter,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route76.php,305591,FFFFFF
+77,,77,DTC - Miner - Filbert - Waterloo,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route77.php,008C55,FFFFFF
+797,,797,Tracy - SJ Hospital - Airport - Manteca,Saturday and Sunday Only,3,http://sanjoaquinrtd.com/maps_and_schedules/Route797.php,e6498f,FFFFFF
+80,,80,Section - Oro - Malls,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route80.php,F5C283,000000
+83,,83,DTC - Main - Myrtle - Oro,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route83.php,BCA5D4,000000
+85,,85,DTC - Airport - Ralph - B St,,3,http://sanjoaquinrtd.com/maps_and_schedules/Route85.php,09927a,FFFFFF
+90,,90,Stockton - Lathrop - Tracy,"Many County Hopper bus can deviate up to 3/4 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-982-4514. Hoppers do not deviate in Lodi or Tracy where Grapeline and Tracer service is available.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route90.php,45ad00,000000
+91,,91,Stockton - Manteca - Ripon,"Many County Hopper bus can deviate up to 3/4 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-982-4514. Hoppers do not deviate in Lodi or Tracy where Grapeline and Tracer service is available.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route93.php,45AD00,000000
+93,,93,Stockton - Lodi,"Many County Hopper bus can deviate up to 3/4 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-982-4514. Hoppers do not deviate in Lodi or Tracy where Grapeline and Tracer service is available.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route93.php,45AD00,000000
+97,,97,Tracy - Manteca,"Many County Hopper bus can deviate up to 3/4 mile from its route to accommodate ADA certified passengers. To reserve a deviation call 209-982-4514. Hoppers do not deviate in Lodi or Tracy where Grapeline and Tracer service is available.",3,http://sanjoaquinrtd.com/maps_and_schedules/Route97.php,09a311,FFFFFF

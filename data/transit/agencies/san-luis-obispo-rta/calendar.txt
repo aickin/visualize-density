@@ -1,0 +1,17 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date,service_name
+mtwtf_sum,1,1,1,1,1,0,0,20180529,20180817,mtwtf_summer_rt12
+sat,0,0,0,0,0,1,0,20170603,20181027,saturday
+10448890,1,1,1,1,1,1,1,20170801,20181101,Daily
+mtwtf,1,1,1,1,1,0,0,20170601,20181231,weekday
+10370386,1,0,0,0,0,0,0,20170814,20180604,AGHS_schoolyr_Monday am
+Sunday_Route10,0,0,0,0,0,0,1,20170806,20190331,sunday_10
+sun,0,0,0,0,0,0,1,20170806,20190224,sunday
+sun_marathon,0,0,0,0,0,0,1,20180429,20180429,sunday_marathon_Rt10
+AGHS_Weekdays,1,1,1,1,1,0,0,20170814,20180608,AGHS_Weekdays
+Rt12_winters,1,1,1,1,1,0,0,20170821,20180525,weekday_winter_12_14
+10534718,0,1,1,1,1,0,0,20170815,20180608,AGHS_Tues-Fri
+10448896,1,1,1,1,1,1,0,20170601,20181101,Mon_Sat
+"+ss+fri+Weekends_Avila+10939837",0,0,0,0,1,1,1,20170529,20180608,"2017-05-29 → 2018-06-08 (3 Mo, Tu, 27 Fr, 26 Sa, 26 Su)"
+"+ss+fri~Weekends_Avila~10939837",0,0,0,0,1,1,0,20170529,20180608,"2017-05-29 → 2018-06-08 (2 Mo, Tu, 27 Fr, 13 Sa)"
+"+mtwtf+sat",1,1,1,1,1,1,0,20170601,20181231,"2017-06-01 → 2018-12-31 (80 Mo, 81 Tu, 82 We, 82 Th, 82 Fr, 74 Sa)"
+"+ss+Weekends_Avila+10939837~fri",0,0,0,0,1,1,1,20170529,20180603,"2017-05-29 → 2018-06-03 (3 Mo, Tu, 13 Fr, 26 Sa, 26 Su)"

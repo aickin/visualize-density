@@ -1,0 +1,460 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+1,Weekday,1a_T01,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T02,Olive Avenue (WB) & Morton Avenue (EB),0,,R1DEV
+1,Weekday,1a_T03,Olive Avenue (WB) & Morton Avenue (EB),0,,R1DEV
+1,Weekday,1a_T04,Olive Avenue (WB) & Morton Avenue (EB),0,,R1DEV
+1,Weekday,1a_T05,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T06,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T07,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T08,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T09,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T10,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T11,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T12,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T13,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T14,Olive Avenue (WB) & Morton Avenue (EB),0,,R1DEV
+1,Weekday,1a_T15,Olive Avenue (WB) & Morton Avenue (EB),0,,R1DEV
+1,Weekday,1a_T16,Olive Avenue (WB) & Morton Avenue (EB),0,,R1DEV
+1,Weekday,1a_T17,Olive Avenue (WB) & Morton Avenue (EB),0,,R1DEV
+1,Weekday,1a_T18,Olive Avenue (WB) & Morton Avenue (EB),0,,R1DEV
+1,Weekday,1a_T19,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T20,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T21,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T22,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T23,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Weekday,1a_T24,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T01,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T02,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T03,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T04,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T05,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T06,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T07,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T08,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T09,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T10,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T11,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T12,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T13,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T14,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T15,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T16,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T17,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T18,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T19,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T20,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Saturday,1b_T21,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T01,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T02,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T03,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T04,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T05,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T06,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T07,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T08,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T09,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T10,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T11,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T12,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T13,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T14,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+1,Sunday,1c_T15,Olive Avenue (WB) & Morton Avenue (EB),0,,R1
+2,Weekday,2a_T01,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T02,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2DEV
+2,Weekday,2a_T03,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2DEV
+2,Weekday,2a_T04,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2DEV
+2,Weekday,2a_T05,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T06,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T07,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T08,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T09,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T10,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T11,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T12,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T13,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T14,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2DEV
+2,Weekday,2a_T15,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2DEV
+2,Weekday,2a_T16,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2DEV
+2,Weekday,2a_T17,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2DEV
+2,Weekday,2a_T18,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2DEV
+2,Weekday,2a_T19,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T20,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T21,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T22,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T23,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Weekday,2a_T24,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T01,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T02,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T03,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T04,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T05,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T06,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T07,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T08,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T09,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T10,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T11,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T12,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T13,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T14,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T15,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T16,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T17,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T18,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T19,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T20,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Saturday,2b_T21,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T01,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T02,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T03,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T04,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T05,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T06,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T07,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T08,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T09,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T10,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T11,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T12,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T13,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T14,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+2,Sunday,2c_T15,Henderson Avenue (WB) & Westfield Avenue (EB),0,,R2
+3,Weekday,3a_T01,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T02,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T03,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T04,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T05,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T06,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T07,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T08,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T09,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T10,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T11,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T12,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T13,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T14,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T15,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T16,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T17,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T18,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T19,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T20,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T21,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T22,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T23,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Weekday,3a_T24,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T01,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T02,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T03,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T04,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T05,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T06,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T07,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T08,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T09,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T10,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T11,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T12,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T13,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T14,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T15,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T16,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T17,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T18,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T19,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T20,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Saturday,3b_T21,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T01,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T02,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T03,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T04,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T05,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T06,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T07,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T08,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T09,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T10,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T11,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T12,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T13,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T14,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+3,Sunday,3c_T15,East Springville Drive (EB) & Putnam Avenue (WB),0,,R3
+4,Weekday,4a_T01,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T02,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T03,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T04,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T05,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T06,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T07,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T08,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T09,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T10,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T11,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T12,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T13,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T14,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T15,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T16,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T17,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T18,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T19,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T20,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T21,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T22,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T23,South Plano (SB) & College Avenue (WB),0,,R4
+4,Weekday,4a_T24,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T01,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T02,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T03,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T04,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T05,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T06,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T07,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T08,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T09,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T10,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T11,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T12,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T13,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T14,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T15,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T16,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T17,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T18,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T19,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T20,South Plano (SB) & College Avenue (WB),0,,R4
+4,Saturday,4b_T21,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T01,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T02,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T03,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T04,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T05,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T06,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T07,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T08,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T09,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T10,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T11,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T12,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T13,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T14,South Plano (SB) & College Avenue (WB),0,,R4
+4,Sunday,4c_T15,South Plano (SB) & College Avenue (WB),0,,R4
+5,Weekday,5a_T01,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T02,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T03,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T04,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T05,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T06,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T07,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T08,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T09,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T10,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T11,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T12,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T13,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T14,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T15,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T16,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T17,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T18,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T19,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T20,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T21,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T22,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T23,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Weekday,5a_T24,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T01,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T02,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T03,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T04,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T05,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T06,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T07,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T08,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T09,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T10,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T11,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T12,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T13,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T14,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T15,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T16,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T17,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T18,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T19,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T20,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Saturday,5b_T21,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T01,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T02,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T03,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T04,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T05,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T06,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T07,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T08,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T09,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T10,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T11,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T12,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T13,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T14,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+5,Sunday,5c_T15,Morton Avenue (WB) & Henderson Avenue (EB),0,,R5
+6,Weekday,6a_T01,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T02,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T03,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T04,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T05,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T06,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T07,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T08,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T09,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T10,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T11,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T12,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T13,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T14,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T15,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T16,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T17,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T18,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T19,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T20,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T21,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T22,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T23,Family HealthCare & Hotel Loop,0,,R6
+6,Weekday,6a_T24,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T01,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T02,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T03,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T04,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T05,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T06,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T07,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T08,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T09,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T10,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T11,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T12,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T13,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T14,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T15,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T16,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T17,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T18,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T19,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T20,Family HealthCare & Hotel Loop,0,,R6
+6,Saturday,6b_T21,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T01,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T02,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T03,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T04,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T05,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T06,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T07,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T08,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T09,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T10,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T11,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T12,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T13,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T14,Family HealthCare & Hotel Loop,0,,R6
+6,Sunday,6c_T15,Family HealthCare & Hotel Loop,0,,R6
+7,Weekday,7a_T01,Adult School & Indiana Street (SB),0,,R7
+7,Weekday,7a_T02,Adult School & Indiana Street (SB),0,,R7
+7,Weekday,7a_T03,Adult School & Indiana Street (SB),0,,R7
+7,Weekday,7a_T04,Adult School & Indiana Street (SB),0,,R7
+7,Weekday,7a_T05,Adult School & Indiana Street (SB),0,,R7
+7,Weekday,7a_T06,Adult School & Indiana Street (SB),0,,R7
+7,Weekday,7a_T07,Adult School & Indiana Street (SB),0,,R7
+7,Weekday,7a_T08,Adult School & Indiana Street (SB),0,,R7
+7,Weekday,7a_T09,Adult School & Indiana Street (SB),0,,R7
+7,Weekday,7a_T10,Adult School & Indiana Street (SB),0,,R7
+7,Weekday,7a_T11,Adult School & Indiana Street (SB),0,,R7
+7,Weekday,7a_T12,Adult School & Indiana Street (SB),0,,R7
+7,Saturday,7b_T01,Adult School & Indiana Street (SB),0,,R7
+7,Saturday,7b_T02,Adult School & Indiana Street (SB),0,,R7
+7,Saturday,7b_T03,Adult School & Indiana Street (SB),0,,R7
+7,Saturday,7b_T04,Adult School & Indiana Street (SB),0,,R7
+7,Saturday,7b_T05,Adult School & Indiana Street (SB),0,,R7
+7,Saturday,7b_T06,Adult School & Indiana Street (SB),0,,R7
+7,Saturday,7b_T07,Adult School & Indiana Street (SB),0,,R7
+7,Saturday,7b_T08,Adult School & Indiana Street (SB),0,,R7
+7,Saturday,7b_T09,Adult School & Indiana Street (SB),0,,R7
+7,Saturday,7b_T10,Adult School & Indiana Street (SB),0,,R7
+7,Saturday,7b_T11,Adult School & Indiana Street (SB),0,,R7
+7,Sunday,7c_T01,Adult School & Indiana Street (SB),0,,R7
+7,Sunday,7c_T02,Adult School & Indiana Street (SB),0,,R7
+7,Sunday,7c_T03,Adult School & Indiana Street (SB),0,,R7
+7,Sunday,7c_T04,Adult School & Indiana Street (SB),0,,R7
+7,Sunday,7c_T05,Adult School & Indiana Street (SB),0,,R7
+7,Sunday,7c_T06,Adult School & Indiana Street (SB),0,,R7
+7,Sunday,7c_T07,Adult School & Indiana Street (SB),0,,R7
+7,Sunday,7c_T08,Adult School & Indiana Street (SB),0,,R7
+8,Weekday,8a_T01,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Weekday,8a_T02,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Weekday,8a_T03,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Weekday,8a_T04,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Weekday,8a_T05,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Weekday,8a_T06,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Weekday,8a_T07,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Weekday,8a_T08,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Weekday,8a_T09,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Weekday,8a_T10,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Weekday,8a_T11,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Weekday,8a_T12,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Saturday,8b_T01,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Saturday,8b_T02,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Saturday,8b_T03,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Saturday,8b_T04,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Saturday,8b_T05,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Saturday,8b_T06,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Saturday,8b_T07,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Saturday,8b_T08,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Saturday,8b_T09,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Saturday,8b_T10,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Sunday,8c_T01,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Sunday,8c_T02,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Sunday,8c_T03,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Sunday,8c_T04,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Sunday,8c_T05,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Sunday,8c_T06,Morton Avenue (EB) & Plano Street (NB),0,,R8
+8,Sunday,8c_T07,Morton Avenue (EB) & Plano Street (NB),0,,R8
+9,Weekday,9a_T01,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T02,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T03,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T04,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T05,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T06,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T07,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T08,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T09,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T10,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T11,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T12,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T13,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T14,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T15,Porterville to Tule River Indian Reservation,0,,R9
+9,Weekday,9a_T16,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T01,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T02,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T03,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T04,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T05,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T06,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T07,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T08,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T09,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T10,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T11,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T12,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T13,Porterville to Tule River Indian Reservation,0,,R9
+9,Saturday,9b_T14,Porterville to Tule River Indian Reservation,0,,R9
+9,Sunday,9c_T01,Porterville to Tule River Indian Reservation,0,,R9
+9,Sunday,9c_T02,Porterville to Tule River Indian Reservation,0,,R9
+9,Sunday,9c_T03,Porterville to Tule River Indian Reservation,0,,R9
+9,Sunday,9c_T04,Porterville to Tule River Indian Reservation,0,,R9
+9,Sunday,9c_T05,Porterville to Tule River Indian Reservation,0,,R9
+9,Sunday,9c_T06,Porterville to Tule River Indian Reservation,0,,R9
+9,Sunday,9c_T07,Porterville to Tule River Indian Reservation,0,,R9
+9,Sunday,9c_T08,Porterville to Tule River Indian Reservation,0,,R9
+9,Sunday,9c_T09,Porterville to Tule River Indian Reservation,0,,R9

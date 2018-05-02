@@ -1,0 +1,5 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_1776_b_174_d_64,Year Round Service (Sunday only),0,0,0,0,0,0,1,20160101,20190101
+c_1776_b_174_d_63,Year Round Service (Monday-Saturday),1,1,1,1,1,1,0,20160101,20190101
+c_2573_b_212_d_96,"Starting February 13, 2017 (Weekend)",0,0,0,0,0,1,1,20170213,20191231
+c_2573_b_212_d_31,"Starting February 13, 2017 (Monday-Friday)",1,1,1,1,1,0,0,20170213,20191231

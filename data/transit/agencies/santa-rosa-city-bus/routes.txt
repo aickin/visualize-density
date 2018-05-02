@@ -1,0 +1,17 @@
+route_id,route_short_name,route_long_name,route_type
+1,1,Mendocino Ave,3
+2,2,Sebastopol Rd - Corporate Center,3
+3,2B,Sebastopol Road,3
+4,3,Santa Rosa Ave,3
+5,4,Rincon Valley,3
+6,4B,Rincon Valley,3
+7,5,Petaluma Hill Rd,3
+8,6,Fulton Road,3
+9,7,Coddington - Montgomery Village,3
+10,8,Bennett Valley,3
+11,9,West 9th Street,3
+13,10,North City Connector,3
+14,12,Corby Ave - Roseland,3
+15,15,Stony Point Road,3
+16,18,East Circulator,3
+17,19,North Circulator,3

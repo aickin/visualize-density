@@ -1,0 +1,2 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_3015_b_2537_d_31,Berkeley Route (Monday-Friday),1,1,1,1,1,0,0,20170701,20190101

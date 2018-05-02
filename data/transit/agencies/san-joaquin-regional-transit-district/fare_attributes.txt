@@ -1,0 +1,5 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+1_R_Local,1.5,USD,0,0,
+1_R_Express,1.5,USD,1,2,7200
+1_D_Pass,4,USD,1,,25000
+1_R_Commuter,7,USD,0,0,

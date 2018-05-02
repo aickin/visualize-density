@@ -1,0 +1,6 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_785_b_6375_d_64,Year-round (Sunday only),0,0,0,0,0,0,1,20171201,20190101
+c_785_b_6375_d_32,Year-round (Saturday only),0,0,0,0,0,1,0,20171201,20190101
+c_785_b_6375_d_31,Year-round (Monday-Friday),1,1,1,1,1,0,0,20171201,20190101
+c_785_b_6375_d_16,Year-round (Friday only),0,0,0,0,1,0,0,20171201,20190101
+c_785_b_6375_d_15,Year-round (Monday-Thursday),1,1,1,1,0,0,0,20171201,20190101

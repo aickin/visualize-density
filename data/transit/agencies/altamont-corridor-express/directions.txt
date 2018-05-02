@@ -1,0 +1,3 @@
+route_id,direction_id,direction
+ACE,0,West
+ACE,1,East

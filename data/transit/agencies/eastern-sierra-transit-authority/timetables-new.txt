@@ -1,0 +1,36 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,564,1,20170724,20260724,1,0,1,0,1,0,0,395-Lone Pine Express,395 Routes,Northbound,horizontal
+2,564,1,20170724,20260724,1,1,1,1,1,0,0,395-Lone Pine Express,395 Routes (Monday-Friday),Northbound,horizontal
+3,564,,20170724,20260724,1,1,1,1,1,0,0,395-Lone Pine Express,395 Routes (Monday-Friday),Southbound,horizontal
+4,561,1,20170724,20260724,1,1,1,1,1,0,0,395-Lone Pine-Reno,395 Routes (Monday-Friday),Northbound,horizontal
+5,561,,20170724,20260724,1,1,1,1,1,0,0,395-Lone Pine-Reno,395 Routes (Monday-Friday),Southbound,horizontal
+6,563,1,20170724,20260724,1,1,1,1,1,0,0,395-Mammoth Express,395 Routes (Monday-Friday),Northbound,horizontal
+7,563,,20170724,20260724,1,1,1,1,1,0,0,395-Mammoth Express,395 Routes (Monday-Friday),Southbound,horizontal
+8,562,1,20170724,20260724,1,1,1,1,1,0,0,395-Mammoth Lakes-Lancaster,395 Routes (Monday-Friday),Northbound,horizontal
+9,562,,20170724,20260724,1,1,1,1,1,0,0,395-Mammoth Lakes-Lancaster,395 Routes (Monday-Friday),Southbound,horizontal
+10,565,1,20150102,20181231,0,1,0,0,1,0,0, Benton-Bishop,Year Round  Service,Northbound,horizontal
+11,565,,20150102,20181231,0,1,0,0,1,0,0, Benton-Bishop,Year Round  Service,Southbound,horizontal
+12,766,,20171117,20171212,1,1,1,1,1,1,1,Blue Line,Blue/Yellow/Green (All days of week),,horizontal
+13,766,1,20171213,20180415,1,1,1,1,1,1,1,Blue Line,Blue Line Schedule (All days of week),Eastbound,horizontal
+14,766,,20171213,20180415,1,1,1,1,1,1,1,Blue Line,Blue Line Schedule (All days of week),Westbound,horizontal
+15,566,1,20150102,20181231,0,0,1,0,0,0,0,Bridgeport-Gardnerville,Year Round  Service (Wednesday only),Northbound,horizontal
+16,566,,20150102,20181231,0,0,1,0,0,0,0,Bridgeport-Gardnerville,Year Round  Service (Wednesday only),Southbound,horizontal
+17,764,1,20171213,20180415,1,1,1,1,1,1,1,Green Line,Green Line Schedule (All days of week),Eastbound,horizontal
+18,764,,20171213,20180415,1,1,1,1,1,1,1,Green Line,Green Line Schedule (All days of week),Westbound,horizontal
+19,761,1,20171215,20180408,1,1,1,1,1,1,1,June Mountain,June Mountain Schedule (All days of week),Northbound,horizontal
+20,761,,20171215,20180408,1,1,1,1,1,1,1,June Mountain,June Mountain Schedule (All days of week),Southbound,horizontal
+21,768,1,20171213,20180416,1,1,1,1,1,1,1,Orange Line,Orange Line Schedule (All days of week),Northbound,horizontal
+22,768,,20171213,20180416,1,1,1,1,1,1,1,Orange Line,Orange Line Schedule (All days of week),Southbound,horizontal
+23,763,,20171213,20180415,1,1,1,1,1,1,1,Pink Line (Evening Hospitality Shuttle),Pink Line Schedule (All days of week),,horizontal
+24,769,1,20170527,20180518,1,1,1,1,1,1,1,Purple Line,Purple Line (All days of week),Northbound,horizontal
+25,769,,20170527,20180518,1,1,1,1,1,1,1,Purple Line,Purple Line (All days of week),Southbound,horizontal
+26,765,1,20171117,20180422,1,1,1,1,1,1,1,Red Line,Red Line Schedule (All days of week),Eastbound,horizontal
+27,765,,20171117,20180422,1,1,1,1,1,1,1,Red Line,Red Line Schedule (All days of week),Westbound,horizontal
+28,6178,1,20171117,20180422,0,0,0,0,1,1,0,Town Trolley,Winter Night Trolley,Northbound,horizontal
+29,6178,1,20171117,20180422,1,1,1,1,0,0,1,Town Trolley,Winter Night Trolley,Northbound,horizontal
+30,6178,1,20171117,20180422,1,1,1,1,1,1,1,Town Trolley,Winter Night Trolley (All days of week),Northbound,horizontal
+31,6178,,20171117,20180422,0,0,0,0,1,1,0,Town Trolley,Winter Night Trolley,Southbound,horizontal
+32,6178,,20171117,20180422,1,1,1,1,0,0,1,Town Trolley,Winter Night Trolley,Southbound,horizontal
+33,6178,,20171117,20180422,1,1,1,1,1,1,1,Town Trolley,Winter Night Trolley (All days of week),Southbound,horizontal
+34,767,1,20171213,20180415,1,1,1,1,1,1,1,Yellow Line,Yellow Line Schedule (All days of week),Northbound,horizontal
+35,767,,20171213,20180415,1,1,1,1,1,1,1,Yellow Line,Yellow Line Schedule (All days of week),Southbound,horizontal

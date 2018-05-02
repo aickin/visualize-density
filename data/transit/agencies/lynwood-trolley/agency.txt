@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+29,Lynwood Trolley (Lynwood Breeze),http://lynwood.ca.us/lynwood-trolley-breeze-schedule/,America/Los_Angeles,en

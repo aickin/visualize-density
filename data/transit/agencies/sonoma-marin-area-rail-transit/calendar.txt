@@ -1,0 +1,3 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+73343,1,1,1,1,1,0,0,20170501,20201231
+73344,0,0,0,0,0,1,1,20170501,20201231

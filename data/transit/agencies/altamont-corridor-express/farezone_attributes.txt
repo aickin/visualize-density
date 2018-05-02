@@ -1,0 +1,7 @@
+zone_id,zone_name
+"3405","Fremont"
+"3402","Lathrop/Manteca"
+"3406","South Bay"
+"3401","Stockton"
+"3403","Tracy"
+"3404","Tri Valley"

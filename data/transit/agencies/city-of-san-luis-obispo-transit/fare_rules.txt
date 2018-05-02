@@ -1,0 +1,11 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+trolley,trolley,,,
+SLOT,trolley,,,
+SLOT,10867637,,,
+SLOT,10867636,,,
+SLOT,10866849,,,
+SLOT,10866897,,,
+SLOT,10866883,,,
+SLOT,10866895,,,
+SLOT,10866826,,,
+SLOT,10866892,,,

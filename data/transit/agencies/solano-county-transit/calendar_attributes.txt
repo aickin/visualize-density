@@ -1,0 +1,6 @@
+service_id,service_description
+c_785_b_6375_d_64,Year-round (Sunday only)
+c_785_b_6375_d_32,Year-round (Saturday only)
+c_785_b_6375_d_31,Year-round (Monday-Friday)
+c_785_b_6375_d_16,Year-round (Friday only)
+c_785_b_6375_d_15,Year-round (Monday-Thursday)

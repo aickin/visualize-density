@@ -1,0 +1,39 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+493,5136,1,Central Barstow,,3,,0066cc,ffffff,0,60
+493,5137,2,Barstow Library - Barstow College,,3,,009900,ffffff,1,60
+493,5797,24,Oak Hills - Hesperia,,3,http://vvta.org/bus/route-24/,e8a23f,000000,10,120
+493,7120,28,Barstow - Hinkley - Helendale,,3,,002060,ffffff,11,180
+493,7121,29,Newberry Springs - Barsrtow,,3,,1ab39f,ffffff,12,180
+493,3382,31,Victorville - Adelanto South,,3,http://vvta.org/bus/route-31,00d0d0,000000,13,60
+493,3383,32,Victorville - Adelanto North,,3,http://vvta.org/bus/route-32,9090ff,000000,14,120
+493,3384,33,Adelanto Circulator,,3,http://vvta.org/bus/route-33,9aff00,000000,15,60
+493,3385,40,Apple Valley North Deviation,,3,http://vvta.org/bus/route-40,00b058,000000,16,
+493,3386,41,Lorene-7th - Apple Valley Post Office,,3,http://vvta.org/bus/route-41,4080ff,000000,17,
+493,6831,42,Apple Valley Road,,3,https://vvta.org/bus/route-42/,e45efd,ffffff,18,60
+493,3387,43,Apple Valley - Victor Valley College,,3,http://vvta.org/bus/route-43,005050,ffffff,19,60
+493,5138,3,Barstow Library - Outlets at Barstow,,3,,660000,ffffff,2,60
+493,3389,47,Apple Valley South Deviation,,3,http://vvta.org/bus/route-47,ff7c50,030303,20,
+493,3378,50,Victorville - Hesperia Post Office,,3,http://vvta.org/bus/route-45,c0c000,000000,21,120
+493,3406,50X,Express VV to VVC,,3,http://vvta.org/bus/route-45x,000000,ffffff,22,60
+493,3391,51,Lorene-7th - Victor Valley Hospital,,3,http://vvta.org/bus/route-51,00ff90,000000,23,60
+493,3395,52,Lorene-7th - Victor Valley Mall,,3,http://vvta.org/bus/route-52,bf5f00,000000,24,90
+493,3392,53,Victor Valley Mall - Vv College,,3,http://vvta.org/bus/route-53,00e000,000000,25,
+493,3393,54,Hwy 395-Palmdale - Victor Valley Mall,,3,http://vvta.org/bus/route-54,480090,ffffff,26,60
+493,3397,55,Lorene-7th - Victor Valley College,,3,http://vvta.org/bus/route-55,ffb3b0,000000,27,60
+493,3388,66,Hesperia Route Deviation,,3,http://vvta.org/bus/route-46,b3ff40,000000,28,60
+493,7122,68,Hesperia - Victor Valley Mall,,3,,feb80a,111111,29,120
+493,7140,6,Barstow Library - College,,3,,af105c,ffffff,3,60
+493,3399,101,NTC Commuter,,3,http://vvta.org/bus/ntc-commuter,000000,ffffff,30,
+493,3400,102,NTC Commuter,,3,http://vvta.org/bus/ntc-commuter,000000,ffffff,31,
+493,3401,103,NTC Commuter,,3,http://vvta.org/bus/ntc-commuter,000000,ffffff,32,
+493,3402,104,NTC Commuter,,3,http://vvta.org/bus/ntc-commuter,000000,ffffff,33,
+493,3403,105,NTC Commuter,,3,http://vvta.org/bus/ntc-commuter,000000,ffffff,34,
+493,3404,106,NTC Commuter,,3,http://vvta.org/bus/ntc-commuter,000000,ffffff,35,
+493,3405,107,NTC Commuter,,3,http://vvta.org/bus/ntc-commuter,000000,ffffff,36,
+493,7106,200,Needles Link,,3,http://vvta.org/bus/route-200/,7dd6de,111111,37,
+493,3394,15,B-V Link Barstow-Victorville,"The VVTA Route 15 B-V Link features one-way fare charged per segment with two available segments: Barstow to Victor Valley, and Victor Valley to San Bernardino Valley. B-V Link fare media may be used as fare for one segment trip on B-V Link and on VVTA and Barstow Fixed Route and County Route buses within six hours of purchase at no additional charge. Those with valid Omnitrans and MARTA fare media receive a $1.00 discount when paying B-V Link fare from stops departing San Bernardino Valley on the same day of travel.",3,http://vvta.org/bus/route-15,ff0000,ffffff,4,
+493,3398,15,B-V Link Victorville-San Bernardino,"The VVTA Route 15 B-V Link features one-way fare charged per segment with two available segments: Barstow to Victor Valley, and Victor Valley to San Bernardino Valley. B-V Link fare media may be used as fare for one segment trip on B-V Link and on VVTA and Barstow Fixed Route and County Route buses within six hours of purchase at no additional charge. Those with valid Omnitrans and MARTA fare media receive a $1.00 discount when paying B-V Link fare from stops departing San Bernardino Valley on the same day of travel.",3,http://vvta.org/bus/route-15,ff0000,ffffff,5,180
+493,3377,21P,Victorville - Pinon Hills,,3,http://vvta.org/bus/route-21,00ffff,030303,6,
+493,7145,21W,Victor Valley Mall - Wrightwood,,3,,ea157a,ffffff,7,
+493,3379,22,Victorville - Helendale,,3,http://vvta.org/bus/route-22,00ff00,000000,8,120
+493,3381,23,Apple Valley - Lucerne Valley,,3,http://vvta.org/bus/route-23,b0b000,000000,9,120

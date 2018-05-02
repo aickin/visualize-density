@@ -1,0 +1,10 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+VNYf,9.75,USD,0,,
+USTf,9.75,USD,0,,
+WWDf,10.00,USD,0,,
+HWDf,8.00,USD,0,,
+OLVf,9.75,USD,0,,
+LGBf,9.00,USD,0,,
+
+CSHTLf,0.00,USD,0,,
+GSHTLf,0.00,USD,0,,

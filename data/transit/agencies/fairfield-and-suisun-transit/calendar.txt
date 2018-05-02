@@ -1,0 +1,8 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_70_b_207_d_32,Year-round (Saturday only),0,0,0,0,0,1,0,20130101,20190101
+c_70_b_207_d_31,Year-round (Monday-Friday),1,1,1,1,1,0,0,20130101,20190101
+c_70_b_207_d_15,Year-round (Monday-Thursday),1,1,1,1,0,0,0,20130101,20190101
+c_2557_b_230_d_32,Starting Jan. 9th (Saturday only),0,0,0,0,0,1,0,20170109,20190101
+c_2557_b_230_d_31,Starting Jan. 9th (Monday-Friday),1,1,1,1,1,0,0,20170109,20190101
+c_2557_b_230_d_16,Starting Jan. 9th (Friday only),0,0,0,0,1,0,0,20170109,20190101
+c_2557_b_230_d_15,Starting Jan. 9th (Monday-Thursday),1,1,1,1,0,0,0,20170109,20190101

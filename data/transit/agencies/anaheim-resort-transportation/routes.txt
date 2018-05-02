@@ -1,0 +1,22 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+248,1696,1,Harbor Blvd. Line,via Harbor Blvd.,3,http://rideart.org/routes-and-schedules/harbor-blvd-line/,e43017,ffffff,0,20
+248,1697,2,Harbor Blvd. Line,via Harbor Blvd.,3,http://rideart.org/routes-and-schedules/harbor-blvd-line/,e43017,ffffff,1,20
+248,1706,11,Ball Road Line,via Ball Rd.,3,http://rideart.org/routes-and-schedules/ball-road-line/,a02eb9,ffffff,10,20
+248,1707,12,Manchester Ave. Line,via Disney Way,3,http://rideart.org/routes-and-schedules/manchester-ave-line/,e442b1,ffffff,11,30
+248,1708,14,ALO/Ayres Orange Line,,3,http://rideart.org/routes-and-schedules/alo-ayres-orange-line/,8f898b,ffffff,12,60
+248,1709,15,ARTIC Sports Complex Line,,3,http://rideart.org/routes-and-schedules/artic-sports-complex-line/,8f898b,ffffff,13,20
+248,1710,16,Orange Line,via Chapman Ave.,3,http://rideart.org/routes-and-schedules/orange-line/,f876c0,000000,14,60
+248,1714,17,Canyon Line,via East La Palma Ave.,3,http://rideart.org/routes-and-schedules/canyon-line/,edce51,000000,15,
+248,1712,18,Buena Park Line,via West La Palma Ave.,3,http://rideart.org/routes-and-schedules/buena-park-line/,31dbc1,000000,16,60
+248,1713,19,Santa Ana Line,via I-5 Freeway & Main St.,3,http://rideart.org/routes-and-schedules/santa-ana-line/,2c0093,ffffff,17,120
+248,1716,19,Extension of Canyon Line,via East La Palma Ave.,3,http://rideart.org/routes-and-schedules/extension-of-canyon-line/,f9d662,000000,18,60
+248,1711,20,Toy Story Line,via Disney Way,3,http://rideart.org/routes-and-schedules/toy-story-line/,008d87,ffffff,19,10
+248,1698,3,Grand Plaza Line,via Harbor Blvd. & Convention Way,3,http://rideart.org/routes-and-schedules/grand-plaza-line/,41ae2d,ffffff,2,20
+248,2118,22,Costa Mesa/South Coast Plaza Line,,3,http://rideart.org/routes-and-schedules/costa-mesa-south-coast-plaza-line/,02a9cb,000000,20,30
+248,1699,4,Grand Plaza Line,via Harbor Blvd. & Convention Way,3,http://rideart.org/routes-and-schedules/grand-plaza-line/,41ae2d,ffffff,3,20
+248,1700,5,Grand Plaza Line,via Harbor Blvd. & Convention Way,3,http://rideart.org/routes-and-schedules/grand-plaza-line/,41ae2d,ffffff,4,20
+248,1701,6,Hotel Circle Clementine Line,via Clementine St.,3,http://rideart.org/routes-and-schedules/hotel-circle-clementine-line/,ec8c38,000000,5,20
+248,1702,7,Hotel Circle Clementine Line,via Clementine St.,3,http://rideart.org/routes-and-schedules/hotel-circle-clementine-line/,ec8c38,000000,6,20
+248,1703,8,Hotel Circle Clementine Line,via Clementine St.,3,http://rideart.org/routes-and-schedules/hotel-circle-clementine-line/,ec8c38,000000,7,20
+248,1704,9,Katella Line,via Katella Ave.,3,http://rideart.org/routes-and-schedules/katella-line/,0381b3,ffffff,8,20
+248,1705,10,Downtown Packing District Line,via Anaheim Blvd.,3,http://rideart.org/routes-and-schedules/downtown-packing-district-line/,004eb5,ffffff,9,30

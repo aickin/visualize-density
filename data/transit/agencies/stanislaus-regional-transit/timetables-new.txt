@@ -1,0 +1,49 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,5796,,20170102,20190101,1,1,1,1,1,0,0,CAT Bus,Year Round Service (Monday-Friday),,horizontal
+2,6043,0,20170301,20190101,0,0,0,0,0,1,0,Colorado,Year Round (Saturday only),Outbound,horizontal
+3,6043,0,20170301,20190101,1,1,1,1,1,0,0,Colorado,Year Round (Monday-Friday),Outbound,horizontal
+4,6043,1,20170301,20190101,0,0,0,0,0,1,0,Colorado,Year Round (Saturday only),Inbound,horizontal
+5,6043,1,20170301,20190101,1,1,1,1,1,0,0,Colorado,Year Round (Monday-Friday),Inbound,horizontal
+6,6040,0,20170301,20190101,0,0,0,0,0,1,0,Countryside,Year Round (Saturday only),Clockwise,horizontal
+7,6040,0,20170301,20190101,1,1,1,1,1,0,0,Countryside,Year Round (Monday-Friday),Clockwise,horizontal
+8,314,0,20170828,20190101,0,0,0,0,0,1,0,East-Turlock/ Patterson,"Starting August 28, 2017 (Saturday only)",Eastbound,horizontal
+9,314,0,20170828,20190101,1,1,1,1,1,0,0,East-Turlock/ Patterson,"Starting August 28, 2017 (Monday-Friday)",Eastbound,horizontal
+10,314,1,20170828,20190101,0,0,0,0,0,1,0,East-Turlock/ Patterson,"Starting August 28, 2017 (Saturday only)",Westbound,horizontal
+11,314,1,20170828,20190101,1,1,1,1,1,0,0,East-Turlock/ Patterson,"Starting August 28, 2017 (Monday-Friday)",Westbound,horizontal
+12,310,0,20170828,20190101,1,1,1,1,1,0,0,Express Service Modesto/Turlock,"Starting August 28, 2017 (Monday-Friday)",Northbound,horizontal
+13,310,1,20170828,20190101,1,1,1,1,1,0,0,Express Service Modesto/Turlock,"Starting August 28, 2017 (Monday-Friday)",Southbound,horizontal
+14,6041,1,20170301,20190101,0,0,0,0,0,1,0,Geer,Year Round (Saturday only),Counterclockwise,horizontal
+15,6041,1,20170301,20190101,1,1,1,1,1,0,0,Geer,Year Round (Monday-Friday),Counterclockwise,horizontal
+16,6044,0,20170301,20190101,0,0,0,0,0,1,0,Lander,Year Round (Saturday only),Outbound,horizontal
+17,6044,0,20170301,20190101,1,1,1,1,1,0,0,Lander,Year Round (Monday-Friday),Outbound,horizontal
+18,6044,1,20170301,20190101,0,0,0,0,0,1,0,Lander,Year Round (Saturday only),Inbound,horizontal
+19,6044,1,20170301,20190101,1,1,1,1,1,0,0,Lander,Year Round (Monday-Friday),Inbound,horizontal
+20,312,0,20170828,20190101,0,0,0,0,0,1,0,Modesto/ Ceres/ Keyes/ Turlock,"Starting August 28, 2017 (Saturday only)",Northbound,horizontal
+21,312,0,20170828,20190101,1,1,1,1,1,0,0,Modesto/ Ceres/ Keyes/ Turlock,"Starting August 28, 2017 (Monday-Friday)",Northbound,horizontal
+22,312,1,20170828,20190101,0,0,0,0,0,1,0,Modesto/ Ceres/ Keyes/ Turlock,"Starting August 28, 2017 (Saturday only)",Southbound,horizontal
+23,312,1,20170828,20190101,1,1,1,1,1,0,0,Modesto/ Ceres/ Keyes/ Turlock,"Starting August 28, 2017 (Monday-Friday)",Southbound,horizontal
+24,313,0,20170828,20190101,0,0,0,0,0,1,0,Modesto/ Patterson,"Starting August 28, 2017 (Saturday only)",Northbound,horizontal
+25,313,0,20170828,20190101,1,1,1,1,1,0,0,Modesto/ Patterson,"Starting August 28, 2017 (Monday-Friday)",Northbound,horizontal
+26,313,1,20170828,20190101,0,0,0,0,0,1,0,Modesto/ Patterson,"Starting August 28, 2017 (Saturday only)",Southbound,horizontal
+27,313,1,20170828,20190101,1,1,1,1,1,0,0,Modesto/ Patterson,"Starting August 28, 2017 (Monday-Friday)",Southbound,horizontal
+28,315,0,20170828,20190101,0,0,0,0,0,1,0,Modesto/ Riverbank/ Oakdale,"Starting August 28, 2017 (Saturday only)",Northbound,horizontal
+29,315,0,20170828,20190101,1,1,1,1,1,0,0,Modesto/ Riverbank/ Oakdale,"Starting August 28, 2017 (Monday-Friday)",Northbound,horizontal
+30,315,1,20170828,20190101,0,0,0,0,0,1,0,Modesto/ Riverbank/ Oakdale,"Starting August 28, 2017 (Saturday only)",Southbound,horizontal
+31,315,1,20170828,20190101,1,1,1,1,1,0,0,Modesto/ Riverbank/ Oakdale,"Starting August 28, 2017 (Monday-Friday)",Southbound,horizontal
+32,316,0,20160822,20190101,1,1,1,1,1,0,0,Modesto/ Turlock/ Merced,Year-round Calendar (Monday-Friday),Northbound,horizontal
+33,316,1,20160822,20190101,1,1,1,1,1,0,0,Modesto/ Turlock/ Merced,Year-round Calendar (Monday-Friday),Southbound,horizontal
+34,6042,0,20170301,20190101,0,0,0,0,0,1,0,Olive,Year Round (Saturday only),Clockwise,horizontal
+35,6042,0,20170301,20190101,1,1,1,1,1,0,0,Olive,Year Round (Monday-Friday),Clockwise,horizontal
+36,6045,0,20170301,20190101,0,0,0,0,0,1,0,Soderquist,Year Round (Saturday only),Outbound,horizontal
+37,6045,0,20170301,20190101,1,1,1,1,1,0,0,Soderquist,Year Round (Monday-Friday),Outbound,horizontal
+38,6045,1,20170301,20190101,0,0,0,0,0,1,0,Soderquist,Year Round (Saturday only),Inbound,horizontal
+39,6045,1,20170301,20190101,1,1,1,1,1,0,0,Soderquist,Year Round (Monday-Friday),Inbound,horizontal
+40,4978,0,20170828,20190101,1,1,1,1,1,0,0,StaRT BART Commuter,"Starting August 28, 2017 (Monday-Friday)",Eastbound,horizontal
+41,4978,1,20170828,20190101,1,1,1,1,1,0,0,StaRT BART Commuter,"Starting August 28, 2017 (Monday-Friday)",Westbound,horizontal
+42,319,,20160822,20190101,1,1,1,1,1,0,0,Waterford Dial-A-Ride,Year-round Calendar (Monday-Friday),,horizontal
+43,317,0,20170828,20190101,0,0,0,0,0,1,0,Waterford / Modesto,"Starting August 28, 2017 (Saturday only)",(Loop),horizontal
+44,317,0,20170828,20190101,1,1,1,1,1,0,0,Waterford / Modesto,"Starting August 28, 2017 (Monday-Friday)",(Loop),horizontal
+45,1095,0,20170828,20190101,0,0,0,0,0,1,0,West-Gustine/Newman/Patterson/Crows Landing,"Starting August 28, 2017 (Saturday only)",Northbound,horizontal
+46,1095,0,20170828,20190101,1,1,1,1,1,0,0,West-Gustine/Newman/Patterson/Crows Landing,"Starting August 28, 2017 (Monday-Friday)",Northbound,horizontal
+47,1095,1,20170828,20190101,0,0,0,0,0,1,0,West-Gustine/Newman/Patterson/Crows Landing,"Starting August 28, 2017 (Saturday only)",Southbound,horizontal
+48,1095,1,20170828,20190101,1,1,1,1,1,0,0,West-Gustine/Newman/Patterson/Crows Landing,"Starting August 28, 2017 (Monday-Friday)",Southbound,horizontal

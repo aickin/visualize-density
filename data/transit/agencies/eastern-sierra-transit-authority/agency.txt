@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+78,http://www.estransit.com/CMS,en,Eastern Sierra Transit Authority,(800) 922-1930,America/Los_Angeles,

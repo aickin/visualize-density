@@ -1,0 +1,86 @@
+service_id,date,holiday_name,exception_type
+c_1626_b_465_d_31,20190101,New Year's Day,2
+c_1626_b_465_d_31,20181231,New Year's Eve,2
+c_1626_b_465_d_31,20181225,Christmas Day,2
+c_1626_b_465_d_31,20181123,Day after Thanksgiving,2
+c_1626_b_465_d_31,20181122,Thanksgiving Day,2
+c_1626_b_465_d_31,20180115,Martin Luther King Jr Day,2
+c_1626_b_465_d_31,20171225,Christmas Day,2
+c_1624_b_none_d_32,20181123,Day after Thanksgiving,1
+c_1624_b_none_d_32,20181112,Veteran's Day Observed,1
+c_1624_b_none_d_32,20180219,Presidents Day,1
+c_1624_b_none_d_32,20180115,Martin Luther King Jr Day,1
+c_1623_b_none_d_0,20171231,New Years Eve,1
+c_1613_b_none_d_0,20180115,Martin Luther King Jr Day,1
+c_1613_b_none_d_0,20171231,New Years Eve,1
+c_1598_b_none_d_64,20190101,New Year's Day,1
+c_1598_b_none_d_64,20181231,New Year's Eve,1
+c_1598_b_none_d_64,20181225,Christmas Day,1
+c_1598_b_none_d_64,20181224,Christmas Eve,1
+c_1598_b_none_d_64,20181122,Thanksgiving Day,1
+c_1598_b_none_d_64,20180903,Labor Day,1
+c_1598_b_none_d_64,20180704,Independence Day,1
+c_1598_b_none_d_64,20180528,Memorial Day,1
+c_1598_b_none_d_64,20180101,New Years Day,1
+c_1598_b_none_d_64,20171225,Christmas Day,1
+c_1598_b_none_d_32,20181123,Day after Thanksgiving,1
+c_1598_b_none_d_32,20181112,Veteran's Day Observed,1
+c_1598_b_none_d_32,20180219,Presidents Day,1
+c_1598_b_none_d_32,20180115,Martin Luther King Jr Day,1
+c_1598_b_none_d_31,20171231,New Years Eve,1
+c_1598_b_293_d_64,20171231,New Years Eve,2
+c_1598_b_293_d_31,20190101,New Year's Day,2
+c_1598_b_293_d_31,20181231,New Year's Eve,2
+c_1598_b_293_d_31,20181225,Christmas Day,2
+c_1598_b_293_d_31,20181224,Christmas Eve,2
+c_1598_b_293_d_31,20181123,Day after Thanksgiving,2
+c_1598_b_293_d_31,20181122,Thanksgiving Day,2
+c_1598_b_293_d_31,20180903,Labor Day,2
+c_1598_b_293_d_31,20180704,Independence Day,2
+c_1598_b_293_d_31,20180528,Memorial Day,2
+c_1598_b_293_d_31,20180219,Presidents Day,2
+c_1598_b_293_d_31,20180115,Martin Luther King Jr Day,2
+c_1598_b_293_d_31,20180101,New Years Day,2
+c_1598_b_293_d_31,20171225,Christmas Day,2
+c_1503_b_1654_d_4,20180704,Independence Day,2
+c_1503_b_1654_d_31,20190101,New Year's Day,2
+c_1503_b_1654_d_31,20181231,New Year's Eve,2
+c_1503_b_1654_d_31,20181225,Christmas Day,2
+c_1503_b_1654_d_31,20181224,Christmas Eve,2
+c_1503_b_1654_d_31,20181123,Day after Thanksgiving,2
+c_1503_b_1654_d_31,20181122,Thanksgiving Day,2
+c_1503_b_1654_d_31,20181112,Veteran's Day Observed,2
+c_1503_b_1654_d_31,20180903,Labor Day,2
+c_1503_b_1654_d_31,20180704,Independence Day,2
+c_1503_b_1654_d_31,20180528,Memorial Day,2
+c_1503_b_1654_d_31,20180219,Presidents Day,2
+c_1503_b_1654_d_31,20180115,Martin Luther King Jr Day,2
+c_1503_b_1654_d_31,20180101,New Years Day,2
+c_1503_b_1654_d_31,20171225,Christmas Day,2
+c_1503_b_1654_d_27,20190101,New Year's Day,2
+c_1503_b_1654_d_27,20181231,New Year's Eve,2
+c_1503_b_1654_d_27,20181225,Christmas Day,2
+c_1503_b_1654_d_27,20181224,Christmas Eve,2
+c_1503_b_1654_d_27,20181123,Day after Thanksgiving,2
+c_1503_b_1654_d_27,20181122,Thanksgiving Day,2
+c_1503_b_1654_d_27,20181112,Veteran's Day Observed,2
+c_1503_b_1654_d_27,20180903,Labor Day,2
+c_1503_b_1654_d_27,20180528,Memorial Day,2
+c_1503_b_1654_d_27,20180219,Presidents Day,2
+c_1503_b_1654_d_27,20180115,Martin Luther King Jr Day,2
+c_1503_b_1654_d_27,20180101,New Years Day,2
+c_1503_b_1654_d_27,20171225,Christmas Day,2
+c_1484_b_823_d_31,20190101,New Year's Day,2
+c_1484_b_823_d_31,20181231,New Year's Eve,2
+c_1484_b_823_d_31,20181225,Christmas Day,2
+c_1484_b_823_d_31,20181224,Christmas Eve,2
+c_1484_b_823_d_31,20181123,Day after Thanksgiving,2
+c_1484_b_823_d_31,20181122,Thanksgiving Day,2
+c_1484_b_823_d_31,20181112,Veteran's Day Observed,2
+c_1484_b_823_d_31,20180903,Labor Day,2
+c_1484_b_823_d_31,20180704,Independence Day,2
+c_1484_b_823_d_31,20180528,Memorial Day,2
+c_1484_b_823_d_31,20180219,Presidents Day,2
+c_1484_b_823_d_31,20180115,Martin Luther King Jr Day,2
+c_1484_b_823_d_31,20180101,New Years Day,2
+c_1484_b_823_d_31,20171225,Christmas Day,2

@@ -1,0 +1,13 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+"11","VN",11,"Vallejo Tc, Redwood Pnr","",3,"","047AAE","FFFFFF"
+"29","VN",29,"Soscol Tc, Redwood Pnr, Calistoga","",3,"","B5274A","FFFFFF"
+"3","VN",3,"S. Napa Maretplace, Coombs St","",3,"","EB7203","FFFFFF"
+"4","VN",4,"S. Napa Market Place, Shetler","",3,"","FDD700","00000F"
+"5","VN",5,"Napa Hs, Pear Tree","",3,"","00A19C","FFFFFF"
+"6","VN",6,"Redwood Pnr, Trancus","",3,"","FF0000","FFFFFF"
+"1","VN",1,Browns Valley,"",3,"","93482B","FFFFFF"
+"2","VN",2,"Outlets, Old Sonoma Rd","",3,"","262626","FFFFFF"
+"7","VN",7,"Redwood Pnr, Kaiser","",3,"","00ADDC","FFFFFF"
+"8","VN",8,"Jefferson, Redwood Pnr, Tc","",3,"","DD689E","FFFFFF"
+"10","VN",10,"Redwood Pnr, Tc, Nv College","",3,"","694B84","FFFFFF"
+"21","VN",21,"Fairfield Tc, Soscol Tc","",3,"","5DBA54","FFFFFF"

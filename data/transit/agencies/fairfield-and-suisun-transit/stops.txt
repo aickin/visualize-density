@@ -1,0 +1,253 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+28737,75512,,Civic Center Dr and Pennsylvania Ave,Far-Side,38.2533990458,-122.04871172,116,,0,,America/Los_Angeles,,,0
+5386,75324,,Solano Town Center,,38.2629070833623,-122.0532865,663,,0,,America/Los_Angeles,,,0
+28682,75283,,Oakbrook and Red Top Rd (RHS),Far-Side,38.1975424044,-122.1466431761,116,,0,,America/Los_Angeles,,,0
+28661,75248,,Dover Ave and Sunrise Dr,Far-Side,38.2782927775,-122.0250479706,116,,0,,America/Los_Angeles,,,0
+28549,75015,,Union Ave and Carpenter St,Far-Side  Green Shelter,38.253285,-122.040579,116,,0,,America/Los_Angeles,,,0
+28743,75518,,Oliver Rd and Holiday Lane,Mid-Block,38.2571532006,-122.0679350081,116,,0,,America/Los_Angeles,,,0
+28569,75040,,E Tabor Ave and Sunset Ave,Far-Side,38.2652651689,-122.0206239892,116,,0,,America/Los_Angeles,,,0
+28626,75160,,Buena Vista Ave and Pittier Way,Mid-Block,38.2483966353,-122.0274608197,116,,0,,America/Los_Angeles,,,0
+28552,75018,,Kentucky St Madison St (Civic Center),Mid-Block  Brown Shelter,38.251529375,-122.04636848,116,,0,,America/Los_Angeles,,,0
+5412,75392,,Market Lane Park and Ride,,38.455688214767,-121.8420035,667,,0,,America/Los_Angeles,,,0
+28597,75076,,W Texas St and Pennsylvania Ave,Far-Side,38.2493457311,-122.0505732108,116,,0,,America/Los_Angeles,,,0
+28697,75298,,Oakbrook Dr and Rainier Ct ,Mid-Block,38.1874016853,-122.1421485356,116,,0,,America/Los_Angeles,,,0
+28756,75163,,Merganser Dr and Wigeon Way (SS Senior Center),,38.2466482775763,-122.018443509009,116,,0,,America/Los_Angeles,,,0
+28668,75261,,E. Travis Blvd. and Phoenix Dr.,,38.2580942483,-122.0224274111,116,,0,,America/Los_Angeles,,,0
+28676,75274,,Chadbourne and Busch Dr,Near-Side,38.2372122831,-122.0839161661,116,,0,,America/Los_Angeles,,,0
+28688,75289,,Lopes Rd fs Woodside Way (South),Far-Side,38.1759759028,-122.1311293358,116,,0,,America/Los_Angeles,,,0
+28658,75239,,Pintail ns Seagull,,38.2481715561,-121.9957855256,116,,0,,America/Los_Angeles,,,0
+28570,75041,,E Tabor Ave and Falcon Dr (Grange Middle School),Far-Side,38.2651940472,-122.0168829131,116,,0,,America/Los_Angeles,,,0
+28707,75311,,Central Way fs Ritchie Rd,,38.2146122703,-122.137399655,116,,0,,America/Los_Angeles,,,0
+28541,75005,,Heath Dr and Breton Dr,Mid-Block,38.2708949494,-122.0428019689,116,,0,,America/Los_Angeles,,,0
+28738,75513,,Webster St and Civic Center Dr. ,Far-Side,38.2535032314,-122.0449647792,116,,0,,America/Los_Angeles,,,0
+28669,75265,,Travis Blvd. & Fairfield Ave.,,38.2583119925,-122.0456720169,116,,0,,America/Los_Angeles,,,0
+28600,75083,,W Texas St and Beck Ave,Far-Side,38.24916602536,-122.064203554006,116,,0,,America/Los_Angeles,,,0
+28581,75053,,E Tabor Ave and Solano Rd,Far-Side,38.2650151467,-121.9938212536,116,,0,,America/Los_Angeles,,,0
+28601,75088,,Texas St and State St,Near-Side,38.2490960542,-122.0362561756,116,,0,,America/Los_Angeles,,,0
+28547,75013,,Travis Blvd. & Clay St.,,38.2583627189,-122.0385592517,116,,0,,America/Los_Angeles,,,0
+28679,75280,,Lopes Rd and Cordelia Rd,Far-Side,38.2093803381,-122.1385769889,116,,0,,America/Los_Angeles,,,0
+28550,75016,,Kentucky St and Union Ave,Mid-Block  Blue Shelter with trashcan and Solar Kit,38.2515119075,-122.0408282986,116,,0,,America/Los_Angeles,,,0
+28565,75035,,Pacific Ave and Fairfield Ave,Far-Side,38.2686314469,-122.0447711161,116,,0,,America/Los_Angeles,,,0
+2335944,75552,,Fairfield Senior Ctr/Penn Ave,Farside,38.253692473776,-122.0497035423,116,,0,,America/Los_Angeles,,,1
+28590,75065,,Travis fs Dover,,38.2583190217,-122.0258314689,116,,0,,America/Los_Angeles,,,0
+28613,75118,,GatewayBlvd and Courtyard,Far-Side,38.2599154147,-122.0574122286,116,,0,,America/Los_Angeles,,,0
+28730,75505,,Washington St and Empire St (Armijo High School),Far-Side,38.2499470092,-122.0392879014,116,,0,,America/Los_Angeles,,,0
+28749,75524,,Travis Ave. and 1st St,Near-Side,38.2720701028,-121.9404855181,116,,0,,America/Los_Angeles,,,0
+28660,75247,,Dover fs Amherst Ct (Dover Avenue),Far-Side,38.2746148425,-122.0250537175,116,,0,,America/Los_Angeles,,,0
+28604,75092,,Travis fs N Texas St.,,38.2581612017,-122.0329669061,116,,0,,America/Los_Angeles,,,0
+28553,75020,,Pennsylvania Ave and Kansas St,Near-Side,38.2573958211,-122.050049575,116,,0,,America/Los_Angeles,,,0
+5410,75388,,Vacaville Transportation Center,,38.358639169612,-121.964896641382,666,,0,,America/Los_Angeles,,,0
+28573,75045,,E Tabor Ave and Davis Dr,"Opposite, mid-block",38.2649901758,-122.0012288653,116,,0,,America/Los_Angeles,,,0
+28551,75017,,Kentucky St and Webster St,Near-Side,38.2515277542,-122.04389401,116,,0,,America/Los_Angeles,,,0
+795055,75547,,Lawler Ranch Pkwy and Peytonia Lane,,38.236764,-121.993034,116,,0,,America/Los_Angeles,,,0
+28644,75206,,Portreo Cir. and Lawler Ranch Pkwy,,38.2387228656,-121.9919462542,116,,0,,America/Los_Angeles,,,0
+28739,75514,,Webster St and Kentucky St,Near-Side,38.2518582828,-122.0437136814,116,,0,,America/Los_Angeles,,,0
+28606,75101,,Cement Hill Rd and Dover Ave,Far-Side,38.2799749892,-122.0255804042,116,,0,,America/Los_Angeles,,,0
+5416,75397,,Benicia Park Road & Industrial Way (westbound),Far-Side,38.0684927360377,-122.1290035,670,,0,,America/Los_Angeles,,,0
+28662,75251,,Cement Hill Rd and Camrose Ave,Mid-Block,38.2782330853,-122.0289611994,116,,0,,America/Los_Angeles,,,0
+28664,75254,,Heather Dr and Dahlia St,Far-Side,38.2737685378,-122.0405551547,116,,0,,America/Los_Angeles,,,0
+28564,75034,,Heath Dr and Breton Dr,Near-Side  Green Shelter with trashcan,38.2709621981,-122.0429714122,116,,0,,America/Los_Angeles,,,0
+28729,75504,,Kentucky St and Madison St(Civic Center),Far-Side,38.2513764044,-122.0455704467,116,,0,,America/Los_Angeles,,,0
+28615,75131,,Clay Bank Rd and Horizon Dr,Far-Side,38.2748892208,-122.0063992089,116,,0,,America/Los_Angeles,,,0
+805313,75528,,Air Base Pkwy and Parker Rd,Far-Side,38.272218,-121.959408,116,,0,,America/Los_Angeles,,,0
+28653,75232,,Pintail fs Harrier,,38.2483320456,-121.9953370808,116,,0,,America/Los_Angeles,,,0
+28705,75307,,Fulton Dr  and  Lopes Rd,Near-Side,38.2070451956,-122.1388399353,116,,0,,America/Los_Angeles,,,0
+28614,75119,,Gateway Blvd @ Mall (west),Far-Side,38.2623098336,-122.0564599358,116,,0,,America/Los_Angeles,,,0
+28586,75058,,E Tabor and Falcon Dr (Grange Middle School),Far-Side,38.2654008381,-122.0177827283,116,,0,,America/Los_Angeles,,,0
+28665,75255,,Heather Dr and Jasmine St,Mid-Block,38.27604382,-122.0405266931,116,,0,,America/Los_Angeles,,,0
+28681,75282,,Watt Dr and Watt Ct ,Near-Side,38.2066892906,-122.14722616,116,,0,,America/Los_Angeles,,,0
+28575,75047,,E Tabor Ave and Solano Rd.,Far-Side,38.2648461497,-121.9927937658,116,,0,,America/Los_Angeles,,,0
+28632,75169,,Marina Blvd. and Lotz Way,,38.2428579497,-122.0313440392,116,,0,,America/Los_Angeles,,,0
+2332275,75551,,Fairfield Transportation Center,FTC arrival stop for Route 20,38.249155750615,-122.06842116836,663,,0,,America/Los_Angeles,,,1
+28580,75052,,Walters Rd and Granada Dr,Far-Side  Brown Shelter,38.2670881444,-121.9881483578,116,,0,,America/Los_Angeles,,,0
+28678,75276,,Solano Community College,Two blue shelters with Solar Kits,38.2348080881,-122.1250807003,116,,0,,America/Los_Angeles,,,0
+28733,75508,,Dickson Hill Rd and El Camino Dr,Near-Side,38.2901903097,-122.0288825125,116,,0,,America/Los_Angeles,,,0
+795057,75540,,Pintail Dr. and Woodlark Dr.,Far-Side,38.247463,-121.999513,116,,0,,America/Los_Angeles,,,0
+28734,75509,,Dover Ave and Dickson Hill Rd,Far-Side,38.2885315147,-122.0250163589,116,,0,,America/Los_Angeles,,,0
+28686,75287,,Lopes Rd and Gold Hill Rd ,Far-Side,38.1809752736,-122.1378552375,116,,0,,America/Los_Angeles,,,0
+28763,75541,,Red Top Rd op Oakbrook Dr (RHS),Far-Side,38.1986024836,-122.1467067381,116,,0,,America/Los_Angeles,,,0
+28685,75286,,Lopes Rd and Silver Creek Rd ,Far-Side,38.1898656667,-122.1382570089,116,,0,,America/Los_Angeles,,,0
+795460,75093,,E. Travis Blvd. and Eisenhower St.,,38.2581542161828,-122.029718942995,116,,0,,America/Los_Angeles,,,0
+28576,75048,,Walters Rd and E Tabor Ave,Far-Side,38.2654539361,-121.9878827828,116,,0,,America/Los_Angeles,,,0
+28555,75025,,Travis Blvd. and Washington St.,,38.2581773558,-122.0394356869,116,,0,,America/Los_Angeles,,,0
+28762,75538,,Central Way op Link Rd,Mid-Block,38.2190748811,-122.1323905989,116,,0,,America/Los_Angeles,,,0
+28584,75056,,E Tabor Ave and Villa Ct,Far-Side,38.2652540114,-122.0087669572,116,,0,,America/Los_Angeles,,,0
+28709,75313,,Pittman Rd and Central Way (Pittman),Near-Side,38.2200946722,-122.1270956481,116,,0,,America/Los_Angeles,,,0
+28666,75256,,Atlantic Ave and North Texas St.  ,Brown bus shelter,38.276233775,-122.0349603833,116,,0,,America/Los_Angeles,,,0
+28649,75219,,Travis op Phoenix,,38.2582685903,-122.0232389472,116,,0,,America/Los_Angeles,,,0
+28727,75502,,W Texas St and Gregory Ln,Far-Side,38.2491774944,-122.0552106942,116,,0,,America/Los_Angeles,,,0
+28728,75503,,W Texas St and 1st St,Mid-Block,38.2491667547,-122.0524931406,116,,0,,America/Los_Angeles,,,0
+28540,75003,,Fairfield Ave and Stratford Lane,Mid-Block  Green Shelter,38.2672566039,-122.0451509056,116,,0,,America/Los_Angeles,,,0
+28602,75089,,N Texas St and  E Kentucky St,Near-Side,38.2517194683,-122.0340922064,116,,0,,America/Los_Angeles,,,0
+28683,75284,,Silverado Dr and Silverado Cir ,Far-Side,38.1958409364,-122.1425344844,116,,0,,America/Los_Angeles,,,0
+28651,75224,,Travis Blvd and Sunset Ave,Near-Side,38.2580376056,-122.0205793831,116,,0,,America/Los_Angeles,,,0
+28675,75273,,Courage ns Chadbourne,Near-Side,38.2343039114,-122.0824757953,116,,0,,America/Los_Angeles,,,0
+5411,75391,,Davis St. Park and Ride,,38.351188936813,-121.9870035,666,,0,,America/Los_Angeles,,,0
+28746,75521,,Claybank Rd and Western Dr,Near-Side,38.2741317219,-122.0066566111,116,,0,,America/Los_Angeles,,,0
+28654,75234,,Scoter Way and Canvasback Dr.,,38.2523689431,-122.0107378425,116,,0,,America/Los_Angeles,,,0
+28556,75026,,Travis Blvd. and Clay St.,,38.2581708333,-122.0377822558,116,,0,,America/Los_Angeles,,,0
+28629,75165,,Buena Vista Ave and Village Dr.,Far-Side,38.2495028938618,-122.025449573994,116,,0,,America/Los_Angeles,,,0
+5351,75268,,Fairfield Transportation Center (FTC),,38.2491947681307,-122.0683666,663,,0,,America/Los_Angeles,,,0
+28625,75159,,Buena Vista Ave and Marina Blvd,Far-Side,38.2463961701743,-122.031411775991,116,,0,,America/Los_Angeles,,,0
+28617,75133,,Cement Hill and Bay Tree Dr,Far-Side,38.2799647042,-122.0097302769,116,,0,,America/Los_Angeles,,,0
+28572,75044,,E Tabor Ave and Grande Circle (E),Far-Side,38.2651005614,-122.0087502456,116,,0,,America/Los_Angeles,,,0
+805482,75533,,Woolner Ave and Gregory St,Far-Side,38.2452132786455,-122.056389065875,116,,0,,America/Los_Angeles,,,0
+28634,75171,,Driftwood Dr. and Josiah Way,,38.241449985,-122.0344546361,116,,0,,America/Los_Angeles,,,0
+28732,75507,,Dickson Hill Rd and N Texas St,Far-Side  ADA Pad,38.2906429894,-122.0335623433,116,,0,,America/Los_Angeles,,,0
+28670,75266,,W Texas St and Gregory Lane,Mid-Block,38.2493906978,-122.056992455,116,,0,,America/Los_Angeles,,,0
+28546,75012,,N Texas St and Travis Blvd,Near-Side,38.2588162058,-122.0343623656,116,,0,,America/Los_Angeles,,,0
+28650,75222,,Travis Blvd and Webster St.,,38.2581169861,-122.0470749711,116,,0,,America/Los_Angeles,,,0
+28568,75039,,E Tabor Ave and Dover Ave,Far-Side,38.2653160567,-122.0245581519,116,,0,,America/Los_Angeles,,,0
+28544,75009,,N Texas St and E Tabor Ave,Mid-Block,38.2660116589,-122.0343116592,116,,0,,America/Los_Angeles,,,0
+28621,75150,,Orchid St and Larkspur Ln,Far-Side,38.2780810708,-122.0370425894,116,,0,,America/Los_Angeles,,,0
+5422,75404,,UC DAvis Health and Science,,38.535189,-121.764475,665,,0,,America/Los_Angeles,,,0
+28693,75294,,Gold Hill Rd fs Stonewood Dr (Green Valley MS),Green Shelter with Solar Kit,38.175652,-122.137082,116,,0,,America/Los_Angeles,,,0
+28542,75007,,N Texas St and Alaska Ave,Far-Side,38.2710995147,-122.0342815039,116,,0,,America/Los_Angeles,,,0
+28563,75033,,N Texas St and Air Base Parkway,Far-Side,38.2746419717,-122.0339769322,116,,0,,America/Los_Angeles,,,0
+5425,75407,,9th St and O St,-Near-Side,38.574957,-121.497387,664,,0,,America/Los_Angeles,,,0
+28717,75325,,Solano Town Center,,38.2629139619,-122.0527118536,116,,0,,America/Los_Angeles,,,0
+28628,75531,,Merganser Dr. and Wigeon Way (Suisun City Post Office),Near-Side,38.246566,-122.017851,116,,0,,America/Los_Angeles,,,0
+28593,75069,,N Texas fs E Bell,Far-Side,38.2547106681,-122.0343225775,116,,0,,America/Los_Angeles,,,0
+28712,75316,,Courage ns S Watney,Near-Side  Blue Shelter with trashcan,38.2340857219,-122.0797579097,116,,0,,America/Los_Angeles,,,0
+28561,75031,,N Texas St and E Pacific Ave,Far-Side,38.2694943886,-122.0340330825,116,,0,,America/Los_Angeles,,,0
+5413,75393,,UC Davis Silo,,38.539072,-121.755456,665,,0,,America/Los_Angeles,,,0
+28696,75297,,Oakbrook Dr and Lopes Rd,Far-Side,38.1838056461,-122.1391522514,116,,0,,America/Los_Angeles,,,0
+28608,75104,,Cement Hill Rd and  Elmhurst Cir (Fairfield High School),Mid-Block,38.2764207356,-122.0325818933,116,,0,,America/Los_Angeles,,,0
+28612,75117,,Travis Blvd and Holiday Ln (Geri Towne),Near-Side,38.2582157572,-122.0658578397,116,,0,,America/Los_Angeles,,,0
+28716,75323,,Pennsylvania Ave. & B. Gale Wilson Blvd.,,38.2613594803,-122.0498365447,116,,0,,America/Los_Angeles,,,0
+28758,75534,,Bella Vista and Ventura Way,Far-Side,38.2495294411,-121.9821138472,116,,0,,America/Los_Angeles,,,0
+28691,75292,,Gold Hill Rd and Canyon Hills Dr ,Far-Side,38.1686165136,-122.1356144989,116,,0,,America/Los_Angeles,,,0
+795462,75548,,5th St and P St,-Near-Side,38.575603,-121.502787,664,,0,,America/Los_Angeles,,,0
+28609,75105,,Atlantic Ave and Orchid St (Walmart),-Blue Shelter with trashcan  -Near-Side,38.2764926117,-122.0359763683,116,,0,,America/Los_Angeles,,,0
+28592,75067,,Travis Blvd. & Chamberlain Dr. ,,38.2583359414,-122.0321318972,116,,0,,America/Los_Angeles,,,0
+5424,75406,,9th St and L St,-Mid-Block,38.578045,-121.496081,664,,0,,America/Los_Angeles,,,0
+28701,75302,,Oakbrook Dr and Amberwood Cir ,Mid-Block,38.1956102797,-122.1466551819,116,,0,,America/Los_Angeles,,,0
+5421,75403,,UC Davis Memorial Union,,38.543729,-121.749819,665,,0,,America/Los_Angeles,,,0
+28558,75027,,N Texas St and E Travis Blvd,Far-Side,38.2591160358,-122.0340616456,116,,0,,America/Los_Angeles,,,0
+28745,75520,,Cement Hill Rd and Peppertree Dr (E),Near-Side,38.2797260158,-122.0122760106,116,,0,,America/Los_Angeles,,,0
+28603,75090,,N Texas St and  E Bell St,Near-Side,38.2541211228,-122.0340895856,116,,0,,America/Los_Angeles,,,0
+28594,75070,,N Texas St and E Kentucky St,Mid-Block,38.2528299372,-122.0343339922,116,,0,,America/Los_Angeles,,,0
+28684,75285,,Silverado Dr and Meadows Ct ,Far-Side,38.1949266767,-122.1407032636,116,,0,,America/Los_Angeles,,,0
+28692,75293,,Gold Hill Rd and Northwood Dr ,Far-Side,38.1728295922,-122.1363262625,116,,0,,America/Los_Angeles,,,0
+28721,75330,,Pintail ns White Wing Lane,,38.2493466372,-122.0098376064,116,,0,,America/Los_Angeles,,,0
+28751,75526,,Hickam Ave and Windward Dr.,,38.2680518519,-121.9359116189,116,,0,,America/Los_Angeles,,,0
+28667,75259,,Pintail fs Walters,,38.2489423153,-121.9887780767,116,,0,,America/Los_Angeles,,,0
+28725,75419,,Travis Ave ns Burgan Blvd  (Air Force Inn),,38.2720664739,-121.9353544694,116,,0,,America/Los_Angeles,,,0
+28616,75132,,Clay Bank Rd and Canal St,Mid-Block,38.2773292022,-122.0064106106,116,,0,,America/Los_Angeles,,,0
+28585,75057,,E Tabor Ave and Manor Pl  (Tabor Park),Mid-Block  Blue Shelter with solar kit,38.2653174192,-122.0133985322,116,,0,,America/Los_Angeles,,,0
+28645,75207,,Mayfield Circle and Engell Dr,Mid-Block,38.2396067492,-122.0002883903,116,,0,,America/Los_Angeles,,,0
+28663,75252,,Cement Hill Rd and Elmhurst Cir (Fairfield High School),Far-Side,38.2764439775,-122.0314987225,116,,0,,America/Los_Angeles,,,0
+795553,75532,,Pennsylvania Ave. & Ohio St.,,38.2444328140605,-122.049803402001,116,,0,,America/Los_Angeles,,,0
+28589,75061,,E Tabor Ave and San Salvador St,Mid-Block,38.2655841922,-122.0293387622,116,,0,,America/Los_Angeles,,,0
+28671,75267,,W Texas St and 5th St,Far-Side,38.2493827142,-122.0611103247,116,,0,,America/Los_Angeles,,,0
+28723,75335,,Woolner fs Enterprise,,38.2450796233,-122.0589979794,116,,0,,America/Los_Angeles,,,0
+28690,75291,,Canyon Hills Dr and Firwood Way,Mid-Block,38.1715071844,-122.1326032331,116,,0,,America/Los_Angeles,,,0
+28655,75235,,Pintail op Scoter Way,,38.2493309483,-122.0101718681,116,,0,,America/Los_Angeles,,,0
+28680,75306,,Fulton Dr and Edison Ct ,Far-Side,38.2071942869,-122.1420608697,116,,0,,America/Los_Angeles,,,0
+28715,75322,,Pennsylvania Ave. & B.Gale Wilson,Far-Side,38.2606035544,-122.0501019136,116,,0,,America/Los_Angeles,,,0
+28560,75030,,N Texas St and E Tabor Ave,Mid-Block,38.2669939428,-122.0340608306,116,,0,,America/Los_Angeles,,,0
+28607,75103,,Cement Hill Rd and Camrose Ave,Far-Side,38.2780956967,-122.0295137064,116,,0,,America/Los_Angeles,,,0
+28722,75344,,Woolner Ave and Gregory Ln.,,38.2450768178,-122.0571992056,116,,0,,America/Los_Angeles,,,0
+28674,75272,,Courage Dr and N Watney Way,Far-Side,38.2343040583,-122.0794318842,116,,0,,America/Los_Angeles,,,0
+5230,75173,,Railroad Ave @ Amtrak (Suisun City Amtrak Station),,38.24296,-122.041486,116,,0,,America/Los_Angeles,,,0
+28726,75500,,Pintail Dr and Walters Rd,Near-Side,38.248863,-121.988919,116,,0,,America/Los_Angeles,,,0
+28582,75054,,E Tabor Ave and Tolenas Rd,Far-Side,38.2650638317,-121.9990015808,116,,0,,America/Los_Angeles,,,0
+795555,75549,,Capitol Mall,Mid-Block,38.580116,-121.50605,664,,0,,America/Los_Angeles,,,0
+28641,75186,,Blossom Ave. & Canvasback Dr.,Mid-Block,38.2524339433,-122.0148571753,116,,0,,America/Los_Angeles,,,0
+28744,75519,,Cement Hill fs Dover,Far-Side,38.2797850033,-122.0245416992,116,,0,,America/Los_Angeles,,,0
+5414,75395,,Capitol Mall ,Far-Side,38.579998,-121.506684,664,,0,,America/Los_Angeles,,,0
+28633,75170,,Driftwood @ Josiah Circle,,38.2414160711,-122.0344082908,116,,0,,America/Los_Angeles,,,0
+28571,75043,,E Tabor Ave and Manor Place,Far-Side,38.2651514828,-122.0127540711,116,,0,,America/Los_Angeles,,,0
+28566,75036,,Tabor Ave and Cambridge Dr,,38.2655928986,-122.0482143308,116,,0,,America/Los_Angeles,,,0
+28622,75153,,Cordelia Rd. and West St,,38.2358447803,-122.0441798392,116,,0,,America/Los_Angeles,,,0
+795052,75543,,Walters Rd and  Walmart driveway fs (Suisun City Walmart),,38.24155,-121.988617,116,,0,,America/Los_Angeles,,,0
+28611,75107,,Heather Dr and Dahlia St,Near-Side,38.2738045036,-122.0406978097,116,,0,,America/Los_Angeles,,,0
+28559,75029,,N Texas and Acacia Ave (Mexico Meat Market),Near-Side  Blue Shelter with trashcan and solar kit,38.2638699428,-122.0340689708,116,,0,,America/Los_Angeles,,,0
+28703,75305,,Watt Dr and Watt Ct,Near-Side,38.2058398175,-122.1470205719,116,,0,,America/Los_Angeles,,,0
+28759,75535,,Bella Vista and Charleston St,Far-Side,38.2529906022,-121.9861956669,116,,0,,America/Los_Angeles,,,0
+28657,75238,,Pintail Dr and Woodlark Lane,Near-Side,38.2473398581,-121.9998590544,116,,0,,America/Los_Angeles,,,0
+28548,75014,,Union Ave and Kennedy Ct,Near-Side,38.2571832789,-122.0405078869,116,,0,,America/Los_Angeles,,,0
+28740,75515,,Webster St and Kentucky St,Far-Side,38.2517947683,-122.0433420878,116,,0,,America/Los_Angeles,,,0
+807829,75550,,Benicia Park Rd and Industrial Way (Eastbound),Near-Side,38.068455,-122.128802,670,,0,,America/Los_Angeles,,,0
+28760,75536,,Suisun Valley Rd and Kaiser Dr,Far-Side,38.2300573008,-122.1283126806,116,,0,,America/Los_Angeles,,,0
+28648,75217,,Sunset Ave. and Canvasback Dr.,Far-Side,38.2533930122,-122.0197887247,116,,0,,America/Los_Angeles,,,0
+28724,75336,,Woolner Ave and Vine St,,38.2451381139,-122.0641818353,116,,0,,America/Los_Angeles,,,0
+28672,75269,,Beck Ave and Woolner Ave ,,38.2447390947,-122.0664766464,116,,0,,America/Los_Angeles,,,0
+28702,75304,,Watt Dr and Fermi Dr,Near-Side,38.1995805167,-122.1486600025,116,,0,,America/Los_Angeles,,,0
+5310,75050,,Huntington Ct & Walters Rd,Near-Side,38.2723315758577,-121.9882331,116,,0,,America/Los_Angeles,,,0
+28583,75055,,E Tabor Ave and Davis Dr,Far-Side,38.2651185625,-122.0019215533,116,,0,,America/Los_Angeles,,,0
+28706,75310,,Central Way op Ritchie,,38.2136434194,-122.1371576864,116,,0,,America/Los_Angeles,,,0
+9827,75400,,El Cerrito Del Norte BART,,37.924894,-122.317048,,,0,,America/Los_Angeles,,,0
+28761,75537,,Fairfield - Cordelia Library,Two Blue Shelters with trashcans and Solar Kits,38.2177611231,-122.1441336597,116,,0,,America/Los_Angeles,,,0
+28610,75106,,Atlantic Ave and Heather Dr,-Mid-Block,38.2764767808,-122.0403693831,116,,0,,America/Los_Angeles,,,0
+28619,75135,,Cement Hill op Peppertree Dr (W),,38.2799575322,-122.01648856,116,,0,,America/Los_Angeles,,,0
+28635,75172,,Main Street and Lotz Way,Far-Side,38.2430813511,-122.0404775692,116,,0,,America/Los_Angeles,,,0
+795053,75545,,Lawler Ranch Pwky and Spinney Way,,38.238676,-122.003419,116,,0,,America/Los_Angeles,,,0
+28588,75060,,E Tabor Ave and Dover Ave,Far-Side,38.2655391392,-122.0254872869,116,,0,,America/Los_Angeles,,,0
+28567,75038,,E Tabor Ave and Kidder Ave,,38.2654161069,-122.0299413178,116,,0,,America/Los_Angeles,,,0
+28631,75168,,Buena Vista Ave and Marina Blvd.,Near-Side,38.2464092012559,-122.031477968909,116,,0,,America/Los_Angeles,,,0
+28587,75059,,E Tabor Ave and Cardinal Way,Far-Side,38.2654476236,-122.0218468856,116,,0,,America/Los_Angeles,,,0
+28713,75319,,W Texas St and 5th St (Allan Witt Park),Mid-Block  Blue Shelter with solar kit,38.2491873342,-122.0602280942,116,,0,,America/Los_Angeles,,,0
+28627,75162,,Pintail Dr. and Parkside Dr.,,38.2495964217,-122.0234830972,116,,0,,America/Los_Angeles,,,0
+28574,75046,,E Tabor Ave and Tolenas Rd,Mid-Block,38.2649063078,-121.9968235853,116,,0,,America/Los_Angeles,,,0
+28543,75008,,N Texas St and E Pacific Ave,Far-Side,38.2681651369,-122.0342992228,116,,0,,America/Los_Angeles,,,0
+28742,75517,,Pennsylvania Ave and Grant St,Near-Side,38.2559335256,-122.0497251153,116,,0,,America/Los_Angeles,,,0
+28579,75051,,Walters Rd and Walters Ct,Far-Side,38.2692436142,-121.9881212517,116,,0,,America/Los_Angeles,,,0
+28694,75295,,Gold Hill Rd and Northwood Dr ,Far-Side,38.1778143219,-122.1386559717,116,,0,,America/Los_Angeles,,,0
+28753,75542,,Air Base Pkwy and Parker Rd,Near-Side,38.271909,-121.959499,116,,0,,America/Los_Angeles,,,0
+28704,75281,,Fulton Dr and  Edison Ct,Near-Side,38.2070406847,-122.1420930014,116,,0,,America/Los_Angeles,,,0
+28752,75527,,Hickam Ave and Skymaster Dr,,38.2683859375,-121.9488310169,116,,0,,America/Los_Angeles,,,0
+795054,75546,,Lawler Ranch Pkwy and Fennie Way ,,38.236709,-121.999269,116,,0,,America/Los_Angeles,,,0
+28673,75270,,Human Services Center,Blue shelter with two trashcans,38.2359662817,-122.0674963356,116,,0,,America/Los_Angeles,,,0
+28735,75510,,Doverwood Apartments,"Blue bus shelter, solar panel, and trashcan",38.28164343,-122.0250472817,116,,0,,America/Los_Angeles,,,0
+28646,75208,,Mayfield Cir. & Lawler Ranch Pkwy,,38.2407533497,-122.0051251828,116,,0,,America/Los_Angeles,,,0
+28741,75516,,Civic Center Dr and Pennsylvania Ave,Near-Side,38.2535762447,-122.0490329742,116,,0,,America/Los_Angeles,,,0
+28750,75525,,Burgan Blvd and Airlift Dr (Passenger Terminal),Mid-Block,38.2669269364,-121.9316858536,116,,0,,America/Los_Angeles,,,0
+28647,75215,,Sunset fs Pintail,,38.2498091358,-122.0203829478,116,,0,,America/Los_Angeles,,,0
+28689,75290,,Lopes Rd and Canyon Hills Dr ,Near-Side,38.1732963789,-122.1296002861,116,,0,,America/Los_Angeles,,,0
+28731,75506,,N Texas St and Marigold Dr,Far-Side,38.2847122106,-122.033918505,116,,0,,America/Los_Angeles,,,0
+28599,75081,,Beck Ave and Woolner Ave,,38.2456864172,-122.0661422628,116,,0,,America/Los_Angeles,,,0
+795461,75225,,Sunset Ave. and Railroad Ave,Far-Side,38.253321927033,-122.020002351386,116,,0,,America/Los_Angeles,,,0
+28736,75511,,Washington St and Empire St (Armijo High School),Near-Side,38.2500631358,-122.0390557108,116,,0,,America/Los_Angeles,,,0
+28698,75299,,Oakbrook Dr and Brookdale Cir ,Mid-Block,38.1887461681,-122.1424680856,116,,0,,America/Los_Angeles,,,0
+28539,75001,,Tabor Ave and Bristol Ln,Far-Side  Blue Shelter with trashcan and solar kit,38.2654671869,-122.0482597769,116,,0,,America/Los_Angeles,,,0
+28755,75530,,Main St op Sacramento St,,38.2395111819,-122.0405301217,116,,0,,America/Los_Angeles,,,0
+28710,75314,,Chadbourne and Busch Dr,Far-Side,38.2372661164,-122.0841706667,116,,0,,America/Los_Angeles,,,0
+795554,75405,,J St. and 6th St.,,38.5816043485955,-121.498660870418,664,,0,,America/Los_Angeles,,,0
+28711,75315,,Chadbourne fs Low Ct,Far-Side,38.2352796164,-122.0840630003,116,,0,,America/Los_Angeles,,,0
+28554,75024,,Union Ave and Louisiana St,Far-Side  Blue shelter with trashcan and solar kit,38.2527190122,-122.0403596222,116,,0,,America/Los_Angeles,,,0
+28757,75178,,Pennsylvania Ave and Woolner Ave,Far-Side,38.2444629465796,-122.050150004227,116,,0,,America/Los_Angeles,,,0
+28577,75049,,Walters Rd and Walters Ct,Near-Side,38.2697767147,-121.9878784842,116,,0,,America/Los_Angeles,,,0
+28714,75320,,Hickam Ave and Pacific St (David Grant Med Ctr),,38.2687236006,-121.9638925244,116,,0,,America/Los_Angeles,,,0
+28719,75327,,Solano Town Center @ North Entrance,,38.2619418611,-122.0542958203,116,,0,,America/Los_Angeles,,,0
+5418,75399,,Walnut Creek BART Station,,37.9047627367708,-122.0670035,669,,0,,America/Los_Angeles,,,0
+28598,75080,,Woolner Ave and Vine Dr.,,38.245281135,-122.0638031464,116,,0,,America/Los_Angeles,,,0
+28656,75237,,Pennsylvania Ave and Kentucky St,Near-Side  Blue shelter with trashcan and solar kit,38.250945102565,-122.049779191521,116,,0,,America/Los_Angeles,,,0
+28637,75174,,Main St. and Driftwood Dr.,,38.2413096128,-122.0406525061,116,,0,,America/Los_Angeles,,,0
+28754,75529,,Main St fs Morgan St,,38.2375411817,-122.0405526114,116,,0,,America/Los_Angeles,,,0
+28638,75176,,Main St. and California St.,Far-Side,38.2376260485736,-122.040665745735,116,,0,,America/Los_Angeles,,,0
+28720,75329,,Pintail Dr. and Wigeon Way,,38.2494530444,-122.0177792358,116,,0,,America/Los_Angeles,,,0
+28747,75522,,Travis Ave. and Ragsdale St,Far-Side,38.2717907703,-121.9505686833,116,,0,,America/Los_Angeles,,,0
+28677,75275,,Suisun Valley Rd and Snowberry Way,Far-Side,38.2363697156,-122.1256647442,116,,0,,America/Los_Angeles,,,0
+28595,75071,,Texas St and Clay St,Mid-Block,38.2492930358,-122.0373054133,116,,0,,America/Los_Angeles,,,0
+28642,75193,,Pintail ns East Wigeon Way (KROC CENTER),,38.2490437638078,-122.008294894564,116,,0,,America/Los_Angeles,,,0
+28623,75156,,Civic Center Dr @ Suisun City Hall,,38.2378267625,-122.0364182044,116,,0,,America/Los_Angeles,,,0
+28748,75523,,Travis Ave. and Broadway,Far-Side,38.2720439367,-121.9462076836,116,,0,,America/Los_Angeles,,,0
+28591,75066,,Travis Blvd. & Kidder Ave.,,38.2583386078,-122.0297036528,116,,0,,America/Los_Angeles,,,0
+28643,75194,,Pintail fs Emperor,,38.2477727231,-122.0045996647,116,,0,,America/Los_Angeles,,,0
+28620,75148,,Hawthorne Dr and N Texas St,Far-Side,38.2800717322,-122.0350389822,116,,0,,America/Los_Angeles,,,0
+28639,75177,,Cordelia St. and West St.,,38.2358842383,-122.0438002956,116,,0,,America/Los_Angeles,,,0
+28624,75158,,Driftwood Dr. and Marina Blvd.,,38.2413994739,-122.0310109658,116,,0,,America/Los_Angeles,,,0
+795056,75544,,Walters Rd and Petersen Rd  ns (Suisun City Walmart),,38.242141,-121.988068,116,,0,,America/Los_Angeles,,,0
+28695,75296,,Lopes Rd and Gold Hill Rd,Far-Side,38.1824747392,-122.1382959014,116,,0,,America/Los_Angeles,,,0
+5417,75398,,Pleasant Hill BART Station,,37.9281472584606,-122.0560104,669,,0,,America/Los_Angeles,,,0
+28687,75288,,Lopes Rd and Woodside Way (North),Mid-Block,38.1787596253,-122.1326519989,116,,0,,America/Los_Angeles,,,0
+28700,75301,,Oakbrook Dr and Oakbrook Cir ,Mid-Block,38.1933600294,-122.1459647325,116,,0,,America/Los_Angeles,,,0
+28630,75166,,Buena Vista Ave. and Pittier Way,Mid-Block,38.2487517161,-122.0268652447,116,,0,,America/Los_Angeles,,,0
+28562,75032,,N Texas St and Alaska Ave,Far-Side,38.2718676414,-122.0339911372,116,,0,,America/Los_Angeles,,,0
+28545,75010,,N Texas St and Acacia Ave (Foodmax),Far-Side  Blue Shelter with trashcan,38.2635551706,-122.0343346914,116,,0,,America/Los_Angeles,,,0
+28708,75312,,Central Way ns Grobric Ct,,38.2168328181,-122.1364229797,116,,0,,America/Los_Angeles,,,0
+28618,75134,,Cement Hill fs Peppertree Dr (E),,38.279950115,-122.013689635,116,,0,,America/Los_Angeles,,,0
+28596,75074,,Webster St and Kentucky St,Far-Side,38.2507939442,-122.0433371825,116,,0,,America/Los_Angeles,,,0
+28699,75300,,Oakbrook Dr and Oakbrook Ct,Near-Side,38.1917318047,-122.1440239614,116,,0,,America/Los_Angeles,,,0
+28659,75242,,Montebello Dr. & El Mar Ct. ,,38.2467669414,-121.9854306806,116,,0,,America/Los_Angeles,,,0

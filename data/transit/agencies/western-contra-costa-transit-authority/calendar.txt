@@ -1,0 +1,10 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_1626_b_465_d_31,JX Year Round Service (Monday-Friday),1,1,1,1,1,0,0,20160601,20180601
+c_1624_b_713_d_32,Routes 11 & 19 Saturday Service (Saturday only),0,0,0,0,0,1,0,20160601,20180601
+c_1598_b_293_d_64,Express J (Sunday only),0,0,0,0,0,0,1,20160601,20180601
+c_1598_b_293_d_32,Express J (Saturday only),0,0,0,0,0,1,0,20160601,20180601
+c_1598_b_293_d_31,Express J (Monday-Friday),1,1,1,1,1,0,0,20160601,20180601
+c_1503_b_1654_d_4,School Calendar (Wednesday only),0,0,1,0,0,0,0,20180102,20180406
+c_1503_b_1654_d_31,School Calendar (Monday-Friday),1,1,1,1,1,0,0,20180102,20180406
+c_1503_b_1654_d_27,School Calendar,1,1,0,1,1,0,0,20180102,20180406
+c_1484_b_823_d_31,Year Round Calendar (Monday-Friday),1,1,1,1,1,0,0,20170501,20180501

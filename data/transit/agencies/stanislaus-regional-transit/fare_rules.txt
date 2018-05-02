@@ -1,0 +1,8 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+232,310,,,
+232,312,,,
+232,313,,,
+232,314,,,
+232,315,,,
+232,317,,,
+232,319,,,

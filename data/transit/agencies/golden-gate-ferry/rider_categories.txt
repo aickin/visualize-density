@@ -1,0 +1,6 @@
+rider_category_id,rider_category_description
+"1","Regular"
+"2","Youth (5-18 years)"
+"3","Senior (65+ yrs), Disabled, Medicare"
+"4","Children under 5"
+"5","School Groups"

@@ -1,0 +1,43 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+2318570,5321,,Hollis at 65th,,37.8470265993714,-122.291520132592,,,0,,America/Los_Angeles,,,0
+2318576,5313,,Christie at Trader Joe's ,,37.8374288396744,-122.294498933411,,,0,,America/Los_Angeles,,,0
+2318571,5366,,Ninth at West Berkeley Bowl,,37.8523174318222,-122.289674926012,,,0,,America/Los_Angeles,,,0
+2319194,5305,,40th at Emery,,37.8306342572162,-122.281318051534,,,0,,America/Los_Angeles,,,0
+2319629,5342,,Shellmound at Bay Street,,37.8333314660242,-122.293612085717,,,0,,America/Los_Angeles,,,0
+2319183,5335,,Hollis at 45th,,37.8332548879922,-122.286472738415,,,0,,America/Los_Angeles,,,0
+2319181,5341,,Park Ave at San Pablo ,,37.8323326477399,-122.280725927428,,,0,,America/Los_Angeles,,,0
+2319192,5330,,Christie at 64th ,,37.8437254691027,-122.295859926623,,,0,,America/Los_Angeles,,,0
+2319632,5310,,Powell at Watergate Market,,37.8372724260563,-122.302675628179,,,0,,America/Los_Angeles,,,0
+2318569,5334,,Horton at 59th (AMTRAK),,37.8408135947995,-122.291369349481,,https://www.amtrak.com/home ,0,,America/Los_Angeles,,,0
+2319186,5339,,Hollis at 64th ,,37.8450705528498,-122.290893457673,,,0,,America/Los_Angeles,,,0
+2319633,5311,,Powell Marina,,37.8371114316331,-122.313441419571,,,0,,America/Los_Angeles,,,0
+2319628,5345,,Shellmound at Christie ,,37.8374453174544,-122.29297832691,,,0,,America/Los_Angeles,,,0
+2319189,5317,,Emery at 40th,,37.8309172710698,-122.281160062904,,,0,,America/Los_Angeles,,,0
+2319187,5320,,Hollis at 63rd,,37.843664948274,-122.290585346037,,,0,,America/Los_Angeles,,,0
+2319197,5326,,40th at Horton,,37.829497358989,-122.287958284407,,,0,,America/Los_Angeles,,,0
+2319182,5357,,40th at San Pablo ,,37.831089050386,-122.279024933933,,,0,,America/Los_Angeles,,,0
+2319198,5307,,40th at Horton,,37.829413295667,-122.287344380632,,,0,,America/Los_Angeles,,,0
+2318574,5318,,Hollis at 53rd,,37.8357882351975,-122.287635968663,,,0,,America/Los_Angeles,,,0
+2319199,5306,,40th at Hollis,,37.8299047883482,-122.284904929046,,,0,,America/Los_Angeles,,,0
+2319634,5304,,Powell at Police/Fire Station,,37.837005177737,-122.304608482324,,,0,,America/Los_Angeles,,,0
+2319188,5352,,Hollis at 45th ,,37.8332104578399,-122.28661847072,,,0,,America/Los_Angeles,,,0
+2319196,5325,,40th at Hollis,,37.8300860297197,-122.285212901842,,,0,,America/Los_Angeles,,,0
+2318579,5333,,Christie at Public Market SB,,37.842652,-122.295508,,,0,,America/Los_Angeles,,,0
+2318575,5323,,Park Ave at Pixar,,37.8318208277117,-122.282339722397,,,0,,America/Los_Angeles,,,0
+2319185,5337,,Hollis at 59th,,37.8415163771129,-122.289757062433,,,0,,America/Los_Angeles,,,0
+2318580,5367,,40th at San Pablo,,37.8312685253329,-122.279397282198,,,0,,America/Los_Angeles,,,0
+2309331,5300,,MacArthur BART Station,,37.8285965897665,-122.266361262805,,,0,,America/Los_Angeles,,,0
+2316832,5343,,Park Ave at Pixar,,37.8318596332559,-122.282945905977,,,0,,America/Los_Angeles,,,0
+2318573,5319,,Hollis at 59th,,37.8410319110639,-122.28976012143,,,0,,America/Los_Angeles,,,0
+2316833,5336,,Hollis at 53rd,,37.836258976307,-122.287647551184,,,0,,America/Los_Angeles,,,0
+2318577,5346,,Shellmound at Public Market,,37.8409071444458,-122.293196599583,,,0,,America/Los_Angeles,,,0
+2319184,5356,,Stanford at Horton,,37.8379489079671,-122.289834295745,,,0,,America/Los_Angeles,,,0
+2319191,5331,,Christie at 65th,,37.8456573138552,-122.296464324254,,,0,,America/Los_Angeles,,,0
+2319195,5338,,40th at Emery ,,37.830838621438,-122.281533209951,,,0,,America/Los_Angeles,,,0
+2319662,5370,,2100 Powell ,,37.8397668674683,-122.29841956685,,,0,,America/Los_Angeles,,,0
+2318578,5328,,65th at Shellmound,,37.8462472142618,-122.295375976616,,,0,,America/Los_Angeles,,,0
+2319631,5329,,The Towers,,37.8382437099144,-122.300244595625,,,0,,America/Los_Angeles,,,0
+2319193,5322,,Christie at Fed Ex,,37.8398266400404,-122.294947083728,,,0,,America/Los_Angeles,,,0
+2318572,5327,,Hollis at 65th,,37.8466242748716,-122.291517575769,,,0,,America/Los_Angeles,,,0
+2319630,5344,,Powell at Hilton Garden Inn,,37.8377877872787,-122.298384432215,,,0,,America/Los_Angeles,,,0
+2319627,5340,,Shellmound at Bay Street,,37.833988,-122.293293,,,0,,America/Los_Angeles,,,0

@@ -1,0 +1,2 @@
+agency_phone,agency_url,agency_id,agency_name,agency_timezone,agency_lang
+760-966-6500,http://www.gonctd.com,NCTD,North County Transit District,America/Los_Angeles,EN

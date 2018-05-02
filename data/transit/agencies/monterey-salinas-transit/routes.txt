@@ -1,0 +1,58 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+001,1,Asilomar-Monterey,,3,https://www.mst.org/wp-content/media/1.pdf,0D96D4,ffffff
+002,2,Pacific Grove - Carmel,,3,https://www.mst.org/wp-content/media/2.pdf,0D96D4,ffffff
+003,3,CHOMP-Monterey,,3,https://www.mst.org/wp-content/media/3.pdf,0D96D4,ffffff
+004,4,"Carmel - Sand City",,3,https://www.mst.org/wp-content/media/4.pdf,0D96D4,ffffff
+007,7,Del Rey Oaks-Monterey,,3,https://www.mst.org/wp-content/media/7.pdf,0D96D4,ffffff
+008,8,Ryan Ranch -Sand City,,3,https://www.mst.org/wp-content/media/8.pdf,0D96D4,ffffff
+010,10,Monterey - Marina,,3,https://www.mst.org/wp-content/media/10.pdf,0D96D4,ffffff
+011,11,Carmel-Sand City,,3,https://www.mst.org/wp-content/media/11.pdf,0D96D4,ffffff
+012,12,Monterey-The Dunes,,3,https://www.mst.org/wp-content/media/12.pdf,0D96D4,ffffff
+014,14,Monterey - NPS via La Mesa,,3,https://www.mst.org/wp-content/media/14.pdf,0D96D4,ffffff
+016,16,Dunes - Marina,,3,https://www.mst.org/wp-content/media/16.pdf,0D96D4,ffffff
+018,18,Monterey - Dunes via CSUMB,,3,https://www.mst.org/wp-content/media/18.pdf,0D96D4,ffffff
+019,19,CSUMB-Monterey/DMC,,3,https://www.mst.org/wp-content/media/19.pdf,0D96D4,ffffff
+020,20,Monterey - Salinas,,3,https://www.mst.org/wp-content/media/20.pdf,0D96D4,ffffff
+021,21,Pebble Beach-Salinas Express,,3,https://www.mst.org/wp-content/media/21.pdf,0D96D4,ffffff
+022,22,Big Sur,,3,https://www.mst.org/wp-content/media/22.pdf,0D96D4,ffffff
+023,23,Salinas - King City,,3,https://www.mst.org/wp-content/media/23.pdf,0D96D4,ffffff
+024,24,Carmel Valley Grapevine Express,,3,https://www.mst.org/wp-content/media/24.pdf,0D96D4,ffffff
+025,25,Salinas - CSUMB,,3,https://www.mst.org/wp-content/media/25.pdf,0D96D4,ffffff
+026,26,CSUMB - East Campus,,3,https://www.mst.org/wp-content/media/26.pdf,0D96D4,ffffff
+027,27,Watsonville - Marina,,3,https://www.mst.org/wp-content/media/27.pdf,0D96D4,ffffff
+028,28,Watsonville  - Salinas via Castroville,,3,https://www.mst.org/wp-content/media/28.pdf,0D96D4,ffffff
+029,29,Watsonville - Salinas via Prunedale,,3,https://www.mst.org/wp-content/media/29.pdf,0D96D4,ffffff
+041,41,Salinas - Alisal - Northridge,,3,https://www.mst.org/wp-content/media/41.pdf,0D96D4,ffffff
+042,42,East Salinas-Westridge,,3,https://www.mst.org/wp-content/media/42.pdf,0D96D4,ffffff
+043,43,South Salinas,,3,https://www.mst.org/wp-content/media/43.pdf,0D96D4,ffffff
+044,44,Northridge via Westridge,,3,https://www.mst.org/wp-content/media/44.pdf,0D96D4,ffffff
+045,45,East Market-Creekbridge,,3,https://www.mst.org/wp-content/media/45.pdf,0D96D4,ffffff
+046,46,Natividad,,3,https://www.mst.org/wp-content/media/46.pdf,0D96D4,ffffff
+047,47,Hartnell East Alisal - West Alisal,,3,https://www.mst.org/wp-content/media/47.pdf,0D96D4,ffffff
+048,48,Salinas - Airport Business Center,,3,https://www.mst.org/wp-content/media/48.pdf,0D96D4,ffffff
+049,49,Santa Rita via Northridge,,3,https://www.mst.org/wp-content/media/49.pdf,0D96D4,ffffff
+055,55,Monterey - San Jose Express,,3,https://www.mst.org/wp-content/media/55.pdf,0D96D4,ffffff
+056,56,Monterey - Salinas via Highway 68,,3,https://www.mst.org/wp-content/media/56.pdf,0D96D4,ffffff
+061,61,Veteran's Shuttle,,3,https://www.mst.org/wp-content/media/61.pdf,0D96D4,ffffff
+067,67,Presidio - Marina,,3,https://www.mst.org/wp-content/media/67.pdf,0D96D4,ffffff
+068,68,Presidio Shuttle,,3,https://www.mst.org/wp-content/media/PRESIDIOSHUTTLE.pdf,0D96D4,ffffff
+069,69,Presidio - Del Monte Center,,3,https://www.mst.org/wp-content/media/69.pdf,0D96D4,ffffff
+070,70,Presidio - La Mesa,,3,https://www.mst.org/wp-content/media/70.pdf,0D96D4,ffffff
+072,72,Presidio - North Salinas Express,,3,https://www.mst.org/wp-content/media/72.pdf,0D96D4,ffffff
+074,74,Presidio-Preston Park-Toro Park Express,,3,https://www.mst.org/wp-content/media/74.pdf,0D96D4,ffffff
+075,75,Presidio-Marshall Park Express,,3,https://www.mst.org/wp-content/media/75.pdf,0D96D4,ffffff
+076,76,Presidio-Stillwell Park Express,,3,https://www.mst.org/wp-content/media/76.pdf,0D96D4,ffffff
+078,78,Presidio-Santa Cruz Express,,3,https://www.mst.org/wp-content/media/78.pdf,0D96D4,ffffff
+082,82,Salinas - Fort Hunter Liggett Express,,3,https://www.mst.org/wp-content/media/82.pdf,0D96D4,ffffff
+084,84,Soledad - Paso Robles,,3,https://www.mst.org/wp-content/media/84.pdf,0D96D4,ffffff
+085,85,Fort Hunter Liggett - PASO/Templeton  Express,,3,https://www.mst.org/wp-content/media/85.pdf,0D96D4,ffffff
+086,86,San Jose - King City,,3,https://www.mst.org/wp-content/media/86.pdf,0D96D4,ffffff
+091,91,Sand City - Del Mesa,,3,https://www.mst.org/wp-content/media/91.pdf,0D96D4,ffffff
+092,92,CHOMP- Del Mesa via Carmel,,3,https://www.mst.org/wp-content/media/92.pdf,0D96D4,ffffff
+093,93,Ryan Ranch-Monterey,,3,https://www.mst.org/wp-content/media/93.pdf,0D96D4,ffffff
+094,94,Carmel Rancho - Sand City,,3,https://www.mst.org/wp-content/media/94.pdf,0D96D4,ffffff
+095,95,Williams Ranch-Northridge,,3,https://www.mst.org/wp-content/media/95.pdf,0D96D4,ffffff
+901,Jazz A,Aquarium/Sand City via Hilby,,3,https://www.mst.org/wp-content/media/JAZZ.pdf,0D96D4,ffffff
+902,Jazz B,Aquarium/Sand City via Broadway,,3,https://www.mst.org/wp-content/media/JAZZ.pdf,0D96D4,ffffff
+903,Jazz C,Aquarium/Sand City EXPRESS,,3,https://www.mst.org/wp-content/media/JAZZ.pdf,0D96D4,ffffff
+950,,MST Trolley,,3,https://www.mst.org/wp-content/media/MONTEREY_TROLLEY.pdf,0D96D4,ffffff

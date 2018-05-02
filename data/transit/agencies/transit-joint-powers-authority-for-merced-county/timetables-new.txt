@@ -1,0 +1,35 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,1195,,20170807,20181231,0,0,0,0,0,1,1,Atwater Loop,Year Round 17-18 (Weekend),,horizontal
+2,1195,,20170807,20181231,1,1,1,1,1,0,0,Atwater Loop,Year Round 17-18 (Monday-Friday),,horizontal
+3,1820,,20170807,20181231,0,0,0,0,0,1,1,Dos Palos Link,Year Round 17-18 (Weekend),,horizontal
+4,1820,,20170807,20181231,1,1,1,1,1,0,0,Dos Palos Link,Year Round 17-18 (Monday-Friday),,horizontal
+5,1204,,20170807,20181231,0,0,0,0,0,1,1,G Street Shuttle,Year Round 17-18 (Weekend),,horizontal
+6,1204,,20170807,20181231,0,0,0,0,1,1,1,G Street Shuttle,Year Round 17-18 (Friday-Sunday),,horizontal
+7,1204,,20170807,20181231,1,1,1,1,1,0,0,G Street Shuttle,Year Round 17-18 (Monday-Friday),,horizontal
+8,1389,,20170807,20181231,1,1,1,1,1,0,0,Gustine Link,Year Round 17-18 (Monday-Friday),,horizontal
+9,1208,,20170807,20181231,0,0,0,0,0,1,1,Livingston Commuter,Year Round 17-18 (Weekend),,horizontal
+10,1208,,20170807,20181231,1,1,1,1,1,0,0,Livingston Commuter,Year Round 17-18 (Monday-Friday),,horizontal
+11,1881,,20170807,20181231,0,0,0,0,0,1,1,Los Banos Commuter,Year Round 17-18 (Weekend),,horizontal
+12,1881,,20170807,20181231,1,1,1,1,1,0,0,Los Banos Commuter,Year Round 17-18 (Monday-Friday),,horizontal
+13,1207,,20170807,20181231,1,1,1,1,1,0,0,Merced,Year Round 17-18 (Monday-Friday),,horizontal
+14,1205,,20170807,20181231,0,0,0,0,0,1,1,Merced South-East,Year Round 17-18 (Weekend),,horizontal
+15,1205,,20170807,20181231,1,1,1,1,1,0,0,Merced South-East,Year Round 17-18 (Monday-Friday),,horizontal
+16,1201,,20170807,20181231,0,0,0,0,0,1,1,Merced West,Year Round 17-18 (Weekend),,horizontal
+17,1201,,20170807,20181231,1,1,1,1,1,0,0,Merced West,Year Round 17-18 (Monday-Friday),,horizontal
+18,1203,,20170807,20181231,0,0,0,0,0,1,1,M Street Shuttle,Year Round 17-18 (Weekend),,horizontal
+19,1203,,20170807,20181231,1,1,1,1,1,0,0,M Street Shuttle,Year Round 17-18 (Monday-Friday),,horizontal
+20,1206,,20170807,20181231,0,0,0,0,0,1,1,North,Year Round 17-18 (Weekend),,horizontal
+21,1206,,20170807,20181231,1,1,1,1,1,0,0,North,Year Round 17-18 (Monday-Friday),,horizontal
+22,1210,,20170807,20181231,0,0,0,0,0,0,1,Planada Commuter,Year Round 17-18 (Sunday only),,horizontal
+23,1210,,20170807,20181231,0,0,0,0,0,1,0,Planada Commuter,Year Round 17-18 (Saturday only),,horizontal
+24,1210,,20170807,20181231,1,1,1,1,1,0,0,Planada Commuter,Year Round 17-18 (Monday-Friday),,horizontal
+25,1202,,20170807,20181231,0,0,0,0,0,1,1,R Street Shuttle,Year Round 17-18 (Weekend),,horizontal
+26,1202,,20170807,20181231,1,1,1,1,1,0,0,R Street Shuttle,Year Round 17-18 (Monday-Friday),,horizontal
+27,1211,,20170807,20181231,0,0,0,0,0,1,1,Turlock Commuter,Year Round 17-18 (Weekend),,horizontal
+28,1211,,20170807,20181231,1,1,1,1,1,0,0,Turlock Commuter,Year Round 17-18 (Monday-Friday),,horizontal
+29,1212,,20170807,20181231,0,0,0,0,0,1,1,Winton Commuter,Year Round 17-18 (Weekend),,horizontal
+30,1212,,20170807,20181231,1,1,1,1,1,0,0,Winton Commuter,Year Round 17-18 (Monday-Friday),,horizontal
+31,4696,,20170807,20181231,0,0,0,0,0,1,1,Winton Commuter North,Year Round 17-18 (Weekend),,horizontal
+32,4696,,20170807,20181231,1,1,1,1,1,0,0,Winton Commuter North,Year Round 17-18 (Monday-Friday),,horizontal
+33,1196,,20170807,20181231,0,0,0,0,0,1,1,Winton Way,Year Round 17-18 (Weekend),,horizontal
+34,1196,,20170807,20181231,1,1,1,1,1,0,0,Winton Way,Year Round 17-18 (Monday-Friday),,horizontal

@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_fare_url
+Porterville,Porterville Transit,http://www.ridept.com,America/Los_Angeles,(559) 791-7800,http://www.ridept.com

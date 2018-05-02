@@ -1,0 +1,106 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,trip_short_name,bikes_allowed,wheelchair_accessible
+Angel Island,72771,WKND-AI-N-01,Angel Island via Pier 41,0,,499ef578-d18e-46b4-978b-f6d0d64fbcf0,,0,0
+Angel Island,72772,WKDY-AI-S-01,Pier 41 via Tiburon,1,,a23b54a1-89c6-4efd-8395-8d877f0a64b5,,0,0
+Angel Island,72771,WKND-AI-S-01,Pier 41 via Tiburon,1,,a23b54a1-89c6-4efd-8395-8d877f0a64b5,,0,0
+Angel Island,72772,WKDY-AI-S-02,Pier 41 via Tiburon,1,,a23b54a1-89c6-4efd-8395-8d877f0a64b5,,0,0
+Angel Island,72771,WKND-AI-S-02,Pier 41 via Tiburon,1,,a23b54a1-89c6-4efd-8395-8d877f0a64b5,,0,0
+Angel Island,72772,WKDY-AI-S-03,Pier 41 via Tiburon,1,,a23b54a1-89c6-4efd-8395-8d877f0a64b5,,0,0
+Angel Island,72771,WKND-AI-S-03,Pier 41 via Tiburon,1,,a23b54a1-89c6-4efd-8395-8d877f0a64b5,,0,0
+Angel Island,72772,WKDY-AI-S-04,Pier 41 via Tiburon,1,,a23b54a1-89c6-4efd-8395-8d877f0a64b5,,0,0
+Angel Island,72771,WKND-AI-S-04,Pier 41 via Tiburon,1,,a23b54a1-89c6-4efd-8395-8d877f0a64b5,,0,0
+Angel Island,72772,WKDY-AI-N-01,Angel Island,0,,dff0f20d-af82-481f-97f4-4b34004a9acf,,0,0
+Angel Island,72772,WKDY-AI-N-02,Angel Island,0,,dff0f20d-af82-481f-97f4-4b34004a9acf,,0,0
+Angel Island,72771,WKND-AI-N-02,Angel Island,0,,dff0f20d-af82-481f-97f4-4b34004a9acf,,0,0
+Angel Island,72772,WKDY-AI-N-03,Angel Island,0,,dff0f20d-af82-481f-97f4-4b34004a9acf,,0,0
+Angel Island,72771,WKND-AI-N-03,Angel Island,0,,dff0f20d-af82-481f-97f4-4b34004a9acf,,0,0
+Tiburon,72771,WKND-TI-N-01,Tiburon via Pier 41,0,,8dca5319-fb37-4cc8-adbe-01d5560f572d,,0,0
+Tiburon,72773,FR-TI-S-01,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72771,WKND-TI-S-01,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72774,MOTH-TI-S-01,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72773,FR-TI-S-02,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72771,WKND-TI-S-02,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72774,MOTH-TI-S-02,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72773,FR-TI-S-03,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72771,WKND-TI-S-03,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72774,MOTH-TI-S-03,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72771,WKND-TI-S-04,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72774,MOTH-TI-S-04,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72773,FR-TI-S-04,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72774,MOTH-TI-S-05,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72773,FR-TI-S-05,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72771,WKND-TI-S-05,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72774,MOTH-TI-S-06,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72773,FR-TI-S-06,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72771,WKND-TI-S-06,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72774,MOTH-TI-S-07,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72773,FR-TI-S-07,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72771,WKND-TI-S-07,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72773,FR-TI-S-08,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72771,WKND-TI-S-08,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72773,FR-TI-S-09,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72771,WKND-TI-S-09,Pier 41,1,,325752b4-1bd1-4f98-afb8-c78e272d575b,,0,0
+Tiburon,72773,FR-TI-N-01,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72774,MOTH-TI-N-01,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72773,FR-TI-N-02,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72771,WKND-TI-N-02,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72774,MOTH-TI-N-02,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72771,WKND-TI-N-03,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72774,MOTH-TI-N-03,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72773,FR-TI-N-03,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72774,MOTH-TI-N-04,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72773,FR-TI-N-04,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72771,WKND-TI-N-04,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72773,FR-TI-N-05,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72774,MOTH-TI-N-05,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72771,WKND-TI-N-05,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72773,FR-TI-N-06,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72774,MOTH-TI-N-06,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72771,WKND-TI-N-06,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72774,MOTH-TI-N-07,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72773,FR-TI-N-07,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72771,WKND-TI-N-07,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72773,FR-TI-N-08,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72771,WKND-TI-N-08,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72773,FR-TI-N-09,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Tiburon,72771,WKND-TI-N-09,Tiburon via Sausalito,0,,682cf343-d945-49d5-8bf5-9ebadf4a9196,,0,0
+Sausalito,72773,FR-SA-S-01,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72771,WKND-SA-S-01,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72774,MOTH-SA-S-01,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72773,FR-SA-S-02,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72771,WKND-SA-S-02,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72774,MOTH-SA-S-02,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72773,FR-SA-S-03,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72774,MOTH-SA-S-03,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72771,WKND-SA-S-03,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72774,MOTH-SA-S-04,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72773,FR-SA-S-04,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72771,WKND-SA-S-04,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72771,WKND-SA-S-05,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72774,MOTH-SA-S-05,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72773,FR-SA-S-05,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72771,WKND-SA-S-06,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72774,MOTH-SA-S-06,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72773,FR-SA-S-06,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72771,WKND-SA-S-07,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72773,FR-SA-S-07,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72771,WKND-SA-S-08,Pier 41,0,,2281478a-56f5-4bb1-8e8f-adf4ade07669,,0,0
+Sausalito,72773,FR-SA-N-01,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72771,WKND-SA-N-01,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72774,MOTH-SA-N-01,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72773,FR-SA-N-02,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72771,WKND-SA-N-02,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72774,MOTH-SA-N-02,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72774,MOTH-SA-N-03,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72773,FR-SA-N-03,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72771,WKND-SA-N-03,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72774,MOTH-SA-N-04,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72773,FR-SA-N-04,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72771,WKND-SA-N-04,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72773,FR-SA-N-05,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72774,MOTH-SA-N-05,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72771,WKND-SA-N-05,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72773,FR-SA-N-06,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72774,MOTH-SA-N-06,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72771,WKND-SA-N-06,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72773,FR-SA-N-07,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0
+Sausalito,72771,WKND-SA-N-07,Sausalito,1,,c39b4994-b2c7-4af0-b000-9bf28d6a3427,,0,0

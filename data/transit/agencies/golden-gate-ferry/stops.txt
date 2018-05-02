@@ -1,0 +1,11 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id,stop_desc,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+"12030042","12030042",Alameda Main St,37.790667,-122.294058,,"","","0","","","1"
+"12030044","12030044",Alameda Main Street,37.790667,-122.294058,,"","","0","","","1"
+"12048536","12048536",Harbor Bay Ferry Terminal,37.736528,-122.256966,,"","","0","","","1"
+"1222694","1222694",Mare Island Terminal,38.1012069,-122.2694045,,"Vallejo ferry service","","0","","","1"
+"12030043","12030043",Oakland Terminal,37.795032,-122.279777,,"","","0","","","1"
+"12048538","12048538",Pier 41,37.809594,-122.412272,,"","","0","","","1"
+"890001","890001",San Francisco Ferry Building,37.795924,-122.392066,,"","","0","","","1"
+"12048537","12048537",San Francisco Ferry Building [Arrive],37.795924,-122.392066,,"","","0","","","1"
+"12030041","12030041",South San Francisco,37.662676,-122.377245,,"","","0","","","1"
+"12149044","12149044",Vallejo Ferry Terminal,38.100149,-122.262586,,"","","0","","","1"

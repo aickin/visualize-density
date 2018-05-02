@@ -1,0 +1,14 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+1,,1,Glendale Transportation Center to Stocker,3,E0AA0F,
+2,,2,Glendale Transportation Center to Stocker,3,D81E05,
+3,,3,Glendale Galleria to Jet Propulsion Laboratory,3,0038A8,FFFFFF
+31,,31,Glendale Galleria to La Crescenta,3,0038A8,FFFFFF
+32,,32,Glendale Galleria to Glendale Community College,3,0038A8,FFFFFF
+33,,33,Montrose to Jet Propulsion Laboratory,3,00B760,FFFFFF
+34,,34,Montrose to La Cañada High School,3,00B760,FFFFFF
+4,,4,Roosevelt Middle School to Glendale Galleria,3,560C70,FFFFFF
+5,,5,Pacific Community Center to Hoover High School,3,007A3D,FFFFFF
+6,,6,Pacific Community Center to Glendale High School,3,998714,
+7,,7,Riverside Rancho to Glendale Community College,3,7A2638,FFFFFF
+11,,11,Glendale Transportation Center to Downtown Glendale,3,51B5E0,
+12,,12,Glendale Transportation Center to Burbank Regional Intermodal Transportation Center,3,9E91C6,

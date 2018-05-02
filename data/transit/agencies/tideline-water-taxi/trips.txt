@@ -1,0 +1,11 @@
+route_id,service_id,trip_id,trip_short_name,trip_headsign,direction_id,block_id,shape_id,bikes_allowed,wheelchair_accessible,trip_type
+5760,c_3015_b_2537_d_31,t_117124_b_2537_tn_0,,Berkeley,,,p_7488,,,
+5760,c_3015_b_2537_d_31,t_117123_b_2537_tn_0,,San Fransisco,,,p_7489,,,
+5760,c_3015_b_2537_d_31,t_117122_b_2537_tn_0,,Berkeley,,,p_7488,,,
+5760,c_3015_b_2537_d_31,t_117121_b_2537_tn_0,,San Fransisco,,,p_7489,,,
+5760,c_3015_b_2537_d_31,t_117120_b_2537_tn_0,,Berkeley,,,p_7488,,,
+5760,c_3015_b_2537_d_31,t_117119_b_2537_tn_0,,San Fransisco,,,p_7489,,,
+5760,c_3015_b_2537_d_31,t_117118_b_2537_tn_0,,Berkeley,,,p_7488,,,
+5760,c_3015_b_2537_d_31,t_117117_b_2537_tn_0,,San Fransisco,,,p_7489,,,
+5760,c_3015_b_2537_d_31,t_117116_b_2537_tn_0,,Berkeley,,,p_7488,,,
+5760,c_3015_b_2537_d_31,t_117115_b_2537_tn_0,,San Fransisco,,,p_7489,,,

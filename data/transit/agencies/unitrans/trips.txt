@@ -1,0 +1,2408 @@
+block_id,route_id,direction_id,trip_headsign,shape_id,service_id,trip_id
+,G,0,to/from Memorial Union,30473,38,750635
+,G,0,to/from Memorial Union,30473,38,750634
+,G,0,to/from Memorial Union,30473,38,750637
+,G,0,to/from Memorial Union,30473,38,750636
+,G,0,to/from Memorial Union,30473,38,750631
+,G,0,to/from Memorial Union,30473,38,750630
+,G,0,to/from Memorial Union,30473,38,750633
+,G,0,to/from Memorial Union,30473,38,750632
+,G,0,to/from Memorial Union,30473,38,750639
+,G,0,to/from Memorial Union,30473,38,750638
+,D,0,to/from Silo,30465,38,750385
+,D,0,to/from Silo,30465,38,750384
+,D,0,to/from Silo,30465,38,750387
+,D,0,to/from Silo,30465,38,750386
+,D,0,to/from Silo,30465,38,750383
+,D,0,to/from Silo,30465,38,750382
+,D,0,to/from Silo,30465,38,750389
+,D,0,to/from Silo,30465,38,750388
+,L,0,to/from Silo,30820,10_merged_758627,757890
+,L,0,to/from Silo,30820,10_merged_758627,757891
+,D,0,to/from Silo,30801,10_merged_758627,757367
+,M,0,to/from Memorial Union,30822,11_merged_758626,757933
+,M,0,to/from Memorial Union,30822,11_merged_758626,757932
+,M,0,to/from Memorial Union,30822,11_merged_758626,757931
+,M,0,to/from Memorial Union,30822,11_merged_758626,757930
+,M,0,to/from Memorial Union,30822,11_merged_758626,757937
+,M,0,to/from Memorial Union,30822,11_merged_758626,757936
+,M,0,to/from Memorial Union,30822,11_merged_758626,757935
+,M,0,to/from Memorial Union,30822,11_merged_758626,757934
+,M,0,to/from Memorial Union,30822,11_merged_758626,757939
+,M,0,to/from Memorial Union,30822,11_merged_758626,757938
+,K,0,to/from Memorial Union,30480,38,750750
+,L,0,to/from Silo,30820,10_merged_758627,757892
+,A,1,To SILO,30458,38,750228
+,A,1,To SILO,30458,38,750229
+,L,0,to/from Silo,30820,10_merged_758627,757893
+,V,0,to West Village,30836,12_merged_758628,758163
+,V,0,to West Village,30836,12_merged_758628,758165
+,V,0,to West Village,30836,12_merged_758628,758164
+,V,0,to West Village,30836,12_merged_758628,758167
+,V,0,to West Village,30836,12_merged_758628,758166
+,V,0,to West Village,30836,12_merged_758628,758169
+,V,0,to West Village,30836,12_merged_758628,758168
+,A,1,To SILO,30458,38,750226
+,A,1,To SILO,30458,38,750227
+,W,0,to/from Silo,30841,10_merged_758627,758488
+,W,0,to/from Silo,30841,10_merged_758627,758489
+,P,0,Regular to/from Memorial Union,30827,12_merged_758628,758019
+,P,0,Regular to/from Memorial Union,30827,12_merged_758628,758018
+,P,0,Regular to/from Memorial Union,30827,12_merged_758628,758015
+,P,0,Regular to/from Memorial Union,30827,12_merged_758628,758014
+,P,0,Regular to/from Memorial Union,30827,12_merged_758628,758017
+,P,0,Regular to/from Memorial Union,30827,12_merged_758628,758016
+,P,0,Regular to/from Memorial Union,30827,12_merged_758628,758011
+,P,0,,30826,12_merged_758628,758010
+,P,0,Regular to/from Memorial Union,30827,12_merged_758628,758013
+,P,0,Regular to/from Memorial Union,30827,12_merged_758628,758012
+,V,0,to West Village,30834,10_merged_758627,758319
+,D,0,to/from Silo,30801,10_merged_758627,757380
+,D,0,to/from Silo,30801,10_merged_758627,757381
+,E,0,to/from Memorial Union,30805,11_merged_758626,757406
+,G,0,to/from Memorial Union,30810,10_merged_758627,757638
+,G,0,to/from Memorial Union,30810,10_merged_758627,757639
+,G,0,to/from Memorial Union,30810,10_merged_758627,757630
+,G,0,to/from Memorial Union,30810,10_merged_758627,757631
+,G,0,to/from Memorial Union,30810,10_merged_758627,757632
+,G,0,to/from Memorial Union,30810,10_merged_758627,757633
+,G,0,to/from Memorial Union,30810,10_merged_758627,757634
+,G,0,to/from Memorial Union,30810,10_merged_758627,757635
+,G,0,to/from Memorial Union,30810,10_merged_758627,757636
+,G,0,to/from Memorial Union,30810,10_merged_758627,757637
+,E,0,to/from Memorial Union,30805,11_merged_758626,757410
+,E,0,to/from Memorial Union,30805,11_merged_758626,757411
+,E,0,to/from Memorial Union,30805,11_merged_758626,757412
+,E,0,to/from Memorial Union,30805,11_merged_758626,757413
+,E,0,to/from Memorial Union,30805,11_merged_758626,757414
+,E,0,to/from Memorial Union,30805,11_merged_758626,757415
+,E,0,to/from Memorial Union,30805,11_merged_758626,757416
+,E,0,to/from Memorial Union,30805,11_merged_758626,757417
+,E,0,to/from Memorial Union,30805,11_merged_758626,757418
+,E,0,to/from Memorial Union,30805,11_merged_758626,757419
+,E,0,to/from Memorial Union,30805,10_merged_758627,757454
+,E,0,to/from Memorial Union,30805,10_merged_758627,757455
+,E,0,to/from Memorial Union,30805,10_merged_758627,757456
+,J,0,to/from Silo,30812,11_merged_758626,757704
+,J,0,to/from Silo,30812,11_merged_758626,757705
+,J,0,to/from Silo,30812,11_merged_758626,757706
+,J,0,to/from Silo,30812,11_merged_758626,757707
+,J,0,to/from Silo,30812,11_merged_758626,757700
+,J,0,to/from Silo,30812,11_merged_758626,757701
+,J,0,to/from Silo,30812,11_merged_758626,757702
+,J,0,to/from Silo,30812,11_merged_758626,757703
+,E,0,to/from Memorial Union,30805,10_merged_758627,757450
+,J,0,to/from Silo,30812,11_merged_758626,757708
+,J,0,to/from Silo,30812,11_merged_758626,757709
+,D,0,to/from Silo,30801,11_merged_758626,757323
+,F,0,to/from Memorial Union,30470,10_merged_758624,750558
+,F,0,to/from Memorial Union,30470,10_merged_758624,750559
+,E,0,to/from Memorial Union,30805,10_merged_758627,757452
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757020
+,F,0,to/from Memorial Union,30470,10_merged_758624,750550
+,F,0,to/from Memorial Union,30470,10_merged_758624,750551
+,F,0,to/from Memorial Union,30470,10_merged_758624,750552
+,F,0,to/from Memorial Union,30470,10_merged_758624,750553
+,F,0,to/from Memorial Union,30470,10_merged_758624,750554
+,F,0,to/from Memorial Union,30470,10_merged_758624,750555
+,F,0,to/from Memorial Union,30470,10_merged_758624,750556
+,F,0,to/from Memorial Union,30470,10_merged_758624,750557
+,P,0,Regular to/from Memorial Union,30491,12_merged_758625,750958
+,P,0,Regular to/from Memorial Union,30491,12_merged_758625,750959
+,P,0,Regular to/from Memorial Union,30491,12_merged_758625,750954
+,P,0,Regular to/from Memorial Union,30491,12_merged_758625,750955
+,P,0,Regular to/from Memorial Union,30491,12_merged_758625,750956
+,P,0,Regular to/from Memorial Union,30491,12_merged_758625,750957
+,P,0,Regular to/from Memorial Union,30491,12_merged_758625,750952
+,P,0,,30489,12_merged_758625,750953
+,A,1,To SILO,30797,11_merged_758626,757028
+,W,0,to/from Silo,30841,10_merged_758627,758491
+,Z,0,,30506,38,751445
+,W,0,to/from Silo,30841,10_merged_758627,758493
+,W,0,to/from Silo,30841,10_merged_758627,758492
+,W,0,to/from Silo,30841,10_merged_758627,758495
+,W,0,to/from Silo,30841,10_merged_758627,758494
+,A,0,To El Cemonte/Glide,30455,38,750193
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751112
+,W,0,to/from Silo,30502,38,751395
+,W,0,,30505,38,751394
+,W,0,to/from Silo,30502,38,751391
+,W,0,to/from Silo,30502,38,751390
+,W,0,to/from Silo,30502,38,751393
+,W,0,to/from Silo,30502,38,751392
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751110
+,V,1,to Memorial Union,30500,12_merged_758625,751159
+,V,1,to Memorial Union,30500,12_merged_758625,751158
+,V,0,to West Village,30498,12_merged_758625,751157
+,V,0,to West Village,30498,12_merged_758625,751156
+,V,0,to West Village,30498,12_merged_758625,751155
+,V,0,to West Village,30498,12_merged_758625,751154
+,V,0,to West Village,30498,12_merged_758625,751153
+,V,0,to West Village,30498,12_merged_758625,751152
+,V,0,to West Village,30498,12_merged_758625,751151
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751116
+,A,0,To El Cemonte/Glide,30455,38,750194
+,Z,0,,30506,38,751443
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751114
+,L,0,to/from Silo,30482,38,750828
+,L,0,to/from Silo,30482,38,750829
+,Z,0,,30846,11_merged_758626,758595
+,L,0,to/from Silo,30482,38,750820
+,L,0,to/from Silo,30482,38,750821
+,L,0,to/from Silo,30482,38,750822
+,L,0,to/from Silo,30482,38,750823
+,L,0,to/from Silo,30482,38,750824
+,E,0,to/from Memorial Union,30467,11_merged_758623,750462
+,L,0,to/from Silo,30482,38,750826
+,L,0,to/from Silo,30482,38,750827
+,A,0,To El Cemonte/Glide,30455,38,750195
+,G,0,to/from Memorial Union,30473,12_merged_758625,750603
+,G,0,to/from Memorial Union,30473,12_merged_758625,750604
+,G,0,to/from Memorial Union,30473,12_merged_758625,750605
+,G,0,to/from Memorial Union,30473,12_merged_758625,750606
+,G,0,to/from Memorial Union,30473,12_merged_758625,750607
+,G,0,to/from Memorial Union,30473,12_merged_758625,750608
+,G,0,to/from Memorial Union,30473,12_merged_758625,750609
+,V,0,to West Village,30834,10_merged_758627,758307
+,Z,0,,30506,38,751448
+,K,0,to/from Memorial Union,30815,10_merged_758627,757839
+,Z,0,,30846,11_merged_758626,758592
+,V,1,to Silo,30837,10_merged_758627,758385
+,V,1,to Silo,30837,10_merged_758627,758384
+,V,1,to Silo,30837,10_merged_758627,758386
+,V,1,to Silo,30837,10_merged_758627,758381
+,V,1,to Silo,30837,10_merged_758627,758380
+,V,1,to Silo,30837,10_merged_758627,758383
+,V,1,to Silo,30837,10_merged_758627,758382
+,X,0,,30844,12_merged_758628,758540
+,K,0,to/from Memorial Union,30480,12_merged_758625,750734
+,K,0,to/from Memorial Union,30480,12_merged_758625,750735
+,K,0,to/from Memorial Union,30480,12_merged_758625,750736
+,K,0,to/from Memorial Union,30480,12_merged_758625,750737
+,K,0,to/from Memorial Union,30480,12_merged_758625,750730
+,K,0,to/from Memorial Union,30480,12_merged_758625,750731
+,K,0,to/from Memorial Union,30480,12_merged_758625,750732
+,K,0,to/from Memorial Union,30480,12_merged_758625,750733
+,K,0,to/from Memorial Union,30480,12_merged_758625,750738
+,K,0,to/from Memorial Union,30480,38,750739
+,A,0,To El Cemonte/Glide,30455,38,750197
+,K,0,to/from Memorial Union,30815,10_merged_758627,757836
+,K,0,to/from Memorial Union,30815,10_merged_758627,757837
+,L,0,to/from Silo,30820,10_merged_758627,757895
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758028
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758029
+,P,0,Regular to/from Memorial Union,30827,12_merged_758628,758020
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758021
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758022
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758023
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758024
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758025
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758026
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758027
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751023
+,P,0,Regular to/from Memorial Union,30490,10_merged_758624,751022
+,K,0,to/from Memorial Union,30815,11_merged_758626,757798
+,B,0,to/from Memorial Union,30799,11_merged_758626,757139
+,B,0,to/from Memorial Union,30799,11_merged_758626,757138
+,B,0,to/from Memorial Union,30799,11_merged_758626,757137
+,B,0,to/from Memorial Union,30799,11_merged_758626,757136
+,B,0,to/from Memorial Union,30799,11_merged_758626,757135
+,B,0,to/from Memorial Union,30799,11_merged_758626,757134
+,F,0,to/from Memorial Union,30470,38,750512
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751028
+,G,0,to/from Memorial Union,30810,10_merged_758627,757627
+,G,0,to/from Memorial Union,30810,11_merged_758626,757626
+,G,0,to/from Memorial Union,30810,11_merged_758626,757625
+,G,0,to/from Memorial Union,30810,11_merged_758626,757624
+,G,0,to/from Memorial Union,30810,11_merged_758626,757623
+,G,0,to/from Memorial Union,30810,11_merged_758626,757622
+,G,0,to/from Memorial Union,30810,11_merged_758626,757621
+,G,0,to/from Memorial Union,30810,11_merged_758626,757620
+,W,0,to/from Silo,30502,38,751363
+,G,0,to/from Memorial Union,30810,10_merged_758627,757629
+,G,0,to/from Memorial Union,30810,10_merged_758627,757628
+,L,0,to/from Silo,30820,10_merged_758627,757897
+,V,1,to Silo,30837,11_merged_758626,758248
+,E,0,to/from Memorial Union,30805,11_merged_758626,757409
+,E,0,to/from Memorial Union,30805,11_merged_758626,757408
+,E,0,to/from Memorial Union,30805,11_merged_758626,757407
+,W,0,to/from Silo,30502,38,751368
+,E,0,to/from Memorial Union,30805,11_merged_758626,757405
+,E,0,to/from Memorial Union,30805,11_merged_758626,757404
+,E,0,to/from Memorial Union,30805,11_merged_758626,757403
+,E,0,to/from Memorial Union,30805,11_merged_758626,757402
+,E,0,to/from Memorial Union,30805,11_merged_758626,757401
+,W,0,to/from Silo,30502,38,751369
+,J,0,to/from Silo,30812,11_merged_758626,757713
+,J,0,to/from Silo,30812,11_merged_758626,757712
+,J,0,to/from Silo,30812,11_merged_758626,757711
+,J,0,to/from Silo,30812,11_merged_758626,757710
+,C,0,to/from Silo,30800,10_merged_758627,757241
+,C,0,to/from Silo,30800,10_merged_758627,757240
+,J,0,to/from Silo,30812,11_merged_758626,757715
+,C,0,to/from Silo,30800,10_merged_758627,757242
+,J,0,to/from Silo,30812,11_merged_758626,757719
+,J,0,to/from Silo,30812,11_merged_758626,757718
+,W,0,to/from Silo,30841,10_merged_758627,758505
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751018
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751019
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751016
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751017
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751014
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751015
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751012
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751013
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751010
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751011
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751117
+,V,1,to Silo,30837,11_merged_758626,758246
+,V,1,to Silo,30837,11_merged_758626,758247
+,W,0,to/from Silo,30841,10_merged_758627,758509
+,W,0,to/from Silo,30841,10_merged_758627,758508
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751128
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751129
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751122
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751123
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751120
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751121
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751126
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751127
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751124
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751125
+,L,0,Picnic Day Only,30483,11_merged_758623,750837
+,L,0,Picnic Day Only,30483,11_merged_758623,750836
+,L,0,Picnic Day Only,30483,11_merged_758623,750835
+,L,0,Picnic Day Only,30483,11_merged_758623,750834
+,L,0,Picnic Day Only,30483,11_merged_758623,750833
+,L,0,Picnic Day Only,30483,11_merged_758623,750832
+,L,0,,30484,38,750831
+,L,0,to/from Silo,30482,38,750830
+,L,0,Picnic Day Only,30483,11_merged_758623,750839
+,L,0,Picnic Day Only,30483,11_merged_758623,750838
+,F,0,to/from Memorial Union,30470,11_merged_758623,750547
+,F,0,to/from Memorial Union,30470,11_merged_758623,750546
+,F,0,to/from Memorial Union,30470,11_merged_758623,750545
+,F,0,to/from Memorial Union,30470,11_merged_758623,750544
+,F,0,to/from Memorial Union,30470,11_merged_758623,750543
+,F,0,to/from Memorial Union,30470,11_merged_758623,750542
+,F,0,to/from Memorial Union,30470,11_merged_758623,750541
+,F,0,to/from Memorial Union,30470,11_merged_758623,750540
+,Z,0,,30846,10_merged_758627,758616
+,F,0,to/from Memorial Union,30470,11_merged_758623,750549
+,F,0,to/from Memorial Union,30470,11_merged_758623,750548
+,G,0,to/from Memorial Union,30473,38,750619
+,G,0,to/from Memorial Union,30473,38,750618
+,G,0,to/from Memorial Union,30473,38,750617
+,G,0,to/from Memorial Union,30473,38,750616
+,G,0,to/from Memorial Union,30473,38,750615
+,G,0,to/from Memorial Union,30473,38,750614
+,G,0,to/from Memorial Union,30473,38,750613
+,G,0,to/from Memorial Union,30473,12_merged_758625,750612
+,G,0,to/from Memorial Union,30473,12_merged_758625,750611
+,G,0,to/from Memorial Union,30473,12_merged_758625,750610
+,V,0,to West Village,30498,11_merged_758623,751236
+,V,0,to West Village,30498,11_merged_758623,751237
+,V,0,to West Village,30498,11_merged_758623,751234
+,V,0,to West Village,30498,11_merged_758623,751235
+,V,1,to Silo,30499,38,751232
+,V,1,to Silo,30499,38,751233
+,V,1,to Silo,30499,38,751230
+,V,1,to Silo,30499,38,751231
+,Z,0,,30846,10_merged_758627,758615
+,V,0,to West Village,30498,11_merged_758623,751238
+,V,0,to West Village,30498,11_merged_758623,751239
+,X,0,,30844,12_merged_758628,758538
+,X,0,,30844,12_merged_758628,758539
+,X,0,,30844,12_merged_758628,758532
+,X,0,,30844,12_merged_758628,758533
+,X,0,,30843,12_merged_758628,758530
+,X,0,,30844,12_merged_758628,758531
+,X,0,,30844,12_merged_758628,758536
+,X,0,,30844,12_merged_758628,758537
+,X,0,,30844,12_merged_758628,758534
+,X,0,,30844,12_merged_758628,758535
+,J,0,to/from Silo,30476,38,750723
+,J,0,to/from Silo,30476,38,750722
+,J,0,to/from Silo,30476,38,750721
+,J,0,to/from Silo,30476,38,750720
+,J,0,to/from Silo,30476,38,750727
+,J,0,to/from Silo,30476,38,750726
+,J,0,to/from Silo,30476,38,750725
+,J,0,to/from Silo,30476,38,750724
+,Z,0,,30846,10_merged_758627,758614
+,K,0,to/from Memorial Union,30480,12_merged_758625,750729
+,J,0,to/from Silo,30474,38,750728
+,Z,0,,30846,10_merged_758627,758613
+,W,0,to/from Silo,30841,11_merged_758626,758446
+,W,0,to/from Silo,30841,11_merged_758626,758447
+,W,0,to/from Silo,30841,11_merged_758626,758444
+,W,0,to/from Silo,30841,11_merged_758626,758445
+,W,0,to/from Silo,30841,11_merged_758626,758442
+,W,0,to/from Silo,30841,11_merged_758626,758443
+,W,0,to/from Silo,30841,11_merged_758626,758440
+,W,0,to/from Silo,30841,11_merged_758626,758441
+,E,0,to/from Memorial Union,30467,38,750458
+,W,0,to/from Silo,30841,11_merged_758626,758448
+,W,0,to/from Silo,30841,11_merged_758626,758449
+,Z,0,,30846,10_merged_758627,758612
+,Z,0,,30846,10_merged_758627,758611
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757015
+,T,1,,30833,10_merged_758627,758143
+,T,0,,30832,10_merged_758627,758142
+,T,1,,30833,11_merged_758626,758141
+,T,0,,30832,11_merged_758626,758140
+,D,0,to/from Silo,30801,10_merged_758627,757378
+,Z,0,,30846,10_merged_758627,758610
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758037
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758036
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758035
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758034
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758033
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758032
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758031
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758030
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758039
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758038
+,D,0,to/from Silo,30801,10_merged_758627,757374
+,F,0,to/from Memorial Union,30808,11_merged_758626,757502
+,F,0,to/from Memorial Union,30808,10_merged_758627,757503
+,F,0,to/from Memorial Union,30808,10_merged_758627,757508
+,F,0,to/from Memorial Union,30808,10_merged_758627,757509
+,G,0,to/from Memorial Union,30810,10_merged_758627,757652
+,G,0,to/from Memorial Union,30810,10_merged_758627,757653
+,G,0,to/from Memorial Union,30810,10_merged_758627,757650
+,G,0,to/from Memorial Union,30810,10_merged_758627,757651
+,G,0,to/from Memorial Union,30810,10_merged_758627,757656
+,G,0,to/from Memorial Union,30810,10_merged_758627,757657
+,G,0,to/from Memorial Union,30810,10_merged_758627,757654
+,G,0,to/from Memorial Union,30810,10_merged_758627,757655
+,G,0,to/from Memorial Union,30810,10_merged_758627,757658
+,G,0,to/from Memorial Union,30810,10_merged_758627,757659
+,A,1,To SILO,30797,10_merged_758627,757094
+,A,1,To SILO,30797,10_merged_758627,757095
+,A,1,To SILO,30797,10_merged_758627,757096
+,A,1,To SILO,30797,10_merged_758627,757097
+,A,1,To SILO,30797,10_merged_758627,757090
+,A,1,To SILO,30797,10_merged_758627,757091
+,A,1,To SILO,30797,10_merged_758627,757092
+,A,1,To SILO,30797,10_merged_758627,757093
+,A,1,To SILO,30797,10_merged_758627,757098
+,A,1,To SILO,30797,10_merged_758627,757099
+,Z,0,,30846,10_merged_758627,758619
+,F,0,to/from Memorial Union,30808,11_merged_758626,757479
+,F,0,to/from Memorial Union,30808,11_merged_758626,757476
+,F,0,to/from Memorial Union,30808,11_merged_758626,757477
+,D,0,to/from Silo,30801,10_merged_758627,757335
+,Z,0,,30846,10_merged_758627,758618
+,F,0,to/from Memorial Union,30808,10_merged_758627,757506
+,F,0,to/from Memorial Union,30808,10_merged_758627,757507
+,F,0,to/from Memorial Union,30808,10_merged_758627,757504
+,F,0,to/from Memorial Union,30808,10_merged_758627,757505
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751009
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751008
+,F,0,to/from Memorial Union,30808,11_merged_758626,757500
+,F,0,to/from Memorial Union,30808,11_merged_758626,757501
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751005
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751004
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751007
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751006
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751001
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751000
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751003
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,751002
+,Q,0,Regular to/from Memorial Union,30493,10_merged_758624,751113
+,P,0,Regular to/from Memorial Union,30491,38,750990
+,P,0,Regular to/from Memorial Union,30490,38,750991
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,750992
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,750993
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,750994
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,750995
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,750996
+,E,0,to/from Memorial Union,30467,38,750449
+,E,0,to/from Memorial Union,30467,38,750446
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,750999
+,E,0,to/from Memorial Union,30467,38,750444
+,E,0,to/from Memorial Union,30467,38,750445
+,E,0,to/from Memorial Union,30467,38,750442
+,E,0,to/from Memorial Union,30467,38,750443
+,E,0,to/from Memorial Union,30467,38,750440
+,E,0,to/from Memorial Union,30467,38,750441
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751131
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751130
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751111
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751132
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751135
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751134
+,L,0,Picnic Day Only,30483,11_merged_758623,750842
+,L,0,Picnic Day Only,30483,11_merged_758623,750843
+,L,0,Picnic Day Only,30483,11_merged_758623,750840
+,L,0,Picnic Day Only,30483,11_merged_758623,750841
+,L,0,Picnic Day Only,30483,10_merged_758624,750846
+,L,0,Picnic Day Only,30483,10_merged_758624,750847
+,L,0,Picnic Day Only,30483,11_merged_758623,750844
+,L,0,Picnic Day Only,30483,11_merged_758623,750845
+,L,0,Picnic Day Only,30483,10_merged_758624,750848
+,L,0,Picnic Day Only,30483,10_merged_758624,750849
+,F,0,to/from Memorial Union,30470,38,750532
+,F,0,to/from Memorial Union,30470,38,750533
+,F,0,to/from Memorial Union,30470,38,750530
+,F,0,to/from Memorial Union,30470,38,750531
+,F,0,to/from Memorial Union,30470,11_merged_758623,750536
+,F,0,to/from Memorial Union,30470,11_merged_758623,750537
+,F,0,to/from Memorial Union,30470,38,750534
+,F,0,to/from Memorial Union,30470,11_merged_758623,750535
+,F,0,to/from Memorial Union,30470,11_merged_758623,750538
+,F,0,to/from Memorial Union,30470,11_merged_758623,750539
+,A,0,To El Cemonte/Glide,30455,38,750198
+,A,0,To El Cemonte/Glide,30455,38,750199
+,G,0,to/from Memorial Union,30473,11_merged_758623,750668
+,G,0,to/from Memorial Union,30473,10_merged_758624,750669
+,L,0,to/from Silo,30820,10_merged_758627,757898
+,L,0,to/from Silo,30820,10_merged_758627,757899
+,G,0,to/from Memorial Union,30473,11_merged_758623,750662
+,G,0,to/from Memorial Union,30473,11_merged_758623,750663
+,G,0,to/from Memorial Union,30473,11_merged_758623,750660
+,G,0,to/from Memorial Union,30473,11_merged_758623,750661
+,G,0,to/from Memorial Union,30473,11_merged_758623,750666
+,G,0,to/from Memorial Union,30473,11_merged_758623,750667
+,G,0,to/from Memorial Union,30473,11_merged_758623,750664
+,G,0,to/from Memorial Union,30473,11_merged_758623,750665
+,V,1,to Silo,30499,38,751225
+,V,1,to Silo,30499,38,751224
+,V,1,to Silo,30499,38,751227
+,V,1,to Silo,30499,38,751226
+,V,1,to Silo,30499,38,751221
+,V,1,to Silo,30499,38,751220
+,V,1,to Silo,30499,38,751223
+,V,1,to Silo,30499,38,751222
+,V,1,to Silo,30499,38,751229
+,V,1,to Silo,30499,38,751228
+,W,0,,30842,10_merged_758627,758529
+,W,0,to/from Silo,30841,10_merged_758627,758528
+,W,0,to/from Silo,30841,10_merged_758627,758521
+,W,0,to/from Silo,30841,10_merged_758627,758520
+,W,0,to/from Silo,30841,10_merged_758627,758523
+,W,0,to/from Silo,30841,10_merged_758627,758522
+,W,0,to/from Silo,30841,10_merged_758627,758525
+,W,0,to/from Silo,30841,10_merged_758627,758524
+,W,0,to/from Silo,30841,10_merged_758627,758527
+,W,0,to/from Silo,30841,10_merged_758627,758526
+,D,0,to/from Silo,30801,11_merged_758626,757284
+,B,0,to/from Memorial Union,30460,11_merged_758623,750288
+,B,0,to/from Memorial Union,30460,11_merged_758623,750289
+,B,0,to/from Memorial Union,30460,38,750284
+,B,0,to/from Memorial Union,30460,38,750285
+,B,0,to/from Memorial Union,30460,38,750286
+,B,0,to/from Memorial Union,30460,11_merged_758623,750287
+,B,0,to/from Memorial Union,30460,38,750280
+,B,0,to/from Memorial Union,30460,38,750281
+,B,0,to/from Memorial Union,30460,38,750282
+,B,0,to/from Memorial Union,30460,38,750283
+,B,0,to/from Memorial Union,30460,38,750266
+,B,0,to/from Memorial Union,30460,38,750267
+,B,0,to/from Memorial Union,30460,38,750264
+,B,0,to/from Memorial Union,30460,38,750265
+,B,0,to/from Memorial Union,30460,38,750262
+,B,0,to/from Memorial Union,30460,38,750263
+,B,0,to/from Memorial Union,30460,38,750260
+,B,0,to/from Memorial Union,30460,38,750261
+,B,0,to/from Memorial Union,30460,38,750268
+,B,0,to/from Memorial Union,30460,38,750269
+,W,0,to/from Silo,30841,11_merged_758626,758455
+,W,0,to/from Silo,30841,11_merged_758626,758454
+,W,0,to/from Silo,30841,11_merged_758626,758457
+,W,0,to/from Silo,30841,11_merged_758626,758456
+,W,0,to/from Silo,30841,11_merged_758626,758451
+,W,0,to/from Silo,30841,11_merged_758626,758450
+,W,0,to/from Silo,30841,11_merged_758626,758453
+,W,0,to/from Silo,30841,11_merged_758626,758452
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,750997
+,W,0,to/from Silo,30841,11_merged_758626,758459
+,W,0,to/from Silo,30841,11_merged_758626,758458
+,P,0,Regular to/from Memorial Union,30491,11_merged_758623,750998
+,E,0,to/from Memorial Union,30467,38,750447
+,E,0,to/from Memorial Union,30467,38,750459
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757026
+,L,0,to/from Silo,30820,11_merged_758626,757876
+,L,0,to/from Silo,30820,11_merged_758626,757877
+,L,0,to/from Silo,30820,11_merged_758626,757874
+,L,0,to/from Silo,30820,11_merged_758626,757875
+,L,0,to/from Silo,30820,11_merged_758626,757872
+,L,0,to/from Silo,30820,11_merged_758626,757873
+,L,0,to/from Silo,30820,11_merged_758626,757870
+,L,0,to/from Silo,30820,11_merged_758626,757871
+,L,0,to/from Silo,30820,11_merged_758626,757878
+,L,0,to/from Silo,30820,11_merged_758626,757879
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758042
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758043
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758040
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758041
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758046
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758047
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758044
+,P,0,Regular to/from Memorial Union,30827,11_merged_758626,758045
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758048
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758049
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751133
+,V,0,to West Village,30834,10_merged_758627,758284
+,V,0,to West Village,30834,10_merged_758627,758285
+,V,0,to West Village,30834,10_merged_758627,758286
+,V,0,to West Village,30834,10_merged_758627,758287
+,V,1,to Silo,30837,11_merged_758626,758280
+,V,0,to West Village,30834,10_merged_758627,758281
+,V,0,to West Village,30834,10_merged_758627,758282
+,V,0,to West Village,30834,10_merged_758627,758283
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751118
+,V,0,to West Village,30834,10_merged_758627,758288
+,V,0,to West Village,30834,10_merged_758627,758289
+,V,1,to Silo,30837,10_merged_758627,758338
+,V,0,to West Village,30834,11_merged_758626,758190
+,V,0,to West Village,30834,11_merged_758626,758191
+,V,0,to West Village,30834,11_merged_758626,758192
+,V,0,to West Village,30834,11_merged_758626,758193
+,V,0,to West Village,30834,11_merged_758626,758194
+,V,0,to West Village,30834,11_merged_758626,758195
+,V,0,to West Village,30834,11_merged_758626,758196
+,V,0,to West Village,30834,11_merged_758626,758197
+,V,0,to West Village,30834,11_merged_758626,758198
+,V,0,to West Village,30834,11_merged_758626,758199
+,G,0,to/from Memorial Union,30810,10_merged_758627,757641
+,G,0,to/from Memorial Union,30810,10_merged_758627,757640
+,G,0,to/from Memorial Union,30810,10_merged_758627,757643
+,G,0,to/from Memorial Union,30810,10_merged_758627,757642
+,G,0,to/from Memorial Union,30810,10_merged_758627,757645
+,G,0,to/from Memorial Union,30810,10_merged_758627,757644
+,G,0,to/from Memorial Union,30810,10_merged_758627,757647
+,G,0,to/from Memorial Union,30810,10_merged_758627,757646
+,G,0,to/from Memorial Union,30810,10_merged_758627,757649
+,G,0,to/from Memorial Union,30810,10_merged_758627,757648
+,E,0,to/from Memorial Union,30467,38,750439
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757083
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757082
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757081
+,E,0,to/from Memorial Union,30467,38,750438
+,A,1,To SILO,30797,10_merged_758627,757087
+,A,1,To SILO,30797,10_merged_758627,757086
+,A,1,To SILO,30797,10_merged_758627,757085
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757084
+,A,1,To SILO,30797,10_merged_758627,757089
+,A,1,To SILO,30797,10_merged_758627,757088
+,E,0,to/from Memorial Union,30467,38,750432
+,M,0,to/from Memorial Union,30486,10_merged_758624,750921
+,E,0,to/from Memorial Union,30467,38,750436
+,E,0,to/from Memorial Union,30467,38,750435
+,E,0,to/from Memorial Union,30467,38,750434
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751038
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751039
+,F,0,to/from Memorial Union,30808,10_merged_758627,757517
+,F,0,to/from Memorial Union,30808,10_merged_758627,757516
+,F,0,to/from Memorial Union,30808,10_merged_758627,757511
+,F,0,to/from Memorial Union,30808,10_merged_758627,757510
+,F,0,to/from Memorial Union,30808,10_merged_758627,757513
+,F,0,to/from Memorial Union,30808,10_merged_758627,757512
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751030
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751031
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751032
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751033
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751034
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751035
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751036
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751037
+,A,0,To El Cemonte/Glide,30455,38,750210
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758065
+,K,0,to/from Memorial Union,30480,38,750741
+,K,0,to/from Memorial Union,30480,38,750740
+,K,0,to/from Memorial Union,30480,38,750743
+,K,0,to/from Memorial Union,30480,38,750742
+,A,0,To El Cemonte/Glide,30455,38,750190
+,A,0,To El Cemonte/Glide,30455,38,750191
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758063
+,A,0,To El Cemonte/Glide,30455,38,750192
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751104
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751105
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751106
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751107
+,T,1,PM to South Davis,30496,10_merged_758624,751452
+,T,0,AM to 14th @ Davis High School,30495,11_merged_758623,751453
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751102
+,T,0,AM to 14th @ Davis High School,30495,10_merged_758624,751451
+,E,0,to/from Memorial Union,30467,38,750455
+,P,0,Regular to/from Memorial Union,30491,38,750986
+,E,0,to/from Memorial Union,30467,38,750457
+,E,0,to/from Memorial Union,30467,38,750456
+,E,0,to/from Memorial Union,30467,38,750451
+,E,0,to/from Memorial Union,30467,38,750450
+,E,0,to/from Memorial Union,30467,38,750453
+,O,0,Weekends to/from Silo,30488,12_merged_758625,751459
+,Z,0,,30846,10_merged_758627,758608
+,Z,0,,30846,10_merged_758627,758609
+,A,0,To El Cemonte/Glide,30455,38,750196
+,Z,0,,30846,11_merged_758626,758600
+,Z,0,,30846,10_merged_758627,758601
+,Z,0,,30846,10_merged_758627,758602
+,Z,0,,30846,10_merged_758627,758603
+,Z,0,,30846,10_merged_758627,758604
+,Z,0,,30846,10_merged_758627,758605
+,Z,0,,30846,10_merged_758627,758606
+,Z,0,,30846,10_merged_758627,758607
+,L,0,Picnic Day Only,30483,10_merged_758624,750851
+,L,0,Picnic Day Only,30483,10_merged_758624,750850
+,L,0,Picnic Day Only,30483,10_merged_758624,750853
+,L,0,Picnic Day Only,30483,10_merged_758624,750852
+,L,0,Picnic Day Only,30483,10_merged_758624,750855
+,L,0,Picnic Day Only,30483,10_merged_758624,750854
+,L,0,Picnic Day Only,30483,10_merged_758624,750857
+,L,0,Picnic Day Only,30483,10_merged_758624,750856
+,L,0,Picnic Day Only,30483,10_merged_758624,750859
+,L,0,Picnic Day Only,30483,10_merged_758624,750858
+,F,0,to/from Memorial Union,30470,38,750521
+,F,0,to/from Memorial Union,30470,38,750520
+,F,0,to/from Memorial Union,30470,38,750523
+,F,0,to/from Memorial Union,30470,38,750522
+,F,0,to/from Memorial Union,30470,38,750525
+,F,0,to/from Memorial Union,30470,38,750524
+,F,0,to/from Memorial Union,30470,38,750527
+,F,0,to/from Memorial Union,30470,38,750526
+,F,0,to/from Memorial Union,30470,38,750529
+,F,0,to/from Memorial Union,30470,38,750528
+,G,0,to/from Memorial Union,30473,10_merged_758624,750679
+,G,0,to/from Memorial Union,30473,10_merged_758624,750678
+,L,0,to/from Silo,30820,10_merged_758627,757889
+,L,0,to/from Silo,30820,11_merged_758626,757888
+,G,0,to/from Memorial Union,30473,10_merged_758624,750671
+,G,0,to/from Memorial Union,30473,10_merged_758624,750670
+,G,0,to/from Memorial Union,30473,10_merged_758624,750673
+,G,0,to/from Memorial Union,30473,10_merged_758624,750672
+,G,0,to/from Memorial Union,30473,10_merged_758624,750675
+,G,0,to/from Memorial Union,30473,10_merged_758624,750674
+,G,0,to/from Memorial Union,30473,10_merged_758624,750677
+,G,0,to/from Memorial Union,30473,10_merged_758624,750676
+,V,1,to Silo,30499,38,751210
+,V,1,to Silo,30499,38,751211
+,V,1,to Silo,30499,38,751212
+,W,0,to/from Silo,30841,10_merged_758627,758517
+,V,1,to Silo,30499,38,751214
+,V,1,to Silo,30499,38,751215
+,V,1,to Silo,30499,38,751216
+,V,1,to Silo,30499,38,751217
+,V,1,to Silo,30499,38,751218
+,V,1,to Silo,30499,38,751219
+,W,0,to/from Silo,30841,10_merged_758627,758518
+,W,0,to/from Silo,30841,10_merged_758627,758519
+,B,0,to/from Memorial Union,30460,11_merged_758623,750299
+,B,0,to/from Memorial Union,30460,11_merged_758623,750298
+,B,0,to/from Memorial Union,30460,11_merged_758623,750293
+,B,0,to/from Memorial Union,30460,11_merged_758623,750292
+,B,0,to/from Memorial Union,30460,11_merged_758623,750291
+,B,0,to/from Memorial Union,30460,11_merged_758623,750290
+,B,0,to/from Memorial Union,30460,11_merged_758623,750297
+,B,0,to/from Memorial Union,30460,11_merged_758623,750296
+,B,0,to/from Memorial Union,30460,11_merged_758623,750295
+,B,0,to/from Memorial Union,30460,11_merged_758623,750294
+,B,0,to/from Memorial Union,30460,38,750275
+,B,0,to/from Memorial Union,30460,38,750274
+,B,0,to/from Memorial Union,30460,38,750277
+,B,0,to/from Memorial Union,30460,38,750276
+,B,0,to/from Memorial Union,30460,38,750271
+,B,0,to/from Memorial Union,30460,38,750270
+,B,0,to/from Memorial Union,30460,38,750273
+,B,0,to/from Memorial Union,30460,38,750272
+,A,0,To El Cemonte/Glide,30455,38,750212
+,B,0,to/from Memorial Union,30460,38,750279
+,B,0,to/from Memorial Union,30460,38,750278
+,W,0,to/from Silo,30841,11_merged_758626,758460
+,W,0,to/from Silo,30841,11_merged_758626,758461
+,W,0,to/from Silo,30841,11_merged_758626,758462
+,W,0,to/from Silo,30841,11_merged_758626,758463
+,W,0,to/from Silo,30841,11_merged_758626,758464
+,W,0,to/from Silo,30841,11_merged_758626,758465
+,W,0,to/from Silo,30841,11_merged_758626,758466
+,W,0,to/from Silo,30841,11_merged_758626,758467
+,W,0,to/from Silo,30841,11_merged_758626,758468
+,W,0,to/from Silo,30841,11_merged_758626,758469
+,A,0,To El Cemonte/Glide,30455,38,750187
+,A,0,To El Cemonte/Glide,30455,38,750186
+,A,0,To El Cemonte/Glide,30455,38,750185
+,A,0,To El Cemonte/Glide,30455,38,750211
+,A,0,To El Cemonte/Glide,30455,38,750189
+,A,0,To El Cemonte/Glide,30455,38,750188
+,Z,0,,30846,11_merged_758626,758591
+,L,0,to/from Silo,30820,11_merged_758626,757865
+,L,0,to/from Silo,30820,11_merged_758626,757864
+,L,0,to/from Silo,30820,11_merged_758626,757867
+,L,0,to/from Silo,30820,11_merged_758626,757866
+,L,0,to/from Silo,30820,11_merged_758626,757863
+,L,0,to/from Silo,30820,11_merged_758626,757869
+,L,0,to/from Silo,30820,11_merged_758626,757868
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758051
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758050
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758053
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758052
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758055
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758054
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758057
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758056
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758059
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758058
+,V,0,to West Village,30834,10_merged_758627,758293
+,V,0,to West Village,30834,10_merged_758627,758292
+,V,0,to West Village,30834,10_merged_758627,758291
+,V,0,to West Village,30834,10_merged_758627,758290
+,V,0,to West Village,30834,10_merged_758627,758297
+,V,0,to West Village,30834,10_merged_758627,758296
+,V,0,to West Village,30834,10_merged_758627,758295
+,V,0,to West Village,30834,10_merged_758627,758294
+,V,0,to West Village,30834,10_merged_758627,758299
+,V,0,to West Village,30834,10_merged_758627,758298
+,E,0,to/from Memorial Union,30467,38,750448
+,V,0,to West Village,30834,11_merged_758626,758189
+,V,0,to West Village,30834,11_merged_758626,758188
+,V,0,to West Village,30834,11_merged_758626,758187
+,V,0,to West Village,30834,11_merged_758626,758186
+,V,0,to West Village,30834,11_merged_758626,758185
+,V,0,to West Village,30834,11_merged_758626,758184
+,V,0,to West Village,30834,11_merged_758626,758183
+,V,1,to Memorial Union,30838,12_merged_758628,758182
+,V,1,to Memorial Union,30838,12_merged_758628,758181
+,V,1,to Memorial Union,30838,12_merged_758628,758180
+,C,0,to/from Silo,30800,11_merged_758626,757188
+,C,0,to/from Silo,30800,11_merged_758626,757189
+,B,0,to/from Memorial Union,30799,10_merged_758627,757182
+,B,0,to/from Memorial Union,30799,10_merged_758627,757183
+,B,0,to/from Memorial Union,30799,10_merged_758627,757180
+,B,0,to/from Memorial Union,30799,10_merged_758627,757181
+,B,0,to/from Memorial Union,30799,10_merged_758627,757186
+,B,0,to/from Memorial Union,30799,10_merged_758627,757187
+,B,0,to/from Memorial Union,30799,10_merged_758627,757184
+,B,0,to/from Memorial Union,30799,10_merged_758627,757185
+,J,0,to/from Silo,30812,11_merged_758626,757678
+,J,0,to/from Silo,30812,11_merged_758626,757679
+,G,0,to/from Memorial Union,30810,10_merged_758627,757674
+,G,0,to/from Memorial Union,30810,10_merged_758627,757675
+,G,0,to/from Memorial Union,30810,10_merged_758627,757676
+,G,0,to/from Memorial Union,30810,10_merged_758627,757677
+,G,0,to/from Memorial Union,30810,10_merged_758627,757670
+,G,0,to/from Memorial Union,30810,10_merged_758627,757671
+,G,0,to/from Memorial Union,30810,10_merged_758627,757672
+,G,0,to/from Memorial Union,30810,10_merged_758627,757673
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757078
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757079
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757076
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757077
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757074
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757075
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757072
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757073
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757070
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757071
+,J,0,to/from Silo,30812,11_merged_758626,757696
+,J,0,to/from Silo,30812,11_merged_758626,757697
+,J,0,to/from Silo,30812,11_merged_758626,757694
+,J,0,to/from Silo,30812,11_merged_758626,757695
+,J,0,to/from Silo,30812,11_merged_758626,757692
+,J,0,to/from Silo,30812,11_merged_758626,757693
+,J,0,to/from Silo,30812,11_merged_758626,757690
+,J,0,to/from Silo,30812,11_merged_758626,757691
+,J,0,to/from Silo,30812,11_merged_758626,757698
+,J,0,to/from Silo,30812,11_merged_758626,757699
+,C,0,to/from Silo,30800,10_merged_758627,757218
+,C,0,to/from Silo,30800,10_merged_758627,757219
+,C,0,to/from Silo,30800,11_merged_758626,757212
+,C,0,to/from Silo,30800,11_merged_758626,757213
+,C,0,to/from Silo,30800,11_merged_758626,757210
+,C,0,to/from Silo,30800,11_merged_758626,757211
+,C,0,to/from Silo,30800,10_merged_758627,757216
+,C,0,to/from Silo,30800,10_merged_758627,757217
+,C,0,to/from Silo,30800,11_merged_758626,757214
+,C,0,to/from Silo,30800,10_merged_758627,757215
+,F,0,to/from Memorial Union,30808,10_merged_758627,757520
+,F,0,to/from Memorial Union,30808,10_merged_758627,757521
+,F,0,to/from Memorial Union,30808,10_merged_758627,757522
+,F,0,to/from Memorial Union,30808,10_merged_758627,757523
+,F,0,to/from Memorial Union,30808,10_merged_758627,757524
+,F,0,to/from Memorial Union,30808,10_merged_758627,757525
+,F,0,to/from Memorial Union,30808,10_merged_758627,757526
+,F,0,to/from Memorial Union,30808,10_merged_758627,757527
+,F,0,to/from Memorial Union,30808,10_merged_758627,757528
+,F,0,to/from Memorial Union,30808,10_merged_758627,757529
+,V,1,to Silo,30837,10_merged_758627,758362
+,D,0,to/from Silo,30801,11_merged_758626,757326
+,D,0,to/from Silo,30801,11_merged_758626,757327
+,D,0,to/from Silo,30801,11_merged_758626,757324
+,D,0,to/from Silo,30801,11_merged_758626,757325
+,D,0,to/from Silo,30801,11_merged_758626,757322
+,E,0,to/from Memorial Union,30805,10_merged_758627,757451
+,D,0,to/from Silo,30801,11_merged_758626,757320
+,D,0,to/from Silo,30801,11_merged_758626,757321
+,D,0,to/from Silo,30801,11_merged_758626,757328
+,D,0,to/from Silo,30801,11_merged_758626,757329
+,E,0,to/from Memorial Union,30467,11_merged_758623,750468
+,E,0,to/from Memorial Union,30467,11_merged_758623,750469
+,Z,0,,30506,38,751447
+,Z,0,,30506,38,751446
+,Z,0,,30506,38,751441
+,Z,0,,30506,38,751440
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751115
+,Z,0,,30506,38,751442
+,E,0,to/from Memorial Union,30467,11_merged_758623,750460
+,E,0,to/from Memorial Union,30467,11_merged_758623,750461
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751119
+,E,0,to/from Memorial Union,30467,11_merged_758623,750463
+,E,0,to/from Memorial Union,30467,11_merged_758623,750464
+,E,0,to/from Memorial Union,30467,11_merged_758623,750465
+,E,0,to/from Memorial Union,30467,11_merged_758623,750466
+,E,0,to/from Memorial Union,30467,11_merged_758623,750467
+,M,0,to/from Memorial Union,30486,12_merged_758625,750868
+,M,0,to/from Memorial Union,30486,12_merged_758625,750869
+,M,0,to/from Memorial Union,30486,12_merged_758625,750864
+,M,0,to/from Memorial Union,30486,12_merged_758625,750865
+,M,0,to/from Memorial Union,30486,12_merged_758625,750866
+,M,0,to/from Memorial Union,30486,12_merged_758625,750867
+,M,0,to/from Memorial Union,30486,12_merged_758625,750860
+,M,0,to/from Memorial Union,30486,12_merged_758625,750861
+,M,0,to/from Memorial Union,30486,12_merged_758625,750862
+,M,0,to/from Memorial Union,30486,12_merged_758625,750863
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751027
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751026
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751025
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751024
+,F,0,to/from Memorial Union,30470,38,750518
+,F,0,to/from Memorial Union,30470,38,750519
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751021
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751020
+,F,0,to/from Memorial Union,30470,38,750514
+,F,0,to/from Memorial Union,30470,38,750515
+,F,0,to/from Memorial Union,30470,38,750516
+,F,0,to/from Memorial Union,30470,38,750517
+,F,0,to/from Memorial Union,30470,38,750510
+,F,0,to/from Memorial Union,30470,38,750511
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751029
+,F,0,to/from Memorial Union,30470,38,750513
+,M,0,to/from Memorial Union,30486,38,750886
+,M,0,to/from Memorial Union,30486,38,750887
+,M,0,to/from Memorial Union,30486,38,750884
+,M,0,to/from Memorial Union,30486,38,750885
+,M,0,to/from Memorial Union,30486,38,750882
+,M,0,to/from Memorial Union,30486,38,750883
+,M,0,to/from Memorial Union,30486,38,750880
+,M,0,to/from Memorial Union,30486,38,750881
+,M,0,to/from Memorial Union,30486,38,750888
+,M,0,to/from Memorial Union,30486,38,750889
+,W,0,to/from Silo,30841,10_merged_758627,758503
+,W,0,to/from Silo,30841,10_merged_758627,758502
+,W,0,to/from Silo,30841,10_merged_758627,758501
+,W,0,to/from Silo,30841,10_merged_758627,758500
+,W,0,to/from Silo,30841,10_merged_758627,758507
+,W,0,to/from Silo,30841,10_merged_758627,758506
+,V,1,to Silo,30499,38,751209
+,V,1,to Silo,30499,38,751208
+,V,1,to Silo,30499,38,751207
+,V,1,to Silo,30499,38,751206
+,V,1,to Silo,30499,38,751205
+,V,1,to Silo,30499,38,751204
+,V,1,to Silo,30499,38,751203
+,V,1,to Silo,30499,38,751202
+,V,1,to Silo,30499,38,751201
+,V,0,to West Village,30497,38,751200
+,M,0,to/from Memorial Union,30822,10_merged_758627,757980
+,A,1,To SILO,30458,38,750240
+,W,0,to/from Silo,30841,10_merged_758627,758479
+,W,0,to/from Silo,30841,10_merged_758627,758478
+,W,0,to/from Silo,30841,10_merged_758627,758477
+,W,0,to/from Silo,30841,10_merged_758627,758476
+,W,0,to/from Silo,30841,11_merged_758626,758475
+,W,0,,30842,11_merged_758626,758474
+,W,0,to/from Silo,30841,11_merged_758626,758473
+,W,0,to/from Silo,30841,11_merged_758626,758472
+,W,0,to/from Silo,30841,11_merged_758626,758471
+,W,0,to/from Silo,30841,11_merged_758626,758470
+,G,0,to/from Memorial Union,30473,11_merged_758623,750644
+,G,0,to/from Memorial Union,30473,11_merged_758623,750645
+,G,0,to/from Memorial Union,30473,11_merged_758623,750646
+,G,0,to/from Memorial Union,30473,11_merged_758623,750647
+,G,0,to/from Memorial Union,30473,38,750640
+,G,0,to/from Memorial Union,30473,38,750641
+,G,0,to/from Memorial Union,30473,11_merged_758623,750642
+,G,0,to/from Memorial Union,30473,11_merged_758623,750643
+,G,0,to/from Memorial Union,30473,11_merged_758623,750648
+,G,0,to/from Memorial Union,30473,11_merged_758623,750649
+,W,0,to/from Silo,30841,10_merged_758627,758490
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758068
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758069
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758064
+,V,0,to West Village,30498,11_merged_758623,751250
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758066
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758067
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758060
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758061
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758062
+,V,0,to West Village,30498,11_merged_758623,751251
+,W,0,to/from Silo,30841,10_merged_758627,758497
+,V,1,to Silo,30837,11_merged_758626,758268
+,V,1,to Silo,30837,11_merged_758626,758269
+,V,1,to Silo,30837,11_merged_758626,758266
+,V,1,to Silo,30837,11_merged_758626,758267
+,V,1,to Silo,30837,11_merged_758626,758264
+,W,0,to/from Silo,30841,10_merged_758627,758496
+,V,1,to Silo,30837,11_merged_758626,758262
+,V,1,to Silo,30837,11_merged_758626,758263
+,V,1,to Silo,30837,11_merged_758626,758260
+,V,1,to Silo,30837,11_merged_758626,758261
+,W,0,to/from Silo,30841,10_merged_758627,758499
+,W,0,to/from Silo,30841,10_merged_758627,758498
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757069
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757068
+,V,0,to West Village,30498,11_merged_758623,751258
+,B,0,to/from Memorial Union,30460,11_merged_758623,750300
+,V,1,to Silo,30837,10_merged_758627,758363
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757066
+,F,0,to/from Memorial Union,30808,11_merged_758626,757478
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758088
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757062
+,C,0,to/from Silo,30800,11_merged_758626,757199
+,C,0,to/from Silo,30800,11_merged_758626,757198
+,C,0,to/from Silo,30800,11_merged_758626,757191
+,C,0,to/from Silo,30800,11_merged_758626,757190
+,C,0,to/from Silo,30800,11_merged_758626,757193
+,C,0,to/from Silo,30800,11_merged_758626,757192
+,C,0,to/from Silo,30800,11_merged_758626,757195
+,C,0,to/from Silo,30800,11_merged_758626,757194
+,C,0,to/from Silo,30800,11_merged_758626,757197
+,C,0,to/from Silo,30800,11_merged_758626,757196
+,V,1,to Silo,30837,10_merged_758627,758361
+,G,0,to/from Memorial Union,30810,10_merged_758627,757669
+,G,0,to/from Memorial Union,30810,10_merged_758627,757668
+,G,0,to/from Memorial Union,30810,10_merged_758627,757663
+,G,0,to/from Memorial Union,30810,10_merged_758627,757662
+,G,0,to/from Memorial Union,30810,10_merged_758627,757661
+,G,0,to/from Memorial Union,30810,10_merged_758627,757660
+,G,0,to/from Memorial Union,30810,10_merged_758627,757667
+,G,0,to/from Memorial Union,30810,10_merged_758627,757666
+,G,0,to/from Memorial Union,30810,10_merged_758627,757665
+,G,0,to/from Memorial Union,30810,10_merged_758627,757664
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758086
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758087
+,Q,0,Regular to/from Memorial Union,30830,12_merged_758628,758084
+,Q,0,Regular to/from Memorial Union,30830,12_merged_758628,758085
+,Q,0,Regular to/from Memorial Union,30830,12_merged_758628,758082
+,Q,0,Regular to/from Memorial Union,30830,12_merged_758628,758083
+,Q,0,Regular to/from Memorial Union,30830,12_merged_758628,758080
+,Q,0,Regular to/from Memorial Union,30830,12_merged_758628,758081
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757065
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757064
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757067
+,V,0,to West Village,30498,12_merged_758625,751150
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757061
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757060
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757063
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758089
+,J,0,to/from Silo,30812,11_merged_758626,757685
+,J,0,to/from Silo,30812,11_merged_758626,757684
+,J,0,to/from Silo,30812,11_merged_758626,757687
+,J,0,to/from Silo,30812,11_merged_758626,757686
+,J,0,to/from Silo,30812,11_merged_758626,757681
+,J,0,to/from Silo,30812,11_merged_758626,757680
+,J,0,to/from Silo,30812,11_merged_758626,757683
+,J,0,to/from Silo,30812,11_merged_758626,757682
+,J,0,to/from Silo,30812,11_merged_758626,757726
+,J,0,to/from Silo,30812,11_merged_758626,757689
+,J,0,to/from Silo,30812,11_merged_758626,757688
+,J,0,to/from Silo,30812,11_merged_758626,757724
+,C,0,to/from Silo,30800,11_merged_758626,757209
+,C,0,to/from Silo,30800,11_merged_758626,757208
+,C,0,to/from Silo,30800,11_merged_758626,757201
+,C,0,to/from Silo,30800,11_merged_758626,757200
+,C,0,to/from Silo,30800,11_merged_758626,757203
+,C,0,to/from Silo,30800,11_merged_758626,757202
+,C,0,to/from Silo,30800,11_merged_758626,757205
+,C,0,to/from Silo,30800,11_merged_758626,757204
+,C,0,to/from Silo,30800,11_merged_758626,757207
+,C,0,to/from Silo,30800,11_merged_758626,757206
+,A,0,To El Cemonte/Glide,30455,38,750209
+,E,0,to/from Memorial Union,30805,10_merged_758627,757442
+,D,0,to/from Silo,30801,10_merged_758627,757337
+,E,0,to/from Memorial Union,30805,10_merged_758627,757440
+,D,0,to/from Silo,30801,10_merged_758627,757331
+,E,0,to/from Memorial Union,30805,10_merged_758627,757446
+,D,0,to/from Silo,30801,10_merged_758627,757333
+,D,0,to/from Silo,30801,10_merged_758627,757332
+,E,0,to/from Memorial Union,30805,10_merged_758627,757449
+,E,0,to/from Memorial Union,30805,10_merged_758627,757448
+,D,0,to/from Silo,30801,10_merged_758627,757339
+,D,0,to/from Silo,30801,10_merged_758627,757338
+,X,0,,30507,12_merged_758625,751470
+,X,0,,30507,12_merged_758625,751471
+,X,0,,30507,12_merged_758625,751472
+,X,0,,30507,12_merged_758625,751473
+,X,0,,30507,12_merged_758625,751474
+,X,0,,30507,12_merged_758625,751475
+,X,0,,30507,12_merged_758625,751476
+,M,0,to/from Memorial Union,30486,38,750879
+,M,0,to/from Memorial Union,30486,38,750878
+,M,0,to/from Memorial Union,30486,38,750873
+,M,0,to/from Memorial Union,30486,38,750872
+,M,0,to/from Memorial Union,30486,38,750871
+,M,0,to/from Memorial Union,30486,38,750870
+,M,0,to/from Memorial Union,30486,38,750877
+,M,0,to/from Memorial Union,30486,38,750876
+,M,0,to/from Memorial Union,30486,38,750875
+,M,0,to/from Memorial Union,30486,38,750874
+,Q,0,Regular to/from Memorial Union,30494,12_merged_758625,751052
+,Q,0,Regular to/from Memorial Union,30494,12_merged_758625,751053
+,Q,0,Regular to/from Memorial Union,30494,12_merged_758625,751050
+,F,0,to/from Memorial Union,30470,38,750508
+,Q,0,Regular to/from Memorial Union,30494,38,751056
+,Q,0,Regular to/from Memorial Union,30494,38,751057
+,Q,0,Regular to/from Memorial Union,30494,12_merged_758625,751054
+,Q,0,Regular to/from Memorial Union,30494,38,751055
+,Q,0,Regular to/from Memorial Union,30494,38,751058
+,Q,0,Regular to/from Memorial Union,30494,38,751059
+,F,0,to/from Memorial Union,30470,38,750507
+,M,0,to/from Memorial Union,30486,38,750895
+,M,0,to/from Memorial Union,30486,38,750894
+,M,0,to/from Memorial Union,30486,11_merged_758623,750897
+,M,0,to/from Memorial Union,30486,38,750896
+,M,0,to/from Memorial Union,30486,38,750891
+,M,0,to/from Memorial Union,30486,38,750890
+,M,0,to/from Memorial Union,30486,38,750893
+,M,0,to/from Memorial Union,30486,38,750892
+,M,0,to/from Memorial Union,30486,11_merged_758623,750899
+,M,0,to/from Memorial Union,30486,11_merged_758623,750898
+,V,1,to Memorial Union,30500,11_merged_758623,751278
+,V,0,to West Village,30498,10_merged_758624,751279
+,V,1,to Memorial Union,30500,11_merged_758623,751272
+,V,1,to Memorial Union,30500,11_merged_758623,751273
+,V,1,to Memorial Union,30500,11_merged_758623,751270
+,V,1,to Memorial Union,30500,11_merged_758623,751271
+,V,1,to Memorial Union,30500,11_merged_758623,751276
+,V,1,to Memorial Union,30500,11_merged_758623,751277
+,V,1,to Memorial Union,30500,11_merged_758623,751274
+,V,1,to Memorial Union,30500,11_merged_758623,751275
+,E,0,to/from Memorial Union,30467,10_merged_758624,750477
+,E,0,to/from Memorial Union,30467,10_merged_758624,750476
+,E,0,to/from Memorial Union,30467,10_merged_758624,750475
+,E,0,to/from Memorial Union,30467,10_merged_758624,750474
+,E,0,to/from Memorial Union,30467,11_merged_758623,750473
+,E,0,to/from Memorial Union,30467,11_merged_758623,750472
+,E,0,to/from Memorial Union,30467,11_merged_758623,750471
+,E,0,to/from Memorial Union,30467,11_merged_758623,750470
+,E,0,to/from Memorial Union,30467,10_merged_758624,750479
+,E,0,to/from Memorial Union,30467,10_merged_758624,750478
+,V,0,to West Village,30498,10_merged_758624,751306
+,V,0,to West Village,30498,10_merged_758624,751307
+,V,0,to West Village,30498,10_merged_758624,751304
+,V,0,to West Village,30498,10_merged_758624,751305
+,V,0,to West Village,30498,10_merged_758624,751302
+,V,0,to West Village,30498,10_merged_758624,751303
+,V,0,to West Village,30498,10_merged_758624,751300
+,V,0,to West Village,30498,10_merged_758624,751301
+,V,1,to Memorial Union,30500,10_merged_758624,751308
+,V,1,to Memorial Union,30500,10_merged_758624,751309
+,A,1,To SILO,30458,38,750239
+,W,0,to/from Silo,30841,11_merged_758626,758430
+,A,1,To SILO,30458,38,750238
+,W,0,to/from Silo,30841,11_merged_758626,758426
+,G,0,to/from Memorial Union,30473,11_merged_758623,750653
+,G,0,to/from Memorial Union,30473,11_merged_758623,750652
+,G,0,to/from Memorial Union,30473,11_merged_758623,750651
+,W,0,to/from Silo,30841,11_merged_758626,758427
+,G,0,to/from Memorial Union,30473,11_merged_758623,750657
+,G,0,to/from Memorial Union,30473,11_merged_758623,750656
+,G,0,to/from Memorial Union,30473,11_merged_758623,750655
+,G,0,to/from Memorial Union,30473,11_merged_758623,750654
+,G,0,to/from Memorial Union,30473,11_merged_758623,750659
+,G,0,to/from Memorial Union,30473,11_merged_758623,750658
+,V,0,to West Village,30834,10_merged_758627,758316
+,V,0,to West Village,30834,10_merged_758627,758317
+,V,0,to West Village,30834,10_merged_758627,758314
+,V,0,to West Village,30834,10_merged_758627,758315
+,V,0,to West Village,30834,10_merged_758627,758312
+,V,0,to West Village,30834,10_merged_758627,758313
+,V,0,to West Village,30834,10_merged_758627,758310
+,V,0,to West Village,30834,10_merged_758627,758311
+,W,0,to/from Silo,30841,11_merged_758626,758428
+,K,0,to/from Memorial Union,30815,10_merged_758627,757843
+,K,0,to/from Memorial Union,30815,10_merged_758627,757842
+,V,0,to West Village,30834,10_merged_758627,758318
+,W,0,to/from Silo,30841,11_merged_758626,758429
+,Q,0,Regular to/from Memorial Union,30830,12_merged_758628,758079
+,Q,0,Regular to/from Memorial Union,30830,12_merged_758628,758078
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758073
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758072
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758071
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758070
+,Q,0,Regular to/from Memorial Union,30830,12_merged_758628,758077
+,Q,0,Regular to/from Memorial Union,30830,12_merged_758628,758076
+,Q,0,,30829,12_merged_758628,758075
+,P,0,Regular to/from Memorial Union,30827,10_merged_758627,758074
+,V,1,to Silo,30837,11_merged_758626,758279
+,V,1,to Silo,30837,11_merged_758626,758278
+,V,1,to Silo,30837,11_merged_758626,758275
+,V,1,to Silo,30837,11_merged_758626,758274
+,V,1,to Silo,30837,11_merged_758626,758277
+,V,1,to Silo,30837,11_merged_758626,758276
+,V,1,to Silo,30837,11_merged_758626,758271
+,V,1,to Silo,30837,11_merged_758626,758270
+,V,1,to Silo,30837,11_merged_758626,758273
+,V,1,to Silo,30837,11_merged_758626,758272
+,Z,0,,30846,10_merged_758627,758622
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758094
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758097
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758096
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758091
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758090
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758093
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758092
+,A,1,To SILO,30797,11_merged_758626,757050
+,A,1,To SILO,30797,11_merged_758626,757051
+,A,1,To SILO,30797,11_merged_758626,757052
+,A,1,To SILO,30797,11_merged_758626,757053
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758099
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758098
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757056
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757057
+,C,0,to/from Silo,30800,10_merged_758627,757234
+,E,0,to/from Memorial Union,30805,10_merged_758627,757443
+,C,0,to/from Silo,30800,10_merged_758627,757236
+,C,0,to/from Silo,30800,10_merged_758627,757237
+,C,0,to/from Silo,30800,10_merged_758627,757230
+,C,0,to/from Silo,30800,10_merged_758627,757231
+,C,0,to/from Silo,30800,10_merged_758627,757232
+,D,0,to/from Silo,30801,10_merged_758627,757334
+,C,0,to/from Silo,30800,10_merged_758627,757238
+,E,0,to/from Memorial Union,30805,10_merged_758627,757441
+,D,0,to/from Silo,30801,10_merged_758627,757336
+,E,0,to/from Memorial Union,30805,10_merged_758627,757447
+,D,0,to/from Silo,30801,11_merged_758626,757330
+,E,0,to/from Memorial Union,30805,10_merged_758627,757445
+,E,0,to/from Memorial Union,30805,10_merged_758627,757444
+,D,0,to/from Silo,30801,11_merged_758626,757300
+,D,0,to/from Silo,30801,11_merged_758626,757301
+,D,0,to/from Silo,30801,11_merged_758626,757302
+,D,0,to/from Silo,30801,11_merged_758626,757303
+,D,0,to/from Silo,30801,11_merged_758626,757304
+,D,0,to/from Silo,30801,11_merged_758626,757305
+,D,0,to/from Silo,30801,11_merged_758626,757306
+,D,0,to/from Silo,30801,11_merged_758626,757307
+,D,0,to/from Silo,30801,11_merged_758626,757308
+,D,0,to/from Silo,30801,11_merged_758626,757309
+,X,0,,30507,12_merged_758625,751469
+,X,0,,30507,12_merged_758625,751468
+,X,0,,30507,12_merged_758625,751467
+,O,0,Weekends to/from Silo,30488,12_merged_758625,751466
+,O,0,Weekends to/from Silo,30488,12_merged_758625,751465
+,O,0,Weekends to/from Silo,30488,12_merged_758625,751464
+,O,0,Weekends to/from Silo,30488,12_merged_758625,751463
+,O,0,Weekends to/from Silo,30488,12_merged_758625,751462
+,O,0,Weekends to/from Silo,30488,12_merged_758625,751461
+,O,0,Weekends to/from Silo,30488,12_merged_758625,751460
+,W,0,to/from Silo,30841,10_merged_758627,758504
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757058
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751041
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751040
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751043
+,P,0,Regular to/from Memorial Union,30491,10_merged_758624,751042
+,Q,0,,30492,12_merged_758625,751045
+,Q,0,Regular to/from Memorial Union,30494,12_merged_758625,751044
+,Q,0,Regular to/from Memorial Union,30494,12_merged_758625,751047
+,Q,0,Regular to/from Memorial Union,30494,12_merged_758625,751046
+,Q,0,Regular to/from Memorial Union,30494,12_merged_758625,751049
+,Q,0,Regular to/from Memorial Union,30494,12_merged_758625,751048
+,K,0,to/from Memorial Union,30815,10_merged_758627,757829
+,C,0,to/from Silo,30462,38,750318
+,C,0,to/from Silo,30462,38,750319
+,C,0,to/from Silo,30462,38,750316
+,C,0,to/from Silo,30462,38,750317
+,B,0,to/from Memorial Union,30460,10_merged_758624,750314
+,C,0,to/from Silo,30462,38,750315
+,B,0,to/from Memorial Union,30460,10_merged_758624,750312
+,B,0,to/from Memorial Union,30460,10_merged_758624,750313
+,B,0,to/from Memorial Union,30460,10_merged_758624,750310
+,B,0,to/from Memorial Union,30460,10_merged_758624,750311
+,V,1,to Memorial Union,30500,11_merged_758623,751269
+,V,1,to Memorial Union,30500,11_merged_758623,751268
+,V,0,to West Village,30498,11_merged_758623,751261
+,V,0,to West Village,30498,11_merged_758623,751260
+,V,1,to Memorial Union,30500,11_merged_758623,751263
+,V,0,to West Village,30498,11_merged_758623,751262
+,V,1,to Memorial Union,30500,11_merged_758623,751265
+,V,1,to Memorial Union,30500,11_merged_758623,751264
+,V,1,to Memorial Union,30500,11_merged_758623,751267
+,V,1,to Memorial Union,30500,11_merged_758623,751266
+,K,0,to/from Memorial Union,30480,10_merged_758624,750792
+,K,0,to/from Memorial Union,30480,10_merged_758624,750793
+,K,0,to/from Memorial Union,30480,10_merged_758624,750790
+,K,0,to/from Memorial Union,30480,10_merged_758624,750791
+,K,0,to/from Memorial Union,30480,10_merged_758624,750794
+,D,0,to/from Silo,30465,38,750402
+,D,0,to/from Silo,30465,38,750403
+,D,0,to/from Silo,30465,38,750400
+,D,0,to/from Silo,30465,38,750401
+,D,0,to/from Silo,30465,38,750406
+,D,0,to/from Silo,30465,38,750407
+,D,0,to/from Silo,30465,38,750404
+,D,0,to/from Silo,30465,38,750405
+,D,0,to/from Silo,30465,38,750408
+,D,0,to/from Silo,30465,38,750409
+,V,1,to Memorial Union,30500,10_merged_758624,751315
+,V,1,to Memorial Union,30500,10_merged_758624,751314
+,V,1,to Memorial Union,30500,10_merged_758624,751317
+,V,1,to Memorial Union,30500,10_merged_758624,751316
+,V,1,to Memorial Union,30500,10_merged_758624,751311
+,V,1,to Memorial Union,30500,10_merged_758624,751310
+,V,1,to Memorial Union,30500,10_merged_758624,751313
+,V,1,to Memorial Union,30500,10_merged_758624,751312
+,A,1,To SILO,30458,38,750222
+,A,1,To SILO,30458,38,750223
+,A,1,To SILO,30458,38,750220
+,A,1,To SILO,30458,38,750221
+,V,1,to Memorial Union,30500,10_merged_758624,751319
+,V,1,to Memorial Union,30500,10_merged_758624,751318
+,A,1,To SILO,30458,38,750224
+,A,1,To SILO,30458,38,750225
+,V,0,to West Village,30834,10_merged_758627,758305
+,V,0,to West Village,30834,10_merged_758627,758304
+,K,0,to/from Memorial Union,30815,10_merged_758627,757838
+,V,0,to West Village,30834,10_merged_758627,758306
+,V,0,to West Village,30834,10_merged_758627,758301
+,V,0,to West Village,30834,10_merged_758627,758300
+,V,0,to West Village,30834,10_merged_758627,758303
+,V,0,to West Village,30834,10_merged_758627,758302
+,K,0,to/from Memorial Union,30815,10_merged_758627,757832
+,K,0,to/from Memorial Union,30815,10_merged_758627,757833
+,K,0,to/from Memorial Union,30815,10_merged_758627,757830
+,K,0,to/from Memorial Union,30815,10_merged_758627,757831
+,V,0,to West Village,30834,10_merged_758627,758309
+,V,0,to West Village,30834,10_merged_758627,758308
+,K,0,to/from Memorial Union,30815,10_merged_758627,757834
+,K,0,to/from Memorial Union,30815,10_merged_758627,757835
+,M,0,to/from Memorial Union,30822,11_merged_758626,757946
+,M,0,to/from Memorial Union,30822,11_merged_758626,757947
+,M,0,to/from Memorial Union,30822,11_merged_758626,757944
+,M,0,to/from Memorial Union,30822,11_merged_758626,757945
+,M,0,to/from Memorial Union,30822,11_merged_758626,757942
+,M,0,to/from Memorial Union,30822,11_merged_758626,757943
+,M,0,to/from Memorial Union,30822,11_merged_758626,757940
+,M,0,to/from Memorial Union,30822,11_merged_758626,757941
+,V,1,to Silo,30837,11_merged_758626,758240
+,V,1,to Silo,30837,11_merged_758626,758241
+,V,1,to Silo,30837,11_merged_758626,758242
+,V,1,to Silo,30837,11_merged_758626,758243
+,V,1,to Silo,30837,11_merged_758626,758244
+,F,0,to/from Memorial Union,30470,38,750509
+,M,0,to/from Memorial Union,30822,11_merged_758626,757948
+,M,0,to/from Memorial Union,30822,11_merged_758626,757949
+,Q,0,Regular to/from Memorial Union,30494,12_merged_758625,751051
+,V,1,to Silo,30837,11_merged_758626,758249
+,G,0,to/from Memorial Union,30810,12_merged_758628,757572
+,W,0,to/from Silo,30502,38,751373
+,A,1,To SILO,30797,11_merged_758626,757054
+,J,0,to/from Silo,30476,38,750718
+,J,0,to/from Silo,30476,38,750719
+,A,1,To SILO,30797,11_merged_758626,757047
+,A,1,To SILO,30797,11_merged_758626,757046
+,A,1,To SILO,30797,11_merged_758626,757045
+,A,1,To SILO,30797,11_merged_758626,757044
+,A,1,To SILO,30797,11_merged_758626,757043
+,A,1,To SILO,30797,11_merged_758626,757042
+,A,1,To SILO,30797,11_merged_758626,757041
+,A,1,To SILO,30797,11_merged_758626,757040
+,A,1,To SILO,30797,11_merged_758626,757049
+,A,1,To SILO,30797,11_merged_758626,757048
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757080
+,J,0,to/from Silo,30476,38,750710
+,W,0,to/from Silo,30502,38,751378
+,C,0,to/from Silo,30800,10_merged_758627,757223
+,C,0,to/from Silo,30800,10_merged_758627,757222
+,C,0,to/from Silo,30800,10_merged_758627,757221
+,C,0,to/from Silo,30800,10_merged_758627,757220
+,C,0,to/from Silo,30800,10_merged_758627,757227
+,C,0,to/from Silo,30800,10_merged_758627,757226
+,C,0,to/from Silo,30800,10_merged_758627,757225
+,C,0,to/from Silo,30800,10_merged_758627,757224
+,C,0,to/from Silo,30800,10_merged_758627,757229
+,C,0,to/from Silo,30800,10_merged_758627,757228
+,E,0,to/from Memorial Union,30467,10_merged_758624,750486
+,E,0,to/from Memorial Union,30467,10_merged_758624,750487
+,D,0,to/from Silo,30801,11_merged_758626,757319
+,D,0,to/from Silo,30801,11_merged_758626,757318
+,D,0,to/from Silo,30801,11_merged_758626,757317
+,D,0,to/from Silo,30801,11_merged_758626,757316
+,D,0,to/from Silo,30801,11_merged_758626,757315
+,D,0,to/from Silo,30801,11_merged_758626,757314
+,D,0,to/from Silo,30801,11_merged_758626,757313
+,D,0,to/from Silo,30801,11_merged_758626,757312
+,D,0,to/from Silo,30801,11_merged_758626,757311
+,D,0,to/from Silo,30801,11_merged_758626,757310
+,Z,0,,30506,10_merged_758624,751418
+,Z,0,,30506,10_merged_758624,751419
+,V,1,to Silo,30837,11_merged_758626,758245
+,Q,0,Regular to/from Memorial Union,30494,38,751078
+,Q,0,Regular to/from Memorial Union,30494,38,751079
+,Q,0,Regular to/from Memorial Union,30494,38,751074
+,Q,0,Regular to/from Memorial Union,30494,38,751075
+,Q,0,Regular to/from Memorial Union,30494,38,751076
+,Q,0,Regular to/from Memorial Union,30494,38,751077
+,Q,0,Regular to/from Memorial Union,30494,38,751070
+,Q,0,Regular to/from Memorial Union,30494,38,751071
+,Q,0,Regular to/from Memorial Union,30494,38,751072
+,Q,0,Regular to/from Memorial Union,30494,38,751073
+,V,0,to West Village,30498,11_merged_758623,751254
+,V,0,to West Village,30498,11_merged_758623,751255
+,V,0,to West Village,30498,11_merged_758623,751256
+,V,0,to West Village,30498,11_merged_758623,751257
+,B,0,to/from Memorial Union,30460,10_merged_758624,750309
+,B,0,to/from Memorial Union,30460,10_merged_758624,750308
+,V,0,to West Village,30498,11_merged_758623,751252
+,V,0,to West Village,30498,11_merged_758623,751253
+,B,0,to/from Memorial Union,30460,10_merged_758624,750305
+,B,0,to/from Memorial Union,30460,10_merged_758624,750304
+,B,0,to/from Memorial Union,30460,10_merged_758624,750307
+,B,0,to/from Memorial Union,30460,10_merged_758624,750306
+,B,0,to/from Memorial Union,30460,10_merged_758624,750301
+,V,0,to West Village,30498,11_merged_758623,751259
+,B,0,to/from Memorial Union,30460,10_merged_758624,750303
+,B,0,to/from Memorial Union,30460,10_merged_758624,750302
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751096
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751097
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751094
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751095
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751092
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751093
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751090
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751091
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751098
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751099
+,K,0,to/from Memorial Union,30480,10_merged_758624,750781
+,K,0,to/from Memorial Union,30480,11_merged_758623,750780
+,K,0,to/from Memorial Union,30480,10_merged_758624,750783
+,K,0,to/from Memorial Union,30480,10_merged_758624,750782
+,K,0,to/from Memorial Union,30480,10_merged_758624,750785
+,K,0,to/from Memorial Union,30480,10_merged_758624,750784
+,K,0,to/from Memorial Union,30480,10_merged_758624,750787
+,K,0,to/from Memorial Union,30480,10_merged_758624,750786
+,K,0,to/from Memorial Union,30480,10_merged_758624,750789
+,K,0,to/from Memorial Union,30480,10_merged_758624,750788
+,D,0,to/from Silo,30465,38,750411
+,D,0,to/from Silo,30465,38,750410
+,V,1,to Memorial Union,30500,10_merged_758624,751320
+,V,1,to Memorial Union,30500,10_merged_758624,751321
+,V,1,to Memorial Union,30500,10_merged_758624,751322
+,V,1,to Memorial Union,30500,10_merged_758624,751323
+,A,1,To SILO,30458,38,750231
+,A,1,To SILO,30458,38,750230
+,A,1,To SILO,30458,38,750233
+,A,1,To SILO,30458,38,750232
+,A,1,To SILO,30458,38,750235
+,A,1,To SILO,30458,38,750234
+,A,1,To SILO,30458,38,750237
+,A,1,To SILO,30458,38,750236
+,V,0,to West Village,30834,10_merged_758627,758330
+,K,0,to/from Memorial Union,30815,10_merged_758627,757828
+,V,0,to West Village,30834,10_merged_758627,758332
+,V,0,to West Village,30834,10_merged_758627,758333
+,V,1,to Silo,30837,10_merged_758627,758334
+,V,1,to Silo,30837,10_merged_758627,758335
+,V,1,to Silo,30837,10_merged_758627,758336
+,V,1,to Silo,30837,10_merged_758627,758337
+,K,0,to/from Memorial Union,30815,10_merged_758627,757821
+,K,0,to/from Memorial Union,30815,10_merged_758627,757820
+,K,0,to/from Memorial Union,30815,10_merged_758627,757823
+,K,0,to/from Memorial Union,30815,10_merged_758627,757822
+,K,0,to/from Memorial Union,30815,10_merged_758627,757825
+,K,0,to/from Memorial Union,30815,10_merged_758627,757824
+,K,0,to/from Memorial Union,30815,10_merged_758627,757827
+,K,0,to/from Memorial Union,30815,10_merged_758627,757826
+,V,1,to Silo,30837,11_merged_758626,758257
+,V,1,to Silo,30837,11_merged_758626,758256
+,V,1,to Silo,30837,11_merged_758626,758255
+,V,1,to Silo,30837,11_merged_758626,758254
+,V,1,to Silo,30837,11_merged_758626,758253
+,V,1,to Silo,30837,11_merged_758626,758252
+,V,1,to Silo,30837,11_merged_758626,758251
+,V,1,to Silo,30837,11_merged_758626,758250
+,V,1,to Silo,30837,11_merged_758626,758259
+,V,1,to Silo,30837,11_merged_758626,758258
+,M,0,to/from Memorial Union,30822,10_merged_758627,757955
+,M,0,to/from Memorial Union,30822,10_merged_758627,757954
+,M,0,to/from Memorial Union,30822,10_merged_758627,757957
+,M,0,to/from Memorial Union,30822,10_merged_758627,757956
+,M,0,to/from Memorial Union,30822,11_merged_758626,757951
+,M,0,to/from Memorial Union,30822,11_merged_758626,757950
+,M,0,to/from Memorial Union,30822,11_merged_758626,757953
+,M,0,to/from Memorial Union,30822,11_merged_758626,757952
+,M,0,to/from Memorial Union,30822,10_merged_758627,757959
+,M,0,to/from Memorial Union,30822,10_merged_758627,757958
+,V,1,to Silo,30837,10_merged_758627,758360
+,V,1,to Silo,30837,10_merged_758627,758367
+,V,1,to Silo,30837,10_merged_758627,758366
+,F,0,to/from Memorial Union,30808,10_merged_758627,757515
+,V,1,to Silo,30837,10_merged_758627,758365
+,F,0,to/from Memorial Union,30808,10_merged_758627,757514
+,V,1,to Silo,30837,10_merged_758627,758364
+,F,0,to/from Memorial Union,30808,10_merged_758627,757519
+,F,0,to/from Memorial Union,30808,10_merged_758627,757518
+,A,1,To SILO,30797,11_merged_758626,757032
+,A,1,To SILO,30797,11_merged_758626,757033
+,A,1,To SILO,30797,11_merged_758626,757030
+,A,1,To SILO,30797,11_merged_758626,757031
+,A,1,To SILO,30797,11_merged_758626,757036
+,A,1,To SILO,30797,11_merged_758626,757037
+,A,1,To SILO,30797,11_merged_758626,757034
+,A,1,To SILO,30797,11_merged_758626,757035
+,A,1,To SILO,30797,11_merged_758626,757038
+,A,1,To SILO,30797,11_merged_758626,757039
+,V,1,to Silo,30499,38,751213
+,K,0,to/from Memorial Union,30815,12_merged_758628,757788
+,K,0,to/from Memorial Union,30815,12_merged_758628,757789
+,K,0,to/from Memorial Union,30815,12_merged_758628,757784
+,K,0,to/from Memorial Union,30815,12_merged_758628,757785
+,K,0,to/from Memorial Union,30815,12_merged_758628,757786
+,K,0,to/from Memorial Union,30815,12_merged_758628,757787
+,J,0,to/from Silo,30812,10_merged_758627,757780
+,J,0,to/from Silo,30812,10_merged_758627,757781
+,K,0,to/from Memorial Union,30815,12_merged_758628,757782
+,K,0,to/from Memorial Union,30815,12_merged_758628,757783
+,G,0,to/from Memorial Union,30473,11_merged_758623,750650
+,B,0,to/from Memorial Union,30799,11_merged_758626,757148
+,B,0,to/from Memorial Union,30799,11_merged_758626,757149
+,B,0,to/from Memorial Union,30799,11_merged_758626,757146
+,B,0,to/from Memorial Union,30799,11_merged_758626,757147
+,B,0,to/from Memorial Union,30799,11_merged_758626,757144
+,B,0,to/from Memorial Union,30799,11_merged_758626,757145
+,B,0,to/from Memorial Union,30799,11_merged_758626,757142
+,B,0,to/from Memorial Union,30799,11_merged_758626,757143
+,B,0,to/from Memorial Union,30799,11_merged_758626,757140
+,B,0,to/from Memorial Union,30799,11_merged_758626,757141
+,J,0,to/from Silo,30812,10_merged_758627,757766
+,J,0,to/from Silo,30812,10_merged_758627,757767
+,J,0,to/from Silo,30812,10_merged_758627,757764
+,J,0,to/from Silo,30812,10_merged_758627,757765
+,J,0,to/from Silo,30812,10_merged_758627,757762
+,J,0,to/from Silo,30812,10_merged_758627,757763
+,J,0,to/from Silo,30812,10_merged_758627,757760
+,J,0,to/from Silo,30812,10_merged_758627,757761
+,J,0,to/from Silo,30812,10_merged_758627,757768
+,J,0,to/from Silo,30812,10_merged_758627,757769
+,F,0,to/from Memorial Union,30808,11_merged_758626,757498
+,F,0,to/from Memorial Union,30808,11_merged_758626,757499
+,D,0,to/from Silo,30801,10_merged_758627,757368
+,D,0,to/from Silo,30801,10_merged_758627,757369
+,D,0,to/from Silo,30801,10_merged_758627,757362
+,D,0,to/from Silo,30801,10_merged_758627,757363
+,D,0,to/from Silo,30801,10_merged_758627,757360
+,D,0,to/from Silo,30801,10_merged_758627,757361
+,D,0,to/from Silo,30801,10_merged_758627,757366
+,F,0,to/from Memorial Union,30808,11_merged_758626,757495
+,D,0,to/from Silo,30801,10_merged_758627,757364
+,D,0,to/from Silo,30801,10_merged_758627,757365
+,Q,0,Regular to/from Memorial Union,30494,38,751069
+,Q,0,Regular to/from Memorial Union,30494,38,751068
+,Q,0,Regular to/from Memorial Union,30494,38,751063
+,Q,0,Regular to/from Memorial Union,30494,38,751062
+,Q,0,Regular to/from Memorial Union,30494,38,751061
+,Q,0,Regular to/from Memorial Union,30494,38,751060
+,Q,0,Regular to/from Memorial Union,30494,38,751067
+,Q,0,Regular to/from Memorial Union,30494,38,751066
+,Q,0,Regular to/from Memorial Union,30494,38,751065
+,Q,0,Regular to/from Memorial Union,30494,38,751064
+,V,0,to West Village,30498,11_merged_758623,751243
+,V,0,to West Village,30498,11_merged_758623,751242
+,V,0,to West Village,30498,11_merged_758623,751241
+,V,0,to West Village,30498,11_merged_758623,751240
+,V,0,to West Village,30498,11_merged_758623,751247
+,V,0,to West Village,30498,11_merged_758623,751246
+,V,0,to West Village,30498,11_merged_758623,751245
+,V,0,to West Village,30498,11_merged_758623,751244
+,C,0,to/from Silo,30462,38,750330
+,C,0,to/from Silo,30462,38,750331
+,V,0,to West Village,30498,11_merged_758623,751249
+,V,0,to West Village,30498,11_merged_758623,751248
+,C,0,to/from Silo,30462,38,750334
+,C,0,to/from Silo,30462,38,750335
+,C,0,to/from Silo,30462,38,750336
+,C,0,to/from Silo,30462,38,750337
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751085
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751084
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751087
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751086
+,Q,0,Regular to/from Memorial Union,30494,38,751081
+,Q,0,Regular to/from Memorial Union,30494,38,751080
+,Q,0,Regular to/from Memorial Union,30493,38,751083
+,Q,0,Regular to/from Memorial Union,30494,38,751082
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751089
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751088
+,A,0,To El Cemonte/Glide,30455,38,750204
+,A,0,To El Cemonte/Glide,30455,38,750205
+,A,0,To El Cemonte/Glide,30455,38,750206
+,A,0,To El Cemonte/Glide,30455,38,750207
+,A,0,To El Cemonte/Glide,30455,38,750200
+,A,0,To El Cemonte/Glide,30455,38,750201
+,A,0,To El Cemonte/Glide,30455,38,750202
+,A,0,To El Cemonte/Glide,30455,38,750203
+,A,0,To El Cemonte/Glide,30455,38,750208
+,T,1,PM to South Davis,30496,11_merged_758623,751454
+,K,0,to/from Memorial Union,30480,38,750758
+,K,0,to/from Memorial Union,30480,38,750759
+,W,0,to/from Silo,30841,11_merged_758626,758433
+,W,0,to/from Silo,30841,11_merged_758626,758432
+,W,0,to/from Silo,30841,11_merged_758626,758431
+,T,0,AM to 14th @ Davis High School,30495,38,751455
+,W,0,to/from Silo,30841,11_merged_758626,758437
+,W,0,to/from Silo,30841,11_merged_758626,758436
+,W,0,to/from Silo,30841,11_merged_758626,758435
+,W,0,to/from Silo,30841,11_merged_758626,758434
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751100
+,W,0,to/from Silo,30841,11_merged_758626,758439
+,W,0,to/from Silo,30841,11_merged_758626,758438
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751101
+,K,0,to/from Memorial Union,30815,11_merged_758626,757811
+,P,0,Regular to/from Memorial Union,30491,38,750989
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751103
+,G,0,to/from Memorial Union,30810,12_merged_758628,757568
+,G,0,to/from Memorial Union,30473,10_merged_758624,750688
+,G,0,to/from Memorial Union,30473,10_merged_758624,750689
+,E,0,to/from Memorial Union,30467,38,750454
+,G,0,to/from Memorial Union,30473,10_merged_758624,750680
+,G,0,to/from Memorial Union,30473,10_merged_758624,750681
+,G,0,to/from Memorial Union,30473,10_merged_758624,750682
+,G,0,to/from Memorial Union,30473,10_merged_758624,750683
+,G,0,to/from Memorial Union,30473,10_merged_758624,750684
+,P,0,Regular to/from Memorial Union,30491,38,750985
+,G,0,to/from Memorial Union,30473,10_merged_758624,750686
+,G,0,to/from Memorial Union,30473,10_merged_758624,750687
+,P,0,Regular to/from Memorial Union,30491,38,750984
+,Q,0,Regular to/from Memorial Union,30494,11_merged_758623,751108
+,G,0,to/from Memorial Union,30810,12_merged_758628,757569
+,Q,0,Regular to/from Memorial Union,30494,10_merged_758624,751109
+,K,0,to/from Memorial Union,30815,11_merged_758626,757814
+,K,0,to/from Memorial Union,30815,11_merged_758626,757815
+,K,0,to/from Memorial Union,30815,11_merged_758626,757816
+,K,0,to/from Memorial Union,30815,11_merged_758626,757817
+,K,0,to/from Memorial Union,30815,11_merged_758626,757810
+,P,0,Regular to/from Memorial Union,30491,38,750981
+,K,0,to/from Memorial Union,30815,11_merged_758626,757812
+,K,0,to/from Memorial Union,30815,11_merged_758626,757813
+,E,0,to/from Memorial Union,30467,38,750452
+,K,0,to/from Memorial Union,30815,10_merged_758627,757818
+,K,0,to/from Memorial Union,30815,10_merged_758627,757819
+,V,0,to West Village,30834,10_merged_758627,758329
+,V,0,to West Village,30834,10_merged_758627,758328
+,V,0,to West Village,30834,10_merged_758627,758327
+,V,0,to West Village,30834,10_merged_758627,758326
+,V,0,to West Village,30834,10_merged_758627,758325
+,V,0,to West Village,30834,10_merged_758627,758324
+,V,0,to West Village,30834,10_merged_758627,758323
+,V,0,to West Village,30834,10_merged_758627,758322
+,V,0,to West Village,30834,10_merged_758627,758321
+,V,0,to West Village,30834,10_merged_758627,758320
+,V,0,to West Village,30834,11_merged_758626,758222
+,V,0,to West Village,30834,11_merged_758626,758223
+,V,0,to West Village,30834,11_merged_758626,758220
+,V,0,to West Village,30834,11_merged_758626,758221
+,V,0,to West Village,30834,11_merged_758626,758226
+,K,0,to/from Memorial Union,30815,10_merged_758627,757841
+,V,0,to West Village,30834,11_merged_758626,758224
+,V,0,to West Village,30834,11_merged_758626,758225
+,V,0,to West Village,30834,11_merged_758626,758228
+,V,0,to West Village,30834,11_merged_758626,758229
+,M,0,to/from Memorial Union,30822,10_merged_758627,757960
+,M,0,to/from Memorial Union,30822,10_merged_758627,757961
+,M,0,to/from Memorial Union,30822,10_merged_758627,757962
+,M,0,to/from Memorial Union,30822,10_merged_758627,757963
+,M,0,to/from Memorial Union,30822,10_merged_758627,757964
+,M,0,to/from Memorial Union,30822,10_merged_758627,757965
+,M,0,to/from Memorial Union,30822,10_merged_758627,757966
+,M,0,to/from Memorial Union,30822,10_merged_758627,757967
+,M,0,to/from Memorial Union,30822,10_merged_758627,757968
+,M,0,to/from Memorial Union,30822,10_merged_758627,757969
+,E,0,to/from Memorial Union,30805,10_merged_758627,757453
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758138
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758139
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758136
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758137
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758134
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758135
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758132
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758133
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758130
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758131
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757021
+,M,0,to/from Memorial Union,30486,10_merged_758624,750918
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757023
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757022
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757025
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757024
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757027
+,Z,0,,30506,10_merged_758624,751422
+,A,1,To SILO,30797,11_merged_758626,757029
+,Z,0,,30846,10_merged_758627,758617
+,Z,0,,30506,11_merged_758623,751429
+,K,0,to/from Memorial Union,30815,11_merged_758626,757799
+,Z,0,,30506,10_merged_758624,751428
+,K,0,to/from Memorial Union,30815,11_merged_758626,757793
+,K,0,to/from Memorial Union,30815,11_merged_758626,757792
+,K,0,to/from Memorial Union,30815,12_merged_758628,757791
+,K,0,to/from Memorial Union,30815,12_merged_758628,757790
+,K,0,to/from Memorial Union,30815,11_merged_758626,757797
+,K,0,to/from Memorial Union,30815,11_merged_758626,757796
+,K,0,to/from Memorial Union,30815,11_merged_758626,757795
+,K,0,to/from Memorial Union,30815,11_merged_758626,757794
+,B,0,to/from Memorial Union,30799,11_merged_758626,757159
+,B,0,to/from Memorial Union,30799,11_merged_758626,757158
+,B,0,to/from Memorial Union,30799,11_merged_758626,757155
+,B,0,to/from Memorial Union,30799,11_merged_758626,757154
+,B,0,to/from Memorial Union,30799,11_merged_758626,757157
+,B,0,to/from Memorial Union,30799,11_merged_758626,757156
+,B,0,to/from Memorial Union,30799,11_merged_758626,757151
+,B,0,to/from Memorial Union,30799,11_merged_758626,757150
+,B,0,to/from Memorial Union,30799,11_merged_758626,757153
+,B,0,to/from Memorial Union,30799,11_merged_758626,757152
+,J,0,to/from Silo,30812,10_merged_758627,757775
+,J,0,to/from Silo,30812,10_merged_758627,757774
+,J,0,to/from Silo,30812,10_merged_758627,757777
+,J,0,to/from Silo,30812,10_merged_758627,757776
+,J,0,to/from Silo,30812,10_merged_758627,757771
+,J,0,to/from Silo,30812,10_merged_758627,757770
+,J,0,to/from Silo,30812,10_merged_758627,757773
+,J,0,to/from Silo,30813,10_merged_758627,757772
+,J,0,to/from Silo,30812,10_merged_758627,757779
+,J,0,to/from Silo,30812,10_merged_758627,757778
+,F,0,to/from Memorial Union,30808,11_merged_758626,757487
+,F,0,to/from Memorial Union,30808,11_merged_758626,757486
+,F,0,to/from Memorial Union,30808,11_merged_758626,757485
+,F,0,to/from Memorial Union,30808,11_merged_758626,757484
+,F,0,to/from Memorial Union,30808,11_merged_758626,757483
+,F,0,to/from Memorial Union,30808,11_merged_758626,757482
+,F,0,to/from Memorial Union,30808,11_merged_758626,757481
+,F,0,to/from Memorial Union,30808,11_merged_758626,757480
+,A,1,To SILO,30797,11_merged_758626,757055
+,F,0,to/from Memorial Union,30808,11_merged_758626,757489
+,F,0,to/from Memorial Union,30808,11_merged_758626,757488
+,D,0,to/from Silo,30801,10_merged_758627,757379
+,L,0,to/from Silo,30820,11_merged_758626,757883
+,L,0,to/from Silo,30820,11_merged_758626,757882
+,D,0,to/from Silo,30801,10_merged_758627,757371
+,D,0,to/from Silo,30801,10_merged_758627,757370
+,D,0,to/from Silo,30801,10_merged_758627,757373
+,D,0,to/from Silo,30801,10_merged_758627,757372
+,D,0,to/from Silo,30801,10_merged_758627,757375
+,L,0,to/from Silo,30820,11_merged_758626,757881
+,D,0,to/from Silo,30801,10_merged_758627,757377
+,D,0,to/from Silo,30801,10_merged_758627,757376
+,L,0,to/from Silo,30820,11_merged_758626,757880
+,L,0,to/from Silo,30820,11_merged_758626,757887
+,L,0,to/from Silo,30820,11_merged_758626,757886
+,L,0,to/from Silo,30820,11_merged_758626,757885
+,L,0,to/from Silo,30820,11_merged_758626,757884
+,W,0,to/from Silo,30841,10_merged_758627,758514
+,W,0,to/from Silo,30841,10_merged_758627,758515
+,W,0,to/from Silo,30841,10_merged_758627,758516
+,G,0,to/from Memorial Union,30810,12_merged_758628,757573
+,V,1,to Silo,30837,11_merged_758626,758265
+,G,0,to/from Memorial Union,30810,12_merged_758628,757571
+,G,0,to/from Memorial Union,30810,12_merged_758628,757570
+,G,0,to/from Memorial Union,30810,12_merged_758628,757577
+,G,0,to/from Memorial Union,30810,12_merged_758628,757576
+,G,0,to/from Memorial Union,30810,12_merged_758628,757575
+,G,0,to/from Memorial Union,30810,12_merged_758628,757574
+,W,0,to/from Silo,30841,10_merged_758627,758510
+,G,0,to/from Memorial Union,30810,11_merged_758626,757579
+,G,0,to/from Memorial Union,30810,11_merged_758626,757578
+,W,0,to/from Silo,30841,10_merged_758627,758511
+,W,0,to/from Silo,30841,10_merged_758627,758512
+,W,0,to/from Silo,30841,10_merged_758627,758513
+,Z,0,,30506,11_merged_758623,751434
+,Z,0,,30506,11_merged_758623,751435
+,Z,0,,30506,11_merged_758623,751436
+,Z,0,,30506,11_merged_758623,751437
+,Z,0,,30506,11_merged_758623,751430
+,Z,0,,30506,11_merged_758623,751431
+,Z,0,,30506,11_merged_758623,751432
+,Z,0,,30506,11_merged_758623,751433
+,E,0,to/from Memorial Union,30467,38,750433
+,M,0,to/from Memorial Union,30486,10_merged_758624,750924
+,E,0,to/from Memorial Union,30467,38,750431
+,Z,0,,30506,11_merged_758623,751438
+,M,0,to/from Memorial Union,30486,10_merged_758624,750920
+,M,0,to/from Memorial Union,30486,10_merged_758624,750923
+,M,0,to/from Memorial Union,30486,10_merged_758624,750922
+,K,0,to/from Memorial Union,30480,38,750745
+,K,0,to/from Memorial Union,30480,38,750744
+,K,0,to/from Memorial Union,30480,38,750747
+,K,0,to/from Memorial Union,30480,38,750746
+,A,1,To SILO,30458,38,750217
+,A,1,To SILO,30458,38,750216
+,A,1,To SILO,30458,38,750215
+,A,1,To SILO,30458,38,750214
+,A,1,To SILO,30458,38,750219
+,A,1,To SILO,30458,38,750218
+,K,0,to/from Memorial Union,30480,38,750749
+,K,0,to/from Memorial Union,30480,38,750748
+,J,0,to/from Silo,30476,38,750697
+,J,0,to/from Silo,30476,38,750696
+,G,0,to/from Memorial Union,30473,10_merged_758624,750695
+,G,0,to/from Memorial Union,30473,10_merged_758624,750694
+,G,0,to/from Memorial Union,30473,10_merged_758624,750693
+,G,0,to/from Memorial Union,30473,10_merged_758624,750692
+,G,0,to/from Memorial Union,30473,10_merged_758624,750691
+,G,0,to/from Memorial Union,30473,10_merged_758624,750690
+,J,0,to/from Silo,30476,38,750699
+,J,0,to/from Silo,30476,38,750698
+,C,0,to/from Silo,30462,38,750327
+,C,0,to/from Silo,30462,38,750326
+,C,0,to/from Silo,30462,38,750325
+,C,0,to/from Silo,30462,38,750324
+,C,0,to/from Silo,30462,38,750323
+,C,0,to/from Silo,30462,38,750322
+,C,0,to/from Silo,30462,38,750321
+,C,0,to/from Silo,30462,38,750320
+,C,0,to/from Silo,30462,38,750329
+,C,0,to/from Silo,30462,38,750328
+,K,0,to/from Memorial Union,30815,11_merged_758626,757803
+,K,0,to/from Memorial Union,30815,11_merged_758626,757802
+,K,0,to/from Memorial Union,30815,11_merged_758626,757801
+,K,0,to/from Memorial Union,30815,11_merged_758626,757800
+,K,0,to/from Memorial Union,30815,11_merged_758626,757807
+,K,0,to/from Memorial Union,30815,11_merged_758626,757806
+,K,0,to/from Memorial Union,30815,11_merged_758626,757805
+,K,0,to/from Memorial Union,30815,11_merged_758626,757804
+,K,0,to/from Memorial Union,30815,11_merged_758626,757809
+,K,0,to/from Memorial Union,30815,11_merged_758626,757808
+,V,1,to Silo,30837,10_merged_758627,758358
+,V,1,to Silo,30837,10_merged_758627,758359
+,V,1,to Silo,30837,10_merged_758627,758352
+,V,1,to Silo,30837,10_merged_758627,758353
+,V,1,to Silo,30837,10_merged_758627,758350
+,V,1,to Silo,30837,10_merged_758627,758351
+,V,1,to Silo,30837,10_merged_758627,758356
+,V,1,to Silo,30837,10_merged_758627,758357
+,V,1,to Silo,30837,10_merged_758627,758354
+,V,1,to Silo,30837,10_merged_758627,758355
+,L,0,to/from Silo,30482,38,750825
+,V,0,to West Village,30834,11_merged_758626,758231
+,V,0,to West Village,30834,11_merged_758626,758230
+,V,1,to Silo,30837,11_merged_758626,758233
+,V,1,to Silo,30837,11_merged_758626,758232
+,V,1,to Silo,30837,11_merged_758626,758235
+,V,1,to Silo,30837,11_merged_758626,758234
+,V,1,to Silo,30837,11_merged_758626,758237
+,V,1,to Silo,30837,11_merged_758626,758236
+,V,1,to Silo,30837,11_merged_758626,758239
+,V,1,to Silo,30837,11_merged_758626,758238
+,M,0,to/from Memorial Union,30822,10_merged_758627,757979
+,M,0,to/from Memorial Union,30822,10_merged_758627,757978
+,M,0,to/from Memorial Union,30822,10_merged_758627,757977
+,M,0,to/from Memorial Union,30822,10_merged_758627,757976
+,M,0,to/from Memorial Union,30822,10_merged_758627,757975
+,M,0,to/from Memorial Union,30822,10_merged_758627,757974
+,M,0,to/from Memorial Union,30822,10_merged_758627,757973
+,M,0,to/from Memorial Union,30822,10_merged_758627,757972
+,M,0,to/from Memorial Union,30822,10_merged_758627,757971
+,M,0,to/from Memorial Union,30822,10_merged_758627,757970
+,L,0,to/from Silo,30482,38,756998
+,L,0,to/from Silo,30482,38,756999
+,L,0,to/from Silo,30482,38,756996
+,L,0,to/from Silo,30482,38,756997
+,L,0,to/from Silo,30482,38,756994
+,L,0,to/from Silo,30482,38,756995
+,L,0,to/from Silo,30482,38,756992
+,L,0,to/from Silo,30482,38,756993
+,L,0,to/from Silo,30482,38,756990
+,L,0,to/from Silo,30482,38,756991
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758129
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758128
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758125
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758124
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758127
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758126
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758121
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758120
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758123
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758122
+,J,0,to/from Silo,30812,11_merged_758626,757717
+,J,0,to/from Silo,30812,11_merged_758626,757716
+,C,0,to/from Silo,30800,10_merged_758627,757243
+,J,0,to/from Silo,30812,11_merged_758626,757714
+,F,0,to/from Memorial Union,30808,11_merged_758626,757490
+,F,0,to/from Memorial Union,30808,11_merged_758626,757491
+,F,0,to/from Memorial Union,30808,11_merged_758626,757492
+,F,0,to/from Memorial Union,30808,11_merged_758626,757493
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757018
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757019
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757014
+,F,0,to/from Memorial Union,30808,11_merged_758626,757494
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757016
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757017
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757010
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757011
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757012
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757013
+,F,0,to/from Memorial Union,30808,11_merged_758626,757496
+,F,0,to/from Memorial Union,30808,11_merged_758626,757497
+,B,0,to/from Memorial Union,30799,10_merged_758627,757168
+,B,0,to/from Memorial Union,30799,10_merged_758627,757169
+,B,0,to/from Memorial Union,30799,11_merged_758626,757160
+,B,0,to/from Memorial Union,30799,10_merged_758627,757161
+,B,0,to/from Memorial Union,30799,10_merged_758627,757162
+,B,0,to/from Memorial Union,30799,10_merged_758627,757163
+,B,0,to/from Memorial Union,30799,10_merged_758627,757164
+,B,0,to/from Memorial Union,30799,10_merged_758627,757165
+,B,0,to/from Memorial Union,30799,10_merged_758627,757166
+,B,0,to/from Memorial Union,30799,10_merged_758627,757167
+,J,0,to/from Silo,30812,10_merged_758627,757740
+,J,0,to/from Silo,30812,10_merged_758627,757741
+,J,0,to/from Silo,30812,10_merged_758627,757742
+,J,0,to/from Silo,30812,10_merged_758627,757743
+,J,0,to/from Silo,30812,10_merged_758627,757744
+,J,0,to/from Silo,30812,10_merged_758627,757745
+,J,0,to/from Silo,30812,10_merged_758627,757746
+,J,0,to/from Silo,30812,10_merged_758627,757747
+,J,0,to/from Silo,30812,10_merged_758627,757748
+,J,0,to/from Silo,30812,10_merged_758627,757749
+,D,0,to/from Silo,30801,10_merged_758627,757344
+,D,0,to/from Silo,30801,10_merged_758627,757345
+,D,0,to/from Silo,30801,10_merged_758627,757346
+,D,0,to/from Silo,30801,10_merged_758627,757347
+,D,0,to/from Silo,30801,10_merged_758627,757340
+,D,0,to/from Silo,30801,10_merged_758627,757341
+,D,0,to/from Silo,30801,10_merged_758627,757342
+,D,0,to/from Silo,30801,10_merged_758627,757343
+,D,0,to/from Silo,30801,10_merged_758627,757348
+,D,0,to/from Silo,30801,10_merged_758627,757349
+,E,0,to/from Memorial Union,30467,38,750437
+,G,0,to/from Memorial Union,30810,11_merged_758626,757588
+,G,0,to/from Memorial Union,30810,11_merged_758626,757589
+,G,0,to/from Memorial Union,30810,11_merged_758626,757586
+,G,0,to/from Memorial Union,30810,11_merged_758626,757587
+,G,0,to/from Memorial Union,30810,11_merged_758626,757584
+,G,0,to/from Memorial Union,30810,11_merged_758626,757585
+,G,0,to/from Memorial Union,30810,11_merged_758626,757582
+,G,0,to/from Memorial Union,30810,11_merged_758626,757583
+,G,0,to/from Memorial Union,30810,11_merged_758626,757580
+,G,0,to/from Memorial Union,30810,11_merged_758626,757581
+,Z,0,,30506,10_merged_758624,751423
+,M,0,to/from Memorial Union,30486,10_merged_758624,750919
+,Z,0,,30506,10_merged_758624,751421
+,Z,0,,30506,10_merged_758624,751420
+,Z,0,,30506,10_merged_758624,751427
+,Z,0,,30506,10_merged_758624,751426
+,Z,0,,30506,10_merged_758624,751425
+,Z,0,,30506,10_merged_758624,751424
+,M,0,to/from Memorial Union,30486,11_merged_758623,750910
+,M,0,to/from Memorial Union,30486,10_merged_758624,750911
+,M,0,to/from Memorial Union,30486,10_merged_758624,750912
+,M,0,to/from Memorial Union,30486,10_merged_758624,750913
+,M,0,to/from Memorial Union,30486,10_merged_758624,750914
+,M,0,to/from Memorial Union,30486,10_merged_758624,750915
+,M,0,to/from Memorial Union,30486,10_merged_758624,750916
+,M,0,to/from Memorial Union,30486,10_merged_758624,750917
+,K,0,to/from Memorial Union,30480,11_merged_758623,750770
+,K,0,to/from Memorial Union,30480,11_merged_758623,750771
+,K,0,to/from Memorial Union,30480,11_merged_758623,750772
+,K,0,to/from Memorial Union,30480,11_merged_758623,750773
+,K,0,to/from Memorial Union,30480,11_merged_758623,750774
+,K,0,to/from Memorial Union,30480,11_merged_758623,750775
+,K,0,to/from Memorial Union,30480,11_merged_758623,750776
+,K,0,to/from Memorial Union,30480,11_merged_758623,750777
+,K,0,to/from Memorial Union,30480,11_merged_758623,750778
+,K,0,to/from Memorial Union,30480,11_merged_758623,750779
+,V,1,to Silo,30837,10_merged_758627,758349
+,V,1,to Silo,30837,10_merged_758627,758348
+,V,1,to Silo,30837,10_merged_758627,758341
+,V,1,to Silo,30837,10_merged_758627,758340
+,V,1,to Silo,30837,10_merged_758627,758343
+,V,1,to Silo,30837,10_merged_758627,758342
+,V,1,to Silo,30837,10_merged_758627,758345
+,V,1,to Silo,30837,10_merged_758627,758344
+,V,1,to Silo,30837,10_merged_758627,758347
+,V,1,to Silo,30837,10_merged_758627,758346
+,C,0,to/from Silo,30462,38,750338
+,C,0,to/from Silo,30462,38,750339
+,V,0,to West Village,30834,11_merged_758626,758208
+,V,0,to West Village,30834,11_merged_758626,758209
+,V,0,to West Village,30834,11_merged_758626,758204
+,V,0,to West Village,30834,11_merged_758626,758205
+,V,0,to West Village,30834,11_merged_758626,758206
+,V,0,to West Village,30834,11_merged_758626,758207
+,V,0,to West Village,30834,11_merged_758626,758200
+,V,0,to West Village,30834,11_merged_758626,758201
+,V,0,to West Village,30834,11_merged_758626,758202
+,V,0,to West Village,30834,11_merged_758626,758203
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758095
+,L,0,to/from Silo,30820,10_merged_758627,757908
+,L,0,to/from Silo,30820,10_merged_758627,757909
+,A,0,To El Cemonte/Glide,30795,10_merged_758627,757059
+,L,0,to/from Silo,30820,10_merged_758627,757902
+,L,0,to/from Silo,30820,10_merged_758627,757903
+,L,0,to/from Silo,30820,10_merged_758627,757900
+,L,0,to/from Silo,30820,10_merged_758627,757901
+,L,0,to/from Silo,30820,10_merged_758627,757906
+,L,0,to/from Silo,30820,10_merged_758627,757907
+,L,0,to/from Silo,30820,10_merged_758627,757904
+,L,0,to/from Silo,30820,10_merged_758627,757905
+,C,0,to/from Silo,30462,38,750332
+,C,0,to/from Silo,30462,38,750333
+,C,0,to/from Silo,30462,38,756989
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758118
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758119
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758110
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758111
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758112
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758113
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758114
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758115
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758116
+,Q,0,Regular to/from Memorial Union,30830,10_merged_758627,758117
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757009
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757008
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757003
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757002
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757001
+,L,0,to/from Silo,30482,38,757000
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757007
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757006
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757005
+,A,0,To El Cemonte/Glide,30795,11_merged_758626,757004
+,Z,0,,30846,10_merged_758627,758620
+,Z,0,,30846,10_merged_758627,758621
+,B,0,to/from Memorial Union,30799,10_merged_758627,757177
+,B,0,to/from Memorial Union,30799,10_merged_758627,757176
+,B,0,to/from Memorial Union,30799,10_merged_758627,757175
+,B,0,to/from Memorial Union,30799,10_merged_758627,757174
+,B,0,to/from Memorial Union,30799,10_merged_758627,757173
+,B,0,to/from Memorial Union,30799,10_merged_758627,757172
+,B,0,to/from Memorial Union,30799,10_merged_758627,757171
+,B,0,to/from Memorial Union,30799,10_merged_758627,757170
+,B,0,to/from Memorial Union,30799,10_merged_758627,757179
+,B,0,to/from Memorial Union,30799,10_merged_758627,757178
+,V,0,to West Village,30834,10_merged_758627,758331
+,Z,0,,30506,38,751444
+,J,0,to/from Silo,30812,10_merged_758627,757759
+,J,0,to/from Silo,30812,10_merged_758627,757758
+,J,0,to/from Silo,30812,10_merged_758627,757757
+,J,0,to/from Silo,30812,10_merged_758627,757756
+,J,0,to/from Silo,30812,10_merged_758627,757755
+,J,0,to/from Silo,30812,10_merged_758627,757754
+,J,0,to/from Silo,30812,10_merged_758627,757753
+,J,0,to/from Silo,30812,10_merged_758627,757752
+,J,0,to/from Silo,30812,10_merged_758627,757751
+,J,0,to/from Silo,30812,10_merged_758627,757750
+,D,0,to/from Silo,30801,10_merged_758627,757353
+,D,0,to/from Silo,30801,10_merged_758627,757352
+,D,0,to/from Silo,30801,10_merged_758627,757351
+,D,0,to/from Silo,30801,10_merged_758627,757350
+,D,0,to/from Silo,30801,10_merged_758627,757357
+,D,0,to/from Silo,30801,10_merged_758627,757356
+,D,0,to/from Silo,30801,10_merged_758627,757355
+,D,0,to/from Silo,30801,10_merged_758627,757354
+,D,0,to/from Silo,30801,10_merged_758627,757359
+,D,0,to/from Silo,30801,10_merged_758627,757358
+,C,0,to/from Silo,30800,10_merged_758627,757239
+,C,0,to/from Silo,30800,10_merged_758627,757235
+,C,0,to/from Silo,30800,10_merged_758627,757233
+,G,0,to/from Memorial Union,30810,11_merged_758626,757599
+,G,0,to/from Memorial Union,30810,11_merged_758626,757598
+,G,0,to/from Memorial Union,30810,11_merged_758626,757595
+,G,0,to/from Memorial Union,30810,11_merged_758626,757594
+,G,0,to/from Memorial Union,30810,11_merged_758626,757597
+,G,0,to/from Memorial Union,30810,11_merged_758626,757596
+,G,0,to/from Memorial Union,30810,11_merged_758626,757591
+,G,0,to/from Memorial Union,30810,11_merged_758626,757590
+,G,0,to/from Memorial Union,30810,11_merged_758626,757593
+,G,0,to/from Memorial Union,30810,11_merged_758626,757592
+,V,0,to West Village,30498,10_merged_758624,751298
+,V,0,to West Village,30498,10_merged_758624,751299
+,Z,0,,30846,11_merged_758626,758598
+,Z,0,,30846,11_merged_758626,758599
+,K,0,to/from Memorial Union,30480,38,750757
+,V,0,to West Village,30498,10_merged_758624,751290
+,V,0,to West Village,30498,10_merged_758624,751291
+,V,0,to West Village,30498,10_merged_758624,751292
+,V,0,to West Village,30498,10_merged_758624,751293
+,V,0,to West Village,30498,10_merged_758624,751294
+,V,0,to West Village,30498,10_merged_758624,751295
+,V,0,to West Village,30498,10_merged_758624,751296
+,V,0,to West Village,30498,10_merged_758624,751297
+,K,0,to/from Memorial Union,30480,38,750755
+,K,0,to/from Memorial Union,30480,38,750752
+,K,0,to/from Memorial Union,30480,38,750753
+,M,0,to/from Memorial Union,30486,11_merged_758623,750907
+,M,0,to/from Memorial Union,30486,11_merged_758623,750906
+,M,0,to/from Memorial Union,30486,11_merged_758623,750905
+,M,0,to/from Memorial Union,30486,11_merged_758623,750904
+,M,0,to/from Memorial Union,30486,11_merged_758623,750903
+,M,0,to/from Memorial Union,30486,11_merged_758623,750902
+,M,0,to/from Memorial Union,30486,11_merged_758623,750901
+,M,0,to/from Memorial Union,30486,11_merged_758623,750900
+,K,0,to/from Memorial Union,30480,38,750751
+,M,0,to/from Memorial Union,30486,11_merged_758623,750909
+,M,0,to/from Memorial Union,30486,11_merged_758623,750908
+,V,0,to West Village,30497,38,751188
+,V,0,to West Village,30497,38,751189
+,V,0,to West Village,30497,38,751184
+,V,0,to West Village,30497,38,751185
+,V,0,to West Village,30497,38,751186
+,V,0,to West Village,30497,38,751187
+,V,0,to West Village,30497,38,751180
+,V,0,to West Village,30497,38,751181
+,V,0,to West Village,30497,38,751182
+,V,0,to West Village,30497,38,751183
+,W,0,to/from Silo,30502,38,751364
+,W,0,to/from Silo,30502,38,751365
+,W,0,to/from Silo,30502,38,751366
+,W,0,to/from Silo,30502,38,751367
+,K,0,to/from Memorial Union,30480,11_merged_758623,750769
+,K,0,to/from Memorial Union,30480,11_merged_758623,750768
+,K,0,to/from Memorial Union,30480,11_merged_758623,750767
+,K,0,to/from Memorial Union,30480,38,750766
+,K,0,to/from Memorial Union,30480,38,750765
+,K,0,to/from Memorial Union,30480,38,750764
+,K,0,to/from Memorial Union,30480,38,750763
+,K,0,to/from Memorial Union,30480,38,750762
+,K,0,to/from Memorial Union,30480,38,750761
+,K,0,to/from Memorial Union,30480,38,750760
+,V,1,to Memorial Union,30500,12_merged_758625,751166
+,V,1,to Memorial Union,30500,12_merged_758625,751167
+,V,1,to Memorial Union,30500,12_merged_758625,751164
+,V,1,to Memorial Union,30500,12_merged_758625,751165
+,V,1,to Memorial Union,30500,12_merged_758625,751162
+,V,1,to Memorial Union,30500,12_merged_758625,751163
+,V,1,to Memorial Union,30500,12_merged_758625,751160
+,V,1,to Memorial Union,30500,12_merged_758625,751161
+,V,0,to West Village,30497,38,751168
+,V,0,to West Village,30497,38,751169
+,V,1,to Silo,30837,10_merged_758627,758339
+,C,0,to/from Silo,30462,38,750341
+,C,0,to/from Silo,30462,38,750340
+,C,0,to/from Silo,30462,38,750343
+,C,0,to/from Silo,30462,38,750342
+,V,1,to Silo,30837,10_merged_758627,758374
+,V,1,to Silo,30837,10_merged_758627,758375
+,V,1,to Silo,30837,10_merged_758627,758376
+,V,1,to Silo,30837,10_merged_758627,758377
+,V,1,to Silo,30837,10_merged_758627,758370
+,V,1,to Silo,30837,10_merged_758627,758371
+,V,1,to Silo,30837,10_merged_758627,758372
+,V,1,to Silo,30837,10_merged_758627,758373
+,V,1,to Silo,30837,10_merged_758627,758378
+,V,1,to Silo,30837,10_merged_758627,758379
+,P,0,Regular to/from Memorial Union,30491,38,750988
+,Z,0,,30846,11_merged_758626,758579
+,P,0,Regular to/from Memorial Union,30491,38,750987
+,Z,0,,30506,38,751449
+,V,0,to West Village,30834,11_merged_758626,758219
+,V,0,to West Village,30834,11_merged_758626,758218
+,V,0,to West Village,30834,11_merged_758626,758213
+,V,0,to West Village,30834,11_merged_758626,758212
+,V,0,to West Village,30834,11_merged_758626,758211
+,V,0,to West Village,30834,11_merged_758626,758210
+,V,0,to West Village,30834,11_merged_758626,758217
+,V,0,to West Village,30834,11_merged_758626,758216
+,V,0,to West Village,30834,11_merged_758626,758215
+,V,0,to West Village,30834,11_merged_758626,758214
+,M,0,to/from Memorial Union,30822,12_merged_758628,757919
+,M,0,to/from Memorial Union,30822,12_merged_758628,757918
+,W,0,to/from Silo,30841,10_merged_758627,758485
+,L,0,to/from Silo,30820,10_merged_758627,757911
+,L,0,to/from Silo,30820,10_merged_758627,757910
+,L,0,to/from Silo,30820,10_merged_758627,757913
+,L,0,to/from Silo,30820,10_merged_758627,757912
+,L,0,to/from Silo,30820,10_merged_758627,757915
+,L,0,to/from Silo,30820,10_merged_758627,757914
+,M,0,to/from Memorial Union,30822,12_merged_758628,757917
+,L,0,to/from Silo,30820,10_merged_758627,757916
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758107
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758106
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758105
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758104
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758103
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758102
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758101
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758100
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758109
+,Q,0,Regular to/from Memorial Union,30830,11_merged_758626,758108
+,P,0,Regular to/from Memorial Union,30491,38,750983
+,P,0,Regular to/from Memorial Union,30491,38,750982
+,G,0,to/from Memorial Union,30473,10_merged_758624,750685
+,P,0,Regular to/from Memorial Union,30491,38,750980
+,D,0,to/from Silo,30801,11_merged_758626,757292
+,D,0,to/from Silo,30801,11_merged_758626,757293
+,D,0,to/from Silo,30801,11_merged_758626,757290
+,D,0,to/from Silo,30801,11_merged_758626,757291
+,D,0,to/from Silo,30801,11_merged_758626,757296
+,D,0,to/from Silo,30801,11_merged_758626,757297
+,D,0,to/from Silo,30801,11_merged_758626,757294
+,D,0,to/from Silo,30801,11_merged_758626,757295
+,D,0,to/from Silo,30801,11_merged_758626,757298
+,D,0,to/from Silo,30801,11_merged_758626,757299
+,A,1,To SILO,30797,10_merged_758627,757102
+,A,1,To SILO,30797,10_merged_758627,757103
+,A,1,To SILO,30797,10_merged_758627,757100
+,A,1,To SILO,30797,10_merged_758627,757101
+,A,1,To SILO,30797,10_merged_758627,757106
+,A,1,To SILO,30797,10_merged_758627,757107
+,A,1,To SILO,30797,10_merged_758627,757104
+,A,1,To SILO,30797,10_merged_758627,757105
+,A,1,To SILO,30797,10_merged_758627,757108
+,A,1,To SILO,30797,10_merged_758627,757109
+,J,0,to/from Silo,30812,10_merged_758627,757728
+,J,0,to/from Silo,30812,10_merged_758627,757729
+,J,0,to/from Silo,30813,11_merged_758626,757722
+,J,0,to/from Silo,30812,11_merged_758626,757723
+,J,0,to/from Silo,30812,11_merged_758626,757720
+,J,0,to/from Silo,30812,11_merged_758626,757721
+,T,1,PM to South Davis,30496,38,751456
+,J,0,to/from Silo,30812,11_merged_758626,757727
+,Z,0,,30846,11_merged_758626,758594
+,J,0,to/from Silo,30812,11_merged_758626,757725
+,Z,0,,30506,11_merged_758623,751439
+,O,0,Weekends to/from Silo,30488,12_merged_758625,751457
+,G,0,to/from Memorial Union,30810,11_merged_758626,757618
+,G,0,to/from Memorial Union,30810,11_merged_758626,757619
+,G,0,to/from Memorial Union,30810,11_merged_758626,757616
+,G,0,to/from Memorial Union,30810,11_merged_758626,757617
+,G,0,to/from Memorial Union,30810,11_merged_758626,757614
+,G,0,to/from Memorial Union,30810,11_merged_758626,757615
+,G,0,to/from Memorial Union,30810,11_merged_758626,757612
+,G,0,to/from Memorial Union,30810,11_merged_758626,757613
+,G,0,to/from Memorial Union,30810,11_merged_758626,757610
+,G,0,to/from Memorial Union,30810,11_merged_758626,757611
+,E,0,to/from Memorial Union,30805,10_merged_758627,757436
+,E,0,to/from Memorial Union,30805,10_merged_758627,757437
+,E,0,to/from Memorial Union,30805,10_merged_758627,757434
+,E,0,to/from Memorial Union,30805,10_merged_758627,757435
+,E,0,to/from Memorial Union,30805,10_merged_758627,757432
+,E,0,to/from Memorial Union,30805,10_merged_758627,757433
+,E,0,to/from Memorial Union,30805,10_merged_758627,757430
+,E,0,to/from Memorial Union,30805,10_merged_758627,757431
+,Z,0,,30846,11_merged_758626,758596
+,E,0,to/from Memorial Union,30805,10_merged_758627,757438
+,E,0,to/from Memorial Union,30805,10_merged_758627,757439
+,A,1,To SILO,30458,38,750213
+,Z,0,,30846,11_merged_758626,758597
+,Z,0,,30846,11_merged_758626,758589
+,Z,0,,30846,11_merged_758626,758588
+,Z,0,,30846,11_merged_758626,758590
+,Z,0,,30846,11_merged_758626,758583
+,Z,0,,30846,11_merged_758626,758582
+,Z,0,,30846,11_merged_758626,758581
+,Z,0,,30846,11_merged_758626,758580
+,Z,0,,30846,11_merged_758626,758587
+,Z,0,,30846,11_merged_758626,758586
+,Z,0,,30846,11_merged_758626,758585
+,Z,0,,30846,11_merged_758626,758584
+,P,0,Regular to/from Memorial Union,30491,38,750972
+,P,0,Regular to/from Memorial Union,30491,38,750973
+,P,0,Regular to/from Memorial Union,30491,38,750970
+,P,0,Regular to/from Memorial Union,30491,38,750971
+,P,0,Regular to/from Memorial Union,30491,38,750976
+,P,0,Regular to/from Memorial Union,30491,38,750977
+,P,0,Regular to/from Memorial Union,30491,38,750974
+,P,0,Regular to/from Memorial Union,30491,38,750975
+,P,0,Regular to/from Memorial Union,30491,38,750978
+,P,0,Regular to/from Memorial Union,30491,38,750979
+,V,0,to West Village,30497,38,751199
+,V,0,to West Village,30497,38,751198
+,V,0,to West Village,30497,38,751193
+,V,0,to West Village,30497,38,751192
+,V,0,to West Village,30497,38,751191
+,V,0,to West Village,30497,38,751190
+,V,0,to West Village,30497,38,751197
+,V,0,to West Village,30497,38,751196
+,V,0,to West Village,30497,38,751195
+,V,0,to West Village,30497,38,751194
+,Z,0,,30506,38,751450
+,W,0,to/from Silo,30502,38,751372
+,W,0,to/from Silo,30502,38,751371
+,W,0,to/from Silo,30502,38,751370
+,W,0,to/from Silo,30502,38,751377
+,W,0,to/from Silo,30502,38,751376
+,W,0,to/from Silo,30502,38,751375
+,W,0,to/from Silo,30502,38,751374
+,J,0,to/from Silo,30476,38,750712
+,J,0,to/from Silo,30476,38,750713
+,W,0,to/from Silo,30502,38,751379
+,J,0,to/from Silo,30476,38,750711
+,J,0,to/from Silo,30476,38,750716
+,J,0,to/from Silo,30476,38,750717
+,J,0,to/from Silo,30476,38,750714
+,J,0,to/from Silo,30476,38,750715
+,V,0,to West Village,30497,38,751175
+,V,0,to West Village,30497,38,751174
+,V,0,to West Village,30497,38,751177
+,V,0,to West Village,30497,38,751176
+,V,0,to West Village,30497,38,751171
+,V,0,to West Village,30497,38,751170
+,V,0,to West Village,30497,38,751173
+,V,0,to West Village,30497,38,751172
+,E,0,to/from Memorial Union,30467,10_merged_758624,750482
+,E,0,to/from Memorial Union,30467,10_merged_758624,750483
+,E,0,to/from Memorial Union,30467,10_merged_758624,750480
+,E,0,to/from Memorial Union,30467,10_merged_758624,750481
+,V,0,to West Village,30497,38,751179
+,V,0,to West Village,30497,38,751178
+,E,0,to/from Memorial Union,30467,10_merged_758624,750484
+,E,0,to/from Memorial Union,30467,10_merged_758624,750485
+,Z,0,,30846,11_merged_758626,758593
+,V,0,to West Village,30498,10_merged_758624,751287
+,V,0,to West Village,30498,10_merged_758624,751286
+,V,0,to West Village,30498,10_merged_758624,751285
+,V,0,to West Village,30498,10_merged_758624,751284
+,V,0,to West Village,30498,10_merged_758624,751283
+,V,0,to West Village,30498,10_merged_758624,751282
+,V,0,to West Village,30498,10_merged_758624,751281
+,V,0,to West Village,30498,10_merged_758624,751280
+,V,0,to West Village,30498,10_merged_758624,751289
+,V,0,to West Village,30498,10_merged_758624,751288
+,G,0,to/from Memorial Union,30473,38,750626
+,G,0,to/from Memorial Union,30473,38,750627
+,G,0,to/from Memorial Union,30473,38,750624
+,G,0,to/from Memorial Union,30473,38,750625
+,G,0,to/from Memorial Union,30473,38,750622
+,G,0,to/from Memorial Union,30473,38,750623
+,G,0,to/from Memorial Union,30473,38,750620
+,G,0,to/from Memorial Union,30473,38,750621
+,G,0,to/from Memorial Union,30473,38,750628
+,G,0,to/from Memorial Union,30473,38,750629
+,D,0,to/from Silo,30465,38,750396
+,D,0,to/from Silo,30465,38,750397
+,D,0,to/from Silo,30465,38,750394
+,D,0,to/from Silo,30465,38,750395
+,D,0,to/from Silo,30465,38,750392
+,D,0,to/from Silo,30465,38,750393
+,D,0,to/from Silo,30465,38,750390
+,D,0,to/from Silo,30465,38,750391
+,V,1,to Silo,30837,10_merged_758627,758369
+,V,1,to Silo,30837,10_merged_758627,758368
+,D,0,to/from Silo,30465,38,750398
+,D,0,to/from Silo,30465,38,750399
+,M,0,to/from Memorial Union,30822,12_merged_758628,757924
+,M,0,to/from Memorial Union,30822,12_merged_758628,757925
+,M,0,to/from Memorial Union,30822,12_merged_758628,757926
+,M,0,to/from Memorial Union,30822,11_merged_758626,757927
+,M,0,to/from Memorial Union,30822,12_merged_758628,757920
+,M,0,to/from Memorial Union,30822,12_merged_758628,757921
+,M,0,to/from Memorial Union,30822,12_merged_758628,757922
+,M,0,to/from Memorial Union,30822,12_merged_758628,757923
+,M,0,to/from Memorial Union,30822,11_merged_758626,757928
+,M,0,to/from Memorial Union,30822,11_merged_758626,757929
+,V,0,to West Village,30836,12_merged_758628,758172
+,V,1,to Memorial Union,30838,12_merged_758628,758173
+,V,0,to West Village,30836,12_merged_758628,758170
+,V,0,to West Village,30836,12_merged_758628,758171
+,V,1,to Memorial Union,30838,12_merged_758628,758176
+,V,1,to Memorial Union,30838,12_merged_758628,758177
+,V,1,to Memorial Union,30838,12_merged_758628,758174
+,V,1,to Memorial Union,30838,12_merged_758628,758175
+,V,1,to Memorial Union,30838,12_merged_758628,758178
+,V,1,to Memorial Union,30838,12_merged_758628,758179
+,O,0,Weekends to/from Silo,30488,12_merged_758625,751458
+,V,0,to West Village,30834,11_merged_758626,758227
+,W,0,to/from Silo,30841,10_merged_758627,758482
+,W,0,to/from Silo,30841,10_merged_758627,758483
+,W,0,to/from Silo,30841,10_merged_758627,758484
+,O,0,,30825,12_merged_758628,758008
+,O,0,,30825,12_merged_758628,758009
+,O,0,,30825,12_merged_758628,758006
+,O,0,,30825,12_merged_758628,758007
+,O,0,,30825,12_merged_758628,758004
+,O,0,,30825,12_merged_758628,758005
+,O,0,,30825,12_merged_758628,758002
+,O,0,,30825,12_merged_758628,758003
+,O,0,,30825,12_merged_758628,758000
+,O,0,,30825,12_merged_758628,758001
+,W,0,to/from Silo,30502,38,751386
+,J,0,to/from Silo,30476,38,750700
+,J,0,to/from Silo,30476,38,750703
+,W,0,to/from Silo,30502,38,751385
+,W,0,to/from Silo,30502,38,751382
+,W,0,to/from Silo,30502,38,751383
+,D,0,to/from Silo,30801,11_merged_758626,757283
+,D,0,to/from Silo,30801,11_merged_758626,757282
+,D,0,to/from Silo,30801,11_merged_758626,757285
+,W,0,to/from Silo,30502,38,751380
+,D,0,to/from Silo,30801,11_merged_758626,757287
+,D,0,to/from Silo,30801,11_merged_758626,757286
+,D,0,to/from Silo,30801,11_merged_758626,757289
+,D,0,to/from Silo,30801,11_merged_758626,757288
+,W,0,to/from Silo,30502,38,751381
+,A,1,To SILO,30797,10_merged_758627,757111
+,A,1,To SILO,30797,10_merged_758627,757110
+,A,1,To SILO,30797,10_merged_758627,757113
+,A,1,To SILO,30797,10_merged_758627,757112
+,A,1,To SILO,30797,10_merged_758627,757114
+,K,0,to/from Memorial Union,30815,10_merged_758627,757840
+,J,0,to/from Silo,30812,10_merged_758627,757739
+,J,0,to/from Silo,30812,10_merged_758627,757738
+,J,0,to/from Silo,30812,10_merged_758627,757731
+,J,0,to/from Silo,30812,10_merged_758627,757730
+,J,0,to/from Silo,30812,10_merged_758627,757733
+,J,0,to/from Silo,30812,10_merged_758627,757732
+,J,0,to/from Silo,30812,10_merged_758627,757735
+,J,0,to/from Silo,30812,10_merged_758627,757734
+,J,0,to/from Silo,30812,10_merged_758627,757737
+,J,0,to/from Silo,30812,10_merged_758627,757736
+,G,0,to/from Memorial Union,30810,11_merged_758626,757609
+,G,0,to/from Memorial Union,30810,11_merged_758626,757608
+,G,0,to/from Memorial Union,30810,11_merged_758626,757605
+,G,0,to/from Memorial Union,30810,11_merged_758626,757604
+,G,0,to/from Memorial Union,30810,11_merged_758626,757607
+,G,0,to/from Memorial Union,30810,11_merged_758626,757606
+,G,0,to/from Memorial Union,30810,11_merged_758626,757601
+,G,0,to/from Memorial Union,30810,11_merged_758626,757600
+,G,0,to/from Memorial Union,30810,11_merged_758626,757603
+,G,0,to/from Memorial Union,30810,11_merged_758626,757602
+,E,0,to/from Memorial Union,30805,11_merged_758626,757425
+,E,0,to/from Memorial Union,30805,11_merged_758626,757424
+,E,0,to/from Memorial Union,30805,11_merged_758626,757427
+,E,0,to/from Memorial Union,30805,11_merged_758626,757426
+,E,0,to/from Memorial Union,30805,11_merged_758626,757421
+,E,0,to/from Memorial Union,30805,11_merged_758626,757420
+,E,0,to/from Memorial Union,30805,11_merged_758626,757423
+,E,0,to/from Memorial Union,30805,11_merged_758626,757422
+,E,0,to/from Memorial Union,30805,10_merged_758627,757429
+,E,0,to/from Memorial Union,30805,10_merged_758627,757428
+,F,0,to/from Memorial Union,30470,10_merged_758624,750564
+,F,0,to/from Memorial Union,30470,10_merged_758624,750561
+,F,0,to/from Memorial Union,30470,10_merged_758624,750560
+,F,0,to/from Memorial Union,30470,10_merged_758624,750563
+,F,0,to/from Memorial Union,30470,10_merged_758624,750562
+,P,0,Regular to/from Memorial Union,30491,12_merged_758625,750961
+,P,0,Regular to/from Memorial Union,30491,12_merged_758625,750960
+,P,0,Regular to/from Memorial Union,30491,38,750963
+,P,0,Regular to/from Memorial Union,30491,12_merged_758625,750962
+,P,0,Regular to/from Memorial Union,30491,38,750965
+,P,0,Regular to/from Memorial Union,30491,38,750964
+,P,0,Regular to/from Memorial Union,30491,38,750967
+,P,0,Regular to/from Memorial Union,30491,38,750966
+,P,0,Regular to/from Memorial Union,30491,38,750969
+,P,0,Regular to/from Memorial Union,30491,38,750968
+,K,0,to/from Memorial Union,30480,38,750756
+,L,0,to/from Silo,30820,10_merged_758627,757894
+,J,0,to/from Silo,30476,38,750709
+,J,0,to/from Silo,30476,38,750708
+,W,0,to/from Silo,30841,10_merged_758627,758480
+,W,0,to/from Silo,30841,10_merged_758627,758481
+,W,0,to/from Silo,30841,10_merged_758627,758486
+,W,0,to/from Silo,30841,10_merged_758627,758487
+,W,0,to/from Silo,30502,38,751388
+,W,0,to/from Silo,30502,38,751389
+,J,0,to/from Silo,30476,38,750701
+,W,0,to/from Silo,30502,38,751387
+,W,0,to/from Silo,30502,38,751384
+,J,0,to/from Silo,30476,38,750702
+,J,0,to/from Silo,30476,38,750705
+,J,0,to/from Silo,30476,38,750704
+,J,0,to/from Silo,30476,38,750707
+,J,0,to/from Silo,30476,38,750706
+,V,0,to West Village,30498,12_merged_758625,751148
+,V,0,to West Village,30498,12_merged_758625,751149
+,K,0,to/from Memorial Union,30480,38,750754
+,L,0,to/from Silo,30820,10_merged_758627,757896
+,L,0,to/from Silo,30482,38,750819
+,L,0,to/from Silo,30482,38,750818
+,L,0,to/from Silo,30482,38,750815
+,L,0,to/from Silo,30482,38,750814
+,L,0,to/from Silo,30482,38,750817
+,L,0,to/from Silo,30482,38,750816

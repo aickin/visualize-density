@@ -1,0 +1,446 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+777751,825017,,Elliott & Dillon,,38.15035,-122.25755,,,0,,America/Los_Angeles,,,0
+778231,823138,,Hospital Drive & Tuolumne ,,38.131133,-122.239967,,,0,,America/Los_Angeles,,,0
+777900,821035,,Sacramento & Alabama,,38.1089221104665,-122.258187521496,,,0,,America/Los_Angeles,,,0
+781662,829015,,Fairfield Transportation Center (FTC),,38.248682020198,-122.06857391534,672,,0,,America/Los_Angeles,,,1
+2383065,826057,,Military E & E 4th,,38.051662,-122.148628,671,,0,,America/Los_Angeles,,,0
+844534,821068,,Mare Island Way & Georgia (Ferry),,38.10062,-122.26241,671,,0,,America/Los_Angeles,,,0
+2382748,823124,,Valle Vista & Sacramento,,38.119682,-122.259529,671,,0,,America/Los_Angeles,,,0
+847516,821001,,Vallejo Transit Center (VTC),,38.10022409116,-122.25849658848,671,,0,,America/Los_Angeles,,,1
+777904,821102,,Sacramento & Florida,,38.1053,-122.25809,,,0,,America/Los_Angeles,,,0
+777983,823082,,Tennessee & Monterey,,38.109902100442,-122.2461005992,671,,0,,America/Los_Angeles,,,0
+2326847,829022,,SF Temporary Transbay Terminal,,37.789875,-122.392784,1094,,0,,America/Los_Angeles,,,0
+777711,823026,,Broadway & Sereno,,38.12809,-122.25147,,,0,,America/Los_Angeles,,,0
+777757,823113,,Fairgrounds & Sereno,,38.128802,-122.229282,,,0,,America/Los_Angeles,,,0
+777949,825002,,Sonoma & Meadows,,38.14741,-122.25467,,,0,,America/Los_Angeles,,,0
+777716,823032,,BW Williams & Lewis Brown,,38.141709277065,-122.24972126324,671,,0,,America/Los_Angeles,,,0
+777742,823094,,Daniels & Rodgers,,38.12206,-122.2682,,,0,,America/Los_Angeles,,,0
+777804,822023,,Glen Cove & James River,,38.0717320310732,-122.218945830688,,,0,,America/Los_Angeles,,,0
+2320127,826056,,Columbus & Rose (CVS),,38.081585,-122.192902,,,0,,America/Los_Angeles,,,0
+788385,824050,,Columbus & Ascot,,38.112303081399,-122.19839841676,,,0,,America/Los_Angeles,,,0
+781624,823129,,Tuolumne & Sereno,,38.128667,-122.239125,,,0,,America/Los_Angeles,,,0
+777964,822077,,Springs & Hilton,,38.106025,-122.226864,,,0,,America/Los_Angeles,,,0
+777942,826020,,Solano & Larkin,,38.075634,-122.167542,671,,0,,America/Los_Angeles,,,0
+777792,821012,,Georgia & Napa,,38.101106,-122.251841,,,0,,America/Los_Angeles,,,0
+2382821,823147,,Tennessee & Shasta,,38.109688,-122.234406,671,,0,,America/Los_Angeles,,,0
+777962,822081,,Springs & Heartwood,,38.10589,-122.2112,,,0,,America/Los_Angeles,,,0
+777728,825028,,Corcoran & Belfast,,38.15382,-122.23549,,,0,,America/Los_Angeles,,,0
+777750,828001,,El Cerrito Del Norte BART,,37.924894,-122.317052,672,,0,,America/Los_Angeles,,,0
+777888,822036,,Rollingwood & Benicia,,38.09008,-122.20816,,,0,,America/Los_Angeles,,,0
+2320116,824066,,Redwood & Cabernet Dr,,38.13176,-122.199745,,,0,,America/Los_Angeles,,,0
+777886,823087,,Redwood & Tuolumne,,38.12234,-122.23732,,,0,,America/Los_Angeles,,,0
+2382736,828004,,Rollingwood Dr & Cottonwood,,38.102497,-122.209335,671,,0,,America/Los_Angeles,,,0
+777743,826024,,Drolette & Military West (Mary Farmer School),,38.06115,-122.17027,,,0,,America/Los_Angeles,,,0
+777909,823093,,Sacramento & Redwood,,38.12268,-122.26262,,,0,,America/Los_Angeles,,,0
+2320117,826059,,Military West & West 3rd,,38.055878,-122.160057,,,0,,America/Los_Angeles,,,0
+781619,821124,,Butte & Florida,,38.104794,-122.263119,,,0,,America/Los_Angeles,,,0
+777967,822056,,Springs & Mosswood,,38.10609,-122.21453,,,0,,America/Los_Angeles,,,0
+777676,822048,,Ascot & Hilary,,38.11054,-122.19681,,,0,,America/Los_Angeles,,,0
+777801,822030,,Glen Cove & Camino Del Sol,,38.07088,-122.2104,,,0,,America/Los_Angeles,,,0
+781621,823139,,Tuolumne & Almond,,38.136319,-122.250197,,,0,,America/Los_Angeles,,,0
+777800,822033,,Glen Cove & Bermuda,,38.07786,-122.21081,,,0,,America/Los_Angeles,,,0
+781655,821119,,Benicia Rd & Beach,,38.096711,-122.238253,,,0,,America/Los_Angeles,,,0
+2332231,824068,,Admiral Callaghan & Henry Ln,,38.111755156526,-122.2290889513,671,,0,,America/Los_Angeles,,,0
+777879,823075,,Redwood & N. Camino Alto,,38.122982,-122.245682,,,0,,America/Los_Angeles,,,0
+777771,821077,,Florida & Sonoma,,38.10513,-122.25402,,,0,,America/Los_Angeles,,,0
+777794,822053,,Georgia & Norfolk,,38.10186,-122.19691,,,0,,America/Los_Angeles,,,0
+777993,825014,,Tobin & Donnor Pass,,38.14482,-122.26063,,,0,,America/Los_Angeles,,,0
+782079,826038,,East I & East 4th (Casa De Vilarrasa),,38.049063857056,-122.15217590881,,,0,,America/Los_Angeles,,,0
+781647,822091,,Rollingwood Dr & Springs Rd,,38.105531,-122.209125,,,0,,America/Los_Angeles,,,0
+777805,822027,,Glen Cove & James River,,38.0715415538166,-122.218765364418,,,0,,America/Los_Angeles,,,0
+777943,829005,,Solano College & Suisun Valley (Solano Community College),,38.234821,-122.125019,,,0,,America/Los_Angeles,,,0
+777862,825023,,Mini & Whitney,,38.14743,-122.24572,,,0,,America/Los_Angeles,,,0
+777854,825004,,Mini & Elliott,,38.15286,-122.25774,,,0,,America/Los_Angeles,,,0
+777960,826011,,Southhampton & Turner (Benicia Middle School),,38.069338,-122.171976,,,0,,America/Los_Angeles,,,0
+781642,824023,,Ascot opp Wardlaw Park East,,38.11899,-122.20619,671,,0,,America/Los_Angeles,,,0
+777797,822052,,Georgia & Southport,,38.10266,-122.19382,,,0,,America/Los_Angeles,,,0
+777952,823007,,Sonoma & Redwood,,38.12198,-122.25494,,,0,,America/Los_Angeles,,,0
+777746,826027,,East 3rd & Viewmont (Robert Semple Elementary),,38.05817,-122.14719,,,0,,America/Los_Angeles,,,0
+781660,827004,,Contra Costa Blvd & Vikings Dr (Sunvalley Mall),stop used for AM inbound stops and weekend am outbound stops,37.967372,-122.062619,,,0,,America/Los_Angeles,,,0
+778006,823051,,Tuolumne & N. Camino Alto,,38.13254,-122.24104,,,0,,America/Los_Angeles,,,0
+777739,823095,,Daniels & B,,38.11887,-122.27085,,,0,,America/Los_Angeles,,,0
+777809,822016,,Glen Cove & Robles,,38.0845462212795,-122.211540991402,,,0,,America/Los_Angeles,,,0
+777826,821116,,Maine & Alameda,,38.098921,-122.247563,,,0,,America/Los_Angeles,,,0
+777770,821071,,Florida & Solano,,38.10482,-122.23372,,,0,,America/Los_Angeles,,,0
+781623,823144,,Tuolumne & Sereno,,38.129481,-122.239706,,,0,,America/Los_Angeles,,,0
+781656,821120,,Benicia Rd & Rice,,38.098086,-122.242428,,,0,,America/Los_Angeles,,,0
+777937,823111,,Sereno Transit Center (STC),,38.128030765981,-122.25311658621,671,,0,,America/Los_Angeles,,,1
+777977,823083,,Tennessee & Broadway,,38.10992,-122.24833,,,0,,America/Los_Angeles,,,0
+777773,821094,,Florida & Wolfe,,38.10477,-122.238828,,,0,,America/Los_Angeles,,,0
+777707,823020,,Broadway & Nebraska,,38.11414,-122.24863,,,0,,America/Los_Angeles,,,0
+778015,821057,,Tuolumne & Springs,,38.105829,-122.238251,,,0,,America/Los_Angeles,,,0
+848058,829013,,Suisun Valley Rd at Kaiser Dr,,38.230064,-122.128319,,,0,,America/Los_Angeles,,,0
+777968,822057,,Springs & Oakwood,,38.10611,-122.21857,,,0,,America/Los_Angeles,,,0
+777795,822005,,Georgia & Rosewood (Hogan Middle School),,38.1003,-122.215626677246,,,0,,America/Los_Angeles,,,0
+778035,827002,,Walnut Creek BART,,37.905142,-122.067557,,,0,,America/Los_Angeles,,,0
+2320118,826060,,Columbus & Rose,,38.081169,-122.191963,,,0,,America/Los_Angeles,,,0
+777858,825003,,Mini & Sonoma,,38.153958,-122.25507,,,0,,America/Los_Angeles,,,0
+781671,823035,,Valle Vista & Sonoma,,38.11995,-122.25629,,,0,,America/Los_Angeles,,,0
+777857,825007,,Mini & Severus,,38.153747,-122.2689,671,,0,,America/Los_Angeles,,,0
+777864,826031,,Panorama & Essex,,38.075044,-122.162091,,,0,,America/Los_Angeles,,,0
+777910,823039,,Sacramento & Tennessee,,38.1102,-122.25819,,,0,,America/Los_Angeles,,,0
+777766,821093,,Florida & El Dorado,,38.104978565736,-122.24963360301,,,0,,America/Los_Angeles,,,0
+2320124,824053,,Columbus & Tennessee,,38.108444,-122.203331,,,0,,America/Los_Angeles,,,0
+777695,823028,,Broadway & Ash,,38.13405,-122.25218,,,0,,America/Los_Angeles,,,0
+781643,824044,,Admiral Callaghan & Rotary Way,,38.126751241442,-122.2275259712,,,0,,America/Los_Angeles,,,0
+777874,824034,,Redwood & Bonnie,,38.130946,-122.201215,,,0,,America/Los_Angeles,,,0
+778034,823099,,Wilson & Tennessee,,38.11089,-122.26518,,,0,,America/Los_Angeles,,,0
+777866,824006,,Plaza & Turner (Gateway Plaza; Costco),,38.13278,-122.216783,,,0,,America/Los_Angeles,,,0
+777670,821005,,Alameda & Virginia,,38.102200388554,-122.24826326492,,,0,,America/Los_Angeles,,,0
+777689,822072,,Benicia Rd & Home Acres,,38.092209,-122.21918,,,0,,America/Los_Angeles,,,0
+777928,826023,,Seaview & Goldenhill Drive,,38.062725,-122.150642,,,0,,America/Los_Angeles,,,0
+777813,822026,,Glen Cove & Sea Lion,,38.07117,-122.22157,,,0,,America/Los_Angeles,,,0
+2382738,821076,,Florida & Napa,,38.105030031228,-122.2513173477,671,,0,,America/Los_Angeles,,,0
+781627,823014,,Mare Island Way & Tennessee,,38.10996,-122.26342,,,0,,America/Los_Angeles,,,0
+781641,821039,,Florida & Amador,,38.10488071893,-122.24380481915,,,0,,America/Los_Angeles,,,0
+777953,823016,,Sonoma & Redwood (Vallejo Plaza),,38.122536,-122.255379,,,0,,America/Los_Angeles,,,0
+781628,823131,,Tennessee & Sutter,,38.109914,-122.2529903,,,0,,America/Los_Angeles,,,0
+777779,829012,,Gateway Blvd at The Courtyard/Solano Mall,,38.262946,-122.05406,,,0,,America/Los_Angeles,,,0
+777880,823089,,Redwood & N. Camino Alto,,38.12323,-122.24528,,,0,,America/Los_Angeles,,,0
+777998,823046,,Tuolumne & Del Mar,,38.12569,-122.2382,,,0,,America/Los_Angeles,,,0
+777745,826028,,East 3rd & East L,,38.05226,-122.151418,,,0,,America/Los_Angeles,,,0
+777927,821098,,Seaport & Sandy,,38.074547,-122.235816,,,0,,America/Los_Angeles,,,0
+777780,821052,,Georgia & Alameda,,38.10091,-122.24801,,,0,,America/Los_Angeles,,,0
+777869,821027,,Porter & Larissa,,38.083197,-122.241812,,,0,,America/Los_Angeles,,,0
+781668,824052,,Redwood & Rocky Shore,,38.124969,-122.205124,,,0,,America/Los_Angeles,,,0
+777793,821003,,Georgia & Napa,,38.101011674688,-122.25133502701,671,,0,,America/Los_Angeles,,,0
+777781,821051,,Georgia & Alameda,,38.10108,-122.24816,,,0,,America/Los_Angeles,,,0
+777762,821074,,Florida & Amador (Florence Douglas Senior Center),,38.10492245907,-122.24398432363,671,,0,,America/Los_Angeles,,,0
+777671,821010,,Alameda & Virginia,,38.101621,-122.248332,,,0,,America/Los_Angeles,,,0
+781640,821038,,Florida & Alameda,,38.104932091794,-122.24791364055,,,0,,America/Los_Angeles,,,0
+777814,822034,,Glen Cove & Wellfleet,,38.07932,-122.21119,,,0,,America/Los_Angeles,,,0
+777899,821034,,Sacramento & Alabama,,38.1089201977718,-122.258037580357,,,0,,America/Los_Angeles,,,0
+2382747,823025,,Sacramento & Valle Vista,,38.1180863961,-122.25851490083,671,,0,,America/Los_Angeles,,,0
+777688,822070,,Benicia Rd & Cedar,,38.09361,-122.22531,,,0,,America/Los_Angeles,,,0
+777775,822083,,Fulton & Glen Cove,,38.082321,-122.214007,,,0,,America/Los_Angeles,,,0
+777997,821055,,Tuolumne & Carolina (Solano County Courthouse),,38.10366,-122.23814,,,0,,America/Los_Angeles,,,0
+777810,822031,,Glen Cove & S. Regatta,,38.07271,-122.2078,,,0,,America/Los_Angeles,,,0
+777719,823031,,BW Williams & Walnut,,38.13886,-122.24944,,,0,,America/Los_Angeles,,,0
+777706,823003,,Broadway & Nebraska,,38.11486,-122.24842,,,0,,America/Los_Angeles,,,0
+777685,822086,,Avian & Tennessee,,38.108747,-122.20438,,,0,,America/Los_Angeles,,,0
+777860,825022,,Mini & Stanford,,38.14542,-122.24696,,,0,,America/Los_Angeles,,,0
+777819,826035,,Hastings & Sweetbrier,,38.082699,-122.171066,671,,0,,America/Los_Angeles,,,0
+777882,824037,,Redwood & Oakwood,,38.120649,-122.210023,,,0,,America/Los_Angeles,,,0
+777978,823105,,Tennessee & Butte,,38.110051,-122.261993,,,0,,America/Los_Angeles,,,0
+777911,823036,,Sacramento & Valle Vista,,38.11907,-122.25975,,,0,,America/Los_Angeles,,,0
+777740,823068,,Daniels & B,,38.11894,-122.27062,,,0,,America/Los_Angeles,,,0
+777694,822073,,Benicia Rd & Taylor,,38.09153,-122.2162,,,0,,America/Los_Angeles,,,0
+777705,825018,,Broadway & Mini,,38.15354,-122.25297,,,0,,America/Los_Angeles,,,0
+777686,821084,,Benicia Rd & Beach,,38.09679,-122.23896,,,0,,America/Los_Angeles,,,0
+777783,821049,,Georgia & Amador,,38.10097,-122.24378,,,0,,America/Los_Angeles,,,0
+777931,823125,,Sereno & Emerald,,38.128671,-122.231924,,,0,,America/Los_Angeles,,,0
+778027,826032,,Warwick & Sunrise,,38.063858,-122.153496,671,,0,,America/Los_Angeles,,,0
+778023,823017,,Valle Vista & Sonoma,,38.11974,-122.25397,,,0,,America/Los_Angeles,,,0
+778021,823005,,Valle Vista & Broadway,,38.11987,-122.24936,,,0,,America/Los_Angeles,,,0
+777772,821072,,Florida & Tuolumne,,38.1049,-122.23797,,,0,,America/Los_Angeles,,,0
+2320162,828005,,Oakwood & Westwood,,38.103798,-122.217812,,,0,,America/Los_Angeles,,,0
+781626,823117,,Sereno Dr opp Kaiser Entrance (Kaiser Medical Center),,38.128204,-122.249687,,,0,,America/Los_Angeles,,,0
+778033,823097,,Wilson & Hichborn,,38.11385,-122.26763,,,0,,America/Los_Angeles,,,0
+777878,824035,,Redwood & Headwater,,38.127895,-122.203957,,,0,,America/Los_Angeles,,,0
+777702,821007,,Broadway & Louisiana,,38.107769,-122.248571,,,0,,America/Los_Angeles,,,0
+777855,825040,,Mini & Hwy 37,,38.14344,-122.2491,,,0,,America/Los_Angeles,,,0
+781630,823133,,Tennessee & Monterey,,38.109808,-122.245981,,,0,,America/Los_Angeles,,,0
+778011,823054,,Tuolumne & Peach,,38.13669,-122.24767,,,0,,America/Los_Angeles,,,0
+782081,826009,,Southampton & Hastings,,38.0707676634362,-122.177756136185,,,0,,America/Los_Angeles,,,0
+777969,822080,,Springs & Oakwood (Springtowne Center),,38.105899,-122.21571,,,0,,America/Los_Angeles,,,0
+778003,823034,,Tuolumne & Lofas,,38.13643,-122.25057,,,0,,America/Los_Angeles,,,0
+777767,821092,,Florida & Napa,,38.10492,-122.25209,,,0,,America/Los_Angeles,,,0
+781666,829011,,Gateway Blvd at The Courtyard (Solano Mall),,38.26239,-122.056358,,,0,,America/Los_Angeles,,,0
+778024,823006,,Valle Vista & Sonoma,,38.11986,-122.25323,,,0,,America/Los_Angeles,,,0
+777782,821054,,Georgia & Amador,,38.10087,-122.24356,,,0,,America/Los_Angeles,,,0
+781652,822096,,Benicia Rd & Maple,,38.093089,-122.222194,,,0,,America/Los_Angeles,,,0
+782476,824051,,Columbus & St Johns Mine Rd (Solano College) ,,38.136436,-122.203583,,,0,,America/Los_Angeles,,,0
+777701,823002,,Broadway & Illinois,,38.11218,-122.24843,,,0,,America/Los_Angeles,,,0
+777841,825009,,Meadows & Severus,,38.15059,-122.27335,,,0,,America/Los_Angeles,,,0
+777939,825008,,Severus & Catalina,,38.15298,-122.27172,,,0,,America/Los_Angeles,,,0
+2383066,829021,,SF Ferry Building,,37.795097,-122.393867,672,,0,,America/Los_Angeles,,,0
+777741,823069,,Daniels & Rodgers,,38.12201,-122.26787,,,0,,America/Los_Angeles,,,0
+777849,826004,,Military West & West 7th,,38.058525,-122.166252,,,0,,America/Los_Angeles,,,0
+777963,822055,,Springs & Heartwood,,38.10604,-122.21109,,,0,,America/Los_Angeles,,,0
+777722,825030,,Christopher & Evelyn,,38.14948,-122.23408,,,0,,America/Los_Angeles,,,0
+777907,823024,,Sacramento & Mississippi,,38.11532,-122.25787,,,0,,America/Los_Angeles,,,0
+777876,824043,,Redwood & Foothill,,38.122429,-122.218473,,,0,,America/Los_Angeles,,,0
+777682,824010,,Ascot & Sunrise,,38.11774,-122.20268,,,0,,America/Los_Angeles,,,0
+777840,825011,,Meadows & Sandpiper,,38.14809,-122.26842,,,0,,America/Los_Angeles,,,0
+777905,823038,,Sacramento & Hichborn,,38.113390323023,-122.2581296745,671,,0,,America/Los_Angeles,,,0
+777987,823085,,Tennessee & Sutter,,38.110029,-122.252842,,,0,,America/Los_Angeles,,,0
+777825,821020,,Magazine & Sheridan,,38.08405,-122.23595,,,0,,America/Los_Angeles,,,0
+781651,822095,,Benicia Rd & Home Acres,,38.092494,-122.219842,,,0,,America/Los_Angeles,,,0
+777744,826033,,East 2nd & Riverhill,,38.05622,-122.1513,,,0,,America/Los_Angeles,,,0
+781629,823132,,Tennessee & El Dorado,,38.109858,-122.249972,,,0,,America/Los_Angeles,,,0
+777815,822017,,Glen Cove & Wellfleet,,38.07917,-122.21145,,,0,,America/Los_Angeles,,,0
+777865,824045,,Plaza & Admiral Callaghan (Gateway Plaza North),,38.13459,-122.217926,671,,0,,America/Los_Angeles,,,0
+777731,825025,,Corcoran & Rainier,,38.15112,-122.24469,,,0,,America/Los_Angeles,,,0
+847519,821128,,Winchester & Sonoma,,38.086285,-122.242485,,,0,,America/Los_Angeles,,,0
+777988,823079,,Tennessee & Tuolumne,,38.10986,-122.2387,,,0,,America/Los_Angeles,,,0
+777755,823107,,Six Flags Discovery Kingdom,,38.136889,-122.229676,,,0,,America/Los_Angeles,,,0
+777803,822021,,Glen Cove & Glen Cove Marina,,38.07141,-122.21301,,,0,,America/Los_Angeles,,,0
+777698,823013,,Broadway & Garibaldi,,38.132466676333,-122.25245862492,671,,0,,America/Los_Angeles,,,0
+777822,825012,,Jack London & Susan,,38.146931,-122.264503,,,0,,America/Los_Angeles,,,0
+777975,823050,,Sutter Solano Medical Center & Tuolumne,,38.13099,-122.23653,,,0,,America/Los_Angeles,,,0
+777954,821031,,Sonoma & Solano,,38.094581,-122.251453,,,0,,America/Los_Angeles,,,0
+777690,822071,,Benicia Rd & Maple,,38.09306,-122.22264,,,0,,America/Los_Angeles,,,0
+777697,823011,,Broadway & Commercial,,38.13821,-122.25244,,,0,,America/Los_Angeles,,,0
+778010,823052,,Tuolumne & Parkview Terrace,,38.13488,-122.24326,,,0,,America/Los_Angeles,,,0
+2320119,824061,,Columbus & Georgia,,38.100464,-122.200378,,,0,,America/Los_Angeles,,,0
+777748,826007,,East 5th & East N,,38.051903,-122.146042,672,,0,,America/Los_Angeles,,,1
+777875,823088,,Redwood & De Anza,,38.12302,-122.24255,,,0,,America/Los_Angeles,,,0
+2320114,826058,,Military East & East 5th,,38.051094,-122.147163,,,0,,America/Los_Angeles,,,0
+777845,826016,,Military West & Farmar Driveway (Mary Farmar Elementary),,38.062003,-122.171853,,,0,,America/Los_Angeles,,,0
+777844,826017,,Military West & Benicia High School,,38.064307,-122.175746,,,0,,America/Los_Angeles,,,0
+777971,822079,,Springs & Thelma,,38.10595,-122.21958,,,0,,America/Los_Angeles,,,0
+777956,821028,,Sonoma & Winchester,,38.08643,-122.24219,,,0,,America/Los_Angeles,,,0
+777868,821025,,Porter & Adams,,38.080364,-122.238524,,,0,,America/Los_Angeles,,,0
+2320121,824063,,Columbus & Tennessee,,38.10899,-122.203026,,,0,,America/Los_Angeles,,,0
+777947,821060,,Sonoma & Florida,,38.104492,-122.254795,,,0,,America/Los_Angeles,,,0
+777812,822024,,Glen Cove & Sea Lion,,38.07106,-122.22174,,,0,,America/Los_Angeles,,,0
+778017,823040,,Tuolumne & Tennessee,,38.11029,-122.23805,,,0,,America/Los_Angeles,,,0
+777823,822063,,Laurel & Denton,,38.0873,-122.22856,,,0,,America/Los_Angeles,,,0
+781617,822094,,Benicia Rd & Banning,,38.091625,-122.216033,671,,0,,America/Los_Angeles,,,0
+777818,826025,,Hastings & Rose,,38.084568,-122.168106,671,,0,,America/Los_Angeles,,,0
+777788,821004,,Georgia & El Dorado,,38.101013179064,-122.24975553286,,,0,,America/Los_Angeles,,,0
+777877,824042,,Redwood & Foothill,,38.122596,-122.218448,,,0,,America/Los_Angeles,,,0
+777958,826012,,Southhampton & Chelsea Hills (Raley's Center),,38.066879,-122.166532,,,0,,America/Los_Angeles,,,0
+781634,823137,,Fleming & Admiral Callaghan,,38.117203,-122.229086,,,0,,America/Los_Angeles,,,0
+777753,825015,,Elliott & Meadows,,38.14763,-122.25777,,,0,,America/Los_Angeles,,,0
+777896,826026,,Rose & Panorama,,38.079899,-122.152382,,,0,,America/Los_Angeles,,,0
+777700,823021,,Broadway & Illinois,,38.112073819755,-122.24860290239,671,,0,,America/Los_Angeles,,,0
+777727,827001,,Contra Costa & Viking  (Sunvalley Mall ),this stop is used for weekday PM Outbound and weekend PM inbound trips,37.967503817934,-122.06304072751,,,0,,America/Los_Angeles,,,0
+777717,823033,,BW Williams & Pecan,,38.13801,-122.24944,,,0,,America/Los_Angeles,,,0
+777835,821090,,Mare Island Way & Georgia (Ferry),,38.10051,-122.26257,,,0,,America/Los_Angeles,,,0
+777736,821017,,Curtola Parkway & Lemon (Curtola Park and Ride),,38.093477,-122.237989,671,,0,,America/Los_Angeles,,,0
+777889,822089,,Rollingwood & Cottonwood,,38.102482,-122.209213,,,0,,America/Los_Angeles,,,0
+2383062,822006,,Georgia & Fernwood,,38.100201,-122.212837,671,,0,,America/Los_Angeles,,,0
+2320126,824055,,Columbus & Georgia,,38.100227,-122.200356,,,0,,America/Los_Angeles,,,0
+781625,823130,,Tuolumne & Sereno,,38.128714,-122.238886,,,0,,America/Los_Angeles,,,0
+777678,824041,,Redwood & Ascot,,38.122602,-122.206521,,,0,,America/Los_Angeles,,,0
+777747,826006,,East 5th & East N,,38.052063,-122.146172,672,,0,,America/Los_Angeles,,,1
+777906,823023,,Sacramento & Indiana,,38.1113,-122.25801,,,0,,America/Los_Angeles,,,0
+777789,822042,,Georgia & Heartwood,,38.100218,-122.211798,,,0,,America/Los_Angeles,,,0
+777693,821085,,Benicia Rd & Starr,,38.09585,-122.23528,,,0,,America/Los_Angeles,,,0
+778028,825037,,Whitney & De Paul,,38.14612,-122.23801,,,0,,America/Los_Angeles,,,0
+777683,824024,,Ascot & Redwood,,38.1226329144854,-122.208175348549,,,0,,America/Los_Angeles,,,0
+777892,822088,,Rollingwood & Springs,,38.105171,-122.20897,,,0,,America/Los_Angeles,,,0
+777680,822049,,Ascot & Southport,,38.1085718134069,-122.194533440475,,,0,,America/Los_Angeles,,,0
+778005,823059,,Tuolumne & Los Santos,,38.12142,-122.23825,,,0,,America/Los_Angeles,,,0
+778012,823053,,Tuolumne & Phoenix,,38.13642,-122.24439,,,0,,America/Los_Angeles,,,0
+2320128,826061,,Military West & West 3rd,,38.05545,-122.159348,,,0,,America/Los_Angeles,,,0
+777946,821030,,Sonoma & Chestnut,,38.090399,-122.245722,,,0,,America/Los_Angeles,,,0
+2320163,828006,,Tennessee & Oakwood,,38.109692,-122.218315,,,0,,America/Los_Angeles,,,0
+778026,826022,,Warwick & Chelsea Hills,,38.066628,-122.163139,671,,0,,America/Los_Angeles,,,0
+777863,822076,,Oakwood & Springs,,38.1044,-122.21788,,,0,,America/Los_Angeles,,,0
+781659,827005,,Diablo College Transit Loop,,37.970814,-122.069189,,,0,,America/Los_Angeles,,,0
+777787,821011,,Georgia & El Dorado,,38.10106,-122.25027,,,0,,America/Los_Angeles,,,0
+777881,824036,,Redwood & Oakwood,,38.120499,-122.209741,,,0,,America/Los_Angeles,,,0
+777708,823004,,Broadway & Oregon,,38.11851,-122.24842,,,0,,America/Los_Angeles,,,0
+777824,822085,,Magazine & Gary,,38.085556,-122.230278,,,0,,America/Los_Angeles,,,0
+2320120,824062,,Columbus & Springs,,38.106304,-122.203339,,,0,,America/Los_Angeles,,,0
+777938,823122,,Sereno & Tuolumne,,38.129283,-122.239222,,,0,,America/Los_Angeles,,,0
+777724,827003,,Pleasant Hill BART,,37.928921,-122.055134,,,0,,America/Los_Angeles,,,0
+781657,821121,,Maine & Alameda,,38.099106,-122.248158,,,0,,America/Los_Angeles,,,0
+777951,823015,,Sonoma & Redwood,,38.12417,-122.25562,,,0,,America/Los_Angeles,,,0
+777738,821101,,Curtola Parkway & Napa,,38.097175,-122.252,671,,0,,America/Los_Angeles,,,0
+777687,821086,,Benicia Rd & Carquinez,,38.09537,-122.23318,,,0,,America/Los_Angeles,,,0
+777908,821033,,Sacramento & Ohio,,38.10733,-122.25806,,,0,,America/Los_Angeles,,,0
+781622,823142,,Tuolumne & Parkview Terrace,,38.134297,-122.243011,,,0,,America/Los_Angeles,,,0
+778007,823063,,Tuolumne & Nebraska,,38.113663,-122.238186,,,0,,America/Los_Angeles,,,0
+777994,823029,,Tuolumne & Broadway,,38.13622,-122.25185,,,0,,America/Los_Angeles,,,0
+777821,825013,,Jack London & Echo Summit,,38.1452,-122.26395,,,0,,America/Los_Angeles,,,0
+777901,823071,,Sacramento & Baldwin,,38.12389,-122.26382,,,0,,America/Los_Angeles,,,0
+781661,827006,,Contra Costa Blvd & Vikings Dr (Sunvalley Mall),,37.967372,-122.062942,,,0,,America/Los_Angeles,,,0
+781615,823141,,Tuolumne & Mitchell Court,,38.135594,-122.243814,,,0,,America/Los_Angeles,,,0
+777848,826003,,Military West & West 7th,,38.058754,-122.16613,,,0,,America/Los_Angeles,,,0
+782078,826039,,East H & East 3rd (Rancho Benicia) ,,38.048578369949,-122.1536877877,,,0,,America/Los_Angeles,,,0
+777725,824020,,Columbus & Ascot ,,38.111815,-122.198806,,,0,,America/Los_Angeles,,,0
+781616,823140,,Tuolumne & Peach,,38.136569,-122.247781,,,0,,America/Los_Angeles,,,0
+778030,823118,,Wilson & B,,38.114487,-122.268123,,,0,,America/Los_Angeles,,,0
+777674,822051,,Ascot & Georgia,,38.106007,-122.188576,671,,0,,America/Los_Angeles,,,0
+782082,826013,,Southampton and Chelsea Hills Drive (Raley's),,38.0666795529257,-122.164334362274,,,0,,America/Los_Angeles,,,0
+2428353,,,Coronel Ave & Wilshire Ave,,38.086415,-122.224698,671,,0,,America/Los_Angeles,,,1
+777799,822025,,Glen Cove & Bayside,,38.06967,-122.221768,,,0,,America/Los_Angeles,,,0
+777830,829008,,Green Valley Rd & Business Center Drive,,38.218969,-122.142397,,,0,,America/Los_Angeles,,,0
+777668,821006,,Alameda & Florida,,38.105256166889,-122.24821526031,671,,0,,America/Los_Angeles,,,0
+777820,826034,,Hastings & Cambridge,,38.07725,-122.17643,,,0,,America/Los_Angeles,,,0
+777832,821069,,Mare Island Way & Florida,,38.1055,-122.26594,671,,0,,America/Los_Angeles,,,0
+777902,823037,,Sacramento & Denio,,38.11595,-122.25808,,,0,,America/Los_Angeles,,,0
+778001,823043,,Tuolumne & Greenfield,,38.11809,-122.23804,,,0,,America/Los_Angeles,,,0
+777831,829002,,Mangles & Green Valley,,38.222703,-122.143721,672,,0,,America/Los_Angeles,,,0
+777986,823078,,Tennessee & Shasta,,38.10982,-122.23502,,,0,,America/Los_Angeles,,,0
+777926,821099,,Seaport & Country Lane,,38.0726,-122.23476,,,0,,America/Los_Angeles,,,0
+777709,823019,,Broadway & Oregon,,38.117981,-122.248544,,,0,,America/Los_Angeles,,,0
+777859,825039,,Mini & Stanford,,38.14639,-122.24638,,,0,,America/Los_Angeles,,,0
+778025,824016,,Vervais & Henry,,38.11259,-122.22468,,,0,,America/Los_Angeles,,,0
+781633,823136,,Tennessee & Mariposa,,38.109581,-122.231536,,,0,,America/Los_Angeles,,,0
+781636,824047,,Vervais & Henry,,38.111975,-122.224789,,,0,,America/Los_Angeles,,,0
+778020,824025,,Turner & North Ascot,,38.131222,-122.21069,,,0,,America/Los_Angeles,,,0
+2382740,824040,,Redwood & Admiral Callaghan,,38.123486,-122.226715,671,,0,,America/Los_Angeles,,,0
+777791,821050,,Georgia & Monterey,,38.101012,-122.246425,,,0,,America/Los_Angeles,,,0
+777836,821070,,Mare Island Way & Harbor,,38.107496310709,-122.2655801753,671,,0,,America/Los_Angeles,,,0
+777691,821083,,Benicia Rd & Rice,,38.09794,-122.24251,,,0,,America/Los_Angeles,,,0
+777985,823086,,Tennessee & Santa Clara,,38.1101,-122.25933,,,0,,America/Los_Angeles,,,0
+778029,825038,,Whitney & Olympic,,38.14652,-122.24321,,,0,,America/Los_Angeles,,,0
+777853,825019,,Mini & Elliott,,38.15272,-122.2576,,,0,,America/Los_Angeles,,,0
+777715,821063,,Butte & Florida,,38.104537,-122.263307,,,0,,America/Los_Angeles,,,0
+777990,821022,,5th & Grant,,38.08028,-122.23515,,,0,,America/Los_Angeles,,,0
+777873,823074,,Redwood & Alameda,,38.122535,-122.24783,,,0,,America/Los_Angeles,,,0
+2320125,824054,,Columbus & Springs,,38.105453,-122.203629,,,0,,America/Los_Angeles,,,0
+777856,825005,,Mini & Roleen,,38.15196,-122.26073,,,0,,America/Los_Angeles,,,0
+777895,826036,,Rose & Kearney (Matthew Turner Elementary School),,38.083978,-122.158897,,,0,,America/Los_Angeles,,,0
+778230,823049,,Hospital Drive & Tuolumne,,38.13102,-122.2392,,,0,,America/Los_Angeles,,,0
+2382714,824027,,Plaza Dr at Admiral Callaghan (Gateway Plaza North),,38.133812,-122.217514,671,,0,,America/Los_Angeles,,,0
+781631,823134,,Tennessee & Amador,,38.109772,-122.243583,,,0,,America/Los_Angeles,,,0
+777681,824022,,Ascot & Sunrise,,38.11819,-122.20267,,,0,,America/Los_Angeles,,,0
+2320123,824065,,Redwood Pkwy opp Penny Ln,,38.129253,-122.203163,,,0,,America/Los_Angeles,,,0
+777761,821075,,Florida & Alameda,,38.105,-122.24859,,,0,,America/Los_Angeles,,,0
+777965,822060,,Springs & Humboldt,,38.10618,-122.22784,,,0,,America/Los_Angeles,,,0
+777932,823056,,Sereno Dr at Kaiser Entrance (Kaiser Medical Center),,38.12813,-122.24896,,,0,,America/Los_Angeles,,,0
+781644,822038,,Rollingwood Dr & Keats Dr,,38.095296,-122.20855,,,0,,America/Los_Angeles,,,0
+777957,823010,,Sonoma & Yolano,,38.13266,-122.25588,,,0,,America/Los_Angeles,,,0
+777737,821014,,Curtola Parkway & Napa,,38.096987,-122.252778,671,,0,,America/Los_Angeles,,,0
+781637,824048,,Tennessee & Maple,,38.109583,-122.221375,,,0,,America/Los_Angeles,,,0
+777935,823123,,Sereno & San Marino,,38.128893,-122.242079,,,0,,America/Los_Angeles,,,0
+777679,824009,,Ascot at Wardlaw Park East,,38.11884,-122.2066,671,,0,,America/Los_Angeles,,,0
+2383061,821126,,Lemon & Carlson,,38.10284,-122.255051,671,,0,,America/Los_Angeles,,,0
+777811,822018,,Glen Cove & Saybrook,,38.07781,-122.21109,,,0,,America/Los_Angeles,,,0
+777894,826029,,Rose & Corcoran,,38.088642,-122.184998,671,,0,,America/Los_Angeles,,,0
+777774,821073,,Florida & Yuba,,38.10492,-122.2401,,,0,,America/Los_Angeles,,,0
+777776,822084,,Fulton & Ladera,,38.084106,-122.220425,,,0,,America/Los_Angeles,,,0
+777732,822067,,Coronel & Alhambra (Beverly Hills Elementary),,38.08809,-122.22469,,,0,,America/Los_Angeles,,,0
+777980,823084,,Tennessee & Fern Place,,38.109995383359,-122.25033107687,671,,0,,America/Los_Angeles,,,0
+777924,821024,,Sandy Beach & Seaport,,38.077739,-122.236561,,,0,,America/Los_Angeles,,,0
+2320129,826062,,East H & 1st ,,38.050404,-122.157784,671,,0,,America/Los_Angeles,,,0
+778013,823045,,Tuolumne & Redwood,,38.12327,-122.23769,,,0,,America/Los_Angeles,,,0
+777754,823108,,Six Flags Discovery Kingdom,,38.136911,-122.230001,,,0,,America/Los_Angeles,,,0
+777696,823012,,Broadway & Ash,,38.1343029946,-122.25247545158,671,,0,,America/Los_Angeles,,,0
+777730,825027,,Corcoran & Erin,,38.15471,-122.23724,,,0,,America/Los_Angeles,,,0
+777720,821064,,Carolina & Branciforte,,38.10407,-122.2617,,,0,,America/Los_Angeles,,,0
+777847,826002,,Military West & West 14th,,38.067303,-122.181549,,,0,,America/Los_Angeles,,,0
+777992,821023,,Maretime Academy  & Sonoma,,38.077206,-122.234086,,,0,,America/Los_Angeles,,,0
+777913,821032,,Sacramento & Virginia,,38.1022457786815,-122.258208542328,,,0,,America/Los_Angeles,,,0
+777802,822029,,Glen Cove & Glen Cove Marina,,38.07128,-122.213214,,,0,,America/Los_Angeles,,,0
+777883,823092,,Redwood & Sacramento,,38.12332,-122.25939,,,0,,America/Los_Angeles,,,0
+777768,821061,,Florida & Santa Clara,,38.1052,-122.25964,,,0,,America/Los_Angeles,,,0
+777734,823055,,Couch & Redwood,,38.12384,-122.25237,,,0,,America/Los_Angeles,,,0
+777897,826019,,Rose & Windsor,,38.087345,-122.173218,671,,0,,America/Los_Angeles,,,0
+777843,826005,,Military West & 1st (Benicia City Park),,38.05405,-122.156418,,,0,,America/Los_Angeles,,,0
+781658,821122,,Maine & Sonoma,,38.099206,-122.254517,,,0,,America/Los_Angeles,,,0
+777948,821029,,Sonoma & McLane,,38.088945,-122.24448,,,0,,America/Los_Angeles,,,0
+2320115,824067,,Vallejo Corners at Target (opp McDonald's),,38.131828,-122.223343,,,0,,America/Los_Angeles,,,0
+778022,823018,,Valle Vista & Broadway,,38.11971,-122.24973,,,0,,America/Los_Angeles,,,0
+781635,824046,,Fleming & Vervais,,38.115083,-122.2238,,,0,,America/Los_Angeles,,,0
+777842,826008,,Military West & 1st (Benicia City Park),,38.054146,-122.15615,,,0,,America/Los_Angeles,,,0
+777721,826021,,Chelsea Hills & Gill Way,,38.071556,-122.160019,,,0,,America/Los_Angeles,,,0
+777777,825036,,Gateway & Fairgrounds,,38.14483,-122.2345,,,0,,America/Los_Angeles,,,0
+777667,824005,,Admiral Callaghan & Vallejo Corners (Gateway Plaza; Target),,38.131822,-122.223469,,,0,,America/Los_Angeles,,,0
+781670,823115,,Valle Vista & Sonoma,,38.119811,-122.256492,,,0,,America/Los_Angeles,,,0
+777684,822087,,Avian & Tennessee,,38.108779,-122.204498,,,0,,America/Los_Angeles,,,0
+777930,823121,,Sereno & Emerald,,38.129073,-122.232314,,,0,,America/Los_Angeles,,,0
+777989,824015,,Tennessee & Vervais,,38.1097,-122.22448,,,0,,America/Los_Angeles,,,0
+777966,822058,,Springs & Maple,,38.10612,-122.22108,,,0,,America/Los_Angeles,,,0
+778031,823067,,Wilson & Benson,,38.11596,-122.26962,,,0,,America/Los_Angeles,,,0
+781649,822093,,Rollingwood Dr & Dryden Dr,,38.093903,-122.20875,,,0,,America/Los_Angeles,,,0
+777996,821058,,Tuolumne & Capitol(Solano County Courthouse),,38.103333,-122.238275,,,0,,America/Los_Angeles,,,0
+777838,823065,,Mare Island Way & Tennessee,,38.11048,-122.2645,,,0,,America/Los_Angeles,,,0
+777828,821080,,Maine & Napa,,38.098985,-122.251288,,,0,,America/Los_Angeles,,,0
+777833,821089,,Mare Island Way & Florida,,38.105246,-122.266042,,,0,,America/Los_Angeles,,,0
+777758,824018,,Fleming & Admiral Callaghan,,38.11726,-122.22913,,,0,,America/Los_Angeles,,,0
+777925,821065,,Santa Clara & Georgia,,38.10242,-122.26003,,,0,,America/Los_Angeles,,,0
+777979,823080,,Tennessee & Carroll,,38.10988,-122.2411,,,0,,America/Los_Angeles,,,0
+802613,823143,,Tuolumne & Hospital Dr,,38.1308635262274,-122.240788048035,,,0,,America/Los_Angeles,,,0
+777934,823057,,Sereno & Mesa Verde,,38.12866,-122.24348,,,0,,America/Los_Angeles,,,0
+778018,823060,,Tuolumne & Valle Vista,,38.11954,-122.23843,,,0,,America/Los_Angeles,,,0
+777673,824012,,Ascot & Columbus,,38.112868,-122.198209,,,0,,America/Los_Angeles,,,0
+777981,824014,,Tennessee & Maple,,38.109684,-122.221458,,,0,,America/Los_Angeles,,,0
+777829,821079,,Maine & Sutter,,38.099011,-122.253707,,,0,,America/Los_Angeles,,,0
+777970,822082,,Springs & Rollingwood,,38.10586,-122.20734,,,0,,America/Los_Angeles,,,0
+777974,826015,,1st & Military West (Veteran's Building),,38.0538150219936,-122.155583906746,,,0,,America/Los_Angeles,,,0
+777798,822020,,Glen Cove & Antigua,,38.071,-122.21028,,,0,,America/Los_Angeles,,,0
+777940,826030,,Solano & Hastings,,38.080097,-122.171547,671,,0,,America/Los_Angeles,,,0
+777718,823030,,BW Williams & Tuolumne,,38.13652,-122.24928,,,0,,America/Los_Angeles,,,0
+781648,822092,,Rollingwood Dr & Baywood Dr,,38.098444,-122.209419,,,0,,America/Los_Angeles,,,0
+777923,825034,,Sage & Griffin,,38.143151,-122.227654,,,0,,America/Los_Angeles,,,0
+781653,822097,,Benicia Rd & Cedar,,38.093933,-122.225986,,,0,,America/Los_Angeles,,,0
+2332222,827008,,Contra Costa Blvd #715 at Firestone (Safeway),,37.970009,-122.063026,672,,0,,America/Los_Angeles,,,1
+781632,823135,,Tennessee & Tuolumne,,38.109675,-122.237628,,,0,,America/Los_Angeles,,,0
+777846,826001,,Military West & West 14th,,38.06744,-122.181274,,,0,,America/Los_Angeles,,,0
+2382737,828007,,Georgia & Delwood,,38.100175,-122.201253,671,,0,,America/Los_Angeles,,,0
+777769,821096,,Florida & Solano,,38.104662,-122.234029,,,0,,America/Los_Angeles,,,0
+782080,826014,,Southampton and O'Farrell (Benicia Middle School),,38.069665416465,-122.174516027695,,,0,,America/Los_Angeles,,,0
+778014,823047,,Tuolumne & Sereno,,38.12958,-122.23952,,,0,,America/Los_Angeles,,,0
+777726,824032,,Columbus & College Entrance (Solano College),,38.1352,-122.201928,,,0,,America/Los_Angeles,,,0
+777735,821097,,Country Lane & Maritime Academy (Cal Maritime Academy),,38.073642,-122.231354,,,0,,America/Los_Angeles,,,0
+777991,821021,,5th & Magazine,,38.08304,-122.23672,,,0,,America/Los_Angeles,,,0
+777796,821002,,Georgia & Sonoma,,38.101030732002,-122.25407155156,671,,0,,America/Los_Angeles,,,0
+777852,825024,,Mini & Corcoran,,38.1503,-122.24597,,,0,,America/Los_Angeles,,,0
+777884,823072,,Redwood & Sacramento,,38.122479,-122.261308,,,0,,America/Los_Angeles,,,0
+777785,821041,,Georgia & Contra Costa,,38.100815,-122.241256,,,0,,America/Los_Angeles,,,0
+777955,821078,,Sonoma & Virginia,,38.10239,-122.25505,671,,0,,America/Los_Angeles,,,0
+778002,823048,,Tuolumne & Hospital,,38.1307,-122.24036,,,0,,America/Los_Angeles,,,0
+781664,829014,,Suisun Valley Rd & Westamerica Dr,,38.229611,-122.129083,,,0,,America/Los_Angeles,,,0
+777765,821095,,Florida & Calaveras,,38.10471,-122.2363,,,0,,America/Los_Angeles,,,0
+777816,825031,,Griffin & Taper,,38.1467,-122.23475,,,0,,America/Los_Angeles,,,0
+777827,821081,,Maine & El Dorado,,38.09901,-122.24972,,,0,,America/Los_Angeles,,,0
+778000,823042,,Tuolumne & Fleming,,38.11577,-122.23792,,,0,,America/Los_Angeles,,,0
+777784,821048,,Georgia & Contra Costa,,38.100951,-122.241735,,,0,,America/Los_Angeles,,,0
+777941,825001,,Sonoma & Highway 37,,38.13576,-122.25605,,,0,,America/Los_Angeles,,,0
+777790,821053,,Georgia & Monterey,,38.10091,-122.24634,,,0,,America/Los_Angeles,,,0
+777837,821088,,Mare Island Way & Harbor Way,,38.10774,-122.26572,,,0,,America/Los_Angeles,,,0
+777933,823119,,Sereno & Los Cerritos,,38.129307,-122.237909,,,0,,America/Los_Angeles,,,0
+777912,821037,,Sacramento & Virginia,,38.10203,-122.25835,,,0,,America/Los_Angeles,,,0
+777887,823076,,Redwood & Tuolumne,,38.122124,-122.237036,,,0,,America/Los_Angeles,,,0
+778019,823044,,Tuolumne & Valle Vista,,38.11948,-122.23829,,,0,,America/Los_Angeles,,,0
+777703,821008,,Broadway & Louisiana,,38.108089,-122.248701,,,0,,America/Los_Angeles,,,0
+2332223,823146,,Valle Vista & Couch (opp Post Office),,38.119904,-122.251572,671,,0,,America/Los_Angeles,,,1
+778032,823096,,Wilson & Benson,,38.11646,-122.27019,,,0,,America/Los_Angeles,,,0
+777808,822019,,Glen Cove &  Glen Cove Elem School,,38.074102791889,-122.20683281049,671,,0,,America/Los_Angeles,,,0
+777712,823022,,Broadway & Tennessee,,38.110054984389,-122.24863981697,671,,0,,America/Los_Angeles,,,0
+2382764,822098,,Rollingwood & Baywood,,38.098248,-122.20932,671,,0,,America/Los_Angeles,,,0
+777973,822078,,Springs & Vervais,,38.10597,-122.22415,,,0,,America/Los_Angeles,,,0
+777976,823081,,Tennessee & Amador,,38.10987789333,-122.24276531273,671,,0,,America/Los_Angeles,,,0
+777870,821026,,Porter & Magazine,,38.08163,-122.23985,,,0,,America/Los_Angeles,,,0
+777850,825006,,Mini & Coloma,,38.151822,-122.265722,671,,0,,America/Los_Angeles,,,0
+777704,825020,,Broadway & Meadows (Meadows Plaza),,38.147165,-122.252396,,,0,,America/Los_Angeles,,,0
+777756,823114,,Fairgrounds & Sereno,,38.128987,-122.229408,,,0,,America/Los_Angeles,,,0
+777729,825026,,Corcoran & Cobblestone (Solano Middle School),,38.1544,-122.23988,,,0,,America/Los_Angeles,,,0
+777982,823077,,Tennessee & Mariposa,,38.109747,-122.231732,,,0,,America/Los_Angeles,,,0
+777759,824017,,Fleming & Skyway,,38.11554,-122.22452,,,0,,America/Los_Angeles,,,0
+777749,826037,,East 5th & Viewmont,,38.05517,-122.14387,,,0,,America/Los_Angeles,,,0
+781665,829010,,Gateway Blvd at Best Buy/Solano Mall,,38.259953,-122.057419,,,0,,America/Los_Angeles,,,0
+777903,821036,,Sacramento & Florida,,38.10488,-122.25835,,,0,,America/Los_Angeles,,,0
+777961,822054,,Springs & Avian(Spring Hills Shopping Center),,38.10598,-122.20788,,,0,,America/Los_Angeles,,,0
+778008,823041,,Tuolumne & Nebraska,,38.11391,-122.23811,,,0,,America/Los_Angeles,,,0
+777666,824019,,Admiral Callaghan & Tennessee,,38.1102212399938,-122.228360522564,,,0,,America/Los_Angeles,,,0
+778016,823064,,Tuolumne & Tennessee,,38.109992,-122.238217,,,0,,America/Los_Angeles,,,0
+777839,825010,,Meadows & Old River,,38.14902,-122.27107,,,0,,America/Los_Angeles,,,0
+777806,822022,,Glen Cove & Mistral,,38.07118,-122.21763,,,0,,America/Los_Angeles,,,0
+777867,824026,,Plaza & Turner (Gateway Plaza; Costco),,38.132387,-122.215705,,,0,,America/Los_Angeles,,,0
+777861,825021,,Mini & Violet,,38.14381,-122.2488,,,0,,America/Los_Angeles,,,0
+777972,822059,,Springs & Vervais,,38.10617,-122.22488,,,0,,America/Los_Angeles,,,0
+2332224,823145,,Valle Vista & Napa (Post Office),,38.11974,-122.251152,671,,0,,America/Los_Angeles,,,1
+777872,824001,,Redwood & Adm Callaghan,,38.12324,-122.2268,,,0,,America/Los_Angeles,,,0
+777669,821009,,Alameda & Ohio,,38.106586158107,-122.24852862006,,,0,,America/Los_Angeles,,,0
+2332221,827007,,Contra Costa Blvd & Golf Club Rd (Safeway),,37.971077,-122.063667,672,,0,,America/Los_Angeles,,,1
+777786,822041,,Georgia & Corkwood,,38.10024,-122.20639,,,0,,America/Los_Angeles,,,0
+2320122,824064,,Redwood b/t Claret & Eagle Ridge,,38.126091,-122.203743,,,0,,America/Los_Angeles,,,0
+777959,826010,,Southhampton & Hastings,,38.070559,-122.178216,,,0,,America/Los_Angeles,,,0
+777699,823027,,Broadway & Garibaldi,,38.13192,-122.25222,,,0,,America/Los_Angeles,,,0
+778004,823062,,Tuolumne & Loma Vista,,38.11535,-122.23822,,,0,,America/Los_Angeles,,,0
+777999,823058,,Tuolumne & Del Mar,,38.126,-122.23855,,,0,,America/Los_Angeles,,,0
+777677,824011,,Ascot & Locust,,38.11435,-122.20082,,,0,,America/Los_Angeles,,,0
+777733,822066,,Coronel & Fulton,,38.08329,-122.22268,,,0,,America/Los_Angeles,,,0
+777893,826018,,Rose & Cambridge,,38.081482,-122.189743,,,0,,America/Los_Angeles,,,0
+781654,821118,,Benicia Rd & Carquinez,,38.095444,-122.232681,,,0,,America/Los_Angeles,,,0
+777936,823128,,Sereno Transit Center (STC),,38.127822290507,-122.25310696987,,,0,,America/Los_Angeles,,,1
+778009,821056,,Tuolumne & Ohio,,38.10696,-122.23809,,,0,,America/Los_Angeles,,,0
+777692,822074,,Benicia Rd & Rollingwood,,38.0898,-122.2103,,,0,,America/Los_Angeles,,,0
+2382739,821127,,Sonoma & Capitol,,38.102864284789,-122.25494408087,671,,0,,America/Los_Angeles,,,0
+777675,822050,,Ascot & Hawkins,,38.10752,-122.18977,,,0,,America/Los_Angeles,,,0
+777713,823001,,Broadway & Tennessee,,38.11024,-122.24856,,,0,,America/Los_Angeles,,,0
+777723,825029,,Christopher & Lillean,,38.15071,-122.23493,,,0,,America/Los_Angeles,,,0
+777885,823073,,Redwood & Sonoma (Seafood City),,38.123194,-122.258598,,,0,,America/Los_Angeles,,,0
+781638,824049,,Tennessee & Oakwood,,38.109542,-122.218233,,,0,,America/Los_Angeles,,,0
+777672,822068,,Alhambra & Laurel,,38.08889,-122.22765,,,0,,America/Los_Angeles,,,0
+777950,823008,,Sonoma & Redwood,,38.12441,-122.25507,671,,0,,America/Los_Angeles,,,0
+777778,825035,,Gateway & Sage,,38.14507,-122.22923,,,0,,America/Los_Angeles,,,0
+777807,822032,,Glen Cove & Glen Cove Elem School,,38.074627659044,-122.20665810359,671,,0,,America/Los_Angeles,,,0
+777752,825016,,Elliott & Lorenzo,,38.148971,-122.257618,671,,0,,America/Los_Angeles,,,0

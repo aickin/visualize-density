@@ -1,0 +1,15 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+77,472,70,HWY 70 to Sacramento,,3,http://www.yubasuttertransit.com/newceroute.htm,0000ff,ffffff,1,
+77,369,2B,Yuba City Loop,,3,http://www.yubasuttertransit.com/schedules/local/2007-10-15/route2ab.html#b,9a4c36,ffffff,10,60
+77,362,1,Yuba City to Yuba College,,3,http://www.yubasuttertransit.com/schedules/local/2007-10-15/route1.html,00604c,ffffff,11,30
+77,6464,,Wheatland Route,,3,https://www.yubasuttertransit.com/wheatland,00befd,000000,12,
+77,6465,,Foothill Route,,3,,00befd,000000,13,
+77,6463,,Live Oak Route,Rural route to the City of Live Oak,3,https://www.yubasuttertransit.com/live-oak,309bbf,000000,14,
+77,473,99,HWY 99 to Sacramento,,3,http://www.yubasuttertransit.com/newceroute.htm,0000ff,ffffff,2,
+77,367,6,Linda Shuttle,,3,http://www.yubasuttertransit.com/schedules/local/2007-10-15/route6.html,25383c,ffffff,3,60
+77,365,4A,Marysville Loop,,3,http://www.yubasuttertransit.com/newroute4ab.htm,ff692f,000000,4,60
+77,370,4B,Marysville Loop,,3,http://www.yubasuttertransit.com/newroute4ab.htm#bottomschedule,ff692f,000000,5,60
+77,364,3,Olivehurst to Yuba College,,3,http://www.yubasuttertransit.com/schedules/local/2007-10-15/route3.html,bb0000,ffffff,6,30
+77,474,MD,Sacramento Mid Day Express,,3,http://www.yubasuttertransit.com/newmeroute.htm,0000ff,ffffff,7,
+77,366,5,Southwest Yuba City,,3,http://www.yubasuttertransit.com/schedules/local/2007-10-15/route5.html,ffd759,000000,8,60
+77,363,2A,Yuba City Loop,,3,http://www.yubasuttertransit.com/schedules/local/2007-10-15/route2ab.html,9a4c36,ffffff,9,60

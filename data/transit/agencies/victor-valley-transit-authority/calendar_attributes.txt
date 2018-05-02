@@ -1,0 +1,9 @@
+service_id,service_description
+c_2285_b_1576_d_96,Year Round (Weekend)
+c_2285_b_1576_d_31,Year Round (Monday-Friday)
+c_1873_b_531_d_96,Year-round calendar (Weekend)
+c_1873_b_531_d_64,Year-round calendar (Sunday only)
+c_1873_b_531_d_32,Year-round calendar (Saturday only)
+c_1873_b_531_d_31,Year-round calendar (Monday-Friday)
+c_1873_b_531_d_16,Year-round calendar (Friday only)
+c_1873_b_531_d_15,Year-round calendar (Monday-Thursday)

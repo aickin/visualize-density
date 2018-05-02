@@ -1,0 +1,553 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+1,808834,2,Town Center Mall,"1/, 2/, 4/, 5/, 6/, 61/, 62/, /Guadalupe Flyer"
+1,808708,3,Broadway at Mill,"1/, 61/"
+1,808709,4,Broadway at Tunnell,"1/, 61/"
+1,808710,5,Broadway at Alvin,"1/, 61/"
+1,808711,6,Broadway at Orchard,"1/, 61/"
+1,808712,7,Broadway at Williams,"1/, 61/, 62/"
+1,808713,8,Broadway at Taylor,"1/, 61/, 62/"
+1,808714,9,Taylor at Broadway,"1/, 61/, 62/"
+1,808715,10,Taylor at Casa Grande,"1/, 62/"
+1,808716,11,Railroad Ave at Taylor St,"1/, 61/"
+1,808717,12,Railroad Ave at Hidden Pines Way,"1/, 61/"
+1,816015,13,Hidden Pines at Railroad,"1/, 61/"
+1,808718,14,Hidden Pines Way at Preisker Park,"1/, 61/"
+1,808719,15,Preisker Ln at Cedar,"1/, 61/"
+1,808721,16,Broadway at Taylor,"1/, 61/"
+1,808722,17,Broadway at Williams,"1/, 61/"
+1,808723,18,Broadway at Orchard,"1/, 61/"
+1,808724,19,Broadway at Agnes,1/
+1,808725,20,Broadway at McElhany,"1/, 61/"
+1,808726,21,Broadway at Hermosa,"1/, 61/"
+1,808727,22,Broadway at Fesler,"1/, 61/"
+1,808950,23,Main at Broadway (North Town Center Mall),"1/, 2/, 5/, 6/, 61/, 62/"
+1,808728,24,Miller at Orange (Cook),"1/, 2/, 3/, 4/, 5/, 6/, 61/"
+1,808706,25,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+2,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+2,808834,2,Town Center Mall,"1/, 2/, 4/, 5/, 6/, 61/, 62/, /Guadalupe Flyer"
+2,808708,3,Broadway at Mill,"1/, 61/"
+2,808709,4,Broadway at Tunnell,"1/, 61/"
+2,808710,5,Broadway at Alvin,"1/, 61/"
+2,808711,6,Broadway at Orchard,"1/, 61/"
+2,808712,7,Broadway at Williams,"1/, 61/, 62/"
+2,808713,8,Broadway at Taylor,"1/, 61/, 62/"
+2,808714,9,Taylor at Broadway,"1/, 61/, 62/"
+2,808715,10,Taylor at Casa Grande,"1/, 62/"
+2,808716,11,Railroad Ave at Taylor St,"1/, 61/"
+2,808717,12,Railroad Ave at Hidden Pines Way,"1/, 61/"
+2,816015,13,Hidden Pines at Railroad,"1/, 61/"
+2,808718,14,Hidden Pines Way at Preisker Park,"1/, 61/"
+2,808719,15,Preisker Ln at Cedar,"1/, 61/"
+2,808721,16,Broadway at Taylor,"1/, 61/"
+2,808722,17,Broadway at Williams,"1/, 61/"
+2,808723,18,Broadway at Orchard,"1/, 61/"
+2,808724,19,Broadway at Agnes,1/
+2,808725,20,Broadway at McElhany,"1/, 61/"
+2,808726,21,Broadway at Hermosa,"1/, 61/"
+2,808727,22,Broadway at Fesler,"1/, 61/"
+2,808950,23,Main at Broadway (North Town Center Mall),"1/, 2/, 5/, 6/, 61/, 62/"
+2,808728,24,Miller at Orange (Cook),"1/, 2/, 3/, 4/, 5/, 6/, 61/"
+2,808706,25,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+3,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+3,808742,2,College at Boone,2/
+3,808743,3,Park at Elizabeth (Mussell Senior Center),"2/, 62/"
+3,808744,4,Miller at Stowell,2/
+3,808745,5,Miller at Enos,2/
+3,808746,6,Miller at Battles,2/
+3,808747,7,Miller at Inger,2/
+3,808748,8,Miller at Daniel And Betteravia,2/
+3,808749,9,Betteravia at Target,"2/, 5/, 6/, 61/"
+3,808750,10,McCoy at FoodMaxx,"2/, 5/, 6/, 61/, 62/, 7/"
+3,808751,11,Miller at Betteravia (County Government Center),"2/, 5/, 6/, 62/"
+3,808753,12,Miller at E Inger,"2/, 62/"
+3,808754,13,Miller at E Battles,"2/, 62/"
+3,808755,14,Miller at E Enos,"2/, 62/"
+3,808756,15,Miller at Morrison,2/
+3,808757,16,Park at Oakwood,2/
+3,808758,17,College at Park (Allan Hancock College),"2/, 3/"
+3,808706,18,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+4,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+4,808742,2,College at Boone,2/
+4,808743,3,Park at Elizabeth (Mussell Senior Center),"2/, 62/"
+4,808744,4,Miller at Stowell,2/
+4,808745,5,Miller at Enos,2/
+4,808746,6,Miller at Battles,2/
+4,808747,7,Miller at Inger,2/
+4,808748,8,Miller at Daniel And Betteravia,2/
+4,808749,9,Betteravia at Target,"2/, 5/, 6/, 61/"
+4,808750,10,McCoy at FoodMaxx,"2/, 5/, 6/, 61/, 62/, 7/"
+4,808751,11,Miller at Betteravia (County Government Center),"2/, 5/, 6/, 62/"
+4,808753,12,Miller at E Inger,"2/, 62/"
+4,808754,13,Miller at E Battles,"2/, 62/"
+4,808755,14,Miller at E Enos,"2/, 62/"
+4,808756,15,Miller at Morrison,2/
+4,808757,16,Park at Oakwood,2/
+4,808758,17,College at Park (Allan Hancock College),"2/, 3/"
+4,808706,18,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+5,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+5,808961,2,Miller at Cook,"3/, 4/"
+5,808760,3,Main at College,"3/, 62/"
+5,816017,4,Main at Ranch,3/
+5,808761,5,Cypress at S Nicholson,"3/, 62/"
+5,808763,6,Church at S Palisade (Marian Regional Medical Center),"3/, 62/"
+5,808765,7,Main at Palisades,"3/, 62/"
+5,808766,8,Suey at Fesler,"3/, 62/"
+5,808767,9,Suey at Alvin,"3/, 62/"
+5,808769,10,Donovan at Merrill Gardens,"3/, 4/"
+5,808770,11,Suey Rd Crossing at Seapark Dr,3/
+5,808771,12,Suey at Alvin ,3/
+5,808772,13,Suey at Main,3/
+5,808773,14,Church at N Palisades,3/
+5,808774,15,Cypress at N Nicholson,3/
+5,808728,16,Miller at Orange (Cook),"1/, 2/, 3/, 4/, 5/, 6/, 61/"
+5,808706,17,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+6,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+6,808961,2,Miller at Cook,"3/, 4/"
+6,808760,3,Main at College,"3/, 62/"
+6,816017,4,Main at Ranch,3/
+6,808761,5,Cypress at S Nicholson,"3/, 62/"
+6,808763,6,Church at S Palisade (Marian Regional Medical Center),"3/, 62/"
+6,808765,7,Main at Palisades,"3/, 62/"
+6,808766,8,Suey at Fesler,"3/, 62/"
+6,808767,9,Suey at Alvin,"3/, 62/"
+6,808769,10,Donovan at Merrill Gardens,"3/, 4/"
+6,808770,11,Suey Rd Crossing at Seapark Dr,3/
+6,808771,12,Suey at Alvin ,3/
+6,808772,13,Suey at Main,3/
+6,808773,14,Church at N Palisades,3/
+6,808774,15,Cypress at N Nicholson,3/
+6,808728,16,Miller at Orange (Cook),"1/, 2/, 3/, 4/, 5/, 6/, 61/"
+6,808706,17,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+7,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+7,808834,2,Town Center Mall,"1/, 2/, 4/, 5/, 6/, 61/, 62/, /Guadalupe Flyer"
+7,808794,3,Pine at Jones,4/
+7,808795,4,Pine at Morrison,4/
+7,808796,5,Morrison at Thornburg (CET),4/
+7,808797,6,Morrison at Oakley,4/
+7,808798,7,Morrison at Western,4/
+7,808799,8,Western at Stowell,"4/, 62/"
+7,808801,9,Enos at Depot (Minami Center),"4/, 62/"
+7,808802,10,Enos at Thornburg,"4/, 62/"
+7,808803,11,Thornburg at Newlove,"4/, 62/"
+7,808804,12,Thornburg at Sonya,4/
+7,808805,13,Thornburg at Carmen,"4/, 62/"
+7,808806,14,Thornburg at Betteravia,"4/, 62/"
+7,808807,15,Betteravia at Blosser,4/
+7,808808,16,Carmen Ln at Trinity,4/
+7,808809,17,A St at Carpenters Training Union,"4/, 62/"
+7,808810,18,A St at Vocational Training Center,"4/, 62/"
+7,808811,19,Fairway at Skyway,"4/, 62/"
+7,808816,20,Santa Maria Public Airport,"4/, 62/, /The Breeze 100"
+7,808818,21,A St at Betteravia,"4/, 8/"
+7,808819,22,Carmen Ln at Trinity Dr,4/
+7,808937,23,Betteravia at Blosser (McDonald's),"4/, 8/"
+7,808821,24,Betteravia at Bakery Outlet,"4/, 8/"
+7,808822,25,Thornburg at Dal Porto,4/
+7,808823,26,Thornburg at Carmen,4/
+7,808824,27,Thornburg at Sonya,4/
+7,808825,28,Thornburg at Battles,4/
+7,808826,29,Enos at Wallis,4/
+7,808827,30,Enos at Depot,4/
+7,808828,31,Stowell at Western,4/
+7,808829,32,Morrison at Western,4/
+7,808830,33,Morrison at Depot,4/
+7,808831,34,Morrison at Thornburg (Santa Maria High School),4/
+7,808832,35,Pine at Jones,4/
+7,808833,36,Cook at Pine,4/
+7,808728,37,Miller at Orange (Cook),"1/, 2/, 3/, 4/, 5/, 6/, 61/"
+7,808706,38,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+8,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+8,808834,2,Town Center Mall,"1/, 2/, 4/, 5/, 6/, 61/, 62/, /Guadalupe Flyer"
+8,808794,3,Pine at Jones,4/
+8,808795,4,Pine at Morrison,4/
+8,808796,5,Morrison at Thornburg (CET),4/
+8,808797,6,Morrison at Oakley,4/
+8,808798,7,Morrison at Western,4/
+8,808799,8,Western at Stowell,"4/, 62/"
+8,808801,9,Enos at Depot (Minami Center),"4/, 62/"
+8,808802,10,Enos at Thornburg,"4/, 62/"
+8,808803,11,Thornburg at Newlove,"4/, 62/"
+8,808804,12,Thornburg at Sonya,4/
+8,808805,13,Thornburg at Carmen,"4/, 62/"
+8,808806,14,Thornburg at Betteravia,"4/, 62/"
+8,808807,15,Betteravia at Blosser,4/
+8,808808,16,Carmen Ln at Trinity,4/
+8,808809,17,A St at Carpenters Training Union,"4/, 62/"
+8,808810,18,A St at Vocational Training Center,"4/, 62/"
+8,808811,19,Fairway at Skyway,"4/, 62/"
+8,808816,20,Santa Maria Public Airport,"4/, 62/, /The Breeze 100"
+8,808818,21,A St at Betteravia,"4/, 8/"
+8,808819,22,Carmen Ln at Trinity Dr,4/
+8,808937,23,Betteravia at Blosser (McDonald's),"4/, 8/"
+8,808821,24,Betteravia at Bakery Outlet,"4/, 8/"
+8,808822,25,Thornburg at Dal Porto,4/
+8,808823,26,Thornburg at Carmen,4/
+8,808824,27,Thornburg at Sonya,4/
+8,808825,28,Thornburg at Battles,4/
+8,808826,29,Enos at Wallis,4/
+8,808827,30,Enos at Depot,4/
+8,808828,31,Stowell at Western,4/
+8,808829,32,Morrison at Western,4/
+8,808830,33,Morrison at Depot,4/
+8,808831,34,Morrison at Thornburg (Santa Maria High School),4/
+8,808832,35,Pine at Jones,4/
+8,808833,36,Cook at Pine,4/
+8,808728,37,Miller at Orange (Cook),"1/, 2/, 3/, 4/, 5/, 6/, 61/"
+8,808706,38,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+9,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+9,808834,2,Town Center Mall,"1/, 2/, 4/, 5/, 6/, 61/, 62/, /Guadalupe Flyer"
+9,808835,3,Broadway at Jones,"5/, 6/, 61/"
+9,808836,4,Broadway at Morrison (Santa Maria High School),"5/, 6/, 61/"
+9,808877,5,Broadway at Stowell,"5/, 6/, 61/, /The Breeze 100"
+9,808838,6,Broadway at Newlove,"5/, 6/, 61/"
+9,808839,7,Broadway at Carmen Ln,"5/, 6/, 61/"
+9,808840,8,Betteravia at Panda Express,"5/, 6/, 62/, 7/, /7 Evening, 8/"
+9,808841,9,McCoy at Albertsons,"5/, 6/, 61/, 62/, 7/, /7 Evening, 8/"
+9,808880,10,Orcutt Rd at Lakeview,"5/, 6/"
+9,808842,11,Foster Across Foodbank,5/
+9,808843,12,Foster at California,"5/, 61/"
+9,808844,13,Airport Mobile Home Park,"5/, 6/, 61/"
+9,808845,14,Blosser Rd at Foxenwood,"5/, 61/"
+9,808955,15,Blosser at Rick,5/
+9,808846,16,Blosser at Solomon,"5/, 61/"
+9,808847,17,Clark Ave at Broadway,"5/, 61/"
+9,808848,18,Clark Ave at Dyer,"5/, 61/"
+9,808849,19,Orcutt Rd at Clark (Jack N The Box),"5/, 61/"
+9,808851,20,Orcutt Rd at Valley View,"5/, 61/"
+9,808853,21,Rice Ranch at Orcutt Rd,"5/, 61/"
+9,808854,22,Rice Ranch at Princeton,"5/, 61/"
+9,808855,23,Rice Ranch Rd at Bradley,"5/, 61/"
+9,808856,24,Clark Ave at Oak Knolls Shopping Center,"5/, 61/"
+9,808857,25,Clark at Kenneth,"5/, 61/"
+9,808858,26,Clark at Oak Ridge Park,"5/, 61/"
+9,2328650,27,Stillwell at Rhinestone (Greenbelt),5/
+9,808860,28,Stillwell at Cameo,"5/, 61/"
+9,808861,29,Oak Knolls at Kenneth,"5/, 61/"
+9,808862,30,Oak Knolls at Tilbury,"5/, 61/"
+9,808863,31,Bradley at Patterson,"5/, 61/"
+9,808865,32,Bradley at Village Dr,"5/, 61/"
+9,808866,33,Bradley at Parkland,"5/, 61/"
+9,808867,34,Foster at Bradley (Righetti High School),"5/, 61/"
+9,808868,35,Foster at Hillview,"5/, 61/"
+9,808869,36,Foster at YOYO Youth Center,"5/, 61/"
+9,808870,37,Foster at Dartmouth,"5/, 61/"
+9,808871,38,Foster at Jetty,"5/, 61/"
+9,2328651,39,Orcutt Rd at Lakeview (Evergreen Shopping Ctr),"5/, 6/"
+9,808873,40,Broadway at Starbuck's,"5/, 6/, 61/, 62/, 7/"
+9,808750,41,McCoy at FoodMaxx,"2/, 5/, 6/, 61/, 62/, 7/"
+9,808751,42,Miller at Betteravia (County Government Center),"2/, 5/, 6/, 62/"
+9,808749,43,Betteravia at Target,"2/, 5/, 6/, 61/"
+9,808874,44,Broadway at CVS Pharmacy,"5/, 6/, 61/"
+9,808875,45,Broadway at Newlove,"5/, 6/, 61/"
+9,808876,46,Broadway at Battles,"5/, 6/, 61/"
+9,808837,47,Broadway at Enos,"5/, 6/"
+9,808878,48,Broadway at Morrison (Across Santa Maria High School),"5/, 6/, 61/"
+9,808879,49,Broadway at Jones,"5/, 6/, 61/"
+9,808950,50,Main at Broadway (North Town Center Mall),"1/, 2/, 5/, 6/, 61/, 62/"
+9,808728,51,Miller at Orange (Cook),"1/, 2/, 3/, 4/, 5/, 6/, 61/"
+9,808706,52,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+10,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+10,808834,2,Town Center Mall,"1/, 2/, 4/, 5/, 6/, 61/, 62/, /Guadalupe Flyer"
+10,808835,3,Broadway at Jones,"5/, 6/, 61/"
+10,808836,4,Broadway at Morrison (Santa Maria High School),"5/, 6/, 61/"
+10,808877,5,Broadway at Stowell,"5/, 6/, 61/, /The Breeze 100"
+10,808838,6,Broadway at Newlove,"5/, 6/, 61/"
+10,808839,7,Broadway at Carmen Ln,"5/, 6/, 61/"
+10,808840,8,Betteravia at Panda Express,"5/, 6/, 62/, 7/, /7 Evening, 8/"
+10,808841,9,McCoy at Albertsons,"5/, 6/, 61/, 62/, 7/, /7 Evening, 8/"
+10,808880,10,Orcutt Rd at Lakeview,"5/, 6/"
+10,808842,11,Foster Across Foodbank,5/
+10,808843,12,Foster at California,"5/, 61/"
+10,808844,13,Airport Mobile Home Park,"5/, 6/, 61/"
+10,808845,14,Blosser Rd at Foxenwood,"5/, 61/"
+10,808955,15,Blosser at Rick,5/
+10,808846,16,Blosser at Solomon,"5/, 61/"
+10,808847,17,Clark Ave at Broadway,"5/, 61/"
+10,808848,18,Clark Ave at Dyer,"5/, 61/"
+10,808849,19,Orcutt Rd at Clark (Jack N The Box),"5/, 61/"
+10,808851,20,Orcutt Rd at Valley View,"5/, 61/"
+10,808853,21,Rice Ranch at Orcutt Rd,"5/, 61/"
+10,808854,22,Rice Ranch at Princeton,"5/, 61/"
+10,808855,23,Rice Ranch Rd at Bradley,"5/, 61/"
+10,808856,24,Clark Ave at Oak Knolls Shopping Center,"5/, 61/"
+10,808857,25,Clark at Kenneth,"5/, 61/"
+10,808858,26,Clark at Oak Ridge Park,"5/, 61/"
+10,2328650,27,Stillwell at Rhinestone (Greenbelt),5/
+10,808860,28,Stillwell at Cameo,"5/, 61/"
+10,808861,29,Oak Knolls at Kenneth,"5/, 61/"
+10,808862,30,Oak Knolls at Tilbury,"5/, 61/"
+10,808863,31,Bradley at Patterson,"5/, 61/"
+10,808865,32,Bradley at Village Dr,"5/, 61/"
+10,808866,33,Bradley at Parkland,"5/, 61/"
+10,808867,34,Foster at Bradley (Righetti High School),"5/, 61/"
+10,808868,35,Foster at Hillview,"5/, 61/"
+10,808869,36,Foster at YOYO Youth Center,"5/, 61/"
+10,808870,37,Foster at Dartmouth,"5/, 61/"
+10,808871,38,Foster at Jetty,"5/, 61/"
+10,2328651,39,Orcutt Rd at Lakeview (Evergreen Shopping Ctr),"5/, 6/"
+10,808873,40,Broadway at Starbuck's,"5/, 6/, 61/, 62/, 7/"
+10,808750,41,McCoy at FoodMaxx,"2/, 5/, 6/, 61/, 62/, 7/"
+10,808751,42,Miller at Betteravia (County Government Center),"2/, 5/, 6/, 62/"
+10,808749,43,Betteravia at Target,"2/, 5/, 6/, 61/"
+10,808874,44,Broadway at CVS Pharmacy,"5/, 6/, 61/"
+10,808875,45,Broadway at Newlove,"5/, 6/, 61/"
+10,808876,46,Broadway at Battles,"5/, 6/, 61/"
+10,808837,47,Broadway at Enos,"5/, 6/"
+10,808878,48,Broadway at Morrison (Across Santa Maria High School),"5/, 6/, 61/"
+10,808879,49,Broadway at Jones,"5/, 6/, 61/"
+10,808950,50,Main at Broadway (North Town Center Mall),"1/, 2/, 5/, 6/, 61/, 62/"
+10,808728,51,Miller at Orange (Cook),"1/, 2/, 3/, 4/, 5/, 6/, 61/"
+10,808706,52,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+11,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+11,808834,2,Town Center Mall,"1/, 2/, 4/, 5/, 6/, 61/, 62/, /Guadalupe Flyer"
+11,808835,3,Broadway at Jones,"5/, 6/, 61/"
+11,808836,4,Broadway at Morrison (Santa Maria High School),"5/, 6/, 61/"
+11,808877,5,Broadway at Stowell,"5/, 6/, 61/, /The Breeze 100"
+11,808838,6,Broadway at Newlove,"5/, 6/, 61/"
+11,808839,7,Broadway at Carmen Ln,"5/, 6/, 61/"
+11,808840,8,Betteravia at Panda Express,"5/, 6/, 62/, 7/, /7 Evening, 8/"
+11,808841,9,McCoy at Albertsons,"5/, 6/, 61/, 62/, 7/, /7 Evening, 8/"
+11,808880,10,Orcutt Rd at Lakeview,"5/, 6/"
+11,808881,11,Foster Rd at Michelle,6/
+11,808882,12,Foster Rd at Lockford,6/
+11,808883,13,Bradley at Foster Rd (Righetti High School),6/
+11,808884,14,Bradley at Country Hill,6/
+11,808885,15,Bradley at Basque,6/
+11,808886,16,Oak Knolls at Sweetbriar,6/
+11,808887,17,Oak Knolls at Harmony Ln,6/
+11,808888,18,Stillwell at Cameo (Green Belt),6/
+11,808889,19,Clark at Kenneth,6/
+11,808890,20,Clark Ave at Oak Knolls Shopping Center,6/
+11,808956,21,Rice Ranch at Domino,6/
+11,808891,22,Rice Ranch at Princeton,6/
+11,808892,23,Rice Ranch Rd at Orcutt Rd,6/
+11,808893,24,Orcutt Rd at Valley View,6/
+11,808894,25,Orcutt Rd at Clark,6/
+11,808895,26,Clark Ave at Pacific,6/
+11,808896,27,Blosser Rd at Old Mill,6/
+11,808844,28,Airport Mobile Home Park,"5/, 6/, 61/"
+11,2329734,29,Foster at Probation,6/
+11,808899,30,Foster at Foodbank,"6/, 61/"
+11,2328651,31,Orcutt Rd at Lakeview (Evergreen Shopping Ctr),"5/, 6/"
+11,808873,32,Broadway at Starbuck's,"5/, 6/, 61/, 62/, 7/"
+11,808750,33,McCoy at FoodMaxx,"2/, 5/, 6/, 61/, 62/, 7/"
+11,808751,34,Miller at Betteravia (County Government Center),"2/, 5/, 6/, 62/"
+11,808749,35,Betteravia at Target,"2/, 5/, 6/, 61/"
+11,808874,36,Broadway at CVS Pharmacy,"5/, 6/, 61/"
+11,808875,37,Broadway at Newlove,"5/, 6/, 61/"
+11,808876,38,Broadway at Battles,"5/, 6/, 61/"
+11,808837,39,Broadway at Enos,"5/, 6/"
+11,808878,40,Broadway at Morrison (Across Santa Maria High School),"5/, 6/, 61/"
+11,808879,41,Broadway at Jones,"5/, 6/, 61/"
+11,808950,42,Main at Broadway (North Town Center Mall),"1/, 2/, 5/, 6/, 61/, 62/"
+11,808728,43,Miller at Orange (Cook),"1/, 2/, 3/, 4/, 5/, 6/, 61/"
+11,808706,44,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+12,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+12,808834,2,Town Center Mall,"1/, 2/, 4/, 5/, 6/, 61/, 62/, /Guadalupe Flyer"
+12,808835,3,Broadway at Jones,"5/, 6/, 61/"
+12,808836,4,Broadway at Morrison (Santa Maria High School),"5/, 6/, 61/"
+12,808877,5,Broadway at Stowell,"5/, 6/, 61/, /The Breeze 100"
+12,808838,6,Broadway at Newlove,"5/, 6/, 61/"
+12,808839,7,Broadway at Carmen Ln,"5/, 6/, 61/"
+12,808840,8,Betteravia at Panda Express,"5/, 6/, 62/, 7/, /7 Evening, 8/"
+12,808841,9,McCoy at Albertsons,"5/, 6/, 61/, 62/, 7/, /7 Evening, 8/"
+12,808880,10,Orcutt Rd at Lakeview,"5/, 6/"
+12,808881,11,Foster Rd at Michelle,6/
+12,808882,12,Foster Rd at Lockford,6/
+12,808883,13,Bradley at Foster Rd (Righetti High School),6/
+12,808884,14,Bradley at Country Hill,6/
+12,808885,15,Bradley at Basque,6/
+12,808886,16,Oak Knolls at Sweetbriar,6/
+12,808887,17,Oak Knolls at Harmony Ln,6/
+12,808888,18,Stillwell at Cameo (Green Belt),6/
+12,808889,19,Clark at Kenneth,6/
+12,808890,20,Clark Ave at Oak Knolls Shopping Center,6/
+12,808956,21,Rice Ranch at Domino,6/
+12,808891,22,Rice Ranch at Princeton,6/
+12,808892,23,Rice Ranch Rd at Orcutt Rd,6/
+12,808893,24,Orcutt Rd at Valley View,6/
+12,808894,25,Orcutt Rd at Clark,6/
+12,808895,26,Clark Ave at Pacific,6/
+12,808896,27,Blosser Rd at Old Mill,6/
+12,808844,28,Airport Mobile Home Park,"5/, 6/, 61/"
+12,2329734,29,Foster at Probation,6/
+12,808899,30,Foster at Foodbank,"6/, 61/"
+12,2328651,31,Orcutt Rd at Lakeview (Evergreen Shopping Ctr),"5/, 6/"
+12,808873,32,Broadway at Starbuck's,"5/, 6/, 61/, 62/, 7/"
+12,808750,33,McCoy at FoodMaxx,"2/, 5/, 6/, 61/, 62/, 7/"
+12,808751,34,Miller at Betteravia (County Government Center),"2/, 5/, 6/, 62/"
+12,808749,35,Betteravia at Target,"2/, 5/, 6/, 61/"
+12,808874,36,Broadway at CVS Pharmacy,"5/, 6/, 61/"
+12,808875,37,Broadway at Newlove,"5/, 6/, 61/"
+12,808876,38,Broadway at Battles,"5/, 6/, 61/"
+12,808837,39,Broadway at Enos,"5/, 6/"
+12,808878,40,Broadway at Morrison (Across Santa Maria High School),"5/, 6/, 61/"
+12,808879,41,Broadway at Jones,"5/, 6/, 61/"
+12,808950,42,Main at Broadway (North Town Center Mall),"1/, 2/, 5/, 6/, 61/, 62/"
+12,808728,43,Miller at Orange (Cook),"1/, 2/, 3/, 4/, 5/, 6/, 61/"
+12,808706,44,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+13,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+13,808775,2,Jones at College (Allan Hancock College),"3/, 7/, /7 Evening"
+13,808776,3,Bradley at Jones (Allan Hancock College),"3/, 7/, /7 Evening"
+13,808777,4,Bradley at Sierra Madre,"3/, 7/, /7 Evening"
+13,808922,5,Bradley at Costco (Edwards Cinema),"7/, /7 Evening"
+13,808923,6,Bradley at Southside Parkway (Walmart),"7/, /7 Evening"
+13,808924,7,Crossroads at Del Sur,"7/, /7 Evening"
+13,808841,8,McCoy at Albertsons,"5/, 6/, 61/, 62/, 7/, /7 Evening, 8/"
+13,808901,9,Santa Maria Way at K-Mart Center,"6/, 61/, 7/"
+13,816018,10,Santa Maria Way at Holly Oak,"61/, 7/"
+13,808918,11,Santa Maria Way at Del Cielo Mobile Hm Prk,"61/, 7/"
+13,808925,12,Orcutt at Winter (Evergreen Shopping Center),"6/, 61/, 7/"
+13,808912,13,Lakeview at Orcutt Rd (Evergreen Shopping Ctr),"62/, 7/"
+13,816024,14,Lakeview at Lakeview,"62/, 7/"
+13,808915,15,Lakeview at Hillview,"62/, 7/"
+13,808916,16,Santa Maria Way at College,"62/, 7/"
+13,808967,17,Santa Maria Way at Del Cielo Mobile Hm Prk,"62/, 7/"
+13,808919,18,Santa Maria Way at Drive-In,"62/, 7/"
+13,808965,19,Santa Maria Way at Sunrise,"62/, 7/"
+13,808920,20,Santa Maria Way at Broadway,"61/, 62/, 7/"
+13,808873,21,Broadway at Starbuck's,"5/, 6/, 61/, 62/, 7/"
+13,808750,22,McCoy at FoodMaxx,"2/, 5/, 6/, 61/, 62/, 7/"
+13,808926,23,McCoy at Caballero,"7/, /7 Evening"
+13,808927,24,Crossroads at Del Sur,"7/, /7 Evening"
+13,808928,25,Bradley at Crossroads (Walmart),"7/, /7 Evening"
+13,808929,26,Southside Pkwy at Volkswagon,"7/, /7 Evening"
+13,808962,27,Bradley at Stowell,"7/, /7 Evening"
+13,808930,28,Bradley at Olive Garden,"7/, /7 Evening"
+13,808931,29,Jones at Vineyard Apartments,"7/, /7 Evening"
+13,808706,30,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+14,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+14,808775,2,Jones at College (Allan Hancock College),"3/, 7/, /7 Evening"
+14,808776,3,Bradley at Jones (Allan Hancock College),"3/, 7/, /7 Evening"
+14,808777,4,Bradley at Sierra Madre,"3/, 7/, /7 Evening"
+14,808922,5,Bradley at Costco (Edwards Cinema),"7/, /7 Evening"
+14,808923,6,Bradley at Southside Parkway (Walmart),"7/, /7 Evening"
+14,808924,7,Crossroads at Del Sur,"7/, /7 Evening"
+14,808841,8,McCoy at Albertsons,"5/, 6/, 61/, 62/, 7/, /7 Evening, 8/"
+14,808901,9,Santa Maria Way at K-Mart Center,"6/, 61/, 7/"
+14,816018,10,Santa Maria Way at Holly Oak,"61/, 7/"
+14,808918,11,Santa Maria Way at Del Cielo Mobile Hm Prk,"61/, 7/"
+14,808925,12,Orcutt at Winter (Evergreen Shopping Center),"6/, 61/, 7/"
+14,808912,13,Lakeview at Orcutt Rd (Evergreen Shopping Ctr),"62/, 7/"
+14,816024,14,Lakeview at Lakeview,"62/, 7/"
+14,808915,15,Lakeview at Hillview,"62/, 7/"
+14,808916,16,Santa Maria Way at College,"62/, 7/"
+14,808967,17,Santa Maria Way at Del Cielo Mobile Hm Prk,"62/, 7/"
+14,808919,18,Santa Maria Way at Drive-In,"62/, 7/"
+14,808965,19,Santa Maria Way at Sunrise,"62/, 7/"
+14,808920,20,Santa Maria Way at Broadway,"61/, 62/, 7/"
+14,808873,21,Broadway at Starbuck's,"5/, 6/, 61/, 62/, 7/"
+14,808750,22,McCoy at FoodMaxx,"2/, 5/, 6/, 61/, 62/, 7/"
+14,808926,23,McCoy at Caballero,"7/, /7 Evening"
+14,808927,24,Crossroads at Del Sur,"7/, /7 Evening"
+14,808928,25,Bradley at Crossroads (Walmart),"7/, /7 Evening"
+14,808929,26,Southside Pkwy at Volkswagon,"7/, /7 Evening"
+14,808962,27,Bradley at Stowell,"7/, /7 Evening"
+14,808930,28,Bradley at Olive Garden,"7/, /7 Evening"
+14,808931,29,Jones at Vineyard Apartments,"7/, /7 Evening"
+14,808706,30,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+15,808841,1,McCoy at Albertsons,"5/, 6/, 61/, 62/, 7/, /7 Evening, 8/"
+15,808906,2,McCoy at Eastbury,"62/, 8/"
+15,808907,3,McCoy at Depot,"62/, 8/"
+15,2329724,4,McCoy at Sandpiper,8/
+15,808908,5,McCoy at Skyway,"62/, 8/, /The Breeze 100"
+15,808932,6,McCoy at Thompson,8/
+15,808933,7,McCoy at Westgate,8/
+15,808818,8,A St at Betteravia,"4/, 8/"
+15,808934,9,Sandalwood at Black Rd,8/
+15,808935,10,Tanglewood at Willowood,8/
+15,808936,11,Tanglewood at Black Rd,8/
+15,808937,12,Betteravia at Blosser (McDonald's),"4/, 8/"
+15,808821,13,Betteravia at Bakery Outlet,"4/, 8/"
+15,808840,14,Betteravia at Panda Express,"5/, 6/, 62/, 7/, /7 Evening, 8/"
+15,808841,15,McCoy at Albertsons,"5/, 6/, 61/, 62/, 7/, /7 Evening, 8/"
+16,808841,1,McCoy at Albertsons,"5/, 6/, 61/, 62/, 7/, /7 Evening, 8/"
+16,808906,2,McCoy at Eastbury,"62/, 8/"
+16,808907,3,McCoy at Depot,"62/, 8/"
+16,2329724,4,McCoy at Sandpiper,8/
+16,808908,5,McCoy at Skyway,"62/, 8/, /The Breeze 100"
+16,808932,6,McCoy at Thompson,8/
+16,808933,7,McCoy at Westgate,8/
+16,808818,8,A St at Betteravia,"4/, 8/"
+16,808934,9,Sandalwood at Black Rd,8/
+16,808935,10,Tanglewood at Willowood,8/
+16,808936,11,Tanglewood at Black Rd,8/
+16,808937,12,Betteravia at Blosser (McDonald's),"4/, 8/"
+16,808821,13,Betteravia at Bakery Outlet,"4/, 8/"
+16,808840,14,Betteravia at Panda Express,"5/, 6/, 62/, 7/, /7 Evening, 8/"
+16,808841,15,McCoy at Albertsons,"5/, 6/, 61/, 62/, 7/, /7 Evening, 8/"
+17,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+17,808834,2,Town Center Mall,"1/, 2/, 4/, 5/, 6/, 61/, 62/, /Guadalupe Flyer"
+17,808969,3,Main & Thornburg,/Guadalupe Flyer
+17,808970,4,Main & Russell,/Guadalupe Flyer
+17,808971,5,Amber & Obispo,/Guadalupe Flyer
+17,808972,6,Main Street & Point Sal Dunes,/Guadalupe Flyer
+17,808974,7,Jack O'Connell Park,/Guadalupe Flyer
+17,808975,8,Pioneer & 2nd,/Guadalupe Flyer
+17,808976,9,5th & Tognazzini,/Guadalupe Flyer
+17,808977,10,Amtrak Station,/Guadalupe Flyer
+17,808978,11,Guadalupe & Olivera,/Guadalupe Flyer
+17,808979,12,10th and Senior Center,/Guadalupe Flyer
+17,808980,13,Peralta & 11th,/Guadalupe Flyer
+17,808981,14,Obispo & Fir,/Guadalupe Flyer
+17,808982,15,Flower & Elm,/Guadalupe Flyer
+17,808983,16,Flower & Birch,/Guadalupe Flyer
+17,808984,17,Main & Russell,/Guadalupe Flyer
+17,808985,18,Main & Thornburg,/Guadalupe Flyer
+17,808706,19,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+18,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+18,808834,2,Town Center Mall,"1/, 2/, 4/, 5/, 6/, 61/, 62/, /Guadalupe Flyer"
+18,808969,3,Main & Thornburg,/Guadalupe Flyer
+18,808970,4,Main & Russell,/Guadalupe Flyer
+18,808971,5,Amber & Obispo,/Guadalupe Flyer
+18,808972,6,Main Street & Point Sal Dunes,/Guadalupe Flyer
+18,808974,7,Jack O'Connell Park,/Guadalupe Flyer
+18,808975,8,Pioneer & 2nd,/Guadalupe Flyer
+18,808976,9,5th & Tognazzini,/Guadalupe Flyer
+18,808977,10,Amtrak Station,/Guadalupe Flyer
+18,808978,11,Guadalupe & Olivera,/Guadalupe Flyer
+18,808979,12,10th and Senior Center,/Guadalupe Flyer
+18,808980,13,Peralta & 11th,/Guadalupe Flyer
+18,808981,14,Obispo & Fir,/Guadalupe Flyer
+18,808982,15,Flower & Elm,/Guadalupe Flyer
+18,808983,16,Flower & Birch,/Guadalupe Flyer
+18,808984,17,Main & Russell,/Guadalupe Flyer
+18,808985,18,Main & Thornburg,/Guadalupe Flyer
+18,808706,19,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+19,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+19,808877,2,Broadway at Stowell,"5/, 6/, 61/, /The Breeze 100"
+19,808939,3,Mccoy at Broadway,/The Breeze 100
+19,808816,4,Santa Maria Public Airport,"4/, 62/, /The Breeze 100"
+19,808940,5,Orcutt Rd at Foster,/The Breeze 100
+19,808963,6,Orcutt Rd at Clark,/The Breeze 100
+19,808941,7,Vandenberg Air Force Base at Main Gate,/The Breeze 100
+19,808942,8,Vandenberg Village,/The Breeze 100
+19,808959,9,Denmat,/The Breeze 100
+20,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+20,808877,2,Broadway at Stowell,"5/, 6/, 61/, /The Breeze 100"
+20,808939,3,Mccoy at Broadway,/The Breeze 100
+20,808816,4,Santa Maria Public Airport,"4/, 62/, /The Breeze 100"
+20,808940,5,Orcutt Rd at Foster,/The Breeze 100
+20,808963,6,Orcutt Rd at Clark,/The Breeze 100
+20,808941,7,Vandenberg Air Force Base at Main Gate,/The Breeze 100
+20,808942,8,Vandenberg Village,/The Breeze 100
+20,808959,9,Denmat,/The Breeze 100
+21,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+21,808947,2,Los Alamos,/The Breeze 200
+21,2329726,3,Buellton 2nd/Ave of the Flags,/The Breeze 200
+21,808948,4,Buellton Albertsons,/The Breeze 200
+21,808949,5,Solvang,/The Breeze 200
+21,808968,6,Buellton Freear/SR 246,/The Breeze 200
+21,2329727,7,Buellton 2nd/Ave of the Flags ,/The Breeze 200
+21,808947,8,Los Alamos,/The Breeze 200
+21,808706,9,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+22,808706,1,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"
+22,808947,2,Los Alamos,/The Breeze 200
+22,2329726,3,Buellton 2nd/Ave of the Flags,/The Breeze 200
+22,808948,4,Buellton Albertsons,/The Breeze 200
+22,808949,5,Solvang,/The Breeze 200
+22,808968,6,Buellton Freear/SR 246,/The Breeze 200
+22,2329727,7,Buellton 2nd/Ave of the Flags ,/The Breeze 200
+22,808947,8,Los Alamos,/The Breeze 200
+22,808706,9,Transit Center,"1/, 2/, 3/, 4/, 5/, 6/, 61/, 62/, 7/, /7 Evening, /Guadalupe Flyer, /The Breeze 100, /The Breeze 200"

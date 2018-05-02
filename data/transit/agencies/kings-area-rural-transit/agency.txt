@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+804,http://mykartbus.com/,en,Kings Area Rural Transit,800-675-8881,America/Los_Angeles,

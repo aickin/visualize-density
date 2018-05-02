@@ -1,0 +1,111 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,trip_short_name,bikes_allowed,wheelchair_accessible
+Ala-Oak-SF,72856,RTD6919459,Pier 41,0,,83871e94-3166-46c2-9366-1845abdc99ed,,0,0
+Ala-Oak-SF,72856,RTD9087402,Pier 41,0,,83871e94-3166-46c2-9366-1845abdc99ed,,0,0
+Ala-Oak-SF,72856,RTD6919433,Pier 41,0,,51f33177-3bb0-44b6-9b0d-c3456af288cb,,0,0
+Ala-Oak-SF,72855,RTD9087428,Pier 41,0,,51f33177-3bb0-44b6-9b0d-c3456af288cb,,0,0
+Ala-Oak-SF,72856,RTD9087404,Pier 41,0,,51f33177-3bb0-44b6-9b0d-c3456af288cb,,0,0
+Ala-Oak-SF,72855,RTD9087430,Pier 41,0,,51f33177-3bb0-44b6-9b0d-c3456af288cb,,0,0
+Ala-Oak-SF,72855,RTD9087432,Pier 41,0,,51f33177-3bb0-44b6-9b0d-c3456af288cb,,0,0
+Ala-Oak-SF,72855,RTDWKND1355,Pier 41,0,,51f33177-3bb0-44b6-9b0d-c3456af288cb,,0,0
+Ala-Oak-SF,72855,RTDWKND1455,Pier 41,0,,51f33177-3bb0-44b6-9b0d-c3456af288cb,,0,0
+Ala-Oak-SF,72856,RTD6919448,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72855,RTD9087450,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72856,RTD9087410,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72855,RTD9087456,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72855,RTD9087458,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72856,RTD6919454,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72855,RTD9087460,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72856,RTD6919844,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72855,RTD9087462,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72855,RTD9087464,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72855,RTD9087466,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72856,RTD6919446,Oakland Terminal,1,,43590deb-7dc1-42d9-856c-9495cd5fa84a,,0,0
+Ala-Oak-SF,72856,RTD6919837,San Francisco Ferry Building,0,,fb813bd1-fe46-4841-9017-76f3f08ff23f,,0,0
+Ala-Oak-SF,72856,RTD6919840,San Francisco Ferry Building,0,,fb813bd1-fe46-4841-9017-76f3f08ff23f,,0,0
+Ala-Oak-SF,72856,RTD6919455,San Francisco Ferry Building,0,,fb813bd1-fe46-4841-9017-76f3f08ff23f,,0,0
+Ala-Oak-SF,72856,RTD6919457,San Francisco Ferry Building,0,,fb813bd1-fe46-4841-9017-76f3f08ff23f,,0,0
+Ala-Oak-SF,72856,WD2SF1815,San Francisco Ferry Building,0,,fb813bd1-fe46-4841-9017-76f3f08ff23f,,0,0
+Ala-Oak-SF,72856,RTD6919456,San Francisco Ferry Building,0,,fb813bd1-fe46-4841-9017-76f3f08ff23f,,0,0
+Ala-Oak-SF,72856,WD2SF1945,San Francisco Ferry Building,0,,fb813bd1-fe46-4841-9017-76f3f08ff23f,,0,0
+Ala-Oak-SF,72856,WD2SF2045,San Francisco Ferry Building,0,,fb813bd1-fe46-4841-9017-76f3f08ff23f,,0,0
+Ala-Oak-SF,72856,RTD9087482,Oakland Terminal,1,,ab8dd32c-7191-42ac-b1ad-31ef253d703a,,0,0
+Ala-Oak-SF,72856,RTD9087484,Oakland Terminal,1,,ab8dd32c-7191-42ac-b1ad-31ef253d703a,,0,0
+Ala-Oak-SF,72856,RTD6919436,Oakland Terminal,1,,ab8dd32c-7191-42ac-b1ad-31ef253d703a,,0,0
+Ala-Oak-SF,72856,RTD9087412,Oakland Terminal,1,,ab8dd32c-7191-42ac-b1ad-31ef253d703a,,0,0
+Ala-Oak-SF,72856,RTD6919438,Oakland Terminal,1,,ab8dd32c-7191-42ac-b1ad-31ef253d703a,,0,0
+Ala-Oak-SF,72856,RTD9087414,Oakland Terminal,1,,ab8dd32c-7191-42ac-b1ad-31ef253d703a,,0,0
+Ala-Oak-SF,72856,RTD6919437,Oakland Terminal,1,,ab8dd32c-7191-42ac-b1ad-31ef253d703a,,0,0
+Ala-Oak-SF,72856,RTD9087416,Oakland Terminal,1,,ab8dd32c-7191-42ac-b1ad-31ef253d703a,,0,0
+Ala-Oak-SF,72856,RTD6919444,San Francisco Ferry Building,0,,522f2146-7478-49ea-ad9b-50bf6d8a52f9,,0,0
+Ala-Oak-SF,72856,RTD6919442,San Francisco Ferry Building,0,,522f2146-7478-49ea-ad9b-50bf6d8a52f9,,0,0
+Ala-Oak-SF,72856,RTD6919440,San Francisco Ferry Building,0,,522f2146-7478-49ea-ad9b-50bf6d8a52f9,,0,0
+Ala-Oak-SF,72856,RTD9087486,San Francisco Ferry Building,0,,522f2146-7478-49ea-ad9b-50bf6d8a52f9,,0,0
+Ala-Oak-SF,72856,RTD6919441,San Francisco Ferry Building,0,,522f2146-7478-49ea-ad9b-50bf6d8a52f9,,0,0
+Ala-Oak-SF,72855,WKEND0900,Alameda Main St,0,,696b3e50-c9be-41e9-9c36-4757fc7b27f1,,0,0
+Ala-Oak-SF,72855,WK2P411625,Pier 41,0,,f0febe9a-183e-4ef6-ac8f-8a630a35ed5c,,0,0
+Ala-Oak-SF,72855,WK2P411930,Pier 41,0,,f0febe9a-183e-4ef6-ac8f-8a630a35ed5c,,0,0
+Ala-Oak-SF,72856,RTD6919462,Alameda Main Street,1,,5ae88cc0-ff5c-4210-8a1b-03f588c7c674,,0,0
+Ala-Oak-SF,72856,RTD6919465,Alameda Main Street,1,,5ae88cc0-ff5c-4210-8a1b-03f588c7c674,,0,0
+Ala-Oak-SF,72856,RTD9087406,Alameda Main Street,1,,5ae88cc0-ff5c-4210-8a1b-03f588c7c674,,0,0
+Ala-Oak-SF,72856,RTD6919464,Alameda Main Street,1,,5ae88cc0-ff5c-4210-8a1b-03f588c7c674,,0,0
+Ala-Oak-SF,72856,RTD6919463,Alameda Main Street,1,,5ae88cc0-ff5c-4210-8a1b-03f588c7c674,,0,0
+Ala-Oak-SF,72856,RTD9087408,Alameda Main Street,1,,5ae88cc0-ff5c-4210-8a1b-03f588c7c674,,0,0
+Ala-Oak-SF,72855,RTD9087418,San Francisco Ferry Building,0,,9131c796-044b-445a-a3c8-95ce1f7a2f99,,0,0
+Ala-Oak-SF,72856,RTD9087478,Oakland Terminal,1,,c7c5f6f6-516d-4b7f-bc5f-737aef7b9f43,,0,0
+Ala-Oak-SF,72856,RTD9087480,Oakland Terminal,1,,c7c5f6f6-516d-4b7f-bc5f-737aef7b9f43,,0,0
+Ala-Oak-SF,72856,WD2SF0600,San Francisco Ferry Building,0,,931fa761-c35c-4850-89b0-30507fbb720d,,0,0
+Harbor Bay-SF,72856,RTD6919428,San Francisco Ferry Building,0,,7fa91c60-1bb8-4a99-bc42-45851e8fa983,,0,0
+Harbor Bay-SF,72856,HB2SFWD0700,San Francisco Ferry Building,0,,7fa91c60-1bb8-4a99-bc42-45851e8fa983,,0,0
+Harbor Bay-SF,72856,RTD6919423,San Francisco Ferry Building,0,,7fa91c60-1bb8-4a99-bc42-45851e8fa983,,0,0
+Harbor Bay-SF,72856,RTD6919427,San Francisco Ferry Building,0,,7fa91c60-1bb8-4a99-bc42-45851e8fa983,,0,0
+Harbor Bay-SF,72856,RTD6919425,San Francisco Ferry Building,0,,7fa91c60-1bb8-4a99-bc42-45851e8fa983,,0,0
+Harbor Bay-SF,72856,RTD6919426,San Francisco Ferry Building,0,,7fa91c60-1bb8-4a99-bc42-45851e8fa983,,0,0
+Harbor Bay-SF,72856,RTD6919424,San Francisco Ferry Building,0,,7fa91c60-1bb8-4a99-bc42-45851e8fa983,,0,0
+Harbor Bay-SF,72856,RTD6919419,Harbor Bay Ferry Terminal,1,,9dd98455-f4fa-4df6-97e3-c785c770aa7e,,0,0
+Harbor Bay-SF,72856,RTD6919421,Harbor Bay Ferry Terminal,1,,9dd98455-f4fa-4df6-97e3-c785c770aa7e,,0,0
+Harbor Bay-SF,72856,RTD6919422,Harbor Bay Ferry Terminal,1,,9dd98455-f4fa-4df6-97e3-c785c770aa7e,,0,0
+Harbor Bay-SF,72856,RTD6919417,Harbor Bay Ferry Terminal,1,,9dd98455-f4fa-4df6-97e3-c785c770aa7e,,0,0
+Harbor Bay-SF,72856,RTD6919833,Harbor Bay Ferry Terminal,1,,9dd98455-f4fa-4df6-97e3-c785c770aa7e,,0,0
+Harbor Bay-SF,72856,RTD6919420,Harbor Bay Ferry Terminal,1,,9dd98455-f4fa-4df6-97e3-c785c770aa7e,,0,0
+Harbor Bay-SF,72856,RTD6919418,Harbor Bay Ferry Terminal,1,,9dd98455-f4fa-4df6-97e3-c785c770aa7e,,0,0
+South SF-East Bay,72856,RTD6919486,South San Francisco,0,,7fab2e4e-b250-4516-b89f-7c7f189d0d9c,,0,0
+South SF-East Bay,72856,RTD6919488,South San Francisco,0,,7fab2e4e-b250-4516-b89f-7c7f189d0d9c,,0,0
+South SF-East Bay,72856,RTD6919487,South San Francisco,0,,7fab2e4e-b250-4516-b89f-7c7f189d0d9c,,0,0
+South SF-East Bay,72856,RTD6919489,Oakland Terminal,1,,88a840b2-15c4-4440-b768-b1581dc46079,,0,0
+South SF-East Bay,72856,RTD6919912,Oakland Terminal,1,,88a840b2-15c4-4440-b768-b1581dc46079,,0,0
+South SF-East Bay,72856,RTD6919491,Alameda Main  Street,1,,52450a75-3e0e-405d-92d7-6dce8d6f1a95,,0,0
+South SF-SF,72856,RTD6919495,South San Francisco,0,,e473d6c1-94bd-43a8-aecf-d319a42662a8,,0,0
+South SF-SF,72856,RTD6919494,San Francisco Ferry Building,1,,7e0817dc-d5b3-4211-8781-2e92bad39d9b,,0,0
+Vallejo-SF,72856,WDMISF1340,San Francisco Ferry Building,0,,edea0e80-44fe-4484-a690-b028295df462,,0,0
+Vallejo-SF,72855,WKEND1830,Mare Island via Vallejo,1,,1133cef5-0e1a-4eb2-9af0-0dfba91ab9d0,,0,0
+Vallejo-SF,72856,WKEND1855,Mare Island via Vallejo,1,,1133cef5-0e1a-4eb2-9af0-0dfba91ab9d0,,0,0
+Vallejo-SF,72856,WYMISF0510,San Francisco Ferry Building,0,,317a537d-57d2-4b6a-a581-0d6f24df4b90,,0,0
+Vallejo-SF,72856,WYMISF0540,San Francisco Ferry Building,0,,317a537d-57d2-4b6a-a581-0d6f24df4b90,,0,0
+Vallejo-SF,72856,WYMISF0610,San Francisco Ferry Building,0,,317a537d-57d2-4b6a-a581-0d6f24df4b90,,0,0
+Vallejo-SF,72856,WYMISF0640,San Francisco Ferry Building,0,,317a537d-57d2-4b6a-a581-0d6f24df4b90,,0,0
+Vallejo-SF,72856,WYMISF1440,San Francisco Ferry Building,0,,317a537d-57d2-4b6a-a581-0d6f24df4b90,,0,0
+Vallejo-SF,72856,WYMISF1540,San Francisco Ferry Building,0,,317a537d-57d2-4b6a-a581-0d6f24df4b90,,0,0
+Vallejo-SF,72856,WDSFMI0900,Mare Island via Vallejo,1,,241e6f64-b208-4920-8371-e366f3fa76b6,,0,0
+Vallejo-SF,72856,WDSFMI1730,Mare Island via Vallejo,1,,241e6f64-b208-4920-8371-e366f3fa76b6,,0,0
+Vallejo-SF,72856,WDSFMI1800,Mare Island via Vallejo,1,,241e6f64-b208-4920-8371-e366f3fa76b6,,0,0
+Vallejo-SF,72856,WDSFMI2015,Mare Island via Vallejo,1,,241e6f64-b208-4920-8371-e366f3fa76b6,,0,0
+Vallejo-SF,72856,WDSF2MI1110,Mare Island via Pier 41 and Vallejo,1,,dd6116ab-1ab4-42df-b578-7a91ca7e93a3,,0,0
+Vallejo-SF,72855,WESF2MI1110,Mare Island via Pier 41 and Vallejo,1,,dd6116ab-1ab4-42df-b578-7a91ca7e93a3,,0,0
+Vallejo-SF,72855,WKEND0930,Pier 41,0,,59076d9b-b4b9-4761-a1b8-77a9ffd1abf7,,0,0
+Vallejo-SF,72855,WKEND1410,Pier 41,0,,59076d9b-b4b9-4761-a1b8-77a9ffd1abf7,,0,0
+Vallejo-SF,72856,WKEND1000,Pier 41,0,,210e184a-b271-4dd2-b1af-2fc0d5789e07,,0,0
+Vallejo-SF,72856,WD2V0635,Vallejo,1,,cb79072c-4650-4981-9f12-a3d702341437,,0,0
+Vallejo-SF,72856,WD2V0715,Vallejo,1,,cb79072c-4650-4981-9f12-a3d702341437,,0,0
+Vallejo-SF,72856,WD2V0815,Vallejo,1,,cb79072c-4650-4981-9f12-a3d702341437,,0,0
+Vallejo-SF,72856,WD2V1430,Vallejo,1,,cb79072c-4650-4981-9f12-a3d702341437,,0,0
+Vallejo-SF,72856,WD2V1530,Vallejo,1,,cb79072c-4650-4981-9f12-a3d702341437,,0,0
+Vallejo-SF,72856,WD2V1630,Vallejo,1,,cb79072c-4650-4981-9f12-a3d702341437,,0,0
+Vallejo-SF,72856,WD2V1715,Vallejo,1,,cb79072c-4650-4981-9f12-a3d702341437,,0,0
+Vallejo-SF,72855,WK1715,San Francisco Ferry Building,0,,7c64a68c-55d8-4475-908e-c2618eb2eaa2,,0,0
+Vallejo-SF,72856,WD1745,San Francisco Ferry Building,0,,7c64a68c-55d8-4475-908e-c2618eb2eaa2,,0,0
+Vallejo-SF,72855,WE2V1540,Vallejo via Pier 41,1,,781fe1d7-4958-4068-bddb-9b7d4c1750d1,,0,0
+Vallejo-SF,72856,WD0745,San Francisco Ferry Building,0,,6f44028d-11ec-409a-a045-09e7fce61a07,,0,0
+Vallejo-SF,72856,WD0830,San Francisco Ferry Building,0,,6f44028d-11ec-409a-a045-09e7fce61a07,,0,0
+Vallejo-SF,72856,WD1200,San Francisco Ferry Building,0,,6f44028d-11ec-409a-a045-09e7fce61a07,,0,0
+Vallejo-SF,72856,WD1645,San Francisco Ferry Building,0,,6f44028d-11ec-409a-a045-09e7fce61a07,,0,0
+Vallejo-SF,72856,WD1845,San Francisco Ferry Building,0,,6f44028d-11ec-409a-a045-09e7fce61a07,,0,0

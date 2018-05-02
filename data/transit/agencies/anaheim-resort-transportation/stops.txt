@@ -1,0 +1,126 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+778171,5003,,Anabella Hotel,,33.80315,-117.92359,,,0,,America/Los_Angeles,,,0
+780784,3,,Disneyland Main Transportation Center,,33.809330589903,-117.91688206281,,,0,778148,,,,0
+2430110,,,Bristol & Randolph,,33.677299146263,-117.88743102496,,,0,,America/Los_Angeles,,,0
+780157,4011,,Kaiser Permanente,,33.85321,-117.84453,,,0,,America/Los_Angeles,,,0
+780170,2005,,Garden Grove Entertainment District - S/B,,33.78829,-117.91505,,,0,,America/Los_Angeles,,,0
+787494,,,Hilton Costa Mesa,,33.6828451050925,-117.885437489723,,,0,,America/Los_Angeles,,,0
+780161,4004,,Ball Road at Cast Way (OCTA bus stop),,33.81795,-117.92129,,,0,,America/Los_Angeles,,,0
+778166,2020,,La Quinta Inn,,33.80462,-117.90973,,,0,,America/Los_Angeles,,,0
+787491,,,Best Western Plus Newport Mesa Inn,,33.6640302301367,-117.895811362041,,,0,,America/Los_Angeles,,,0
+2430107,,,Bristol & Town Center,,33.692265337584,-117.88564939757,,,0,,America/Los_Angeles,,,0
+778148,1,,Disneyland Main Transportation Center,,33.80938,-117.91719,,,1,,America/Los_Angeles,,,0
+778165,2019,,Islander Inn,,33.80321,-117.91321,,,0,,America/Los_Angeles,,,0
+787490,,,BLVD Hotel,,33.6579309032567,-117.901859948514,,,0,,America/Los_Angeles,,,0
+780793,4,,Disneyland Main Transportation Center,,33.809344753607,-117.91668089714,,,0,778148,,,,0
+780803,14,,Disneyland Main Transportation Center,,33.809566502069,-117.91690217938,,,0,778148,,,,0
+780166,2009,,Gardenwalk-Disney Way,,33.80681,-117.91189,,,0,,America/Los_Angeles,,,0
+2430102,,,Anton & Park Center,,33.690024399625,-117.88308515506,,,0,,America/Los_Angeles,,,0
+780159,5005,,Muzeo,,33.83263,-117.91701,,,0,,America/Los_Angeles,,,0
+778228,4003,,Springhill Suites Anaheim Maingate,,33.81785,-117.92657,,,0,,America/Los_Angeles,,,0
+778161,2006,,Sheraton Park,,33.80078,-117.91561,,,0,,America/Los_Angeles,,,0
+787489,,,Holiday Inn Express,,33.6483266455867,-117.911425779203,,,0,,America/Los_Angeles,,,0
+780801,12,,Disneyland Main Transportation Center,,33.809514129369,-117.91725623097,,,0,778148,,,,0
+2430109,,,Bristol & The Camp,,33.678432958502,-117.88620548286,,,0,,America/Los_Angeles,,,0
+780798,9,,Disneyland Main Transportation Center,,33.80952192956,-117.91666212167,,,0,778148,,,,0
+2388558,4019,,Orange County Social Services,,33.85237334279,-117.85293515487,,,0,,America/Los_Angeles,,,0
+2430104,,,Anton & Enclave,,33.690354626958,-117.87455691705,,,0,,America/Los_Angeles,,,0
+778211,2000,,Knotts Berry Farm ,,33.84096,-117.99801,,,0,,America/Los_Angeles,,,0
+778155,2002,,Convention Way at Harbor,,33.79999396347,-117.91538072884,,,0,,America/Los_Angeles,,,0
+787497,,,The Westin South Coast Plaza,,33.690779574557,-117.883634809123,,,0,,America/Los_Angeles,,,0
+787499,,,Residence Inn Garden Grove (Harbor),,33.7898153621288,-117.915131941733,,,0,,America/Los_Angeles,,,0
+778223,5011,,L3 Interstate Electronics,,33.82432,-117.90461,,,0,,America/Los_Angeles,,,0
+780808,19,,Disneyland Main Transportation Center,,33.809570959319,-117.91639255967,,,0,778148,,,,0
+778176,4005,,Hotel Menage,,33.81749,-117.91577,,,0,,America/Los_Angeles,,,0
+778216,4012,,Anaheim Canyon Metrolink Station ,,33.85486,-117.83989,,,0,,America/Los_Angeles,,,0
+787483,,,4th & Spurgeon Santa Ana,,33.7478194234463,-117.865515626984,,,0,,America/Los_Angeles,,,0
+778164,3011,,Howard Johnson Anaheim Hotel and Water Playground,,33.81271,-117.91389,,,0,,America/Los_Angeles,,,0
+778167,3014,,Worldmark Anaheim,,33.80437,-117.90819,,,0,,America/Los_Angeles,,,0
+2430108,,,Bristol & Paularino,,33.682089975861,-117.88581899536,,,0,,America/Los_Angeles,,,0
+778163,2021,,Residence Inn Maingate,,33.80532,-117.90941,,,0,,America/Los_Angeles,,,0
+780163,3018,,Honda Center,,33.8088,-117.87577,,,0,,America/Los_Angeles,,,0
+2388555,4018,,Orange County Social Services,,33.852437,-117.851627,,,0,,America/Los_Angeles,,,0
+780771,2026,,Main St. & Mainplace Mall,,33.77476,-117.87105,,,0,,America/Los_Angeles,,,0
+780804,15,,Disneyland Main Transportation Center,,33.809568730694,-117.91679220881,,,0,778148,,,,0
+787500,,,Red Robin,,33.788294,-117.915098,,,0,,America/Los_Angeles,,,0
+778196,5004,,Convention Center Arena,,33.80315,-117.91967,,,0,,America/Los_Angeles,,,0
+2430103,,,Anton & Sakioka,,33.69000608515,-117.87758236898,,,0,,America/Los_Angeles,,,0
+778170,5002,,Best Western Stovall's Inn,,33.80314,-117.92459,,,0,,America/Los_Angeles,,,0
+780795,6,,Disneyland Main Transportation Center,,33.809342524977,-117.9162839302,,,0,778148,,,,0
+783914,,,Bowers Museum,,33.7630598283033,-117.867650704195,,,0,,America/Los_Angeles,,,0
+778147,3003,,Best Western Plus Raffles,,33.79704,-117.91497,,,0,,America/Los_Angeles,,,0
+778218,5012,,St. College Blvd. & La Palma Ave. ,,33.84717,-117.88879,,,0,,America/Los_Angeles,,,0
+778149,2016,,Beach Blvd.,,33.81245,-117.90775,,,0,,America/Los_Angeles,,,0
+780158,5019,,Embassy Suites North (Frontera Street),,33.84681,-117.85265,,,0,,America/Los_Angeles,,,0
+787484,,,2nd & Broadway Santa Ana,,33.74646,-117.869567253967,,,0,,America/Los_Angeles,,,0
+778173,2012,,Ramada Limited Maingate,,33.82147,-117.91555,,,0,,America/Los_Angeles,,,0
+2430100,,,Anton & Bristol,,33.69001501216,-117.88522666464,,,0,,America/Los_Angeles,,,0
+780770,5015,,Lincoln & Euclid (WSS Shoe Store),,33.83235,-117.94117,,,0,,America/Los_Angeles,,,0
+780796,7,,Disneyland Main Transportation Center,,33.809511900743,-117.91628929462,,,0,778148,,,,0
+778174,3008,,Holiday Inn Hotel & Suites,,33.81682,-117.92815,,,0,,America/Los_Angeles,,,0
+778156,2003,,DoubleTree Suites,,33.79687,-117.91525,,,0,,America/Los_Angeles,,,0
+778220,3010,,Anaheim City Hall,,33.83494,-117.91349,,,0,,America/Los_Angeles,,,0
+778210,2007,,Clarion Hotel,,33.79961,-117.91627,,,0,,America/Los_Angeles,,,0
+780797,8,,Disneyland Main Transportation Center,,33.809523043873,-117.91650923576,,,0,778148,,,,0
+787495,,,Costa Mesa Marriott,,33.6906218,-117.878791,,,0,,America/Los_Angeles,,,0
+780806,17,,Disneyland Main Transportation Center,,33.809224767329,-117.91745605554,,,0,778148,,,,0
+780168,2004,,Stanford Inn & Suites,,33.79392,-117.91516,,,0,,America/Los_Angeles,,,0
+778221,2015,,Anaheim Police Department (OCTA stop corner of Harbor/Broadway),,33.8317,-117.91891,,,0,,America/Los_Angeles,,,0
+780799,10,,Disneyland Main Transportation Center,,33.809517472308,-117.91688742723,,,0,778148,,,,0
+780164,6000,,ARTIC,,33.80344,-117.87677,,,0,,America/Los_Angeles,,,0
+2383953,4006,,Staybridge Suites Anaheim at the Park,,33.817929,-117.924408,,,0,,America/Los_Angeles,,,0
+780162,3006,,Walmart,,33.81908,-117.90825,,,0,,America/Los_Angeles,,,0
+778183,4015,,Garden Walk - Cheesecake Factory,,33.80347,-117.91075,,,0,,America/Los_Angeles,,,0
+778185,2022,,Outlets @ Orange (Lucky Strike),,33.78509,-117.89293,,,0,,America/Los_Angeles,,,0
+778219,2014,,Anaheim City Hall/Senior Center ,,33.83478,-117.91369,,,0,,America/Los_Angeles,,,0
+2332307,5016,,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,,33.812498,-117.914221,,,0,,America/Los_Angeles,,,0
+778150,3016,,Motel 6,,33.80598,-117.90825,,,0,,America/Los_Angeles,,,0
+780160,3007,,Packing House,,33.83095,-117.91223,,,0,,America/Los_Angeles,,,0
+778162,3013,,Peacock Suites,,33.80492,-117.90665,,,0,,America/Los_Angeles,,,0
+778154,2001,,Portofino Inn & Suites,,33.80284,-117.91547,,,0,,America/Los_Angeles,,,0
+780800,11,,Disneyland Main Transportation Center,,33.809516357995,-117.91706713524,,,0,778148,,,,0
+787493,,,Residence Inn by Marriott,,33.6799655413948,-117.893917718559,,,0,,America/Los_Angeles,,,0
+778227,3009,,Harbor & Katella,,33.80379,-117.91513,,,0,,America/Los_Angeles,,,0
+780167,5016,,Quality Inn & Suites,,33.8119,-117.91233,,,0,,America/Los_Angeles,,,0
+778201,2008,,Anaheim Convention Center Grand Plaza,,33.79964,-117.91781,,,0,,America/Los_Angeles,,,0
+780169,3001,,Garden Grove Entertainment District - N/B,,33.78918,-117.91475,,,0,,America/Los_Angeles,,,0
+787488,,,Ramada Inn & Suites,,33.6355289758326,-117.924069848584,,,0,,America/Los_Angeles,,,0
+2388557,4022,,Styles for Less Corporate Offices	,,33.8574,-117.848384,,,0,,America/Los_Angeles,,,0
+778153,4014,,Ramada Plaza,,33.8035,-117.91411,,,0,,America/Los_Angeles,,,0
+778222,4010,,Anaheim Police Department N/B (OCTA bench stop @ Santa Ana street),,33.83017,-117.91815,,,0,,America/Los_Angeles,,,0
+778158,3002,,Days Inn Anaheim Maingate,,33.79265,-117.91487,,,0,,America/Los_Angeles,,,0
+780783,2,,Disneyland Main Transportation Center,,33.809325843047,-117.91704567756,,,0,778148,,,,0
+778217,4008,,St. College & La Palma w/b,,33.8474,-117.88991,,,0,,America/Los_Angeles,,,0
+778172,4002,,America's Best Value Fantasy Inn,,33.803505,-117.913132,,,0,,America/Los_Angeles,,,0
+780774,4007,,Kaiser Permanente,,33.8532,-117.84459,,,0,,America/Los_Angeles,,,0
+778169,5001,,Best Western Pavilions,,33.80314,-117.92723,,,0,,America/Los_Angeles,,,0
+778186,2023,,Best Western Meridian,,33.77588,-117.89087,,,0,,America/Los_Angeles,,,0
+787496,,,Avenue of the Arts Wyndham Hotel,,33.6917172861029,-117.880711363229,,,0,,America/Los_Angeles,,,0
+778198,5018,,Stadium Crossings,,33.80347,-117.88855,,,0,,America/Los_Angeles,,,0
+780761,2011,,Anaheim Gray Line,,33.79855,-117.89837,,,0,,America/Los_Angeles,,,0
+2388556,4021,,Styles for Less Corporate Offices	,,33.857667,-117.848213,,,0,,America/Los_Angeles,,,0
+778187,2025,,Holiday Inn Express,,33.77473,-117.90819,,,0,,America/Los_Angeles,,,0
+2430105,,,Segerstrom Center for the Arts,,33.692809356027,-117.88354791221,,,0,,America/Los_Angeles,,,0
+778197,2013,,Harbor RV Park,,33.81879,-117.91537,,,0,,America/Los_Angeles,,,0
+2382212,3012,,Grand Legacy,,33.80763,-117.915196,,,0,,America/Los_Angeles,,,0
+794902,,,Disneyland (Harbor Blvd.),,33.8099281255089,-117.91555883838,,,0,,America/Los_Angeles,,,0
+778180,4016,,ALO Hotel,,33.78928,-117.89131,,,0,,America/Los_Angeles,,,0
+780807,18,,Disneyland Main Transportation Center,,33.809572073631,-117.91654008116,,,0,778148,,,,0
+780794,5,,Disneyland Main Transportation Center,,33.809346982238,-117.91648509588,,,0,778148,,,,0
+787492,,,Ayres Inn Costa Mesa,,33.666032981728,-117.88146615575,,,0,,America/Los_Angeles,,,0
+778205,2010,,Holiday Inn Anaheim/Staybridge ART Shelter stop,,33.80034,-117.90063,,,0,,America/Los_Angeles,,,0
+778182,2024,,Ayres Hotel Anaheim (Shelter stop @ hotel),,33.80564,-117.87815,,,0,,America/Los_Angeles,,,0
+780805,16,,Disneyland Main Transportation Center,,33.809569845007,-117.91665273394,,,0,778148,,,,0
+780782,1,,Disneyland Main Transportation Center,,33.809338287041,-117.91723879661,,,0,778148,,,,0
+780165,4017,,Stadium Crossings,,33.80321,-117.88883,,,0,,America/Los_Angeles,,,0
+780773,4009,,Maintenance Facility/L3 (WB),,33.8244,-117.90481,,,0,,America/Los_Angeles,,,0
+818198,5017,,Embassy Suites Orange,,33.7942580059205,-117.890328598217,,,0,,America/Los_Angeles,,,0
+2388554,,,Country Inn & Suites,,33.807604,-117.909952,,,0,,America/Los_Angeles,,,0
+820658,,,TownePlace Suites,,33.8044988594654,-117.888624966082,,,0,,America/Los_Angeles,,,0
+778213,3004,,Convention Way N/B,Cortona Inn,33.80004,-117.91501,,,0,,America/Los_Angeles,,,0
+778207,5013,,Dad Miller Golf Course & Gilbert Ave.,,33.83962,-117.96801,,,0,,America/Los_Angeles,,,0
+778188,1100,,Toy Story Transportation Center,,33.79997,-117.91177,,,0,,America/Los_Angeles,,,0
+818434,3005,,Red Lion,,33.8020633065997,-117.9149811374,,,0,,America/Los_Angeles,,,0
+787498,,,South Coast Plaza (MACY's  Valet),,33.6903230501089,-117.890553607639,,,0,,America/Los_Angeles,,,0
+780759,2018,,Anaheim Resort RV Park,,33.81245,-117.90775,,,0,,America/Los_Angeles,,,0
+778168,4001,,Desert Palms Hotel & Suites,,33.80346,-117.91559,,,0,,America/Los_Angeles,,,0

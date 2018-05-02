@@ -1,0 +1,21 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,5803,0,20160101,20180101,1,1,1,1,1,0,0,Gateway Plaza/Norwalk/166th Street,Year Round Service (Monday-Friday),Northbound,horizontal
+2,5803,1,20160101,20180101,1,1,1,1,1,0,0,Gateway Plaza/Norwalk/166th Street,Year Round Service (Monday-Friday),Southbound,horizontal
+3,5852,0,20160101,20180101,0,0,0,0,0,1,0,Green Line Station/El Monte Station,Year Round Service (Saturday only),Northbound,horizontal
+4,5852,0,20160101,20180101,1,1,1,1,1,0,0,Green Line Station/El Monte Station,Year Round Service (Monday-Friday),Northbound,horizontal
+5,5852,1,20160101,20180101,0,0,0,0,0,1,0,Green Line Station/El Monte Station,Year Round Service (Saturday only),Southbound,horizontal
+6,5852,1,20160101,20180101,1,1,1,1,1,0,0,Green Line Station/El Monte Station,Year Round Service (Monday-Friday),Southbound,horizontal
+7,5851,0,20160101,20180101,1,1,1,1,1,0,0,Green Line Station To/From La Mirada Via Rosecrans,Year Round Service (Monday-Friday),Eastbound,horizontal
+8,5851,1,20160101,20180101,1,1,1,1,1,0,0,Green Line Station To/From La Mirada Via Rosecrans,Year Round Service (Monday-Friday),Westbound,horizontal
+9,5850,0,20160101,20180101,0,0,0,0,0,1,1,Imperial Highway/Metrolink Station/Green Line Station,Year Round Service (Weekend),Eastbound,horizontal
+10,5850,0,20160101,20180101,1,1,1,1,1,0,0,Imperial Highway/Metrolink Station/Green Line Station,Year Round Service (Monday-Friday),Eastbound,horizontal
+11,5850,1,20160101,20180101,0,0,0,0,0,1,1,Imperial Highway/Metrolink Station/Green Line Station,Year Round Service (Weekend),Westbound,horizontal
+12,5850,1,20160101,20180101,1,1,1,1,1,0,0,Imperial Highway/Metrolink Station/Green Line Station,Year Round Service (Monday-Friday),Westbound,horizontal
+13,5795,0,20160101,20180101,0,0,0,0,0,1,1,NSQ/Green Line/Cerritos College/Cerritos Mall,Year Round Service (Weekend),Clockwise,horizontal
+14,5795,0,20160101,20180101,1,1,1,1,1,0,0,NSQ/Green Line/Cerritos College/Cerritos Mall,Year Round Service (Monday-Friday),Clockwise,horizontal
+15,5795,1,20160101,20180101,0,0,0,0,0,1,1,NSQ/Green Line/Cerritos College/Cerritos Mall,Year Round Service (Weekend),Counterclockwise,horizontal
+16,5795,1,20160101,20180101,1,1,1,1,1,0,0,NSQ/Green Line/Cerritos College/Cerritos Mall,Year Round Service (Monday-Friday),Counterclockwise,horizontal
+17,5751,0,20160101,20180101,0,0,0,0,0,1,1,Rio Hondo/Bellflower,Year Round Service (Weekend),Northbound,horizontal
+18,5751,0,20160101,20180101,1,1,1,1,1,0,0,Rio Hondo/Bellflower,Year Round Service (Monday-Friday),Northbound,horizontal
+19,5751,1,20160101,20180101,0,0,0,0,0,1,1,Rio Hondo/Bellflower,Year Round Service (Weekend),Southbound,horizontal
+20,5751,1,20160101,20180101,1,1,1,1,1,0,0,Rio Hondo/Bellflower,Year Round Service (Monday-Friday),Southbound,horizontal

@@ -1,0 +1,5 @@
+rider_category_id,rider_category_description
+"1","Regular"
+"2","Senior (ages 65 & Up)"
+"5","Youth (ages 5-18)"
+"6","Regional Transit Connection (RTC)"

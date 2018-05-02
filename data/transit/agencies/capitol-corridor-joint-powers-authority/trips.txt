@@ -1,0 +1,53 @@
+route_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,bikes_allowed,wheelchair_accessible,service_id
+CC,520,Sacramento,,0,,a463c8fb-9596-4564-8468-d8813a5621dd,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,521,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,522,Sacramento,,0,,a463c8fb-9596-4564-8468-d8813a5621dd,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,523,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,524,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,525,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,527,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,528,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,529,Oakland Jack London,,1,,4fee6c34-aac3-4a33-b5b4-05a27e0af4a6,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,530,Sacramento,,0,,a463c8fb-9596-4564-8468-d8813a5621dd,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,531,Oakland Coliseum,,1,,fd8cd3ed-d3f7-41c9-8f2d-5907491929a8,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,532,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,534,Sacramento,,0,,a463c8fb-9596-4564-8468-d8813a5621dd,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,535,Oakland Coliseum,,1,,697df859-e8c6-4adf-ad98-b98a5d406323,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,536,Auburn,,0,,2f89a36e-6c54-4c8a-8815-c0d3d162b753,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,537,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,538,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,540,Sacramento,,0,,a463c8fb-9596-4564-8468-d8813a5621dd,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,541,Oakland Jack London,,1,,beb662d2-05d2-485a-bf31-656c0ac25c89,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,542,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,543,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,544,Sacramento,,0,,a463c8fb-9596-4564-8468-d8813a5621dd,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,545,Oakland Jack London,,1,,beb662d2-05d2-485a-bf31-656c0ac25c89,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,546,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,547,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,548,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,549,Oakland Coliseum,,1,,fd8cd3ed-d3f7-41c9-8f2d-5907491929a8,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,550,Sacramento,,0,,7bb477e6-cbbb-43ce-80b9-ce71fa9392e9,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,551,Oakland Jack London,,1,,beb662d2-05d2-485a-bf31-656c0ac25c89,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,553,Oakland Jack London,,1,,beb662d2-05d2-485a-bf31-656c0ac25c89,0,1,a9afbb6f-a77d-46d6-9f77-ec3ada3630bc
+CC,720,Sacramento,,0,,a463c8fb-9596-4564-8468-d8813a5621dd,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,723,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,724,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,727,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,728,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,729,San Jose,,1,,e953baa9-2fdf-4b5e-9005-a641dab975a1,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,732,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,733,Oakland Jack London,,1,,fd8cd3ed-d3f7-41c9-8f2d-5907491929a8,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,734,Sacramento,,0,,a463c8fb-9596-4564-8468-d8813a5621dd,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,736,Sacramento,,0,,a463c8fb-9596-4564-8468-d8813a5621dd,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,737,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,738,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,741,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,742,Auburn,,0,,8ae03bd8-faa7-4a55-af4c-48bcc7b2aa24,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,743,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,744,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,745,Oakland Jack London,,1,,beb662d2-05d2-485a-bf31-656c0ac25c89,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,746,Sacramento,,0,,a463c8fb-9596-4564-8468-d8813a5621dd,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,747,San Jose,,1,,3f8aadde-5337-40ea-b1a5-4d84ebe003e8,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,748,Sacramento,,0,,f019880c-cb37-4d0a-9e61-c3d81d1c022c,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,749,Oakland Jack London,,1,,beb662d2-05d2-485a-bf31-656c0ac25c89,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d
+CC,751,Oakland Jack London,,1,,beb662d2-05d2-485a-bf31-656c0ac25c89,0,1,14487bee-05e7-4ca4-925d-39a1b16f188d

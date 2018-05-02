@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+SA,Sonoma Marin Area Rail Transit,http://www.sonomamarintrain.org,America/Los_Angeles,en,(707)794-3330,,info@sonomamarintrain.org

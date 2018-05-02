@@ -1,0 +1,166 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,6034,0,20170813,20171014,1,1,1,1,1,0,0,Airport Business Park Shuttle,Year Round - Ending Oct. 14 (Monday-Friday),Loop,horizontal
+2,6034,0,20171015,20180616,1,1,1,1,1,0,0,Airport Business Park Shuttle,Year Round - Beginning Oct. 15 (Monday-Friday),Loop,horizontal
+3,1036,0,20170813,20171014,0,0,0,0,0,1,1,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Ending Oct. 14 (Weekend),North,horizontal
+4,1036,0,20170813,20171014,1,1,1,1,1,0,0,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+5,1036,1,20170813,20171014,0,0,0,0,0,1,1,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Ending Oct. 14 (Weekend),South,horizontal
+6,1036,1,20170813,20171014,1,1,1,1,1,0,0,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+7,1053,0,20170813,20171014,1,1,1,1,1,0,0,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+8,1053,1,20170813,20171014,1,1,1,1,1,0,0,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+9,1036,0,20171015,20180616,0,0,0,0,0,1,1,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Beginning Oct. 15 (Weekend),North,horizontal
+10,1036,0,20171015,20180616,1,1,1,1,1,0,0,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+11,1036,1,20171015,20180616,0,0,0,0,0,1,1,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Beginning Oct. 15 (Weekend),South,horizontal
+12,1036,1,20171015,20180616,1,1,1,1,1,0,0,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+13,1053,0,20171015,20180616,1,1,1,1,1,0,0,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+14,1053,1,20171015,20180616,1,1,1,1,1,0,0,"Cloverdale, Healdsburg, Windsor, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+15,3283,0,20170813,20171014,1,1,1,1,1,0,0,Cloverdale Shuttle,Year Round - Ending Oct. 14 (Monday-Friday),Loop,horizontal
+16,3283,0,20171015,20180616,1,1,1,1,1,0,0,Cloverdale Shuttle,Year Round - Beginning Oct. 15 (Monday-Friday),Loop,horizontal
+17,1038,0,20170813,20171014,0,0,0,0,0,1,0,"Cotati, Rohnert Park, Sonoma State University",Year Round - Ending Oct. 14 (Saturday only),Loop,horizontal
+18,1038,0,20170813,20171014,1,1,1,1,1,0,0,"Cotati, Rohnert Park, Sonoma State University",Year Round - Ending Oct. 14 (Monday-Friday),Loop,horizontal
+19,1038,0,20171015,20180616,0,0,0,0,0,1,0,"Cotati, Rohnert Park, Sonoma State University",Year Round - Beginning Oct. 15 (Saturday only),Loop,horizontal
+20,1038,0,20171015,20180616,1,1,1,1,1,0,0,"Cotati, Rohnert Park, Sonoma State University",Year Round - Beginning Oct. 15 (Monday-Friday),Loop,horizontal
+21,1046,0,20170816,20180616,0,0,1,0,0,0,0,"Cotati, Rohnert Park Tripper",School Trippers - Beginning Aug. 16 (Wednesday only),Loop,horizontal
+22,1046,0,20170816,20180616,1,1,0,1,1,0,0,"Cotati, Rohnert Park Tripper",School Trippers - Beginning Aug. 16,Loop,horizontal
+23,1046,0,20170816,20180616,1,1,1,1,1,0,0,"Cotati, Rohnert Park Tripper",School Trippers - Beginning Aug. 16 (Monday-Friday),Loop,horizontal
+24,6032,0,20170813,20171014,1,1,1,1,1,0,0,East County Connector,Year Round - Ending Oct. 14 (Monday-Friday),East,horizontal
+25,6032,1,20170813,20171014,1,1,1,1,1,0,0,East County Connector,Year Round - Ending Oct. 14 (Monday-Friday),West,horizontal
+26,6032,0,20171015,20180616,1,1,1,1,1,0,0,East County Connector,Year Round - Beginning Oct. 15 (Monday-Friday),East,horizontal
+27,6032,1,20171015,20180616,1,1,1,1,1,0,0,East County Connector,Year Round - Beginning Oct. 15 (Monday-Friday),West,horizontal
+28,1042,0,20170813,20171014,1,1,1,1,1,0,0,"Guerneville, Monte Rio, Occidental",Year Round - Ending Oct. 14 (Monday-Friday),Loop,horizontal
+29,1042,0,20171015,20180616,1,1,1,1,1,0,0,"Guerneville, Monte Rio, Occidental",Year Round - Beginning Oct. 15 (Monday-Friday),Loop,horizontal
+30,1079,0,20170813,20171014,0,0,0,0,0,1,0,Healdsburg Shuttle,Year Round - Ending Oct. 14 (Saturday only),A Loop,horizontal
+31,1079,0,20170813,20171014,1,1,1,1,1,0,0,Healdsburg Shuttle,Year Round - Ending Oct. 14 (Monday-Friday),A Loop,horizontal
+32,1079,1,20170813,20171014,0,0,0,0,0,1,0,Healdsburg Shuttle,Year Round - Ending Oct. 14 (Saturday only),B Loop,horizontal
+33,1079,1,20170813,20171014,1,1,1,1,1,0,0,Healdsburg Shuttle,Year Round - Ending Oct. 14 (Monday-Friday),B Loop,horizontal
+34,1079,0,20171015,20180616,0,0,0,0,0,1,0,Healdsburg Shuttle,Year Round - Beginning Oct. 15 (Saturday only),A Loop,horizontal
+35,1079,0,20171015,20180616,1,1,1,1,1,0,0,Healdsburg Shuttle,Year Round - Beginning Oct. 15 (Monday-Friday),A Loop,horizontal
+36,1079,1,20171015,20180616,0,0,0,0,0,1,0,Healdsburg Shuttle,Year Round - Beginning Oct. 15 (Saturday only),B Loop,horizontal
+37,1079,1,20171015,20180616,1,1,1,1,1,0,0,Healdsburg Shuttle,Year Round - Beginning Oct. 15 (Monday-Friday),B Loop,horizontal
+38,6036,0,20170813,20171014,1,1,1,1,1,0,0,"Kaiser, County Center, SRJC Shuttle",Year Round - Ending Oct. 14 (Monday-Friday),East,horizontal
+39,6036,1,20170813,20171014,1,1,1,1,1,0,0,"Kaiser, County Center, SRJC Shuttle",Year Round - Ending Oct. 14 (Monday-Friday),West,horizontal
+40,6036,0,20171015,20180616,1,1,1,1,1,0,0,"Kaiser, County Center, SRJC Shuttle",Year Round - Beginning Oct. 15 (Monday-Friday),East,horizontal
+41,6036,1,20171015,20180616,1,1,1,1,1,0,0,"Kaiser, County Center, SRJC Shuttle",Year Round - Beginning Oct. 15 (Monday-Friday),West,horizontal
+42,6035,0,20170813,20171014,0,0,0,0,0,1,1,North County Connector,Year Round - Ending Oct. 14 (Weekend),North,horizontal
+43,6035,0,20170813,20171014,1,1,1,1,1,0,0,North County Connector,Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+44,6035,1,20170813,20171014,0,0,0,0,0,1,1,North County Connector,Year Round - Ending Oct. 14 (Weekend),South,horizontal
+45,6035,1,20170813,20171014,1,1,1,1,1,0,0,North County Connector,Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+46,6035,0,20171015,20180616,0,0,0,0,0,1,1,North County Connector,Year Round - Beginning Oct. 15 (Weekend),North,horizontal
+47,6035,0,20171015,20180616,1,1,1,1,1,0,0,North County Connector,Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+48,6035,1,20171015,20180616,0,0,0,0,0,1,1,North County Connector,Year Round - Beginning Oct. 15 (Weekend),South,horizontal
+49,6035,1,20171015,20180616,1,1,1,1,1,0,0,North County Connector,Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+50,1039,0,20170813,20171014,0,0,0,0,0,1,0,Northern Rohnert Park,Year Round - Ending Oct. 14 (Saturday only),Loop,horizontal
+51,1039,0,20170813,20171014,1,1,1,1,1,0,0,Northern Rohnert Park,Year Round - Ending Oct. 14 (Monday-Friday),Loop,horizontal
+52,1040,0,20170813,20171014,1,1,1,1,1,0,0,Northern Rohnert Park,Year Round - Ending Oct. 14 (Monday-Friday),Loop,horizontal
+53,1039,0,20171015,20180616,0,0,0,0,0,1,0,Northern Rohnert Park,Year Round - Beginning Oct. 15 (Saturday only),Loop,horizontal
+54,1039,0,20171015,20180616,1,1,1,1,1,0,0,Northern Rohnert Park,Year Round - Beginning Oct. 15 (Monday-Friday),Loop,horizontal
+55,1040,0,20171015,20180616,1,1,1,1,1,0,0,Northern Rohnert Park,Year Round - Beginning Oct. 15 (Monday-Friday),Loop,horizontal
+56,1047,0,20170816,20180616,0,0,1,0,0,0,0,Northern Rohnert Park Tripper,School Trippers - Beginning Aug. 16 (Wednesday only),Loop,horizontal
+57,1047,0,20170816,20180616,1,1,0,1,1,0,0,Northern Rohnert Park Tripper,School Trippers - Beginning Aug. 16,Loop,horizontal
+58,1047,0,20170816,20180616,1,1,1,1,1,0,0,Northern Rohnert Park Tripper,School Trippers - Beginning Aug. 16 (Monday-Friday),Loop,horizontal
+59,1048,0,20170816,20180616,0,0,1,0,0,0,0,Northern Rohnert Park Tripper,School Trippers - Beginning Aug. 16 (Wednesday only),Loop,horizontal
+60,1048,0,20170816,20180616,1,1,0,1,1,0,0,Northern Rohnert Park Tripper,School Trippers - Beginning Aug. 16,Loop,horizontal
+61,1048,0,20170816,20180616,1,1,1,1,1,0,0,Northern Rohnert Park Tripper,School Trippers - Beginning Aug. 16 (Monday-Friday),Loop,horizontal
+62,1026,0,20170813,20171014,0,0,0,0,0,1,1,"Russian River Area, Forestville, Sebastopol, Santa Rosa",Year Round - Ending Oct. 14 (Weekend),East,horizontal
+63,1026,0,20170813,20171014,1,1,1,1,1,0,0,"Russian River Area, Forestville, Sebastopol, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),East,horizontal
+64,1026,1,20170813,20171014,0,0,0,0,0,1,1,"Russian River Area, Forestville, Sebastopol, Santa Rosa",Year Round - Ending Oct. 14 (Weekend),West,horizontal
+65,1026,1,20170813,20171014,1,1,1,1,1,0,0,"Russian River Area, Forestville, Sebastopol, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),West,horizontal
+66,1026,0,20171015,20180616,0,0,0,0,0,1,1,"Russian River Area, Forestville, Sebastopol, Santa Rosa",Year Round - Beginning Oct. 15 (Weekend),East,horizontal
+67,1026,0,20171015,20180616,1,1,1,1,1,0,0,"Russian River Area, Forestville, Sebastopol, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),East,horizontal
+68,1026,1,20171015,20180616,0,0,0,0,0,1,1,"Russian River Area, Forestville, Sebastopol, Santa Rosa",Year Round - Beginning Oct. 15 (Weekend),West,horizontal
+69,1026,1,20171015,20180616,1,1,1,1,1,0,0,"Russian River Area, Forestville, Sebastopol, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),West,horizontal
+70,1049,0,20170813,20171014,1,1,1,1,1,0,0,"Russian River Area, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),East,horizontal
+71,1049,1,20170813,20171014,1,1,1,1,1,0,0,"Russian River Area, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),West,horizontal
+72,1049,0,20171015,20180616,1,1,1,1,1,0,0,"Russian River Area, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),East,horizontal
+73,1049,1,20171015,20180616,1,1,1,1,1,0,0,"Russian River Area, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),West,horizontal
+74,1032,0,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Industry West Business Park",Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+75,1032,1,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Industry West Business Park",Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+76,1032,0,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Industry West Business Park",Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+77,1032,1,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Industry West Business Park",Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+78,1029,0,20170813,20171014,0,0,0,0,0,1,1,"Santa Rosa, Kenwood, Glen Ellen, Sonoma Valley",Year Round - Ending Oct. 14 (Weekend),East,horizontal
+79,1029,0,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Kenwood, Glen Ellen, Sonoma Valley",Year Round - Ending Oct. 14 (Monday-Friday),East,horizontal
+80,1029,1,20170813,20171014,0,0,0,0,0,1,1,"Santa Rosa, Kenwood, Glen Ellen, Sonoma Valley",Year Round - Ending Oct. 14 (Weekend),West,horizontal
+81,1029,1,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Kenwood, Glen Ellen, Sonoma Valley",Year Round - Ending Oct. 14 (Monday-Friday),West,horizontal
+82,1029,0,20171015,20180616,0,0,0,0,0,1,1,"Santa Rosa, Kenwood, Glen Ellen, Sonoma Valley",Year Round - Beginning Oct. 15 (Weekend),East,horizontal
+83,1029,0,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Kenwood, Glen Ellen, Sonoma Valley",Year Round - Beginning Oct. 15 (Monday-Friday),East,horizontal
+84,1029,1,20171015,20180616,0,0,0,0,0,1,1,"Santa Rosa, Kenwood, Glen Ellen, Sonoma Valley",Year Round - Beginning Oct. 15 (Weekend),West,horizontal
+85,1029,1,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Kenwood, Glen Ellen, Sonoma Valley",Year Round - Beginning Oct. 15 (Monday-Friday),West,horizontal
+86,1035,0,20170813,20171014,0,0,0,0,0,1,1,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Ending Oct. 14 (Weekend),North,horizontal
+87,1035,0,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+88,1035,1,20170813,20171014,0,0,0,0,0,1,1,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Ending Oct. 14 (Weekend),South,horizontal
+89,1035,1,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+90,1052,0,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+91,1052,1,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+92,1035,0,20171015,20180616,0,0,0,0,0,1,1,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Beginning Oct. 15 (Weekend),North,horizontal
+93,1035,0,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+94,1035,1,20171015,20180616,0,0,0,0,0,1,1,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Beginning Oct. 15 (Weekend),South,horizontal
+95,1035,1,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+96,1052,0,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+97,1052,1,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Cotati, Petaluma",Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+98,3234,0,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Petaluma",Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+99,3234,1,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Petaluma",Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+100,3234,0,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Petaluma",Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+101,3234,1,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, Petaluma",Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+102,1033,0,20170813,20171014,0,0,0,0,0,1,1,"Santa Rosa, Rohnert Park, SSU, Petaluma",Year Round - Ending Oct. 14 (Weekend),North,horizontal
+103,1033,0,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, SSU, Petaluma",Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+104,1033,1,20170813,20171014,0,0,0,0,0,1,1,"Santa Rosa, Rohnert Park, SSU, Petaluma",Year Round - Ending Oct. 14 (Weekend),South,horizontal
+105,1033,1,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, SSU, Petaluma",Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+106,1033,0,20171015,20180616,0,0,0,0,0,1,1,"Santa Rosa, Rohnert Park, SSU, Petaluma",Year Round - Beginning Oct. 15 (Weekend),North,horizontal
+107,1033,0,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, SSU, Petaluma",Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+108,1033,1,20171015,20180616,0,0,0,0,0,1,1,"Santa Rosa, Rohnert Park, SSU, Petaluma",Year Round - Beginning Oct. 15 (Weekend),South,horizontal
+109,1033,1,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Rohnert Park, SSU, Petaluma",Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+110,1034,0,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Sonoma State University, Cotati Depot",Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+111,1034,1,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Sonoma State University, Cotati Depot",Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+112,1034,0,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Sonoma State University, Cotati Depot",Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+113,1034,1,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Sonoma State University, Cotati Depot",Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+114,1050,0,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Sonoma Valley",Year Round - Ending Oct. 14 (Monday-Friday),East,horizontal
+115,1050,1,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Sonoma Valley",Year Round - Ending Oct. 14 (Monday-Friday),West,horizontal
+116,1051,0,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Sonoma Valley",Year Round - Ending Oct. 14 (Monday-Friday),East,horizontal
+117,1051,1,20170813,20171014,0,0,0,0,0,1,1,"Santa Rosa, Sonoma Valley",Year Round - Ending Oct. 14 (Weekend),West,horizontal
+118,1051,1,20170813,20171014,1,1,1,1,1,0,0,"Santa Rosa, Sonoma Valley",Year Round - Ending Oct. 14 (Monday-Friday),West,horizontal
+119,1050,0,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Sonoma Valley",Year Round - Beginning Oct. 15 (Monday-Friday),East,horizontal
+120,1050,1,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Sonoma Valley",Year Round - Beginning Oct. 15 (Monday-Friday),West,horizontal
+121,1051,0,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Sonoma Valley",Year Round - Beginning Oct. 15 (Monday-Friday),East,horizontal
+122,1051,1,20171015,20180616,0,0,0,0,0,1,1,"Santa Rosa, Sonoma Valley",Year Round - Beginning Oct. 15 (Weekend),West,horizontal
+123,1051,1,20171015,20180616,1,1,1,1,1,0,0,"Santa Rosa, Sonoma Valley",Year Round - Beginning Oct. 15 (Monday-Friday),West,horizontal
+124,1028,0,20170813,20171014,1,1,1,1,1,0,0,"Sebastopol, Cotati, Rohnert Park",Year Round - Ending Oct. 14 (Monday-Friday),East,horizontal
+125,1028,0,20171015,20180616,1,1,1,1,1,0,0,"Sebastopol, Cotati, Rohnert Park",Year Round - Beginning Oct. 15 (Monday-Friday),East,horizontal
+126,1027,0,20170813,20171014,1,1,1,1,1,0,0,"Sebastopol, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),East,horizontal
+127,1027,1,20170813,20171014,1,1,1,1,1,0,0,"Sebastopol, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),West,horizontal
+128,1027,0,20171015,20180616,1,1,1,1,1,0,0,"Sebastopol, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),East,horizontal
+129,1027,1,20171015,20180616,1,1,1,1,1,0,0,"Sebastopol, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),West,horizontal
+130,1041,0,20170813,20171014,0,0,0,0,0,1,0,Sebastopol Shuttle,Year Round - Ending Oct. 14 (Saturday only),Loop,horizontal
+131,1041,0,20170813,20171014,1,1,1,1,1,0,0,Sebastopol Shuttle,Year Round - Ending Oct. 14 (Monday-Friday),Loop,horizontal
+132,1041,0,20171015,20180616,0,0,0,0,0,1,0,Sebastopol Shuttle,Year Round - Beginning Oct. 15 (Saturday only),Loop,horizontal
+133,1041,0,20171015,20180616,1,1,1,1,1,0,0,Sebastopol Shuttle,Year Round - Beginning Oct. 15 (Monday-Friday),Loop,horizontal
+134,1031,0,20170813,20171014,1,1,1,1,1,0,0,"Sonoma, Petaluma",Year Round - Ending Oct. 14 (Monday-Friday),East,horizontal
+135,1031,1,20170813,20171014,1,1,1,1,1,0,0,"Sonoma, Petaluma",Year Round - Ending Oct. 14 (Monday-Friday),West,horizontal
+136,1031,0,20171015,20180616,1,1,1,1,1,0,0,"Sonoma, Petaluma",Year Round - Beginning Oct. 15 (Monday-Friday),East,horizontal
+137,1031,1,20171015,20180616,1,1,1,1,1,0,0,"Sonoma, Petaluma",Year Round - Beginning Oct. 15 (Monday-Friday),West,horizontal
+138,1043,0,20170813,20171014,0,0,0,0,0,1,0,Sonoma Valley,Year Round - Ending Oct. 14 (Saturday only),North,horizontal
+139,1043,0,20170813,20171014,1,1,1,1,1,0,0,Sonoma Valley,Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+140,1043,1,20170813,20171014,0,0,0,0,0,1,0,Sonoma Valley,Year Round - Ending Oct. 14 (Saturday only),South,horizontal
+141,1043,1,20170813,20171014,1,1,1,1,1,0,0,Sonoma Valley,Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+142,1043,0,20171015,20180616,0,0,0,0,0,1,0,Sonoma Valley,Year Round - Beginning Oct. 15 (Saturday only),North,horizontal
+143,1043,0,20171015,20180616,1,1,1,1,1,0,0,Sonoma Valley,Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+144,1043,1,20171015,20180616,0,0,0,0,0,1,0,Sonoma Valley,Year Round - Beginning Oct. 15 (Saturday only),South,horizontal
+145,1043,1,20171015,20180616,1,1,1,1,1,0,0,Sonoma Valley,Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+146,1030,0,20170813,20171014,1,1,1,1,1,0,0,"Sonoma Valley, San Rafael",Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+147,1030,1,20170813,20171014,1,1,1,1,1,0,0,"Sonoma Valley, San Rafael",Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+148,1030,0,20171015,20180616,1,1,1,1,1,0,0,"Sonoma Valley, San Rafael",Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+149,1030,1,20171015,20180616,1,1,1,1,1,0,0,"Sonoma Valley, San Rafael",Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+150,6033,0,20170813,20171014,1,1,1,1,1,0,0,South County Connector,Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+151,6033,1,20170813,20171014,1,1,1,1,1,0,0,South County Connector,Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+152,6033,0,20171015,20180616,1,1,1,1,1,0,0,South County Connector,Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+153,6033,1,20171015,20180616,1,1,1,1,1,0,0,South County Connector,Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+154,6031,0,20170813,20171014,1,1,1,1,1,0,0,West County Connector,Year Round - Ending Oct. 14 (Monday-Friday),East,horizontal
+155,6031,1,20170813,20171014,1,1,1,1,1,0,0,West County Connector,Year Round - Ending Oct. 14 (Monday-Friday),West,horizontal
+156,6031,0,20171015,20180616,1,1,1,1,1,0,0,West County Connector,Year Round - Beginning Oct. 15 (Monday-Friday),East,horizontal
+157,6031,1,20171015,20180616,1,1,1,1,1,0,0,West County Connector,Year Round - Beginning Oct. 15 (Monday-Friday),West,horizontal
+158,1037,0,20170813,20171014,1,1,1,1,1,0,0,"Windsor, County Airport, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),North,horizontal
+159,1037,1,20170813,20171014,1,1,1,1,1,0,0,"Windsor, County Airport, Santa Rosa",Year Round - Ending Oct. 14 (Monday-Friday),South,horizontal
+160,1037,0,20171015,20180616,1,1,1,1,1,0,0,"Windsor, County Airport, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),North,horizontal
+161,1037,1,20171015,20180616,1,1,1,1,1,0,0,"Windsor, County Airport, Santa Rosa",Year Round - Beginning Oct. 15 (Monday-Friday),South,horizontal
+162,1044,0,20170813,20171014,0,0,0,0,0,1,0,Windsor Shuttle,Year Round - Ending Oct. 14 (Saturday only),Loop,horizontal
+163,1044,0,20170813,20171014,1,1,1,1,1,0,0,Windsor Shuttle,Year Round - Ending Oct. 14 (Monday-Friday),Loop,horizontal
+164,1044,0,20171015,20180616,0,0,0,0,0,1,0,Windsor Shuttle,Year Round - Beginning Oct. 15 (Saturday only),Loop,horizontal
+165,1044,0,20171015,20180616,1,1,1,1,1,0,0,Windsor Shuttle,Year Round - Beginning Oct. 15 (Monday-Friday),Loop,horizontal

@@ -1,0 +1,85 @@
+route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route_url,route_desc,route_short_name
+Costa Mesa - San Juan Capistrano Express **,3,,46A056,1,216,http://www.octa.net/eBusBook/RoutePDF/route216.pdf,Costa Mesa - San Juan Capistrano Express ** via 405 Fwy,216
+Santa Ana / Costa mesa,3,,938177,1,150,http://www.octa.net/eBusBook/RoutePDF/route150.pdf,Santa Ana / Costa mesa via Flower/ Bristol/ Raitt/ Fairview,150
+Anaheim - Brea Mall,3,,938177,1,153,http://www.octa.net/eBusBook/RoutePDF/route153.pdf,Anaheim - Brea Mall via Associated - Sunkist,153
+Fullerton - Newport Beach,3,,00AFF2,1,47A,http://www.octa.net/eBusBook/RoutePDF/route047.pdf,Fullerton - Newport Beach via Anaheim/Haster/Fairview,47A
+Irvine - San Juan Capistrano Express **,3,,46A056,1,212,http://www.octa.net/eBusBook/RoutePDF/route212.pdf,Irvine - San Juan Capistrano Express ** via 405 Fwy,212
+Brea - Irvine Express,3,,46A056,1,213,http://www.octa.net/eBusBook/RoutePDF/route213.pdf,Brea - Irvine Express via 55 Fwy,213
+Huntington Beach - Irvine Express,3,,46A056,1,211,http://www.octa.net/eBusBook/RoutePDF/route211.pdf,Huntington Beach - Irvine Express via 405 Frwy,211
+Cerritos - Anaheim,3,,00AFF2,1,30,http://www.octa.net/eBusBook/RoutePDF/route030.pdf,Cerritos - Anaheim via Orangethorpe Ave,30
+Orange Transportation Center - St Joseph Hospital,3,,CF1429,1,453,http://www.octa.net/eBusBook/RoutePDF/route453.pdf,Orange Transportation Center - St Joseph Hospital via Chapman/Ma,453
+Garden Grove - Orange Transportation Center,3,,CF1429,1,454,http://www.octa.net/eBusBook/RoutePDF/route454.pdf,Garden Grove - Orange Transportation Center via Metropolitan/Cha,454
+Huntington Beach - Los Angeles Express,3,,614474,1,701,http://www.octa.net/eBusBook/RoutePDF/route701.pdf,Huntington Beach - Los Angeles Express via 405/605/105,701
+La Habra - Huntington Beach,3,,00AFF2,1,29,http://www.octa.net/eBusBook/RoutePDF/route029.pdf,La Habra - Huntington Beach via Beach Blvd,29
+Long Beach - Tustin,3,,00AFF2,1,60,http://www.octa.net/eBusBook/RoutePDF/route060.pdf,Long Beach - Tustin via Westminster/17th,60
+Mission Viejo - Rancho Santa Margarita,3,,00AFF2,1,82,http://www.octa.net/eBusBook/RoutePDF/route082.pdf,Mission Viejo - Rancho Santa Margarita via Santa Margarita Pkwy,82
+Mission Viejo - Laguna Beach,3,,00AFF2,1,89,http://www.octa.net/eBusBook/RoutePDF/route089.pdf,Mission Viejo - Laguna Beach via El Toro Road/Laguna Canyon,89
+Huntington Beach - Tustin,3,,00AFF2,1,64,http://www.octa.net/eBusBook/RoutePDF/route064.pdf,Huntington Beach - Tustin via Bolsa/1st,64
+Costa Mesa - Fullerton,3,,00AFF2,1,35,http://www.octa.net/eBusBook/RoutePDF/route035.pdf,Costa Mesa - Fullerton via Brookhurst St,35
+Huntington Beach - Irvine,3,,00AFF2,1,66,http://www.octa.net/eBusBook/RoutePDF/route066.pdf,Huntington Beach - Irvine via McFadden/Walnut,66
+Huntington Beach - Irvine,3,,938177,1,178,http://www.octa.net/eBusBook/RoutePDF/route178.pdf,Huntington Beach - Irvine via Adams/Birch/Campus,178
+Foothill Ranch - Laguna Hills,3,,938177,1,177,http://www.octa.net/eBusBook/RoutePDF/route177.pdf,Foothill Ranch - Laguna Hills via Lake Forest Drive/Los Alisos,177
+Anaheim - Laguna Hills Express,3,,00AFF2,1,83,http://www.octa.net/eBusBook/RoutePDF/route083.pdf,Anaheim - Laguna Hills Express via 5 Freeway,83
+ARTIC - OC FAIRGROUNDS,3,,8080FF,1,650A,,OC FAIR EXPRESS - ARTIC,650A
+Costa Mesa - Mission Viejo,3,,00AFF2,1,86,http://www.octa.net/eBusBook/RoutePDF/route086.pdf,Costa Mesa - Mission Viejo via Alton/Jeronimo,86
+Rancho Santa Margarita - Laguna Niguel,3,,00AFF2,1,87,http://www.octa.net/eBusBook/RoutePDF/route087.pdf,Rancho Santa Margarita - Laguna Niguel via Alicia,87
+Mission Viejo - Laguna Niguel,3,,00AFF2,1,85,http://www.octa.net/eBusBook/RoutePDF/route085.pdf,Mission Viejo - Laguna Niguel via Marguerite/Crown Valley,85
+Buena Park - Orange,3,,00AFF2,1,24,http://www.octa.net/eBusBook/RoutePDF/route024.pdf,Buena Park - Orange via Malvern/Chapman/Tustin,24
+Fullerton - Huntington Beach,3,,00AFF2,1,25,http://www.octa.net/eBusBook/RoutePDF/route024.pdf,Fullerton - Huntington Beach via Knott/Goldenwest St,25
+Fullerton - Yorba Linda,3,,00AFF2,1,26,http://www.octa.net/eBusBook/RoutePDF/route026.pdf,Fullerton - Yorba Linda via Commonwealth/Yorba Linda,26
+Riverside / Corona - South Coast Metro Express **,3,,614474,1,794,http://www.octa.net/eBusBook/RoutePDF/route794.pdf,Riverside / Corona - South Coast Metro Express ** via 91 Freeway,794
+Buena Park - Huntington Beach,3,,00AFF2,1,21,http://www.octa.net/eBusBook/RoutePDF/route021.pdf,Buena Park - Huntington Beach via Valley View St/ Bolsa Chica Rd,21
+Irvine Station - OC Fairgrounds,3,,8080FF,1,688A,,OC FAIR EXPRESS - Irvine Station,688A
+Los Alamitos - Orange,3,,00AFF2,1,46,http://www.octa.net/eBusBook/RoutePDF/route046.pdf,Los Alamitos - Orange via Ball Road/Taft,46
+Fullerton - Newport Beach,3,,00AFF2,1,47,http://www.octa.net/eBusBook/RoutePDF/route047.pdf,Fullerton - Newport Beach via Anaheim/Haster/Fairview,47
+Seal Beach - Orange,3,,00AFF2,1,42,http://www.octa.net/eBusBook/RoutePDF/route042.pdf,Seal Beach - Orange via Seal Beach/Los Alamitos/Lincoln,42
+Fullerton - Costa Mesa,3,,00AFF2,1,43,http://www.octa.net/eBusBook/RoutePDF/route043.pdf,Fullerton - Costa Mesa via Harbor Blvd,43
+Anaheim Cyn ML - OC Fairgrounds,3,,8080FF,1,671A,,OC FAIR EXPRESS - Anaheim Cyn ML,671A
+Long Beach - San Clemente,3,,00AFF2,1,1,http://www.octa.net/eBusBook/RoutePDF/route001.pdf,Long Beach - San Clemente via Pacific Coast Hwy,1
+Bravo  Fullerton - Santa Ana,3,,F48221,1,543,http://www.octa.net/eBusBook/RoutePDF/route543.pdf,Bravo  Fullerton - Santa Ana via Harbor,543
+Tustin Station - Newport Beach,3,,CF1429,1,472,http://www.octa.net/eBusBook/RoutePDF/route472.pdf,Tustin Station - Newport Beach via Campus,472
+Irvine Station - Waterworks,3,,938177,1,403,http://www.octa.net/eBusBook/RoutePDF/route403.pdf,Irvine Station - Waterworks via Irvine Center Dr,403
+Irvine Metrolink - Capitol Group,3,,938177,1,402,http://www.octa.net/eBusBook/RoutePDF/route402.pdf,Irvine Metrolink - Capitol Group via Irvine Center Dr,402
+Business Center Dr - Tustin Metrolink,3,,938177,1,401,http://www.octa.net/eBusBook/RoutePDF/route401.pdf,Business Center Dr - Tustin Metrolink via Jamboree,401
+John Wayne Airport - Tustin Metrolink,3,,938177,1,400,http://www.octa.net/eBusBook/RoutePDF/route400.pdf,John Wayne Airport - Tustin Metrolink via Jamboree,400
+Yorba Linda - Newport Beach,3,,00AFF2,1,71,http://www.octa.net/eBusBook/RoutePDF/route071.pdf,Yorba Linda - Newport Beach via Tustin/Red Hill/Newport,71
+Huntington Beach - Tustin Xpress,3,,672d99,1,64x,http://www.octa.net/eBusBook/RoutePDF/route064.pdf,Huntington Beach - Tustin via Bolsa/1st - Xpress,64x
+Brea - Huntington Beach,3,,00AFF2,1,29A,http://www.octa.net/eBusBook/RoutePDF/route029.pdf,Brea - Huntington Beach via La Habra / Beach Blvd,29A
+Laguna Niguel - Mission Viejo,3,,938177,1,182,http://www.octa.net/eBusBook/RoutePDF/route182.pdf,Laguna Niguel - Mission Viejo via Laguna Niguel - Mission Viejo,182
+Santa Ana / Costa mesa,3,,938177,1,150A,http://www.octa.net/eBusBook/RoutePDF/route150.pdf,Santa Ana / Costa mesa via Flower,150A
+La Habra - Brea Mall,3,,938177,1,143,http://www.octa.net/eBusBook/RoutePDF/route143.pdf,La Habra - Brea Mall via Whittier - Harbor - Brea,143
+Santa Ana - Lake Forest Express,3,,46A056,1,206,http://www.octa.net/eBusBook/RoutePDF/route206.pdf,Santa Ana - Lake Forest Express via 5 Freeway,206
+Seal Beach - Orange,3,,00AFF2,1,42A,http://www.octa.net/eBusBook/RoutePDF/route042.pdf,Seal Beach - Orange via Seal Beach/Los Alamitos/Lincoln,42A
+Brea - Newport Beach Xpress,3,,672d99,1,57x,http://www.octa.net/eBusBook/RoutePDF/route057.pdf,Brea - Newport Beach via State College/Bristol - Xpress,57x
+Tustin Station - U. C. Irvine,3,,CF1429,1,473,http://www.octa.net/eBusBook/RoutePDF/route473.pdf,Tustin Station - U. C. Irvine via Edinger,473
+The Depot at Santa Ana - Hutton Centre **,3,,CF1429,1,463,http://www.octa.net/eBusBook/RoutePDF/route463.pdf,The Depot at Santa Ana - Hutton Centre ** via Grand,463
+The Depot at Santa Ana - Civic Center,3,,CF1429,1,462,http://www.octa.net/eBusBook/RoutePDF/route462.pdf,The Depot at Santa Ana - Civic Center via Santa Ana Blvd,462
+Huntington Beach - Irvine,3,,00AFF2,1,76,http://www.octa.net/eBusBook/RoutePDF/route076.pdf,Huntington Beach - Irvine via Talbert/MacArthur,76
+Sunset Beach - Tustin,3,,00AFF2,1,72,http://www.octa.net/eBusBook/RoutePDF/route072.pdf,Sunset Beach - Tustin via Warner Ave,72
+Tustin - Newport Beach,3,,00AFF2,1,79A,http://www.octa.net/eBusBook/RoutePDF/route079.pdf,Tustin - Newport Beach via Irvine/Culver/University,79A
+Sunset Beach - Tustin Station,3,,00AFF2,1,70,http://www.octa.net/eBusBook/RoutePDF/route070.pdf,Sunset Beach - Tustin Station via Edinger,70
+Laguna Hills - San Clemente,3,,00AFF2,1,91,http://www.octa.net/eBusBook/RoutePDF/route091.pdf,Laguna Hills - San Clemente via Valencia/Camino Capistrano/Del O,91
+La Habra - Anaheim,3,,938177,1,129,http://www.octa.net/eBusBook/RoutePDF/route129.pdf,La Habra - Anaheim via Central - Birch - Kraemer,129
+Orange - Irvine,3,,938177,1,167,http://www.octa.net/eBusBook/RoutePDF/route167.pdf,Orange - Irvine via Hewes/Bryan/Jeffrey,167
+Tustin - Newport Beach,3,,00AFF2,1,79,http://www.octa.net/eBusBook/RoutePDF/route079.pdf,Tustin - Newport Beach via Irvine/Culver/University,79
+Irvine Metrolink Station - Lake Forest **,3,,CF1429,1,480,http://www.octa.net/eBusBook/RoutePDF/route480.pdf,Irvine Metrolink Station - Lake Forest ** via Alton/Bake,480
+Lakewood - Anaheim Hills,3,,00AFF2,1,38,http://www.octa.net/eBusBook/RoutePDF/route038.pdf,Lakewood - Anaheim Hills via Del Amo / La Palma,38
+Anaheim - Irvine,3,,00AFF2,1,59,http://www.octa.net/eBusBook/RoutePDF/route059.pdf,Anaheim - Irvine via Kraemer/Glassell/Grand,59
+Rancho Viejo & Junipero Serra - OC Fairgrounds,3,,8080FF,1,691A,,OC FAIR EXPRESS - Rancho Viejo & Junipero Serra,691A
+GWTC - OC Fairgrounds,3,,8080FF,1,670A,,OC FAIR EXPRESS - GWTC,670A
+Garden Grove - Orange,3,,00AFF2,1,54,http://www.octa.net/eBusBook/RoutePDF/route054.pdf,Garden Grove - Orange via Chapman Ave,54
+Brea - Newport Beach,3,,00AFF2,1,57,http://www.octa.net/eBusBook/RoutePDF/route057.pdf,Brea - Newport Beach via State College/Bristol,57
+Garden Grove - Orange,3,,00AFF2,1,56,http://www.octa.net/eBusBook/RoutePDF/route056.pdf,Garden Grove - Orange via Garden Grove Blvd,56
+La Habra - Fountain Valley,3,,00AFF2,1,37,http://www.octa.net/eBusBook/RoutePDF/route037.pdf,La Habra - Fountain Valley via Euclid St,37
+Long Beach - Orange,3,,00AFF2,1,50,http://www.octa.net/eBusBook/RoutePDF/route050.pdf,Long Beach - Orange via Katella Ave,50
+Orange - Irvine,3,,00AFF2,1,53,http://www.octa.net/eBusBook/RoutePDF/route053.pdf,Orange - Irvine via Main St,53
+Santa Ana - OC Fairgrounds,3,,8080FF,1,662A,,OC FAIR EXPRESS - Santa Ana,662A
+Long Beach - Santa Ana,3,,F48221,1,560,http://www.octa.net/eBusBook/RoutePDF/route560.pdf,Long Beach - Santa Ana via Westminster / 17th,560
+Santa Ana - Newport Beach,3,,00AFF2,1,55,http://www.octa.net/eBusBook/RoutePDF/route055.pdf,Santa Ana - Newport Beach via Standard/Bristol/Fairview/17th,55
+LHTC - OC Fairgrounds,3,,8080FF,1,683A,,OC FAIR EXPRESS - LHTC,683A
+Fullerton - Los Angeles Express,3,,614474,1,721,http://www.octa.net/eBusBook/RoutePDF/route721.pdf,Fullerton - Los Angeles Express via 110 Fwy / 91 Fwy,721
+FPNR - OC Fairgrounds,3,,8080FF,1,633A,,OC FAIR EXPRESS - FPNR,633A
+Orange - Irvine Xpress,3,,672d99,1,53x,http://www.octa.net/eBusBook/RoutePDF/route053.pdf,Orange - Irvine via Main St - Xpress,53x
+Fullerton - Huntington Beach,3,,00AFF2,1,33,http://www.octa.net/eBusBook/RoutePDF/route033.pdf,Fullerton - Huntington Beach via Magnolia St,33
+Tustin Station - Dana Point Harbor,3,,00AFF2,1,90,http://www.octa.net/eBusBook/RoutePDF/route090.pdf,Tustin Station - Dana Point Harbor via Moulton / Golden Lantern,90
+Village of Orange - OC Fairgrounds,3,,8080FF,1,642A,,OC FAIR EXPRESS - Village of Orange,642A

@@ -1,0 +1,17 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+977,Sunline,111,Line 111,,3,,B7B200,FFFFFF
+978,Sunline,14,Line 14,,3,,E77817,FFFFFF
+979,Sunline,15,Line 15,,3,,75C5F0,FFFFFF
+980,Sunline,20,Line 20,,3,,7FD13B,FFFFFF
+981,Sunline,21,Line 21,,3,,007FB9,FFFFFF
+982,Sunline,220,Commuter Link 220,,3,,0000FF,FFFFFF
+983,Sunline,24,Line 24,,3,,00923F,FFFFFF
+984,Sunline,30,Line 30,,3,,28166F,FFFFFF
+985,Sunline,32,Line 32,,3,,DD137B,FFFFFF
+986,Sunline,54,Line 54,,3,,EB891B,FFFFFF
+987,Sunline,70,Line 70,,3,,964578,FFFFFF
+988,Sunline,80,Line 80,,3,,008683,FFFFFF
+989,Sunline,81,Line 81,,3,,957F66,FFFFFF
+990,Sunline,90,Line 90,,3,,DA251D,FFFFFF
+991,Sunline,91,Line 91,,3,,007CC3,FFFFFF
+992,Sunline,95,Line 95,,3,,000080,FFFFFF

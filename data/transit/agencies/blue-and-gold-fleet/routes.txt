@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+"Angel Island","BG",Angel Island,San Francisco - Angel Island Ferry,"",4,"","",""
+"Tiburon","BG",Tiburon,San Francisco - Tiburon Ferry,"",4,"","",""
+"Sausalito","BG",Sausalito,San Francisco - Sausalito Ferry,"",4,"","",""

@@ -1,0 +1,9 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+1707-Arcadia-Sunday-60,0,0,0,0,0,0,1,20170702,20171029
+1707-Arcadia-Weekday-60,1,1,1,1,1,0,0,20170703,20171027
+1707-Arcadia-Saturday-60,0,0,0,0,0,1,0,20170708,20171028
+1707-Pomona-Sunday-70,0,0,0,0,0,0,1,20170702,20171029
+1707-Pomona-Weekday-70,1,1,1,1,1,0,0,20170703,20171027
+1707-Pomona-Weekday-70-1111000,1,1,1,1,0,0,0,20170703,20171027
+1707-Pomona-Weekday-70-0000100,0,0,0,0,1,0,0,20170703,20171027
+1707-Pomona-Saturday-70,0,0,0,0,0,1,0,20170708,20171028

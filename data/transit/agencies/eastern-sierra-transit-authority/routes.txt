@@ -1,0 +1,17 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+78,765,,Red Line,Service between Snowcreek Athletic Club and Main Lodge,3,http://www.estransit.com/routes-schedule/seasonal/red-line/,ff0000,ffffff,0,30
+78,766,,Blue Line,,3,http://www.estransit.com/routes-schedule/seasonal/blue-line/,0000ff,ffffff,1,15
+78,567,,Tecopa-Pahrump,,3,http://www.estransit.com/routes-schedule/community-routes/tecopa-to-pahrump/,ffffff,000000,10,
+78,565,, Benton-Bishop,,3,http://www.estransit.com/routes-schedule/community-routes/benton-to-bishop/,ffffff,000000,11,
+78,562,,395-Mammoth Lakes-Lancaster,,3,http://www.estransit.com/routes-schedule/395-routes/mammoth-lakes-to-lancaster/,ffffff,000000,12,
+78,563,,395-Mammoth Express,,3,http://www.estransit.com/routes-schedule/395-routes/mammoth-express/,ffffff,000000,13,
+78,561,,395-Lone Pine-Reno,,3,http://www.estransit.com/routes-schedule/395-routes/lone-pine-to-reno/,ffffff,000000,14,
+78,566,,Bridgeport-Gardnerville,,3,http://www.estransit.com/routes-schedule/community-routes/bridgeport-to-gardnerville/,53372b,ffffff,15,
+78,767,,Yellow Line,,3,http://www.estransit.com/routes-schedule/seasonal/yellow-line/,ffcc33,000000,2,20
+78,764,,Green Line,,3,http://www.estransit.com/routes-schedule/seasonal/green-line/,00cc33,000000,3,15
+78,768,,Orange Line,,3,http://www.estransit.com/,ff6633,ffffff,4,30
+78,763,,Pink Line (Evening Hospitality Shuttle),,3,http://www.estransit.com/,f5a9d0,000000,5,60
+78,769,,Purple Line,,3,http://www.estransit.com/routes-schedule/mammoth-lakes/purple-line/,9966ff,ffffff,6,30
+78,6178,,Town Trolley,,3,http://www.estransit.com/routes-schedule/mammoth-lakes/night-trolley/,ff0000,ffffff,7,30
+78,564,,395-Lone Pine Express,,3,http://www.estransit.com/routes-schedule/395-routes/lone-pine-express/,ffffff,000000,8,
+78,761,,June Mountain,,3,http://www.estransit.com/routes-schedule/seasonal/june-mountain-shuttle/,ffffff,000000,9,60

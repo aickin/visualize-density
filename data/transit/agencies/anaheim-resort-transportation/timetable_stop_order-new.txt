@@ -1,0 +1,1740 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+1,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+1,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+1,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+2,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+2,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+2,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+2,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+3,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+3,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+3,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+3,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+4,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+4,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+4,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+4,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+5,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+5,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+5,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+5,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+6,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+6,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+6,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+6,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+7,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+7,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+7,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+7,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+8,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+8,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+8,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+8,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+9,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+9,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+9,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+9,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+10,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+10,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+10,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+10,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+11,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+11,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+11,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+11,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+12,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+12,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+12,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+12,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+13,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+13,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+13,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+13,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+14,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+14,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+14,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+14,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+15,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+15,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+15,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+15,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+16,780803,1,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+16,778180,2,ALO Hotel,14/ALO/Ayres Orange Line
+16,778213,3,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+16,780803,4,Disneyland Main Transportation Center,14/ALO/Ayres Orange Line
+17,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+17,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+17,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+17,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+17,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+17,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+17,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+17,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+18,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+18,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+18,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+18,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+18,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+18,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+18,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+18,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+19,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+19,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+19,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+19,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+19,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+19,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+19,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+19,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+20,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+20,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+20,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+20,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+20,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+20,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+20,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+20,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+21,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+21,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+21,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+21,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+21,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+21,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+21,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+21,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+22,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+22,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+22,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+22,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+22,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+22,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+22,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+22,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+23,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+23,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+23,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+23,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+23,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+23,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+23,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+23,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+24,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+24,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+24,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+24,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+24,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+24,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+24,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+24,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+25,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+25,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+25,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+25,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+25,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+25,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+25,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+25,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+26,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+26,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+26,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+26,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+26,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+26,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+26,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+26,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+27,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+27,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+27,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+27,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+27,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+27,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+27,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+27,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+28,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+28,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+28,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+28,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+28,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+28,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+28,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+28,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+29,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+29,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+29,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+29,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+29,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+29,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+29,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+29,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+30,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+30,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+30,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+30,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+30,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+30,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+30,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+30,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+31,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+31,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+31,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+31,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+31,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+31,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+31,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+31,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+32,780804,1,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+32,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+32,820658,3,TownePlace Suites,15/ARTIC Sports Complex Line
+32,778182,4,Ayres Hotel Anaheim (Shelter stop @ hotel),15/ARTIC Sports Complex Line
+32,780164,5,ARTIC,"14/ALO/Ayres Orange Line, 15/ARTIC Sports Complex Line"
+32,778198,6,Stadium Crossings,15/ARTIC Sports Complex Line
+32,778183,7,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+32,780804,8,Disneyland Main Transportation Center,15/ARTIC Sports Complex Line
+33,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+33,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+33,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+33,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+33,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+33,778176,6,Hotel Menage,11/Ball Road Line
+33,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+34,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+34,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+34,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+34,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+34,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+34,778176,6,Hotel Menage,11/Ball Road Line
+34,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+35,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+35,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+35,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+35,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+35,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+35,778176,6,Hotel Menage,11/Ball Road Line
+35,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+36,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+36,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+36,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+36,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+36,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+36,778176,6,Hotel Menage,11/Ball Road Line
+36,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+37,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+37,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+37,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+37,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+37,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+37,778176,6,Hotel Menage,11/Ball Road Line
+37,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+38,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+38,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+38,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+38,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+38,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+38,778176,6,Hotel Menage,11/Ball Road Line
+38,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+39,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+39,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+39,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+39,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+39,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+39,778176,6,Hotel Menage,11/Ball Road Line
+39,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+40,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+40,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+40,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+40,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+40,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+40,778176,6,Hotel Menage,11/Ball Road Line
+40,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+41,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+41,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+41,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+41,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+41,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+41,778176,6,Hotel Menage,11/Ball Road Line
+41,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+42,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+42,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+42,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+42,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+42,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+42,778176,6,Hotel Menage,11/Ball Road Line
+42,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+43,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+43,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+43,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+43,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+43,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+43,778176,6,Hotel Menage,11/Ball Road Line
+43,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+44,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+44,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+44,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+44,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+44,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+44,778176,6,Hotel Menage,11/Ball Road Line
+44,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+45,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+45,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+45,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+45,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+45,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+45,778176,6,Hotel Menage,11/Ball Road Line
+45,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+46,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+46,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+46,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+46,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+46,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+46,778176,6,Hotel Menage,11/Ball Road Line
+46,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+47,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+47,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+47,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+47,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+47,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+47,778176,6,Hotel Menage,11/Ball Road Line
+47,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+48,780800,1,Disneyland Main Transportation Center,11/Ball Road Line
+48,778174,2,Holiday Inn Hotel & Suites,11/Ball Road Line
+48,778228,3,Springhill Suites Anaheim Maingate,11/Ball Road Line
+48,2383953,4,Staybridge Suites Anaheim at the Park,11/Ball Road Line
+48,780161,5,Ball Road at Cast Way (OCTA bus stop),11/Ball Road Line
+48,778176,6,Hotel Menage,11/Ball Road Line
+48,780800,7,Disneyland Main Transportation Center,11/Ball Road Line
+49,780807,1,Disneyland Main Transportation Center,18/Buena Park Line
+49,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+49,778201,3,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+49,778227,4,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+49,778149,5,Beach Blvd.,18/Buena Park Line
+49,778211,6,Knotts Berry Farm ,18/Buena Park Line
+49,778207,7,Dad Miller Golf Course & Gilbert Ave.,18/Buena Park Line
+49,780770,8,Lincoln & Euclid (WSS Shoe Store),18/Buena Park Line
+49,780807,9,Disneyland Main Transportation Center,18/Buena Park Line
+50,778216,1,Anaheim Canyon Metrolink Station ,17/Canyon Line
+50,780774,2,Kaiser Permanente,17/Canyon Line
+50,2388556,3,Styles for Less Corporate Offices	,17/Canyon Line
+50,2388558,4,Orange County Social Services,17/Canyon Line
+50,778217,5,St. College & La Palma w/b,17/Canyon Line
+50,778219,6,Anaheim City Hall/Senior Center ,17/Canyon Line
+50,778221,7,Anaheim Police Department (OCTA stop corner of Harbor/Broadway),17/Canyon Line
+50,778223,8,L3 Interstate Electronics,17/Canyon Line
+50,780806,9,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+51,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+51,780773,2,Maintenance Facility/L3 (WB),17/Canyon Line
+51,778222,3,Anaheim Police Department N/B (OCTA bench stop @ Santa Ana street),17/Canyon Line
+51,778220,4,Anaheim City Hall,17/Canyon Line
+51,778218,5,St. College Blvd. & La Palma Ave. ,17/Canyon Line
+51,2388555,6,Orange County Social Services,17/Canyon Line
+51,2388557,7,Styles for Less Corporate Offices	,17/Canyon Line
+51,780157,8,Kaiser Permanente,17/Canyon Line
+51,778216,9,Anaheim Canyon Metrolink Station ,17/Canyon Line
+52,787488,1,Ramada Inn & Suites,22/Costa Mesa/South Coast Plaza Line
+52,787489,2,Holiday Inn Express,22/Costa Mesa/South Coast Plaza Line
+52,787490,3,BLVD Hotel,22/Costa Mesa/South Coast Plaza Line
+52,787491,4,Best Western Plus Newport Mesa Inn,22/Costa Mesa/South Coast Plaza Line
+52,787492,5,Ayres Inn Costa Mesa,22/Costa Mesa/South Coast Plaza Line
+52,787493,6,Residence Inn by Marriott,22/Costa Mesa/South Coast Plaza Line
+52,787494,7,Hilton Costa Mesa,22/Costa Mesa/South Coast Plaza Line
+52,787495,8,Costa Mesa Marriott,22/Costa Mesa/South Coast Plaza Line
+52,787496,9,Avenue of the Arts Wyndham Hotel,22/Costa Mesa/South Coast Plaza Line
+52,787497,10,The Westin South Coast Plaza,22/Costa Mesa/South Coast Plaza Line
+52,787498,11,South Coast Plaza (MACY's  Valet),22/Costa Mesa/South Coast Plaza Line
+52,780808,12,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+52,778155,13,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+53,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+53,787497,2,The Westin South Coast Plaza,22/Costa Mesa/South Coast Plaza Line
+53,787496,3,Avenue of the Arts Wyndham Hotel,22/Costa Mesa/South Coast Plaza Line
+53,787495,4,Costa Mesa Marriott,22/Costa Mesa/South Coast Plaza Line
+53,787494,5,Hilton Costa Mesa,22/Costa Mesa/South Coast Plaza Line
+53,787493,6,Residence Inn by Marriott,22/Costa Mesa/South Coast Plaza Line
+53,787492,7,Ayres Inn Costa Mesa,22/Costa Mesa/South Coast Plaza Line
+53,787488,8,Ramada Inn & Suites,22/Costa Mesa/South Coast Plaza Line
+53,787489,9,Holiday Inn Express,22/Costa Mesa/South Coast Plaza Line
+53,787490,10,BLVD Hotel,22/Costa Mesa/South Coast Plaza Line
+53,787491,11,Best Western Plus Newport Mesa Inn,22/Costa Mesa/South Coast Plaza Line
+55,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+55,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+55,780162,3,Walmart,10/Downtown Packing District Line
+55,780160,4,Packing House,10/Downtown Packing District Line
+55,780159,5,Muzeo,10/Downtown Packing District Line
+55,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+55,778197,7,Harbor RV Park,10/Downtown Packing District Line
+55,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+56,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+56,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+56,780162,3,Walmart,10/Downtown Packing District Line
+56,780160,4,Packing House,10/Downtown Packing District Line
+56,780159,5,Muzeo,10/Downtown Packing District Line
+56,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+56,778197,7,Harbor RV Park,10/Downtown Packing District Line
+56,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+57,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+57,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+57,780162,3,Walmart,10/Downtown Packing District Line
+57,780160,4,Packing House,10/Downtown Packing District Line
+57,780159,5,Muzeo,10/Downtown Packing District Line
+57,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+57,778197,7,Harbor RV Park,10/Downtown Packing District Line
+57,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+58,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+58,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+58,780162,3,Walmart,10/Downtown Packing District Line
+58,780160,4,Packing House,10/Downtown Packing District Line
+58,780159,5,Muzeo,10/Downtown Packing District Line
+58,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+58,778197,7,Harbor RV Park,10/Downtown Packing District Line
+58,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+59,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+59,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+59,780162,3,Walmart,10/Downtown Packing District Line
+59,780160,4,Packing House,10/Downtown Packing District Line
+59,780159,5,Muzeo,10/Downtown Packing District Line
+59,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+59,778197,7,Harbor RV Park,10/Downtown Packing District Line
+59,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+60,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+60,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+60,780162,3,Walmart,10/Downtown Packing District Line
+60,780160,4,Packing House,10/Downtown Packing District Line
+60,780159,5,Muzeo,10/Downtown Packing District Line
+60,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+60,778197,7,Harbor RV Park,10/Downtown Packing District Line
+60,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+61,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+61,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+61,780162,3,Walmart,10/Downtown Packing District Line
+61,780160,4,Packing House,10/Downtown Packing District Line
+61,780159,5,Muzeo,10/Downtown Packing District Line
+61,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+61,778197,7,Harbor RV Park,10/Downtown Packing District Line
+61,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+62,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+62,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+62,780162,3,Walmart,10/Downtown Packing District Line
+62,780160,4,Packing House,10/Downtown Packing District Line
+62,780159,5,Muzeo,10/Downtown Packing District Line
+62,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+62,778197,7,Harbor RV Park,10/Downtown Packing District Line
+62,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+63,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+63,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+63,780162,3,Walmart,10/Downtown Packing District Line
+63,780160,4,Packing House,10/Downtown Packing District Line
+63,780159,5,Muzeo,10/Downtown Packing District Line
+63,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+63,778197,7,Harbor RV Park,10/Downtown Packing District Line
+63,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+64,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+64,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+64,780162,3,Walmart,10/Downtown Packing District Line
+64,780160,4,Packing House,10/Downtown Packing District Line
+64,780159,5,Muzeo,10/Downtown Packing District Line
+64,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+64,778197,7,Harbor RV Park,10/Downtown Packing District Line
+64,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+65,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+65,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+65,780162,3,Walmart,10/Downtown Packing District Line
+65,780160,4,Packing House,10/Downtown Packing District Line
+65,780159,5,Muzeo,10/Downtown Packing District Line
+65,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+65,778197,7,Harbor RV Park,10/Downtown Packing District Line
+65,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+66,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+66,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+66,780162,3,Walmart,10/Downtown Packing District Line
+66,780160,4,Packing House,10/Downtown Packing District Line
+66,780159,5,Muzeo,10/Downtown Packing District Line
+66,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+66,778197,7,Harbor RV Park,10/Downtown Packing District Line
+66,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+67,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+67,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+67,780162,3,Walmart,10/Downtown Packing District Line
+67,780160,4,Packing House,10/Downtown Packing District Line
+67,780159,5,Muzeo,10/Downtown Packing District Line
+67,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+67,778197,7,Harbor RV Park,10/Downtown Packing District Line
+67,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+68,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+68,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+68,780162,3,Walmart,10/Downtown Packing District Line
+68,780160,4,Packing House,10/Downtown Packing District Line
+68,780159,5,Muzeo,10/Downtown Packing District Line
+68,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+68,778197,7,Harbor RV Park,10/Downtown Packing District Line
+68,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+69,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+69,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+69,780162,3,Walmart,10/Downtown Packing District Line
+69,780160,4,Packing House,10/Downtown Packing District Line
+69,780159,5,Muzeo,10/Downtown Packing District Line
+69,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+69,778197,7,Harbor RV Park,10/Downtown Packing District Line
+69,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+70,780799,1,Disneyland Main Transportation Center,10/Downtown Packing District Line
+70,778172,2,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+70,780162,3,Walmart,10/Downtown Packing District Line
+70,780160,4,Packing House,10/Downtown Packing District Line
+70,780159,5,Muzeo,10/Downtown Packing District Line
+70,778173,6,Ramada Limited Maingate,10/Downtown Packing District Line
+70,778197,7,Harbor RV Park,10/Downtown Packing District Line
+70,780799,8,Disneyland Main Transportation Center,10/Downtown Packing District Line
+71,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+71,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+71,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+72,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+72,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+72,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+73,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+73,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+73,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+74,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+74,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+74,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+75,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+75,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+75,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+76,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+76,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+76,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+77,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+77,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+77,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+78,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+78,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+78,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+79,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+79,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+79,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+80,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+80,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+80,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+81,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+81,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+81,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+82,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+82,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+82,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+83,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+83,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+83,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+84,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+84,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+84,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+85,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+85,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+85,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+86,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+86,780158,2,Embassy Suites North (Frontera Street),19/Extension of Canyon Line
+86,780808,3,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+87,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+87,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+87,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+87,778210,4,Clarion Hotel,3/Grand Plaza Line
+87,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+87,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+87,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+88,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+88,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+88,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+89,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+89,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+89,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+90,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+90,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+90,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+90,778210,4,Clarion Hotel,3/Grand Plaza Line
+90,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+90,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+90,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+91,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+91,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+91,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+92,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+92,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+92,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+93,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+93,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+93,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+93,778210,4,Clarion Hotel,3/Grand Plaza Line
+93,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+93,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+93,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+94,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+94,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+94,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+95,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+95,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+95,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+96,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+96,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+96,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+96,778210,4,Clarion Hotel,3/Grand Plaza Line
+96,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+96,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+96,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+97,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+97,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+97,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+98,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+98,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+98,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+99,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+99,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+99,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+99,778210,4,Clarion Hotel,3/Grand Plaza Line
+99,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+99,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+99,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+100,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+100,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+100,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+101,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+101,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+101,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+102,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+102,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+102,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+102,778210,4,Clarion Hotel,3/Grand Plaza Line
+102,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+102,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+102,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+103,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+103,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+103,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+104,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+104,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+104,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+105,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+105,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+105,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+105,778210,4,Clarion Hotel,3/Grand Plaza Line
+105,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+105,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+105,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+106,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+106,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+106,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+107,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+107,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+107,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+108,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+108,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+108,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+108,778210,4,Clarion Hotel,3/Grand Plaza Line
+108,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+108,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+108,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+109,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+109,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+109,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+110,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+110,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+110,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+111,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+111,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+111,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+111,778210,4,Clarion Hotel,3/Grand Plaza Line
+111,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+111,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+111,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+112,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+112,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+112,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+113,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+113,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+113,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+114,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+114,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+114,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+114,778210,4,Clarion Hotel,3/Grand Plaza Line
+114,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+114,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+114,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+115,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+115,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+115,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+116,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+116,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+116,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+117,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+117,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+117,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+117,778210,4,Clarion Hotel,3/Grand Plaza Line
+117,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+117,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+117,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+118,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+118,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+118,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+119,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+119,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+119,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+120,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+120,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+120,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+120,778210,4,Clarion Hotel,3/Grand Plaza Line
+120,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+120,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+120,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+121,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+121,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+121,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+122,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+122,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+122,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+123,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+123,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+123,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+123,778210,4,Clarion Hotel,3/Grand Plaza Line
+123,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+123,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+123,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+124,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+124,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+124,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+125,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+125,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+125,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+126,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+126,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+126,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+126,778210,4,Clarion Hotel,3/Grand Plaza Line
+126,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+126,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+126,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+127,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+127,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+127,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+128,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+128,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+128,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+129,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+129,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+129,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+129,778210,4,Clarion Hotel,3/Grand Plaza Line
+129,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+129,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+129,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+130,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+130,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+130,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+131,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+131,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+131,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+132,780784,1,Disneyland Main Transportation Center,3/Grand Plaza Line
+132,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+132,778161,3,Sheraton Park,"22/Costa Mesa/South Coast Plaza Line, 3/Grand Plaza Line"
+132,778210,4,Clarion Hotel,3/Grand Plaza Line
+132,778213,5,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+132,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+132,780784,7,Disneyland Main Transportation Center,3/Grand Plaza Line
+133,780793,1,Disneyland Main Transportation Center,4/Grand Plaza Line
+133,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+133,780793,3,Disneyland Main Transportation Center,4/Grand Plaza Line
+134,780794,1,Disneyland Main Transportation Center,5/Grand Plaza Line
+134,778201,2,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+134,780794,3,Disneyland Main Transportation Center,5/Grand Plaza Line
+135,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+135,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+135,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+135,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+135,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+135,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+135,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+135,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+135,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+135,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+135,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+135,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+136,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+136,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+136,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+136,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+136,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+136,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+136,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+136,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+136,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+136,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+137,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+137,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+137,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+137,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+137,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+137,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+137,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+137,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+137,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+137,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+137,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+137,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+138,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+138,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+138,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+138,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+138,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+138,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+138,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+138,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+138,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+138,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+139,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+139,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+139,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+139,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+139,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+139,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+139,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+139,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+139,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+139,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+139,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+139,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+140,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+140,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+140,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+140,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+140,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+140,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+140,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+140,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+140,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+140,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+141,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+141,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+141,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+141,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+141,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+141,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+141,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+141,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+141,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+141,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+141,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+141,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+142,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+142,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+142,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+142,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+142,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+142,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+142,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+142,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+142,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+142,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+143,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+143,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+143,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+143,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+143,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+143,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+143,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+143,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+143,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+143,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+143,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+143,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+144,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+144,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+144,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+144,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+144,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+144,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+144,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+144,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+144,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+144,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+145,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+145,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+145,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+145,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+145,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+145,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+145,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+145,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+145,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+145,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+145,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+145,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+146,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+146,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+146,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+146,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+146,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+146,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+146,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+146,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+146,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+146,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+147,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+147,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+147,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+147,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+147,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+147,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+147,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+147,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+147,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+147,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+147,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+147,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+148,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+148,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+148,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+148,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+148,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+148,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+148,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+148,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+148,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+148,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+149,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+149,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+149,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+149,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+149,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+149,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+149,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+149,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+149,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+149,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+149,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+149,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+150,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+150,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+150,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+150,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+150,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+150,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+150,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+150,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+150,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+150,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+151,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+151,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+151,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+151,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+151,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+151,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+151,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+151,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+151,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+151,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+151,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+151,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+152,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+152,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+152,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+152,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+152,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+152,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+152,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+152,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+152,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+152,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+153,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+153,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+153,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+153,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+153,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+153,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+153,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+153,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+153,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+153,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+153,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+153,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+154,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+154,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+154,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+154,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+154,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+154,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+154,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+154,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+154,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+154,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+155,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+155,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+155,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+155,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+155,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+155,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+155,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+155,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+155,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+155,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+155,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+155,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+156,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+156,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+156,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+156,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+156,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+156,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+156,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+156,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+156,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+156,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+157,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+157,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+157,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+157,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+157,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+157,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+157,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+157,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+157,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+157,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+157,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+157,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+158,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+158,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+158,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+158,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+158,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+158,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+158,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+158,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+158,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+158,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+159,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+159,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+159,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+159,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+159,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+159,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+159,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+159,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+159,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+159,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+159,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+159,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+160,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+160,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+160,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+160,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+160,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+160,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+160,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+160,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+160,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+160,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+161,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+161,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+161,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+161,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+161,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+161,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+161,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+161,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+161,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+161,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+161,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+161,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+162,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+162,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+162,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+162,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+162,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+162,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+162,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+162,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+162,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+162,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+163,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+163,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+163,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+163,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+163,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+163,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+163,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+163,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+163,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+163,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+163,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+163,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+164,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+164,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+164,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+164,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+164,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+164,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+164,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+164,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+164,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+164,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+165,780782,1,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+165,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+165,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+165,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+165,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+165,780170,6,Garden Grove Entertainment District - S/B,1/Harbor Blvd. Line
+165,780169,7,Garden Grove Entertainment District - N/B,1/Harbor Blvd. Line
+165,778147,8,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+165,778213,9,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+165,778227,10,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+165,2382212,11,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+165,780782,12,Disneyland Main Transportation Center,1/Harbor Blvd. Line
+166,780783,1,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+166,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+166,778155,3,Convention Way at Harbor,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+166,778156,4,DoubleTree Suites,"1/Harbor Blvd. Line, 22/Costa Mesa/South Coast Plaza Line, 2/Harbor Blvd. Line"
+166,780168,5,Stanford Inn & Suites,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+166,778147,6,Best Western Plus Raffles,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+166,778213,7,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+166,778227,8,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+166,2382212,9,Grand Legacy,"1/Harbor Blvd. Line, 2/Harbor Blvd. Line"
+166,780783,10,Disneyland Main Transportation Center,2/Harbor Blvd. Line
+167,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+167,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+167,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+167,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+167,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+167,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+168,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+168,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+168,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+168,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+168,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+168,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+168,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+169,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+169,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+169,778150,3,Motel 6,8/Hotel Circle Clementine Line
+169,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+169,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+169,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+170,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+170,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+170,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+170,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+170,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+170,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+171,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+171,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+171,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+171,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+171,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+171,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+171,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+172,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+172,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+172,778150,3,Motel 6,8/Hotel Circle Clementine Line
+172,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+172,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+172,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+173,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+173,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+173,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+173,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+173,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+173,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+174,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+174,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+174,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+174,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+174,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+174,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+174,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+175,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+175,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+175,778150,3,Motel 6,8/Hotel Circle Clementine Line
+175,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+175,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+175,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+176,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+176,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+176,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+176,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+176,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+176,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+177,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+177,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+177,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+177,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+177,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+177,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+177,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+178,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+178,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+178,778150,3,Motel 6,8/Hotel Circle Clementine Line
+178,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+178,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+178,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+179,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+179,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+179,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+179,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+179,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+179,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+180,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+180,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+180,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+180,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+180,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+180,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+180,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+181,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+181,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+181,778150,3,Motel 6,8/Hotel Circle Clementine Line
+181,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+181,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+181,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+182,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+182,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+182,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+182,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+182,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+182,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+183,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+183,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+183,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+183,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+183,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+183,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+183,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+184,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+184,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+184,778150,3,Motel 6,8/Hotel Circle Clementine Line
+184,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+184,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+184,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+185,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+185,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+185,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+185,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+185,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+185,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+186,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+186,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+186,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+186,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+186,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+186,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+186,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+187,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+187,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+187,778150,3,Motel 6,8/Hotel Circle Clementine Line
+187,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+187,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+187,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+188,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+188,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+188,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+188,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+188,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+188,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+189,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+189,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+189,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+189,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+189,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+189,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+189,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+190,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+190,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+190,778150,3,Motel 6,8/Hotel Circle Clementine Line
+190,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+190,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+190,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+191,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+191,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+191,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+191,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+191,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+191,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+192,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+192,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+192,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+192,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+192,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+192,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+192,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+193,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+193,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+193,778150,3,Motel 6,8/Hotel Circle Clementine Line
+193,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+193,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+193,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+194,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+194,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+194,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+194,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+194,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+194,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+195,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+195,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+195,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+195,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+195,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+195,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+195,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+196,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+196,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+196,778150,3,Motel 6,8/Hotel Circle Clementine Line
+196,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+196,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+196,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+197,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+197,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+197,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+197,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+197,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+197,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+198,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+198,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+198,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+198,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+198,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+198,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+198,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+199,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+199,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+199,778150,3,Motel 6,8/Hotel Circle Clementine Line
+199,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+199,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+199,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+200,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+200,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+200,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+200,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+200,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+200,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+201,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+201,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+201,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+201,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+201,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+201,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+201,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+202,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+202,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+202,778150,3,Motel 6,8/Hotel Circle Clementine Line
+202,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+202,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+202,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+203,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+203,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+203,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+203,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+203,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+203,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+204,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+204,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+204,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+204,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+204,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+204,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+204,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+205,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+205,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+205,778150,3,Motel 6,8/Hotel Circle Clementine Line
+205,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+205,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+205,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+206,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+206,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+206,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+206,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+206,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+206,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+207,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+207,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+207,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+207,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+207,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+207,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+207,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+208,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+208,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+208,778150,3,Motel 6,8/Hotel Circle Clementine Line
+208,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+208,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+208,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+209,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+209,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+209,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+209,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+209,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+209,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+210,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+210,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+210,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+210,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+210,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+210,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+210,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+211,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+211,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+211,778150,3,Motel 6,8/Hotel Circle Clementine Line
+211,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+211,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+211,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+212,780795,1,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+212,780759,2,Anaheim Resort RV Park,6/Hotel Circle Clementine Line
+212,778162,3,Peacock Suites,6/Hotel Circle Clementine Line
+212,778172,4,America's Best Value Fantasy Inn,"10/Downtown Packing District Line, 6/Hotel Circle Clementine Line"
+212,778153,5,Ramada Plaza,6/Hotel Circle Clementine Line
+212,780795,6,Disneyland Main Transportation Center,6/Hotel Circle Clementine Line
+213,780796,1,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+213,778165,2,Islander Inn,7/Hotel Circle Clementine Line
+213,778166,3,La Quinta Inn,7/Hotel Circle Clementine Line
+213,778163,4,Residence Inn Maingate,7/Hotel Circle Clementine Line
+213,2388554,5,Country Inn & Suites,7/Hotel Circle Clementine Line
+213,778164,6,Howard Johnson Anaheim Hotel and Water Playground,"22/Costa Mesa/South Coast Plaza Line, 7/Hotel Circle Clementine Line"
+213,780796,7,Disneyland Main Transportation Center,7/Hotel Circle Clementine Line
+214,780797,1,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+214,2332307,2,Courtyard by Marriott Anaheim Theme Park Entrance/Holiday Inn Express,8/Hotel Circle Clementine Line
+214,778150,3,Motel 6,8/Hotel Circle Clementine Line
+214,778167,4,Worldmark Anaheim,8/Hotel Circle Clementine Line
+214,778183,5,Garden Walk - Cheesecake Factory,"15/ARTIC Sports Complex Line, 8/Hotel Circle Clementine Line"
+214,780797,6,Disneyland Main Transportation Center,8/Hotel Circle Clementine Line
+215,780798,1,Disneyland Main Transportation Center,9/Katella Line
+215,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+215,778169,3,Best Western Pavilions,9/Katella Line
+215,778170,4,Best Western Stovall's Inn,9/Katella Line
+215,778196,5,Convention Center Arena,9/Katella Line
+215,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+215,780798,7,Disneyland Main Transportation Center,9/Katella Line
+216,780798,1,Disneyland Main Transportation Center,9/Katella Line
+216,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+216,778169,3,Best Western Pavilions,9/Katella Line
+216,778170,4,Best Western Stovall's Inn,9/Katella Line
+216,778196,5,Convention Center Arena,9/Katella Line
+216,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+216,780798,7,Disneyland Main Transportation Center,9/Katella Line
+217,780798,1,Disneyland Main Transportation Center,9/Katella Line
+217,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+217,778169,3,Best Western Pavilions,9/Katella Line
+217,778170,4,Best Western Stovall's Inn,9/Katella Line
+217,778196,5,Convention Center Arena,9/Katella Line
+217,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+217,780798,7,Disneyland Main Transportation Center,9/Katella Line
+218,780798,1,Disneyland Main Transportation Center,9/Katella Line
+218,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+218,778169,3,Best Western Pavilions,9/Katella Line
+218,778170,4,Best Western Stovall's Inn,9/Katella Line
+218,778196,5,Convention Center Arena,9/Katella Line
+218,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+218,780798,7,Disneyland Main Transportation Center,9/Katella Line
+219,780798,1,Disneyland Main Transportation Center,9/Katella Line
+219,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+219,778169,3,Best Western Pavilions,9/Katella Line
+219,778170,4,Best Western Stovall's Inn,9/Katella Line
+219,778196,5,Convention Center Arena,9/Katella Line
+219,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+219,780798,7,Disneyland Main Transportation Center,9/Katella Line
+220,780798,1,Disneyland Main Transportation Center,9/Katella Line
+220,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+220,778169,3,Best Western Pavilions,9/Katella Line
+220,778170,4,Best Western Stovall's Inn,9/Katella Line
+220,778196,5,Convention Center Arena,9/Katella Line
+220,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+220,780798,7,Disneyland Main Transportation Center,9/Katella Line
+221,780798,1,Disneyland Main Transportation Center,9/Katella Line
+221,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+221,778169,3,Best Western Pavilions,9/Katella Line
+221,778170,4,Best Western Stovall's Inn,9/Katella Line
+221,778196,5,Convention Center Arena,9/Katella Line
+221,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+221,780798,7,Disneyland Main Transportation Center,9/Katella Line
+222,780798,1,Disneyland Main Transportation Center,9/Katella Line
+222,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+222,778169,3,Best Western Pavilions,9/Katella Line
+222,778170,4,Best Western Stovall's Inn,9/Katella Line
+222,778196,5,Convention Center Arena,9/Katella Line
+222,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+222,780798,7,Disneyland Main Transportation Center,9/Katella Line
+223,780798,1,Disneyland Main Transportation Center,9/Katella Line
+223,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+223,778169,3,Best Western Pavilions,9/Katella Line
+223,778170,4,Best Western Stovall's Inn,9/Katella Line
+223,778196,5,Convention Center Arena,9/Katella Line
+223,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+223,780798,7,Disneyland Main Transportation Center,9/Katella Line
+224,780798,1,Disneyland Main Transportation Center,9/Katella Line
+224,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+224,778169,3,Best Western Pavilions,9/Katella Line
+224,778170,4,Best Western Stovall's Inn,9/Katella Line
+224,778196,5,Convention Center Arena,9/Katella Line
+224,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+224,780798,7,Disneyland Main Transportation Center,9/Katella Line
+225,780798,1,Disneyland Main Transportation Center,9/Katella Line
+225,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+225,778169,3,Best Western Pavilions,9/Katella Line
+225,778170,4,Best Western Stovall's Inn,9/Katella Line
+225,778196,5,Convention Center Arena,9/Katella Line
+225,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+225,780798,7,Disneyland Main Transportation Center,9/Katella Line
+226,780798,1,Disneyland Main Transportation Center,9/Katella Line
+226,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+226,778169,3,Best Western Pavilions,9/Katella Line
+226,778170,4,Best Western Stovall's Inn,9/Katella Line
+226,778196,5,Convention Center Arena,9/Katella Line
+226,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+226,780798,7,Disneyland Main Transportation Center,9/Katella Line
+227,780798,1,Disneyland Main Transportation Center,9/Katella Line
+227,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+227,778169,3,Best Western Pavilions,9/Katella Line
+227,778170,4,Best Western Stovall's Inn,9/Katella Line
+227,778196,5,Convention Center Arena,9/Katella Line
+227,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+227,780798,7,Disneyland Main Transportation Center,9/Katella Line
+228,780798,1,Disneyland Main Transportation Center,9/Katella Line
+228,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+228,778169,3,Best Western Pavilions,9/Katella Line
+228,778170,4,Best Western Stovall's Inn,9/Katella Line
+228,778196,5,Convention Center Arena,9/Katella Line
+228,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+228,780798,7,Disneyland Main Transportation Center,9/Katella Line
+229,780798,1,Disneyland Main Transportation Center,9/Katella Line
+229,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+229,778169,3,Best Western Pavilions,9/Katella Line
+229,778170,4,Best Western Stovall's Inn,9/Katella Line
+229,778196,5,Convention Center Arena,9/Katella Line
+229,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+229,780798,7,Disneyland Main Transportation Center,9/Katella Line
+230,780798,1,Disneyland Main Transportation Center,9/Katella Line
+230,778168,2,Desert Palms Hotel & Suites,9/Katella Line
+230,778169,3,Best Western Pavilions,9/Katella Line
+230,778170,4,Best Western Stovall's Inn,9/Katella Line
+230,778196,5,Convention Center Arena,9/Katella Line
+230,778227,6,Harbor & Katella,"18/Buena Park Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line, 9/Katella Line"
+230,780798,7,Disneyland Main Transportation Center,9/Katella Line
+231,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+231,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+231,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+231,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+232,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+232,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+232,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+232,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+233,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+233,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+233,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+233,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+234,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+234,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+234,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+234,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+235,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+235,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+235,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+235,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+236,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+236,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+236,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+236,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+237,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+237,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+237,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+237,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+238,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+238,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+238,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+238,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+239,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+239,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+239,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+239,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+240,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+240,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+240,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+240,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+241,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+241,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+241,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+241,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+242,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+242,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+242,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+242,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+243,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+243,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+243,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+243,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+244,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+244,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+244,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+244,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+245,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+245,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+245,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+245,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+246,780801,1,Disneyland Main Transportation Center,12/Manchester Ave. Line
+246,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+246,778205,3,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+246,780801,4,Disneyland Main Transportation Center,12/Manchester Ave. Line
+247,780805,1,Disneyland Main Transportation Center,16/Orange Line
+247,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+247,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+247,778186,4,Best Western Meridian,16/Orange Line
+247,778187,5,Holiday Inn Express,16/Orange Line
+247,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+247,780805,7,Disneyland Main Transportation Center,16/Orange Line
+248,780805,1,Disneyland Main Transportation Center,16/Orange Line
+248,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+248,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+248,778186,4,Best Western Meridian,16/Orange Line
+248,778187,5,Holiday Inn Express,16/Orange Line
+248,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+248,780805,7,Disneyland Main Transportation Center,16/Orange Line
+249,780805,1,Disneyland Main Transportation Center,16/Orange Line
+249,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+249,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+249,778186,4,Best Western Meridian,16/Orange Line
+249,778187,5,Holiday Inn Express,16/Orange Line
+249,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+249,780805,7,Disneyland Main Transportation Center,16/Orange Line
+250,780805,1,Disneyland Main Transportation Center,16/Orange Line
+250,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+250,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+250,778186,4,Best Western Meridian,16/Orange Line
+250,778187,5,Holiday Inn Express,16/Orange Line
+250,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+250,780805,7,Disneyland Main Transportation Center,16/Orange Line
+251,780805,1,Disneyland Main Transportation Center,16/Orange Line
+251,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+251,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+251,778186,4,Best Western Meridian,16/Orange Line
+251,778187,5,Holiday Inn Express,16/Orange Line
+251,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+251,780805,7,Disneyland Main Transportation Center,16/Orange Line
+252,780805,1,Disneyland Main Transportation Center,16/Orange Line
+252,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+252,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+252,778186,4,Best Western Meridian,16/Orange Line
+252,778187,5,Holiday Inn Express,16/Orange Line
+252,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+252,780805,7,Disneyland Main Transportation Center,16/Orange Line
+253,780805,1,Disneyland Main Transportation Center,16/Orange Line
+253,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+253,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+253,778186,4,Best Western Meridian,16/Orange Line
+253,778187,5,Holiday Inn Express,16/Orange Line
+253,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+253,780805,7,Disneyland Main Transportation Center,16/Orange Line
+254,780805,1,Disneyland Main Transportation Center,16/Orange Line
+254,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+254,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+254,778186,4,Best Western Meridian,16/Orange Line
+254,778187,5,Holiday Inn Express,16/Orange Line
+254,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+254,780805,7,Disneyland Main Transportation Center,16/Orange Line
+255,780805,1,Disneyland Main Transportation Center,16/Orange Line
+255,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+255,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+255,778186,4,Best Western Meridian,16/Orange Line
+255,778187,5,Holiday Inn Express,16/Orange Line
+255,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+255,780805,7,Disneyland Main Transportation Center,16/Orange Line
+256,780805,1,Disneyland Main Transportation Center,16/Orange Line
+256,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+256,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+256,778186,4,Best Western Meridian,16/Orange Line
+256,778187,5,Holiday Inn Express,16/Orange Line
+256,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+256,780805,7,Disneyland Main Transportation Center,16/Orange Line
+257,780805,1,Disneyland Main Transportation Center,16/Orange Line
+257,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+257,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+257,778186,4,Best Western Meridian,16/Orange Line
+257,778187,5,Holiday Inn Express,16/Orange Line
+257,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+257,780805,7,Disneyland Main Transportation Center,16/Orange Line
+258,780805,1,Disneyland Main Transportation Center,16/Orange Line
+258,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+258,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+258,778186,4,Best Western Meridian,16/Orange Line
+258,778187,5,Holiday Inn Express,16/Orange Line
+258,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+258,780805,7,Disneyland Main Transportation Center,16/Orange Line
+259,780805,1,Disneyland Main Transportation Center,16/Orange Line
+259,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+259,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+259,778186,4,Best Western Meridian,16/Orange Line
+259,778187,5,Holiday Inn Express,16/Orange Line
+259,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+259,780805,7,Disneyland Main Transportation Center,16/Orange Line
+260,780805,1,Disneyland Main Transportation Center,16/Orange Line
+260,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+260,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+260,778186,4,Best Western Meridian,16/Orange Line
+260,778187,5,Holiday Inn Express,16/Orange Line
+260,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+260,780805,7,Disneyland Main Transportation Center,16/Orange Line
+261,780805,1,Disneyland Main Transportation Center,16/Orange Line
+261,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+261,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+261,778186,4,Best Western Meridian,16/Orange Line
+261,778187,5,Holiday Inn Express,16/Orange Line
+261,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+261,780805,7,Disneyland Main Transportation Center,16/Orange Line
+262,780805,1,Disneyland Main Transportation Center,16/Orange Line
+262,780166,2,Gardenwalk-Disney Way,"12/Manchester Ave. Line, 14/ALO/Ayres Orange Line, 16/Orange Line"
+262,778185,3,Outlets @ Orange (Lucky Strike),16/Orange Line
+262,778186,4,Best Western Meridian,16/Orange Line
+262,778187,5,Holiday Inn Express,16/Orange Line
+262,778213,6,Convention Way N/B,"14/ALO/Ayres Orange Line, 16/Orange Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+262,780805,7,Disneyland Main Transportation Center,16/Orange Line
+263,780808,1,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+263,778154,2,Portofino Inn & Suites,"18/Buena Park Line, 19/Santa Ana Line, 1/Harbor Blvd. Line, 2/Harbor Blvd. Line, 3/Grand Plaza Line"
+263,778201,3,Anaheim Convention Center Grand Plaza,"15/ARTIC Sports Complex Line, 18/Buena Park Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line, 4/Grand Plaza Line, 5/Grand Plaza Line"
+263,778205,4,Holiday Inn Anaheim/Staybridge ART Shelter stop,"12/Manchester Ave. Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+263,780771,5,Main St. & Mainplace Mall,19/Santa Ana Line
+263,787483,6,4th & Spurgeon Santa Ana,19/Santa Ana Line
+263,787484,7,2nd & Broadway Santa Ana,19/Santa Ana Line
+263,780808,8,Disneyland Main Transportation Center,"19/Extension of Canyon Line, 19/Santa Ana Line, 22/Costa Mesa/South Coast Plaza Line"
+264,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+264,778188,2,Toy Story Transportation Center,20/Toy Story Line
+264,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+265,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+265,778188,2,Toy Story Transportation Center,20/Toy Story Line
+265,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+266,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+266,778188,2,Toy Story Transportation Center,20/Toy Story Line
+266,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+267,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+267,778188,2,Toy Story Transportation Center,20/Toy Story Line
+267,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+268,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+268,778188,2,Toy Story Transportation Center,20/Toy Story Line
+268,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+269,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+269,778188,2,Toy Story Transportation Center,20/Toy Story Line
+269,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+270,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+270,778188,2,Toy Story Transportation Center,20/Toy Story Line
+270,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+271,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+271,778188,2,Toy Story Transportation Center,20/Toy Story Line
+271,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+272,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+272,778188,2,Toy Story Transportation Center,20/Toy Story Line
+272,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+273,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+273,778188,2,Toy Story Transportation Center,20/Toy Story Line
+273,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+274,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+274,778188,2,Toy Story Transportation Center,20/Toy Story Line
+274,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+275,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+275,778188,2,Toy Story Transportation Center,20/Toy Story Line
+275,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+276,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+276,778188,2,Toy Story Transportation Center,20/Toy Story Line
+276,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+277,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+277,778188,2,Toy Story Transportation Center,20/Toy Story Line
+277,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+278,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+278,778188,2,Toy Story Transportation Center,20/Toy Story Line
+278,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+279,780806,1,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"
+279,778188,2,Toy Story Transportation Center,20/Toy Story Line
+279,780806,3,Disneyland Main Transportation Center,"17/Canyon Line, 20/Toy Story Line"

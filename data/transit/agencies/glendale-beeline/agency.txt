@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+1,Glendale Beeline,http://glendalebeeline.com/,America/Los_Angeles,en,(818)548-3960

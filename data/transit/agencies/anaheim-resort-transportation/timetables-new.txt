@@ -1,0 +1,280 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,1708,,20171223,20171230,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 8-12 (All days of week),,horizontal
+2,1708,,20171231,20171231,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 8 - 2 (All days of week),,horizontal
+3,1708,,20180101,20180101,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 9-11 (All days of week),,horizontal
+4,1708,,20180102,20180107,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 8-12 (All days of week),,horizontal
+5,1708,,20180108,20180111,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 9-9 (All days of week),,horizontal
+6,1708,,20180112,20180112,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 9-12 (All days of week),,horizontal
+7,1708,,20180113,20180114,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 8-12 (All days of week),,horizontal
+8,1708,,20180115,20180115,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 8-11 (All days of week),,horizontal
+9,1708,,20180116,20180117,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 10-9 (All days of week),,horizontal
+10,1708,,20180118,20180118,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 10-8 (All days of week),,horizontal
+11,1708,,20180119,20180119,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 9-11 (All days of week),,horizontal
+12,1708,,20180120,20180121,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 8-12 (All days of week),,horizontal
+13,1708,,20180122,20180124,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 10-9 (All days of week),,horizontal
+14,1708,,20180125,20180125,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 9-9 (All days of week),,horizontal
+15,1708,,20180126,20180128,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 8-12 (All days of week),,horizontal
+16,1708,,20180129,20180131,1,1,1,1,1,1,1,ALO/Ayres Orange Line,Disney Hours 10-9 (All days of week),,horizontal
+17,1709,,20171223,20171230,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 8-12 (All days of week),,horizontal
+18,1709,,20171231,20171231,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 8 - 2 (All days of week),,horizontal
+19,1709,,20180101,20180101,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 9-11 (All days of week),,horizontal
+20,1709,,20180102,20180107,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 8-12 (All days of week),,horizontal
+21,1709,,20180108,20180111,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 9-9 (All days of week),,horizontal
+22,1709,,20180112,20180112,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 9-12 (All days of week),,horizontal
+23,1709,,20180113,20180114,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 8-12 (All days of week),,horizontal
+24,1709,,20180115,20180115,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 8-11 (All days of week),,horizontal
+25,1709,,20180116,20180117,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 10-9 (All days of week),,horizontal
+26,1709,,20180118,20180118,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 10-8 (All days of week),,horizontal
+27,1709,,20180119,20180119,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 9-11 (All days of week),,horizontal
+28,1709,,20180120,20180121,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 8-12 (All days of week),,horizontal
+29,1709,,20180122,20180124,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 10-9 (All days of week),,horizontal
+30,1709,,20180125,20180125,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 9-9 (All days of week),,horizontal
+31,1709,,20180126,20180128,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 8-12 (All days of week),,horizontal
+32,1709,,20180129,20180131,1,1,1,1,1,1,1,ARTIC Sports Complex Line,Disney Hours 10-9 (All days of week),,horizontal
+33,1706,,20171223,20171230,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 8-12 (All days of week),,horizontal
+34,1706,,20171231,20171231,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 8 - 2 (All days of week),,horizontal
+35,1706,,20180101,20180101,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 9-11 (All days of week),,horizontal
+36,1706,,20180102,20180107,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 8-12 (All days of week),,horizontal
+37,1706,,20180108,20180111,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 9-9 (All days of week),,horizontal
+38,1706,,20180112,20180112,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 9-12 (All days of week),,horizontal
+39,1706,,20180113,20180114,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 8-12 (All days of week),,horizontal
+40,1706,,20180115,20180115,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 8-11 (All days of week),,horizontal
+41,1706,,20180116,20180117,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 10-9 (All days of week),,horizontal
+42,1706,,20180118,20180118,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 10-8 (All days of week),,horizontal
+43,1706,,20180119,20180119,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 9-11 (All days of week),,horizontal
+44,1706,,20180120,20180121,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 8-12 (All days of week),,horizontal
+45,1706,,20180122,20180124,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 10-9 (All days of week),,horizontal
+46,1706,,20180125,20180125,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 9-9 (All days of week),,horizontal
+47,1706,,20180126,20180128,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 8-12 (All days of week),,horizontal
+48,1706,,20180129,20180131,1,1,1,1,1,1,1,Ball Road Line,Disney Hours 10-9 (All days of week),,horizontal
+49,1712,,20170101,20190101,1,1,1,1,1,1,1,Buena Park Line,Year Round Schedule (All days of week),,horizontal
+50,1714,0,20170101,20190101,1,1,1,1,1,1,1,Canyon Line,Year Round Schedule (All days of week),Inbound,horizontal
+51,1714,1,20170101,20190101,1,1,1,1,1,1,1,Canyon Line,Year Round Schedule (All days of week),Outbound,horizontal
+52,2118,0,20171226,20190101,1,1,1,1,1,1,1,Costa Mesa/South Coast Plaza Line,Line 22 Year Round (All days of week),Northbound,horizontal
+53,2118,1,20171226,20190101,1,1,1,1,1,1,1,Costa Mesa/South Coast Plaza Line,Line 22 Year Round (All days of week),Southbound,horizontal
+54,2118,,20171226,20190101,1,1,1,1,1,1,1,Costa Mesa/South Coast Plaza Line,Line 22 Year Round (All days of week),,horizontal
+55,1705,,20171223,20171230,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 8-12 (All days of week),,horizontal
+56,1705,,20171231,20171231,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 8 - 2 (All days of week),,horizontal
+57,1705,,20180101,20180101,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 9-11 (All days of week),,horizontal
+58,1705,,20180102,20180107,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 8-12 (All days of week),,horizontal
+59,1705,,20180108,20180111,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 9-9 (All days of week),,horizontal
+60,1705,,20180112,20180112,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 9-12 (All days of week),,horizontal
+61,1705,,20180113,20180114,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 8-12 (All days of week),,horizontal
+62,1705,,20180115,20180115,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 8-11 (All days of week),,horizontal
+63,1705,,20180116,20180117,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 10-9 (All days of week),,horizontal
+64,1705,,20180118,20180118,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 10-8 (All days of week),,horizontal
+65,1705,,20180119,20180119,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 9-11 (All days of week),,horizontal
+66,1705,,20180120,20180121,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 8-12 (All days of week),,horizontal
+67,1705,,20180122,20180124,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 10-9 (All days of week),,horizontal
+68,1705,,20180125,20180125,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 9-9 (All days of week),,horizontal
+69,1705,,20180126,20180128,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 8-12 (All days of week),,horizontal
+70,1705,,20180129,20180131,1,1,1,1,1,1,1,Downtown Packing District Line,Disney Hours 10-9 (All days of week),,horizontal
+71,1716,,20171223,20171230,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 8-12 (All days of week),,horizontal
+72,1716,,20171231,20171231,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 8 - 2 (All days of week),,horizontal
+73,1716,,20180101,20180101,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 9-11 (All days of week),,horizontal
+74,1716,,20180102,20180107,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 8-12 (All days of week),,horizontal
+75,1716,,20180108,20180111,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 9-9 (All days of week),,horizontal
+76,1716,,20180112,20180112,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 9-12 (All days of week),,horizontal
+77,1716,,20180113,20180114,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 8-12 (All days of week),,horizontal
+78,1716,,20180115,20180115,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 8-11 (All days of week),,horizontal
+79,1716,,20180116,20180117,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 10-9 (All days of week),,horizontal
+80,1716,,20180118,20180118,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 10-8 (All days of week),,horizontal
+81,1716,,20180119,20180119,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 9-11 (All days of week),,horizontal
+82,1716,,20180120,20180121,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 8-12 (All days of week),,horizontal
+83,1716,,20180122,20180124,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 10-9 (All days of week),,horizontal
+84,1716,,20180125,20180125,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 9-9 (All days of week),,horizontal
+85,1716,,20180126,20180128,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 8-12 (All days of week),,horizontal
+86,1716,,20180129,20180131,1,1,1,1,1,1,1,Extension of Canyon Line,Disney Hours 10-9 (All days of week),,horizontal
+87,1698,,20171223,20171230,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+88,1699,,20171223,20171230,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+89,1700,,20171223,20171230,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+90,1698,,20171231,20171231,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8 - 2 (All days of week),,horizontal
+91,1699,,20171231,20171231,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8 - 2 (All days of week),,horizontal
+92,1700,,20171231,20171231,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8 - 2 (All days of week),,horizontal
+93,1698,,20180101,20180101,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-11 (All days of week),,horizontal
+94,1699,,20180101,20180101,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-11 (All days of week),,horizontal
+95,1700,,20180101,20180101,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-11 (All days of week),,horizontal
+96,1698,,20180102,20180107,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+97,1699,,20180102,20180107,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+98,1700,,20180102,20180107,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+99,1698,,20180108,20180111,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-9 (All days of week),,horizontal
+100,1699,,20180108,20180111,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-9 (All days of week),,horizontal
+101,1700,,20180108,20180111,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-9 (All days of week),,horizontal
+102,1698,,20180112,20180112,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-12 (All days of week),,horizontal
+103,1699,,20180112,20180112,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-12 (All days of week),,horizontal
+104,1700,,20180112,20180112,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-12 (All days of week),,horizontal
+105,1698,,20180113,20180114,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+106,1699,,20180113,20180114,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+107,1700,,20180113,20180114,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+108,1698,,20180115,20180115,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-11 (All days of week),,horizontal
+109,1699,,20180115,20180115,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-11 (All days of week),,horizontal
+110,1700,,20180115,20180115,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-11 (All days of week),,horizontal
+111,1698,,20180116,20180117,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-9 (All days of week),,horizontal
+112,1699,,20180116,20180117,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-9 (All days of week),,horizontal
+113,1700,,20180116,20180117,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-9 (All days of week),,horizontal
+114,1698,,20180118,20180118,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-8 (All days of week),,horizontal
+115,1699,,20180118,20180118,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-8 (All days of week),,horizontal
+116,1700,,20180118,20180118,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-8 (All days of week),,horizontal
+117,1698,,20180119,20180119,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-11 (All days of week),,horizontal
+118,1699,,20180119,20180119,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-11 (All days of week),,horizontal
+119,1700,,20180119,20180119,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-11 (All days of week),,horizontal
+120,1698,,20180120,20180121,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+121,1699,,20180120,20180121,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+122,1700,,20180120,20180121,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+123,1698,,20180122,20180124,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-9 (All days of week),,horizontal
+124,1699,,20180122,20180124,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-9 (All days of week),,horizontal
+125,1700,,20180122,20180124,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-9 (All days of week),,horizontal
+126,1698,,20180125,20180125,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-9 (All days of week),,horizontal
+127,1699,,20180125,20180125,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-9 (All days of week),,horizontal
+128,1700,,20180125,20180125,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 9-9 (All days of week),,horizontal
+129,1698,,20180126,20180128,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+130,1699,,20180126,20180128,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+131,1700,,20180126,20180128,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 8-12 (All days of week),,horizontal
+132,1698,,20180129,20180131,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-9 (All days of week),,horizontal
+133,1699,,20180129,20180131,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-9 (All days of week),,horizontal
+134,1700,,20180129,20180131,1,1,1,1,1,1,1,Grand Plaza Line,Disney Hours 10-9 (All days of week),,horizontal
+135,1696,,20171223,20171230,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-12 (All days of week),,horizontal
+136,1697,,20171223,20171230,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-12 (All days of week),,horizontal
+137,1696,,20171231,20171231,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8 - 2 (All days of week),,horizontal
+138,1697,,20171231,20171231,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8 - 2 (All days of week),,horizontal
+139,1696,,20180101,20180101,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 9-11 (All days of week),,horizontal
+140,1697,,20180101,20180101,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 9-11 (All days of week),,horizontal
+141,1696,,20180102,20180107,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-12 (All days of week),,horizontal
+142,1697,,20180102,20180107,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-12 (All days of week),,horizontal
+143,1696,,20180108,20180111,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 9-9 (All days of week),,horizontal
+144,1697,,20180108,20180111,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 9-9 (All days of week),,horizontal
+145,1696,,20180112,20180112,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 9-12 (All days of week),,horizontal
+146,1697,,20180112,20180112,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 9-12 (All days of week),,horizontal
+147,1696,,20180113,20180114,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-12 (All days of week),,horizontal
+148,1697,,20180113,20180114,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-12 (All days of week),,horizontal
+149,1696,,20180115,20180115,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-11 (All days of week),,horizontal
+150,1697,,20180115,20180115,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-11 (All days of week),,horizontal
+151,1696,,20180116,20180117,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 10-9 (All days of week),,horizontal
+152,1697,,20180116,20180117,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 10-9 (All days of week),,horizontal
+153,1696,,20180118,20180118,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 10-8 (All days of week),,horizontal
+154,1697,,20180118,20180118,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 10-8 (All days of week),,horizontal
+155,1696,,20180119,20180119,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 9-11 (All days of week),,horizontal
+156,1697,,20180119,20180119,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 9-11 (All days of week),,horizontal
+157,1696,,20180120,20180121,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-12 (All days of week),,horizontal
+158,1697,,20180120,20180121,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-12 (All days of week),,horizontal
+159,1696,,20180122,20180124,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 10-9 (All days of week),,horizontal
+160,1697,,20180122,20180124,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 10-9 (All days of week),,horizontal
+161,1696,,20180125,20180125,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 9-9 (All days of week),,horizontal
+162,1697,,20180125,20180125,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 9-9 (All days of week),,horizontal
+163,1696,,20180126,20180128,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-12 (All days of week),,horizontal
+164,1697,,20180126,20180128,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 8-12 (All days of week),,horizontal
+165,1696,,20180129,20180131,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 10-9 (All days of week),,horizontal
+166,1697,,20180129,20180131,1,1,1,1,1,1,1,Harbor Blvd. Line,Disney Hours 10-9 (All days of week),,horizontal
+167,1701,,20171223,20171230,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+168,1702,,20171223,20171230,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+169,1703,,20171223,20171230,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+170,1701,,20171231,20171231,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8 - 2 (All days of week),,horizontal
+171,1702,,20171231,20171231,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8 - 2 (All days of week),,horizontal
+172,1703,,20171231,20171231,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8 - 2 (All days of week),,horizontal
+173,1701,,20180101,20180101,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-11 (All days of week),,horizontal
+174,1702,,20180101,20180101,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-11 (All days of week),,horizontal
+175,1703,,20180101,20180101,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-11 (All days of week),,horizontal
+176,1701,,20180102,20180107,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+177,1702,,20180102,20180107,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+178,1703,,20180102,20180107,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+179,1701,,20180108,20180111,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-9 (All days of week),,horizontal
+180,1702,,20180108,20180111,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-9 (All days of week),,horizontal
+181,1703,,20180108,20180111,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-9 (All days of week),,horizontal
+182,1701,,20180112,20180112,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-12 (All days of week),,horizontal
+183,1702,,20180112,20180112,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-12 (All days of week),,horizontal
+184,1703,,20180112,20180112,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-12 (All days of week),,horizontal
+185,1701,,20180113,20180114,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+186,1702,,20180113,20180114,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+187,1703,,20180113,20180114,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+188,1701,,20180115,20180115,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-11 (All days of week),,horizontal
+189,1702,,20180115,20180115,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-11 (All days of week),,horizontal
+190,1703,,20180115,20180115,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-11 (All days of week),,horizontal
+191,1701,,20180116,20180117,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-9 (All days of week),,horizontal
+192,1702,,20180116,20180117,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-9 (All days of week),,horizontal
+193,1703,,20180116,20180117,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-9 (All days of week),,horizontal
+194,1701,,20180118,20180118,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-8 (All days of week),,horizontal
+195,1702,,20180118,20180118,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-8 (All days of week),,horizontal
+196,1703,,20180118,20180118,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-8 (All days of week),,horizontal
+197,1701,,20180119,20180119,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-11 (All days of week),,horizontal
+198,1702,,20180119,20180119,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-11 (All days of week),,horizontal
+199,1703,,20180119,20180119,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-11 (All days of week),,horizontal
+200,1701,,20180120,20180121,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+201,1702,,20180120,20180121,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+202,1703,,20180120,20180121,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+203,1701,,20180122,20180124,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-9 (All days of week),,horizontal
+204,1702,,20180122,20180124,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-9 (All days of week),,horizontal
+205,1703,,20180122,20180124,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-9 (All days of week),,horizontal
+206,1701,,20180125,20180125,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-9 (All days of week),,horizontal
+207,1702,,20180125,20180125,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-9 (All days of week),,horizontal
+208,1703,,20180125,20180125,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 9-9 (All days of week),,horizontal
+209,1701,,20180126,20180128,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+210,1702,,20180126,20180128,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+211,1703,,20180126,20180128,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 8-12 (All days of week),,horizontal
+212,1701,,20180129,20180131,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-9 (All days of week),,horizontal
+213,1702,,20180129,20180131,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-9 (All days of week),,horizontal
+214,1703,,20180129,20180131,1,1,1,1,1,1,1,Hotel Circle Clementine Line,Disney Hours 10-9 (All days of week),,horizontal
+215,1704,,20171223,20171230,1,1,1,1,1,1,1,Katella Line,Disney Hours 8-12 (All days of week),,horizontal
+216,1704,,20171231,20171231,1,1,1,1,1,1,1,Katella Line,Disney Hours 8 - 2 (All days of week),,horizontal
+217,1704,,20180101,20180101,1,1,1,1,1,1,1,Katella Line,Disney Hours 9-11 (All days of week),,horizontal
+218,1704,,20180102,20180107,1,1,1,1,1,1,1,Katella Line,Disney Hours 8-12 (All days of week),,horizontal
+219,1704,,20180108,20180111,1,1,1,1,1,1,1,Katella Line,Disney Hours 9-9 (All days of week),,horizontal
+220,1704,,20180112,20180112,1,1,1,1,1,1,1,Katella Line,Disney Hours 9-12 (All days of week),,horizontal
+221,1704,,20180113,20180114,1,1,1,1,1,1,1,Katella Line,Disney Hours 8-12 (All days of week),,horizontal
+222,1704,,20180115,20180115,1,1,1,1,1,1,1,Katella Line,Disney Hours 8-11 (All days of week),,horizontal
+223,1704,,20180116,20180117,1,1,1,1,1,1,1,Katella Line,Disney Hours 10-9 (All days of week),,horizontal
+224,1704,,20180118,20180118,1,1,1,1,1,1,1,Katella Line,Disney Hours 10-8 (All days of week),,horizontal
+225,1704,,20180119,20180119,1,1,1,1,1,1,1,Katella Line,Disney Hours 9-11 (All days of week),,horizontal
+226,1704,,20180120,20180121,1,1,1,1,1,1,1,Katella Line,Disney Hours 8-12 (All days of week),,horizontal
+227,1704,,20180122,20180124,1,1,1,1,1,1,1,Katella Line,Disney Hours 10-9 (All days of week),,horizontal
+228,1704,,20180125,20180125,1,1,1,1,1,1,1,Katella Line,Disney Hours 9-9 (All days of week),,horizontal
+229,1704,,20180126,20180128,1,1,1,1,1,1,1,Katella Line,Disney Hours 8-12 (All days of week),,horizontal
+230,1704,,20180129,20180131,1,1,1,1,1,1,1,Katella Line,Disney Hours 10-9 (All days of week),,horizontal
+231,1707,,20171223,20171230,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 8-12 (All days of week),,horizontal
+232,1707,,20171231,20171231,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 8 - 2 (All days of week),,horizontal
+233,1707,,20180101,20180101,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 9-11 (All days of week),,horizontal
+234,1707,,20180102,20180107,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 8-12 (All days of week),,horizontal
+235,1707,,20180108,20180111,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 9-9 (All days of week),,horizontal
+236,1707,,20180112,20180112,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 9-12 (All days of week),,horizontal
+237,1707,,20180113,20180114,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 8-12 (All days of week),,horizontal
+238,1707,,20180115,20180115,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 8-11 (All days of week),,horizontal
+239,1707,,20180116,20180117,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 10-9 (All days of week),,horizontal
+240,1707,,20180118,20180118,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 10-8 (All days of week),,horizontal
+241,1707,,20180119,20180119,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 9-11 (All days of week),,horizontal
+242,1707,,20180120,20180121,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 8-12 (All days of week),,horizontal
+243,1707,,20180122,20180124,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 10-9 (All days of week),,horizontal
+244,1707,,20180125,20180125,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 9-9 (All days of week),,horizontal
+245,1707,,20180126,20180128,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 8-12 (All days of week),,horizontal
+246,1707,,20180129,20180131,1,1,1,1,1,1,1,Manchester Ave. Line,Disney Hours 10-9 (All days of week),,horizontal
+247,1710,,20171223,20171230,1,1,1,1,1,1,1,Orange Line,Disney Hours 8-12 (All days of week),,horizontal
+248,1710,,20171231,20171231,1,1,1,1,1,1,1,Orange Line,Disney Hours 8 - 2 (All days of week),,horizontal
+249,1710,,20180101,20180101,1,1,1,1,1,1,1,Orange Line,Disney Hours 9-11 (All days of week),,horizontal
+250,1710,,20180102,20180107,1,1,1,1,1,1,1,Orange Line,Disney Hours 8-12 (All days of week),,horizontal
+251,1710,,20180108,20180111,1,1,1,1,1,1,1,Orange Line,Disney Hours 9-9 (All days of week),,horizontal
+252,1710,,20180112,20180112,1,1,1,1,1,1,1,Orange Line,Disney Hours 9-12 (All days of week),,horizontal
+253,1710,,20180113,20180114,1,1,1,1,1,1,1,Orange Line,Disney Hours 8-12 (All days of week),,horizontal
+254,1710,,20180115,20180115,1,1,1,1,1,1,1,Orange Line,Disney Hours 8-11 (All days of week),,horizontal
+255,1710,,20180116,20180117,1,1,1,1,1,1,1,Orange Line,Disney Hours 10-9 (All days of week),,horizontal
+256,1710,,20180118,20180118,1,1,1,1,1,1,1,Orange Line,Disney Hours 10-8 (All days of week),,horizontal
+257,1710,,20180119,20180119,1,1,1,1,1,1,1,Orange Line,Disney Hours 9-11 (All days of week),,horizontal
+258,1710,,20180120,20180121,1,1,1,1,1,1,1,Orange Line,Disney Hours 8-12 (All days of week),,horizontal
+259,1710,,20180122,20180124,1,1,1,1,1,1,1,Orange Line,Disney Hours 10-9 (All days of week),,horizontal
+260,1710,,20180125,20180125,1,1,1,1,1,1,1,Orange Line,Disney Hours 9-9 (All days of week),,horizontal
+261,1710,,20180126,20180128,1,1,1,1,1,1,1,Orange Line,Disney Hours 8-12 (All days of week),,horizontal
+262,1710,,20180129,20180131,1,1,1,1,1,1,1,Orange Line,Disney Hours 10-9 (All days of week),,horizontal
+263,1713,,20150101,20190101,1,1,1,1,1,1,1,Santa Ana Line,Santa Ana Line (All days of week),,horizontal
+264,1711,,20171223,20171230,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 8-12 (All days of week),,horizontal
+265,1711,,20171231,20171231,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 8 - 2 (All days of week),,horizontal
+266,1711,,20180101,20180101,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 9-11 (All days of week),,horizontal
+267,1711,,20180102,20180107,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 8-12 (All days of week),,horizontal
+268,1711,,20180108,20180111,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 9-9 (All days of week),,horizontal
+269,1711,,20180112,20180112,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 9-12 (All days of week),,horizontal
+270,1711,,20180113,20180114,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 8-12 (All days of week),,horizontal
+271,1711,,20180115,20180115,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 8-11 (All days of week),,horizontal
+272,1711,,20180116,20180117,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 10-9 (All days of week),,horizontal
+273,1711,,20180118,20180118,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 10-8 (All days of week),,horizontal
+274,1711,,20180119,20180119,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 9-11 (All days of week),,horizontal
+275,1711,,20180120,20180121,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 8-12 (All days of week),,horizontal
+276,1711,,20180122,20180124,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 10-9 (All days of week),,horizontal
+277,1711,,20180125,20180125,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 9-9 (All days of week),,horizontal
+278,1711,,20180126,20180128,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 8-12 (All days of week),,horizontal
+279,1711,,20180129,20180131,1,1,1,1,1,1,1,Toy Story Line,Disney Hours 10-9 (All days of week),,horizontal

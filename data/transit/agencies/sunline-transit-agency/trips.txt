@@ -1,0 +1,1416 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+977,1,95411,Eastbound - Coachella,,0,10180,3106,1,1
+977,1,95410,Eastbound - Coachella,,0,10189,3106,1,1
+977,1,95409,Eastbound - Coachella,,0,10187,3106,1,1
+977,1,95408,Eastbound - Coachella,,0,10186,3106,1,1
+977,1,95407,Eastbound - Coachella,,0,10185,3106,1,1
+977,1,95406,Eastbound - Coachella,,0,10184,3106,1,1
+977,1,95405,Eastbound - Coachella,,0,10183,3106,1,1
+977,1,95404,Eastbound - Coachella,,0,10182,3106,1,1
+977,1,95403,Eastbound - Coachella,,0,10181,3106,1,1
+977,1,95402,Eastbound - Coachella,,0,10191,3106,1,1
+977,1,95401,Eastbound - Coachella,,0,10190,3106,1,1
+977,1,95400,Eastbound - Coachella,,0,10180,3106,1,1
+977,1,95399,Eastbound - Coachella,,0,10189,3106,1,1
+977,1,95398,Eastbound - Coachella,,0,10188,3106,1,1
+977,1,95397,Eastbound - Coachella,,0,10187,3106,1,1
+977,1,95396,Eastbound - Coachella,,0,10186,3106,1,1
+977,1,95395,Eastbound - Coachella,,0,10192,3106,1,1
+977,1,95394,Eastbound - Coachella,,0,10185,3106,1,1
+977,1,95393,Eastbound - Coachella,,0,10184,3106,1,1
+977,1,95392,Eastbound - Coachella,,0,10183,3106,1,1
+977,1,95391,Eastbound - Coachella,,0,10182,3106,1,1
+977,1,95390,Eastbound - Coachella,,0,10181,3106,1,1
+977,1,95389,Eastbound - Coachella,,0,10191,3106,1,1
+977,1,95388,Eastbound - Coachella,,0,10190,3106,1,1
+977,1,95387,Eastbound - Coachella,,0,10180,3106,1,1
+977,1,95386,Eastbound - Coachella,,0,10189,3106,1,1
+977,1,95385,Eastbound - Coachella,,0,10188,3106,1,1
+977,1,95384,Eastbound - Coachella,,0,10187,3106,1,1
+977,1,95383,Eastbound - Coachella,,0,10186,3106,1,1
+977,1,95382,Eastbound - Coachella,,0,10185,3106,1,1
+977,1,95381,Eastbound - Coachella,,0,10184,3106,1,1
+977,1,95380,Eastbound - Coachella,,0,10183,3106,1,1
+977,1,95379,Eastbound - Coachella,,0,10182,3106,1,1
+977,1,95378,Eastbound - Coachella,,0,10181,3106,1,1
+977,1,95377,Eastbound - Coachella,,0,10191,3106,1,1
+977,1,95376,Eastbound - Coachella,,0,10190,3106,1,1
+977,1,95375,Eastbound - Coachella,,0,10180,3106,1,1
+977,1,95374,Eastbound - Coachella,,0,10189,3106,1,1
+977,1,95373,Eastbound - Coachella,,0,10188,3106,1,1
+977,1,95372,Eastbound - Coachella,,0,10187,3106,1,1
+977,1,95371,Eastbound - Coachella,,0,10186,3106,1,1
+977,1,95370,Eastbound - Coachella,,0,10185,3106,1,1
+977,1,95369,Eastbound - Coachella,,0,10184,3106,1,1
+977,1,95368,Eastbound - Coachella,,0,10183,3106,1,1
+977,1,95367,Eastbound - Coachella,,0,10182,3106,1,1
+977,1,95366,Eastbound - Coachella,,0,10181,3106,1,1
+977,1,95365,Eastbound - Coachella,,0,10180,3106,1,1
+977,1,95456,Westbound - Palm Springs,,1,10184,3107,1,1
+977,1,95455,Westbound - Palm Springs,,1,10182,3107,1,1
+977,1,95454,Westbound - Palm Springs,,1,10181,3107,1,1
+977,1,95453,Westbound - Palm Springs,,1,10191,3107,1,1
+977,1,95452,Westbound - Palm Springs,,1,10190,3107,1,1
+977,301,95457,Westbound - Palm Desert,,1,10193,3109,1,1
+977,1,95451,Westbound - Palm Springs,,1,10180,3107,1,1
+977,1,95450,Westbound - Palm Springs,,1,10189,3107,1,1
+977,1,95449,Westbound - Palm Springs,,1,10188,3107,1,1
+977,1,95448,Westbound - Palm Springs,,1,10187,3107,1,1
+977,1,95447,Westbound - Palm Springs,,1,10186,3107,1,1
+977,1,95446,Westbound - Palm Springs,,1,10185,3107,1,1
+977,1,95445,Westbound - Palm Springs,,1,10184,3107,1,1
+977,1,95444,Westbound - Palm Springs,,1,10183,3107,1,1
+977,1,95443,Westbound - Palm Springs,,1,10182,3107,1,1
+977,1,95442,Westbound - Palm Springs,,1,10181,3107,1,1
+977,1,95441,Westbound - Palm Springs,,1,10191,3107,1,1
+977,1,95440,Westbound - Palm Springs,,1,10190,3107,1,1
+977,1,95439,Westbound - Palm Springs,,1,10180,3107,1,1
+977,1,95438,Westbound - Palm Springs,,1,10189,3107,1,1
+977,1,95437,Westbound - Palm Springs,,1,10188,3107,1,1
+977,1,95436,Westbound - Palm Springs,,1,10187,3107,1,1
+977,1,95435,Westbound - Palm Springs,,1,10186,3107,1,1
+977,1,95434,Westbound - Palm Springs,,1,10192,3107,1,1
+977,1,95433,Westbound - Palm Springs,,1,10185,3107,1,1
+977,1,95432,Westbound - Palm Springs,,1,10184,3107,1,1
+977,1,95431,Westbound - Palm Springs,,1,10183,3107,1,1
+977,1,95430,Westbound - Palm Springs,,1,10182,3107,1,1
+977,1,95429,Westbound - Palm Springs,,1,10181,3107,1,1
+977,1,95428,Westbound - Palm Springs,,1,10191,3107,1,1
+977,1,95427,Westbound - Palm Springs,,1,10190,3107,1,1
+977,1,95426,Westbound - Palm Springs,,1,10180,3107,1,1
+977,1,95425,Westbound - Palm Springs,,1,10189,3107,1,1
+977,1,95424,Westbound - Palm Springs,,1,10188,3107,1,1
+977,1,95423,Westbound - Palm Springs,,1,10187,3107,1,1
+977,1,95422,Westbound - Palm Springs,,1,10186,3107,1,1
+977,1,95421,Westbound - Palm Springs,,1,10185,3107,1,1
+977,1,95420,Westbound - Palm Springs,,1,10184,3107,1,1
+977,1,95419,Westbound - Palm Springs,,1,10183,3107,1,1
+977,1,95418,Westbound - Palm Springs,,1,10182,3107,1,1
+977,1,95417,Westbound - Palm Springs,,1,10181,3107,1,1
+977,1,95416,Westbound - Palm Springs,,1,10191,3107,1,1
+977,1,95415,Westbound - Palm Springs,,1,10180,3107,1,1
+977,1,95412,Westbound - Palm Springs,,1,10188,3107,1,1
+977,1,95414,Westbound - Palm Springs,,1,10186,3108,1,1
+977,1,95413,Westbound - Palm Springs,,1,10185,3108,1,1
+978,1,95687,Northbound - Desert Hot Springs,,0,10226,3112,1,1
+978,1,95686,Northbound - Desert Hot Springs,,0,10225,3112,1,1
+978,1,95685,Northbound - Desert Hot Springs,,0,10224,3112,1,1
+978,1,95684,Northbound - Desert Hot Springs,,0,10223,3112,1,1
+978,1,95683,Northbound - Desert Hot Springs,,0,10222,3112,1,1
+978,1,95682,Northbound - Desert Hot Springs,,0,10221,3112,1,1
+978,1,95681,Northbound - Desert Hot Springs,,0,10220,3112,1,1
+978,1,95680,Northbound - Desert Hot Springs,,0,10219,3112,1,1
+978,1,95679,Northbound - Desert Hot Springs,,0,10218,3112,1,1
+978,1,95678,Northbound - Desert Hot Springs,,0,10228,3112,1,1
+978,1,95677,Northbound - Desert Hot Springs,,0,10227,3112,1,1
+978,1,95676,Northbound - Desert Hot Springs,,0,10226,3112,1,1
+978,1,95675,Northbound - Desert Hot Springs,,0,10225,3112,1,1
+978,1,95674,Northbound - Desert Hot Springs,,0,10224,3112,1,1
+978,1,95673,Northbound - Desert Hot Springs,,0,10223,3112,1,1
+978,1,95672,Northbound - Desert Hot Springs,,0,10222,3112,1,1
+978,1,95671,Northbound - Desert Hot Springs,,0,10221,3112,1,1
+978,1,95670,Northbound - Desert Hot Springs,,0,10220,3112,1,1
+978,1,95669,Northbound - Desert Hot Springs,,0,10219,3112,1,1
+978,1,95668,Northbound - Desert Hot Springs,,0,10218,3112,1,1
+978,1,95667,Northbound - Desert Hot Springs,,0,10228,3112,1,1
+978,1,95666,Northbound - Desert Hot Springs,,0,10227,3112,1,1
+978,1,95665,Northbound - Desert Hot Springs,,0,10226,3112,1,1
+978,1,95664,Northbound - Desert Hot Springs,,0,10225,3112,1,1
+978,1,95663,Northbound - Desert Hot Springs,,0,10224,3112,1,1
+978,1,95662,Northbound - Desert Hot Springs,,0,10223,3112,1,1
+978,1,95661,Northbound - Desert Hot Springs,,0,10222,3112,1,1
+978,1,95660,Northbound - Desert Hot Springs,,0,10221,3112,1,1
+978,1,95659,Northbound - Desert Hot Springs,,0,10220,3112,1,1
+978,1,95658,Northbound - Desert Hot Springs,,0,10219,3112,1,1
+978,1,95657,Northbound - Desert Hot Springs,,0,10218,3112,1,1
+978,1,95656,Northbound - Desert Hot Springs,,0,10228,3112,1,1
+978,1,95655,Northbound - Desert Hot Springs,,0,10227,3112,1,1
+978,1,95654,Northbound - Desert Hot Springs,,0,10226,3112,1,1
+978,1,95653,Northbound - Desert Hot Springs,,0,10225,3112,1,1
+978,1,95652,Northbound - Desert Hot Springs,,0,10224,3112,1,1
+978,1,95651,Northbound - Desert Hot Springs,,0,10223,3112,1,1
+978,1,95650,Northbound - Desert Hot Springs,,0,10222,3112,1,1
+978,1,95649,Northbound - Desert Hot Springs,,0,10221,3112,1,1
+978,1,95648,Northbound - Desert Hot Springs,,0,10220,3112,1,1
+978,1,95647,Northbound - Desert Hot Springs,,0,10219,3112,1,1
+978,1,95646,Northbound - Desert Hot Springs,,0,10218,3112,1,1
+978,1,95645,Northbound - Desert Hot Springs,,0,10221,3110,1,1
+978,1,95644,Northbound - Desert Hot Springs,,0,10220,3112,1,1
+978,1,95643,Northbound - Desert Hot Springs,,0,10219,3112,1,1
+978,1,95642,Northbound - Desert Hot Springs,,0,10218,3110,1,1
+978,1,95732,Southbound - Palms Springs,,1,10221,3114,1,1
+978,1,95731,Southbound - Palms Springs,,1,10219,3114,1,1
+978,1,95730,Southbound - Palms Springs,,1,10218,3114,1,1
+978,1,95729,Southbound - Palms Springs,,1,10228,3114,1,1
+978,1,95728,Southbound - Palms Springs,,1,10227,3114,1,1
+978,301,95733,Southbound - Palms Springs,,1,10229,3113,1,1
+978,1,95727,Southbound - Palms Springs,,1,10226,3113,1,1
+978,1,95726,Southbound - Palms Springs,,1,10225,3113,1,1
+978,1,95725,Southbound - Palms Springs,,1,10224,3113,1,1
+978,1,95724,Southbound - Palms Springs,,1,10223,3113,1,1
+978,1,95723,Southbound - Palms Springs,,1,10222,3113,1,1
+978,1,95722,Southbound - Palms Springs,,1,10221,3113,1,1
+978,1,95721,Southbound - Palms Springs,,1,10220,3113,1,1
+978,1,95720,Southbound - Palms Springs,,1,10219,3113,1,1
+978,1,95719,Southbound - Palms Springs,,1,10218,3113,1,1
+978,1,95718,Southbound - Palms Springs,,1,10228,3113,1,1
+978,1,95717,Southbound - Palms Springs,,1,10227,3113,1,1
+978,1,95716,Southbound - Palms Springs,,1,10226,3113,1,1
+978,1,95715,Southbound - Palms Springs,,1,10225,3113,1,1
+978,1,95714,Southbound - Palms Springs,,1,10224,3113,1,1
+978,1,95713,Southbound - Palms Springs,,1,10223,3113,1,1
+978,1,95712,Southbound - Palms Springs,,1,10222,3113,1,1
+978,1,95711,Southbound - Palms Springs,,1,10221,3113,1,1
+978,1,95710,Southbound - Palms Springs,,1,10220,3113,1,1
+978,1,95709,Southbound - Palms Springs,,1,10219,3113,1,1
+978,1,95708,Southbound - Palms Springs,,1,10218,3113,1,1
+978,1,95707,Southbound - Palms Springs,,1,10228,3113,1,1
+978,1,95706,Southbound - Palms Springs,,1,10227,3113,1,1
+978,1,95705,Southbound - Palms Springs,,1,10226,3113,1,1
+978,1,95704,Southbound - Palms Springs,,1,10225,3113,1,1
+978,1,95703,Southbound - Palms Springs,,1,10224,3113,1,1
+978,1,95702,Southbound - Palms Springs,,1,10223,3113,1,1
+978,1,95701,Southbound - Palms Springs,,1,10222,3113,1,1
+978,1,95700,Southbound - Palms Springs,,1,10221,3113,1,1
+978,1,95699,Southbound - Palms Springs,,1,10220,3113,1,1
+978,1,95698,Southbound - Palms Springs,,1,10219,3113,1,1
+978,1,95697,Southbound - Palms Springs,,1,10218,3113,1,1
+978,1,95696,Southbound - Palms Springs,,1,10228,3113,1,1
+978,1,95695,Southbound - Palms Springs,,1,10227,3113,1,1
+978,1,95694,Southbound - Palms Springs,,1,10226,3113,1,1
+978,1,95693,Southbound - Palms Springs,,1,10225,3113,1,1
+978,1,95692,Southbound - Palms Springs,,1,10223,3113,1,1
+978,1,95691,Southbound - Palms Springs,,1,10221,3113,1,1
+978,1,95690,Southbound - Palms Springs,,1,10220,3113,1,1
+978,1,95689,Southbound - Palms Springs,,1,10219,3113,1,1
+978,1,95688,Southbound - Palms Springs,,1,10218,3113,1,1
+979,1,95837,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95845,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95835,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95843,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95838,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95842,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95841,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95840,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95839,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95830,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95831,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95832,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95833,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95834,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95844,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95836,Eastbound - Desert Edge,,0,10236,3115,1,1
+979,1,95846,Westbound - Desert Hot Springs,,1,10236,3116,1,1
+979,1,95862,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95861,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95860,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95859,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95858,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95857,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95856,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95855,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95854,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95853,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95852,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95851,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95850,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95849,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95848,Westbound - Desert Hot Springs,,1,10236,3118,1,1
+979,1,95847,Westbound - Desert Hot Springs,,1,10236,3117,1,1
+980,1,96780,Northbound - Desert Hot Springs,,0,10240,3120,1,1
+980,1,96781,Northbound - Desert Hot Springs,,0,10308,3120,1,1
+980,1,96782,Northbound - Desert Hot Springs,,0,10240,3120,1,1
+980,1,96783,Northbound - Desert Hot Springs,,0,10308,3119,1,1
+980,1,96784,Northbound - Desert Hot Springs,,0,10240,3120,1,1
+980,1,96785,Northbound - Desert Hot Springs,,0,10309,3120,1,1
+980,1,96786,Northbound - Desert Hot Springs,,0,10240,3120,1,1
+980,1,96787,Northbound - Desert Hot Springs,,0,10309,3120,1,1
+980,1,96788,Southbound - Palm Desert,,1,10240,3164,1,1
+980,1,96789,Southbound - Palm Desert,,1,10308,3163,1,1
+980,1,96790,Southbound - Palm Desert,,1,10240,3163,1,1
+980,1,96791,Southbound - Palm Desert,,1,10308,3163,1,1
+980,1,96792,Southbound - Palm Desert,,1,10240,3163,1,1
+980,1,96793,Southbound - Palm Desert,,1,10309,3164,1,1
+980,1,96794,Southbound - Palm Desert,,1,10240,3163,1,1
+980,1,96795,Southbound - Palm Desert,,1,10309,3163,1,1
+981,1,96796,Northbound - Gerald Ford & Cook,,0,10240,3123,1,1
+981,1,96797,Northbound - Gerald Ford & Cook,,0,10240,3123,1,1
+981,1,96798,Northbound - Gerald Ford & Cook,,0,10240,3123,1,1
+981,1,96799,Northbound - Gerald Ford & Cook,,0,10240,3123,1,1
+981,1,96800,Northbound - Gerald Ford & Cook,,0,10240,3123,1,1
+981,1,96801,Southbound - Palm Desert Mall,,1,10240,3125,1,1
+981,1,96802,Southbound - Palm Desert Mall,,1,10240,3125,1,1
+981,1,96803,Southbound - Palm Desert Mall,,1,10240,3125,1,1
+981,1,96804,Southbound - Palm Desert Mall,,1,10240,3125,1,1
+981,701,96806,Southbound - Palm Desert Mall,,1,10310,3162,1,1
+981,1,96805,Southbound - Palm Desert Mall,,1,10240,3125,1,1
+982,1,95944,Eastbound - Palm Desert,,0,10243,3126,1,1
+982,1,95945,Eastbound - Palm Desert,,0,10244,3127,1,1
+982,1,95946,Eastbound - Palm Desert,,0,10245,3126,1,1
+982,1,95947,Westbound - Riverside,,1,10243,3128,1,1
+982,1,95948,Westbound - Riverside,,1,10246,3128,1,1
+982,1,95949,Westbound - Riverside,,1,10244,3128,1,1
+983,1,95950,Eastbound - Cathedral City,,0,10247,3132,1,1
+983,301,95972,Eastbound - Palm Springs,,0,10252,3129,1,1
+983,1,95951,Eastbound - Cathedral City,,0,10248,3132,1,1
+983,1,95970,Eastbound - Cathedral City,,0,10249,3132,1,1
+983,1,95969,Eastbound - Cathedral City,,0,10247,3132,1,1
+983,1,95968,Eastbound - Cathedral City,,0,10248,3132,1,1
+983,1,95967,Eastbound - Cathedral City,,0,10249,3132,1,1
+983,1,95966,Eastbound - Cathedral City,,0,10247,3132,1,1
+983,1,95965,Eastbound - Cathedral City,,0,10248,3132,1,1
+983,1,95964,Eastbound - Cathedral City,,0,10249,3132,1,1
+983,1,95963,Eastbound - Cathedral City,,0,10247,3132,1,1
+983,1,95952,Eastbound - Cathedral City,,0,10248,3132,1,1
+983,1,95962,Eastbound - Cathedral City,,0,10249,3132,1,1
+983,1,95961,Eastbound - Cathedral City,,0,10251,3132,1,1
+983,701,95971,Eastbound - Palm Springs,,0,10247,3131,1,1
+983,1,95960,Eastbound - Cathedral City,,0,10250,3132,1,1
+983,1,95959,Eastbound - Cathedral City,,0,10249,3132,1,1
+983,1,95958,Eastbound - Cathedral City,,0,10251,3132,1,1
+983,1,95957,Eastbound - Cathedral City,,0,10250,3132,1,1
+983,1,95956,Eastbound - Cathedral City,,0,10249,3132,1,1
+983,1,95955,Eastbound - Cathedral City,,0,10251,3132,1,1
+983,1,95954,Eastbound - Cathedral City,,0,10250,3132,1,1
+983,1,95953,Eastbound - Cathedral City,,0,10249,3132,1,1
+983,1,95973,Westbound - Palm Cyn & Stevens,,1,10248,3135,1,1
+983,1,95974,Westbound - Palm Cyn & Stevens,,1,10249,3135,1,1
+983,1,95975,Westbound - Palm Cyn & Stevens,,1,10247,3135,1,1
+983,1,95976,Westbound - Palm Cyn & Stevens,,1,10248,3135,1,1
+983,1,95977,Westbound - Palm Cyn & Stevens,,1,10249,3135,1,1
+983,1,95978,Westbound - Palm Cyn & Stevens,,1,10247,3135,1,1
+983,1,95979,Westbound - Palm Cyn & Stevens,,1,10248,3135,1,1
+983,1,95980,Westbound - Palm Cyn & Stevens,,1,10249,3135,1,1
+983,1,95981,Westbound - Palm Cyn & Stevens,,1,10247,3135,1,1
+983,1,95982,Westbound - Palm Cyn & Stevens,,1,10248,3135,1,1
+983,1,95993,Westbound - Palm Cyn & Stevens,,1,10249,3135,1,1
+983,1,95983,Westbound - Palm Cyn & Stevens,,1,10247,3135,1,1
+983,701,95995,Westbound - Palm Cyn & Stevens,,1,10250,3133,1,1
+983,1,95984,Westbound - Palm Cyn & Stevens,,1,10248,3135,1,1
+983,701,95994,Westbound - Palm Cyn & Stevens,,1,10247,3134,1,1
+983,1,95985,Westbound - Palm Cyn & Stevens,,1,10249,3135,1,1
+983,1,95986,Westbound - Palm Cyn & Stevens,,1,10251,3135,1,1
+983,1,95987,Westbound - Palm Cyn & Stevens,,1,10250,3135,1,1
+983,1,95988,Westbound - Palm Cyn & Stevens,,1,10249,3135,1,1
+983,1,95989,Westbound - Palm Cyn & Stevens,,1,10251,3135,1,1
+983,1,95990,Westbound - Palm Cyn & Stevens,,1,10250,3135,1,1
+983,1,95991,Westbound - Palm Cyn & Stevens,,1,10249,3135,1,1
+983,1,95992,Westbound - Palm Cyn & Stevens,,1,10251,3135,1,1
+984,1,96092,Eastbound - Cathedral City,,0,10221,3137,1,1
+984,1,96091,Eastbound - Cathedral City,,0,10220,3137,1,1
+984,1,96090,Eastbound - Cathedral City,,0,10219,3137,1,1
+984,1,96089,Eastbound - Cathedral City,,0,10218,3137,1,1
+984,1,96088,Eastbound - Cathedral City,,0,10228,3137,1,1
+984,1,96087,Eastbound - Cathedral City,,0,10227,3137,1,1
+984,1,96086,Eastbound - Cathedral City,,0,10226,3137,1,1
+984,1,96085,Eastbound - Cathedral City,,0,10225,3137,1,1
+984,1,96084,Eastbound - Cathedral City,,0,10224,3137,1,1
+984,1,96083,Eastbound - Cathedral City,,0,10223,3137,1,1
+984,1,96082,Eastbound - Cathedral City,,0,10222,3137,1,1
+984,1,96081,Eastbound - Cathedral City,,0,10221,3137,1,1
+984,1,96080,Eastbound - Cathedral City,,0,10220,3137,1,1
+984,1,96079,Eastbound - Cathedral City,,0,10219,3137,1,1
+984,1,96078,Eastbound - Cathedral City,,0,10218,3137,1,1
+984,1,96077,Eastbound - Cathedral City,,0,10228,3137,1,1
+984,1,96076,Eastbound - Cathedral City,,0,10227,3137,1,1
+984,1,96075,Eastbound - Cathedral City,,0,10226,3137,1,1
+984,1,96074,Eastbound - Cathedral City,,0,10225,3137,1,1
+984,1,96073,Eastbound - Cathedral City,,0,10224,3137,1,1
+984,1,96072,Eastbound - Cathedral City,,0,10223,3137,1,1
+984,1,96071,Eastbound - Cathedral City,,0,10222,3137,1,1
+984,1,96070,Eastbound - Cathedral City,,0,10221,3137,1,1
+984,1,96069,Eastbound - Cathedral City,,0,10220,3137,1,1
+984,1,96068,Eastbound - Cathedral City,,0,10219,3137,1,1
+984,1,96067,Eastbound - Cathedral City,,0,10218,3137,1,1
+984,1,96066,Eastbound - Cathedral City,,0,10228,3137,1,1
+984,1,96065,Eastbound - Cathedral City,,0,10227,3137,1,1
+984,1,96064,Eastbound - Cathedral City,,0,10226,3137,1,1
+984,1,96063,Eastbound - Cathedral City,,0,10225,3137,1,1
+984,1,96062,Eastbound - Cathedral City,,0,10224,3137,1,1
+984,1,96061,Eastbound - Cathedral City,,0,10223,3137,1,1
+984,1,96060,Eastbound - Cathedral City,,0,10222,3137,1,1
+984,1,96059,Eastbound - Cathedral City,,0,10221,3137,1,1
+984,1,96058,Eastbound - Cathedral City,,0,10220,3137,1,1
+984,1,96057,Eastbound - Cathedral City,,0,10219,3137,1,1
+984,1,96056,Eastbound - Cathedral City,,0,10218,3137,1,1
+984,1,96055,Eastbound - Cathedral City,,0,10228,3137,1,1
+984,1,96054,Eastbound - Cathedral City,,0,10227,3137,1,1
+984,1,96053,Eastbound - Cathedral City,,0,10226,3137,1,1
+984,1,96052,Eastbound - Cathedral City,,0,10225,3137,1,1
+984,1,96051,Eastbound - Cathedral City,,0,10228,3137,1,1
+984,1,96050,Eastbound - Cathedral City,,0,10227,3137,1,1
+984,1,96049,Eastbound - Cathedral City,,0,10226,3137,1,1
+984,1,96048,Eastbound - Cathedral City,,0,10225,3137,1,1
+984,1,96137,Westbound - Palm Springs,,1,10224,3138,1,1
+984,1,96136,Westbound - Palm Springs,,1,10223,3138,1,1
+984,1,96135,Westbound - Palm Springs,,1,10222,3138,1,1
+984,1,96134,Westbound - Palm Springs,,1,10221,3138,1,1
+984,1,96133,Westbound - Palm Springs,,1,10220,3138,1,1
+984,1,96132,Westbound - Palm Springs,,1,10219,3138,1,1
+984,1,96131,Westbound - Palm Springs,,1,10218,3138,1,1
+984,1,96130,Westbound - Palm Springs,,1,10228,3138,1,1
+984,1,96129,Westbound - Palm Springs,,1,10227,3138,1,1
+984,1,96128,Westbound - Palm Springs,,1,10226,3138,1,1
+984,1,96127,Westbound - Palm Springs,,1,10225,3138,1,1
+984,1,96126,Westbound - Palm Springs,,1,10224,3138,1,1
+984,1,96125,Westbound - Palm Springs,,1,10223,3138,1,1
+984,1,96124,Westbound - Palm Springs,,1,10222,3138,1,1
+984,1,96123,Westbound - Palm Springs,,1,10221,3138,1,1
+984,1,96122,Westbound - Palm Springs,,1,10220,3138,1,1
+984,1,96121,Westbound - Palm Springs,,1,10219,3138,1,1
+984,1,96120,Westbound - Palm Springs,,1,10218,3138,1,1
+984,1,96119,Westbound - Palm Springs,,1,10228,3138,1,1
+984,1,96118,Westbound - Palm Springs,,1,10227,3138,1,1
+984,1,96117,Westbound - Palm Springs,,1,10226,3138,1,1
+984,1,96116,Westbound - Palm Springs,,1,10225,3138,1,1
+984,1,96115,Westbound - Palm Springs,,1,10224,3138,1,1
+984,1,96114,Westbound - Palm Springs,,1,10223,3138,1,1
+984,1,96113,Westbound - Palm Springs,,1,10222,3138,1,1
+984,1,96112,Westbound - Palm Springs,,1,10221,3138,1,1
+984,1,96111,Westbound - Palm Springs,,1,10220,3138,1,1
+984,1,96110,Westbound - Palm Springs,,1,10219,3138,1,1
+984,1,96109,Westbound - Palm Springs,,1,10218,3138,1,1
+984,1,96108,Westbound - Palm Springs,,1,10228,3138,1,1
+984,1,96107,Westbound - Palm Springs,,1,10227,3138,1,1
+984,1,96106,Westbound - Palm Springs,,1,10226,3138,1,1
+984,1,96105,Westbound - Palm Springs,,1,10225,3138,1,1
+984,1,96104,Westbound - Palm Springs,,1,10224,3138,1,1
+984,1,96103,Westbound - Palm Springs,,1,10223,3138,1,1
+984,1,96102,Westbound - Palm Springs,,1,10222,3138,1,1
+984,1,96101,Westbound - Palm Springs,,1,10221,3138,1,1
+984,1,96100,Westbound - Palm Springs,,1,10220,3138,1,1
+984,1,96099,Westbound - Palm Springs,,1,10219,3138,1,1
+984,1,96098,Westbound - Palm Springs,,1,10218,3138,1,1
+984,1,96097,Westbound - Palm Springs,,1,10228,3138,1,1
+984,1,96096,Westbound - Palm Springs,,1,10227,3138,1,1
+984,1,96095,Westbound - Palm Springs,,1,10226,3138,1,1
+984,1,96094,Westbound - Palm Springs,,1,10225,3138,1,1
+984,1,96093,Westbound - Palm Springs,,1,10228,3138,1,1
+985,1,96248,Eastbound - Palm Desert,,0,10269,3139,1,1
+985,1,96247,Eastbound - Palm Desert,,0,10270,3139,1,1
+985,1,96246,Eastbound - Palm Desert,,0,10271,3139,1,1
+985,1,96245,Eastbound - Palm Desert,,0,10269,3139,1,1
+985,1,96244,Eastbound - Palm Desert,,0,10270,3139,1,1
+985,1,96243,Eastbound - Palm Desert,,0,10271,3139,1,1
+985,1,96242,Eastbound - Palm Desert,,0,10269,3139,1,1
+985,1,96241,Eastbound - Palm Desert,,0,10270,3139,1,1
+985,1,96240,Eastbound - Palm Desert,,0,10271,3139,1,1
+985,1,96239,Eastbound - Palm Desert,,0,10269,3139,1,1
+985,1,96238,Eastbound - Palm Desert,,0,10270,3139,1,1
+985,1,96237,Eastbound - Palm Desert,,0,10267,3139,1,1
+985,1,96236,Eastbound - Palm Desert,,0,10269,3139,1,1
+985,1,96235,Eastbound - Palm Desert,,0,10268,3139,1,1
+985,1,96234,Eastbound - Palm Desert,,0,10267,3139,1,1
+985,1,96233,Eastbound - Palm Desert,,0,10269,3139,1,1
+985,1,96232,Eastbound - Palm Desert,,0,10268,3139,1,1
+985,1,96231,Eastbound - Palm Desert,,0,10267,3139,1,1
+985,1,96230,Eastbound - Palm Desert,,0,10269,3139,1,1
+985,1,96229,Eastbound - Palm Desert,,0,10268,3139,1,1
+985,1,96228,Eastbound - Palm Desert,,0,10267,3139,1,1
+985,1,96269,Westbound - Palm Springs,,1,10270,3141,1,1
+985,1,96268,Westbound - Palm Springs,,1,10271,3140,1,1
+985,1,96267,Westbound - Palm Springs,,1,10269,3140,1,1
+985,1,96266,Westbound - Palm Springs,,1,10270,3140,1,1
+985,1,96265,Westbound - Palm Springs,,1,10271,3140,1,1
+985,1,96264,Westbound - Palm Springs,,1,10269,3140,1,1
+985,1,96263,Westbound - Palm Springs,,1,10270,3140,1,1
+985,1,96262,Westbound - Palm Springs,,1,10271,3140,1,1
+985,1,96261,Westbound - Palm Springs,,1,10269,3140,1,1
+985,1,96260,Westbound - Palm Springs,,1,10270,3140,1,1
+985,1,96259,Westbound - Palm Springs,,1,10267,3140,1,1
+985,1,96258,Westbound - Palm Springs,,1,10269,3140,1,1
+985,1,96257,Westbound - Palm Springs,,1,10268,3140,1,1
+985,1,96256,Westbound - Palm Springs,,1,10267,3140,1,1
+985,1,96255,Westbound - Palm Springs,,1,10269,3140,1,1
+985,1,96254,Westbound - Palm Springs,,1,10268,3140,1,1
+985,1,96253,Westbound - Palm Springs,,1,10267,3140,1,1
+985,1,96252,Westbound - Palm Springs,,1,10269,3140,1,1
+985,1,96251,Westbound - Palm Springs,,1,10268,3140,1,1
+985,1,96250,Westbound - Palm Springs,,1,10267,3140,1,1
+985,1,96249,Westbound - Palm Springs,,1,10269,3140,1,1
+986,1,96347,Eastbound - Indio,,0,10273,3142,1,1
+986,1,96346,Eastbound - Indio,,0,10272,3142,1,1
+986,1,96345,Eastbound - Indio,,0,10273,3142,1,1
+986,1,96344,Eastbound - Indio,,0,10272,3142,1,1
+986,1,96343,Eastbound - Indio,,0,10273,3142,1,1
+986,1,96342,Eastbound - Indio,,0,10272,3142,1,1
+986,1,96341,Eastbound - Indio,,0,10273,3142,1,1
+986,1,96340,Eastbound - Indio,,0,10272,3142,1,1
+986,1,96339,Eastbound - Indio,,0,10273,3142,1,1
+986,1,96338,Eastbound - Indio,,0,10272,3142,1,1
+986,1,96337,Eastbound - Indio,,0,10273,3142,1,1
+986,1,96336,Eastbound - Indio,,0,10272,3142,1,1
+986,1,96335,Eastbound - Indio,,0,10273,3142,1,1
+986,1,96334,Eastbound - Indio,,0,10272,3142,1,1
+986,1,96333,Eastbound - Indio,,0,10273,3142,1,1
+986,1,96332,Eastbound - Indio,,0,10272,3142,1,1
+986,1,96331,Eastbound - Indio,,0,10273,3142,1,1
+986,1,96330,Eastbound - Indio,,0,10272,3142,1,1
+986,1,96365,Westbound - Palm Desert,,1,10273,3143,1,1
+986,1,96364,Westbound - Palm Desert,,1,10272,3143,1,1
+986,1,96363,Westbound - Palm Desert,,1,10273,3143,1,1
+986,1,96362,Westbound - Palm Desert,,1,10272,3143,1,1
+986,1,96361,Westbound - Palm Desert,,1,10273,3143,1,1
+986,1,96360,Westbound - Palm Desert,,1,10272,3143,1,1
+986,1,96359,Westbound - Palm Desert,,1,10273,3143,1,1
+986,1,96358,Westbound - Palm Desert,,1,10272,3143,1,1
+986,1,96357,Westbound - Palm Desert,,1,10273,3143,1,1
+986,1,96356,Westbound - Palm Desert,,1,10272,3143,1,1
+986,1,96355,Westbound - Palm Desert,,1,10273,3143,1,1
+986,1,96354,Westbound - Palm Desert,,1,10272,3143,1,1
+986,1,96353,Westbound - Palm Desert,,1,10273,3143,1,1
+986,1,96352,Westbound - Palm Desert,,1,10272,3143,1,1
+986,1,96351,Westbound - Palm Desert,,1,10273,3143,1,1
+986,1,96350,Westbound - Palm Desert,,1,10272,3143,1,1
+986,1,96349,Westbound - Palm Desert,,1,10273,3143,1,1
+986,1,96348,Westbound - Palm Desert,,1,10272,3143,1,1
+987,1,96368,Northbound - Bermuda Dunes,,0,10274,3144,1,1
+987,301,96366,Northbound - Bermuda Dunes,,0,10246,3144,1,1
+987,1,96369,Northbound - Bermuda Dunes,,0,10275,3144,1,1
+987,1,96370,Northbound - Bermuda Dunes,,0,10274,3144,1,1
+987,1,96371,Northbound - Bermuda Dunes,,0,10275,3144,1,1
+987,1,96372,Northbound - Bermuda Dunes,,0,10274,3144,1,1
+987,1,96373,Northbound - Bermuda Dunes,,0,10275,3144,1,1
+987,1,96374,Northbound - Bermuda Dunes,,0,10274,3144,1,1
+987,1,96375,Northbound - Bermuda Dunes,,0,10275,3144,1,1
+987,1,96376,Northbound - Bermuda Dunes,,0,10274,3144,1,1
+987,1,96377,Northbound - Bermuda Dunes,,0,10275,3144,1,1
+987,1,96378,Northbound - Bermuda Dunes,,0,10274,3144,1,1
+987,1,96379,Northbound - Bermuda Dunes,,0,10275,3144,1,1
+987,1,96380,Northbound - Bermuda Dunes,,0,10274,3144,1,1
+987,701,96367,Northbound - Bermuda Dunes,,0,10270,3144,1,1
+987,1,96381,Northbound - Bermuda Dunes,,0,10275,3144,1,1
+987,1,96382,Northbound - Bermuda Dunes,,0,10274,3144,1,1
+987,1,96383,Northbound - Bermuda Dunes,,0,10275,3144,1,1
+987,1,96384,Northbound - Bermuda Dunes,,0,10274,3144,1,1
+987,1,96385,Northbound - Bermuda Dunes,,0,10275,3144,1,1
+987,1,96386,Northbound - Bermuda Dunes,,0,10274,3144,1,1
+987,1,96387,Northbound - Bermuda Dunes,,0,10275,3144,1,1
+987,1,96390,Southbound - La Quinta,,1,10274,3145,1,1
+987,301,96389,Southbound - La Quinta,,1,10246,3147,1,1
+987,1,96391,Southbound - La Quinta,,1,10275,3145,1,1
+987,1,96392,Southbound - La Quinta,,1,10274,3145,1,1
+987,1,96393,Southbound - La Quinta,,1,10275,3145,1,1
+987,1,96394,Southbound - La Quinta,,1,10274,3145,1,1
+987,1,96395,Southbound - La Quinta,,1,10275,3145,1,1
+987,1,96396,Southbound - La Quinta,,1,10274,3145,1,1
+987,1,96397,Southbound - La Quinta,,1,10275,3145,1,1
+987,1,96398,Southbound - La Quinta,,1,10274,3145,1,1
+987,1,96399,Southbound - La Quinta,,1,10275,3145,1,1
+987,1,96400,Southbound - La Quinta,,1,10274,3145,1,1
+987,1,96401,Southbound - La Quinta,,1,10275,3145,1,1
+987,1,96402,Southbound - La Quinta,,1,10274,3145,1,1
+987,701,96388,Southbound - La Quinta,,1,10270,3146,1,1
+987,1,96403,Southbound - La Quinta,,1,10275,3145,1,1
+987,1,96404,Southbound - La Quinta,,1,10274,3145,1,1
+987,1,96405,Southbound - La Quinta,,1,10275,3145,1,1
+987,1,96406,Southbound - La Quinta,,1,10274,3145,1,1
+987,1,96407,Southbound - La Quinta,,1,10275,3145,1,1
+987,1,96408,Southbound - La Quinta,,1,10274,3145,1,1
+987,1,96409,Southbound - La Quinta,,1,10275,3145,1,1
+988,1,96469,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96468,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96467,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96466,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96465,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96464,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96463,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96462,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96461,Southbound - Indio Loop,,1,10279,3149,1,1
+988,701,96470,Southbound - Indio Loop,,1,10280,3148,1,1
+988,1,96460,Southbound - Indio Loop,,1,10279,3149,1,1
+988,701,96471,Southbound - Indio Loop,,1,10281,3148,1,1
+988,701,96454,Southbound - Indio Loop,,1,10278,3148,1,1
+988,1,96459,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96458,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96457,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96456,Southbound - Indio Loop,,1,10279,3149,1,1
+988,1,96455,Southbound - Indio Loop,,1,10279,3149,1,1
+989,1,96519,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96518,Northbound - Indio Loop,,0,10285,3151,1,1
+989,301,96515,Northbound - Shadow Hills,,0,10286,3150,1,1
+989,301,96516,Northbound - Shadow Hills,,0,10287,3150,1,1
+989,301,96502,Northbound - Shadow Hills,,0,10284,3150,1,1
+989,1,96517,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96503,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96504,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96505,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96506,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96507,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96508,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96509,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96510,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96511,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96512,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96513,Northbound - Indio Loop,,0,10285,3151,1,1
+989,1,96514,Northbound - Indio Loop,,0,10285,3151,1,1
+990,1,96566,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96565,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96564,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96563,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96562,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96561,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96560,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96559,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96558,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96557,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96556,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96555,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96554,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96553,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96552,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96551,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96550,Southbound - Coachella,,0,10290,3152,1,1
+990,1,96583,Northbound - Indio,,1,10290,3153,1,1
+990,1,96582,Northbound - Indio,,1,10290,3153,1,1
+990,1,96581,Northbound - Indio,,1,10290,3153,1,1
+990,1,96580,Northbound - Indio,,1,10290,3153,1,1
+990,1,96579,Northbound - Indio,,1,10290,3153,1,1
+990,1,96578,Northbound - Indio,,1,10290,3153,1,1
+990,1,96577,Northbound - Indio,,1,10290,3153,1,1
+990,1,96576,Northbound - Indio,,1,10290,3153,1,1
+990,1,96575,Northbound - Indio,,1,10290,3153,1,1
+990,1,96574,Northbound - Indio,,1,10290,3153,1,1
+990,1,96573,Northbound - Indio,,1,10290,3153,1,1
+990,1,96572,Northbound - Indio,,1,10290,3153,1,1
+990,1,96571,Northbound - Indio,,1,10290,3153,1,1
+990,1,96570,Northbound - Indio,,1,10290,3153,1,1
+990,1,96569,Northbound - Indio,,1,10290,3153,1,1
+990,1,96568,Northbound - Indio,,1,10290,3153,1,1
+990,1,96567,Northbound - Indio,,1,10290,3153,1,1
+991,1,96664,Eastbound - Mecca & Oasis,,0,10294,3154,1,1
+991,1,96663,Eastbound - Mecca & Oasis,,0,10293,3154,1,1
+991,1,96662,Eastbound - Mecca & Oasis,,0,10295,3155,1,1
+991,1,96661,Eastbound - Mecca & Oasis,,0,10294,3155,1,1
+991,1,96660,Eastbound - Mecca & Oasis,,0,10293,3155,1,1
+991,1,96659,Eastbound - Mecca & Oasis,,0,10295,3155,1,1
+991,1,96658,Eastbound - Mecca & Oasis,,0,10294,3155,1,1
+991,1,96657,Eastbound - Mecca & Oasis,,0,10293,3155,1,1
+991,1,96656,Eastbound - Mecca & Oasis,,0,10295,3155,1,1
+991,1,96655,Eastbound - Mecca & Oasis,,0,10294,3155,1,1
+991,1,96654,Eastbound - Mecca & Oasis,,0,10293,3155,1,1
+991,1,96653,Eastbound - Mecca & Oasis,,0,10295,3155,1,1
+991,1,96652,Eastbound - Mecca & Oasis,,0,10294,3155,1,1
+991,1,96651,Eastbound - Mecca & Oasis,,0,10293,3155,1,1
+991,1,96650,Eastbound - Mecca & Oasis,,0,10295,3155,1,1
+991,1,96649,Eastbound - Mecca & Oasis,,0,10294,3154,1,1
+991,1,96648,Eastbound - Mecca & Oasis,,0,10293,3154,1,1
+991,1,96681,Westbound - Indio,,1,10295,3157,1,1
+991,1,96680,Westbound - Indio,,1,10294,3157,1,1
+991,1,96679,Westbound - Indio,,1,10293,3156,1,1
+991,1,96678,Westbound - Indio,,1,10295,3156,1,1
+991,1,96677,Westbound - Indio,,1,10294,3156,1,1
+991,1,96676,Westbound - Indio,,1,10293,3156,1,1
+991,1,96675,Westbound - Indio,,1,10295,3156,1,1
+991,1,96674,Westbound - Indio,,1,10294,3156,1,1
+991,1,96673,Westbound - Indio,,1,10293,3156,1,1
+991,1,96672,Westbound - Indio,,1,10295,3156,1,1
+991,1,96671,Westbound - Indio,,1,10294,3156,1,1
+991,1,96670,Westbound - Indio,,1,10293,3156,1,1
+991,1,96669,Westbound - Indio,,1,10295,3156,1,1
+991,1,96668,Westbound - Indio,,1,10294,3156,1,1
+991,1,96667,Westbound - Indio,,1,10293,3156,1,1
+991,1,96666,Westbound - Indio,,1,10295,3157,1,1
+991,1,96665,Westbound - Indio,,1,10294,3157,1,1
+992,1,96744,Eastbound - North Shore,,0,10302,3159,1,1
+992,1,96749,Eastbound - North Shore,,0,10302,3159,1,1
+992,1,96748,Eastbound - North Shore,,0,10302,3159,1,1
+992,1,96747,Eastbound - North Shore,,0,10303,3159,1,1
+992,1,96746,Eastbound - North Shore,,0,10303,3159,1,1
+992,1,96745,Eastbound - North Shore,,0,10303,3159,1,1
+992,1,96755,Westbound - Coachella,,1,10302,3160,1,1
+992,1,96754,Westbound - Coachella,,1,10302,3161,1,1
+992,1,96753,Westbound - Coachella,,1,10302,3161,1,1
+992,1,96752,Westbound - Coachella,,1,10303,3161,1,1
+992,1,96751,Westbound - Coachella,,1,10303,3161,1,1
+992,1,96750,Westbound - Coachella,,1,10303,3160,1,1
+977,2,95503,Eastbound - Coachella,,0,10194,3106,1,1
+977,2,95502,Eastbound - Coachella,,0,10202,3106,1,1
+977,2,95501,Eastbound - Coachella,,0,10201,3106,1,1
+977,2,95500,Eastbound - Coachella,,0,10200,3106,1,1
+977,2,95499,Eastbound - Coachella,,0,10199,3106,1,1
+977,2,95498,Eastbound - Coachella,,0,10198,3106,1,1
+977,2,95497,Eastbound - Coachella,,0,10205,3106,1,1
+977,2,95496,Eastbound - Coachella,,0,10196,3106,1,1
+977,2,95495,Eastbound - Coachella,,0,10197,3106,1,1
+977,2,95494,Eastbound - Coachella,,0,10195,3106,1,1
+977,2,95493,Eastbound - Coachella,,0,10204,3106,1,1
+977,2,95492,Eastbound - Coachella,,0,10194,3106,1,1
+977,2,95491,Eastbound - Coachella,,0,10203,3106,1,1
+977,2,95490,Eastbound - Coachella,,0,10202,3106,1,1
+977,2,95489,Eastbound - Coachella,,0,10201,3106,1,1
+977,2,95488,Eastbound - Coachella,,0,10200,3106,1,1
+977,2,95487,Eastbound - Coachella,,0,10199,3106,1,1
+977,2,95486,Eastbound - Coachella,,0,10198,3106,1,1
+977,2,95485,Eastbound - Coachella,,0,10205,3106,1,1
+977,2,95484,Eastbound - Coachella,,0,10196,3106,1,1
+977,2,95483,Eastbound - Coachella,,0,10197,3106,1,1
+977,2,95482,Eastbound - Coachella,,0,10195,3106,1,1
+977,2,95481,Eastbound - Coachella,,0,10204,3106,1,1
+977,2,95480,Eastbound - Coachella,,0,10194,3106,1,1
+977,2,95479,Eastbound - Coachella,,0,10203,3106,1,1
+977,2,95478,Eastbound - Coachella,,0,10202,3106,1,1
+977,2,95477,Eastbound - Coachella,,0,10201,3106,1,1
+977,2,95476,Eastbound - Coachella,,0,10200,3106,1,1
+977,2,95475,Eastbound - Coachella,,0,10199,3106,1,1
+977,2,95474,Eastbound - Coachella,,0,10198,3106,1,1
+977,2,95473,Eastbound - Coachella,,0,10205,3106,1,1
+977,2,95472,Eastbound - Coachella,,0,10196,3106,1,1
+977,2,95471,Eastbound - Coachella,,0,10197,3106,1,1
+977,2,95470,Eastbound - Coachella,,0,10195,3106,1,1
+977,2,95469,Eastbound - Coachella,,0,10204,3106,1,1
+977,2,95468,Eastbound - Coachella,,0,10194,3106,1,1
+977,2,95467,Eastbound - Coachella,,0,10203,3106,1,1
+977,2,95466,Eastbound - Coachella,,0,10202,3106,1,1
+977,2,95465,Eastbound - Coachella,,0,10201,3106,1,1
+977,2,95464,Eastbound - Coachella,,0,10200,3106,1,1
+977,2,95463,Eastbound - Coachella,,0,10199,3106,1,1
+977,2,95462,Eastbound - Coachella,,0,10198,3106,1,1
+977,2,95460,Eastbound - Coachella,,0,10196,3106,1,1
+977,2,95461,Eastbound - Coachella,,0,10197,3106,1,1
+977,2,95459,Eastbound - Coachella,,0,10195,3106,1,1
+977,2,95458,Eastbound - Coachella,,0,10194,3106,1,1
+977,2,95549,Westbound - Palm Springs,,1,10198,3107,1,1
+977,2,95548,Westbound - Palm Springs,,1,10196,3107,1,1
+977,2,95547,Westbound - Palm Springs,,1,10197,3107,1,1
+977,2,95546,Westbound - Palm Springs,,1,10195,3107,1,1
+977,2,95545,Westbound - Palm Springs,,1,10204,3107,1,1
+977,2,95544,Westbound - Palm Springs,,1,10194,3107,1,1
+977,2,95543,Westbound - Palm Springs,,1,10203,3107,1,1
+977,2,95542,Westbound - Palm Springs,,1,10202,3107,1,1
+977,2,95541,Westbound - Palm Springs,,1,10201,3107,1,1
+977,2,95540,Westbound - Palm Springs,,1,10200,3107,1,1
+977,2,95539,Westbound - Palm Springs,,1,10199,3107,1,1
+977,2,95538,Westbound - Palm Springs,,1,10198,3107,1,1
+977,2,95537,Westbound - Palm Springs,,1,10205,3107,1,1
+977,2,95536,Westbound - Palm Springs,,1,10196,3107,1,1
+977,2,95535,Westbound - Palm Springs,,1,10197,3107,1,1
+977,2,95534,Westbound - Palm Springs,,1,10195,3107,1,1
+977,2,95533,Westbound - Palm Springs,,1,10204,3107,1,1
+977,2,95532,Westbound - Palm Springs,,1,10194,3107,1,1
+977,2,95531,Westbound - Palm Springs,,1,10203,3107,1,1
+977,2,95530,Westbound - Palm Springs,,1,10202,3107,1,1
+977,2,95529,Westbound - Palm Springs,,1,10201,3107,1,1
+977,2,95528,Westbound - Palm Springs,,1,10200,3107,1,1
+977,2,95527,Westbound - Palm Springs,,1,10199,3107,1,1
+977,2,95526,Westbound - Palm Springs,,1,10198,3107,1,1
+977,2,95525,Westbound - Palm Springs,,1,10205,3107,1,1
+977,2,95524,Westbound - Palm Springs,,1,10196,3107,1,1
+977,2,95523,Westbound - Palm Springs,,1,10197,3107,1,1
+977,2,95522,Westbound - Palm Springs,,1,10195,3107,1,1
+977,2,95521,Westbound - Palm Springs,,1,10204,3107,1,1
+977,2,95520,Westbound - Palm Springs,,1,10194,3107,1,1
+977,2,95519,Westbound - Palm Springs,,1,10203,3107,1,1
+977,2,95518,Westbound - Palm Springs,,1,10202,3107,1,1
+977,2,95517,Westbound - Palm Springs,,1,10201,3107,1,1
+977,2,95516,Westbound - Palm Springs,,1,10200,3107,1,1
+977,2,95515,Westbound - Palm Springs,,1,10199,3107,1,1
+977,2,95514,Westbound - Palm Springs,,1,10198,3107,1,1
+977,2,95513,Westbound - Palm Springs,,1,10205,3107,1,1
+977,2,95512,Westbound - Palm Springs,,1,10196,3107,1,1
+977,2,95511,Westbound - Palm Springs,,1,10197,3107,1,1
+977,2,95510,Westbound - Palm Springs,,1,10195,3107,1,1
+977,2,95509,Westbound - Palm Springs,,1,10204,3107,1,1
+977,2,95508,Westbound - Palm Springs,,1,10194,3107,1,1
+977,2,95507,Westbound - Palm Springs,,1,10203,3107,1,1
+977,2,95506,Westbound - Palm Springs,,1,10202,3108,1,1
+977,2,95505,Westbound - Palm Springs,,1,10200,3108,1,1
+977,2,95504,Westbound - Palm Springs,,1,10199,3108,1,1
+978,2,95734,Northbound - Desert Hot Springs,,0,10230,3112,1,1
+978,2,95735,Northbound - Desert Hot Springs,,0,10231,3112,1,1
+978,2,95736,Northbound - Desert Hot Springs,,0,10232,3112,1,1
+978,2,95737,Northbound - Desert Hot Springs,,0,10230,3112,1,1
+978,2,95738,Northbound - Desert Hot Springs,,0,10231,3112,1,1
+978,2,95739,Northbound - Desert Hot Springs,,0,10232,3112,1,1
+978,2,95740,Northbound - Desert Hot Springs,,0,10230,3112,1,1
+978,2,95741,Northbound - Desert Hot Springs,,0,10231,3112,1,1
+978,2,95742,Northbound - Desert Hot Springs,,0,10232,3112,1,1
+978,2,95743,Northbound - Desert Hot Springs,,0,10230,3112,1,1
+978,2,95744,Northbound - Desert Hot Springs,,0,10231,3112,1,1
+978,2,95745,Northbound - Desert Hot Springs,,0,10232,3112,1,1
+978,2,95746,Northbound - Desert Hot Springs,,0,10230,3112,1,1
+978,2,95747,Northbound - Desert Hot Springs,,0,10231,3112,1,1
+978,2,95748,Northbound - Desert Hot Springs,,0,10232,3112,1,1
+978,2,95749,Northbound - Desert Hot Springs,,0,10230,3112,1,1
+978,2,95750,Northbound - Desert Hot Springs,,0,10231,3112,1,1
+978,2,95751,Northbound - Desert Hot Springs,,0,10232,3112,1,1
+978,2,95752,Northbound - Desert Hot Springs,,0,10230,3112,1,1
+978,2,95753,Northbound - Desert Hot Springs,,0,10231,3112,1,1
+978,2,95754,Northbound - Desert Hot Springs,,0,10232,3112,1,1
+978,2,95755,Northbound - Desert Hot Springs,,0,10230,3112,1,1
+978,2,95756,Northbound - Desert Hot Springs,,0,10231,3112,1,1
+978,2,95757,Northbound - Desert Hot Springs,,0,10232,3110,1,1
+978,2,95781,Southbound - Palms Springs,,1,10231,3114,1,1
+978,2,95780,Southbound - Palms Springs,,1,10232,3114,1,1
+978,2,95779,Southbound - Palms Springs,,1,10230,3113,1,1
+978,2,95778,Southbound - Palms Springs,,1,10231,3113,1,1
+978,2,95777,Southbound - Palms Springs,,1,10232,3113,1,1
+978,2,95776,Southbound - Palms Springs,,1,10230,3113,1,1
+978,2,95775,Southbound - Palms Springs,,1,10231,3113,1,1
+978,2,95774,Southbound - Palms Springs,,1,10232,3113,1,1
+978,2,95773,Southbound - Palms Springs,,1,10230,3113,1,1
+978,2,95772,Southbound - Palms Springs,,1,10231,3113,1,1
+978,2,95771,Southbound - Palms Springs,,1,10232,3113,1,1
+978,2,95770,Southbound - Palms Springs,,1,10230,3113,1,1
+978,2,95769,Southbound - Palms Springs,,1,10231,3113,1,1
+978,2,95768,Southbound - Palms Springs,,1,10232,3113,1,1
+978,2,95767,Southbound - Palms Springs,,1,10230,3113,1,1
+978,2,95766,Southbound - Palms Springs,,1,10231,3113,1,1
+978,2,95765,Southbound - Palms Springs,,1,10232,3113,1,1
+978,2,95764,Southbound - Palms Springs,,1,10230,3113,1,1
+978,2,95763,Southbound - Palms Springs,,1,10231,3113,1,1
+978,2,95762,Southbound - Palms Springs,,1,10232,3113,1,1
+978,2,95761,Southbound - Palms Springs,,1,10230,3113,1,1
+978,2,95760,Southbound - Palms Springs,,1,10231,3113,1,1
+978,2,95759,Southbound - Palms Springs,,1,10232,3113,1,1
+978,2,95758,Southbound - Palms Springs,,1,10230,3113,1,1
+979,2,95864,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95863,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95875,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95874,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95873,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95872,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95871,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95870,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95869,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95868,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95867,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95866,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95865,Eastbound - Desert Edge,,0,10237,3115,1,1
+979,2,95876,Westbound - Desert Hot Springs,,1,10237,3116,1,1
+979,2,95889,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95888,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95887,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95886,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95885,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95884,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95883,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95882,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95881,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95880,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95879,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95878,Westbound - Desert Hot Springs,,1,10237,3118,1,1
+979,2,95877,Westbound - Desert Hot Springs,,1,10237,3117,1,1
+983,2,96008,Eastbound - Cathedral City,,0,10253,3132,1,1
+983,2,96007,Eastbound - Cathedral City,,0,10256,3132,1,1
+983,2,96006,Eastbound - Cathedral City,,0,10255,3132,1,1
+983,2,96005,Eastbound - Cathedral City,,0,10254,3132,1,1
+983,2,96004,Eastbound - Cathedral City,,0,10253,3132,1,1
+983,2,96003,Eastbound - Cathedral City,,0,10256,3132,1,1
+983,2,96002,Eastbound - Cathedral City,,0,10255,3132,1,1
+983,2,96001,Eastbound - Cathedral City,,0,10254,3132,1,1
+983,2,96000,Eastbound - Cathedral City,,0,10253,3132,1,1
+983,2,95999,Eastbound - Cathedral City,,0,10256,3132,1,1
+983,2,95998,Eastbound - Cathedral City,,0,10255,3132,1,1
+983,2,95997,Eastbound - Cathedral City,,0,10254,3132,1,1
+983,2,95996,Eastbound - Cathedral City,,0,10253,3132,1,1
+983,2,96021,Westbound - Palm Cyn & Stevens,,1,10253,3135,1,1
+983,2,96020,Westbound - Palm Cyn & Stevens,,1,10256,3135,1,1
+983,2,96019,Westbound - Palm Cyn & Stevens,,1,10255,3135,1,1
+983,2,96018,Westbound - Palm Cyn & Stevens,,1,10254,3135,1,1
+983,2,96017,Westbound - Palm Cyn & Stevens,,1,10253,3135,1,1
+983,2,96016,Westbound - Palm Cyn & Stevens,,1,10256,3135,1,1
+983,2,96015,Westbound - Palm Cyn & Stevens,,1,10255,3135,1,1
+983,2,96014,Westbound - Palm Cyn & Stevens,,1,10254,3135,1,1
+983,2,96013,Westbound - Palm Cyn & Stevens,,1,10253,3135,1,1
+983,2,96012,Westbound - Palm Cyn & Stevens,,1,10256,3135,1,1
+983,2,96011,Westbound - Palm Cyn & Stevens,,1,10255,3135,1,1
+983,2,96010,Westbound - Palm Cyn & Stevens,,1,10254,3135,1,1
+983,2,96009,Westbound - Palm Cyn & Stevens,,1,10253,3135,1,1
+984,2,96159,Eastbound - Cathedral City,,0,10261,3137,1,1
+984,2,96158,Eastbound - Cathedral City,,0,10263,3137,1,1
+984,2,96157,Eastbound - Cathedral City,,0,10262,3137,1,1
+984,2,96156,Eastbound - Cathedral City,,0,10261,3137,1,1
+984,2,96155,Eastbound - Cathedral City,,0,10263,3137,1,1
+984,2,96154,Eastbound - Cathedral City,,0,10262,3137,1,1
+984,2,96153,Eastbound - Cathedral City,,0,10261,3137,1,1
+984,2,96152,Eastbound - Cathedral City,,0,10263,3137,1,1
+984,2,96151,Eastbound - Cathedral City,,0,10262,3137,1,1
+984,2,96150,Eastbound - Cathedral City,,0,10261,3137,1,1
+984,2,96149,Eastbound - Cathedral City,,0,10263,3137,1,1
+984,2,96148,Eastbound - Cathedral City,,0,10262,3137,1,1
+984,2,96147,Eastbound - Cathedral City,,0,10261,3137,1,1
+984,2,96146,Eastbound - Cathedral City,,0,10263,3137,1,1
+984,2,96145,Eastbound - Cathedral City,,0,10262,3137,1,1
+984,2,96144,Eastbound - Cathedral City,,0,10261,3137,1,1
+984,2,96143,Eastbound - Cathedral City,,0,10263,3137,1,1
+984,2,96142,Eastbound - Cathedral City,,0,10262,3137,1,1
+984,2,96141,Eastbound - Cathedral City,,0,10261,3137,1,1
+984,2,96140,Eastbound - Cathedral City,,0,10263,3137,1,1
+984,2,96139,Eastbound - Cathedral City,,0,10262,3137,1,1
+984,2,96138,Eastbound - Cathedral City,,0,10261,3137,1,1
+984,2,96182,Westbound - Palm Springs,,1,10263,3138,1,1
+984,2,96181,Westbound - Palm Springs,,1,10262,3138,1,1
+984,2,96180,Westbound - Palm Springs,,1,10261,3138,1,1
+984,2,96179,Westbound - Palm Springs,,1,10263,3138,1,1
+984,2,96178,Westbound - Palm Springs,,1,10262,3138,1,1
+984,2,96177,Westbound - Palm Springs,,1,10261,3138,1,1
+984,2,96176,Westbound - Palm Springs,,1,10263,3138,1,1
+984,2,96175,Westbound - Palm Springs,,1,10262,3138,1,1
+984,2,96174,Westbound - Palm Springs,,1,10261,3138,1,1
+984,2,96173,Westbound - Palm Springs,,1,10263,3138,1,1
+984,2,96172,Westbound - Palm Springs,,1,10262,3138,1,1
+984,2,96171,Westbound - Palm Springs,,1,10261,3138,1,1
+984,2,96170,Westbound - Palm Springs,,1,10263,3138,1,1
+984,2,96169,Westbound - Palm Springs,,1,10262,3138,1,1
+984,2,96168,Westbound - Palm Springs,,1,10261,3138,1,1
+984,2,96167,Westbound - Palm Springs,,1,10263,3138,1,1
+984,2,96166,Westbound - Palm Springs,,1,10262,3138,1,1
+984,2,96165,Westbound - Palm Springs,,1,10261,3138,1,1
+984,2,96164,Westbound - Palm Springs,,1,10263,3138,1,1
+984,2,96163,Westbound - Palm Springs,,1,10262,3138,1,1
+984,2,96162,Westbound - Palm Springs,,1,10261,3138,1,1
+984,2,96161,Westbound - Palm Springs,,1,10263,3138,1,1
+984,2,96160,Westbound - Palm Springs,,1,10262,3138,1,1
+985,2,96284,Eastbound - Palm Desert,,0,10254,3139,1,1
+985,2,96283,Eastbound - Palm Desert,,0,10253,3139,1,1
+985,2,96282,Eastbound - Palm Desert,,0,10256,3139,1,1
+985,2,96281,Eastbound - Palm Desert,,0,10255,3139,1,1
+985,2,96280,Eastbound - Palm Desert,,0,10254,3139,1,1
+985,2,96279,Eastbound - Palm Desert,,0,10253,3139,1,1
+985,2,96278,Eastbound - Palm Desert,,0,10256,3139,1,1
+985,2,96277,Eastbound - Palm Desert,,0,10255,3139,1,1
+985,2,96276,Eastbound - Palm Desert,,0,10254,3139,1,1
+985,2,96275,Eastbound - Palm Desert,,0,10253,3139,1,1
+985,2,96274,Eastbound - Palm Desert,,0,10256,3139,1,1
+985,2,96273,Eastbound - Palm Desert,,0,10255,3139,1,1
+985,2,96272,Eastbound - Palm Desert,,0,10254,3139,1,1
+985,2,96271,Eastbound - Palm Desert,,0,10255,3139,1,1
+985,2,96270,Eastbound - Palm Desert,,0,10254,3139,1,1
+985,2,96299,Westbound - Palm Springs,,1,10255,3140,1,1
+985,2,96298,Westbound - Palm Springs,,1,10254,3140,1,1
+985,2,96297,Westbound - Palm Springs,,1,10253,3140,1,1
+985,2,96296,Westbound - Palm Springs,,1,10256,3140,1,1
+985,2,96295,Westbound - Palm Springs,,1,10255,3140,1,1
+985,2,96294,Westbound - Palm Springs,,1,10254,3140,1,1
+985,2,96293,Westbound - Palm Springs,,1,10253,3140,1,1
+985,2,96292,Westbound - Palm Springs,,1,10256,3140,1,1
+985,2,96291,Westbound - Palm Springs,,1,10255,3140,1,1
+985,2,96290,Westbound - Palm Springs,,1,10254,3140,1,1
+985,2,96289,Westbound - Palm Springs,,1,10253,3140,1,1
+985,2,96288,Westbound - Palm Springs,,1,10256,3140,1,1
+985,2,96287,Westbound - Palm Springs,,1,10255,3140,1,1
+985,2,96286,Westbound - Palm Springs,,1,10254,3140,1,1
+985,2,96285,Westbound - Palm Springs,,1,10255,3140,1,1
+987,2,96410,Northbound - Bermuda Dunes,,0,10276,3144,1,1
+987,2,96411,Northbound - Bermuda Dunes,,0,10276,3144,1,1
+987,2,96412,Northbound - Bermuda Dunes,,0,10276,3144,1,1
+987,2,96413,Northbound - Bermuda Dunes,,0,10276,3144,1,1
+987,2,96414,Northbound - Bermuda Dunes,,0,10276,3144,1,1
+987,2,96415,Northbound - Bermuda Dunes,,0,10276,3144,1,1
+987,2,96416,Northbound - Bermuda Dunes,,0,10276,3144,1,1
+987,2,96417,Northbound - Bermuda Dunes,,0,10276,3144,1,1
+987,2,96418,Northbound - Bermuda Dunes,,0,10276,3144,1,1
+987,2,96419,Northbound - Bermuda Dunes,,0,10276,3144,1,1
+987,2,96420,Northbound - Bermuda Dunes,,0,10276,3144,1,1
+987,2,96421,Southbound - La Quinta,,1,10276,3145,1,1
+987,2,96422,Southbound - La Quinta,,1,10276,3145,1,1
+987,2,96423,Southbound - La Quinta,,1,10276,3145,1,1
+987,2,96424,Southbound - La Quinta,,1,10276,3145,1,1
+987,2,96425,Southbound - La Quinta,,1,10276,3145,1,1
+987,2,96426,Southbound - La Quinta,,1,10276,3145,1,1
+987,2,96427,Southbound - La Quinta,,1,10276,3145,1,1
+987,2,96428,Southbound - La Quinta,,1,10276,3145,1,1
+987,2,96429,Southbound - La Quinta,,1,10276,3145,1,1
+987,2,96430,Southbound - La Quinta,,1,10276,3145,1,1
+987,2,96431,Southbound - La Quinta,,1,10276,3145,1,1
+988,2,96486,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96485,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96484,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96483,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96482,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96481,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96480,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96479,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96478,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96477,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96476,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96475,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96474,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96473,Southbound - Indio Loop,,1,10282,3149,1,1
+988,2,96472,Southbound - Indio Loop,,1,10282,3149,1,1
+989,2,96534,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96533,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96532,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96531,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96530,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96529,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96528,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96527,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96526,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96525,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96524,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96523,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96522,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96521,Northbound - Indio Loop,,0,10288,3151,1,1
+989,2,96520,Northbound - Indio Loop,,0,10288,3151,1,1
+990,2,96807,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96808,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96809,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96810,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96811,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96812,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96813,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96814,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96815,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96816,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96817,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96818,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96819,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96820,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96821,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96822,Southbound - Coachella,,0,10311,3152,1,1
+990,2,96824,Northbound - Indio,,1,10311,3153,1,1
+990,2,96825,Northbound - Indio,,1,10311,3153,1,1
+990,2,96826,Northbound - Indio,,1,10311,3153,1,1
+990,2,96827,Northbound - Indio,,1,10311,3153,1,1
+990,2,96828,Northbound - Indio,,1,10311,3153,1,1
+990,2,96829,Northbound - Indio,,1,10311,3153,1,1
+990,2,96830,Northbound - Indio,,1,10311,3153,1,1
+990,2,96831,Northbound - Indio,,1,10311,3153,1,1
+990,2,96832,Northbound - Indio,,1,10311,3153,1,1
+990,2,96833,Northbound - Indio,,1,10311,3153,1,1
+990,2,96834,Northbound - Indio,,1,10311,3153,1,1
+990,2,96835,Northbound - Indio,,1,10311,3153,1,1
+990,2,96836,Northbound - Indio,,1,10311,3153,1,1
+990,2,96837,Northbound - Indio,,1,10311,3153,1,1
+990,2,96838,Northbound - Indio,,1,10311,3153,1,1
+990,2,96839,Northbound - Indio,,1,10311,3153,1,1
+991,2,96695,Eastbound - Mecca & Oasis,,0,10297,3154,1,1
+991,2,96694,Eastbound - Mecca & Oasis,,0,10296,3154,1,1
+991,2,96693,Eastbound - Mecca & Oasis,,0,10298,3154,1,1
+991,2,96692,Eastbound - Mecca & Oasis,,0,10297,3154,1,1
+991,2,96691,Eastbound - Mecca & Oasis,,0,10296,3154,1,1
+991,2,96690,Eastbound - Mecca & Oasis,,0,10298,3154,1,1
+991,2,96689,Eastbound - Mecca & Oasis,,0,10297,3154,1,1
+991,2,96688,Eastbound - Mecca & Oasis,,0,10296,3154,1,1
+991,2,96687,Eastbound - Mecca & Oasis,,0,10298,3154,1,1
+991,2,96686,Eastbound - Mecca & Oasis,,0,10297,3154,1,1
+991,2,96685,Eastbound - Mecca & Oasis,,0,10296,3154,1,1
+991,2,96684,Eastbound - Mecca & Oasis,,0,10298,3154,1,1
+991,2,96683,Eastbound - Mecca & Oasis,,0,10297,3154,1,1
+991,2,96682,Eastbound - Mecca & Oasis,,0,10296,3154,1,1
+991,2,96712,Westbound - Indio,,1,10297,3157,1,1
+991,2,96711,Westbound - Indio,,1,10296,3157,1,1
+991,2,96710,Westbound - Indio,,1,10298,3157,1,1
+991,2,96709,Westbound - Indio,,1,10297,3157,1,1
+991,2,96708,Westbound - Indio,,1,10296,3157,1,1
+991,2,96707,Westbound - Indio,,1,10298,3157,1,1
+991,2,96706,Westbound - Indio,,1,10297,3157,1,1
+991,2,96705,Westbound - Indio,,1,10296,3157,1,1
+991,2,96704,Westbound - Indio,,1,10298,3157,1,1
+991,2,96703,Westbound - Indio,,1,10297,3157,1,1
+991,2,96702,Westbound - Indio,,1,10296,3157,1,1
+991,2,96701,Westbound - Indio,,1,10298,3157,1,1
+991,2,96700,Westbound - Indio,,1,10297,3157,1,1
+991,2,96699,Westbound - Indio,,1,10296,3157,1,1
+991,2,96698,Westbound - Indio,,1,10298,3157,1,1
+991,2,96697,Westbound - Indio,,1,10297,3157,1,1
+991,2,96696,Westbound - Indio,,1,10296,3157,1,1
+992,2,96756,Eastbound - North Shore,,0,10304,3158,1,1
+992,2,96761,Eastbound - North Shore,,0,10304,3158,1,1
+992,2,96760,Eastbound - North Shore,,0,10304,3158,1,1
+992,2,96759,Eastbound - North Shore,,0,10305,3158,1,1
+992,2,96758,Eastbound - North Shore,,0,10305,3158,1,1
+992,2,96757,Eastbound - North Shore,,0,10305,3158,1,1
+992,2,96767,Westbound - Coachella,,1,10304,3160,1,1
+992,2,96766,Westbound - Coachella,,1,10304,3160,1,1
+992,2,96765,Westbound - Coachella,,1,10304,3160,1,1
+992,2,96764,Westbound - Coachella,,1,10305,3160,1,1
+992,2,96763,Westbound - Coachella,,1,10305,3160,1,1
+992,2,96762,Westbound - Coachella,,1,10305,3160,1,1
+977,3,95595,Eastbound - Coachella,,0,10206,3106,1,1
+977,3,95594,Eastbound - Coachella,,0,10214,3106,1,1
+977,3,95593,Eastbound - Coachella,,0,10213,3106,1,1
+977,3,95592,Eastbound - Coachella,,0,10212,3106,1,1
+977,3,95591,Eastbound - Coachella,,0,10211,3106,1,1
+977,3,95590,Eastbound - Coachella,,0,10210,3106,1,1
+977,3,95589,Eastbound - Coachella,,0,10217,3106,1,1
+977,3,95588,Eastbound - Coachella,,0,10208,3106,1,1
+977,3,95587,Eastbound - Coachella,,0,10209,3106,1,1
+977,3,95586,Eastbound - Coachella,,0,10207,3106,1,1
+977,3,95585,Eastbound - Coachella,,0,10216,3106,1,1
+977,3,95584,Eastbound - Coachella,,0,10206,3106,1,1
+977,3,95583,Eastbound - Coachella,,0,10215,3106,1,1
+977,3,95582,Eastbound - Coachella,,0,10214,3106,1,1
+977,3,95581,Eastbound - Coachella,,0,10213,3106,1,1
+977,3,95580,Eastbound - Coachella,,0,10212,3106,1,1
+977,3,95579,Eastbound - Coachella,,0,10211,3106,1,1
+977,3,95578,Eastbound - Coachella,,0,10210,3106,1,1
+977,3,95577,Eastbound - Coachella,,0,10217,3106,1,1
+977,3,95576,Eastbound - Coachella,,0,10208,3106,1,1
+977,3,95575,Eastbound - Coachella,,0,10209,3106,1,1
+977,3,95574,Eastbound - Coachella,,0,10207,3106,1,1
+977,3,95573,Eastbound - Coachella,,0,10216,3106,1,1
+977,3,95572,Eastbound - Coachella,,0,10206,3106,1,1
+977,3,95571,Eastbound - Coachella,,0,10215,3106,1,1
+977,3,95570,Eastbound - Coachella,,0,10214,3106,1,1
+977,3,95569,Eastbound - Coachella,,0,10213,3106,1,1
+977,3,95568,Eastbound - Coachella,,0,10212,3106,1,1
+977,3,95567,Eastbound - Coachella,,0,10211,3106,1,1
+977,3,95566,Eastbound - Coachella,,0,10210,3106,1,1
+977,3,95565,Eastbound - Coachella,,0,10217,3106,1,1
+977,3,95564,Eastbound - Coachella,,0,10208,3106,1,1
+977,3,95563,Eastbound - Coachella,,0,10209,3106,1,1
+977,3,95562,Eastbound - Coachella,,0,10207,3106,1,1
+977,3,95561,Eastbound - Coachella,,0,10216,3106,1,1
+977,3,95560,Eastbound - Coachella,,0,10206,3106,1,1
+977,3,95559,Eastbound - Coachella,,0,10215,3106,1,1
+977,3,95558,Eastbound - Coachella,,0,10214,3106,1,1
+977,3,95557,Eastbound - Coachella,,0,10213,3106,1,1
+977,3,95556,Eastbound - Coachella,,0,10212,3106,1,1
+977,3,95555,Eastbound - Coachella,,0,10211,3106,1,1
+977,3,95554,Eastbound - Coachella,,0,10210,3106,1,1
+977,3,95552,Eastbound - Coachella,,0,10208,3106,1,1
+977,3,95553,Eastbound - Coachella,,0,10209,3106,1,1
+977,3,95551,Eastbound - Coachella,,0,10207,3106,1,1
+977,3,95550,Eastbound - Coachella,,0,10206,3106,1,1
+977,3,95641,Westbound - Palm Springs,,1,10210,3107,1,1
+977,3,95640,Westbound - Palm Springs,,1,10208,3107,1,1
+977,3,95639,Westbound - Palm Springs,,1,10209,3107,1,1
+977,3,95638,Westbound - Palm Springs,,1,10207,3107,1,1
+977,3,95637,Westbound - Palm Springs,,1,10216,3107,1,1
+977,3,95636,Westbound - Palm Springs,,1,10206,3107,1,1
+977,3,95635,Westbound - Palm Springs,,1,10215,3107,1,1
+977,3,95634,Westbound - Palm Springs,,1,10214,3107,1,1
+977,3,95633,Westbound - Palm Springs,,1,10213,3107,1,1
+977,3,95632,Westbound - Palm Springs,,1,10212,3107,1,1
+977,3,95631,Westbound - Palm Springs,,1,10211,3107,1,1
+977,3,95630,Westbound - Palm Springs,,1,10210,3107,1,1
+977,3,95629,Westbound - Palm Springs,,1,10217,3107,1,1
+977,3,95628,Westbound - Palm Springs,,1,10208,3107,1,1
+977,3,95627,Westbound - Palm Springs,,1,10209,3107,1,1
+977,3,95626,Westbound - Palm Springs,,1,10207,3107,1,1
+977,3,95625,Westbound - Palm Springs,,1,10216,3107,1,1
+977,3,95624,Westbound - Palm Springs,,1,10206,3107,1,1
+977,3,95623,Westbound - Palm Springs,,1,10215,3107,1,1
+977,3,95622,Westbound - Palm Springs,,1,10214,3107,1,1
+977,3,95621,Westbound - Palm Springs,,1,10213,3107,1,1
+977,3,95620,Westbound - Palm Springs,,1,10212,3107,1,1
+977,3,95619,Westbound - Palm Springs,,1,10211,3107,1,1
+977,3,95618,Westbound - Palm Springs,,1,10210,3107,1,1
+977,3,95617,Westbound - Palm Springs,,1,10217,3107,1,1
+977,3,95616,Westbound - Palm Springs,,1,10208,3107,1,1
+977,3,95615,Westbound - Palm Springs,,1,10209,3107,1,1
+977,3,95614,Westbound - Palm Springs,,1,10207,3107,1,1
+977,3,95613,Westbound - Palm Springs,,1,10216,3107,1,1
+977,3,95612,Westbound - Palm Springs,,1,10206,3107,1,1
+977,3,95611,Westbound - Palm Springs,,1,10215,3107,1,1
+977,3,95610,Westbound - Palm Springs,,1,10214,3107,1,1
+977,3,95609,Westbound - Palm Springs,,1,10213,3107,1,1
+977,3,95608,Westbound - Palm Springs,,1,10212,3107,1,1
+977,3,95607,Westbound - Palm Springs,,1,10211,3107,1,1
+977,3,95606,Westbound - Palm Springs,,1,10210,3107,1,1
+977,3,95605,Westbound - Palm Springs,,1,10217,3107,1,1
+977,3,95604,Westbound - Palm Springs,,1,10208,3107,1,1
+977,3,95603,Westbound - Palm Springs,,1,10209,3107,1,1
+977,3,95602,Westbound - Palm Springs,,1,10207,3107,1,1
+977,3,95601,Westbound - Palm Springs,,1,10216,3107,1,1
+977,3,95600,Westbound - Palm Springs,,1,10206,3107,1,1
+977,3,95599,Westbound - Palm Springs,,1,10215,3107,1,1
+977,3,95598,Westbound - Palm Springs,,1,10214,3108,1,1
+977,3,95597,Westbound - Palm Springs,,1,10212,3108,1,1
+977,3,95596,Westbound - Palm Springs,,1,10211,3108,1,1
+978,3,95805,Northbound - Desert Hot Springs,,0,10235,3112,1,1
+978,3,95804,Northbound - Desert Hot Springs,,0,10234,3112,1,1
+978,3,95803,Northbound - Desert Hot Springs,,0,10233,3112,1,1
+978,3,95802,Northbound - Desert Hot Springs,,0,10235,3112,1,1
+978,3,95801,Northbound - Desert Hot Springs,,0,10234,3112,1,1
+978,3,95800,Northbound - Desert Hot Springs,,0,10233,3112,1,1
+978,3,95799,Northbound - Desert Hot Springs,,0,10235,3112,1,1
+978,3,95798,Northbound - Desert Hot Springs,,0,10234,3112,1,1
+978,3,95797,Northbound - Desert Hot Springs,,0,10233,3112,1,1
+978,3,95796,Northbound - Desert Hot Springs,,0,10235,3112,1,1
+978,3,95795,Northbound - Desert Hot Springs,,0,10234,3112,1,1
+978,3,95794,Northbound - Desert Hot Springs,,0,10233,3112,1,1
+978,3,95793,Northbound - Desert Hot Springs,,0,10235,3112,1,1
+978,3,95792,Northbound - Desert Hot Springs,,0,10234,3112,1,1
+978,3,95791,Northbound - Desert Hot Springs,,0,10233,3112,1,1
+978,3,95790,Northbound - Desert Hot Springs,,0,10235,3112,1,1
+978,3,95789,Northbound - Desert Hot Springs,,0,10234,3112,1,1
+978,3,95788,Northbound - Desert Hot Springs,,0,10233,3112,1,1
+978,3,95787,Northbound - Desert Hot Springs,,0,10235,3112,1,1
+978,3,95786,Northbound - Desert Hot Springs,,0,10234,3112,1,1
+978,3,95785,Northbound - Desert Hot Springs,,0,10233,3112,1,1
+978,3,95784,Northbound - Desert Hot Springs,,0,10235,3112,1,1
+978,3,95783,Northbound - Desert Hot Springs,,0,10234,3112,1,1
+978,3,95782,Northbound - Desert Hot Springs,,0,10233,3110,1,1
+978,3,95806,Southbound - Palms Springs,,1,10234,3114,1,1
+978,3,95807,Southbound - Palms Springs,,1,10233,3114,1,1
+978,3,95808,Southbound - Palms Springs,,1,10235,3113,1,1
+978,3,95809,Southbound - Palms Springs,,1,10234,3113,1,1
+978,3,95810,Southbound - Palms Springs,,1,10233,3113,1,1
+978,3,95811,Southbound - Palms Springs,,1,10235,3113,1,1
+978,3,95812,Southbound - Palms Springs,,1,10234,3113,1,1
+978,3,95813,Southbound - Palms Springs,,1,10233,3113,1,1
+978,3,95814,Southbound - Palms Springs,,1,10235,3113,1,1
+978,3,95815,Southbound - Palms Springs,,1,10234,3113,1,1
+978,3,95816,Southbound - Palms Springs,,1,10233,3113,1,1
+978,3,95817,Southbound - Palms Springs,,1,10235,3113,1,1
+978,3,95818,Southbound - Palms Springs,,1,10234,3113,1,1
+978,3,95819,Southbound - Palms Springs,,1,10233,3113,1,1
+978,3,95820,Southbound - Palms Springs,,1,10235,3113,1,1
+978,3,95821,Southbound - Palms Springs,,1,10234,3113,1,1
+978,3,95822,Southbound - Palms Springs,,1,10233,3113,1,1
+978,3,95823,Southbound - Palms Springs,,1,10235,3113,1,1
+978,3,95824,Southbound - Palms Springs,,1,10234,3113,1,1
+978,3,95825,Southbound - Palms Springs,,1,10233,3113,1,1
+978,3,95826,Southbound - Palms Springs,,1,10235,3113,1,1
+978,3,95827,Southbound - Palms Springs,,1,10234,3113,1,1
+978,3,95828,Southbound - Palms Springs,,1,10233,3113,1,1
+978,3,95829,Southbound - Palms Springs,,1,10235,3113,1,1
+979,3,95901,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95902,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95890,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95891,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95892,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95893,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95894,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95895,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95896,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95897,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95898,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95899,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95900,Eastbound - Desert Edge,,0,10238,3115,1,1
+979,3,95916,Westbound - Desert Hot Springs,,1,10238,3116,1,1
+979,3,95903,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95904,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95905,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95906,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95907,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95908,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95909,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95910,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95911,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95912,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95913,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95914,Westbound - Desert Hot Springs,,1,10238,3118,1,1
+979,3,95915,Westbound - Desert Hot Springs,,1,10238,3117,1,1
+983,3,96022,Eastbound - Cathedral City,,0,10257,3132,1,1
+983,3,96023,Eastbound - Cathedral City,,0,10258,3132,1,1
+983,3,96024,Eastbound - Cathedral City,,0,10259,3132,1,1
+983,3,96025,Eastbound - Cathedral City,,0,10260,3132,1,1
+983,3,96026,Eastbound - Cathedral City,,0,10257,3132,1,1
+983,3,96027,Eastbound - Cathedral City,,0,10258,3132,1,1
+983,3,96028,Eastbound - Cathedral City,,0,10259,3132,1,1
+983,3,96029,Eastbound - Cathedral City,,0,10260,3132,1,1
+983,3,96030,Eastbound - Cathedral City,,0,10257,3132,1,1
+983,3,96031,Eastbound - Cathedral City,,0,10258,3132,1,1
+983,3,96032,Eastbound - Cathedral City,,0,10259,3132,1,1
+983,3,96033,Eastbound - Cathedral City,,0,10260,3132,1,1
+983,3,96034,Eastbound - Cathedral City,,0,10257,3132,1,1
+983,3,96035,Westbound - Palm Cyn & Stevens,,1,10257,3135,1,1
+983,3,96036,Westbound - Palm Cyn & Stevens,,1,10258,3135,1,1
+983,3,96037,Westbound - Palm Cyn & Stevens,,1,10259,3135,1,1
+983,3,96038,Westbound - Palm Cyn & Stevens,,1,10260,3135,1,1
+983,3,96039,Westbound - Palm Cyn & Stevens,,1,10257,3135,1,1
+983,3,96040,Westbound - Palm Cyn & Stevens,,1,10258,3135,1,1
+983,3,96041,Westbound - Palm Cyn & Stevens,,1,10259,3135,1,1
+983,3,96042,Westbound - Palm Cyn & Stevens,,1,10260,3135,1,1
+983,3,96043,Westbound - Palm Cyn & Stevens,,1,10257,3135,1,1
+983,3,96044,Westbound - Palm Cyn & Stevens,,1,10258,3135,1,1
+983,3,96045,Westbound - Palm Cyn & Stevens,,1,10259,3135,1,1
+983,3,96046,Westbound - Palm Cyn & Stevens,,1,10260,3135,1,1
+983,3,96047,Westbound - Palm Cyn & Stevens,,1,10257,3135,1,1
+984,3,96183,Eastbound - Cathedral City,,0,10264,3137,1,1
+984,3,96184,Eastbound - Cathedral City,,0,10265,3137,1,1
+984,3,96185,Eastbound - Cathedral City,,0,10266,3137,1,1
+984,3,96186,Eastbound - Cathedral City,,0,10264,3137,1,1
+984,3,96187,Eastbound - Cathedral City,,0,10265,3137,1,1
+984,3,96188,Eastbound - Cathedral City,,0,10266,3137,1,1
+984,3,96189,Eastbound - Cathedral City,,0,10264,3137,1,1
+984,3,96190,Eastbound - Cathedral City,,0,10265,3137,1,1
+984,3,96191,Eastbound - Cathedral City,,0,10266,3137,1,1
+984,3,96192,Eastbound - Cathedral City,,0,10264,3137,1,1
+984,3,96193,Eastbound - Cathedral City,,0,10265,3137,1,1
+984,3,96194,Eastbound - Cathedral City,,0,10266,3137,1,1
+984,3,96195,Eastbound - Cathedral City,,0,10264,3137,1,1
+984,3,96196,Eastbound - Cathedral City,,0,10265,3137,1,1
+984,3,96197,Eastbound - Cathedral City,,0,10266,3137,1,1
+984,3,96198,Eastbound - Cathedral City,,0,10264,3137,1,1
+984,3,96199,Eastbound - Cathedral City,,0,10265,3137,1,1
+984,3,96200,Eastbound - Cathedral City,,0,10266,3137,1,1
+984,3,96201,Eastbound - Cathedral City,,0,10264,3137,1,1
+984,3,96202,Eastbound - Cathedral City,,0,10265,3137,1,1
+984,3,96203,Eastbound - Cathedral City,,0,10266,3137,1,1
+984,3,96204,Eastbound - Cathedral City,,0,10264,3137,1,1
+984,3,96205,Westbound - Palm Springs,,1,10265,3138,1,1
+984,3,96206,Westbound - Palm Springs,,1,10266,3138,1,1
+984,3,96207,Westbound - Palm Springs,,1,10264,3138,1,1
+984,3,96208,Westbound - Palm Springs,,1,10265,3138,1,1
+984,3,96209,Westbound - Palm Springs,,1,10266,3138,1,1
+984,3,96210,Westbound - Palm Springs,,1,10264,3138,1,1
+984,3,96211,Westbound - Palm Springs,,1,10265,3138,1,1
+984,3,96212,Westbound - Palm Springs,,1,10266,3138,1,1
+984,3,96213,Westbound - Palm Springs,,1,10264,3138,1,1
+984,3,96214,Westbound - Palm Springs,,1,10265,3138,1,1
+984,3,96215,Westbound - Palm Springs,,1,10266,3138,1,1
+984,3,96216,Westbound - Palm Springs,,1,10264,3138,1,1
+984,3,96217,Westbound - Palm Springs,,1,10265,3138,1,1
+984,3,96218,Westbound - Palm Springs,,1,10266,3138,1,1
+984,3,96219,Westbound - Palm Springs,,1,10264,3138,1,1
+984,3,96220,Westbound - Palm Springs,,1,10265,3138,1,1
+984,3,96221,Westbound - Palm Springs,,1,10266,3138,1,1
+984,3,96222,Westbound - Palm Springs,,1,10264,3138,1,1
+984,3,96223,Westbound - Palm Springs,,1,10265,3138,1,1
+984,3,96224,Westbound - Palm Springs,,1,10266,3138,1,1
+984,3,96225,Westbound - Palm Springs,,1,10264,3138,1,1
+984,3,96226,Westbound - Palm Springs,,1,10265,3138,1,1
+984,3,96227,Westbound - Palm Springs,,1,10266,3138,1,1
+985,3,96300,Eastbound - Palm Desert,,0,10260,3139,1,1
+985,3,96301,Eastbound - Palm Desert,,0,10257,3139,1,1
+985,3,96302,Eastbound - Palm Desert,,0,10258,3139,1,1
+985,3,96303,Eastbound - Palm Desert,,0,10259,3139,1,1
+985,3,96304,Eastbound - Palm Desert,,0,10260,3139,1,1
+985,3,96305,Eastbound - Palm Desert,,0,10257,3139,1,1
+985,3,96306,Eastbound - Palm Desert,,0,10258,3139,1,1
+985,3,96307,Eastbound - Palm Desert,,0,10259,3139,1,1
+985,3,96308,Eastbound - Palm Desert,,0,10260,3139,1,1
+985,3,96309,Eastbound - Palm Desert,,0,10257,3139,1,1
+985,3,96310,Eastbound - Palm Desert,,0,10258,3139,1,1
+985,3,96311,Eastbound - Palm Desert,,0,10259,3139,1,1
+985,3,96312,Eastbound - Palm Desert,,0,10260,3139,1,1
+985,3,96313,Eastbound - Palm Desert,,0,10259,3139,1,1
+985,3,96314,Eastbound - Palm Desert,,0,10260,3139,1,1
+985,3,96315,Westbound - Palm Springs,,1,10259,3140,1,1
+985,3,96316,Westbound - Palm Springs,,1,10260,3140,1,1
+985,3,96317,Westbound - Palm Springs,,1,10257,3140,1,1
+985,3,96318,Westbound - Palm Springs,,1,10258,3140,1,1
+985,3,96319,Westbound - Palm Springs,,1,10259,3140,1,1
+985,3,96320,Westbound - Palm Springs,,1,10260,3140,1,1
+985,3,96321,Westbound - Palm Springs,,1,10257,3140,1,1
+985,3,96322,Westbound - Palm Springs,,1,10258,3140,1,1
+985,3,96323,Westbound - Palm Springs,,1,10259,3140,1,1
+985,3,96324,Westbound - Palm Springs,,1,10260,3140,1,1
+985,3,96325,Westbound - Palm Springs,,1,10257,3140,1,1
+985,3,96326,Westbound - Palm Springs,,1,10258,3140,1,1
+985,3,96327,Westbound - Palm Springs,,1,10259,3140,1,1
+985,3,96328,Westbound - Palm Springs,,1,10260,3140,1,1
+985,3,96329,Westbound - Palm Springs,,1,10259,3140,1,1
+987,3,96442,Northbound - Bermuda Dunes,,0,10277,3144,1,1
+987,3,96441,Northbound - Bermuda Dunes,,0,10277,3144,1,1
+987,3,96440,Northbound - Bermuda Dunes,,0,10277,3144,1,1
+987,3,96439,Northbound - Bermuda Dunes,,0,10277,3144,1,1
+987,3,96438,Northbound - Bermuda Dunes,,0,10277,3144,1,1
+987,3,96437,Northbound - Bermuda Dunes,,0,10277,3144,1,1
+987,3,96436,Northbound - Bermuda Dunes,,0,10277,3144,1,1
+987,3,96435,Northbound - Bermuda Dunes,,0,10277,3144,1,1
+987,3,96434,Northbound - Bermuda Dunes,,0,10277,3144,1,1
+987,3,96433,Northbound - Bermuda Dunes,,0,10277,3144,1,1
+987,3,96432,Northbound - Bermuda Dunes,,0,10277,3144,1,1
+987,3,96453,Southbound - La Quinta,,1,10277,3145,1,1
+987,3,96452,Southbound - La Quinta,,1,10277,3145,1,1
+987,3,96451,Southbound - La Quinta,,1,10277,3145,1,1
+987,3,96450,Southbound - La Quinta,,1,10277,3145,1,1
+987,3,96449,Southbound - La Quinta,,1,10277,3145,1,1
+987,3,96448,Southbound - La Quinta,,1,10277,3145,1,1
+987,3,96447,Southbound - La Quinta,,1,10277,3145,1,1
+987,3,96446,Southbound - La Quinta,,1,10277,3145,1,1
+987,3,96445,Southbound - La Quinta,,1,10277,3145,1,1
+987,3,96444,Southbound - La Quinta,,1,10277,3145,1,1
+987,3,96443,Southbound - La Quinta,,1,10277,3145,1,1
+988,3,96501,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96500,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96499,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96498,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96497,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96496,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96495,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96494,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96493,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96492,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96491,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96490,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96489,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96488,Southbound - Indio Loop,,1,10283,3149,1,1
+988,3,96487,Southbound - Indio Loop,,1,10283,3149,1,1
+989,3,96535,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96536,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96537,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96538,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96539,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96540,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96541,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96542,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96543,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96544,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96545,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96546,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96547,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96548,Northbound - Indio Loop,,0,10289,3151,1,1
+989,3,96549,Northbound - Indio Loop,,0,10289,3151,1,1
+990,3,96840,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96841,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96842,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96843,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96844,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96845,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96846,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96847,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96848,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96849,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96850,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96851,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96852,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96853,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96854,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96855,Southbound - Coachella,,0,10312,3152,1,1
+990,3,96856,Northbound - Indio,,1,10312,3153,1,1
+990,3,96857,Northbound - Indio,,1,10312,3153,1,1
+990,3,96858,Northbound - Indio,,1,10312,3153,1,1
+990,3,96859,Northbound - Indio,,1,10312,3153,1,1
+990,3,96860,Northbound - Indio,,1,10312,3153,1,1
+990,3,96861,Northbound - Indio,,1,10312,3153,1,1
+990,3,96862,Northbound - Indio,,1,10312,3153,1,1
+990,3,96863,Northbound - Indio,,1,10312,3153,1,1
+990,3,96864,Northbound - Indio,,1,10312,3153,1,1
+990,3,96865,Northbound - Indio,,1,10312,3153,1,1
+990,3,96866,Northbound - Indio,,1,10312,3153,1,1
+990,3,96867,Northbound - Indio,,1,10312,3153,1,1
+990,3,96868,Northbound - Indio,,1,10312,3153,1,1
+990,3,96869,Northbound - Indio,,1,10312,3153,1,1
+990,3,96870,Northbound - Indio,,1,10312,3153,1,1
+990,3,96871,Northbound - Indio,,1,10312,3153,1,1
+991,3,96726,Eastbound - Mecca & Oasis,,0,10300,3154,1,1
+991,3,96725,Eastbound - Mecca & Oasis,,0,10299,3154,1,1
+991,3,96724,Eastbound - Mecca & Oasis,,0,10301,3154,1,1
+991,3,96723,Eastbound - Mecca & Oasis,,0,10300,3154,1,1
+991,3,96722,Eastbound - Mecca & Oasis,,0,10299,3154,1,1
+991,3,96721,Eastbound - Mecca & Oasis,,0,10301,3154,1,1
+991,3,96720,Eastbound - Mecca & Oasis,,0,10300,3154,1,1
+991,3,96719,Eastbound - Mecca & Oasis,,0,10299,3154,1,1
+991,3,96718,Eastbound - Mecca & Oasis,,0,10301,3154,1,1
+991,3,96717,Eastbound - Mecca & Oasis,,0,10300,3154,1,1
+991,3,96716,Eastbound - Mecca & Oasis,,0,10299,3154,1,1
+991,3,96715,Eastbound - Mecca & Oasis,,0,10301,3154,1,1
+991,3,96714,Eastbound - Mecca & Oasis,,0,10300,3154,1,1
+991,3,96713,Eastbound - Mecca & Oasis,,0,10299,3154,1,1
+991,3,96743,Westbound - Indio,,1,10300,3157,1,1
+991,3,96742,Westbound - Indio,,1,10299,3157,1,1
+991,3,96741,Westbound - Indio,,1,10301,3157,1,1
+991,3,96740,Westbound - Indio,,1,10300,3157,1,1
+991,3,96739,Westbound - Indio,,1,10299,3157,1,1
+991,3,96738,Westbound - Indio,,1,10301,3157,1,1
+991,3,96737,Westbound - Indio,,1,10300,3157,1,1
+991,3,96736,Westbound - Indio,,1,10299,3157,1,1
+991,3,96735,Westbound - Indio,,1,10301,3157,1,1
+991,3,96734,Westbound - Indio,,1,10300,3157,1,1
+991,3,96733,Westbound - Indio,,1,10299,3157,1,1
+991,3,96732,Westbound - Indio,,1,10301,3157,1,1
+991,3,96731,Westbound - Indio,,1,10300,3157,1,1
+991,3,96730,Westbound - Indio,,1,10299,3157,1,1
+991,3,96729,Westbound - Indio,,1,10301,3157,1,1
+991,3,96728,Westbound - Indio,,1,10300,3157,1,1
+991,3,96727,Westbound - Indio,,1,10299,3157,1,1
+992,3,96773,Eastbound - North Shore,,0,10306,3158,1,1
+992,3,96768,Eastbound - North Shore,,0,10306,3158,1,1
+992,3,96769,Eastbound - North Shore,,0,10306,3158,1,1
+992,3,96770,Eastbound - North Shore,,0,10307,3158,1,1
+992,3,96771,Eastbound - North Shore,,0,10307,3158,1,1
+992,3,96772,Eastbound - North Shore,,0,10307,3158,1,1
+992,3,96774,Westbound - Coachella,,1,10306,3160,1,1
+992,3,96775,Westbound - Coachella,,1,10306,3160,1,1
+992,3,96776,Westbound - Coachella,,1,10306,3160,1,1
+992,3,96777,Westbound - Coachella,,1,10307,3160,1,1
+992,3,96778,Westbound - Coachella,,1,10307,3160,1,1
+992,3,96779,Westbound - Coachella,,1,10307,3160,1,1

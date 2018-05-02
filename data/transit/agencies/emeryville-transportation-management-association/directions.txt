@@ -1,0 +1,8 @@
+route_id,direction_id,Direction
+4823,0,Loop
+4822,0,Loop
+4821,0,Loop
+4820,0,Loop
+4819,0,Loop
+4818,0,Loop
+4817,0,Loop

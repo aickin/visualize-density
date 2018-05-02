@@ -1,0 +1,600 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,10528,1,Herndon NE & Hatch ,"A/Depreciated Route A, B/Depreciated Route B, /CAT Bus, C/Depreciated Route C, D/Depreciated Route D"
+1,10529,2,Nadine SE & Herndon,"A/Depreciated Route A, B/Depreciated Route B, /CAT Bus, C/Depreciated Route C, D/Depreciated Route D"
+1,10530,3,Nadine SW & Musick,"A/Depreciated Route A, B/Depreciated Route B, /CAT Bus, C/Depreciated Route C, D/Depreciated Route D"
+1,10536,4,Richland SW & Nadine,"A/Depreciated Route A, B/Depreciated Route B, /CAT Bus, C/Depreciated Route C, D/Depreciated Route D"
+1,10537,5,Richland  NW & Hatch,"A/Depreciated Route A, B/Depreciated Route B, /CAT Bus, C/Depreciated Route C, D/Depreciated Route D"
+1,2325070,6,Hatch Rd. & Richland Ave.,/CAT Bus
+1,2325071,7,E Hatch Rd & Central Ave,/CAT Bus
+1,27767,8,Moffett NE & Glasgow,"A/Depreciated Route A, /CAT Bus, C/Depreciated Route C"
+1,10548,9,Mitchell SW & Hatch ,"A/Depreciated Route A, /CAT Bus, C/Depreciated Route C"
+1,10549,10,Mitchell W & Autozone,"A/Depreciated Route A, /CAT Bus, C/Depreciated Route C"
+1,2325072,11,Mitchell SE & Fowler,/CAT Bus
+1,10609,12,Mitchell NW & Garrison,"/CAT Bus, C/Depreciated Route C"
+1,2325073,13,Whitmore NE & Louise,/CAT Bus
+1,2325074,14,Whitmore NW & Rose,/CAT Bus
+1,27783,15,Magnolia NW & 9th,"/CAT Bus, D/Depreciated Route D"
+1,2325075,16,Sixth St. & Magnolia Ave.,/CAT Bus
+1,2325076,17,Sixth NW & Park,/CAT Bus
+1,2326104,18,Hackett & Crownview,/CAT Bus
+1,16282,19,Hackett NW & Ferris,"B/Depreciated Route B, /CAT Bus, D/Depreciated Route D"
+1,10574,20,Blaker SW & Hackett ,"B/Depreciated Route B, /CAT Bus, D/Depreciated Route D"
+1,16286,21,Blaker NW & Sungate  ,"B/Depreciated Route B, /CAT Bus, D/Depreciated Route D"
+1,10576,22,Blaker NW & Service ,"B/Depreciated Route B, /CAT Bus, D/Depreciated Route D"
+1,2326105,23,Service Rd. & Central Valley High School,/CAT Bus
+1,2325077,24,Central Ave. & Service Rd.,/CAT Bus
+1,27773,25,Central SE & Hardy Ct.,"B/Depreciated Route B, /CAT Bus"
+1,16289,26,Pine & SW Harold,"B/Depreciated Route B, /CAT Bus, D/Depreciated Route D"
+1,10563,27,6th NE & Park,"A/Depreciated Route A, B/Depreciated Route B, /CAT Bus, D/Depreciated Route D"
+1,2325078,28,Fifth St. & North St.,/CAT Bus
+1,10510,29,Magnolia SW & 6th,"A/Depreciated Route A, /CAT Bus, C/Depreciated Route C, D/Depreciated Route D"
+1,2325079,30,Ninth & Magnolia,/CAT Bus
+1,10512,31,Whitmore SW & Rose,"A/Depreciated Route A, /CAT Bus, C/Depreciated Route C"
+1,10513,32,Whitmore SE & Louise,"A/Depreciated Route A, /CAT Bus, C/Depreciated Route C"
+1,10514,33,Mitchell NE & Whitmore (Del Taco),"A/Depreciated Route A, /CAT Bus, C/Depreciated Route C"
+1,12525,34,Mitchell & NE Dale Ct.,"A/Depreciated Route A, /CAT Bus, C/Depreciated Route C"
+1,10515,35,Mitchell NE & Fowler ,"A/Depreciated Route A, /CAT Bus, C/Depreciated Route C"
+1,10516,36,Mitchell E & Wal-Mart,"A/Depreciated Route A, /CAT Bus, C/Depreciated Route C"
+1,2325080,37,Hatch & Moffett,/CAT Bus
+1,2325081,38,Hatch Rd. & Central Ave.,/CAT Bus
+1,10508,39,Hatch NW & Richland,"A/Depreciated Route A, B/Depreciated Route B, /CAT Bus, C/Depreciated Route C, D/Depreciated Route D"
+1,2325068,40,Hatch & Herndon,/CAT Bus
+1,10528,41,Herndon NE & Hatch ,"A/Depreciated Route A, B/Depreciated Route B, /CAT Bus, C/Depreciated Route C, D/Depreciated Route D"
+2,2331029,1,Turlock Transit Center,4/Colorado
+2,2331007,2,Hawkeye & Geer,4/Colorado
+2,2331008,3,Hawkeye & Denair,4/Colorado
+2,2331009,4,Olive & Hawkeye,4/Colorado
+2,2331010,5,Olive & Wayside,4/Colorado
+2,2331011,6,Canal & Main,4/Colorado
+2,2331012,7,Canal & Bell,4/Colorado
+2,2331013,8,Colorado & Lyons,4/Colorado
+2,2331014,9,Berkeley & East,4/Colorado
+2,2331015,10,Berkeley & Alpha,4/Colorado
+2,2331016,11,Alpha & Cottonwood,4/Colorado
+3,2331029,1,Turlock Transit Center,4/Colorado
+3,2331007,2,Hawkeye & Geer,4/Colorado
+3,2331008,3,Hawkeye & Denair,4/Colorado
+3,2331009,4,Olive & Hawkeye,4/Colorado
+3,2331010,5,Olive & Wayside,4/Colorado
+3,2331011,6,Canal & Main,4/Colorado
+3,2331012,7,Canal & Bell,4/Colorado
+3,2331013,8,Colorado & Lyons,4/Colorado
+3,2331014,9,Berkeley & East,4/Colorado
+3,2331015,10,Berkeley & Alpha,4/Colorado
+3,2331016,11,Alpha & Cottonwood,4/Colorado
+4,2331016,1,Alpha & Cottonwood,4/Colorado
+4,2331018,2,Alpha & East,4/Colorado
+4,2331019,3,East & Colorado,4/Colorado
+4,2331020,4,Colorado & Marshall,4/Colorado
+4,2331021,5,Colorado & Canal,4/Colorado
+4,2331022,6,Colorado & Main,4/Colorado
+4,2331023,7,Colorado & Escondido,4/Colorado
+4,2331024,8,Hawkeye & Colorado,4/Colorado
+4,2331025,9,Hawkeye & Olive,4/Colorado
+4,2331026,10,Hawkeye & Denair,4/Colorado
+4,2331027,11,Hawkeye & Geer,"1/Countryside, 3/Olive, 4/Colorado"
+4,2331028,12,Hawkeye & Donnelly Park,"1/Countryside, 3/Olive, 4/Colorado"
+4,2331029,13,Turlock Transit Center,4/Colorado
+5,2331016,1,Alpha & Cottonwood,4/Colorado
+5,2331018,2,Alpha & East,4/Colorado
+5,2331019,3,East & Colorado,4/Colorado
+5,2331020,4,Colorado & Marshall,4/Colorado
+5,2331021,5,Colorado & Canal,4/Colorado
+5,2331022,6,Colorado & Main,4/Colorado
+5,2331023,7,Colorado & Escondido,4/Colorado
+5,2331024,8,Hawkeye & Colorado,4/Colorado
+5,2331025,9,Hawkeye & Olive,4/Colorado
+5,2331026,10,Hawkeye & Denair,4/Colorado
+5,2331027,11,Hawkeye & Geer,"1/Countryside, 3/Olive, 4/Colorado"
+5,2331028,12,Hawkeye & Donnelly Park,"1/Countryside, 3/Olive, 4/Colorado"
+5,2331029,13,Turlock Transit Center,4/Colorado
+6,2330969,1,Turlock Transit Center,1/Countryside
+6,2331053,2,Fulkerth & Edgewater,"1/Countryside, 2/Geer, 6/Soderquist"
+6,2330954,3,Fulkerth & Countryside,1/Countryside
+6,2330955,4,Countryside & Shetland,1/Countryside
+6,2330956,5,Countryside & Tuolumne,1/Countryside
+6,2330957,6,Countryside & Monte Vista Crossings,1/Countryside
+6,2330958,7,Countryside & Monte Vista,1/Countryside
+6,2330959,8,Monte Vista & Summer Creek,"15/Modesto/ Ceres/ Keyes/ Turlock, 1/Countryside"
+6,2330960,9,Monte Vista & Walnut,1/Countryside
+6,2330961,10,Monte Vista & Crowell,1/Countryside
+6,2330962,11,Monte Vista & Dels,1/Countryside
+6,2330963,12,Monte Vista & Niagra,1/Countryside
+6,2330964,13,Geer & Regis,1/Countryside
+6,2330965,14,Geer & Minnesota,1/Countryside
+6,2330966,15,Geer & North,1/Countryside
+6,2331027,16,Hawkeye & Geer,"1/Countryside, 3/Olive, 4/Colorado"
+6,2331028,17,Hawkeye & Donnelly Park,"1/Countryside, 3/Olive, 4/Colorado"
+6,2330969,18,Turlock Transit Center,1/Countryside
+7,2330969,1,Turlock Transit Center,1/Countryside
+7,2331053,2,Fulkerth & Edgewater,"1/Countryside, 2/Geer, 6/Soderquist"
+7,2330954,3,Fulkerth & Countryside,1/Countryside
+7,2330955,4,Countryside & Shetland,1/Countryside
+7,2330956,5,Countryside & Tuolumne,1/Countryside
+7,2330957,6,Countryside & Monte Vista Crossings,1/Countryside
+7,2330958,7,Countryside & Monte Vista,1/Countryside
+7,2330959,8,Monte Vista & Summer Creek,"15/Modesto/ Ceres/ Keyes/ Turlock, 1/Countryside"
+7,2330960,9,Monte Vista & Walnut,1/Countryside
+7,2330961,10,Monte Vista & Crowell,1/Countryside
+7,2330962,11,Monte Vista & Dels,1/Countryside
+7,2330963,12,Monte Vista & Niagra,1/Countryside
+7,2330964,13,Geer & Regis,1/Countryside
+7,2330965,14,Geer & Minnesota,1/Countryside
+7,2330966,15,Geer & North,1/Countryside
+7,2331027,16,Hawkeye & Geer,"1/Countryside, 3/Olive, 4/Colorado"
+7,2331028,17,Hawkeye & Donnelly Park,"1/Countryside, 3/Olive, 4/Colorado"
+7,2330969,18,Turlock Transit Center,1/Countryside
+8,10443,1,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+8,841004,2,N First St & E. Las Palmas Ave.,45E/East-Turlock/ Patterson
+8,840915,3,N First St & Washburn St.,45E/East-Turlock/ Patterson
+8,840916,4,Walnut Ave & Eureka St,45E/East-Turlock/ Patterson
+8,840917,5,E. Las Palmas & S. Hartley St,45E/East-Turlock/ Patterson
+8,758788,6,W. Main St. & S. Walnut Rd. (Taco Bell),45E/East-Turlock/ Patterson
+8,10391,7,Fulkerth Rd. & N. Tully Rd. (Walmart),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, /StaRT BART Commuter"
+8,10392,8,Countyside Dr. & W. Monte Vista Ave. (El Pollo Loco),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+8,10381,9,W. Monte Vista Ave. & Dels Ln. (CSUS) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced"
+8,10493,10,W. Monte Vista Ave. & Olive Ave. (DMV),45E/East-Turlock/ Patterson
+8,10494,11,N. Olive Ave. & Delbon Ave. (Emanuel Hospital),45E/East-Turlock/ Patterson
+8,10389,12,Golden State Blvd. & Del's Ln. (Turlock Transit  Center),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced, /StaRT BART Commuter"
+8,10386,13,Golden State Blvd. & W. Main St. (Central Park) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+9,10443,1,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+9,841004,2,N First St & E. Las Palmas Ave.,45E/East-Turlock/ Patterson
+9,840915,3,N First St & Washburn St.,45E/East-Turlock/ Patterson
+9,840916,4,Walnut Ave & Eureka St,45E/East-Turlock/ Patterson
+9,840917,5,E. Las Palmas & S. Hartley St,45E/East-Turlock/ Patterson
+9,758788,6,W. Main St. & S. Walnut Rd. (Taco Bell),45E/East-Turlock/ Patterson
+9,10391,7,Fulkerth Rd. & N. Tully Rd. (Walmart),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, /StaRT BART Commuter"
+9,10392,8,Countyside Dr. & W. Monte Vista Ave. (El Pollo Loco),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+9,10381,9,W. Monte Vista Ave. & Dels Ln. (CSUS) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced"
+9,10493,10,W. Monte Vista Ave. & Olive Ave. (DMV),45E/East-Turlock/ Patterson
+9,10494,11,N. Olive Ave. & Delbon Ave. (Emanuel Hospital),45E/East-Turlock/ Patterson
+9,10389,12,Golden State Blvd. & Del's Ln. (Turlock Transit  Center),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced, /StaRT BART Commuter"
+9,10386,13,Golden State Blvd. & W. Main St. (Central Park) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+10,10386,1,Golden State Blvd. & W. Main St. (Central Park) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+10,10461,2,W. Main St. & N. Kilroy Rd. (Regal Cinemas),45E/East-Turlock/ Patterson
+10,840918,3,N. Hartley St. & Hillstock Ct,45E/East-Turlock/ Patterson
+10,840919,4,Walnut Ave. & Eureka St.,45E/East-Turlock/ Patterson
+10,840921,5,N. First St. & Walnut Ave.,45E/East-Turlock/ Patterson
+10,840922,6,N. First St. & W. Las Palmas Ave.,45E/East-Turlock/ Patterson
+10,10443,7,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+11,10386,1,Golden State Blvd. & W. Main St. (Central Park) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+11,10461,2,W. Main St. & N. Kilroy Rd. (Regal Cinemas),45E/East-Turlock/ Patterson
+11,840918,3,N. Hartley St. & Hillstock Ct,45E/East-Turlock/ Patterson
+11,840919,4,Walnut Ave. & Eureka St.,45E/East-Turlock/ Patterson
+11,840921,5,N. First St. & Walnut Ave.,45E/East-Turlock/ Patterson
+11,840922,6,N. First St. & W. Las Palmas Ave.,45E/East-Turlock/ Patterson
+11,10443,7,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+12,10386,1,Golden State Blvd. & W. Main St. (Central Park) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+12,10387,2,Golden State Blvd. & N. Center St. (KFC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock"
+12,10389,3,Golden State Blvd. & Del's Ln. (Turlock Transit  Center),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced, /StaRT BART Commuter"
+12,10391,4,Fulkerth Rd. & N. Tully Rd. (Walmart),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, /StaRT BART Commuter"
+12,10392,5,Countyside Dr. & W. Monte Vista Ave. (El Pollo Loco),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+12,10393,6,9th St. & K St. (DoubleTree),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson"
+12,10394,7,N. Tully Rd. & Coldwell Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson"
+12,10395,8, College Ave. & Morris Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale"
+12,10506,9,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+13,10506,1,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+13,10379,2,W. Monte Vista Ave.  & Countryside Dr. (Safeway Gas Station),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock"
+13,10381,3,W. Monte Vista Ave. & Dels Ln. (CSUS) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced"
+13,10383,4,Geer Rd. & W. Minnesota Ave.,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock"
+13,10384,5,Geer Rd. & Twentieth  Century Blvd.,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock"
+13,10385,6,Golden State Blvd. & Geer Rd. (Big 5),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock"
+13,10386,7,Golden State Blvd. & W. Main St. (Central Park) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+14,2330985,1,Turlock Transit Center,2/Geer
+14,2330971,2,Geer & Hawkeye,2/Geer
+14,2330972,3,Geer & North,2/Geer
+14,2330973,4,Geer & Tuolumne,2/Geer
+14,2330974,5,Geer & Regis,2/Geer
+14,2330975,6,Monte Vista & Geer,2/Geer
+14,2330976,7,Monte Vista & Dels,2/Geer
+14,2330977,8,Monte Vista & Crowell,2/Geer
+14,2330978,9,Monte Vista & Walnut,2/Geer
+14,2330979,10,Monte Vista & Summer Creek,2/Geer
+14,2330980,11,Countryside & Monte Vista Crossings,2/Geer
+14,2330981,12,Tuolumne & Countryside,2/Geer
+14,2330982,13,Tully & Tuolumne,2/Geer
+14,2330983,14,Tully & Fulkerth,2/Geer
+14,2331053,15,Fulkerth & Edgewater,"1/Countryside, 2/Geer, 6/Soderquist"
+14,2330985,16,Turlock Transit Center,2/Geer
+15,2330985,1,Turlock Transit Center,2/Geer
+15,2330971,2,Geer & Hawkeye,2/Geer
+15,2330972,3,Geer & North,2/Geer
+15,2330973,4,Geer & Tuolumne,2/Geer
+15,2330974,5,Geer & Regis,2/Geer
+15,2330975,6,Monte Vista & Geer,2/Geer
+15,2330976,7,Monte Vista & Dels,2/Geer
+15,2330977,8,Monte Vista & Crowell,2/Geer
+15,2330978,9,Monte Vista & Walnut,2/Geer
+15,2330979,10,Monte Vista & Summer Creek,2/Geer
+15,2330980,11,Countryside & Monte Vista Crossings,2/Geer
+15,2330981,12,Tuolumne & Countryside,2/Geer
+15,2330982,13,Tully & Tuolumne,2/Geer
+15,2330983,14,Tully & Fulkerth,2/Geer
+15,2331053,15,Fulkerth & Edgewater,"1/Countryside, 2/Geer, 6/Soderquist"
+15,2330985,16,Turlock Transit Center,2/Geer
+16,2331051,1,Turlock Transit Center,5/Lander
+16,2331031,2,Golden State & Almond,5/Lander
+16,2331032,3,Golden State & Canal,5/Lander
+16,2331033,4,Golden State & Geer,5/Lander
+16,2331034,5,Golden State & Main/Central Park,5/Lander
+16,2331035,6,A Street & Broadway/City Hall,5/Lander
+16,2331036,7,Lander & 5th Street,5/Lander
+16,2331037,8,Lander & South,5/Lander
+16,2331038,9,Lander & Montana,5/Lander
+16,2331039,10,Linwood & Lander,5/Lander
+17,2331051,1,Turlock Transit Center,5/Lander
+17,2331031,2,Golden State & Almond,5/Lander
+17,2331032,3,Golden State & Canal,5/Lander
+17,2331033,4,Golden State & Geer,5/Lander
+17,2331034,5,Golden State & Main/Central Park,5/Lander
+17,2331035,6,A Street & Broadway/City Hall,5/Lander
+17,2331036,7,Lander & 5th Street,5/Lander
+17,2331037,8,Lander & South,5/Lander
+17,2331038,9,Lander & Montana,5/Lander
+17,2331039,10,Linwood & Lander,5/Lander
+18,2331039,1,Linwood & Lander,5/Lander
+18,2331041,2,Linwood & Baywood,5/Lander
+18,2331042,3,Linwood & Amberwood,5/Lander
+18,2331043,4,5th Street & Linwood,5/Lander
+18,2331044,5,5th Street & Rockwood,5/Lander
+18,2331045,6,F Street & Jessica,5/Lander
+18,2331046,7,Golden State & Minerva,5/Lander
+18,2331047,8,Golden State & Main/Central Park,5/Lander
+18,2331048,9,Golden State & Center,5/Lander
+18,2331049,10,Golden State & Canal,5/Lander
+18,2331050,11,Golden State & Almond,5/Lander
+18,2331051,12,Turlock Transit Center,5/Lander
+19,2331039,1,Linwood & Lander,5/Lander
+19,2331041,2,Linwood & Baywood,5/Lander
+19,2331042,3,Linwood & Amberwood,5/Lander
+19,2331043,4,5th Street & Linwood,5/Lander
+19,2331044,5,5th Street & Rockwood,5/Lander
+19,2331045,6,F Street & Jessica,5/Lander
+19,2331046,7,Golden State & Minerva,5/Lander
+19,2331047,8,Golden State & Main/Central Park,5/Lander
+19,2331048,9,Golden State & Center,5/Lander
+19,2331049,10,Golden State & Canal,5/Lander
+19,2331050,11,Golden State & Almond,5/Lander
+19,2331051,12,Turlock Transit Center,5/Lander
+20,10386,1,Golden State Blvd. & W. Main St. (Central Park) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+20,10496,2,A St. & 3rd St. (by City Hall),15/Modesto/ Ceres/ Keyes/ Turlock
+20,758790,3,W. Main St. & N. Laurel St.,15/Modesto/ Ceres/ Keyes/ Turlock
+20,10460,4,W. Main St. & Alaska St. ,15/Modesto/ Ceres/ Keyes/ Turlock
+20,10391,5,Fulkerth Rd. & N. Tully Rd. (Walmart),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, /StaRT BART Commuter"
+20,10392,6,Countyside Dr. & W. Monte Vista Ave. (El Pollo Loco),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+20,10497,7,9th St. & Nunes Rd.,15/Modesto/ Ceres/ Keyes/ Turlock
+20,10498,8,7th St. & Lizzie Ave.,15/Modesto/ Ceres/ Keyes/ Turlock
+20,10500,9,Faith Home Rd. & Hollywood Dr. (Patio Village),15/Modesto/ Ceres/ Keyes/ Turlock
+20,10501,10,Mitchell Rd. & Colleen Way (Burger King),15/Modesto/ Ceres/ Keyes/ Turlock
+20,10502,11,Magnolia St. & 9th St.,"15/Modesto/ Ceres/ Keyes/ Turlock, D/Depreciated Route D"
+20,10503,12, Magnolia St. & 3rd St.,"15/Modesto/ Ceres/ Keyes/ Turlock, B/Depreciated Route B, D/Depreciated Route D"
+20,10504,13,Richland Ave. & Herndon Rd. (SRC),15/Modesto/ Ceres/ Keyes/ Turlock
+20,10505,14,E. Hatch Rd. & Herndon Rd. (Home Depot),"15/Modesto/ Ceres/ Keyes/ Turlock, 61/Waterford / Modesto, A/Depreciated Route A, C/Depreciated Route C"
+20,10393,15,9th St. & K St. (DoubleTree),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson"
+20,10394,16,N. Tully Rd. & Coldwell Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson"
+20,10395,17, College Ave. & Morris Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale"
+20,10506,18,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+21,10386,1,Golden State Blvd. & W. Main St. (Central Park) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+21,10496,2,A St. & 3rd St. (by City Hall),15/Modesto/ Ceres/ Keyes/ Turlock
+21,758790,3,W. Main St. & N. Laurel St.,15/Modesto/ Ceres/ Keyes/ Turlock
+21,10460,4,W. Main St. & Alaska St. ,15/Modesto/ Ceres/ Keyes/ Turlock
+21,10391,5,Fulkerth Rd. & N. Tully Rd. (Walmart),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, /StaRT BART Commuter"
+21,10392,6,Countyside Dr. & W. Monte Vista Ave. (El Pollo Loco),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+21,10497,7,9th St. & Nunes Rd.,15/Modesto/ Ceres/ Keyes/ Turlock
+21,10498,8,7th St. & Lizzie Ave.,15/Modesto/ Ceres/ Keyes/ Turlock
+21,10500,9,Faith Home Rd. & Hollywood Dr. (Patio Village),15/Modesto/ Ceres/ Keyes/ Turlock
+21,10501,10,Mitchell Rd. & Colleen Way (Burger King),15/Modesto/ Ceres/ Keyes/ Turlock
+21,10502,11,Magnolia St. & 9th St.,"15/Modesto/ Ceres/ Keyes/ Turlock, D/Depreciated Route D"
+21,10503,12, Magnolia St. & 3rd St.,"15/Modesto/ Ceres/ Keyes/ Turlock, B/Depreciated Route B, D/Depreciated Route D"
+21,10504,13,Richland Ave. & Herndon Rd. (SRC),15/Modesto/ Ceres/ Keyes/ Turlock
+21,10505,14,E. Hatch Rd. & Herndon Rd. (Home Depot),"15/Modesto/ Ceres/ Keyes/ Turlock, 61/Waterford / Modesto, A/Depreciated Route A, C/Depreciated Route C"
+21,10393,15,9th St. & K St. (DoubleTree),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson"
+21,10394,16,N. Tully Rd. & Coldwell Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson"
+21,10395,17, College Ave. & Morris Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale"
+21,10506,18,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+22,10506,1,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+22,10450,2,E. Hatch Rd. & Herndon Rd. (Radio Shack),15/Modesto/ Ceres/ Keyes/ Turlock
+22,10451,3,Richland Ave. & Rancho Dr. (SRC),15/Modesto/ Ceres/ Keyes/ Turlock
+22,801464,4, Magnolia St. & 3rd St. (Ceres Community Center),15/Modesto/ Ceres/ Keyes/ Turlock
+22,10453,5,N. 9th St. & Magnolia St.,"15/Modesto/ Ceres/ Keyes/ Turlock, A/Depreciated Route A, C/Depreciated Route C"
+22,10454,6,Mitchell Rd. & E. Whitmore Ave. (Whitmore Plaza),"15/Modesto/ Ceres/ Keyes/ Turlock, A/Depreciated Route A, C/Depreciated Route C"
+22,10455,7,Faith Home Rd. & Club Dr. (Western Mobile Estates),15/Modesto/ Ceres/ Keyes/ Turlock
+22,10457,8,7th St.  & Lizzie Ave.,15/Modesto/ Ceres/ Keyes/ Turlock
+22,10458,9,9th St. & Maud Ave. (Library),15/Modesto/ Ceres/ Keyes/ Turlock
+22,10379,10,W. Monte Vista Ave.  & Countryside Dr. (Safeway Gas Station),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock"
+22,2330959,11,Monte Vista & Summer Creek,"15/Modesto/ Ceres/ Keyes/ Turlock, 1/Countryside"
+22,10381,12,W. Monte Vista Ave. & Dels Ln. (CSUS) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced"
+22,10383,13,Geer Rd. & W. Minnesota Ave.,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock"
+22,10389,14,Golden State Blvd. & Del's Ln. (Turlock Transit  Center),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced, /StaRT BART Commuter"
+22,10385,15,Golden State Blvd. & Geer Rd. (Big 5),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock"
+22,10386,16,Golden State Blvd. & W. Main St. (Central Park) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+23,10506,1,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+23,10450,2,E. Hatch Rd. & Herndon Rd. (Radio Shack),15/Modesto/ Ceres/ Keyes/ Turlock
+23,10451,3,Richland Ave. & Rancho Dr. (SRC),15/Modesto/ Ceres/ Keyes/ Turlock
+23,801464,4, Magnolia St. & 3rd St. (Ceres Community Center),15/Modesto/ Ceres/ Keyes/ Turlock
+23,10453,5,N. 9th St. & Magnolia St.,"15/Modesto/ Ceres/ Keyes/ Turlock, A/Depreciated Route A, C/Depreciated Route C"
+23,10454,6,Mitchell Rd. & E. Whitmore Ave. (Whitmore Plaza),"15/Modesto/ Ceres/ Keyes/ Turlock, A/Depreciated Route A, C/Depreciated Route C"
+23,10455,7,Faith Home Rd. & Club Dr. (Western Mobile Estates),15/Modesto/ Ceres/ Keyes/ Turlock
+23,10457,8,7th St.  & Lizzie Ave.,15/Modesto/ Ceres/ Keyes/ Turlock
+23,10458,9,9th St. & Maud Ave. (Library),15/Modesto/ Ceres/ Keyes/ Turlock
+23,10379,10,W. Monte Vista Ave.  & Countryside Dr. (Safeway Gas Station),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock"
+23,2330959,11,Monte Vista & Summer Creek,"15/Modesto/ Ceres/ Keyes/ Turlock, 1/Countryside"
+23,10381,12,W. Monte Vista Ave. & Dels Ln. (CSUS) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced"
+23,10383,13,Geer Rd. & W. Minnesota Ave.,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock"
+23,10389,14,Golden State Blvd. & Del's Ln. (Turlock Transit  Center),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced, /StaRT BART Commuter"
+23,10385,15,Golden State Blvd. & Geer Rd. (Big 5),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock"
+23,10386,16,Golden State Blvd. & W. Main St. (Central Park) ,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson"
+24,10443,1,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+24,10440,2,Howard Rd. & Livingston Circle,40/Modesto/ Patterson
+24,10441,3,Griscott Way & Walt Ave.,40/Modesto/ Patterson
+24,10436,4,River Rd. & Minnie St.,40/Modesto/ Patterson
+24,10438,5,Mary St. & Laird St.,40/Modesto/ Patterson
+24,10435,6,Hackett Rd. & Crows Landing Rd. (CSA),"40/Modesto/ Patterson, B/Depreciated Route B"
+24,10445,7,Crows Landing Rd. & Winmoore Way (Mi Pueblo),40/Modesto/ Patterson
+24,10393,8,9th St. & K St. (DoubleTree),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson"
+24,10394,9,N. Tully Rd. & Coldwell Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson"
+24,10395,10, College Ave. & Morris Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale"
+24,10506,11,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+25,10443,1,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+25,10440,2,Howard Rd. & Livingston Circle,40/Modesto/ Patterson
+25,10441,3,Griscott Way & Walt Ave.,40/Modesto/ Patterson
+25,10436,4,River Rd. & Minnie St.,40/Modesto/ Patterson
+25,10438,5,Mary St. & Laird St.,40/Modesto/ Patterson
+25,10435,6,Hackett Rd. & Crows Landing Rd. (CSA),"40/Modesto/ Patterson, B/Depreciated Route B"
+25,10445,7,Crows Landing Rd. & Winmoore Way (Mi Pueblo),40/Modesto/ Patterson
+25,10393,8,9th St. & K St. (DoubleTree),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson"
+25,10394,9,N. Tully Rd. & Coldwell Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson"
+25,10395,10, College Ave. & Morris Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale"
+25,10506,11,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+26,10506,1,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+26,10433,2,Crows Landing Rd. & Butte Ave. (Don Juan),40/Modesto/ Patterson
+26,10435,3,Hackett Rd. & Crows Landing Rd. (CSA),"40/Modesto/ Patterson, B/Depreciated Route B"
+26,10436,4,River Rd. & Minnie St.,40/Modesto/ Patterson
+26,10438,5,Mary St. & Laird St.,40/Modesto/ Patterson
+26,10440,6,Howard Rd. & Livingston Circle,40/Modesto/ Patterson
+26,10441,7,Griscott Way & Walt Ave.,40/Modesto/ Patterson
+26,10442,8,N. 2nd (Hwy. 33) & L St.,40/Modesto/ Patterson
+26,10443,9,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+27,10506,1,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+27,10433,2,Crows Landing Rd. & Butte Ave. (Don Juan),40/Modesto/ Patterson
+27,10435,3,Hackett Rd. & Crows Landing Rd. (CSA),"40/Modesto/ Patterson, B/Depreciated Route B"
+27,10436,4,River Rd. & Minnie St.,40/Modesto/ Patterson
+27,10438,5,Mary St. & Laird St.,40/Modesto/ Patterson
+27,10440,6,Howard Rd. & Livingston Circle,40/Modesto/ Patterson
+27,10441,7,Griscott Way & Walt Ave.,40/Modesto/ Patterson
+27,10442,8,N. 2nd (Hwy. 33) & L St.,40/Modesto/ Patterson
+27,10443,9,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+28,10506,1,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+28,10396,2,College Ave. & Coldwell Ave. (MJC),60/Modesto/ Riverbank/ Oakdale
+28,10397,3,College Ave. & Granger Ave.,60/Modesto/ Riverbank/ Oakdale
+28,10398,4,McHenry Ave. & Norwegian Ave.,60/Modesto/ Riverbank/ Oakdale
+28,10399,5,McHenry Ave & Floyd Ave.,60/Modesto/ Riverbank/ Oakdale
+28,10400,6,McHenry Ave. & Sylvan Ave.,60/Modesto/ Riverbank/ Oakdale
+28,12509,7,McHenry Ave. & Meily Way (Perko's/Walmart),60/Modesto/ Riverbank/ Oakdale
+28,10428,8,McHenry Ave. & Bangs Ave.,60/Modesto/ Riverbank/ Oakdale
+28,842381,9,Oakdale Rd & Freddi Ln,60/Modesto/ Riverbank/ Oakdale
+28,10403,10,Patterson Rd. & Oakdale Rd.,60/Modesto/ Riverbank/ Oakdale
+28,10404,11,Patterson Rd. & Jackson Ave.,60/Modesto/ Riverbank/ Oakdale
+28,10405,12,Patterson Rd. & Roselle Ave.,60/Modesto/ Riverbank/ Oakdale
+28,10406,13,Patterson Rd. & 3rd St.,60/Modesto/ Riverbank/ Oakdale
+28,10407,14,Patterson Rd. & Tina Ln.,60/Modesto/ Riverbank/ Oakdale
+28,10418,15,W. F St. & Oak Ave.,60/Modesto/ Riverbank/ Oakdale
+28,10412,16,W. F St. & Gilbert Ave.,60/Modesto/ Riverbank/ Oakdale
+28,10413,17,E. G St. & S. 2nd Ave. (Library),60/Modesto/ Riverbank/ Oakdale
+28,10414,18,E. G St. & S Sierra Ave.,60/Modesto/ Riverbank/ Oakdale
+28,10415,19,E. G St. & Ventanas Ave.,60/Modesto/ Riverbank/ Oakdale
+28,10416,20,S. Maag Ave. & E. F. St.,"60/Modesto/ Riverbank/ Oakdale, /Waterford Dial-A-Ride"
+29,10506,1,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+29,10396,2,College Ave. & Coldwell Ave. (MJC),60/Modesto/ Riverbank/ Oakdale
+29,10397,3,College Ave. & Granger Ave.,60/Modesto/ Riverbank/ Oakdale
+29,10398,4,McHenry Ave. & Norwegian Ave.,60/Modesto/ Riverbank/ Oakdale
+29,10399,5,McHenry Ave & Floyd Ave.,60/Modesto/ Riverbank/ Oakdale
+29,10400,6,McHenry Ave. & Sylvan Ave.,60/Modesto/ Riverbank/ Oakdale
+29,12509,7,McHenry Ave. & Meily Way (Perko's/Walmart),60/Modesto/ Riverbank/ Oakdale
+29,10428,8,McHenry Ave. & Bangs Ave.,60/Modesto/ Riverbank/ Oakdale
+29,842381,9,Oakdale Rd & Freddi Ln,60/Modesto/ Riverbank/ Oakdale
+29,10403,10,Patterson Rd. & Oakdale Rd.,60/Modesto/ Riverbank/ Oakdale
+29,10404,11,Patterson Rd. & Jackson Ave.,60/Modesto/ Riverbank/ Oakdale
+29,10405,12,Patterson Rd. & Roselle Ave.,60/Modesto/ Riverbank/ Oakdale
+29,10406,13,Patterson Rd. & 3rd St.,60/Modesto/ Riverbank/ Oakdale
+29,10407,14,Patterson Rd. & Tina Ln.,60/Modesto/ Riverbank/ Oakdale
+29,10418,15,W. F St. & Oak Ave.,60/Modesto/ Riverbank/ Oakdale
+29,10412,16,W. F St. & Gilbert Ave.,60/Modesto/ Riverbank/ Oakdale
+29,10413,17,E. G St. & S. 2nd Ave. (Library),60/Modesto/ Riverbank/ Oakdale
+29,10414,18,E. G St. & S Sierra Ave.,60/Modesto/ Riverbank/ Oakdale
+29,10415,19,E. G St. & Ventanas Ave.,60/Modesto/ Riverbank/ Oakdale
+29,10416,20,S. Maag Ave. & E. F. St.,"60/Modesto/ Riverbank/ Oakdale, /Waterford Dial-A-Ride"
+30,10416,1,S. Maag Ave. & E. F. St.,"60/Modesto/ Riverbank/ Oakdale, /Waterford Dial-A-Ride"
+30,10417,2,W. F St. & Laurel Ave.,60/Modesto/ Riverbank/ Oakdale
+30,801462,3,W. F St. & Oak Ave.,60/Modesto/ Riverbank/ Oakdale
+30,10422,4,Patterson Rd. & 8th St.,60/Modesto/ Riverbank/ Oakdale
+30,10423,5,Patterson Rd. & 3rd St.,60/Modesto/ Riverbank/ Oakdale
+30,10424,6,Patterson Rd. & Palmer Ave.,60/Modesto/ Riverbank/ Oakdale
+30,10425,7,Patterson Rd. & Jackson Ave.,60/Modesto/ Riverbank/ Oakdale
+30,842383,8,Oakdale Rd. & Patterson Rd.,60/Modesto/ Riverbank/ Oakdale
+30,842382,9,Oakdale Rd & Freddi Ln,60/Modesto/ Riverbank/ Oakdale
+30,2329728,10,McHenry Ave. & Bangs Ave.,60/Modesto/ Riverbank/ Oakdale
+30,12510,11,McHenry Ave. & W. Union Ave.,60/Modesto/ Riverbank/ Oakdale
+30,10429,12,McHenry Ave. & Standiford Ave. (Target),60/Modesto/ Riverbank/ Oakdale
+30,10430,13,McHenry Ave. & Floyd Ave.,60/Modesto/ Riverbank/ Oakdale
+30,10431,14,McHenry Ave. & Bowen Ave.,60/Modesto/ Riverbank/ Oakdale
+30,10432,15,College Ave. & Orangeburg Ave.,60/Modesto/ Riverbank/ Oakdale
+30,10395,16, College Ave. & Morris Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale"
+30,10506,17,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+31,10416,1,S. Maag Ave. & E. F. St.,"60/Modesto/ Riverbank/ Oakdale, /Waterford Dial-A-Ride"
+31,10417,2,W. F St. & Laurel Ave.,60/Modesto/ Riverbank/ Oakdale
+31,801462,3,W. F St. & Oak Ave.,60/Modesto/ Riverbank/ Oakdale
+31,10422,4,Patterson Rd. & 8th St.,60/Modesto/ Riverbank/ Oakdale
+31,10423,5,Patterson Rd. & 3rd St.,60/Modesto/ Riverbank/ Oakdale
+31,10424,6,Patterson Rd. & Palmer Ave.,60/Modesto/ Riverbank/ Oakdale
+31,10425,7,Patterson Rd. & Jackson Ave.,60/Modesto/ Riverbank/ Oakdale
+31,842383,8,Oakdale Rd. & Patterson Rd.,60/Modesto/ Riverbank/ Oakdale
+31,842382,9,Oakdale Rd & Freddi Ln,60/Modesto/ Riverbank/ Oakdale
+31,2329728,10,McHenry Ave. & Bangs Ave.,60/Modesto/ Riverbank/ Oakdale
+31,12510,11,McHenry Ave. & W. Union Ave.,60/Modesto/ Riverbank/ Oakdale
+31,10429,12,McHenry Ave. & Standiford Ave. (Target),60/Modesto/ Riverbank/ Oakdale
+31,10430,13,McHenry Ave. & Floyd Ave.,60/Modesto/ Riverbank/ Oakdale
+31,10431,14,McHenry Ave. & Bowen Ave.,60/Modesto/ Riverbank/ Oakdale
+31,10432,15,College Ave. & Orangeburg Ave.,60/Modesto/ Riverbank/ Oakdale
+31,10395,16, College Ave. & Morris Ave. (MJC),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale"
+31,10506,17,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+32,10710,1,Merced Transpo 16th St. & N St.,70/Modesto/ Turlock/ Merced
+32,10389,2,Golden State Blvd. & Del's Ln. (Turlock Transit  Center),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced, /StaRT BART Commuter"
+32,802533,3,W. Monte Vista Ave. & Dels Ln. (CSUS) ,70/Modesto/ Turlock/ Merced
+32,10506,4,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+33,10506,1,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+33,10389,2,Golden State Blvd. & Del's Ln. (Turlock Transit  Center),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced, /StaRT BART Commuter"
+33,10710,3,Merced Transpo 16th St. & N St.,70/Modesto/ Turlock/ Merced
+34,2330986,1,Turlock Transit Center,3/Olive
+34,2330987,2,Golden State & Tuolomne,3/Olive
+34,2330988,3,Golden State & Monte Vista,3/Olive
+34,2330989,4,Golden State & Roberts,3/Olive
+34,2330990,5,Christoffersen & Golden State,3/Olive
+34,2330991,6,Christoffersen & Mountain View,3/Olive
+34,2330992,7,Christoffersen & Walnut,3/Olive
+34,2330993,8,Christoffersen & Crowell,3/Olive
+34,2330994,9,Christoffersen & Village Circle,3/Olive
+34,2330995,10,Christoffersen & Geer,3/Olive
+34,2330996,11,Olive & Christoffersen,3/Olive
+34,2330997,12,Olive & Monte Vista,3/Olive
+34,2330998,13,Tuolumne & Olive,3/Olive
+34,2330999,14,Colorado & Waldorf,3/Olive
+34,2331000,15,Delbon & Olive,3/Olive
+34,2331001,16,Olive & North,3/Olive
+34,2331002,17,Olive & Runyan,3/Olive
+34,2331027,18,Hawkeye & Geer,"1/Countryside, 3/Olive, 4/Colorado"
+34,2331028,19,Hawkeye & Donnelly Park,"1/Countryside, 3/Olive, 4/Colorado"
+34,2330986,20,Turlock Transit Center,3/Olive
+35,2330986,1,Turlock Transit Center,3/Olive
+35,2330987,2,Golden State & Tuolomne,3/Olive
+35,2330988,3,Golden State & Monte Vista,3/Olive
+35,2330989,4,Golden State & Roberts,3/Olive
+35,2330990,5,Christoffersen & Golden State,3/Olive
+35,2330991,6,Christoffersen & Mountain View,3/Olive
+35,2330992,7,Christoffersen & Walnut,3/Olive
+35,2330993,8,Christoffersen & Crowell,3/Olive
+35,2330994,9,Christoffersen & Village Circle,3/Olive
+35,2330995,10,Christoffersen & Geer,3/Olive
+35,2330996,11,Olive & Christoffersen,3/Olive
+35,2330997,12,Olive & Monte Vista,3/Olive
+35,2330998,13,Tuolumne & Olive,3/Olive
+35,2330999,14,Colorado & Waldorf,3/Olive
+35,2331000,15,Delbon & Olive,3/Olive
+35,2331001,16,Olive & North,3/Olive
+35,2331002,17,Olive & Runyan,3/Olive
+35,2331027,18,Hawkeye & Geer,"1/Countryside, 3/Olive, 4/Colorado"
+35,2331028,19,Hawkeye & Donnelly Park,"1/Countryside, 3/Olive, 4/Colorado"
+35,2330986,20,Turlock Transit Center,3/Olive
+36,2331073,1,Turlock Transit Center,6/Soderquist
+36,2331053,2,Fulkerth & Edgewater,"1/Countryside, 2/Geer, 6/Soderquist"
+36,2331054,3,Fulkerth & Logan,6/Soderquist
+36,2331055,4,Tully & Mayfaire,6/Soderquist
+36,2331056,5,Tully & Canal,6/Soderquist
+36,2331057,6,Tully & Main,6/Soderquist
+36,2331058,7,Main & Osborn School,6/Soderquist
+36,2331059,8,Main & Soderquist,6/Soderquist
+36,2331060,9,West & Columbia,6/Soderquist
+36,2331061,10,West & Vermont,6/Soderquist
+36,2331062,11,West & South,6/Soderquist
+37,2331073,1,Turlock Transit Center,6/Soderquist
+37,2331053,2,Fulkerth & Edgewater,"1/Countryside, 2/Geer, 6/Soderquist"
+37,2331054,3,Fulkerth & Logan,6/Soderquist
+37,2331055,4,Tully & Mayfaire,6/Soderquist
+37,2331056,5,Tully & Canal,6/Soderquist
+37,2331057,6,Tully & Main,6/Soderquist
+37,2331058,7,Main & Osborn School,6/Soderquist
+37,2331059,8,Main & Soderquist,6/Soderquist
+37,2331060,9,West & Columbia,6/Soderquist
+37,2331061,10,West & Vermont,6/Soderquist
+37,2331062,11,West & South,6/Soderquist
+38,2331062,1,West & South,6/Soderquist
+38,2331064,2,South & Soderquist,6/Soderquist
+38,2331065,3,Soderquist & High,6/Soderquist
+38,2331066,4,Soderquist & Main,6/Soderquist
+38,2331067,5,Soderquist & Flower,6/Soderquist
+38,2331068,6,Soderquist & Canal,6/Soderquist
+38,2331069,7,Tully & Canal,6/Soderquist
+38,2331070,8,Tully & Mayfaire,6/Soderquist
+38,2331071,9,Fulkerth & Tully,6/Soderquist
+38,2331072,10,Fulkerth & Edgewater,6/Soderquist
+38,2331073,11,Turlock Transit Center,6/Soderquist
+39,2331062,1,West & South,6/Soderquist
+39,2331064,2,South & Soderquist,6/Soderquist
+39,2331065,3,Soderquist & High,6/Soderquist
+39,2331066,4,Soderquist & Main,6/Soderquist
+39,2331067,5,Soderquist & Flower,6/Soderquist
+39,2331068,6,Soderquist & Canal,6/Soderquist
+39,2331069,7,Tully & Canal,6/Soderquist
+39,2331070,8,Tully & Mayfaire,6/Soderquist
+39,2331071,9,Fulkerth & Tully,6/Soderquist
+39,2331072,10,Fulkerth & Edgewater,6/Soderquist
+39,2331073,11,Turlock Transit Center,6/Soderquist
+40,841003,1,Iron Horse Pkway (Dublin Bart Station),/StaRT BART Commuter
+40,842384,2,Ward Ave & E Las Palmas Ave (Walmart),"45W/West-Gustine/Newman/Patterson/Crows Landing, /StaRT BART Commuter"
+40,10389,3,Golden State Blvd. & Del's Ln. (Turlock Transit  Center),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, 70/Modesto/ Turlock/ Merced, /StaRT BART Commuter"
+41,10391,1,Fulkerth Rd. & N. Tully Rd. (Walmart),"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 45E/East-Turlock/ Patterson, /StaRT BART Commuter"
+41,842384,2,Ward Ave & E Las Palmas Ave (Walmart),"45W/West-Gustine/Newman/Patterson/Crows Landing, /StaRT BART Commuter"
+41,841003,3,Iron Horse Pkway (Dublin Bart Station),/StaRT BART Commuter
+42,10448,1,Yosemite Blvd. & South Western Ave. (Valley IGA),"61/Waterford / Modesto, /Waterford Dial-A-Ride"
+42,10449,2,Waterford Police Station,"61/Waterford / Modesto, /Waterford Dial-A-Ride"
+42,10416,3,S. Maag Ave. & E. F. St.,"60/Modesto/ Riverbank/ Oakdale, /Waterford Dial-A-Ride"
+42,10449,4,Waterford Police Station,"61/Waterford / Modesto, /Waterford Dial-A-Ride"
+42,10448,5,Yosemite Blvd. & South Western Ave. (Valley IGA),"61/Waterford / Modesto, /Waterford Dial-A-Ride"
+43,10506,1,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+43,842379,2,Yosemite Ave & S Abbie St. (Empire) ,61/Waterford / Modesto
+43,842380,3,Yosemite Blvd. & S. Western Ave. (Waterford ),61/Waterford / Modesto
+43,10449,4,Waterford Police Station,"61/Waterford / Modesto, /Waterford Dial-A-Ride"
+43,770747,5,I St. & Lake Rd.,61/Waterford / Modesto
+43,10447,6,"Hughson (Resource Center, 3rd & Hughson)",61/Waterford / Modesto
+43,840913,7,E. Whitmore &  Tully Rd ,61/Waterford / Modesto
+43,840914,8, Mitchell Rd & E. Hatch Rd (Walmart),61/Waterford / Modesto
+43,10505,9,E. Hatch Rd. & Herndon Rd. (Home Depot),"15/Modesto/ Ceres/ Keyes/ Turlock, 61/Waterford / Modesto, A/Depreciated Route A, C/Depreciated Route C"
+43,10506,10,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+44,10506,1,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+44,842379,2,Yosemite Ave & S Abbie St. (Empire) ,61/Waterford / Modesto
+44,842380,3,Yosemite Blvd. & S. Western Ave. (Waterford ),61/Waterford / Modesto
+44,10449,4,Waterford Police Station,"61/Waterford / Modesto, /Waterford Dial-A-Ride"
+44,770747,5,I St. & Lake Rd.,61/Waterford / Modesto
+44,10447,6,"Hughson (Resource Center, 3rd & Hughson)",61/Waterford / Modesto
+44,840913,7,E. Whitmore &  Tully Rd ,61/Waterford / Modesto
+44,840914,8, Mitchell Rd & E. Hatch Rd (Walmart),61/Waterford / Modesto
+44,10505,9,E. Hatch Rd. & Herndon Rd. (Home Depot),"15/Modesto/ Ceres/ Keyes/ Turlock, 61/Waterford / Modesto, A/Depreciated Route A, C/Depreciated Route C"
+44,10506,10,Modesto Transit Center,"10/Express Service Modesto/Turlock, 15/Modesto/ Ceres/ Keyes/ Turlock, 40/Modesto/ Patterson, 60/Modesto/ Riverbank/ Oakdale, 61/Waterford / Modesto, 70/Modesto/ Turlock/ Merced"
+45,10477,1,6th St. & 3rd St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+45,10478,2,Inyo Ave. & Main St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+45,10474,3,Merced St. & S St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+45,801459,4,Kern St. & S St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+45,10470,5,Kern St. & Main St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+45,10487,6,Hwy 33 & 5th St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+45,10443,7,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+46,10477,1,6th St. & 3rd St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+46,10478,2,Inyo Ave. & Main St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+46,10474,3,Merced St. & S St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+46,801459,4,Kern St. & S St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+46,10470,5,Kern St. & Main St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+46,10487,6,Hwy 33 & 5th St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+46,10443,7,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+47,10443,1,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+47,10488,2,Sperry Ave. & S. Del Puerto Ave. ,45W/West-Gustine/Newman/Patterson/Crows Landing
+47,842384,3,Ward Ave & E Las Palmas Ave (Walmart),"45W/West-Gustine/Newman/Patterson/Crows Landing, /StaRT BART Commuter"
+47,758782,4,Rogers Rd. & Speno Dr.,45W/West-Gustine/Newman/Patterson/Crows Landing
+47,758783,5,Keystone Pacific Pkwy. & Rogers Rd. (Grainger),45W/West-Gustine/Newman/Patterson/Crows Landing
+47,758784,6,Keystone Pacific Pkwy. & Park Center Dr.,45W/West-Gustine/Newman/Patterson/Crows Landing
+47,758785,7,Keystone Pacific Pkwy. & Keystone Blvd. (Del Puerto Health Center),45W/West-Gustine/Newman/Patterson/Crows Landing
+47,10464,8,Ward Ave. at Las Palmas,45W/West-Gustine/Newman/Patterson/Crows Landing
+47,10465,9,Hwy 33 & 5th St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+47,10471,10,Driskell Ave. & Amy Dr.,45W/West-Gustine/Newman/Patterson/Crows Landing
+47,10473,11,Merced St. & Eucalyptus Ave.,45W/West-Gustine/Newman/Patterson/Crows Landing
+47,10477,12,6th St. & 3rd St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+48,10443,1,S. Salado St. & N. 2nd St. (Veterans Memorial Park) ,"40/Modesto/ Patterson, 45E/East-Turlock/ Patterson, 45W/West-Gustine/Newman/Patterson/Crows Landing"
+48,10488,2,Sperry Ave. & S. Del Puerto Ave. ,45W/West-Gustine/Newman/Patterson/Crows Landing
+48,842384,3,Ward Ave & E Las Palmas Ave (Walmart),"45W/West-Gustine/Newman/Patterson/Crows Landing, /StaRT BART Commuter"
+48,758782,4,Rogers Rd. & Speno Dr.,45W/West-Gustine/Newman/Patterson/Crows Landing
+48,758783,5,Keystone Pacific Pkwy. & Rogers Rd. (Grainger),45W/West-Gustine/Newman/Patterson/Crows Landing
+48,758784,6,Keystone Pacific Pkwy. & Park Center Dr.,45W/West-Gustine/Newman/Patterson/Crows Landing
+48,758785,7,Keystone Pacific Pkwy. & Keystone Blvd. (Del Puerto Health Center),45W/West-Gustine/Newman/Patterson/Crows Landing
+48,10464,8,Ward Ave. at Las Palmas,45W/West-Gustine/Newman/Patterson/Crows Landing
+48,10465,9,Hwy 33 & 5th St.,45W/West-Gustine/Newman/Patterson/Crows Landing
+48,10471,10,Driskell Ave. & Amy Dr.,45W/West-Gustine/Newman/Patterson/Crows Landing
+48,10473,11,Merced St. & Eucalyptus Ave.,45W/West-Gustine/Newman/Patterson/Crows Landing
+48,10477,12,6th St. & 3rd St.,45W/West-Gustine/Newman/Patterson/Crows Landing

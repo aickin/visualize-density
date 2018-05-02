@@ -1,0 +1,17 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+VNYi,LAX FlyAway,VN2LAX,Van Nuys FlyAway to LAX,,3,,0000FF,FFFF00
+VNYo,LAX FlyAway,LAX2VN,FlyAway to Van Nuys,,3,,0000FF,FFFF00
+WWDi,LAX FlyAway,WD2LAX,Westwood FlyAway to LAX,,3,,0000FF,FFFF00
+WWDo,LAX FlyAway,LAX2WD,FlyAway to UCLA/Westwood,,3,,0000FF,FFFF00
+USTi,LAX FlyAway,US2LAX,Union Station FlyAway to LAX,,3,,0000FF,FFFF00
+USTo,LAX FlyAway,LAX2US,FlyAway to Union Station/Downtown,,3,,0000FF,FFFF00
+HWDi,LAX FlyAway,HW2LAX,Hollywood FlyAway to LAX,,3,,0000FF,FFFF00
+HWDo,LAX FlyAway,LAX2HW,FlyAway to Hollywood,,3,,0000FF,FFFF00
+LGBi,LAX FlyAway,LB2LAX,Long Beach FlyAway to LAX,,3,,0000FF,FFFF00
+LGBo,LAX FlyAway,LAX2LB,FlyAway to Long Beach,,3,,0000FF,FFFF00
+OLVi,LAX FlyAway,OL2LAX,Van Nuys Orange Line FlyAway to LAX,,3,,0000FF,FFFF00
+OLVo,LAX FlyAway,LAX2OL,FlyAway to Van Nuys Orange Line,,3,,0000FF,FFFF00
+CSHTLi,LAX FlyAway,BusCI,Shuttle C to Terminals,,3,,0000FF,FFFF00
+CSHTLo,LAX FlyAway,BusCO,Shuttle C to Parking Lot C,,3,,0000FF,FFFF00
+GSHTLi,LAX FlyAway,BusGI,Shuttle G to Terminals,,3,,0000FF,FFFF00
+GSHTLo,LAX FlyAway,BusGO,Shuttle G to Metro Rail,,3,,0000FF,FFFF00

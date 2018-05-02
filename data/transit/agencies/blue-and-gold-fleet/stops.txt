@@ -1,0 +1,6 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id,stop_desc,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+"1091722","1091722",Angel Island Ferry Terminal,37.868787,-122.435241,,"","","0","","",""
+"1091723","1091723",Ferry Building,37.7955169,-122.3934728,,"","","0","","",""
+"1091724","1091724",Pier 41,37.809525,-122.412259,,"","","0","","",""
+"1091727","1091727",Sausalito Ferry Terminal,37.856185,-122.477686,,"","","0","","",""
+"1091728","1091728",Tiburon Ferry Terminal,37.872644,-122.455382,,"","","0","","",""

@@ -1,0 +1,14 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,direction0_name,direction1_name
+9,slorta,9,San Miguel - San Luis Obispo,,3,http://www.slorta.org/schedules-fares/route-9/,99FF33,000000,Atascadero / Templeton / Paso Robles / San Miguel,Paso Robles / Templeton / Atascadero / San Luis Obispo
+10,slorta,10,Santa Maria - San Luis Obispo,,3,http://www.slorta.org/schedules-fares/route-10/,FF00CC,FFFFFF,Five Cities / Santa Maria,Five Cities / San Luis Obispo
+12,slorta,12,Morro Bay - Cuesta College - San Luis Obispo,,3,http://www.slorta.org/schedules-fares/route-12/,007F99,FFFFFF,Morro Bay,San Luis Obispo
+12X,slorta,12X,Cal Poly Express - MB and Los Osos,,3,http://www.slorta.org/schedules-fares/route-12/,007F99,FFFFFF,Morro Bay,San Luis Obispo
+14,slorta,14,San Luis Obispo - Cuesta College,,3,http://www.slorta.org/schedules-fares/route-14/,007F99,FFFFFF,Cuesta College,San Luis Obispo
+15,slorta,15,Morro Bay to/from Hearst Castle,,3,http://www.slorta.org/schedules-fares/route-15/,9766FF,FFFFFF,Hearst Castle,Morro Bay
+R21,10215235,21,Pismo Beach,Pismo Beach/Shell Beach/Premium Outlets/K-Mart/Wal-Mart and Grand Avenue,3,http://www.slorta.org/schedules-fares/route-21/,20E040,FFFFFF,Premium Outlets / K-Mart/Wal-Mart,B>A
+24,10215235,24,Arroyo Grande,Grand Avenue (eastbound)/ Arroyo Grande City Hall/ K-Mart/ Premium Outlets/ Dinosaur Park and Pismo Beach,3,http://www.slorta.org/schedules-fares/route-24/,FF9933,FFFFFF,Premium Outlets / Pismo Beach,B > A
+27,10215235,27,"Grover Beach, Arroyo Grande, Oceano Clockwise",,3,http://www.slorta.org/schedules-fares/route-27/,229E91,FFFFFF,Arroyo Grande > Oceano Clockwise,B
+28,10215235,28,"Grover Beach, Oceano, Arroyo Grande Counterclockwise",,3,http://www.slorta.org/schedules-fares/route-28/,C213CF,FFFFFF,Arroyo Grande > Oceano Counterclockwise,B
+avilabeach,avila,,Avila Beach Trolley,,3,http://www.slorta.org/schedules-fares/avila-trolley/,336633,FFFFFF,Avila Beach & Premium Outlets,B > A
+A,10184575,A,Paso Robles local service,,3,http://www.slorta.org/schedules-fares/paso-express/,330066,FFFFFF,North County Transportation Center / WalMart,North County Transportation Center / Spring & 34th
+B,10184575,B,Paso Robles local service,"Same route as Route A, but in the opposite direction",3,http://www.slorta.org/schedules-fares/paso-express/,330066,FFFFFF,North County Transportation Center,B > A

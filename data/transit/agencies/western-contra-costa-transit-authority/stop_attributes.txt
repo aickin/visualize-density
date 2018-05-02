@@ -1,0 +1,228 @@
+stop_id,stop_city
+791419,Hercules
+791420,Hercules
+791421,Hercules
+791422,Rodeo
+791423,Rodeo
+791424,Rodeo
+791425,Hercules
+791426,Hercules
+791427,Pinole
+791428,Pinole
+791429,Pinole
+791430,Pinole
+791432,Pinole
+791433,Pinole
+791434,Pinole
+791435,Pinole
+791436,Pinole
+791437,Pinole
+791438,Pinole
+791439,Pinole
+791440,Pinole
+791441,Pinole
+791442,Pinole
+791443,Pinole
+791444,Pinole
+791445,San Pablo
+791446,Pinole
+791447,Pinole
+791449,San Pablo
+791451,Pinole
+791452,Pinole
+791453,Pinole
+791454,San Pablo
+791455,San Pablo
+791456,San Pablo
+791457,San Pablo
+791458,San Pablo
+791459,San Pablo
+791460,San Pablo
+791461,Pinole
+791462,Pinole
+791463,Rodeo
+791464,Rodeo
+791465,Rodeo
+791466,Hercules
+791467,San Francisco
+791468,Hercules
+791469,El Cerrito
+791470,San Pablo
+791471,Pinole
+791472,Pinole
+791473,Hercules
+791474,Hercules
+791475,San Pablo
+791476,Martinez
+791477,Martinez
+791478,Martinez
+791479,Martinez
+791480,Hercules
+791481,Hercules
+791482,Hercules
+791483,Hercules
+791484,Hercules
+791485,Hercules
+791486,Hercules
+791487,Hercules
+791488,Hercules
+791489,Hercules
+791490,Hercules
+791491,Pinole
+791492,Hercules
+791493,Pinole
+791494,Pinole
+791496,Pinole
+791497,Pinole
+791498,San Pablo
+791499,San Pablo
+791500,San Pablo
+791501,San Pablo
+791502,Pinole
+791503,Rodeo
+791504,Rodeo
+791505,Rodeo
+791506,Crockett
+791507,Crockett
+791508,Crockett
+791509,Crockett
+791510,Crockett
+791511,Rodeo
+791512,Rodeo
+791513,Hercules
+791514,Pinole
+791515,Pinole
+791516,Pinole
+791517,Pinole
+791518,San Pablo
+791519,Pinole
+791520,Pinole
+791521,Pinole
+791522,Hercules
+791525,Hercules
+791526,Hercules
+791527,Pinole
+791528,El Cerrito
+791529,Hercules
+791530,Hercules
+791531,Hercules
+791532,Hercules
+791533,Hercules
+791534,Hercules
+791535,Hercules
+791536,Hercules
+791537,Hercules
+791538,Hercules
+791539,Hercules
+791540,Hercules
+791541,Hercules
+791542,Hercules
+791543,Hercules
+791544,Hercules
+791545,Hercules
+791546,Hercules
+791547,Hercules
+791548,Hercules
+791549,Hercules
+791550,Hercules
+791551,Hercules
+791552,Hercules
+791553,Hercules
+791554,Hercules
+791555,Hercules
+791556,Hercules
+791557,Hercules
+791558,Hercules
+791559,San Pablo
+791560,San Pablo
+791561,San Pablo
+791562,San Pablo
+791563,San Pablo
+791564,San Pablo
+791565,Pinole
+791566,Pinole
+791567,San Pablo
+791568,San Pablo
+791569,San Pablo
+791570,Pinole
+791571,Pinole
+791572,Pinole
+791573,Rodeo
+791574,Pinole
+791575,Pinole
+791576,Rodeo
+791577,Pinole
+791578,Rodeo
+791579,Rodeo
+791580,Rodeo
+791581,Rodeo
+791582,Pinole
+791583,Pinole
+791584,Pinole
+791585,Pinole
+791586,Pinole
+791587,Pinole
+791588,Pinole
+791589,Pinole
+791590,Pinole
+791591,Pinole
+791592,Pinole
+791593,Pinole
+791594,Pinole
+791595,Pinole
+791596,Pinole
+791597,Rodeo
+791598,Martinez
+791599,Rodeo
+791600,Pinole
+791601,Rodeo
+791602,Martinez
+791603,Martinez
+791604,Martinez
+791605,Martinez
+791606,Martinez
+791607,Martinez
+791608,Martinez
+791609,Martinez
+791610,Martinez
+791611,Martinez
+791612,San Pablo
+791613,San Pablo
+791614,San Pablo
+791615,San Pablo
+791616,San Pablo
+791617,Rodeo
+791619,Hercules
+791620,Pinole
+791621,San Pablo
+791622,Hercules
+791623,Pinole
+791624,Pinole
+791625,Pinole
+791626,Pinole
+791627,San Pablo
+791628,Martinez
+791629,Martinez
+791630,Hercules
+791631,Hercules
+791632,Hercules
+791633,Hercules
+791634,Martinez
+791635,Pinole
+791636,Pinole
+791637,Hercules
+791638,Rodeo
+791639,Rodeo
+791640,Rodeo
+791641,Crockett
+791642,Crockett
+791643,Rodeo
+791644,Rodeo
+791645,Rodeo
+791646,San Pablo
+791647,Crockett
+791648,San Pablo
+836604,Hercules
+844542,Hercules
+848767,Hercules
+2328345,Pinole

@@ -1,0 +1,10 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,Porterville,1,Sierra View District Hospital - Porterville High School,Route 1 Travels West on Olive to Morton.,3,http://www.ci.porterville.ca.us/depts/PortervilleTransit/documents/Route1.pdf,0000FF,FFFFFF
+2,Porterville,2,Monache High School - Henderson Avenue,Route 2 Travels West on Henderson to Westfield.,3,http://www.ci.porterville.ca.us/depts/PortervilleTransit/documents/Route2.pdf,008000,FFFFFF
+3,Porterville,3,East Porterville - Granit Hills High School,Route 3 Travels East on Springville.,3,http://www.ci.porterville.ca.us/depts/PortervilleTransit/documents/Route3.pdf,800080,FFFFFF
+4,Porterville,4,Developmental Center - Porterville College,Route 4 Travels to the Developmental Center and Porterville College,3,http://www.ci.porterville.ca.us/depts/PortervilleTransit/documents/Route4.pdf,FFD000,000000
+5,Porterville,5,Veterans Park - Henderson Avenue,Route 5 Travels West on Morton to Henderson.,3,http://www.ci.porterville.ca.us/depts/PortervilleTransit/documents/Route5.pdf,FF0000,FFFFFF
+6,Porterville,6,Family HealthCare Clinic Loop,Route 6 Travels South on Jaye to the Family HealthCare Network.,3,http://www.ci.porterville.ca.us/depts/PortervilleTransit/documents/Route6.pdf,000000,FFFFFF
+7,Porterville,7,Porterville Adult School - Prospect Street,Route 7 Operates every other 40 minutes.  Route 7 and 8 share the same bus.,3,http://www.ci.porterville.ca.us/depts/PortervilleTransit/documents/Route7.pdf,FFFF00,000000
+8,Porterville,8,Northeast Porterville - Granit Hills High School,Route 8 Operates every other 40 minutes.  Route 8 and 7 share the same bus.,3,http://www.ci.porterville.ca.us/depts/PortervilleTransit/documents/Route8.pdf,808080,FFFFFF
+9,Porterville,9,Porterville - Tule River Inidian Reservation,Route 9 Operates every hour to the Tule River Indian Reservation,3,http://www.ci.porterville.ca.us/depts/PortervilleTransit/documents/Route9.pdf,00FFFF,000000

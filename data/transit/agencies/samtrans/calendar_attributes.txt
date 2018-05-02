@@ -1,0 +1,30 @@
+service_id,service_description
+124-A-Weekday-55,Weekday
+124-A-Weekday-55-SDon,Weekday
+124-A-Weekday-55-SDon-1110100,Mon Tue Wed Fri
+124-A-Weekday-55-SDon-0101000,Tue Thu
+124-A-Saturday-50,Saturday
+124-A-Sunday-50,Sunday
+124-A-Holiday1-51,Holiday1
+124-C-Weekday-53,Weekday
+124-C-Weekday-53-SDon,Weekday
+124-C-Weekday-53-SDon-1101100,Mon Tue Thu Fri
+124-C-Weekday-53-SDon-0010000,Wed
+124-C-Weekday-53-SDon-1100100,Mon Tue Fri
+124-C-Saturday-52,Saturday
+124-C-Sunday-52,Sunday
+124-D-Weekday-56,Weekday
+124-D-Weekday-56-SDon,Weekday
+124-D-Weekday-56-SDoff,Weekday
+124-D-Weekday-56-SDon-1110100,Mon Tue Wed Fri
+124-D-Weekday-56-SDon-0001000,Thu
+124-D-Weekday-56-SDon-1101100,Mon Tue Thu Fri
+124-D-Weekday-56-SDon-0010000,Wed
+124-D-Weekday-56-SDon-1100100,Mon Tue Fri
+124-D-Weekday-56-SDon-0011000,Wed Thu
+124-D-Weekday-56-SDon-0100000,Tue
+124-D-Weekday-56-SDon-1011100,Mon Wed Thu Fri
+124-D-Saturday-51,Saturday
+124-D-Sunday-51,Sunday
+124-D-Holiday1-51,Holiday1
+124-S-Weekday-01,Weekday

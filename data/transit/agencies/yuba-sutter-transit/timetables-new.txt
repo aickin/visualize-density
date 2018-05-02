@@ -1,0 +1,37 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,6465,1,20130101,20190101,0,1,1,1,0,0,0,Foothill Route,Year-round service,Westbound,horizontal
+2,6465,,20130101,20190101,0,1,1,1,0,0,0,Foothill Route,Year-round service,Eastbound,horizontal
+3,472,1,20130101,20190101,1,1,1,1,1,0,0,HWY 70 to Sacramento,Sacramento Routes Year Round (Monday-Friday),Outbound,horizontal
+4,472,,20130101,20190101,1,1,1,1,1,0,0,HWY 70 to Sacramento,Sacramento Routes Year Round (Monday-Friday),Inbound,horizontal
+5,473,1,20130101,20190101,1,1,1,1,1,0,0,HWY 99 to Sacramento,Sacramento Routes Year Round (Monday-Friday),Outbound,horizontal
+6,473,,20130101,20190101,1,1,1,1,1,0,0,HWY 99 to Sacramento,Sacramento Routes Year Round (Monday-Friday),Inbound,horizontal
+7,473,,20130101,20190101,1,1,1,1,1,0,0,HWY 99 to Sacramento,Sacramento Routes Year Round (Monday-Friday),,horizontal
+8,367,,20130101,20190101,0,0,0,0,0,1,0,Linda Shuttle,Year-round service (Saturday only),,horizontal
+9,367,,20130101,20190101,1,1,1,1,1,0,0,Linda Shuttle,Year-round service (Monday-Friday),,horizontal
+10,6463,1,20130101,20190101,1,1,1,1,1,0,0,Live Oak Route,Year-round service (Monday-Friday),Southbound,horizontal
+11,6463,,20130101,20190101,1,1,1,1,1,0,0,Live Oak Route,Year-round service (Monday-Friday),Northbound,horizontal
+12,365,,20130101,20190101,0,0,0,0,0,1,0,Marysville Loop,Year-round service (Saturday only),Clockwise,horizontal
+13,365,,20130101,20190101,1,1,1,1,1,0,0,Marysville Loop,Year-round service (Monday-Friday),Clockwise,horizontal
+14,370,1,20130101,20190101,0,0,0,0,0,1,0,Marysville Loop,Year-round service (Saturday only),Counter-clockwise,horizontal
+15,370,1,20130101,20190101,1,1,1,1,1,0,0,Marysville Loop,Year-round service (Monday-Friday),Counter-clockwise,horizontal
+16,6462,,20130101,20190101,1,0,1,0,1,0,0,New Route,Year-round service,Northbound,horizontal
+17,364,1,20130101,20190101,0,0,0,0,0,1,0,Olivehurst to Yuba College,Year-round service (Saturday only),Southbound,horizontal
+18,364,1,20130101,20190101,1,1,1,1,1,0,0,Olivehurst to Yuba College,Year-round service (Monday-Friday),Southbound,horizontal
+19,364,,20130101,20190101,0,0,0,0,0,1,0,Olivehurst to Yuba College,Year-round service (Saturday only),to Yuba College,horizontal
+20,364,,20130101,20190101,1,1,1,1,1,0,0,Olivehurst to Yuba College,Year-round service (Monday-Friday),to Yuba College,horizontal
+21,474,1,20130101,20190101,1,1,1,1,1,0,0,Sacramento Mid Day Express,Sacramento Routes Year Round (Monday-Friday),Outbound,horizontal
+22,474,,20130101,20190101,1,1,1,1,1,0,0,Sacramento Mid Day Express,Sacramento Routes Year Round (Monday-Friday),Inbound,horizontal
+23,366,1,20130101,20190101,0,0,0,0,0,1,0,Southwest Yuba City,Year-round service (Saturday only),Southbound,horizontal
+24,366,1,20130101,20190101,1,1,1,1,1,0,0,Southwest Yuba City,Year-round service (Monday-Friday),Southbound,horizontal
+25,366,,20130101,20190101,0,0,0,0,0,1,0,Southwest Yuba City,Year-round service (Saturday only),Northbound,horizontal
+26,366,,20130101,20190101,1,1,1,1,1,0,0,Southwest Yuba City,Year-round service (Monday-Friday),Northbound,horizontal
+27,6464,1,20130101,20190101,1,1,1,1,1,0,0,Wheatland Route,Year-round service (Monday-Friday),Southbound,horizontal
+28,6464,,20130101,20190101,1,1,1,1,1,0,0,Wheatland Route,Year-round service (Monday-Friday),Northbound,horizontal
+29,363,,20130101,20190101,0,0,0,0,0,1,0,Yuba City Loop,Year-round service (Saturday only),Clockwise,horizontal
+30,363,,20130101,20190101,1,1,1,1,1,0,0,Yuba City Loop,Year-round service (Monday-Friday),Clockwise,horizontal
+31,369,1,20130101,20190101,0,0,0,0,0,1,0,Yuba City Loop,Year-round service (Saturday only),Counter-clockwise,horizontal
+32,369,1,20130101,20190101,1,1,1,1,1,0,0,Yuba City Loop,Year-round service (Monday-Friday),Counter-clockwise,horizontal
+33,362,1,20130101,20190101,0,0,0,0,0,1,0,Yuba City to Yuba College,Year-round service (Saturday only),to Yuba City,horizontal
+34,362,1,20130101,20190101,1,1,1,1,1,0,0,Yuba City to Yuba College,Year-round service (Monday-Friday),to Yuba City,horizontal
+35,362,,20130101,20190101,0,0,0,0,0,1,0,Yuba City to Yuba College,Year-round service (Saturday only),to Yuba College,horizontal
+36,362,,20130101,20190101,1,1,1,1,1,0,0,Yuba City to Yuba College,Year-round service (Monday-Friday),to Yuba College,horizontal

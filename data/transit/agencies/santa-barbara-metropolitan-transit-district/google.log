@@ -1,0 +1,262 @@
+Interface Name: GoogleExport
+Service Name: GoogleExport
+
+Export To: T:\Google Export From Trapeze\Feed\
+Log File: T:\Google Export From Trapeze\Feed\google.log
+
+Format: Delimiter
+Delimiter: ,
+Qualifier: "
+
+Selected Files: 
+	agency.txt
+	stops.txt
+	routes.txt
+	trips.txt
+	stop times.txt
+	calendar.txt
+	calendar dates.txt
+	shapes.txt
+	feed_info.txt
+
+SignUp Period:
+	171127 November 27
+
+ServiceGroup(s):
+	SAT Saturday
+	Sun Spec Sunday Special
+	SUN Sunday
+	WKDY Weekday
+
+Line(s):
+	 1 - West Santa Barbara
+	 2 - East Santa Barbara
+	 3 - Oak Park
+	 4 - Mesa/SBCC
+	 5 - Mesa/La Cumbre
+	 6 - Goleta
+	 7 - Goleta Old Town
+	10 - Cathedral Oaks
+	11 - UCSB
+	12X - Goleta Express
+	14 - Montecito
+	15X - SBCC/UCSB Express
+	16 - City College
+	17 - Lower West/SBCC
+	20 - Carpinteria
+	2010 - Alpha Resource Center
+	2110 - Santa Barbara Jr. High
+	21X - Carpinteria Express
+	23 - El Encanto Heights
+	2410 - La Colina Jr. High
+	2420 - La Colina Jr. High
+	2430 - La Colina Jr. High
+	24X - UCSB Express
+	25 - Ellwood / Winchester
+	2510 - San Marcos High School
+	2520 - San Marcos High School
+	2530 - San Marcos High School
+	2540 - San Marcos High School
+	2610 - Goleta Valley Jr. High
+	2620 - Goleta Valley Jr. High
+	2630 - Goleta Valley Jr. High
+	2650 - Goleta Valley Jr. High
+	2660 - Goleta Valley Jr. High
+	27 - Isla Vista Shuttle
+	2710 - Dos Pueblos High School
+	2720 - Dos Pueblos High School
+	2730 - Dos Pueblos High School
+	2740 - Dos Pueblos High School
+	28 - UCSB Shuttle
+	30 - Downtown Shuttle
+	31 - Waterfront Shuttle - Zoo
+	32 - Waterfront Shuttle - Harbor
+	36 - Seaside Shuttle
+	37 - Crosstown Shuttle
+
+Options:
+	Use GPS Coordinates: No
+	StopId Field: StopId
+	RouteId Field: LineId
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Date      time    Message                                          
+--------  ------  -------------------------------------------------
+11-09-17   3:18p  Start export.                                    
+11-09-17   3:18p  Loaded 2 supplementary Records.                  
+11-09-17   3:18p  Loaded signup.                                   
+11-09-17   3:18p  Loaded 143 Headsigns.                            
+11-09-17   3:18p  Loaded 3 Calendar_dates.                         
+11-09-17   3:18p  Loaded 2562 stop pattern distances.              
+11-09-17   3:18p  Loaded 4 ServiceGroups.                          
+11-09-17   3:18p  Loaded 94 rows of ServiceGroup/ExcCombo Info.    
+11-09-17   3:18p  Loaded 2 AccessibilityTypes.                     
+11-09-17   3:18p  Loaded 11 BusTypes.                              
+11-09-17   3:18p  Loaded 44 lines.                                 
+11-09-17   3:18p  Loaded 4176 trips.                               
+11-09-17   3:18p  Loaded 697 stops.                                
+11-09-17   3:18p  Session 2 was created.                           
+11-09-17   3:18p  Exported agency file.                            
+11-09-17   3:18p  Exported 697 stops records.                      
+11-09-17   3:18p  Exported 44 route records.                       
+11-09-17   3:18p  Exported 4176 trip records.                      
+11-09-17   3:18p  Exported 330 stop time records from trip 0 to 29.
+11-09-17   3:18p  Got 330 stop times from trip 30 to 59.           
+11-09-17   3:18p  Got 301 stop times from trip 60 to 89.           
+11-09-17   3:18p  Got 300 stop times from trip 90 to 119.          
+11-09-17   3:18p  Got 438 stop times from trip 120 to 149.         
+11-09-17   3:18p  Got 480 stop times from trip 150 to 179.         
+11-09-17   3:18p  Got 528 stop times from trip 180 to 209.         
+11-09-17   3:18p  Got 540 stop times from trip 210 to 239.         
+11-09-17   3:18p  Got 691 stop times from trip 240 to 269.         
+11-09-17   3:18p  Got 721 stop times from trip 270 to 299.         
+11-09-17   3:18p  Got 494 stop times from trip 300 to 329.         
+11-09-17   3:18p  Got 539 stop times from trip 330 to 359.         
+11-09-17   3:18p  Got 850 stop times from trip 360 to 389.         
+11-09-17   3:18p  Got 1387 stop times from trip 390 to 419.        
+11-09-17   3:18p  Got 1345 stop times from trip 420 to 449.        
+11-09-17   3:18p  Got 1062 stop times from trip 450 to 479.        
+11-09-17   3:18p  Got 950 stop times from trip 480 to 509.         
+11-09-17   3:18p  Got 1278 stop times from trip 510 to 539.        
+11-09-17   3:18p  Got 1554 stop times from trip 540 to 569.        
+11-09-17   3:18p  Got 1590 stop times from trip 570 to 599.        
+11-09-17   3:18p  Got 517 stop times from trip 600 to 629.         
+11-09-17   3:18p  Got 875 stop times from trip 630 to 659.         
+11-09-17   3:18p  Got 489 stop times from trip 660 to 689.         
+11-09-17   3:18p  Got 450 stop times from trip 690 to 719.         
+11-09-17   3:18p  Got 393 stop times from trip 720 to 749.         
+11-09-17   3:18p  Got 315 stop times from trip 750 to 779.         
+11-09-17   3:18p  Got 240 stop times from trip 780 to 809.         
+11-09-17   3:18p  Got 251 stop times from trip 810 to 839.         
+11-09-17   3:18p  Got 253 stop times from trip 840 to 869.         
+11-09-17   3:18p  Got 1296 stop times from trip 870 to 899.        
+11-09-17   3:18p  Got 1319 stop times from trip 900 to 929.        
+11-09-17   3:18p  Got 640 stop times from trip 930 to 959.         
+11-09-17   3:18p  Got 270 stop times from trip 960 to 989.         
+11-09-17   3:18p  Got 463 stop times from trip 990 to 1019.        
+11-09-17   3:18p  Got 419 stop times from trip 1020 to 1049.       
+11-09-17   3:18p  Got 360 stop times from trip 1050 to 1079.       
+11-09-17   3:18p  Got 306 stop times from trip 1080 to 1109.       
+11-09-17   3:18p  Got 367 stop times from trip 1110 to 1139.       
+11-09-17   3:18p  Got 388 stop times from trip 1140 to 1169.       
+11-09-17   3:18p  Got 390 stop times from trip 1170 to 1199.       
+11-09-17   3:18p  Got 412 stop times from trip 1200 to 1229.       
+11-09-17   3:18p  Got 420 stop times from trip 1230 to 1259.       
+11-09-17   3:18p  Got 370 stop times from trip 1260 to 1289.       
+11-09-17   3:18p  Got 386 stop times from trip 1290 to 1319.       
+11-09-17   3:18p  Got 270 stop times from trip 1320 to 1349.       
+11-09-17   3:18p  Got 270 stop times from trip 1350 to 1379.       
+11-09-17   3:18p  Got 314 stop times from trip 1380 to 1409.       
+11-09-17   3:18p  Got 330 stop times from trip 1410 to 1439.       
+11-09-17   3:18p  Got 330 stop times from trip 1440 to 1469.       
+11-09-17   3:18p  Got 669 stop times from trip 1470 to 1499.       
+11-09-17   3:18p  Got 780 stop times from trip 1500 to 1529.       
+11-09-17   3:18p  Got 780 stop times from trip 1530 to 1559.       
+11-09-17   3:18p  Got 767 stop times from trip 1560 to 1589.       
+11-09-17   3:18p  Got 538 stop times from trip 1590 to 1619.       
+11-09-17   3:18p  Got 480 stop times from trip 1620 to 1649.       
+11-09-17   3:18p  Got 374 stop times from trip 1650 to 1679.       
+11-09-17   3:18p  Got 490 stop times from trip 1680 to 1709.       
+11-09-17   3:18p  Got 735 stop times from trip 1710 to 1739.       
+11-09-17   3:18p  Got 696 stop times from trip 1740 to 1769.       
+11-09-17   3:18p  Got 462 stop times from trip 1770 to 1799.       
+11-09-17   3:18p  Got 320 stop times from trip 1800 to 1829.       
+11-09-17   3:18p  Got 315 stop times from trip 1830 to 1859.       
+11-09-17   3:18p  Got 480 stop times from trip 1860 to 1889.       
+11-09-17   3:18p  Got 530 stop times from trip 1890 to 1919.       
+11-09-17   3:18p  Got 622 stop times from trip 1920 to 1949.       
+11-09-17   3:18p  Got 476 stop times from trip 1950 to 1979.       
+11-09-17   3:18p  Got 865 stop times from trip 1980 to 2009.       
+11-09-17   3:18p  Got 1417 stop times from trip 2010 to 2039.      
+11-09-17   3:18p  Got 1194 stop times from trip 2040 to 2069.      
+11-09-17   3:18p  Got 1390 stop times from trip 2070 to 2099.      
+11-09-17   3:18p  Got 1571 stop times from trip 2100 to 2129.      
+11-09-17   3:18p  Got 855 stop times from trip 2130 to 2159.       
+11-09-17   3:18p  Got 811 stop times from trip 2160 to 2189.       
+11-09-17   3:18p  Got 646 stop times from trip 2190 to 2219.       
+11-09-17   3:18p  Got 1370 stop times from trip 2220 to 2249.      
+11-09-17   3:18p  Got 354 stop times from trip 2250 to 2279.       
+11-09-17   3:18p  Got 485 stop times from trip 2280 to 2309.       
+11-09-17   3:18p  Got 350 stop times from trip 2310 to 2339.       
+11-09-17   3:18p  Got 390 stop times from trip 2340 to 2369.       
+11-09-17   3:18p  Got 280 stop times from trip 2370 to 2399.       
+11-09-17   3:18p  Got 326 stop times from trip 2400 to 2429.       
+11-09-17   3:18p  Got 714 stop times from trip 2430 to 2459.       
+11-09-17   3:18p  Got 768 stop times from trip 2460 to 2489.       
+11-09-17   3:18p  Got 780 stop times from trip 2490 to 2519.       
+11-09-17   3:18p  Got 597 stop times from trip 2520 to 2549.       
+11-09-17   3:18p  Got 473 stop times from trip 2550 to 2579.       
+11-09-17   3:18p  Got 345 stop times from trip 2580 to 2609.       
+11-09-17   3:18p  Got 506 stop times from trip 2610 to 2639.       
+11-09-17   3:18p  Got 484 stop times from trip 2640 to 2669.       
+11-09-17   3:18p  Got 312 stop times from trip 2670 to 2699.       
+11-09-17   3:18p  Got 420 stop times from trip 2700 to 2729.       
+11-09-17   3:18p  Got 520 stop times from trip 2730 to 2759.       
+11-09-17   3:18p  Got 600 stop times from trip 2760 to 2789.       
+11-09-17   3:18p  Got 593 stop times from trip 2790 to 2819.       
+11-09-17   3:18p  Got 1282 stop times from trip 2820 to 2849.      
+11-09-17   3:18p  Got 1365 stop times from trip 2850 to 2879.      
+11-09-17   3:18p  Got 1181 stop times from trip 2880 to 2909.      
+11-09-17   3:18p  Got 1560 stop times from trip 2910 to 2939.      
+11-09-17   3:18p  Got 1128 stop times from trip 2940 to 2969.      
+11-09-17   3:18p  Got 300 stop times from trip 2970 to 2999.       
+11-09-17   3:18p  Got 1059 stop times from trip 3000 to 3029.      
+11-09-17   3:18p  Got 663 stop times from trip 3030 to 3059.       
+11-09-17   3:18p  Got 492 stop times from trip 3060 to 3089.       
+11-09-17   3:18p  Got 356 stop times from trip 3090 to 3119.       
+11-09-17   3:18p  Got 386 stop times from trip 3120 to 3149.       
+11-09-17   3:18p  Got 285 stop times from trip 3150 to 3179.       
+11-09-17   3:18p  Got 326 stop times from trip 3180 to 3209.       
+11-09-17   3:18p  Got 741 stop times from trip 3210 to 3239.       
+11-09-17   3:18p  Got 780 stop times from trip 3240 to 3269.       
+11-09-17   3:18p  Got 767 stop times from trip 3270 to 3299.       
+11-09-17   3:18p  Got 494 stop times from trip 3300 to 3329.       
+11-09-17   3:18p  Got 325 stop times from trip 3330 to 3359.       
+11-09-17   3:18p  Got 570 stop times from trip 3360 to 3389.       
+11-09-17   3:18p  Got 428 stop times from trip 3390 to 3419.       
+11-09-17   3:18p  Got 308 stop times from trip 3420 to 3449.       
+11-09-17   3:18p  Got 444 stop times from trip 3450 to 3479.       
+11-09-17   3:18p  Got 528 stop times from trip 3480 to 3509.       
+11-09-17   3:18p  Got 588 stop times from trip 3510 to 3539.       
+11-09-17   3:18p  Got 657 stop times from trip 3540 to 3569.       
+11-09-17   3:18p  Got 1347 stop times from trip 3570 to 3599.      
+11-09-17   3:18p  Got 1296 stop times from trip 3600 to 3629.      
+11-09-17   3:18p  Got 1267 stop times from trip 3630 to 3659.      
+11-09-17   3:18p  Got 1566 stop times from trip 3660 to 3689.      
+11-09-17   3:18p  Got 975 stop times from trip 3690 to 3719.       
+11-09-17   3:18p  Got 276 stop times from trip 3720 to 3749.       
+11-09-17   3:18p  Got 1216 stop times from trip 3750 to 3779.      
+11-09-17   3:18p  Got 532 stop times from trip 3780 to 3809.       
+11-09-17   3:18p  Got 479 stop times from trip 3810 to 3839.       
+11-09-17   3:18p  Got 348 stop times from trip 3840 to 3869.       
+11-09-17   3:18p  Got 397 stop times from trip 3870 to 3899.       
+11-09-17   3:18p  Got 274 stop times from trip 3900 to 3929.       
+11-09-17   3:18p  Got 351 stop times from trip 3930 to 3959.       
+11-09-17   3:18p  Got 768 stop times from trip 3960 to 3989.       
+11-09-17   3:18p  Got 768 stop times from trip 3990 to 4019.       
+11-09-17   3:18p  Got 780 stop times from trip 4020 to 4049.       
+11-09-17   3:18p  Got 540 stop times from trip 4050 to 4079.       
+11-09-17   3:18p  Got 472 stop times from trip 4080 to 4109.       
+11-09-17   3:18p  Got 318 stop times from trip 4110 to 4139.       
+11-09-17   3:18p  Got 586 stop times from trip 4140 to 4169.       
+11-09-17   3:18p  Got 150 stop times from trip 4170 to 4175.       
+11-09-17   3:18p  Exported 89130 stop time records.                
+11-09-17   3:18p  Exported 51 calendar records.                    
+11-09-17   3:19p  Exported 954 calendar date records.              
+11-09-17   3:19p  Exported 3123 shapes from Pat 0 to 20.           
+11-09-17   3:19p  Got 3169 shapes - pattern 21 to 31.              
+11-09-17   3:19p  Got 3228 shapes - pattern 32 to 38.              
+11-09-17   3:19p  Got 3398 shapes - pattern 39 to 45.              
+11-09-17   3:19p  Got 3239 shapes - pattern 46 to 54.              
+11-09-17   3:19p  Got 3610 shapes - pattern 55 to 62.              
+11-09-17   3:19p  Got 3114 shapes - pattern 63 to 75.              
+11-09-17   3:19p  Got 3542 shapes - pattern 76 to 86.              
+11-09-17   3:19p  Got 3041 shapes - pattern 87 to 96.              
+11-09-17   3:19p  Got 3041 shapes - pattern 97 to 109.             
+11-09-17   3:19p  Got 3008 shapes - pattern 110 to 123.            
+11-09-17   3:19p  Got 1411 shapes - pattern 124 to 142.            
+11-09-17   3:19p  Exported 33801 shape records.                    
+11-09-17   3:19p  Exported feed_info file.                         
+11-09-17   3:19p  Closed seeeion 2.                                
+

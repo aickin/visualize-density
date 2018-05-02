@@ -1,0 +1,7 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+630,5803,3,Gateway Plaza/Norwalk/166th Street,,3,http://www.ci.norwalk.ca.us/home/showdocument?id=13084,333092,ffffff,1,
+630,5852,7,Green Line Station/El Monte Station,,3,http://www.ci.norwalk.ca.us/home/showdocument?id=10242,cf9f24,fcfcfc,2,
+630,5851,5,Green Line Station To/From La Mirada Via Rosecrans,,3,http://www.ci.norwalk.ca.us/home/showdocument?id=4832,00a0b0,000000,3,
+630,5850,4,Imperial Highway/Metrolink Station/Green Line Station,,3,http://38.106.4.64/home/showdocument?id=13086,9d3393,000000,4,
+630,5795,2,NSQ/Green Line/Cerritos College/Cerritos Mall,,3,http://www.ci.norwalk.ca.us/home/showdocument?id=590,0084a9,000000,5,
+630,5751,1,Rio Hondo/Bellflower,,3,http://www.ci.norwalk.ca.us/home/showdocument?id=10248,d11242,000000,6,

@@ -1,0 +1,32 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+101-206,101,"Santa Rosa - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_101.php",3366FF,FFFFFF
+101X-206,101X,"Santa Rosa - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_101.php",CC3333,FFFFFF
+18-206,18,"College of Marin - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_18.php",CC3333,FFFFFF
+2-206,2,"Marin City - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_2.php",CC3333,FFFFFF
+24-206,24,"Fairfax/Manor - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_24.php",CC3333,FFFFFF
+24X-206,24X,"Fairfax/Manor - San Francisco",,3,"",CC3333,FFFFFF
+25-206,25,"Fairfax/Manor - Larkspur Ferry Terminal",,3,"http://goldengatetransit.org/schedules/current/route_25.php",009900,FFFFFF
+27-206,27,"San Anselmo -San Rafael - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_27.php",CC3333,FFFFFF
+30-206,30,"San Rafael - San Francisco",,3,"",3366FF,FFFFFF
+31-206,31,"San Rafael - Larkspur Ferry Terminal",,3,"http://goldengatetransit.org/schedules/current/route_31.php",009900,FFFFFF
+38-206,38,"Terra Linda - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_38.php",CC3333,FFFFFF
+4-206,4,"Mill Valley - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_4.php",CC3333,FFFFFF
+40-206,40,"Del Norte BART Station - San Rafael",,3,"http://goldengatetransit.org/schedules/current/route_40.php",3366FF,FFFFFF
+40X-206,40X,"Del Norte BART Station - San Rafael",,3,"",3366FF,FFFFFF
+44-206,44,"Lucas Valley - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_44.php",CC3333,FFFFFF
+54-206,54,"Novato/San Marin - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_54.php",CC3333,FFFFFF
+56-206,56,"San Marin - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_56.php",CC3333,FFFFFF
+58-206,58,"Hamilton/Novato - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_58.php",CC3333,FFFFFF
+70-206,70,"Novato - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_70.php",3366FF,FFFFFF
+72-206,72,"Santa Rosa - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_72.php",CC3333,FFFFFF
+72X-206,72X,"Santa Rosa - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_72.php",CC3333,FFFFFF
+74-206,74,"Santa Rosa - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_74.php",CC3333,FFFFFF
+76-206,76,"East Petaluma - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_76.php",CC3333,FFFFFF
+8-206,8,"Tiburon - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_8.php",CC3333,FFFFFF
+92-206,92,"Marin City - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_92.php",CC3333,FFFFFF
+93-206,93,"Golden Gate Bridge Toll Plaza - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_93.php",CC3333,FFFFFF
+96-206,96,"Sausalito Ferry",,3,"",CC3333,FFFFFF
+97-206,97,"Larkspur Ferry Terminal - San Francisco",,3,"http://goldengatetransit.org/schedules/current/route_97.php",CC3333,FFFFFF
+LF-206,LF,"Larkspur - San Francisco Ferry",,4,"http://goldengateferry.org/schedules/Larkspur.php",0000FF,FFFFFF
+SF-206,SF,"Sausalito - San Francisco Ferry",,4,"http://goldengateferry.org/schedules/Sausalito.php",0000FF,FFFFFF
+TF-206,TF,"Tiburon - San Francisco Ferry",,4,"",0000FF,FFFFFF

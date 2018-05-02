@@ -1,0 +1,206 @@
+stop_id,stop_city
+20250,Lancaster
+20251,Mojave
+20252,Inyokern
+20253,Inyokern
+20254,Olancha
+20255,Lone Pine
+20256,Independence
+20257,Independence
+20258,Big Pine
+20259,Big Pine
+20260,Bishop
+20261,Bishop
+20262,Mammoth Lakes
+20263,Mammoth Lakes
+20264,Mammoth Lakes
+20265,Mammoth Lakes
+20266,June Lake
+20267,Lee Vining
+20268,Lee Vining
+20269,Bridgeport
+20270,Coleville
+20271,Coleville
+20272,Gardnerville
+20273,Gardnerville
+20274,Gardnerville
+20275,Carson City
+20276,Reno
+20277,Reno
+20278,Mammoth Lakes
+20279,Mammoth Lakes
+20280,Mammoth Lakes
+20281,Mammoth Lakes
+20282,Mammoth Lakes
+20283,Mammoth Lakes
+20284,Mammoth Lakes
+20285,Mammoth Lakes
+20286,Mammoth Lakes
+20287,Mammoth Lakes
+20288,Mammoth Lakes
+20289,Mammoth Lakes
+20290,Mammoth Lakes
+20291,Mammoth Lakes
+20292,Mammoth Lakes
+20293,Mammoth Lakes
+20294,Mammoth Lakes
+20295,Mammoth Lakes
+20296,Mammoth Lakes
+20297,Mammoth Lakes
+20298,Mammoth Lakes
+20299,Mammoth Lakes
+20300,Mammoth Lakes
+20301,Mammoth Lakes
+20302,Mammoth Lakes
+20303,Mammoth Lakes
+20304,Mammoth Lakes
+20305,Mammoth Lakes
+20306,Mammoth Lakes
+20307,Mammoth Lakes
+20308,Mammoth Lakes
+20309,Mammoth Lakes
+20310,Mammoth Lakes
+20311,Mammoth Lakes
+20312,Mammoth Lakes
+20313,Mammoth Lakes
+20314,Mammoth Lakes
+20315,Mammoth Lakes
+20316,Mammoth Lakes
+20317,Mammoth Lakes
+20318,Mammoth Lakes
+20319,Mammoth Lakes
+20320,Mammoth Lakes
+20321,Mammoth Lakes
+20322,Mammoth Lakes
+20323,Mammoth Lakes
+20324,Mammoth Lakes
+20325,Mammoth Lakes
+20326,Mammoth Lakes
+20327,Mammoth Lakes
+20328,Mammoth Lakes
+20329,Mammoth Lakes
+20330,Mammoth Lakes
+20331,Mammoth Lakes
+20332,Mammoth Lakes
+20333,Mammoth Lakes
+20334,Mammoth Lakes
+20335,Mammoth Lakes
+20336,Mammoth Lakes
+20337,Mammoth Lakes
+20338,Mammoth Lakes
+20339,Mammoth Lakes
+20340,Mammoth Lakes
+20341,Mammoth Lakes
+20342,Mammoth Lakes
+20343,Mammoth Lakes
+20344,Mammoth Lakes
+20345,Mammoth Lakes
+20346,Mammoth Lakes
+20347,Mammoth Lakes
+20348,Mammoth Lakes
+20349,Mammoth Lakes
+20350,Mammoth Lakes
+20351,Mammoth Lakes
+20352,Mammoth Lakes
+20353,Mammoth Lakes
+20354,Mammoth Lakes
+20355,Mammoth Lakes
+20356,Mammoth Lakes
+20357,Mammoth Lakes
+20358,Mammoth Lakes
+20359,Mammoth Lakes
+20360,Mammoth Lakes
+20361,Mammoth Lakes
+20362,Mammoth Lakes
+20363,Mammoth Lakes
+20364,Mammoth Lakes
+20365,Mammoth Lakes
+20366,Mammoth Lakes
+20367,Mammoth Lakes
+20368,Mammoth Lakes
+20369,Mammoth Lakes
+20370,Mammoth Lakes
+20371,Mammoth Lakes
+20372,Mammoth Lakes
+20373,Mammoth Lakes
+20374,Mammoth Lakes
+20375,Mammoth Lakes
+20376,Mammoth Lakes
+20377,Mammoth Lakes
+20378,Mammoth Lakes
+20379,Mammoth Lakes
+20380,Mammoth Lakes
+20381,Mammoth Lakes
+20382,Mammoth Lakes
+20383,Mammoth Lakes
+20384,Mammoth Lakes
+20385,Mammoth Lakes
+20386,Mammoth Lakes
+20387,Mammoth Lakes
+20388,Mammoth Lakes
+20389,Mammoth Lakes
+20390,Mammoth Lakes
+20391,Mammoth Lakes
+20392,Mammoth Lakes
+20393,Mammoth Lakes
+20394,Mammoth Lakes
+20395,Mammoth Lakes
+20396,Mammoth Lakes
+20397,Mammoth Lakes
+20398,Mammoth Lakes
+20399,
+20400,
+20401,
+20402,
+20403,
+20404,
+20405,
+20406,
+20407,
+20408,
+20409,Mammoth Lakes
+20411,
+20412,Mammoth Lakes
+20413,Mammoth Lakes
+20500,Lee Vining
+20501,Independence
+20502,Gardnerville
+20503,Olancha
+20504,Big Pine
+20505,Big Pine
+20506,Bishop
+20507,Bishop
+20508,Benton
+20509,Benton
+20510,Bishop
+20511,Benton
+20512,Bishop
+20513,Pahrump
+20514,Shoshone
+20515,Tecopa
+20516,
+20635,Bishop
+21052,Mammoth Lakes
+21053,Mammoth Lakes
+21054,Mammoth Lakes
+763839,Olancha
+811996,
+819945,Mammoth Lakes
+820655,Mammoth Lakes
+820710,Mammoth Lakes
+840992,June Lake
+840993,June Lake
+840994,June Lake
+840995,June Lake
+840996,June Lake
+840997,June Lake
+840998,June Lake
+840999,June Lake
+841000,June Lake
+841001,June Lake
+841002,June Lake
+845128,
+845129,Mammoth Lakes
+845130,Mammoth Lakes
+2324948,Mammoth Lakes
+2324950,Mammoth Lakes

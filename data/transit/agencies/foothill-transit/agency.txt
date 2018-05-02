@@ -1,0 +1,2 @@
+agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+"Foothill Transit",http://www.foothilltransit.org,America/Los_Angeles,EN,800-743-3463

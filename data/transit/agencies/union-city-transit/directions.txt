@@ -1,0 +1,11 @@
+route_id,direction_id,direction
+UCT1,0,Loop
+UCT8,0,Loop
+UCT4,0,Loop
+UCT5,0,Loop
+UCT2,0,Loop
+UCT3,0,Loop
+UCT7,0,Loop
+UCT9,0,Outbound
+UCT9,1,Inbound
+UCT2S,0,Loop

@@ -1,0 +1,3 @@
+route_id,direction_id,direction
+mainline,0,South
+mainline,1,North

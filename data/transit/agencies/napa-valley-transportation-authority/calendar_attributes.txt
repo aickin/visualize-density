@@ -1,0 +1,4 @@
+service_id,service_description
+"73047","Sunday"
+"73048","Weekday"
+"73049","Saturday"

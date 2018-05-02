@@ -1,0 +1,13 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+476,3278,,Guadalupe Flyer,,3,http://www.cityofsantamaria.org/home/showdocument?id=11840,ffffff,000000,0,75
+475,3265,1,,Hidden Pines/ Broadway/ Transit Center,3,,d71621,ffffff,1,40
+475,3272,8,,McCoy/ Tanglewood,3,,dd3e73,ffffff,10,60
+475,3446,,7 Evening,,3,,b98ab1,ffffff,11,40
+475,3275,,The Breeze 100,,3,http://www.breezebus.com/schedule.html,005285,ffffff,12,
+475,3276,,The Breeze 200,,3,http://www.breezebus.com/schedule.html,007297,000000,13,
+475,3266,2,,Downtown/ McCoy/ Mussell Senior Cernter/ Taylor,3,,00a2ea,ffffff,2,30
+475,3267,3,,,3,,459f49,ffffff,3,30
+475,3268,4,,Downtown/College/Edwards Comm. Ctr./Town Ctr. Mall/VTC/Airport,3,,e3a221,ffffff,4,30
+475,3269,5,,Downtown/ Blosser/ Old Orcutt/ Rice Ranch/ Oak Knolls,3,,006243,ffffff,5,45
+475,3270,6,,Oak Knoll/ Rice Ranch/ Old Orcutt/ Blosser/ Downtown,3,,dc5025,ffffff,6,40
+475,3271,7,,Downtown/ Allan Hancock College/ Crossroads/ McCoy /Lakeview,3,,6c2672,ffffff,9,30

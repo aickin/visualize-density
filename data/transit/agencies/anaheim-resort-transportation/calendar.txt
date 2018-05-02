@@ -1,0 +1,20 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_919_b_1310_d_127,Santa Ana Line (All days of week),1,1,1,1,1,1,1,20150101,20190101
+c_793_b_6493_d_127,Disney Hours 10-9 (All days of week),1,1,1,1,1,1,1,20180129,20180131
+c_793_b_6490_d_127,Disney Hours 10-9 (All days of week),1,1,1,1,1,1,1,20180122,20180124
+c_793_b_6485_d_127,Disney Hours 10-9 (All days of week),1,1,1,1,1,1,1,20180116,20180117
+c_792_b_6491_d_127,Disney Hours 9-9 (All days of week),1,1,1,1,1,1,1,20180125,20180125
+c_792_b_6481_d_127,Disney Hours 9-9 (All days of week),1,1,1,1,1,1,1,20180108,20180111
+c_791_b_6482_d_127,Disney Hours 9-12 (All days of week),1,1,1,1,1,1,1,20180112,20180112
+c_790_b_6488_d_127,Disney Hours 9-11 (All days of week),1,1,1,1,1,1,1,20180101,20180101
+c_790_b_6487_d_127,Disney Hours 9-11 (All days of week),1,1,1,1,1,1,1,20180119,20180119
+c_788_b_6492_d_127,Disney Hours 8-12 (All days of week),1,1,1,1,1,1,1,20180126,20180128
+c_788_b_6489_d_127,Disney Hours 8-12 (All days of week),1,1,1,1,1,1,1,20180120,20180121
+c_788_b_6483_d_127,Disney Hours 8-12 (All days of week),1,1,1,1,1,1,1,20180113,20180114
+c_788_b_6480_d_127,Disney Hours 8-12 (All days of week),1,1,1,1,1,1,1,20180102,20180107
+c_788_b_5065_d_127,Disney Hours 8-12 (All days of week),1,1,1,1,1,1,1,20171223,20171230
+c_787_b_6526_d_127,Disney Hours 8-11 (All days of week),1,1,1,1,1,1,1,20180115,20180115
+c_786_b_1140_d_127,Year Round Schedule (All days of week),1,1,1,1,1,1,1,20170101,20190101
+c_6123_b_6535_d_127,Line 22 Year Round (All days of week),1,1,1,1,1,1,1,20171226,20190101
+c_1862_b_6486_d_127,Disney Hours 10-8 (All days of week),1,1,1,1,1,1,1,20180118,20180118
+c_1770_b_6494_d_127,Disney Hours 8 - 2 (All days of week),1,1,1,1,1,1,1,20171231,20171231

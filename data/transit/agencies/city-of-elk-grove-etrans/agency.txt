@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+ETRANS,City of Elk Grove,http://www.elkgrovecity.org/residents/transportation/transit_e-tran/new_route_information/,US/Pacific,en,916-683-8726

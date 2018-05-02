@@ -1,0 +1,619 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+"383",1,1,"Loop Hillcrest Park & Ride",1,144,16
+"381",1,2,"Westbound Pittsburg Marina",1,182,87
+"381",1,3,"Westbound Pittsburg Marina",1,183,87
+"381",1,4,"Westbound Pittsburg Marina",1,182,87
+"381",1,5,"Westbound Pittsburg Marina",1,183,87
+"381",1,6,"Westbound Pittsburg Marina",1,182,87
+"381",1,7,"Westbound Pittsburg Marina",1,183,87
+"381",1,8,"Westbound Pittsburg Marina",1,182,87
+"300",1,9,"Eastbound Brentwood Park & Ride",0,177,1
+"381",1,10,"Westbound Pittsburg Marina",1,183,87
+"381",1,11,"Westbound Pittsburg Marina",1,182,87
+"381",1,12,"Westbound Pittsburg Marina",1,183,87
+"381",1,13,"Westbound Pittsburg Marina",1,182,87
+"381",1,14,"Westbound Pittsburg Marina",1,183,87
+"381",1,15,"Westbound Pittsburg Marina",1,182,87
+"381",1,16,"Westbound Pittsburg Marina",1,183,87
+"381",1,17,"Westbound Pittsburg Marina",1,182,87
+"381",1,18,"Westbound Pittsburg Marina",1,183,87
+"381",1,19,"Westbound Pittsburg Marina",1,182,87
+"381",1,20,"Westbound Pittsburg Marina",1,183,87
+"381",1,21,"Westbound Pittsburg Marina",1,182,87
+"381",1,22,"Westbound Pittsburg Marina",1,183,87
+"381",1,23,"Westbound Pittsburg Marina",1,182,87
+"381",1,24,"Westbound Pittsburg Marina",1,183,87
+"381",1,25,"Eastbound Los Medanos College",0,183,86
+"381",1,26,"Eastbound Los Medanos College",0,182,86
+"381",1,27,"Eastbound Los Medanos College",0,183,86
+"381",1,28,"Eastbound Los Medanos College",0,182,86
+"381",1,29,"Eastbound Los Medanos College",0,183,86
+"381",1,30,"Eastbound Los Medanos College",0,182,86
+"381",1,31,"Eastbound Los Medanos College",0,183,86
+"381",1,32,"Eastbound Los Medanos College",0,182,86
+"381",1,33,"Eastbound Los Medanos College",0,183,86
+"381",1,34,"Eastbound Los Medanos College",0,182,86
+"381",1,35,"Eastbound Los Medanos College",0,183,86
+"381",1,36,"Eastbound Los Medanos College",0,182,86
+"381",1,37,"Eastbound Los Medanos College",0,183,86
+"381",1,38,"Eastbound Los Medanos College",0,182,86
+"381",1,39,"Eastbound Los Medanos College",0,183,86
+"381",1,40,"Eastbound Los Medanos College",0,182,86
+"381",1,41,"Eastbound Los Medanos College",0,183,86
+"381",1,42,"Eastbound Los Medanos College",0,182,86
+"381",1,43,"Eastbound Los Medanos College",0,183,86
+"381",1,44,"Eastbound Los Medanos College",0,182,86
+"381",1,45,"Eastbound Los Medanos College",0,183,86
+"381",1,46,"Eastbound Los Medanos College",0,182,86
+"389",1,47,"Loop Pittsburg BART",0,117,3
+"380",1,48,"Westbound Pittsburg BART",1,120,12
+"390",1,49,"Westbound Pittsburg BART",1,117,6
+"392",3,188,"Westbound Pittsburg BART",1,302,37
+"392",3,190,"Westbound Pittsburg BART",1,305,37
+"392",3,191,"Westbound Pittsburg BART",1,300,37
+"392",3,193,"Westbound Pittsburg BART",1,311,37
+"392",3,194,"Westbound Pittsburg BART",1,310,37
+"392",3,195,"Westbound Pittsburg BART",1,302,37
+"392",3,197,"Westbound Pittsburg BART",1,310,37
+"392",3,206,"Eastbound Hillcrest Park & Ride",0,311,38
+"392",3,207,"Eastbound Hillcrest Park & Ride",0,310,38
+"392",3,208,"Eastbound Hillcrest Park & Ride",0,302,38
+"392",3,209,"Eastbound Hillcrest Park & Ride",0,307,38
+"392",3,210,"Eastbound Hillcrest Park & Ride",0,305,38
+"392",3,211,"Eastbound Hillcrest Park & Ride",0,311,38
+"392",3,212,"Eastbound Hillcrest Park & Ride",0,310,38
+"392",3,213,"Eastbound Hillcrest Park & Ride",0,302,38
+"392",3,214,"Eastbound Hillcrest Park & Ride",0,310,38
+"392",3,217,"Westbound Pittsburg BART",1,307,37
+"392",3,221,"Eastbound Hillcrest Park & Ride",0,302,38
+"392",3,222,"Westbound Pittsburg BART",1,310,37
+"380",1,225,"Westbound Pittsburg BART",1,124,12
+"385",1,232,"Eastbound Brentwood Park & Ride",0,159,5
+"395",2,294,"Loop Hillcrest Park & Ride",0,212,75
+"395",2,296,"Loop Hillcrest Park & Ride",0,212,75
+"395",2,300,"Loop Hillcrest Park & Ride",0,206,75
+"395",2,301,"Loop Hillcrest Park & Ride",0,200,75
+"386",1,304,"Loop Brentwood Park & Ride",0,159,18
+"394",2,678,"Westbound Pittsburg BART",1,207,39
+"394",2,679,"Westbound Pittsburg BART",1,207,39
+"394",2,680,"Westbound Pittsburg BART",1,210,39
+"394",2,681,"Westbound Pittsburg BART",1,206,39
+"394",2,682,"Westbound Pittsburg BART",1,211,39
+"394",2,683,"Westbound Pittsburg BART",1,207,39
+"394",2,684,"Westbound Pittsburg BART",1,212,39
+"394",2,685,"Westbound Pittsburg BART",1,202,39
+"394",2,686,"Westbound Pittsburg BART",1,205,39
+"394",2,687,"Westbound Pittsburg BART",1,209,39
+"394",2,688,"Westbound Pittsburg BART",1,211,39
+"394",2,689,"Westbound Pittsburg BART",1,212,39
+"393",2,690,"Westbound Pacifica",1,208,82
+"393",2,691,"Westbound Pacifica",1,208,82
+"393",2,692,"Westbound Pacifica",1,208,82
+"393",2,693,"Westbound Pacifica",1,208,82
+"395",2,694,"Loop Hillcrest Park & Ride",0,211,75
+"395",2,695,"Loop Hillcrest Park & Ride",0,207,75
+"395",2,696,"Loop Hillcrest Park & Ride",0,209,75
+"395",2,697,"Loop Hillcrest Park & Ride",0,211,75
+"395",2,698,"Loop Hillcrest Park & Ride",0,207,75
+"393",2,699,"Eastbound Brentwood Park & Ride",0,209,76
+"392",2,700,"Westbound Pittsburg BART",1,200,37
+"392",2,701,"Westbound Pittsburg BART",1,202,37
+"392",2,702,"Westbound Pittsburg BART",1,205,37
+"392",2,703,"Westbound Pittsburg BART",1,209,37
+"392",2,704,"Westbound Pittsburg BART",1,200,37
+"392",2,705,"Westbound Pittsburg BART",1,210,37
+"392",2,706,"Westbound Pittsburg BART",1,211,37
+"392",2,707,"Westbound Pittsburg BART",1,207,37
+"392",2,708,"Westbound Pittsburg BART",1,212,37
+"392",2,709,"Westbound Pittsburg BART",1,202,37
+"392",2,710,"Westbound Pittsburg BART",1,205,37
+"392",2,711,"Westbound Pittsburg BART",1,209,37
+"392",2,712,"Westbound Pittsburg BART",1,211,37
+"392",2,713,"Westbound Pittsburg BART",1,206,37
+"394",3,714,"Westbound Pittsburg BART",1,308,39
+"300",1,715,"Eastbound Brentwood Park & Ride",0,101,1
+"300",1,716,"Eastbound Brentwood Park & Ride",0,102,1
+"300",1,717,"Eastbound Brentwood Park & Ride",0,100,1
+"300",1,718,"Eastbound Brentwood Park & Ride",0,131,1
+"300",1,719,"Eastbound Brentwood Park & Ride",0,103,1
+"300",1,720,"Eastbound Brentwood Park & Ride",0,101,1
+"300",1,721,"Eastbound Brentwood Park & Ride",0,100,1
+"300",1,722,"Eastbound Brentwood Park & Ride",0,103,1
+"300",1,723,"Eastbound Brentwood Park & Ride",0,101,1
+"300",1,724,"Eastbound Brentwood Park & Ride",0,102,1
+"300",1,725,"Eastbound Brentwood Park & Ride",0,103,1
+"300",1,726,"Eastbound Brentwood Park & Ride",0,101,1
+"300",1,727,"Eastbound Brentwood Park & Ride",0,104,1
+"300",1,728,"Eastbound Brentwood Park & Ride",0,102,1
+"300",1,729,"Eastbound Brentwood Park & Ride",0,100,1
+"300",1,730,"Eastbound Brentwood Park & Ride",0,101,1
+"300",1,731,"Eastbound Brentwood Park & Ride",0,104,1
+"300",1,732,"Eastbound Brentwood Park & Ride",0,102,1
+"300",1,733,"Eastbound Brentwood Park & Ride",0,100,1
+"300",1,734,"Eastbound Brentwood Park & Ride",0,101,1
+"300",1,735,"Eastbound Brentwood Park & Ride",0,125,1
+"300",1,736,"Eastbound Brentwood Park & Ride",0,104,1
+"300",1,737,"Eastbound Brentwood Park & Ride",0,102,1
+"300",1,738,"Eastbound Brentwood Park & Ride",0,100,1
+"300",1,739,"Eastbound Brentwood Park & Ride",0,136,1
+"300",1,740,"Eastbound Brentwood Park & Ride",0,104,1
+"300",1,741,"Eastbound Brentwood Park & Ride",0,129,1
+"300",1,742,"Eastbound Brentwood Park & Ride",0,167,1
+"300",1,743,"Eastbound Brentwood Park & Ride",0,104,1
+"300",1,744,"Eastbound Brentwood Park & Ride",0,181,1
+"201",1,745,"Eastbound Pittsburg BART",0,106,23
+"201",1,746,"Eastbound Pittsburg BART",0,112,23
+"201",1,747,"Eastbound Pittsburg BART",0,115,23
+"201",1,748,"Eastbound Pittsburg BART",0,122,23
+"201",1,749,"Eastbound Pittsburg BART",0,119,23
+"201",1,750,"Eastbound Pittsburg BART",0,129,23
+"201",1,751,"Eastbound Pittsburg BART",0,105,23
+"201",1,752,"Eastbound Pittsburg BART",0,149,23
+"201",1,753,"Eastbound Pittsburg BART",0,150,23
+"201",1,754,"Eastbound Pittsburg BART",0,129,23
+"201",1,755,"Eastbound Pittsburg BART",0,147,23
+"201",1,756,"Eastbound Pittsburg BART",0,162,23
+"201",1,757,"Eastbound Pittsburg BART",0,160,23
+"201",1,758,"Eastbound Pittsburg BART",0,172,23
+"201",1,759,"Eastbound Pittsburg BART",0,147,23
+"201",1,760,"Eastbound Pittsburg BART",0,160,23
+"201",1,761,"Eastbound Pittsburg BART",0,176,23
+"201",1,762,"Eastbound Pittsburg BART",0,175,23
+"201",1,763,"Eastbound Pittsburg BART",0,179,23
+"200",1,764,"Westbound Amtrak",1,111,14
+"200",1,765,"Westbound Amtrak",1,120,14
+"200",1,766,"Westbound Amtrak",1,119,14
+"200",1,767,"Westbound Amtrak",1,106,14
+"200",1,768,"Westbound Amtrak",1,148,14
+"200",1,769,"Westbound Amtrak",1,154,14
+"200",1,770,"Westbound Amtrak",1,149,14
+"200",1,771,"Westbound Amtrak",1,108,14
+"200",1,772,"Westbound Amtrak",1,156,14
+"200",1,773,"Westbound Amtrak",1,136,14
+"380",1,774,"Eastbound Tri Delta Transit",0,123,67
+"394",3,775,"Westbound Pittsburg BART",1,311,39
+"394",3,776,"Westbound Pittsburg BART",1,310,39
+"394",3,777,"Westbound Pittsburg BART",1,302,39
+"394",3,778,"Westbound Pittsburg BART",1,307,39
+"394",3,779,"Westbound Pittsburg BART",1,305,39
+"394",3,780,"Westbound Pittsburg BART",1,303,39
+"395",3,781,"Loop Hillcrest Park & Ride",0,302,75
+"395",3,782,"Loop Hillcrest Park & Ride",0,307,75
+"395",3,783,"Loop Hillcrest Park & Ride",0,305,75
+"395",3,784,"Loop Hillcrest Park & Ride",0,300,75
+"395",3,785,"Loop Hillcrest Park & Ride",0,303,75
+"395",3,786,"Loop Hillcrest Park & Ride",0,308,75
+"395",3,787,"Loop Hillcrest Park & Ride",0,311,75
+"395",3,788,"Loop Hillcrest Park & Ride",0,310,75
+"395",3,789,"Loop Hillcrest Park & Ride",0,302,75
+"395",3,790,"Loop Hillcrest Park & Ride",0,307,75
+"395",3,791,"Loop Hillcrest Park & Ride",0,305,75
+"380",1,792,"Eastbound Tri Delta Transit",0,145,67
+"380",1,793,"Eastbound Tri Delta Transit",0,158,30
+"380",1,794,"Eastbound Tri Delta Transit",0,168,30
+"380",1,795,"Eastbound Tri Delta Transit",0,149,30
+"380",1,796,"Eastbound Tri Delta Transit",0,107,30
+"391",1,797,"Eastbound Brentwood Park & Ride",0,126,33
+"391",1,798,"Eastbound Brentwood Park & Ride",0,107,33
+"391",1,799,"Eastbound Brentwood Park & Ride",0,106,33
+"391",1,800,"Eastbound Brentwood Park & Ride",0,117,33
+"391",1,801,"Eastbound Brentwood Park & Ride",0,124,33
+"391",1,802,"Eastbound Brentwood Park & Ride",0,122,33
+"391",1,803,"Eastbound Brentwood Park & Ride",0,142,33
+"391",1,804,"Eastbound Brentwood Park & Ride",0,129,33
+"391",1,805,"Eastbound Brentwood Park & Ride",0,124,33
+"391",1,806,"Eastbound Brentwood Park & Ride",0,107,33
+"391",1,807,"Eastbound Brentwood Park & Ride",0,157,33
+"391",1,808,"Eastbound Brentwood Park & Ride",0,108,33
+"391",1,809,"Eastbound Brentwood Park & Ride",0,176,33
+"391",1,810,"Eastbound Brentwood Park & Ride",0,161,33
+"391",1,811,"Eastbound Brentwood Park & Ride",0,108,33
+"391",1,812,"Eastbound Brentwood Park & Ride",0,107,33
+"391",1,813,"Eastbound Brentwood Park & Ride",0,168,33
+"391",1,814,"Eastbound Brentwood Park & Ride",0,108,33
+"387",1,815,"Eastbound Tri Delta Transit",0,113,64
+"387",1,816,"Eastbound Tri Delta Transit",0,127,64
+"387",1,817,"Eastbound Tri Delta Transit",0,107,64
+"387",1,818,"Eastbound Tri Delta Transit",0,105,64
+"387",1,819,"Eastbound Tri Delta Transit",0,115,64
+"387",1,820,"Eastbound Tri Delta Transit",0,153,64
+"387",1,821,"Eastbound Tri Delta Transit",0,149,64
+"387",1,822,"Eastbound Tri Delta Transit",0,170,64
+"387",1,823,"Eastbound Tri Delta Transit",0,147,64
+"387",1,824,"Eastbound Tri Delta Transit",0,151,64
+"387",1,825,"Eastbound Tri Delta Transit",0,106,64
+"390",1,826,"Eastbound Hillcrest Park & Ride",0,116,7
+"390",1,827,"Eastbound Hillcrest Park & Ride",0,107,7
+"390",1,828,"Eastbound Hillcrest Park & Ride",0,143,7
+"390",1,829,"Eastbound Hillcrest Park & Ride",0,151,7
+"390",1,830,"Eastbound Hillcrest Park & Ride",0,173,7
+"390",1,831,"Eastbound Hillcrest Park & Ride",0,171,7
+"390",1,832,"Eastbound Hillcrest Park & Ride",0,152,7
+"390",1,833,"Eastbound Hillcrest Park & Ride",0,125,7
+"390",1,834,"Eastbound Hillcrest Park & Ride",0,175,7
+"201",1,835,"Westbound Concord BART",1,106,21
+"201",1,836,"Westbound Concord BART",1,112,21
+"201",1,837,"Westbound Concord BART",1,122,21
+"201",1,838,"Westbound Concord BART",1,119,21
+"393",2,839,"Westbound Pacifica",1,204,82
+"393",2,840,"Eastbound Brentwood Park & Ride",0,203,76
+"393",2,841,"Westbound Pacifica",1,204,82
+"393",2,842,"Westbound Pacifica",1,201,82
+"201",1,843,"Westbound Concord BART",1,112,21
+"201",1,844,"Westbound Concord BART",1,129,21
+"201",1,845,"Westbound Concord BART",1,105,21
+"393",2,846,"Eastbound Brentwood Park & Ride",0,203,77
+"201",1,848,"Westbound Concord BART",1,149,21
+"201",1,849,"Westbound Concord BART",1,150,21
+"201",1,852,"Westbound Concord BART",1,129,21
+"201",1,853,"Westbound Concord BART",1,147,21
+"201",1,854,"Westbound Concord BART",1,162,21
+"201",1,855,"Westbound Concord BART",1,160,21
+"201",1,856,"Westbound Concord BART",1,172,21
+"201",1,857,"Westbound Concord BART",1,147,21
+"393",2,860,"Westbound Pittsburg BART",1,201,83
+"393",2,861,"Westbound Pacifica",1,204,82
+"201",1,862,"Westbound Concord BART",1,176,21
+"393",2,863,"Westbound Pacifica",1,203,82
+"393",2,864,"Westbound Pacifica",1,201,82
+"201",1,865,"Westbound Concord BART",1,179,21
+"393",2,866,"Westbound Pacifica",1,203,82
+"393",2,867,"Westbound Pacifica",1,204,82
+"383",1,868,"Loop Hillcrest Park & Ride",0,152,56
+"383",1,869,"Loop Hillcrest Park & Ride",0,152,56
+"383",1,870,"Loop Hillcrest Park & Ride",0,152,56
+"395",2,871,"Loop Hillcrest Park & Ride",0,202,75
+"395",2,872,"Loop Hillcrest Park & Ride",0,205,75
+"383",1,873,"Loop Hillcrest Park & Ride",0,164,56
+"387",1,875,"Westbound Pittsburg BART",1,107,65
+"387",1,876,"Westbound Pittsburg BART",1,119,65
+"387",1,877,"Westbound Pittsburg BART",1,123,65
+"393",2,878,"Eastbound Brentwood Park & Ride",0,201,77
+"393",2,879,"Eastbound Brentwood Park & Ride",0,204,77
+"387",1,880,"Westbound Pittsburg BART",1,109,65
+"393",2,881,"Eastbound Brentwood Park & Ride",0,204,77
+"387",1,882,"Westbound Pittsburg BART",1,118,65
+"393",2,883,"Eastbound Brentwood Park & Ride",0,204,77
+"387",1,884,"Westbound Pittsburg BART",1,125,65
+"393",2,885,"Eastbound Brentwood Park & Ride",0,201,77
+"393",2,886,"Eastbound Brentwood Park & Ride",0,204,77
+"387",1,888,"Westbound Pittsburg BART",1,107,65
+"387",1,889,"Westbound Pittsburg BART",1,147,65
+"387",1,890,"Westbound Pittsburg BART",1,163,65
+"387",1,891,"Westbound Pittsburg BART",1,165,65
+"387",1,892,"Westbound Pittsburg BART",1,106,65
+"387",1,901,"Westbound Pittsburg BART",1,171,65
+"387",1,903,"Westbound Pittsburg BART",1,164,65
+"387",1,906,"Westbound Pittsburg BART",1,161,65
+"387",1,916,"Westbound Pittsburg BART",1,156,65
+"388",1,928,"Eastbound Kaiser",0,136,66
+"388",1,930,"Eastbound Kaiser",0,164,66
+"391",1,946,"Westbound Pittsburg BART",1,109,35
+"391",1,947,"Westbound Pittsburg BART",1,114,35
+"391",1,948,"Westbound Pittsburg BART",1,118,35
+"391",1,949,"Westbound Pittsburg BART",1,125,35
+"391",1,951,"Westbound Pittsburg BART",1,129,35
+"391",1,956,"Westbound Pittsburg BART",1,138,35
+"391",1,957,"Westbound Pittsburg BART",1,106,35
+"391",1,959,"Westbound Pittsburg BART",1,143,35
+"391",1,960,"Westbound Pittsburg BART",1,129,35
+"391",1,973,"Westbound Pittsburg BART",1,151,35
+"300",1,977,"Westbound Pittsburg BART",1,107,2
+"391",1,991,"Westbound Pittsburg BART",1,160,35
+"391",1,996,"Westbound Pittsburg BART",1,107,35
+"391",1,997,"Westbound Pittsburg BART",1,152,35
+"391",1,1003,"Westbound Pittsburg BART",1,106,35
+"380",1,1006,"Westbound Pittsburg BART",1,158,12
+"391",1,1010,"Westbound Pittsburg BART",1,108,35
+"391",1,1015,"Westbound Pittsburg BART",1,129,35
+"385",1,1025,"Westbound Hillcrest Park & Ride",1,159,80
+"391",1,1036,"Westbound Pittsburg BART",1,161,35
+"391",1,1037,"Eastbound Brentwood Park & Ride",0,151,34
+"391",1,1038,"Eastbound Brentwood Park & Ride",0,162,34
+"391",1,1039,"Eastbound Brentwood Park & Ride",0,148,34
+"391",1,1041,"Eastbound Brentwood Park & Ride",0,153,34
+"391",1,1042,"Eastbound Brentwood Park & Ride",0,157,34
+"391",1,1044,"Eastbound Brentwood Park & Ride",0,165,34
+"385",1,1047,"Westbound Hillcrest Park & Ride",1,135,80
+"385",1,1048,"Westbound Hillcrest Park & Ride",1,117,80
+"385",1,1055,"Westbound Hillcrest Park & Ride",1,151,80
+"385",1,1056,"Westbound Hillcrest Park & Ride",1,117,80
+"385",1,1057,"Westbound Hillcrest Park & Ride",1,174,80
+"385",1,1060,"Westbound Hillcrest Park & Ride",1,108,80
+"300",1,1062,"Westbound Pittsburg BART",1,110,2
+"300",1,1064,"Westbound Pittsburg BART",1,112,2
+"388",1,1069,"Westbound Pittsburg BART",1,157,61
+"300",1,1071,"Westbound Pittsburg BART",1,100,2
+"300",1,1082,"Westbound Pittsburg BART",1,101,2
+"300",1,1086,"Westbound Pittsburg BART",1,122,2
+"300",1,1087,"Westbound Pittsburg BART",1,102,2
+"300",1,1088,"Westbound Pittsburg BART",1,100,2
+"300",1,1090,"Westbound Pittsburg BART",1,136,2
+"300",1,1092,"Westbound Pittsburg BART",1,126,2
+"300",1,1094,"Westbound Pittsburg BART",1,103,2
+"300",1,1096,"Westbound Pittsburg BART",1,102,2
+"300",1,1097,"Westbound Pittsburg BART",1,103,2
+"300",1,1098,"Westbound Pittsburg BART",1,101,2
+"300",1,1099,"Westbound Pittsburg BART",1,103,2
+"300",1,1100,"Westbound Pittsburg BART",1,101,2
+"300",1,1101,"Westbound Pittsburg BART",1,102,2
+"300",1,1102,"Westbound Pittsburg BART",1,100,2
+"300",1,1103,"Westbound Pittsburg BART",1,101,2
+"300",1,1109,"Westbound Pittsburg BART",1,104,2
+"300",1,1112,"Westbound Pittsburg BART",1,102,2
+"300",1,1113,"Westbound Pittsburg BART",1,100,2
+"300",1,1117,"Westbound Pittsburg BART",1,101,2
+"300",1,1118,"Westbound Pittsburg BART",1,104,2
+"300",1,1119,"Westbound Pittsburg BART",1,100,2
+"300",1,1120,"Westbound Pittsburg BART",1,101,2
+"300",1,1127,"Westbound Pittsburg BART",1,102,2
+"300",1,1128,"Westbound Pittsburg BART",1,104,2
+"388",1,1129,"Eastbound Kaiser",0,105,58
+"388",1,1130,"Eastbound Kaiser",0,108,58
+"388",1,1134,"Eastbound Kaiser",0,121,58
+"388",1,1135,"Eastbound Kaiser",0,136,58
+"388",1,1136,"Eastbound Kaiser",0,110,58
+"393",3,1137,"Eastbound Brentwood Park & Ride",0,309,76
+"393",3,1138,"Eastbound Brentwood Park & Ride",0,304,76
+"392",3,1139,"Westbound Pittsburg BART",1,300,37
+"392",3,1140,"Westbound Pittsburg BART",1,303,37
+"392",3,1141,"Westbound Pittsburg BART",1,308,37
+"388",1,1142,"Eastbound Kaiser",0,108,58
+"388",1,1143,"Eastbound Kaiser",0,118,58
+"388",1,1144,"Eastbound Kaiser",0,180,58
+"393",3,1145,"Eastbound Brentwood Park & Ride",0,309,76
+"393",3,1146,"Eastbound Brentwood Park & Ride",0,304,77
+"393",3,1147,"Eastbound Brentwood Park & Ride",0,306,77
+"393",3,1148,"Eastbound Brentwood Park & Ride",0,309,77
+"393",3,1149,"Westbound Pacifica",1,309,82
+"392",3,1152,"Eastbound Hillcrest Park & Ride",0,300,38
+"392",3,1153,"Eastbound Hillcrest Park & Ride",0,303,38
+"392",3,1154,"Eastbound Hillcrest Park & Ride",0,308,38
+"392",3,1156,"Westbound Pittsburg BART",1,303,37
+"392",3,1157,"Westbound Pittsburg BART",1,308,37
+"392",3,1158,"Eastbound Hillcrest Park & Ride",0,303,38
+"388",1,1160,"Eastbound Kaiser",0,166,58
+"393",3,1161,"Westbound Pittsburg BART",1,309,83
+"393",3,1162,"Westbound Pittsburg BART",1,304,83
+"393",3,1163,"Westbound Pacifica",1,301,82
+"393",3,1164,"Westbound Pacifica",1,306,82
+"393",3,1165,"Westbound Pacifica",1,309,82
+"393",3,1166,"Westbound Pacifica",1,304,82
+"388",1,1172,"Eastbound Kaiser",0,147,58
+"393",3,1179,"Westbound Pacifica",1,301,82
+"393",3,1180,"Westbound Pacifica",1,306,82
+"387",1,1182,"Eastbound Tri Delta Transit",0,134,64
+"300",1,1183,"Eastbound Brentwood Park & Ride",0,106,1
+"389",1,1184,"Loop Pittsburg BART",0,174,3
+"201",1,1185,"Westbound Concord BART",1,115,21
+"392",2,1186,"Westbound Pittsburg BART",1,209,37
+"393",2,1187,"Eastbound Brentwood Park & Ride",0,208,77
+"392",3,1188,"Eastbound Hillcrest Park & Ride",0,308,38
+"393",2,1189,"Eastbound Brentwood Park & Ride",0,208,77
+"394",2,1190,"Eastbound Hillcrest Park & Ride",0,200,40
+"392",3,1191,"Eastbound Hillcrest Park & Ride",0,308,38
+"394",2,1192,"Eastbound Hillcrest Park & Ride",0,211,40
+"393",3,1193,"Westbound Pacifica",1,306,82
+"393",3,1194,"Westbound Pacifica",1,309,82
+"393",3,1195,"Westbound Pacifica",1,304,82
+"393",3,1196,"Westbound Pacifica",1,301,82
+"393",3,1197,"Westbound Pacifica",1,304,82
+"393",3,1198,"Westbound Pacifica",1,301,82
+"393",3,1199,"Westbound Pacifica",1,306,82
+"394",2,1203,"Eastbound Hillcrest Park & Ride",0,207,40
+"392",3,1204,"Westbound Pittsburg BART",1,308,37
+"394",2,1205,"Eastbound Hillcrest Park & Ride",0,212,40
+"393",3,1206,"Eastbound Brentwood Park & Ride",0,304,77
+"393",3,1207,"Eastbound Brentwood Park & Ride",0,301,77
+"393",3,1208,"Eastbound Brentwood Park & Ride",0,306,77
+"393",3,1209,"Eastbound Brentwood Park & Ride",0,309,77
+"393",3,1210,"Eastbound Brentwood Park & Ride",0,301,77
+"393",3,1211,"Eastbound Brentwood Park & Ride",0,306,77
+"393",3,1212,"Eastbound Brentwood Park & Ride",0,309,77
+"393",3,1213,"Eastbound Brentwood Park & Ride",0,304,77
+"393",3,1214,"Eastbound Brentwood Park & Ride",0,301,77
+"393",3,1215,"Eastbound Brentwood Park & Ride",0,304,77
+"393",3,1216,"Eastbound Brentwood Park & Ride",0,301,77
+"394",2,1222,"Eastbound Hillcrest Park & Ride",0,202,40
+"394",2,1223,"Eastbound Hillcrest Park & Ride",0,209,40
+"394",2,1225,"Eastbound Hillcrest Park & Ride",0,211,40
+"394",2,1227,"Eastbound Hillcrest Park & Ride",0,207,40
+"394",2,1228,"Eastbound Hillcrest Park & Ride",0,212,40
+"394",2,1231,"Eastbound Hillcrest Park & Ride",0,206,40
+"394",2,1233,"Eastbound Hillcrest Park & Ride",0,200,40
+"394",2,1244,"Eastbound Hillcrest Park & Ride",0,210,40
+"392",2,1247,"Eastbound Hillcrest Park & Ride",0,206,38
+"392",2,1249,"Eastbound Hillcrest Park & Ride",0,202,38
+"392",2,1253,"Eastbound Hillcrest Park & Ride",0,205,38
+"392",2,1254,"Eastbound Hillcrest Park & Ride",0,209,38
+"392",2,1261,"Eastbound Hillcrest Park & Ride",0,213,38
+"388",1,1263,"Westbound Pittsburg BART",1,116,61
+"388",1,1264,"Westbound Pittsburg BART",1,130,61
+"392",2,1268,"Eastbound Hillcrest Park & Ride",0,200,38
+"380",1,1271,"Eastbound Tri Delta Transit",0,158,30
+"392",2,1276,"Eastbound Hillcrest Park & Ride",0,210,38
+"392",2,1279,"Eastbound Hillcrest Park & Ride",0,206,38
+"392",2,1284,"Eastbound Hillcrest Park & Ride",0,200,38
+"391",1,1287,"Eastbound Brentwood Park & Ride",0,160,33
+"392",2,1296,"Eastbound Hillcrest Park & Ride",0,210,38
+"392",2,1297,"Eastbound Hillcrest Park & Ride",0,202,38
+"392",2,1299,"Eastbound Hillcrest Park & Ride",0,205,38
+"392",2,1300,"Eastbound Hillcrest Park & Ride",0,209,38
+"392",2,1301,"Eastbound Hillcrest Park & Ride",0,211,38
+"392",2,1304,"Eastbound Hillcrest Park & Ride",0,210,38
+"392",2,1305,"Eastbound Hillcrest Park & Ride",0,211,38
+"392",2,1306,"Eastbound Hillcrest Park & Ride",0,210,38
+"394",2,1307,"Eastbound Hillcrest Park & Ride",0,205,40
+"392",2,1308,"Westbound Pittsburg BART",1,206,37
+"393",2,1309,"Eastbound Brentwood Park & Ride",0,208,77
+"394",3,1310,"Eastbound Hillcrest Park & Ride",0,307,40
+"394",3,1311,"Westbound Pittsburg BART",1,302,39
+"394",3,1312,"Westbound Pittsburg BART",1,307,39
+"394",3,1315,"Westbound Pittsburg BART",1,305,39
+"394",3,1316,"Westbound Pittsburg BART",1,300,39
+"394",3,1317,"Westbound Pittsburg BART",1,303,39
+"394",3,1318,"Eastbound Hillcrest Park & Ride",0,305,40
+"394",3,1320,"Eastbound Hillcrest Park & Ride",0,302,40
+"394",3,1321,"Eastbound Hillcrest Park & Ride",0,307,40
+"393",2,1322,"Eastbound Brentwood Park & Ride",0,203,77
+"394",3,1323,"Eastbound Hillcrest Park & Ride",0,305,40
+"394",3,1324,"Eastbound Hillcrest Park & Ride",0,300,40
+"393",2,1325,"Eastbound Brentwood Park & Ride",0,203,77
+"393",2,1326,"Eastbound Brentwood Park & Ride",0,201,77
+"394",3,1327,"Eastbound Hillcrest Park & Ride",0,303,40
+"394",3,1328,"Eastbound Hillcrest Park & Ride",0,308,40
+"393",2,1329,"Eastbound Brentwood Park & Ride",0,203,76
+"393",2,1330,"Eastbound Brentwood Park & Ride",0,201,77
+"393",2,1331,"Eastbound Brentwood Park & Ride",0,203,77
+"393",2,1332,"Westbound Pacifica",1,203,82
+"393",2,1333,"Westbound Pacifica",1,201,82
+"394",3,1334,"Eastbound Hillcrest Park & Ride",0,311,40
+"394",3,1336,"Eastbound Hillcrest Park & Ride",0,310,40
+"394",3,1339,"Eastbound Hillcrest Park & Ride",0,302,40
+"394",3,1340,"Eastbound Hillcrest Park & Ride",0,305,40
+"394",3,1341,"Eastbound Hillcrest Park & Ride",0,303,40
+"201",1,1342,"Westbound Concord BART",1,160,21
+"393",2,1343,"Westbound Pittsburg BART",1,203,83
+"393",2,1344,"Westbound Pacifica",1,201,82
+"201",1,1345,"Westbound Concord BART",1,175,21
+"383",1,1347,"Loop Hillcrest Park & Ride",0,143,56
+"383",1,1351,"Loop Hillcrest Park & Ride",0,152,56
+"300",1,1353,"Eastbound Brentwood Park & Ride",0,102,1
+"387",1,1354,"Westbound Pittsburg BART",1,131,65
+"300",1,1355,"Westbound Pittsburg BART",1,101,2
+"300",1,1356,"Westbound Pittsburg BART",1,100,2
+"391",1,1357,"Westbound Pittsburg BART",1,124,35
+"387",1,1358,"Eastbound Tri Delta Transit",0,119,64
+"391",1,1359,"Westbound Pittsburg BART",1,125,35
+"380",1,1360,"Eastbound Tri Delta Transit",0,171,53
+"300",1,1361,"Eastbound Brentwood Park & Ride",0,101,1
+"391",1,1362,"Westbound Pittsburg BART",1,108,35
+"385",1,1363,"Westbound Hillcrest Park & Ride",1,155,80
+"380",1,1364,"Westbound Pittsburg BART",1,115,12
+"380",1,1365,"Westbound Pittsburg BART",1,153,12
+"300",1,1366,"Westbound Pittsburg BART",1,100,2
+"300",1,1367,"Westbound Pittsburg BART",1,102,2
+"387",1,1368,"Eastbound Tri Delta Transit",0,173,64
+"385",1,1369,"Eastbound Brentwood Park & Ride",0,137,79
+"385",1,1370,"Eastbound Brentwood Park & Ride",0,143,79
+"385",1,1371,"Eastbound Brentwood Park & Ride",0,117,79
+"385",1,1372,"Eastbound Brentwood Park & Ride",0,151,79
+"385",1,1373,"Eastbound Brentwood Park & Ride",0,155,79
+"385",1,1374,"Eastbound Brentwood Park & Ride",0,155,79
+"385",1,1375,"Eastbound Brentwood Park & Ride",0,152,79
+"385",1,1376,"Eastbound Brentwood Park & Ride",0,107,79
+"385",1,1377,"Eastbound Brentwood Park & Ride",0,108,79
+"389",1,1378,"Loop Pittsburg BART",0,113,3
+"389",1,1379,"Loop Pittsburg BART",0,113,3
+"389",1,1381,"Loop Pittsburg BART",0,123,3
+"389",1,1382,"Loop Pittsburg BART",0,119,3
+"389",1,1383,"Loop Pittsburg BART",0,106,3
+"389",1,1384,"Loop Pittsburg BART",0,106,3
+"389",1,1385,"Loop Pittsburg BART",0,162,3
+"389",1,1386,"Loop Pittsburg BART",0,166,3
+"389",1,1387,"Loop Pittsburg BART",0,166,3
+"389",1,1388,"Loop Pittsburg BART",0,165,3
+"389",1,1389,"Loop Pittsburg BART",0,165,3
+"389",1,1390,"Loop Pittsburg BART",0,180,3
+"389",1,1391,"Loop Pittsburg BART",0,108,3
+"385",1,1392,"Westbound Hillcrest Park & Ride",1,133,4
+"379",1,1393,"Eastbound Kaiser",0,135,29
+"388",1,1394,"Westbound Pittsburg BART",1,105,59
+"388",1,1395,"Westbound Pittsburg BART",1,146,59
+"388",1,1396,"Westbound Pittsburg BART",1,108,59
+"388",1,1397,"Westbound Pittsburg BART",1,147,59
+"388",1,1398,"Westbound Pittsburg BART",1,149,59
+"388",1,1399,"Westbound Pittsburg BART",1,136,59
+"388",1,1400,"Westbound Pittsburg BART",1,108,59
+"388",1,1401,"Westbound Pittsburg BART",1,148,59
+"388",1,1402,"Westbound Pittsburg BART",1,169,59
+"388",1,1403,"Westbound Pittsburg BART",1,175,59
+"388",1,1404,"Westbound Pittsburg BART",1,129,59
+"388",1,1405,"Westbound Pittsburg BART",1,174,59
+"385",1,1406,"Eastbound Brentwood Park & Ride",0,141,5
+"385",1,1407,"Eastbound Brentwood Park & Ride",0,117,5
+"380",1,1408,"Eastbound Tri Delta Transit",0,107,51
+"380",1,1409,"Eastbound Tri Delta Transit",0,110,13
+"380",1,1410,"Eastbound Tri Delta Transit",0,163,13
+"380",1,1411,"Eastbound Tri Delta Transit",0,129,13
+"383",1,1412,"Loop Hillcrest Park & Ride",0,152,57
+"386",1,1413,"Loop Brentwood Park & Ride",0,133,18
+"388",1,1414,"Eastbound Kaiser",0,128,72
+"388",1,1415,"Eastbound Kaiser",0,138,72
+"388",1,1416,"Eastbound Kaiser",0,148,72
+"388",1,1417,"Eastbound Kaiser",0,150,72
+"388",1,1418,"Eastbound Kaiser",0,129,72
+"388",1,1419,"Eastbound Kaiser",0,115,72
+"388",1,1420,"Eastbound Kaiser",0,172,72
+"388",1,1421,"Eastbound Kaiser",0,178,72
+"388",1,1422,"Eastbound Kaiser",0,162,72
+"200",1,1423,"Eastbound Pittsburg BART",0,111,15
+"200",1,1424,"Eastbound Pittsburg BART",0,120,15
+"200",1,1425,"Eastbound Pittsburg BART",0,119,15
+"200",1,1426,"Eastbound Pittsburg BART",0,106,15
+"200",1,1427,"Eastbound Pittsburg BART",0,148,15
+"200",1,1428,"Eastbound Pittsburg BART",0,154,15
+"200",1,1429,"Eastbound Pittsburg BART",0,149,15
+"200",1,1430,"Eastbound Pittsburg BART",0,108,15
+"200",1,1431,"Eastbound Pittsburg BART",0,156,15
+"200",1,1432,"Eastbound Pittsburg BART",0,136,15
+"380",1,1433,"Westbound Pittsburg BART",1,105,12
+"380",1,1434,"Westbound Pittsburg BART",1,108,12
+"380",1,1435,"Westbound Pittsburg BART",1,111,12
+"380",1,1436,"Westbound Pittsburg BART",1,128,12
+"380",1,1437,"Westbound Pittsburg BART",1,134,12
+"380",1,1438,"Westbound Pittsburg BART",1,139,12
+"380",1,1439,"Westbound Pittsburg BART",1,110,12
+"380",1,1440,"Westbound Pittsburg BART",1,113,12
+"380",1,1441,"Westbound Pittsburg BART",1,148,12
+"380",1,1442,"Westbound Pittsburg BART",1,141,12
+"380",1,1443,"Westbound Pittsburg BART",1,115,12
+"380",1,1444,"Westbound Pittsburg BART",1,153,12
+"380",1,1445,"Westbound Pittsburg BART",1,156,12
+"380",1,1446,"Westbound Pittsburg BART",1,161,12
+"380",1,1447,"Westbound Pittsburg BART",1,125,12
+"380",1,1448,"Westbound Pittsburg BART",1,143,12
+"380",1,1449,"Westbound Pittsburg BART",1,168,12
+"380",1,1450,"Westbound Pittsburg BART",1,149,12
+"380",1,1451,"Westbound Pittsburg BART",1,167,12
+"380",1,1452,"Westbound Pittsburg BART",1,177,12
+"380",1,1453,"Westbound Pittsburg BART",1,163,12
+"380",1,1454,"Westbound Pittsburg BART",1,166,12
+"380",1,1455,"Westbound Pittsburg BART",1,147,12
+"380",1,1456,"Westbound Pittsburg BART",1,168,12
+"379",1,1457,"Westbound Hillcrest Park & Ride",1,168,31
+"391",1,1458,"Westbound Pittsburg BART",1,142,36
+"391",1,1459,"Westbound Pittsburg BART",1,107,36
+"391",1,1460,"Westbound Pittsburg BART",1,170,36
+"391",1,1461,"Westbound Pittsburg BART",1,151,36
+"391",1,1462,"Westbound Pittsburg BART",1,157,36
+"390",1,1463,"Westbound Pittsburg BART",1,106,6
+"390",1,1464,"Westbound Pittsburg BART",1,115,6
+"390",1,1466,"Westbound Pittsburg BART",1,127,6
+"390",1,1467,"Westbound Pittsburg BART",1,132,6
+"390",1,1468,"Westbound Pittsburg BART",1,140,6
+"390",1,1469,"Westbound Pittsburg BART",1,143,6
+"388",1,1470,"Westbound Pittsburg BART",1,121,61
+"388",1,1471,"Westbound Pittsburg BART",1,150,61
+"388",1,1472,"Westbound Pittsburg BART",1,128,61
+"388",1,1473,"Westbound Pittsburg BART",1,136,61
+"388",1,1474,"Westbound Pittsburg BART",1,170,61
+"388",1,1475,"Westbound Pittsburg BART",1,181,61
+"388",1,1476,"Westbound Pittsburg BART",1,178,61
+"380",1,1477,"Eastbound Tri Delta Transit",0,109,30
+"380",1,1478,"Eastbound Tri Delta Transit",0,114,30
+"380",1,1479,"Eastbound Tri Delta Transit",0,118,30
+"380",1,1480,"Eastbound Tri Delta Transit",0,125,30
+"380",1,1481,"Eastbound Tri Delta Transit",0,115,30
+"380",1,1482,"Eastbound Tri Delta Transit",0,111,30
+"380",1,1483,"Eastbound Tri Delta Transit",0,109,30
+"380",1,1484,"Eastbound Tri Delta Transit",0,147,30
+"380",1,1485,"Eastbound Tri Delta Transit",0,125,30
+"380",1,1486,"Eastbound Tri Delta Transit",0,143,30
+"380",1,1487,"Eastbound Tri Delta Transit",0,106,30
+"380",1,1488,"Eastbound Tri Delta Transit",0,167,30
+"380",1,1489,"Eastbound Tri Delta Transit",0,163,30
+"380",1,1490,"Eastbound Tri Delta Transit",0,161,30
+"380",1,1491,"Eastbound Tri Delta Transit",0,166,30
+"380",1,1492,"Eastbound Tri Delta Transit",0,156,30
+"380",1,1493,"Eastbound Tri Delta Transit",0,169,30

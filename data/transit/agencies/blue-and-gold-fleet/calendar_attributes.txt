@@ -1,0 +1,5 @@
+service_id,service_description
+"72771","Weekend"
+"72772","Weekday"
+"72773","Friday Only"
+"72774","Monday thru Thursday"

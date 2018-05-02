@@ -1,0 +1,7 @@
+route_id,direction_id,direction
+1,0,Inbound
+2,0,Inbound
+4,0,Inbound
+5,0,Inbound
+6,0,Inbound
+8,0,Inbound

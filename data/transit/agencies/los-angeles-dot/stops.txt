@@ -1,0 +1,2272 @@
+stop_id,stop_name,stop_lat,stop_lon
+1101,MLK Blvd. @ Magic Johnson Theater,34.01177,-118.337122
+1104,Santa Rosalia Dr. & Stocker St.,34.007391,-118.337806
+1105,Santa Rosalia Dr. & Medical Plaza,34.008962,-118.338857
+1106,Santa Rosalia Dr. & Marlton Ave.,34.010301,-118.339707
+1107,Santa Rosalia Dr. & Buckingham Rd.,34.012136,-118.342098
+1108,Santa Rosalia Dr. & West Blvd.,34.012787,-118.344524
+1109,Hillcrest Dr. & Santa Rosalia Dr.,34.01363,-118.346794
+1110,Hillcrest Dr. & Pinafore St.,34.012518,-118.348008
+1111,Hillcrest Dr. & Santo Tomas Dr.,34.011609,-118.348785
+1112,Santo Tomas Dr. & Nicolet Ave.,34.011904,-118.351524
+1113,Pinafore St. & Nicolet Ave.,34.014695,-118.351632
+1114,Pinafore St. & Stevely Ave.,34.01495,-118.353503
+1115,Stevely Ave. & August St.,34.017157,-118.353609
+1116,Coliseum St. & La Brea Ave.,34.01839,-118.355217
+1122,Coliseum St. & Wellington Rd.,34.018165,-118.338522
+1124,Crenshaw Blvd. & 39th St.,34.015061,-118.334952
+1125,Crenshaw Blvd. & 39th St.,34.014811,-118.335406
+1133,La Brea Ave. & Rodeo Rd.,34.021194,-118.35577
+1134,Coliseum St. & La Brea Ave.,34.018235,-118.355052
+1135,Stevely Ave. & August St.,34.017435,-118.353664
+1136,Pinafore St. & Stevely Ave.,34.014882,-118.353352
+1137,Pinafore St. & Nicolet Ave.,34.014776,-118.351986
+1138,Santo Tomas Dr. & Nicolet Ave.,34.011807,-118.35143
+1139,Hillcrest Dr. & Santo Tomas Dr.,34.011652,-118.348564
+1140,Hillcrest Dr. & Pinafore Dt.,34.012833,-118.347543
+1141,Santa Rosalia Dr. & Hillcrest Dr.,34.013498,-118.346258
+1142,Santa Rosalia Dr. & West Blvd.,34.012749,-118.344806
+1143,Santa Rosalia Dr. & Buckingham Rd.,34.011992,-118.342117
+1144,Santa Rosalia Dr. & Marlton Ave.,34.010513,-118.339947
+1145,Santa Rosalia Dr. & Medical Plaza,34.009079,-118.338977
+1147,Crenshaw Blvd. & Stocker St.,34.008924,-118.33531
+1202,Hill St. & 35th St.,34.018337,-118.275659
+1204,Grand Ave.& 30th St.,34.023246,-118.274306
+1205,Grand Ave.& 28th,34.024871,-118.273281
+1206,Adams Blvd. & Grand Ave.,34.026759,-118.272791
+1212,23rd St. & Maple Ave.,34.0259,-118.264131
+1213,Trinity St. & 23rd St.,34.025192,-118.261716
+1214,Trinity St. & 21st St.,34.026597,-118.260657
+1215,San Pedro St. & 21st St.,34.026096,-118.258424
+1216,San Pedro St. & Washington Blvd.,34.026907,-118.257887
+1217,Griffith Ave.& Washington Blvd.,34.025761,-118.253849
+1218,Griffith Ave. & 21st St.,34.024259,-118.254772
+1219,Griffith Ave. & 23rd St.,34.022262,-118.256051
+1220,Adams Blvd. & Griffith Ave.,34.019762,-118.257353
+1221,Adams Blvd. & Central Ave.,34.018783,-118.255166
+1222,Central Ave. & 28th St.,34.01701,-118.255729
+1225,M.L. King Blvd & Wadsworth Ave.,34.011061,-118.258808
+1226,M.L. King Blvd & McKinley Ave.,34.011079,-118.260636
+1227,M.L. King Blvd & Avalon Blvd.,34.011178,-118.265722
+1228,M.L. King Blvd. & San Pedro St,34.011239,-118.267641
+1229,M.L. King Blvd & Trinity St.,34.011251,-118.269949
+1230,M.L. King Blvd & Main St.,34.011218,-118.274251
+1231,M.L. King Blvd & S. Broadway,34.01118,-118.278142
+1235,M.L. King Blvd & S. Broadway,34.011053,-118.27866
+1236,M.L. King Blvd & Main St.,34.011056,-118.274251
+1237,M.L. King Blvd & Trinity St.,34.011089,-118.270683
+1239,M.L. King Blvd & Avalon Blvd.,34.010983,-118.265538
+1240,M.L. King Blvd & McKinley Ave.,34.010912,-118.261105
+1241,M.L. King Blvd & Wadsworth Ave.,34.010897,-118.258723
+1244,Central Ave. & 28th St.,34.016557,-118.255784
+1245,Adams Blvd. & Central Ave.,34.01888,-118.255093
+1246,Adams Blvd. & Griffith St.,34.019861,-118.257292
+1247,Griffith Ave. & 23rd St.,34.022232,-118.255923
+1248,Griffith Ave. & 21st St.,34.024003,-118.254835
+1249,Griffith Ave. & Washington Blvd.,34.025595,-118.253821
+1251,San Pedro St. & 21st St.,34.026073,-118.258539
+1253,Trinity St. & 23rd St.,34.025173,-118.261798
+1254,23rd St. & Maple Ave.,34.025994,-118.264148
+1255,23rd St. & Main St.,34.027292,-118.266919
+1256,23rd St. & S. Broadway,34.027992,-118.267789
+1257,23rd St. & Grand Ave.,34.029238,-118.270807
+1259,Adams Blvd. & Figueroa St.,34.027942,-118.275745
+1260,Adams Blvd. & Grand Ave.,34.026473,-118.27249
+1261,Grand Ave. & 27th St.,34.025557,-118.272959
+1262,Grand Ave. & 28th St.,34.024775,-118.273398
+1263,Grand Ave. & 30th St.,34.023538,-118.274226
+1265,Hill St. & 35th St.,34.018474,-118.2757
+1302,MLK Blvd. & Crenshaw Blvd.,34.01084,-118.334823
+1303,MLK Blvd. & Degnan Blvd.,34.010847,-118.331632
+1304,MLK Blvd. & 9th St.,34.010809,-118.327317
+1305,MLK Blvd. & Sutro Ave.,34.010788,-118.323587
+1306,MLK Blvd. & 4th Ave.,34.01065,-118.321668
+1307,MLK Blvd. & Arlington Ave.,34.010735,-118.318596
+1308,MLK Blvd. & Gramercy Pl.,34.010761,-118.313985
+1309,MLK Blvd. & St. Andrews  Pl.,34.010789,-118.31149
+1310,MLK Blvd. & Western Ave.,34.010779,-118.308598
+1311,MLK Blvd. & Denker Ave.,34.010775,-118.304732
+1312,MLK Blvd. & Halldale Ave.,34.010736,-118.302491
+1313,MLK Blvd. & Nomandie Ave.,34.010691,-118.300465
+1314,MLK Blvd. & Budlong Ave.,34.010763,-118.295564
+1318,Vernon Ave. & Kansas Ave.,34.003743,-118.294019
+1319,Vernon Ave. & Budlong Ave.,34.00376,-118.295738
+1320,Vernon Ave. & Raymond Ave.,34.003777,-118.297944
+1321,Vernon Ave. & Normandie Ave.,34.003741,-118.299928
+1322,Vernon Ave. & Halldale Ave.,34.003771,-118.30222
+1323,Denker Ave. & Vernon Ave.,34.003401,-118.304607
+1324,Denker Ave. & 46th St.,34.001711,-118.304604
+1325,Denker Ave. & 48th St.,33.999879,-118.30463
+1326,Denker Ave. & 50th St.,33.998353,-118.304611
+1327,Denker Ave. & 52nd St.,33.995191,-118.304607
+1328,Denker Ave. & 54th St.,33.993396,-118.304655
+1330,54th St. & Ruthelen St.,33.993298,-118.312483
+1331,54th St. & Wilton Pl.,33.993268,-118.314753
+1332,54th St. & Arlington Ave.,33.993263,-118.3181
+1333,54th St. & 2nd Ave.,33.993284,-118.319032
+1334,54th St. & 4th Ave.,33.993275,-118.321266
+1335,54th St. & 6th Ave.,33.993243,-118.323507
+1336,54th St. & 8th Ave.,33.993218,-118.325632
+1337,10th Ave. & 54th St.,33.992935,-118.328218
+1338,10th Ave. & Slauson Ave.,33.989243,-118.328234
+1339,Crenshaw Blvd. & Slauson Ave.,33.989439,-118.330737
+1340,Crenshaw Blvd. & 57th St.,33.99121,-118.330727
+1341,Crenshaw Blvd. & 54th St.,33.993506,-118.330649
+1342,Crenshaw Blvd. & 52nd St.,33.995341,-118.33065
+1343,Crenshaw Blvd. & 50th St.,33.99795,-118.330637
+1344,Crenshaw Blvd. & 48th St.,34.000452,-118.330619
+1345,Crenshaw Blvd. & Vernon Ave.,34.003902,-118.33212
+1347,Crenshaw Blvd. & 43rd St.,34.005744,-118.333962
+1350,Crenshaw Blvd. & Homeland Dr.,34.005504,-118.333998
+1351,Crenshaw Blvd. & Vernon Ave.,34.003229,-118.331775
+1352,Crenshaw Blvd. & 48th St.,33.999553,-118.330935
+1354,Crenshaw Blvd. & 52nd St.,33.99467,-118.330943
+1355,Crenshaw Blvd. & 54th St.,33.992799,-118.330968
+1357,Slauson Ave. & Crenshaw Blvd.,33.988928,-118.330316
+1358,10th Ave. & Slauson Ave.,33.989186,-118.328119
+1359,54th St. & 10th Ave.,33.993079,-118.328036
+1360,54th St. & 8th Ave.,33.99311,-118.325944
+1361,54th St. & 6th Ave.,33.99317,-118.323804
+1362,54th St. & 4th Ave.,33.993212,-118.32171
+1363,54th St. & 2nd Ave.,33.99316,-118.318843
+1364,54th St. & Van Ness Ave.,33.993145,-118.317296
+1365,54th St. & Wilton Pl.,33.993183,-118.315066
+1366,54th St. & Ruthelen St.,33.993191,-118.312738
+1367,54th St. & Western Ave.,33.993177,-118.309389
+1368,54th St. & Denker Ave.,33.993206,-118.304865
+1369,Denker Ave. & 52nd St.,33.994924,-118.30449
+1370,Denker Ave. & 50th St.,33.998156,-118.304498
+1371,Denker Ave. & 48th St.,34.000172,-118.304478
+1372,Denker Ave. & 46th St.,34.001789,-118.304487
+1373,Denker Ave. & Vernon Ave.,34.003543,-118.304491
+1374,Vernon Ave. & Halldale Ave.,34.003681,-118.30249
+1375,Vernon Ave. & Normandie Ave.,34.003651,-118.299835
+1376,Vernon Ave. & Raymond Ave.,34.003643,-118.298218
+1377,Vernon Ave. & Budlong Ave.,34.003635,-118.296206
+1378,Vernon Ave. & Kansas Ave.,34.003626,-118.293874
+1379,MLK Blvd. & 4th Ave.,34.010867,-118.321202
+1381,MLK Blvd. & Vermont Ave.,34.010983,-118.291998
+1382,MLK Blvd. & Budlong Ave.,34.010983,-118.29566
+1383,MLK Blvd. & Normandie Ave.,34.010997,-118.299852
+1384,MLK Blvd. & Halldale Ave.,34.010936,-118.302648
+1385,MLK Blvd. & Denker Ave.,34.010923,-118.304427
+1386,MLK Blvd. & Western Ave.,34.010936,-118.309259
+1387,MLK Blvd. & St. Andrews Pl.,34.010956,-118.310911
+1388,MLK Blvd. & Gramercy Pl.,34.010957,-118.313708
+1389,MLK Blvd. & Arlington Ave.,34.010924,-118.317875
+1391,MLK Blvd. & Sutro Ave.,34.010978,-118.323525
+1392,MLK Blvd. & Westside Ave.,34.010984,-118.326923
+1393,MLK Blvd. & Degnan Blvd.,34.011007,-118.331768
+1403,Crenshaw Blvd. & Coliseum St.,34.017755,-118.335278
+1404,Crenshaw Blvd. & Rodeo Rd.,34.021784,-118.33523
+1405,Crenshaw Blvd. & Jefferson Blvd.,34.02545,-118.335218
+1406,Jefferson Blvd. & Somerset Dr.,34.025498,-118.337737
+1407,Jefferson Blvd. & Buckingham Rd.,34.02549,-118.340232
+1408,Buckingham Rd. & 29th St.,34.029587,-118.340592
+1410,West Blvd. & Buckingham Rd.,34.033372,-118.341055
+1411,Adams Blvd. & Virginia Rd.,34.032494,-118.33927
+1412,Adams Blvd. & Somerset Dr.,34.032651,-118.337759
+1413,Adams Blvd. & Crenshaw Blvd.,34.032692,-118.334558
+1414,Adams Blvd.& Edgehill Dr.,34.032526,-118.328831
+1415,Adams Blvd. & 4th Ave.,34.032704,-118.321121
+1416,Adams Blvd. & Arlington Ave.,34.032601,-118.317883
+1417,Adams Blvd. & Cimmaron St.,34.032736,-118.31487
+1418,Adams Blvd. & St. Andrew Pl.,34.032758,-118.311586
+1419,Western Ave. & Adams Blvd.,34.032932,-118.309054
+1420,Western Ave. & 24th St.,34.034854,-118.309056
+1421,Western Ave. & Washington Blvd.,34.040244,-118.309071
+1422,18th St. & Western Ave.,34.041768,-118.309369
+1423,Washington Blvd. & Gramercy Ave.,34.040029,-118.313652
+1424,Washington Blvd. & Arlington Ave.,34.039831,-118.317971
+1425,Washington Blvd. & 6th Ave.,34.039799,-118.323798
+1426,Washington Blvd. & Norton Ave.,34.040022,-118.326451
+1427,Washington Blvd. & Crenshaw Blvd.,34.039812,-118.330755
+1428,Washington Blvd. & Wellington Rd.,34.03978,-118.334346
+1429,Washington Blvd. & West Blvd.,34.039982,-118.336994
+1430,West Blvd. & Saturn St.,34.0427,-118.336167
+1431,West Blvd. & 16th St.,34.045917,-118.33481
+1432,Pico Blvd. & Mullen Ave.,34.04857,-118.335134
+1434,Pico Blvd. & La Brea Ave.,34.047816,-118.34436
+1435,Pico Blvd. & Redondo Blvd.,34.048073,-118.349137
+1436,Redondo Blvd. & Packard St.,34.049819,-118.348509
+1438,Pico Blvd. & La Brea Ave.,34.048046,-118.344186
+1440,Pico Blvd. & Mullen Ave.,34.048822,-118.3356
+1441,West Blvd. & Lomita St.,34.045352,-118.335145
+1442,West Blvd. & Saturn St.,34.042403,-118.336199
+1443,Washington Blvd. & West Blvd.,34.039766,-118.337089
+1444,Washington Blvd. & Wellington Rd.,34.039941,-118.333528
+1445,Washington Blvd. & Crenshaw Blvd.,34.039967,-118.331494
+1446,Washington Blvd. & 10th Ave.,34.039789,-118.327077
+1447,Washington Blvd. & 6th Ave.,34.040005,-118.323533
+1448,Washington Blvd. & Arlington Ave.,34.04,-118.317551
+1449,Washington Blvd. & Gramercy Ave.,34.039825,-118.313492
+1450,18th St. & Western Ave.,34.041742,-118.309282
+1451,Western Ave. & Washington Blvd.,34.039567,-118.308975
+1452,Western Ave. & 24th St.,34.03461,-118.308947
+1453,Western Ave. & Adams Blvd.,34.033126,-118.308931
+1454,Adams Blvd. & St. Andrews Pl.,34.032615,-118.311414
+1456,Adams Blvd. & Arlington Ave.,34.032738,-118.317469
+1457,Adams Blvd. & 4th Ave.,34.032572,-118.320954
+1458,Adams Blvd. & 6th Ave.,34.032707,-118.323479
+1459,Adams Blvd. & 10th Ave.,34.032685,-118.328252
+1460,Adams Blvd. & Crenshaw Blvd.,34.032498,-118.334573
+1461,Adams Blvd. & Somerset Dr.,34.032497,-118.338566
+1462,Adams Blvd. & 7th Ave.,34.032567,-118.324105
+1463,Buckingham Rd. & 29th St.,34.029331,-118.340506
+1465,Jefferson Blvd. & Somerset Dr.,34.025641,-118.337226
+1466,Jefferson Blvd. & Crenshaw Blvd.,34.025652,-118.335529
+1468,Crenshaw Blvd & Coliseum St.,34.018547,-118.334972
+1502,Figueroa St. & 39th St.,34.013867,-118.282881
+1503,Figueroa St. & MLK Blvd.,34.011526,-118.282835
+1504,Figueroa St. & 42nd St.,34.007594,-118.2828
+1505,Vernon Ave. & Figueroa St.,34.003677,-118.282273
+1506,Vernon Ave. & Broadway,34.003697,-118.278663
+1507,Vernon Ave. & Main St.,34.003733,-118.274253
+1508,San Pedro St. & Vernon Ave.,34.004037,-118.26955
+1509,42nd Pl. & San Pedro St.,34.006521,-118.26945
+1510,42nd Pl. & Avalon Blvd.,34.006522,-118.265407
+1511,Vernon Ave. & Avalon Blvd.,34.003815,-118.264755
+1512,Vernon Ave. & McKinley Ave.,34.003842,-118.261054
+1513,Central Ave. & Vernon Ave.,34.004141,-118.256445
+1514,Central Ave. & 42nd St.,34.007242,-118.256513
+1515,41st St. & Central Ave.,34.009157,-118.256256
+1516,41st St. & Hooper Ave.,34.009239,-118.252307
+1517,41st St. & Compton Ave.,34.008595,-118.247581
+1519,Long Beach Ave. & 42nd St.,34.006061,-118.243393
+1520,Long Beach Ave. E & Vernon Ave.,34.003431,-118.243061
+1521,Long Beach Ave. W & 48th Pl.,33.999454,-118.24348
+1522,Long Beach Ave. W & 53rd St.,33.995438,-118.243527
+1523,Long Beach Ave. W & 55th St.,33.993087,-118.243569
+1524,55th St. & Compton Ave.,33.99302,-118.247534
+1525,55th St. & Hooper Ave.,33.993036,-118.251922
+1526,55th St. & Central Ave.,33.993021,-118.256243
+1527,54th St. & McKinley Ave.,33.993356,-118.261029
+1528,54th St. & Avalon Blvd.,33.993434,-118.265489
+1529,54th St. & San Pedro St.,33.993394,-118.269724
+1530,54th St. & Main St.,33.993381,-118.273421
+1531,Main St. & Slauson Ave.,33.989526,-118.273996
+1532,Slauson Ave. & Broadway,33.989247,-118.277914
+1533,Slauson Ave. & Figueroa St.,33.989185,-118.282416
+1534,Slauson Ave. & Hoover Ave.,33.989203,-118.287041
+1535,Vermont Ave. & Slauson Ave.,33.989796,-118.291439
+1536,Vermont Ave. & 54th St.,33.992896,-118.291491
+1537,Vermont Ave. & 51st St.,33.996246,-118.291505
+1538,Vermont Ave. & 48th St.,33.999691,-118.291515
+1539,Vermont Ave. & 46th St.,34.001765,-118.291569
+1540,Vermont Ave. & Vernon Ave.,34.003878,-118.291662
+1541,Vermont Ave. & 42nd St.,34.006996,-118.291481
+1542,Vermont Ave. & MLK Blvd.,34.010522,-118.291641
+1555,Vermont Ave. & MLK Blvd.,34.010522,-118.291641
+1556,Vermont Ave. & 42nd St.,34.00745,-118.291639
+1557,Vermont Ave. & Vernon Ave.,34.003837,-118.291641
+1558,Vermont Ave. & 46th St.,34.001434,-118.291643
+1559,Vermont Ave. & 48th St.,33.99948,-118.29164
+1560,Vermont Ave. & 51st St.,33.996742,-118.291603
+1561,Vermont Ave. & 54th St.,33.993487,-118.29158
+1564,Slauson Ave. & Figueroa St.,33.989117,-118.282917
+1565,Slauson Ave. & Broadway,33.989137,-118.27876
+1566,Main St. & Slauson Ave.,33.989666,-118.273863
+1567,Main St. & 54th St.,33.993245,-118.273881
+1568,54th St. & San Pedro St.,33.993332,-118.269782
+1569,54th St. & Avalon Blvd.,33.993383,-118.265543
+1570,54th St. & McKinley Ave.,33.993369,-118.260579
+1571,55th St. & Central Ave.,33.993005,-118.256233
+1572,55th St. & Hooper Ave.,33.992982,-118.25227
+1573,Compton Ave. & 53rd St.,33.99466,-118.247704
+1574,Compton Ave. & 51st St.,33.996394,-118.247694
+1575,Compton Ave. & 48th St.,33.999128,-118.247733
+1576,Compton Ave. & 46th St.,34.001945,-118.247697
+1577,Compton Ave. & Vernon Ave.,34.004326,-118.247361
+1578,Compton Ave. & 42nd St.,34.006636,-118.247363
+1580,41st St. & Hooper Ave.,34.009295,-118.251873
+1581,41st St. & Central Ave.,34.009248,-118.256206
+1582,Central Ave. & 42nd St.,34.007723,-118.256607
+1583,Vernon Ave. & Central Ave.,34.004029,-118.256829
+1584,Vernon Ave. & McKinley Ave.,34.003967,-118.260717
+1585,Vernon Ave. & Avalon Blvd.,34.003957,-118.264845
+1586,42nd Pl. & Avalon Blvd.,34.006642,-118.265496
+1587,San Pedro St. & 42nd Pl.,34.006474,-118.269753
+1588,Vernon Ave. & San Pedro St.,34.003936,-118.26985
+1589,Vernon Ave. & Main St.,34.003901,-118.274352
+1590,Vernon Ave. & Broadway,34.003873,-118.27801
+1591,Vernon Ave. & Fiqueroa St.,34.003816,-118.282351
+1592,Figueroa St. & 42nd St.,34.006981,-118.282653
+1593,Figueroa St. & MLK Blvd.,34.010636,-118.282665
+1594,Figueroa St. & 39th St.,34.01374,-118.282657
+1605,55th St. & Holmes  Ave.,33.992886,-118.241375
+1606,Holmes Ave. & Slauson Ave.,33.989698,-118.241281
+1607,Holmes Ave. & Randolph St.,33.987368,-118.241295
+1608,Holmes Ave. & 60th St.,33.984996,-118.241095
+1609,Holmes Ave. & 62nd St.,33.983617,-118.241131
+1610,Gage Ave. & Holmes Ave.,33.981968,-118.240855
+1611,Wilmington Ave. & Gage Ave.,33.982343,-118.238951
+1612,Holmes Ave. & 62nd St.,33.983945,-118.241327
+1613,Holmes Ave. & 60th St.,33.985442,-118.241317
+1614,Holmes Ave. & Randolph,33.986749,-118.241078
+1615,Holmes Ave. & Slauson Ave.,33.988827,-118.241091
+1616,Holmes Ave. & 55th St.,33.993193,-118.241083
+1617,Holmes Ave. & 53rd St.,33.994685,-118.24108
+1618,Long Beach Ave. E & 52nd St.,33.995629,-118.243145
+1620,Long Beach Ave. W & Vernon Ave.,34.003686,-118.243488
+2001,Vermont Ave. & Ambrose Ave.,34.10952619284387,-118.28755527734756
+2002,Hillhurst Ave. & Finley Ave.,34.10738109596768,-118.28754253685474
+2003,Hillhurst Ave. & Franklin Ave.,34.105129156833065,-118.2875344902277
+2004,Hillhurst Ave. & Melbourne Ave.,34.10376131795952,-118.28754119575024
+2005,Hillhurst Ave. & Prospect Ave.,34.10191603530434,-118.28753314912319
+2006,Sunset Blvd. & Hillhurst Ave.,34.09825361896915,-118.28777991235256
+2009,Hillhurst Ave. & Hollywood Blvd.,34.098535,-118.287333
+2010,Hillhurst Ave. & Prospect Ave.,34.101568,-118.28737
+2011,Hillhurst Ave. & Melbourne Ave.,34.10353517484458,-118.28734271228313
+2012,Franklin Ave. & Hillhurst Ave.,34.10547,-118.287888
+2014,Vermont Ave. & Finley Ave.,34.107561,-118.291732
+2015,Vermont Ave. & Ambrose Ave.,34.109737,-118.291727
+2016,Los Feliz Blvd. & Vermont Ave.,34.11107609356077,-118.29088188707829
+2017,Los Feliz Blvd. & Hillhurst Ave.,34.11164925127367,-118.28773029148579
+2018,Vermont Ave. & Commonwealth Canyon Dr.,34.11889582818694,-118.29473957419395
+2019,Griffith Observatory,34.119322,-118.30015200000003
+2020,Vermont Ave. & Commonwealth Canyon Dr.,34.118358833387596,-118.29455986618996
+2024,Hillhurst Ave & Franklin Ave.,34.105661524423454,-118.28734539449215
+2025,Vermont Ave. & Franklin Ave.,34.1054134,-118.2939707
+2026,Hillhurst Ave & Prospect Ave.,34.102018115821835,-118.28733868896961
+2027,Hillhurst Ave & Finley Ave.,34.10749102172718,-118.28736282885075
+2028,Los Feliz Blvd & Vermont Ave.,34.11201552380394,-118.28717306256294
+2029,Vermont Canyon Rd (Greek Theater),34.12023044961487,-118.29609677195549
+2030,Mt Hollywood Dr & Western Caynon Rd.,34.12379143052842,-118.3017341047
+2031,Vermont Canyon Rd (Greek Theater),34.12037804174985,-118.29591706395149
+2032,Hillhurst Ave & Ambrose Ave.,34.10974760897058,-118.28735880553722
+2102,Cesar Chavez Ave. & Alameda St.,34.058087,-118.236486
+2103,Cesar Chavez Ave. & Broadway,34.059,-118.240746
+2104,Cesar Chavez Ave. & Grand Ave.,34.060958,-118.24412
+2105,Cesar Chavez Ave. & Figueroa St.,34.062593,-118.246081
+2107,College St. & Centennial St.,34.066771,-118.245463
+2108,College St. & Figueroa Terrace,34.06628,-118.243992
+2110,College St. & Hill St.,34.0645,-118.238997
+2111,Broadway & College St.,34.064159,-118.237322
+2113,Broadway & Bernard St.,34.066587,-118.235869
+2114,Broadway & Bishop Rd.,34.068642,-118.233486
+2115,Broadway & Solano Ave.,34.070795,-118.230347
+2116,Broadway & Ave. 18,34.071772,-118.22301
+2117,Broadway & Ave. 20,34.072494,-118.220261
+2118,Broadway & Ave. 22,34.073481,-118.218022
+2119,Daly St. & Broadway,34.073952,-118.215545
+2120,Daly St. & Ave. 26,34.076198,-118.215618
+2121,Ave. 26 & Workman St.,34.076484,-118.214696
+2122,Ave 26 & Griffin Ave.,34.076513,-118.212084
+2123,Broadway & Griffin Ave.,34.073617,-118.21151
+2124,Broadway & Eastlake Ave.,34.073691,-118.208245
+2125,Broadway & Thomas St.,34.073698,-118.205393
+2126,Broadway & Lincoln Park Ave.,34.073787,-118.202871
+2127,Manitou Ave. & Lincoln Park Ave.,34.072066,-118.202678
+2128,Manitou Ave. & Gates St.,34.072027,-118.206295
+2129,Handcock St. & Manitou Ave.,34.071715,-118.209104
+2130,Griffin Ave. & Baldwin St.,34.070042,-118.21176
+2131,Griffin Ave. & Darwin Ave.,34.067863,-118.211665
+2132,Griffin Ave. & Main St.,34.065752,-118.21165
+2133,Griffin Ave. & Mission Rd.,34.062281,-118.21093
+2134,Zonal Ave. & State St.,34.061177,-118.208994
+2136,Marengo St. & Mission Rd.,34.061195,-118.214727
+2137,Main St. & Daly St.,34.066096,-118.215852
+2138,Main St. & Ave. 20,34.066056,-118.217945
+2139,Main St. & Lamar St.,34.067061,-118.222125
+2140,Main St. & Albion St.,34.067469,-118.223681
+2141,Main St. & Wilhardt St.,34.06783,-118.225799
+2144,Main St. & Ann St.,34.06493,-118.231268
+2145,Main St. & College St.,34.062894,-118.234049
+2147,Cesar Chavez Ave. & Alameda St.,34.057794,-118.236464
+2150,Main St. & Ann St.,34.064888,-118.231062
+2151,Main St. & Leroy St.,34.065629,-118.229736
+2153,Main St. & Wilhardt St.,34.067717,-118.225624
+2154,Main St. & Lamar St.,34.067064,-118.222546
+2155,Main St. & Ave. 20,34.065925,-118.218321
+2157,Marengo Ave. & Mission Rd.,34.060443,-118.214339
+2159,LAC+USC Medical Center,34.060382,-118.209918
+2160,Zonal Ave. & State St.,34.061328,-118.208929
+2162,Griffin & Main St.,34.065746,-118.211505
+2163,Griffin Ave. & Darwin Ave.,34.067737,-118.211516
+2164,Griffin Ave. & Baldwin St.,34.070014,-118.211567
+2165,Manitou Ave. & Hancock St.,34.071916,-118.208862
+2166,Maintou Ave.& Thomas Ave.,34.071958,-118.205301
+2167,Maintou Ave.& Lincoln Park Ave.,34.072002,-118.202731
+2168,Broadway & Thomas St.,34.073843,-118.205432
+2169,Broadway & Eastlake Ave.,34.073812,-118.207455
+2170,Griffin Ave. & Broadway,34.074145,-118.211643
+2171,Griffin Ave. & Altura St.,34.07568,-118.211735
+2172,Ave. 26 & Workman St.,34.076564,-118.214253
+2173,Daly St. & Ave. 26,34.076163,-118.215801
+2174,Daly St. & Broadway,34.073959,-118.215719
+2175,Broadway & Ave. 22,34.073669,-118.217797
+2176,Broadway & Ave. 20,34.072638,-118.220395
+2177,Broadway & Ave. 18,34.071883,-118.222104
+2178,Broadway & Solano Ave.,34.071278,-118.229699
+2179,Broadway & Bishops Rd.,34.068987,-118.233286
+2180,Broadway & Bernard St.,34.067071,-118.235715
+2182,Broadway & College St.,34.064227,-118.23743
+2183,College St. & Hill St.,34.06455,-118.238891
+2184,College St. & Adobe St.,34.06524,-118.240868
+2185,College St. & Figueroa Terrace,34.066266,-118.243901
+2186,College St. & Centennial St.,34.066833,-118.245518
+2187,Centennial St. & Alpine St.,34.065374,-118.246735
+2188,Cesar Chavez Ave. & Figueroa St.,34.062265,-118.246128
+2189,Cesar Chavez Ave. & Grand Ave.,34.060261,-118.243567
+2190,Cesar Chavez Ave. & Spring St.,34.058213,-118.239883
+2192,LAC+USC Medical Center,34.060669,-118.20987
+2193,Vignes St. & Cesar Chavez Ave.,34.0568304,-118.2338297
+2302,Wilshire Blvd. & Cochran Ave.,34.062379,-118.34657
+2305,Wilshire Blvd. & Masselin Ave.,34.062471,-118.352819
+2306,Wilshire Blvd. & Curson Ave.,34.062506,-118.355193
+2307,Wilshire Blvd. & Ogden Ave.,34.062868,-118.357858
+2308,Wilshire Blvd. & Fairfax Ave.,34.063051,-118.361035
+2309,Fairfax Ave. & 6th St.,34.064532,-118.361383
+2310,Fairfax Ave. & Drexel Ave.,34.068041,-118.361378
+2311,Fairfax Ave. & 3rd St.,34.071864,-118.361363
+2312,Fairfax Ave. & 1st St.,34.074119,-118.361317
+2313,Fairfax Ave. & Beverly Blvd.,34.075919,-118.361313
+2314,Fairfax Ave. & Oakwood Ave.,34.078468,-118.361365
+2315,Fairfax Ave. & Rosewood Ave.,34.080377,-118.361427
+2316,Melrose Ave. & Fairfax Ave.,34.083867,-118.361698
+2317,Melrose Ave. & Cresent Heights Blvd.,34.083824,-118.365617
+2318,Melrose Ave. & Harper Ave.,34.083795,-118.368761
+2319,Melrose Ave. & Orlando Ave.,34.083749,-118.372548
+2320,La Cienega Blvd. & Melrose Ave.,34.081666,-118.376652
+2321,La Cienega Blvd. & Rosewood Ave.,34.080371,-118.376652
+2322,La Cienega Blvd. & Beverly Blvd.,34.076275,-118.376725
+2323,La Cienega Blvd. & 3rd St.,34.07376,-118.376691
+2325,3rd St. & Sherbourne Dr.,34.07364,-118.379788
+2327,Gracie Allen Dr. & Sherbourne Rd.,34.075376,-118.381001
+2328,Beverly Blvd. & San Vicente Blvd.,34.076282,-118.37883
+2329,La Cienega Blvd. & Beverly Blvd.,34.075751,-118.376459
+2330,La Cienega Blvd. & Rosewood Ave.,34.079833,-118.376493
+2331,La Cienega Blvd. & Melrose Ave.,34.0817,-118.376429
+2332,Melrose Ave. & Orlando Ave.,34.083379,-118.373454
+2333,Melrose Ave. & Harper Ave.,34.083674,-118.369067
+2334,Melrose Ave. & Cresent Heights Blvd.,34.083732,-118.366415
+2335,Fairfax Ave. & Melrose Ave.,34.083611,-118.361604
+2336,Fairfax Ave. & Rosewood Ave.,34.080029,-118.361602
+2337,Fairfax Ave. & Oakwood Ave.,34.078032,-118.361568
+2338,Fairfax Ave. & Beverly Blvd.,34.076432,-118.361568
+2339,Fairfax Ave. & 1st St.,34.074204,-118.361539
+2340,3rd St. & Fairfax Ave.,34.07143,-118.360907
+2341,3rd St. & Ogden Dr.,34.071078,-118.358765
+2342,3rd St. & Burnside Ave.,34.070546,-118.355389
+2343,3rd St. & Gardner St.,34.070293,-118.353004
+2344,3rd St. & Hauser Blvd.,34.070021,-118.351506
+2345,Hauser Blvd & Fuller Ave.,34.068977,-118.350834
+2346,Hauser Blvd. & Drexel Ave.,34.068273,-118.349859
+2347,Hauser Blvd & Burnside Ave.,34.066488,-118.350324
+2348,6th St. & Hauser Blvd.,34.064963,-118.351314
+2349,6th St. & Burnside Ave.,34.065013,-118.349555
+2350,6th St. & Cochran Ave.,34.064961,-118.347704
+2351,La Brea Ave. & 6th St.,34.064827,-118.344134
+2401,Beachwood Dr. & Westshire Dr.,34.119687,-118.321157
+2402,Beachwood Dr. & Glen Oak St.,34.118691,-118.321513
+2403,Beachwood Dr. & Glen Alder St.,34.116924,-118.321542
+2404,Beachwood Dr. & Gower St.,34.115713,-118.321588
+2405,Beachwood Dr. & Winans Dr.,34.113202,-118.321438
+2406,Beachwood Dr. & Temple Hill Dr.,34.111649,-118.321459
+2407,Beachwood Dr. & Scenic Ave.,34.109979,-118.321481
+2408,Beachwood Dr. - Mid-block,34.107161,-118.321642
+2410,Franklin Ave. & Vista Del Mar,34.105253,-118.324111
+2412,Argyle Ave. & Hollywood Blvd. Red Line Station,34.10159,-118.324309
+2413,Vine St. & Sunset Blvd.,34.098161,-118.326625
+2414,Vine St. & Selma Ave.,34.099599,-118.32644
+2415,Vine St. & Hollywood Blvd.,34.101571,-118.326925
+2416,Argyle Ave. & Yucca St.,34.103884,-118.325267
+2417,Franklin Ave. & Argyle Ave.,34.105162,-118.324813
+2418,Beachwood Dr. & Franklin Ave.,34.105437,-118.321206
+2419,Beachwood Dr. - Mid-block,34.107573,-118.321748
+2420,Beachwood Dr. & Scenic Ave.,34.11027,-118.321592
+2421,Beachwood Dr. & Temple Hill Dr.,34.111828,-118.321604
+2422,Beachwood Dr. & Winans Dr.,34.113401,-118.321548
+2423,Beachwood Dr. & Cheremoya Ave.,34.115488,-118.321534
+2425,Beachwood Dr. & Glen Oak St.,34.118847,-118.32148
+2426,Argyle Ave. & Yucca St.,34.103884,-118.325267
+2427,Beachwood Dr. & Westshire Dr.,34.11988,-118.321073
+2501,Argyle Ave. & Hollywood Blvd.,34.101469,-118.325332
+2502,Sunset Blvd. & Gower St.,34.097908,-118.322808
+2504,Gower St. & Lexington St.,34.092722,-118.322314
+2505,Gower St. & Santa Monica Blvd.,34.090914,-118.322294
+2506,Gower St. & Romaine St.,34.089045,-118.322298
+2507,Gower St. & Waring Ave.,34.085535,-118.322328
+2508,Melrose Ave. & Beachwood Dr.,34.083443,-118.321886
+2509,Melrose Ave. & Windsor Blvd.,34.083429,-118.31985
+2510,Melrose Ave. & Bronson Ave.,34.083414,-118.318174
+2511,Melrose Ave. & Van Ness Ave.,34.083392,-118.316027
+2512,Melrose Ave. & Wilton Pl.,34.083402,-118.313782
+2513,Western Ave. & Melrose Ave.,34.083239,-118.309216
+2514,Western Ave. & Maplewood Ave.,34.08058,-118.309189
+2515,Western Ave. & Elmwood Ave.,34.078435,-118.309249
+2516,Western Ave. & Beverly Blvd.,34.076582,-118.309246
+2517,Western Ave. & 1st St.,34.07408,-118.309162
+2519,Western Ave. & 3rd St.,34.068511,-118.309227
+2520,Western Ave. & 4th St.,34.067337,-118.309185
+2521,5th Street & Oxford Ave.,34.065271,-118.308234
+2522,Oxford Ave. & 6th St.,34.06376,-118.307895
+2523,Western Ave. & Wilshire Blvd.,34.062007,-118.308965
+2524,Oxford Ave. & Wilshire Blvd.,34.06185024,-118.3080124855
+2525,Western Ave. & 5th St.,34.065592,-118.309073
+2526,Western Ave. & 4th St.,34.066933,-118.309161
+2527,Western Ave. & 3rd St.,34.06877,-118.309062
+2528,Western Ave. & 2nd St.,34.070945,-118.309082
+2529,Western Ave. & 1st St.,34.073423,-118.309085
+2530,Western Ave. & Beverly Blvd.,34.076412,-118.309109
+2531,Western Ave. & Elmwood Ave.,34.078326,-118.309125
+2532,Western Ave.& Maplewood Ave.,34.079878,-118.309137
+2533,Melrose Ave. & Western Ave.,34.083573,-118.30955
+2534,Melrose Ave. & Wilton Pl.,34.083573,-118.313915
+2535,Melrose Ave.& Van Ness,34.083529,-118.315858
+2536,Melrose Ave. & Bronson Ave.,34.083585,-118.317435
+2537,Melrose Ave. & Windsor Blvd.,34.083558,-118.31928
+2538,Melrose Ave. & Gower St.,34.083491,-118.322063
+2539,Gower St. & Waring Ave.,34.0851,-118.322256
+2540,Gower St. & Santa Monica Blvd.,34.090897,-118.322259
+2541,Gower St. & Lexington St.,34.092707,-118.322265
+2543,Sunset Blvd. & El Centro Ave.,34.09813,-118.323416
+2600,Argyle Ave. & Hollywood Blvd.,34.102002,-118.325074
+2603,Franklin Ave. & Beachwood Dr.,34.105183,-118.321424
+2604,Franklin Ave. & Bronson Ave.,34.105211,-118.318293
+2605,Franklin Ave. & Van Ness Ave.,34.105249,-118.315975
+2606,Franklin Ave. & Wilton St.,34.105253,-118.313803
+2607,Franklin Ave. & Western Ave.,34.105304,-118.309552
+2608,Franklin Ave. & Harvard Blvd.,34.105316,-118.305167
+2609,Franklin Ave. & Normandie Ave.,34.105296,-118.30076
+2610,Franklin Ave. & Edgemont Ave.,34.105342,-118.296343
+2611,Franklin Ave. & Vermont Ave.,34.105376,-118.292091
+2612,Vermont Ave. & Melbourne Ave.,34.103782,-118.291839
+2613,Vermont Ave. & Prospect Ave.,34.101961,-118.291857
+2614,Vermont Ave. & Barnsdall Ave.,34.099248,-118.291879
+2615,Vermont Ave. & Sunset Blvd.,34.098446,-118.291754
+2616,Vermont Ave. & Fountain Ave.,34.095697,-118.291857
+2617,Vermont Ave. & Lexington St.,34.093125,-118.291837
+2618,Santa Monica Blvd. & Vermont Ave.,34.090948,-118.292223
+2619,Santa Monica Blvd. & Berendo St.,34.090919,-118.293775
+2620,Santa Monica Blvd. & Edgemont Ave.,34.090939,-118.295949
+2621,Edgemont Ave. & Lexington St.,34.093329,-118.296051
+2622,Fountain Ave. & EdgemontAve.,34.095428,-118.29645
+2623,Fountain Ave. & Normandie Ave.,34.095266,-118.300864
+2624,Fountain Ave. & Harvard Blvd.,34.095145,-118.304504
+2625,Fountain Ave. & Serrano Ave.,34.095051,-118.306912
+2626,Fountain Ave. & Western Ave.,34.095862,-118.308869
+2627,Western Ave. & Fernwood Ave.,34.095666,-118.309151
+2628,Sunset Blvd. & Western Ave.,34.098198,-118.309585
+2629,Sunset Blvd. & Saint Andrews,34.098191,-118.311322
+2630,Sunset Blvd. & Wilton Pl.,34.098161,-118.313279
+2631,Sunset Blvd. & Van Ness Ave.,34.098185,-118.315525
+2632,Sunset Blvd. & Bronson Ave.,34.098128,-118.317761
+2633,Sunset Blvd. & Gordon St.,34.098152,-118.319547
+2634,Gower St. & Sunset Blvd.,34.097312,-118.322355
+2635,Gower St. & Fountain Ave.,34.094564,-118.322455
+2636,Fountain Ave. & Vine St.,34.094423,-118.326394
+2637,Fountain Ave. & Cahuenga Blvd.,34.0944,-118.328698
+2638,Santa Monica Blvd. & Edgemont Ave.,34.090758,-118.295554
+2639,Fountain Ave. & Wilcox Ave.,34.09439,-118.330848
+2640,Fountain Ave. & Seward St.,34.09442,-118.333367
+2641,Fountain Ave. & Las Palmas Ave.,34.094417,-118.336194
+2642,Highland Ave. & Fountain Ave.,34.094735,-118.33854
+2643,Highland Ave. & De Longpre Ave.,34.096059,-118.338538
+2644,Highland Ave. & Sunset Blvd.,34.097642,-118.33856
+2645,Highland Ave. & Hollywood Blvd.,34.102033,-118.338556
+2647,Franklin Ave. & Cherokee Ave.,34.105146,-118.334925
+2648,Whitley St. & Yucca St.,34.103351,-118.333316
+2649,Hollywood Blvd. & Wilcox Ave.,34.101515,-118.331538
+2650,Hollywood Blvd. & Cahuenga Blvd.,34.101536,-118.329839
+2651,Hollywood Blvd. & Vine St.,34.102061,-118.327032
+2652,Hollywood Blvd. & Vine St.,34.102061,-118.3292207
+2653,Hollywood Blvd. & Cahuenga Blvd.,34.101764,-118.32902
+2654,Hollywood Blvd.& Wilcox Ave.,34.10171,-118.330848
+2655,Hollywood Blvd. & Whitley St.,34.101682,-118.33297
+2656,Whitley St. & Yucca St.,34.103131,-118.333351
+2657,Franklin Ave. & Whitley St.,34.105203,-118.333438
+2658,Franklin Ave. & Las Palmas Ave.,34.105221,-118.335845
+2659,Highland Ave. & Franklin Ave.,34.1017909,-118.3396693
+2660,Highland Ave. & Hollywood Blvd.,34.101165,-118.338764
+2661,Highland Ave. & Sunset Blvd.,34.098606,-118.338786
+2662,Highland Ave.& De Longpre Ave.,34.096334,-118.338781
+2663,Fountain Ave. & Las Palmas Ave.,34.094357,-118.336567
+2664,Fountain Ave. & Seward St.,34.0943,-118.332758
+2665,Fountain Ave. & Cole Ave.,34.094307,-118.330025
+2666,Fountain Ave. & Cahuenga Blvd.,34.094282,-118.329025
+2667,Fountain Ave. & Vine St.,34.09428,-118.326306
+2668,Gower St. & Fountain Ave.,34.094577,-118.322242
+2669,Sunset Blvd. & Gower St.,34.097927,-118.322107
+2670,Sunset Blvd. & Gordon St.,34.097937,-118.320392
+2671,Sunset Blvd. & Bronson Ave.,34.097978,-118.318147
+2672,Sunset Blvd. & Van Ness Ave.,34.097979,-118.315893
+2673,Sunset Blvd. & Wilton Pl.,34.098017,-118.313826
+2674,Sunset Blvd. & Saint Andrews,34.098023,-118.310629
+2675,Western Ave. & Sunset Blvd.,34.097744,-118.309299
+2676,Western Ave. & Fernwood Ave.,34.096009,-118.309323
+2677,Fountain Ave. & Western Ave.,34.094862,-118.308869
+2678,Fountain Ave. & Serrano Ave.,34.094932,-118.307204
+2679,Fountain Ave. & Harvard Blvd.,34.095145,-118.304504
+2680,Fountain Ave. & Normandie Ave.,34.095198,-118.300202
+2681,Fountain Ave. & Edgemont Ave.,34.095359,-118.296261
+2682,Edgmont Ave. & Lexington Ave.,34.093281,-118.296176
+2683,Santa Monica Blvd.& Berendo St.,34.090797,-118.293733
+2684,Vermont Ave. & Santa Monica Blvd.,34.091285,-118.291659
+2685,Vermont Ave. & Lexington St.,34.093282,-118.291683
+2686,Vermont Ave. & Fountain Ave.,34.095047,-118.291697
+2687,Vermont Ave. & Sunset Blvd.,34.09825361896915,-118.28777991235256
+2688,Vermont Ave. & Hollywood Blvd.,34.10091249873785,-118.29166106879711
+2689,Vermont Ave. & Prospect Ave.,34.102003,-118.291716
+2690,Vermont Ave. & Melbourne Ave.,34.103402,-118.291688
+2691,Franklin & New Hampshire Ave.,34.105512,-118.2950577
+2692,Franklin Ave. & Edgemont Ave.,34.105421,-118.296011
+2693,Franklin Ave. & Normandie Ave.,34.105414,-118.300876
+2694,Franklin Ave. & Harvard Blvd.,34.105433,-118.305198
+2695,Franklin Ave. & Western Ave.,34.10545,-118.309599
+2696,Franklin Ave. & Wilton Pl.,34.105417,-118.313425
+2697,Franklin Ave. & Van Ness Ave.,34.105333,-118.315676
+2698,Franklin Ave. & Bronson Ave.,34.105292,-118.317822
+2699,Beachwood Dr. & Franklin Ave.,34.105289,-118.321594
+2700,Argyle Ave. & Hollywood Blvd.,34.101906,-118.325518
+2701,Chestnut Ave. & Comet St.,34.118965,-118.16973
+2703,San Pasqual Ave. & Elgin St.,34.116415,-118.174921
+2704,San Pasqual Ave. & Salonica St.,34.114449,-118.177909
+2706,Ave. 64 & York Blvd.,34.114725,-118.181236
+2707,Ave. 64 & Crescent St.,34.117099,-118.179866
+2708,Ave. 64 & Pollard St.,34.119678,-118.178335
+2709,Meridian St. & Vista Pl.,34.120167,-118.181288
+2710,Figueroa St. & Meridian St.,34.119921,-118.183784
+2711,York Blvd. & Figueroa St.,34.11485,-118.185118
+2712,Figueroa St. & Piedmont Ave.,34.113908,-118.186074
+2714,Figueroa St. & Ave. 60,34.111579,-118.189001
+2715,Figueroa St. & Ave. 59,34.110755,-118.190694
+2716,Figueroa St. & Ave. 57,34.109808,-118.192703
+2717,Figueroa St. & Ave. 56,34.10888,-118.194454
+2718,Figueroa St. & Ave. 54,34.107754,-118.196746
+2719,Ave. 54 & Monte Vista St.,34.110021,-118.198535
+2720,Ave. 54 & Abbott Pl.,34.112207,-118.199043
+2721,Ave. 54 & Irvington Pl.,34.115338,-118.19905
+2722,York Blvd. & Ave. 53,34.120276,-118.200325
+2723,York Blvd. & Ave. 52,34.120705,-118.202424
+2724,York Blvd. & Ave. 51,34.121103,-118.204598
+2726,Ave. 51 & Eaton St.,34.126733,-118.203069
+2727,Townsend Ave. & Oak Grove Dr.,34.131398,-118.201877
+2728,Townsend Ave. & Yosemite Dr.,34.132779,-118.201722
+2729,Townsend Ave. & Grandola Ave.,34.136442,-118.201405
+2730,Colorado Blvd. & Mt. Royal Dr.,34.139591,-118.203188
+2731,Colorado Blvd. & Argus Dr.,34.139481,-118.205857
+2732,Colorado Blvd. & Highland View Ave.,34.139394,-118.208337
+2733,Colorado Blvd. & Maywood Ave.,34.139337,-118.211388
+2734,Colorado Blvd. & Eagle Rock Blvd.,34.13927,-118.214394
+2735,Colorado Blvd. & Ellenwood Dr.,34.140085,-118.218741
+2736,Colorado Blvd.& Sierra Villa Dr.,34.142169,-118.222724
+2737,Broadway & Sumner Ave.,34.143394,-118.225106
+2738,Colorado St. & Eagledale Ave.,34.14266,-118.227083
+2739,Colorado Blvd. & Broadway,34.14269,-118.224856
+2740,Colorado Blvd. & Sierra Villa Dr.,34.142124,-118.223217
+2741,Colorado Blvd. & Ellenwood Dr.,34.139876,-118.218854
+2742,Colorado Blvd. Eagle Rock Blvd.,34.139125,-118.214728
+2743,Colorado Blvd. & Maywood Ave.,34.139094,-118.211373
+2744,Colorado Blvd. & Highland View Ave.,34.139177,-118.208658
+2745,Colorado Blvd. & Argus Dr.,34.139222,-118.2064
+2746,Colorado Blvd. & Mt. Royal Dr.,34.139308,-118.20392
+2747,Colorado Blvd. & Townsend Ave.,34.139379,-118.201801
+2748,Townsend Ave. & Grandola Ave.,34.136669,-118.20154
+2749,Townsend Ave. & Yosemite Dr.,34.133036,-118.201749
+2751,Ave. 51 & Eaton St.,34.126859,-118.203103
+2754,York Blvd. & Ave. 52,34.120848,-118.203927
+2755,York Blvd. & Ave. 54,34.119984,-118.199365
+2756,Ave. 54 & Irvington St.,34.116345,-118.199157
+2757,Ave. 54 & Abbott Pl.,34.111896,-118.199164
+2758,Ave. 54 & Monte Vista St.,34.10993,-118.198568
+2759,Figueroa St. & Ave. 54,34.107923,-118.19597
+2760,Figueroa St. & Ave. 56,34.108855,-118.194105
+2764,Figueroa St. & Ave. 60,34.111469,-118.188775
+2765,Figueroa St. & Ave. 61,34.112269,-118.187608
+2766,Figueroa St. & Arroyo Glen St.,34.113537,-118.186209
+2767,York Ave. & Figueroa St.,34.11525,-118.184442
+2768,Figueroa St. & Hamlet St.,34.117595,-118.183404
+2769,Figueroa St. & Meridian St.,34.119953,-118.183614
+2770,Meridian St. & Fisher St.,34.120082,-118.181671
+2771,Ave. 64 & Meridian St.,34.11991,-118.178326
+2772,Ave. 64 & Crescent St.,34.117356,-118.179844
+2773,York Blvd. & Ave. 64,34.114216,-118.181176
+2774,San Pasqual Ave. & Salonica St.,34.114435,-118.177628
+2775,San Pasqual Ave. & Elgin St.,34.116381,-118.174718
+2776,San Pasqual Ave. & Hough St.,34.118233,-118.172297
+2777,Ave 66 & York Blvd 66,34.113789,-118.179433
+2801,Vermont Ave. & Wilshire Blvd.,34.061528,-118.29161
+2802,Vermont Ave. & 6th St.,34.063991,-118.291558
+2803,Vermont Ave. & 5th St.,34.065284,-118.291577
+2804,Vermont Ave. & 4th St.,34.067156,-118.291583
+2805,3rd St. & New Hampshire Ave.,34.069138,-118.292526
+2806,3rd St. & Catalina St.,34.069133,-118.295248
+2807,3rd St. & Alexandria Ave.,34.069152,-118.297696
+2808,Normandie Ave. & 3rd St.,34.069142,-118.300178
+2809,3rd St. & Kingsley Dr.,34.069101,-118.303363
+2810,3rd St. & Hobart Blvd.,34.069108,-118.30522
+2813,Western Ave. & 5th St.,34.065629,-118.309179
+2814,Western Ave. & 6th St.,34.063983,-118.309251
+2815,Western Ave. & Wilshire Blvd.,34.062147,-118.309007
+2816,Western Ave. & 7th St.,34.060081,-118.309192
+2817,Western Ave. & 8th St.,34.058342,-118.309172
+2818,James M Wood Blvd./9th St. & Western Ave.,34.055818,-118.308908
+2819,James M Wood Blvd. & Hobart Blvd.,34.055843,-118.305595
+2820,James M Wood Blvd. & Kingsley Dr.,34.055839,-118.303288
+2821,James M Wood Blvd. & Irolo St.,34.055845,-118.301148
+2822,James M Wood Blvd. & Fedora St.,34.055888,-118.297461
+2823,James M Wood Blvd. & Catalina St.,34.05591,-118.295562
+2824,San Marino St. & Catalina St.,34.054468,-118.29502
+2825,Olympic Blvd. & Catalina St.,34.052627,-118.294606
+2826,Vermont Ave. & Olympic Blvd.,34.052732,-118.291573
+2827,Vermont Ave. & James M Wood Blvd.,34.05573,-118.291582
+2828,Vermont Ave. & 8th St.,34.057464,-118.291626
+2829,Vermont Ave. & 7th St.,34.059992,-118.291594
+2836,3rd St. & Hobart Blvd.,34.068943,-118.305569
+2837,3rd St. & Kingsley Dr.,34.068966,-118.303172
+2838,Normandie Ave. & 3rd St.,34.069203,-118.300271
+2839,Normandie Ave. & 2nd St.,34.070939,-118.300379
+2840,Normandie Ave. & 1st St.,34.0726,-118.30036
+2841,1st St. & Alexandria Ave.,34.072738,-118.298269
+2842,1st St. & Catalina St.,34.072733,-118.29567
+2843,1st St. & New Hampshire Ave.,34.072744,-118.292703
+2844,Vermont Ave. & 1st St.,34.072567,-118.291789
+2845,Vermont Ave. & 2nd St.,34.070578,-118.291788
+2846,Vermont Ave. & 3rd St.,34.068743,-118.29179
+2847,Vermont Ave. & 4th St.,34.067582,-118.291793
+2848,Vermont Ave. & 5th St.,34.065721,-118.291754
+2849,Vermont Ave. & 6th St.,34.064008,-118.291761
+2850,Vermont Ave. & Wilshire Blvd.,34.062666,-118.29171
+2851,Vermont Ave. & 7th St.,34.059225,-118.291766
+2852,Vermont Ave. & 8th St.,34.05808,-118.291708
+2853,Vermont Ave. & James M Wood Blvd.,34.056131,-118.291714
+2854,James M Wood Blvd. & New Hampshire Ave.,34.056012,-118.293053
+2855,James M Wood Blvd. & Catalina St.,34.056008,-118.295223
+2856,James M Wood Blvd. & Fedora St.,34.055953,-118.297436
+2857,James M Wood Blvd. & Irolo St.,34.055955,-118.300731
+2858,James M Wood Blvd. & Kingsley Dr.,34.05594,-118.302914
+2859,James M Wood Blvd. & Hobart Blvd.,34.055989,-118.305085
+2860,San Marino St. & Western Ave.,34.05451,-118.308936
+2861,Western Ave. & 8th St.,34.057455,-118.309005
+2862,Western Ave. & 7th St.,34.05947,-118.309028
+3000,Northridge Metrolink Station,34.230059,-118.545062
+3001,Parthenia St. & Wilbur Ave.,34.228325,-118.54557
+3002,Parthenia St. & Vanalden Ave.,34.227838,-118.549294
+3003,Parthenia St. & Tampa Ave.,34.228341,-118.554056
+3004,Parthenia St. & Shirley Ave.,34.228325,-118.557684
+3005,Corbin Ave. & Parthenia St.,34.228664,-118.562167
+3006,Nordhoff Way & Corbin Ave.,34.231913,-118.561803
+3007,Nordhoff St. & Tampa Ave.,34.235373,-118.553043
+3008,Nordhoff St. & Vanalden Ave.,34.235365,-118.548859
+3009,Nordhoff St. & Wilbur Ave.,34.235378,-118.544406
+3010,Nordhoff St. & Yolanda Ave.,34.235394,-118.540147
+3011,Reseda Blvd. & Nordhoff St.,34.235191,-118.536189
+3012,Reseda Blvd. & Rayen St.,34.232017,-118.536208
+3013,Reseda Blvd. & Parthenia St.,34.227858,-118.536227
+3014,Reseda Blvd. & Chase St.,34.224705,-118.536204
+3015,Reseda Blvd. & Roscoe Blvd.,34.220367,-118.536208
+3016,Reseda Blvd. & Strathern St.,34.215741,-118.536196
+3017,Reseda Blvd. & Ingomar St.,34.212116,-118.536175
+3018,Reseda Blvd. & Saticoy St.,34.20807,-118.536191
+3019,Reseda Blvd. & Valerio St.,34.204893,-118.536177
+3020,Sherman Way & Reseda Blvd.,34.201207,-118.536481
+3021,Sherman Way & Amigo Ave.,34.201235,-118.538895
+3022,Sherman Way & Wilbur Ave.,34.201212,-118.544485
+3023,Wilbur Ave. & Saticoy St.,34.208613,-118.544695
+3024,Wilbur Ave. & Strathern St.,34.215855,-118.54471
+3025,Wilbur Ave. & Roscoe Blvd.,34.220819,-118.544726
+3026,Wilbur Ave. & Chase St.,34.224407,-118.544718
+3100,Van Nuys Metrolink Station,34.210593,-118.448506
+3101,Van Nuys Blvd. & Blythe St.,34.215519,-118.448613
+3102,Van Nuys Blvd. & Lanark St.,34.218144,-118.448677
+3103,Van Nuys Blvd. & Roscoe Blvd.,34.222312,-118.448676
+3104,Van Nuys Blvd. & Chase St.,34.224488,-118.448656
+3105,Parthenia St. & Tobias Ave.,34.228192,-118.452181
+3106,Parthenia St. & Willis Ave.,34.228324,-118.455124
+3107,Parthenia St. & Kester Ave.,34.228333,-118.457764
+3108,Parthenia St. & Noble Ave.,34.228344,-118.461401
+3109,Parthenia St. & Columbus Ave.,34.228335,-118.465753
+3110,Sepulveda Blvd. & Parthenia St.,34.227815,-118.467821
+3111,Sepulveda Blvd. & Chase St.,34.224805,-118.467834
+3112,Sepulveda Blvd. & Roscoe Blvd.,34.221108,-118.467885
+3113,Sepulveda Blvd. & Lanark St.,34.218084,-118.466562
+3114,Sepulveda Blvd. & Raymer St.,34.213895,-118.466324
+3115,Sepulveda Blvd. & Stagg St.,34.21184,-118.466352
+3116,Saticoy St. & Sepulveda Blvd.,34.208346,-118.465738
+3117,Saticoy St. & Noble Ave.,34.20836,-118.461457
+3118,Saticoy St. & Kester Ave.,34.208369,-118.457746
+3119,Kester Ave. & Valerio St.,34.204961,-118.457552
+3120,Kester Ave. & Sherman Way,34.201492,-118.457569
+3121,Kester Ave. & Hart St.,34.197208,-118.457555
+3122,Kester Ave. & Vanowen St.,34.193587,-118.457559
+3123,Kester Ave. & Kittridge St.,34.190001,-118.457559
+3124,Victory Blvd. & Kester Ave.,34.18654,-118.45705
+3125,Victory Blvd. & Cedros Ave.,34.186565,-118.453286
+3126,Victory Blvd. & Van Nuys Blvd.,34.18656,-118.448265
+3127,Victory Blvd. & Sylmar Ave.,34.186569,-118.446827
+3128,Victory Blvd. & Tyrone Ave.,34.186558,-118.444528
+3129,Sylvan St. & Sylmar Ave.,34.184711,-118.446403
+3130,Sylmar Ave. & Victory Blvd.,34.186873,-118.446496
+3131,Sylmar Ave. & Hamlin St.,34.188839,-118.44651
+3133,Hazeltine Ave. & Vanowen St.,34.194175,-118.439896
+3134,Hazeltine Ave. & Hart St.,34.197762,-118.439915
+3135,Sherman Way & Hazeltine Ave.,34.201069,-118.439689
+3136,Sherman Way & Tyrone Ave.,34.201274,-118.444681
+3137,Van Nuys Blvd. & Sherman Way,34.201761,-118.448638
+3138,Van Nuys Blvd. & Valerio St.,34.204593,-118.448651
+3139,Van Nuys Blvd. & Saticoy St.,34.208816,-118.448668
+3141,Van Nuys Blvd. & Saticoy St.,34.208626,-118.448896
+3142,Van Nuys Blvd. & Valerio St.,34.205115,-118.448874
+3143,Sherman Way & Van Nuys Blvd.,34.201108,-118.448205
+3144,Sherman Way & Tyrone Ave.,34.201107,-118.444503
+3145,Hazeltine Ave. & Sherman Way,34.200881,-118.440079
+3146,Hazeltine Ave. & Hart St.,34.197314,-118.440097
+3147,Hazeltine Ave. & Vanowen St.,34.194308,-118.44009
+3148,Vanowen St. & Tyrone Ave.,34.194024,-118.444765
+3149,Sylmar Ave. & Hamlin St.,34.18844,-118.446607
+3150,Sylmar Ave. & Victory Blvd.,34.18636,-118.446605
+3151,Sylvan St. & Sylmar Ave.,34.184588,-118.446339
+3152,Victory Blvd. & Tyrone Ave.,34.186774,-118.444699
+3153,Victory Blvd. & Sylmar Ave.,34.186745,-118.446393
+3154,Victory Blvd. & Van Nuys Blvd.,34.186781,-118.449123
+3155,Victory Blvd. & Cedros Ave.,34.186765,-118.452954
+3156,Victory Blvd. & Kester Ave.,34.186761,-118.457285
+3157,Kester Ave. & Kittridge St.,34.190024,-118.457372
+3158,Kester Ave. & Vanowen St.,34.194231,-118.457374
+3159,Kester Ave. & Hart St.,34.197422,-118.457378
+3160,Kester Ave. & Sherman Way,34.200942,-118.457391
+3161,Kester Ave. & Valerio St.,34.205073,-118.457369
+3162,Saticoy St. & Kester Ave.,34.208531,-118.457758
+3163,Saticoy St. & Noble Ave.,34.20856,-118.461944
+3164,Saticoy St. & Sepulveda Blvd.,34.208514,-118.465928
+3165,Sepulveda Blvd. & Stagg St.,34.211962,-118.466088
+3166,Sepulveda Blvd. & Raymer St.,34.214104,-118.466041
+3167,Sepulveda Blvd. & Lanark St.,34.21877,-118.466584
+3168,Sepulveda Blvd. & Roscoe Blvd.,34.221744,-118.4676
+3169,Sepulveda Blvd. & Chase St.,34.224522,-118.467578
+3170,Parthenia St. & Sepulveda Blvd.,34.228045,-118.467537
+3171,Parthenia St. & Columbus  Ave.,34.228165,-118.465164
+3172,Parthenia St. & Noble Ave.,34.228083,-118.461252
+3173,Parthenia St. & Kester Ave.,34.228039,-118.45714
+3174,Parthenia St. & Willis Ave.,34.228044,-118.454997
+3175,Parthenia St. & Tobias Ave.,34.227778,-118.451792
+3176,Van Nuys Blvd. & Vesper Ave.,34.226369,-118.449685
+3177,Van Nuys Blvd. & Chase St.,34.224455,-118.448945
+3178,Van Nuys Blvd. & Roscoe Blvd.,34.22067,-118.448884
+3179,Van Nuys Blvd. & Lanark St.,34.218123,-118.448871
+3180,Van Nuys Blvd. & Blythe St.,34.215294,-118.448889
+3200,Laurel Canyon Blvd. & Ventura Blvd.,34.144048,-118.395316
+3201,Laurel Canyon Blvd. & Valleyheart Dr.,34.146526,-118.39629
+3202,Moorpark St. & Laurel Canyon Blvd.,34.150381,-118.396862
+3203,Moorpark St. & Laurelgrove Ave.,34.150417,-118.400735
+3204,Moorpark St. & Babcock Ave.,34.150446,-118.40607
+3205,Moorpark St. & Bellaire Ave.,34.150436,-118.40968
+3207,Moorpark St. & Ethel Ave.,34.150427,-118.418407
+3208,Moorpark St. & Fulton Ave.,34.150432,-118.422927
+3209,Moorpark St. & Allot Ave.,34.150432,-118.427857
+3210,Moorpark St. & Woodman Ave.,34.150434,-118.431763
+3211,Moorpark St. & Stern Ave.,34.150431,-118.435352
+3212,Moorpark St. & Hazeltine Ave.,34.150507,-118.439815
+3213,Hazeltine Ave. & Milbank St.,34.152864,-118.439869
+3215,Hazeltine Ave. & Riverside Dr,34.157248,-118.439958
+3216,Hazeltine Ave. & Huston St.,34.159284,-118.439917
+3217,Hazeltine Ave. & Magnolia Blvd.,34.165068,-118.439932
+3218,Hazeltine Ave. & Chandler Blvd.,34.169195,-118.439892
+3219,Hazeltine Ave. & Burbank Blvd.,34.172477,-118.439876
+3220,Hazeltine Ave. & Hatteras St.,34.175602,-118.439894
+3221,Hazeltine Ave. & Oxnard St.,34.179675,-118.4399
+3222,Hazeltine Ave. & Calvert St.,34.181954,-118.439907
+3223,Sylvan St. & Hazeltine Ave.,34.18472,-118.440267
+3225,Van Nuys Blvd. & Delano St.,34.182765,-118.448847
+3226,Oxnard St. & Van Nuys Blvd.,34.179277,-118.448327
+3227,Oxnard St. & Tyrone Ave.,34.179277,-118.444447
+3228,Oxnard St. & Hazeltine Ave.,34.179315,-118.439525
+3229,Oxnard St. & Ranchito Ave.,34.179299,-118.435828
+3230,Oxnard St. & Woodman Ave.,34.179301,-118.43085
+3231,Oxnard St. & Hillview Park Ave.,34.179309,-118.428096
+3232,Fulton Ave. & Oxnard St.,34.178829,-118.422577
+3233,Fulton Ave. & Hatteras St.,34.175827,-118.422584
+3234,Burbank Blvd. & Fulton Ave.,34.171986,-118.421965
+3235,Burbank Blvd. & Ethel Ave.,34.172008,-118.418391
+3236,Burbank Blvd. & Coldwater Canyon  Ave.,34.1720222222222,-118.413994444444
+3237,Burbank Blvd. & Bellaire Ave.,34.171999,-118.409781
+3238,Whitsett Ave. & Burbank Blvd.,34.171822,-118.405348
+3239,Whitsett Ave. & Chandler Blvd.,34.167921,-118.405347
+3240,Whitsett Ave. & Magnolia Blvd.,34.165011,-118.405335
+3241,Whitsett Ave. & Addison St.,34.161658,-118.405334
+3242,Whitsett Ave. & Riverside Dr.,34.157799,-118.405334
+3243,Whitsett Ave. & Sarah St.,34.153668,-118.405312
+3244,Whitsett Ave. & Moorpark St.,34.149983,-118.405283
+3245,Whitsett Ave. & Valley Spring Ln.,34.146877,-118.405272
+3246,Ventura Blvd. & Whitsett Ave.,34.142606,-118.404866
+3247,Ventura Blvd. & Laurelgrove Ave.,34.14298,-118.400536
+3249,Ventura Blvd. & Laurelgrove Ave.,34.143148,-118.401199
+3250,Whitsett Ave. & Valleyheart Dr.,34.143665,-118.405105
+3252,Whitsett Ave. & Valley Spring Ln.,34.146944,-118.405118
+3253,Whitsett Ave. & Moorpark St.,34.15062,-118.405126
+3254,Whitsett Ave. & Riverside Dr.,34.157463,-118.405114
+3255,Whitsett Ave. & Hesby St.,34.162015,-118.405147
+3256,Whitsett Ave. & Magnolia Blvd.,34.164741,-118.405151
+3257,Whitsett Ave. & Chandler Blvd.,34.168994,-118.405151
+3258,Burbank Blvd. & Whitsett Ave.,34.172242,-118.40583
+3259,Burbank Blvd. & Bellaire Ave.,34.172253,-118.409814
+3260,Burbank Blvd. & Coldwater Canyon Ave.,34.17226,-118.413982
+3261,Burbank Blvd. & Ethel Ave.,34.172238,-118.418473
+3262,Burbank Blvd. & Fulton Ave.,34.172244,-118.421763
+3263,Oxnard St. & Fulton Ave.,34.179494,-118.42288
+3264,Fulton Ave. & Hatteras St.,34.175666,-118.422429
+3265,Oxnard St. & Sunnyslope Ave.,34.179498,-118.427199
+3266,Oxnard St. & Ranchito Ave.,34.179473,-118.43596
+3267,Oxnard St. & Hazeltine Ave.,34.179513,-118.440318
+3268,Oxnard St. & Tyrone Ave.,34.179497,-118.4446
+3269,Van Nuys Blvd. & Oxnard St.,34.179679,-118.448566
+3270,Van Nuys Blvd. & Delano St.,34.182435,-118.448588
+3271,Van Nuys Blvd. & Sylvan St.,34.184473,-118.448623
+3273,Sylvan St. & Hazeltine Ave.,34.184611,-118.440105
+3274,Hazeltine Ave. & Calvert St.,34.181407,-118.440086
+3275,Hazeltine Ave. & Oxnard St.,34.179547,-118.440096
+3276,Hazeltine Ave. & Hatteras Ave.,34.1759,-118.440049
+3277,Hazeltine Ave. & Burbank Blvd.,34.172365,-118.440055
+3278,Hazeltine Ave. & Chandler Blvd.,34.168649,-118.440036
+3279,Hazeltine Ave. & Magnolia Blvd.,34.165006,-118.440094
+3280,Hazeltine Ave. & Huston St.,34.159552,-118.440079
+3281,Hazeltine Ave. & Riverside Dr,34.157253,-118.440083
+3282,Hazeltine Ave. & Milbank St.,34.153129,-118.440077
+3283,Moorpark St. & Hazeltine Ave.,34.150357,-118.439643
+3284,Moorpark St. & Stern Ave.,34.150288,-118.435681
+3285,Moorpark St. & Woodman Ave.,34.150273,-118.430777
+3286,Moorpark St. & Allott Ave.,34.1503,-118.428106
+3287,Moorpark St. & Fulton Ave.,34.15028,-118.422153
+3288,Moorpark St. & Ethel Ave.,34.150289,-118.418253
+3289,Moorpark St. & Coldwater Canyon Ave.,34.150283,-118.41326
+3290,Moorpark St. & Bellaire Ave.,34.150303,-118.409562
+3291,Moorpark St. & Whitsett Ave.,34.150319,-118.404861
+3292,Moorpark St. & Laurelgrove Ave.,34.150324,-118.400936
+3293,Laurel Canyon Blvd. & Moorpark St.,34.149917,-118.396594
+3294,Laurel Canyon Blvd. & Valleyheart Dr.,34.146341,-118.396447
+3295,Oxnard St. & Woodman Ave.,34.179498,-118.431704
+4001,Washington Blvd. & Figueroa St.,34.034564,-118.272319
+4002,Washington Blvd. & Cherry St.,34.036253,-118.276058
+4003,Washington Blvd. & Oak St.,34.036848,-118.277353
+4004,Washington Blvd. & Union Ave.,34.038421,-118.280856
+4005,Union Ave. & 18th St.,34.039417,-118.280574
+4006,Union Ave. & Venice Blvd.,34.041392,-118.279248
+4007,Union Ave. & 14th St.,34.04322,-118.277771
+4008,Union Ave. & Pico Blvd.,34.044394,-118.277043
+4009,Union Ave. & 12th St.,34.046163,-118.276148
+4010,Union Ave. & Olympic Blvd.,34.049432,-118.274185
+4011,Union Ave. & James M Wood Blvd.,34.050961,-118.273247
+4012,8th St. & Union Ave.,34.052538,-118.272542
+4013,8th St. & Burlington Ave.,34.053301,-118.274331
+4014,8th St. & Westlake Ave.,34.0543,-118.276459
+4015,Westlake Ave./MacArthur Park Red Line Station,34.056745,-118.275165
+4016,6th St. & Bonnie Brae,34.058579,-118.272831
+4017,6th St. & Burlington Ave.,34.057699,-118.270942
+4018,6th St. & Union Ave.,34.057318,-118.270069
+4019,6th St. & Valencia St.,34.056281,-118.26763
+4021,Lucas Ave. & 6th St.,34.054961,-118.263656
+4022,Lucas Ave. & Maryland St.,34.056654,-118.262649
+4023,3rd St. & Lucas Ave.,34.058357,-118.261884
+4024,3rd St. & Witmer St.,34.059058,-118.263294
+4025,3rd St. & Loma St.,34.059868,-118.265367
+4026,3rd St. & Union Ave.,34.060902,-118.267789
+4027,3rd St & Bonnie Brae St.,34.061893,-118.270072
+4028,3rd St & Alvarado St.,34.062970,-118.272535
+4029,Alvarado St & Valley St.,34.064711,-118.271504
+4030,Alvarado St & Beverly Blvd.,34.066553,-118.270325
+4031,Beverly Blvd & Bonnie Brae St.,34.065594,-118.268077
+4032,Union Ave. & Beverly Blvd.,34.064421,-118.265719
+4033,Union Ave. & Court St.,34.067624,-118.263882
+4034,Temple St. & Belmont Ave.,34.068573,-118.262819
+4035,Temple St. & Glendale Blvd.,34.067967,-118.260288
+4036,Temple St. & Douglas St.,34.067246,-118.256852
+4037,Edgeware Rd. & Bellevue Ave.,34.067215,-118.254218
+4038,Bellevue Ave. & Douglas St.,34.06828,-118.255822
+4039,Bellevue Ave. & Laveta Terrace,34.069462,-118.258528
+4040,Echo Park Ave. & Laguna Ave.,34.07295,-118.259555
+4041,Echo Park Ave. & Park Ave.,34.075079,-118.258325
+4042,Echo Park Ave. & Sunset Blvd.,34.076628,-118.257463
+4043,Echo Park Ave. & Montana St.,34.078068,-118.25664
+4044,Echo Park Ave. & Scott Ave.,34.079738,-118.255427
+4045,Echo Park Ave. & Morton Ave.,34.081439,-118.254555
+4046,Echo Park Ave. & Lucretia Ave.,34.083278,-118.25445
+4047,Echo Park Ave. & Marsden St.,34.085573,-118.252462
+4048,Echo Park Ave. & Ewing St.,34.087934,-118.250076
+4049,Echo Park Ave. & Baxter St.,34.089155,-118.249957
+4050,Echo Park Blvd. & Donaldson St.,34.091521,-118.24889
+4051,Echo Park Ave. & Donaldson St.,34.091528,-118.24887
+4052,Echo Park Ave. & Baxter St.,34.089508,-118.250099
+4053,Echo Park Ave. & Ewing St.,34.087935,-118.25014
+4054,Echo Park Ave. & Armitage St.,34.085335,-118.252974
+4055,Echo Park Ave. & Lucretia St.,34.083555,-118.254404
+4056,Echo Park Ave. & Delta St.,34.081686,-118.254561
+4057,Echo Park Ave. & Scott Ave.,34.080014,-118.255379
+4058,Echo Park Ave. & Montana St.,34.077928,-118.256726
+4059,Echo Park Ave. & Sunset Blvd.,34.07715,-118.257231
+4060,Echo Park Ave. & Park Ave.,34.075091,-118.25851
+4061,Echo Park Ave. & Laguna St.,34.072998,-118.25972
+4063,Bellevue Ave. & Douglas St.,34.068235,-118.256121
+4064,Bellevue Ave.  & Edgeware Rd.,34.069054,-118.258
+4065,Temple St. & Edgeware Rd.,34.066922,-118.254829
+4066,Temple St. & Douglas St.,34.0674,-118.256809
+4067,Temple St. & Glendale Blvd.,34.068056,-118.260278
+4068,Union Ave. & Temple St.,34.068531,-118.263443
+4069,Union Ave. & Court St.,34.067207,-118.264266
+4076,3rd St. & Union Ave.,34.060664,-118.267666
+4077,3rd St. & Loma Dr.,34.059916,-118.265792
+4078,3rd St. & Witmer St.,34.059069,-118.263644
+4079,3rd St. & Lucas Ave.,34.058556,-118.262137
+4080,Lucas St. & 6th St.,34.055005,-118.26366
+4081,6th St. & Witmer St.,34.055593,-118.265389
+4082,6th St. & Valencia St.,34.056444,-118.26751
+4083,6th St. & Union Ave.,34.05749,-118.26997
+4084,6th St. & Burlington Ave.,34.057882,-118.270971
+4085,6th St. & Bonnie Brae St.,34.058455,-118.272231
+4086,Westlake Ave./MacArthur Park Red Line Station,34.056452,-118.275279
+4087,8th St. & Westlake Ave.,34.05426,-118.276546
+4088,8th St. & Burlington Ave.,34.053281,-118.274315
+4089,8th St. & Union Ave.,34.052331,-118.272405
+4090,Union Ave. & James M Wood Blvd.,34.049983,-118.273766
+4091,Union Ave. & Olympic Blvd.,34.04894,-118.274457
+4092,Union Ave. & 12th Pl.,34.046014,-118.276136
+4093,Union Ave. & Pico Blvd.,34.044477,-118.276971
+4094,Union Ave. & 14th St.,34.042902,-118.278056
+4095,Union Ave. & Venice Blvd.,34.041392,-118.279323
+4096,Union Ave. & 18th St.,34.039384,-118.280623
+4097,Washington Blvd. & Union Ave.,34.038326,-118.281026
+4098,Washington Blvd. & Oak St.,34.036944,-118.277976
+4099,Washington Blvd. & Bonsallo Ave.,34.035825,-118.275522
+4100,Washington Blvd. & Figueroa St.,34.034053,-118.271703
+4200,Rowan Ave. & Dozier St.,34.041197,-118.18709
+4201,Hammel St. & Gage Ave.,34.042328,-118.184887
+4202,Bonnie Beach Pl. & Hammel St.,34.04254,-118.181027
+4203,Bonnie Beach Pl. & Floral St.,34.044014,-118.18105
+4204,Bonnie Beach Pl. & Fairmount St.,34.046573,-118.1811
+4205,Hazard Ave. & Fairmount St.,34.046929,-118.179851
+4206,Hazard Ave. & Dobinson St.,34.048434,-118.179979
+4207,Hazard Ave. & Snow Dr.,34.05089,-118.178959
+4208,Hazard Ave. & Almanza Ave.,34.052953,-118.178366
+4209,Hazard Ave. & City Terrace Dr.,34.055118,-118.17845
+4210,City Terrace Dr. & Rogers St.,34.05587,-118.180006
+4211,Herbert Ave. & City Terrace Dr.,34.055859,-118.182918
+4213,Fowler St. & Ditman Ave.,34.0584,-118.18893
+4215,Indiana St. & Lancaster Ave.,34.057503,-118.192535
+4216,Alcazar St. & Murchison St.,34.061055,-118.195023
+4217,Alcazar St. & Ricardo St.,34.061732,-118.196857
+4218,Soto St. & Valley Blvd.,34.066011,-118.196083
+4219,Soto St. & Multnomah St.,34.068773,-118.195114
+4220,Multnomah St. & Indiana St.,34.068951,-118.192861
+4221,Multnomah St. & Wilson Way,34.070551,-118.18655
+4222,Eastern Ave. & Druid St.,34.069704,-118.180382
+4223,Eastern Ave. & Norelle St.,34.072834,-118.180303
+4224,Eastern Ave. & Klamath Pl.,34.074922,-118.180133
+4225,Eastern Ave. & Lombardy Blvd.,34.077622,-118.178331
+4226,Lombardy Blvd. & Ladd Ave.,34.076442,-118.176271
+4227,Lombardy Blvd. & Castleman Ave.,34.075501,-118.173678
+4228,Lombardy Blvd. & Ithaca St.,34.073934,-118.17295
+4229,Alhambra Ave. & Endicott St.,34.074547,-118.171064
+4230,Alhambra Ave. & Hollister Pl.,34.077088,-118.167912
+4231,Warwick Ave. & Alhambra Ave.,34.078714,-118.166201
+4232,Warwick Ave. & Allan St.,34.080946,-118.166462
+4233,Warwick Ave. & Cronus St.,34.082744,-118.167591
+4234,Templeton St. & Warwick Ave.,34.084861,-118.169093
+4235,Templeton St. & Pueblo Ave.,34.082181,-118.17442
+4236,Templeton St. & Eastern Ave.,34.081921,-118.177803
+4237,Eastern Ave. & Navarro St.,34.08504,-118.177989
+4238,Huntington Dr. & Pueblo Ave.,34.087297,-118.175027
+4239,Van Horne Ave. &  Huntington Dr.,34.089643,-118.170886
+4240,Wadena St. & Van Horne Ave.,34.092923,-118.170257
+4241,Newtonia Dr. & Guardia Ave.,34.096438,-118.167193
+4242,Newtonia Dr. & Lowell Ave.,34.09608,-118.162266
+4243,Maycrest Ave. & Almont St.,34.093955,-118.161312
+4244,Huntington Dr. N & Lowell Ave.,34.092912,-118.161976
+4246,Huntington Dr. N & Poplar Blvd.,34.090889,-118.164968
+4247,Huntington Dr. N & Van Horne Av,34.0895,-118.170794
+4248,Huntington Dr. N & Pueblo Ave.,34.087901,-118.17475
+4249,Eastern Ave. & Huntington Dr.,34.085672,-118.178156
+4250,Templeton Ave. & Eastern Ave.,34.081875,-118.177786
+4251,Templeton Ave. & Pueblo Ave.,34.082195,-118.174365
+4252,Templeton Ave. & Warwick Ave.,34.084844,-118.168897
+4253,Warwick Ave. & Cronus Ave.,34.083125,-118.167956
+4254,Warwick Ave. & Allan St.,34.081079,-118.166647
+4255,Warwick Ave. & Alhambra St.,34.078718,-118.16636
+4256,Alhambra Ave. & Hollister St.,34.076999,-118.168345
+4257,Alhambra Ave. & Endicott St.,34.074741,-118.171053
+4258,Lombardy Blvd. & Ithaca Ave.,34.074023,-118.172959
+4259,Lombardy Blvd. & Newark Ave.,34.076022,-118.173795
+4260,Lombardy Blvd. & Budau Ave.,34.077095,-118.177111
+4261,Eastern Ave. & Lombardy Blvd.,34.077709,-118.178558
+4262,Eastern Ave. & Klamath Pl.,34.074409,-118.180352
+4263,Eastern Ave. & Norelle St.,34.072956,-118.180469
+4264,Eastern Ave. & Druid St.,34.069644,-118.180551
+4265,Multnomah St. & Wilson Way,34.070579,-118.186644
+4266,Multnomah St. & Indiana Ave.,34.069099,-118.192975
+4267,Soto St. & Multnomah St.,34.06848,-118.195408
+4268,Soto St. & Valley Blvd.,34.066028,-118.196351
+4269,Alcazar St. & Ricardo St.,34.061747,-118.19684
+4270,Alcazar St. & Murchison St.,34.061,-118.194991
+4271,Indiana Ave. & Lancaster Ave.,34.057364,-118.192601
+4272,Fowler St. & Adkinson Ave.,34.058611,-118.188264
+4273,Fowler St. & Medford St.,34.059444,-118.186389
+4274,City Terrace Dr. & Herbert Ave.,34.055571,-118.182576
+4275,City Terrace Dr. & Bonnie Beach Pl.,34.055717,-118.181028
+4276,City Terrace Dr. & Hazard Ave.,34.055595,-118.178622
+4277,Hazard Ave. & Ramboz Dr.,34.054041,-118.178508
+4278,Hazard Ave. & Snow Dr.,34.050827,-118.179088
+4279,Hazard Ave. & Dobinson St.,34.048399,-118.180075
+4280,Fairmount St. & Hazard Ave.,34.046716,-118.180133
+4281,Fairmount St. & Bonnie Beach Pl.,34.046732,-118.180933
+4282,Bonnie Beach Pl. & Floral Dr.,34.044314,-118.181152
+4283,Bonnie Beach Pl. & Hammel St.,34.042471,-118.181134
+4284,Hammel St. & Gage Ave.,34.04238,-118.18492
+4285,Rowan Ave. & Dozier St.,34.040789,-118.187093
+4300,Rowan Ave. & Princeton St.,34.027548,-118.187399
+4301,Rowan Ave. & Lan Franco,34.029591,-118.187324
+4302,Rowan Ave. & Eagle St.,34.031483,-118.187337
+4303,Rowan Ave. & 3rd St.,34.033081,-118.187354
+4307,Rowan Ave. & 1st St.,34.036286,-118.187011
+4308,Rowan Ave. & Michigan Ave.,34.037989,-118.186964
+4309,Rowan Ave. & Cesar Chavez Ave.,34.040985,-118.186991
+4310,Hammel St. & Gage Ave.,34.042626,-118.184612
+4311,Blanchard St. & Gage Ave.,34.045913,-118.184974
+4312,Blanchard St. & Rowan Ave.,34.046115,-118.187314
+4313,Blanchard St. & Ditman Ave.,34.046122,-118.189919
+4314,Blanchard St. & Fresno St.,34.046392,-118.193131
+4315,Blanchard St. & Blades St.,34.047694,-118.196129
+4316,Blanchard St. & Dundas St.,34.046106,-118.192192
+4317,Evergreen Ave. & Blanchard St.,34.048446,-118.197261
+4318,Wabash Ave. & Evergreen Ave.,34.050048,-118.196834
+4319,Wabash Ave. & Forest Ave.,34.050664,-118.198208
+4320,Wabash Ave. & Dobinson St.,34.051549,-118.200269
+4321,Soto St. & Wabash Ave.,34.053233,-118.20361
+4322,Marengo St. & Soto St.,34.055005,-118.203398
+4323,Marengo St. & Cornwell St.,34.055586,-118.204821
+4324,Marengo St. & State St.,34.057797,-118.2099
+4325,Marengo St. & Lord St.,34.059352,-118.213131
+4326,Mission Rd. & Workman St.,34.061005,-118.213752
+4327,Mission Rd. & Zonal Ave.,34.062313,-118.210899
+4328,LAC-USC Medical Center,34.060663,-118.20991
+4329,Marengo St. & N. State St.,34.057618,-118.209919
+4330,Marengo St. & Cummings St.,34.056221,-118.206709
+4331,Marengo St. & Cornwell St.,34.055417,-118.20486
+4332,Wabash Ave. & Soto St.,34.05282,-118.203493
+4333,Wabash Ave. & Mott St.,34.051384,-118.200251
+4334,Wabash Ave. & Forest Ave.,34.050479,-118.198165
+4335,Wabash Ave. & Evergreen Ave.,34.049845,-118.196639
+4336,Blanchard St. & Evergreen Ave.,34.048076,-118.197186
+4337,Blanchard St. & Blades St.,34.04771,-118.196362
+4338,Blanchard St. & Fresno St.,34.046409,-118.193416
+4339,Blanchard St. & Alma Ave.,34.04602,-118.19169
+4340,Blanchard St. & Ditman Ave.,34.04604,-118.189257
+4341,Blanchard St. & Rowan Ave.,34.046041,-118.186857
+4342,Gage Ave. & Blanchard St.,34.045714,-118.184732
+4343,Hammel St. & Gage Ave.,34.042395,-118.1849
+4344,Rowan Ave. & Michigan Ave.,34.038232,-118.187092
+4345,Rowan Ave. & 1st St.,34.036558,-118.187068
+4348,Rowan Ave. & 3rd St.,34.033007,-118.187457
+4349,Rowan Ave. & Eagle St.,34.031378,-118.187458
+4350,Rowan Ave. & Lanfranco St.,34.029069,-118.187525
+4351,Rowan Ave. & Princeton St.,34.027096,-118.187499
+4352,Hubbard St. & Eastman Ave.,34.026247,-118.186439
+4353,Hubbard St. & Herbert Ave.,34.026278,-118.183974
+4354,Herbert Ave. & Whittier Blvd.,34.024173,-118.183796
+4356,Zonal Ave. & State St.,34.061243,-118.208981
+5002,54tth St. & Normandie Ave.,33.993188,-118.300551
+5003,54th St. & Budlong Ave.,33.993135,-118.296021
+5004,54th St. & Vermont Ave.,33.993146,-118.291729
+5005,Slauson Ave. & Vermont Ave.,33.989043,-118.291005
+5006,Slauson Ave. & Hoover St.,33.989062,-118.28744
+5007,Hoover St. & Gage Ave.,33.982636,-118.287101
+5008,Hoover St. & 68th St.,33.97846,-118.287146
+5009,Florence Ave. & Hoover St.,33.974545,-118.286743
+5010,Florence Ave. & Figueroa St.,33.97453,-118.283055
+5011,Florence Ave. & Broadway Ave.,33.974661,-118.277964
+5012,Florence Ave. & Main St.,33.974656,-118.274212
+5013,Florence Ave. & San Pedro St.,33.974655,-118.269877
+5014,Florence Ave. & Avalon Blvd.,33.97468,-118.264848
+5015,Florence Ave. & McKinley Ave.,33.97471,-118.261529
+5016,Florence Ave. & S Central Ave.,33.974738,-118.256837
+5017,Florence Ave. & Hooper Ave.,33.974695,-118.251688
+5018,Florence Ave. & Compton Ave.,33.974708,-118.248071
+5019,Florence Ave. & Graham Ave.,33.974657,-118.242558
+5020,Holmes Ave. & Florence Ave.,33.975138,-118.241059
+5021,Holmes Ave. & 68th St.,33.977911,-118.241083
+5022,Holmes Ave. & Gage Ave.,33.98182,-118.241086
+5023,Gage Ave. & Wilmington Ave.,33.981941,-118.239157
+5024,Gage Ave. & Alameda St.,33.981599,-118.235358
+5025,Gage Ave. & Albany St.,33.981569,-118.232256
+5026,Gage Ave. & Santa Fe Ave.,33.981587,-118.229624
+5027,Gage Ave. & Malabar St.,33.981603,-118.227953
+5028,Pacific Blvd. & Gage Ave.,33.980354,-118.225176
+5029,Pacific Blvd. & Zoe Ave.,33.9782,-118.225194
+5030,Pacific Blvd. & Saturn Ave.,33.975669,-118.225249
+5031,Florence Ave. & Miramonte Blvd.,33.9747511,-118.2474544
+5032,Pacific Blvd. & Florence Ave.,33.973907,-118.225296
+5033,Pacific Blvd. & Live Oak St.,33.971849,-118.2253
+5034,Pacific Blvd. & Grand Ave.,33.969354,-118.225303
+5035,Pacific Blvd. & Broadway,33.966877,-118.225301
+5036,Nadeau St. & Santa Fe Ave.,33.967536,-118.230718
+5037,Nadeau St. & Alameda Ave.,33.967563,-118.233909
+5038,Nadeau St. & Crockett Blvd.,33.967447,-118.236584
+5039,Nadeau St.  &  Walnut Dr.,33.967514,-118.239306
+5040,Nadeau St.  & Beach St.,33.967487,-118.241893
+5041,Compton Ave. & Nadeau St.,33.968117,-118.247636
+5042,Compton Ave. & 76th Pl.,33.970667,-118.247615
+5043,Florence Ave. & Compton Ave.,33.974831,-118.247933
+5044,Florence Ave. & Hooper Ave.,33.974796,-118.251821
+5045,Florence Ave. & S Central Ave.,33.974865,-118.257003
+5046,Florence Ave. & McKinley Ave.,33.974815,-118.261267
+5047,Florence Ave. & Avalon Blvd.,33.974808,-118.264678
+5048,Florence Ave. & San Pedro St.,33.974772,-118.269352
+5049,Florence Ave. & Main St.,33.974732,-118.273626
+5050,Florence Ave. & Broadway Ave.,33.974724,-118.277986
+5051,Florence Ave. & Figueroa St.,33.974751,-118.282269
+5052,Florence Ave. & Hoover St.,33.974683,-118.286734
+5053,Hoover St. & 68th St.,33.978492,-118.28702
+5054,Hoover St. & Gage Ave.,33.983134,-118.286975
+5055,Hoover St. & 59th St.,33.986206,-118.286967
+5056,Slauson & Vermont,33.989164,-118.291239
+5057,Vermont & 54th St.,33.993262,-118.291837
+5058,54th St. & Budlong Ave.,33.993235,-118.295681
+5059,54th St. & Normandie Ave.,33.993286,-118.29988
+5060,54th St. & Denker Ave.,33.993246,-118.304255
+5061,Western & Slauson Ave.,33.989463,-118.309022
+5062,Slauson Ave. & Ruthelen St.,33.989269,-118.312417
+5063,Slauson Ave. & Van Ness,33.989113,-118.31685
+5064,Hoover St. & 59th Pl.,33.986456,-118.287095
+5101,Western Ave. & church,33.724885,-118.311233
+5102,Western Ave. & 19th  St.,33.726843,-118.31108
+5103,19th St. & Elanita Dr.,33.726999,-118.309887
+5104,19th St. & Averill Ave.,33.727029,-118.30797
+5105,19th St. & Patton Ave.,33.727015,-118.305767
+5106,19th St. & Walker Ave.,33.72701,-118.303589
+5107,19th St. & Leland St.,33.726995,-118.301396
+5108,19th St. & Alma St.,33.726989,-118.299201
+5109,19th St. & Meyler St.,33.726971,-118.297011
+5110,19th St. & Cabrillo Ave.,33.726957,-118.294802
+5111,Gaffey St. & 18th St.,33.72774,-118.292361
+5112,Gaffey St. & 17th St.,33.728507,-118.292302
+5113,Gaffey St. & 15th St.,33.730459,-118.292326
+5114,Gaffey St. & 13th St.,33.732228,-118.292271
+5116,Gaffey St. & 9th St.,33.735925,-118.292292
+5117,Gaffey St. & 7th St.,33.737672,-118.292266
+5118,7th St. & Grand Ave.,33.7378975,-118.2895807
+5119,7th St. & Pacific Ave.,33.737836,-118.287614
+5120,7th St. & Mesa St.,33.73784,-118.285861
+5122,Centre St. & 5th St.,33.7393512,-118.2834552
+5123,Centre St. & 3rd St.,33.741313,-118.283473
+5124,Centre St. & 1st St.,33.743198,-118.28348
+5125,1st St. & Mesa St.,33.743343,-118.285767
+5126,1st St. & Pacific Ave.,33.743333,-118.288298
+5127,1st St. & Grand Ave.,33.743361,-118.290523
+5128,1st St. & Gaffey St.,33.743371,-118.291904
+5129,Summerland Ave. & Gaffey St.,33.747675,-118.293521
+5130,Summerland Ave. & Meyler St.,33.747661,-118.296996
+5131,Summerland Ave. & Bandini St.,33.747671,-118.298786
+5132,Summerland Ave. & Leland St.,33.747482,-118.300909
+5133,Summerland Ave. & Hanford St.,33.747047,-118.302754
+5134,Summerland Ave. & Walker Ave.,33.747033,-118.304548
+5135,Summerland Ave. & Patton Ave.,33.747035,-118.306827
+5136,Summerland Ave. & Harbor View Ave.,33.747031,-118.308569
+5137,Western Ave. & Summerland Ave.,33.747363,-118.309485
+5138,Western Ave. & Crestwood St.,33.749896,-118.309142
+5139,Western Ave. @ Park Western Plaza,33.750904,-118.309006
+5140,CVS Pharmacy,33.751891,-118.30754
+5141,Western Ave. & Crestwood St.,33.750437,-118.309304
+5142,Summerland Ave. & Harbor View Ave.,33.746949,-118.308913
+5143,Summerland Ave. & Patton Ave.,33.746952,-118.306658
+5144,Summerland Ave. & Walker Ave.,33.746969,-118.30398
+5145,Summerland Ave. & Hanford St.,33.746956,-118.302744
+5146,Summerland Ave. & Leland  St.,33.747284,-118.301302
+5147,Summerland Ave. & Bandini St.,33.747668,-118.298764
+5148,Summerland Ave. & Meyler St.,33.747554,-118.29682
+5149,Summerland Ave. & Gaffey St.,33.747563,-118.293094
+5151,1st St. & Grand Ave.,33.743287,-118.290333
+5152,1st St. & Pacific Ave.,33.743304,-118.288022
+5153,1st St. & Mesa St.,33.743277,-118.285836
+5154,1st St. & Centre St.,33.743198,-118.28348
+5155,Centre St. & 3rd St.,33.74263,-118.283538
+5157,Centre St. & 7th St.,33.737983,-118.283458
+5158,7th St. & Mesa St.,33.737928,-118.285536
+5159,7th St. & Pacific Ave.,33.73786,-118.287587
+5160,7th & Grand Ave. (sp),33.7378873,-118.2902263
+5161,Gaffey St. & 7th St.,33.737581,-118.292465
+5162,Gaffey St. & 9th St.,33.735693,-118.292499
+5163,Gaffey St. & 11th St.,33.734396,-118.292423
+5164,Gaffey St. & 13th St.,33.732614,-118.292449
+5165,Gaffey St. & 15th St.,33.730761,-118.292485
+5166,Gaffey St. & 17th St.,33.72891,-118.292504
+5167,Gaffey St. & 19th St.,33.727176,-118.292485
+5168,19th St. & Cabrillo Ave.,33.727047,-118.294434
+5169,19th St. & Meyler St.,33.727039,-118.297083
+5170,Alma St. & 19th St.,33.726777,-118.299122
+5171,Alma St. & 22nd St.,33.724418,-118.299046
+5172,Alma St. & 24th St.,33.722601,-118.299074
+5173,25th  St. & Alma St.,33.721646,-118.299481
+5174,25th St. & Leland St.,33.721657,-118.301088
+5175,25th St. & Walker Ave.,33.721666,-118.303695
+5176,25th St. & Patton Ave.,33.721678,-118.305952
+5177,25th St. & White Point Dr.,33.722221,-118.311588
+5202,Hoover St. & 59th Pl.,33.986514,-118.287088
+5205,Gage Ave. & Figueroa St.,33.982332,-118.283075
+5206,Gage Ave. & Broadway,33.982328,-118.278627
+5207,Main St. & Gage Ave.,33.982135,-118.274022
+5208,Main St. & 66th St.,33.979804,-118.274
+5209,Main St. & 68th St.,33.977549,-118.273987
+5210,Main St. & Florence Ave.,33.973557,-118.273989
+5211,Main St. & 76th St.,33.971257,-118.273992
+5212,Main St. & 79th St.,33.968049,-118.273982
+5213,Main St. & 83rd St.,33.964315,-118.273942
+5214,Main St. & Manchester Ave.,33.959756,-118.273927
+5215,Main St. & 88th Pl.,33.95661,-118.273912
+5216,Main St. & 92nd St.,33.95301,-118.27396
+5217,Main St. & Colden Ave.,33.949364,-118.273936
+5218,Century Blvd. & Main St.,33.945693,-118.274296
+5219,Century Blvd. & Broadway,33.945671,-118.277688
+5220,Century Blvd. & Figueroa St.,33.945657,-118.282228
+5221,Century Blvd. & Hoover St.,33.945623,-118.287318
+5222,Century Blvd. & Vermont Ave.,33.945553,-118.291259
+5223,Vermont Ave. & Colden Ave.,33.948888,-118.291509
+5224,Vermont Ave. & 94th St.,33.951231,-118.291531
+5225,Vermont Ave.  & 92nd St.,33.952632,-118.291501
+5226,Vermont Ave. & 88th St.,33.958392,-118.291566
+5227,Vermont Ave. & Manchester Ave.,33.960492,-118.291567
+5228,Vermont Ave. & 82nd St.,33.964071,-118.291515
+5229,Vermont Ave. & 81st St.,33.965954,-118.291526
+5230,Vermont Ave. & 79th St.,33.968302,-118.291466
+5231,Vermont Ave. & 76th St.,33.971237,-118.291467
+5232,Vermont Ave. & 74th St.,33.973063,-118.291497
+5233,Vermont Ave. & Florence Ave.,33.975202,-118.291513
+5234,Vermont Ave. & 66th St.,33.979651,-118.291483
+5235,Vermont Ave. & Gage Ave.,33.982583,-118.291387
+5236,Vermont Ave. & 60th St.,33.985757,-118.291396
+5237,Vermont Ave. & 59th St.,33.987901,-118.291383
+5238,Vermont Ave. & Slauson Ave.,33.989083,-118.291
+5239,Vermont Ave. & 60th St.,33.985666,-118.291566
+5240,Vermont Ave. & Gage Ave.,33.982482,-118.291582
+5241,Vermont Ave. & 66th St.,33.978724,-118.291889
+5242,Vermont Ave. & Florence Ave.,33.974073,-118.291797
+5243,Vermont Ave. & 74th St.,33.972439,-118.291788
+5244,Vermont Ave. & 76th St.,33.970633,-118.291886
+5245,Vermont Ave. & 79th St.,33.967452,-118.291853
+5246,Vermont Ave. & 81st St.,33.964982,-118.291837
+5247,Vermont Ave. & 83rd St.,33.963167,-118.291863
+5248,Vermont Ave. & Manchester Ave.,33.959511,-118.291891
+5249,Vermont Ave. & 88th St.,33.957528,-118.291906
+5250,Vermont Ave. & 92nd St.,33.952387,-118.291965
+5251,Vermont Ave. & 94th St.,33.951117,-118.291965
+5252,Vermont Ave. & Colden Ave.,33.949366,-118.291967
+5253,Century Blvd. & Vermont Ave.,33.945434,-118.291227
+5254,Century Blvd. & Hoover St.,33.945421,-118.286614
+5255,Century Blvd. & Figueroa St.,33.945432,-118.28226
+5256,Century Blvd. & Broadway,33.945446,-118.27772
+5257,Main St. & Century Blvd.,33.945975,-118.273795
+5258,Main St. & Colden Ave.,33.94909,-118.273833
+5259,Main St. & 92nd St.,33.952637,-118.27383
+5260,Main St. & 88th St.,33.95632,-118.273833
+5261,Main St. & Manchester Ave.,33.960385,-118.273795
+5262,Main St. & 82nd Pl.,33.964456,-118.273863
+5263,Main St. & 79th St.,33.967722,-118.273829
+5264,Main St. & 76th St.,33.971697,-118.273841
+5265,Main St. & Florence Ave.,33.975252,-118.273854
+5266,Main St. & 68th St.,33.977778,-118.273882
+5267,Main St. & 66th St.,33.979578,-118.273865
+5268,Gage Ave. & Main St.,33.982535,-118.274317
+5269,Gage Ave. & Broadway,33.982514,-118.277923
+5270,Gage Ave. & Figueroa St.,33.982466,-118.282334
+5271,Hoover St. & 62nd St.,33.983082,-118.286959
+5273,Hoover St. & Slauson Ave.,33.98839,-118.286965
+5302,120th St. & King/Drew Med Ctr.,33.924696,-118.242138
+5303,120th St. & Agustus F. Hawkings,33.924517,-118.242192
+5304,120th St. & Success Ave.,33.92382,-118.249122
+5305,120th St. & S Central Ave.,33.923815,-118.25482
+5306,120th St. & Wadsworth Ave.,33.923795,-118.258474
+5307,120th St. & Avalon Blvd.,33.923774,-118.264958
+5308,Avalon Blvd. & Green Line Station,33.927269,-118.265081
+5309,Avalon Blvd. & Imperial Hwy,33.930711,-118.265122
+5310,Imperial Hwy & Wadsworth Ave.,33.930856,-118.258716
+5311,S Central Ave. & Imperial Hwy,33.930018,-118.254184
+5312,S Central Ave. & 114th St.,33.931196,-118.254186
+5313,S Central Ave. & 112th St.,33.933612,-118.254139
+5314,S Central Ave. & Lanzit Ave.,33.935045,-118.254126
+5315,108th St. & S Central Ave.,33.938372,-118.254581
+5316,108th St. & Wadsworth Ave.,33.938378,-118.25861
+5317,108th St. & McKinley Ave.,33.938394,-118.261167
+5318,108th St. & Avalon Blvd.,33.938388,-118.264585
+5319,Avalon Blvd. & 106th St.,33.939992,-118.265083
+5321,Avalon Blvd. & Century Blvd.,33.945268,-118.265111
+5322,McKinley Ave. & Colden Ave.,33.949465,-118.260825
+5323,McKinley Ave. & Century Blvd.,33.945997,-118.260798
+5324,McKinley Ave. & 92nd St.,33.9531,-118.260792
+5325,McKinley Ave. & 88th St.,33.95643,-118.260789
+5326,McKinley Ave. & Manchester Ave.,33.959843,-118.260776
+5327,Manchester Ave. & Wadsworth Ave.,33.960118,-118.259289
+5328,Central Ave. & Manchester Ave.,33.959905,-118.256539
+5329,S Central Ave. & 88th Pl.,33.95676,-118.256505
+5330,92nd St. & S Central Ave.,33.953233,-118.256034
+5331,92nd St. & Compton Ave.,33.953328,-118.247131
+5332,92nd St. & Graham Ave.,33.95318,-118.243559
+5333,92nd St. & Bandera St.,33.95317,-118.239828
+5334,Wilmington Ave. & 95th St.,33.95068,-118.238647
+5335,97th St. & Wilmington Ave.,33.948244,-118.238858
+5336,Wilmington Ave. & Century Blvd.,33.945872,-118.239067
+5337,Century Blvd. & Gradee Ave.,33.945679,-118.243951
+5338,Century Blvd. & Success Ave.,33.945557,-118.248788
+5339,S Central Ave. & Century Blvd.,33.945377,-118.254173
+5340,103rd & S Central Ave.,33.943211,-118.253742
+5341,103rd St. & Zamora Walk,33.943181,-118.251709
+5342,103rd St. & Antwerp St.,33.943204,-118.248782
+5343,103rd St. & Compton Ave.,33.943147,-118.246577
+5344,103rd St. & Graham Ave.,33.943125,-118.242814
+5345,103rd St. & Wilmington Ave.,33.94307,-118.239424
+5346,103rd St. & Grape St.,33.943092,-118.237025
+5347,103rd St. & Croesus Ave.,33.943059,-118.234408
+5348,103rd St. & Juniper St.,33.943064,-118.232916
+5349,103rd St. & Gorman Ave.,33.942875,-118.230688
+5350,Gorman Ave. & 105th St.,33.940717,-118.230674
+5351,Gorman Ave. & 107th St.,33.938643,-118.230746
+5352,Gorman Ave. & 108th St.,33.937325,-118.231151
+5353,Mona Blvd. & Santa Ana Blvd.,33.934178,-118.230219
+5356,Mona Blvd. & 117th St.,33.927121,-118.229944
+5357,119th St. & Willowbrook Ave.,33.924637,-118.232065
+5358,Mona Blvd. & 119th St.,33.924752,-118.229404
+5359,Mona Blvd. & Imperial Hwy.,33.929853,-118.23056
+5360,Mona Blvd. & 115th St.,33.930651,-118.230689
+5361,Mona Blvd. & 113th St.,33.93233,-118.230707
+5362,Mona Blvd. & Santa Ana Blvd. S,33.933929,-118.230218
+5363,Weigand Ave. & 108th St.,33.936985,-118.230206
+5364,Weigand Ave. & 107th St.,33.938758,-118.229681
+5365,Weigand Ave. & 105th St.,33.940571,-118.229653
+5366,Gorman Ave. & 103rd St,33.943187,-118.23072
+5367,103rd St. & Juniper St.,33.943188,-118.233062
+5368,103rd St. & Lou Dillon Ave.,33.943234,-118.234705
+5369,103rd St. & Grape St.,33.943233,-118.237021
+5370,103rd St. & Wilmington Ave.,33.943263,-118.239439
+5371,103rd St. & Graham Ave.,33.943313,-118.242629
+5372,103rd St. & Compton Ave.,33.943338,-118.24591
+5374,103rd St. & Zamora Walk,33.943365,-118.251541
+5375,103rd St. & S Central Ave.,33.943341,-118.253789
+5376,S Central Ave. & Century Blvd.,33.945464,-118.253974
+5378,Century Blvd. & Grandee Ave.,33.945583,-118.243895
+5379,Wilmington Ave. & Century Blvd.,33.945924,-118.239013
+5380,Wilmington Ave. & 97th St.,33.947954,-118.238968
+5382,92nd St. & Bandera St.,33.953365,-118.239989
+5384,92nd St. & Compton Ave.,33.953428,-118.247246
+5385,92nd St. & S Central Ave.,33.953362,-118.256027
+5386,S Central Ave. . & 88th Pl.,33.956341,-118.256295
+5387,Manchester Ave. & Central Ave.,33.960316,-118.256613
+5389,McKinley Ave. & 88th St.,33.956649,-118.260821
+5390,McKinley Ave. & 92nd St.,33.953119,-118.260827
+5391,McKinley Ave. & Colden Ave.,33.949112,-118.260825
+5392,McKinley Ave. & Century Blvd.,33.946054,-118.260863
+5393,Avalon Blvd. & Century Blvd.,33.945291,-118.265211
+5394,Avalon Blvd. & 102nd St.,33.943623,-118.265283
+5395,Avalon Blvd. & 104th St.,33.941721,-118.265232
+5396,Avalon Blvd. & 106th St.,33.940252,-118.265229
+5397,108th St. & Avalon Blvd.,33.938282,-118.264831
+5398,108th St. & McKinley Ave.,33.938269,-118.2606
+5399,108th St. & Wadsworth Ave.,33.938264,-118.258786
+5400,S Central Ave. & 108th St.,33.937917,-118.254237
+5401,S Central Ave. & Lanzit Ave.,33.935393,-118.254209
+5402,S Central Ave. & 112th St.,33.933264,-118.254282
+5403,S Central Ave. & 114th St.,33.931138,-118.25428
+5404,Imperial Hwy & S Central Ave.,33.929593,-118.254592
+5405,Imperial Hwy & 114th/Wadsworth Ave.,33.930993,-118.258353
+5406,Avalon Blvd. & Imperial Hwy,33.930729,-118.265244
+5407,Avalon Blvd. & Green Line Station,33.927575,-118.265223
+5408,120th St. & Avalon Blvd.,33.923672,-118.264855
+5409,120th St. & Wadsworth Ave.,33.923679,-118.258643
+5410,120th St. & S Central Ave.,33.923728,-118.254604
+5411,120th St. & Slater/Success Ave.,33.923703,-118.249514
+5412,120th St. & Compton Ave.,33.923802,-118.245753
+5413,120th St. & King Drew Med. Ctr,33.924507,-118.240041
+5414,Avalon Blvd. & 104th St.,33.941769,-118.265111
+5415,Kenneth Hahn Plaza,33.924654,-118.238376
+5417,Wilmington Ave. & 95th St.,33.950754,-118.238521
+5500,Avalon Blvd. & L St.,33.786252,-118.26302
+5501,Avalon Blvd. & Opp St.,33.783026,-118.262758
+5502,Anaheim St. & Avalon Blvd.,33.780047,-118.262755
+5503,Anaheim St. & Fries Ave.,33.779874,-118.265767
+5504,Anaheim St. & Bayview Ave.,33.77966,-118.269756
+5505,Anaheim St. & Wilmington Blvd.,33.779437,-118.273897
+5506,Figueroa St. & Anaheim St.,33.779397,-118.27945
+5507,Figueroa St. & Grant St.,33.783071,-118.280214
+5508,Figueroa St. & West L St.,33.786324,-118.280705
+5509,P.C.H. & Figueroa St.,33.790366,-118.280524
+5510,P.C.H. Wilmington Blvd.,33.790479,-118.274606
+5511,Pacific Coast Highway & Neptune Ave.,33.790736,-118.269351
+5512,P.C.H. & Island Ave.,33.790886,-118.266728
+5513,P.C.H. & Avalon Blvd.,33.791031,-118.263743
+5514,P.C.H. & Eubank Ave.,33.79149,-118.256365
+5515,P.C.H. & Watson Ave.,33.790811,-118.248243
+5516,Watson Ave. & Robidoux St.,33.788224,-118.247933
+5517,L St. & Sanford Ave.,33.787385,-118.250999
+5518,L st & Eubank Ave.,33.787109,-118.256167
+5519,L St.& Banning Blvd.,33.78701,-118.25834
+5520,Avalon Blvd. & L St.,33.787467,-118.262986
+5521,Avalon Blvd. & M St.,33.789152,-118.263102
+5522,P.C.H. & Avalon Blvd.,33.791212,-118.263788
+5523,P.C.H. & Island Ave.,33.791203,-118.266596
+5524,Pacific Coast Highway & Neptune Ave.,33.790963,-118.269455
+5525,Wilmington Blvd. & P.C.H.,33.790232,-118.275075
+5526,Wilmington Blvd. & L St.,33.785848,-118.27478
+5527,Wilmington Blvd. & West Opp St.,33.782432,-118.274526
+5528,Wilmington Blvd. & Anaheim St.,33.779551,-118.274309
+5529,Wilmington Blvd. & F St.,33.776211,-118.274024
+5530,Wilmington Blvd. & D St.,33.77349,-118.27376
+5531,Hawaiian Ave. & D St.,33.77275,-118.276249
+5532,Hawaiian Ave. & F St.,33.77636,-118.27652
+5533,Anaheim St. & Wilmington Blvd.,33.779307,-118.273884
+5534,Anaheim St. & Neptune Ave.,33.779606,-118.269251
+5535,Anaheim St. & Fries Ave.,33.779739,-118.265424
+5536,Avalon Blvd. & Anaheim St.,33.780209,-118.262442
+5537,Avalon Blvd. & Opp St.,33.782707,-118.262589
+6001,Olive & 6th,34.0478413974615,-118.254309296608
+6002,5th & Grand (NW Corner),34.0504237856547,-118.254223465919
+6003,5th & Grand (NE Corner),34.0498326434918,-118.253354430199
+6004,Grand & 3rd,34.0531216528185,-118.251047730446
+6005,Grand & 2nd,34.0545261098154,-118.249679803848
+6006,Grand & 1st,34.0559572097822,-118.248445987701
+6007,Grand & Temple,34.0575349472715,-118.247137069702
+6008,Temple & Grand,34.0573016217467,-118.245576024055
+6009,Temple & Hill,34.0561083183063,-118.244197368622
+6010,Temple & Spring,34.054943886837,-118.242738246918
+6011,Los Angeles & Aliso,34.0541727755147,-118.240005075932
+6012,Union Station,34.0565749752832,-118.237309455872
+6013,Ord & New High,34.0599659388167,-118.238162398338
+6014,Ord & Broadway,34.0603036944651,-118.239074349403
+6015,Chinatown Gold Line Station,34.063258998972,-118.235866427422
+6016,Hill & College,34.0646855075755,-118.238575458527
+6017,Hill & Gin Ling Way,34.065769815808,-118.23804974556
+6018,Bernard & Broadway,34.0668185597506,-118.236118555069
+6019,Broadway & Gin Ling Way,34.0652898778101,-118.236864209175
+6020,Chinatown Gold Line Station,34.0636700669982,-118.23595225811
+6021,Flower & 5th,34.0510860377689,-118.256578445435
+6022,Main & 3rd,34.049957094816,-118.245484828949
+6023,7th & Grand,34.0473524682944,-118.256707191467
+6024,Grand & 4th,34.0520638502248,-118.251975774765
+6025,Broadway & Alpine,34.0622190990626,-118.238446712494
+6026,Ord & New High,34.0601437051152,-118.238854408264
+6027,Alameda & Main,34.0592237604923,-118.236925899982
+6028,Union Station(Alameda & Los Angeles),34.056730527038,-118.23744893074
+6029,Los Angeles & Aliso,34.0542772203984,-118.240195512772
+6030,Temple & Main,34.0539816632666,-118.241458833218
+6031,Temple & Spring,34.0548061095361,-118.242411017418
+6032,Temple & Hill,34.0563483136439,-118.24422955513
+6033,Grand & Temple,34.057997152129,-118.246740102768
+6034,Grand & 1st,34.0561794281068,-118.248435258865
+6035,Grand & 2nd,34.0542283313199,-118.250221610069
+6036,Grand & 3rd,34.0533705456282,-118.251138925552
+6037,Grand & 4th,34.0523483026399,-118.252050876617
+6039,San Pedro Blue Line Station,34.0274039774017,-118.257648646832
+6040,USC - Vermont & Exposition,34.0187051892061,-118.291511535645
+6042,Spring & 3rd,34.0499726512186,-118.2472255826
+6043,Spring & 4th,34.0484992249834,-118.248649835587
+6046,Spring & 7th,34.0448788879805,-118.25198918581
+6047,Spring & 8th,34.0430030970333,-118.253764808178
+6048,Main & 9th,34.0409250100424,-118.256044685841
+6049,Hill & Olympic,34.0414562050373,-118.25863301754
+6050,Hill & 12th,34.0390557995301,-118.260891437531
+6051,Grand & 14th,34.0370976406528,-118.26546728611
+6052,Grand & Venice,34.0354483957239,-118.266524076462
+6053,Grand Blue Line Station(Grand Ave & Washington Blvd),34.0320964622146,-118.268718123436
+6054,Main & 2nd,34.0513616042387,-118.244186639786
+6055,Olive & Washington,34.0318119418667,-118.267886638641
+6056,Olive & Venice,34.0350305226452,-118.265515565872
+6057,Olive & Pico,34.0382045282967,-118.263294696808
+6058,Hill & 12th,34.0389068832468,-118.260955810547
+6059,Hill & Olympic,34.0413917505918,-118.258614242077
+6060,Main & 9th,34.0414962112202,-118.25509250164
+6061,Main & 8th,34.0427097231332,-118.253252506256
+6062,Main & 7th,34.0438143150346,-118.251546621323
+6063,Main & 6th,34.0451522521546,-118.25005531311
+6064,Main & 5th,34.0466479608549,-118.248582780361
+6065,Main & 4th,34.0485836754443,-118.24678838253
+6066,Main & 1st,34.0527216449862,-118.242888450623
+6067,Temple & Los Angeles,34.0536905495956,-118.241230845451
+6068,Temple & San Pedro,34.0521616308502,-118.239406943321
+6069,Vignes & Temple,34.0503748943539,-118.233511447906
+6070,Vignes & Commercial,34.0527438676931,-118.233071565628
+6071,Center St. & Ramirez,34.0542194423935,-118.231218159199
+6072,Patsaouras Transit Plaza,34.0548838870722,-118.233457803726
+6073,Ramirez St & Vignes,34.0547216652733,-118.23170363903
+6075,Vignes & Commercial,34.0527660903941,-118.233114480972
+6076,Temple & Alameda,34.0515993907145,-118.238658607006
+6077,Temple & Los Angeles,34.053259432857,-118.240670263767
+6078,Spring & Temple,34.0540661082666,-118.243438303471
+6079,Spring & 2nd,34.051597168414,-118.245720863342
+6080,Broadway & Alpine,34.0620457811704,-118.238382339478
+6082,7th & Bixel,34.0506415738335,-118.263782858849
+6083,7th & Olive,34.0465568411687,-118.25533926487
+6084,7th & Hill,34.0458678842746,-118.254271745682
+6085,7th & Broadway,34.0451655869698,-118.253198862076
+6086,7th & Spring,34.0443477144233,-118.251922130585
+6087,7th & Los Angeles,34.0434676036329,-118.250591754913
+6088,Los Angeles & 8th,34.0418007021049,-118.252415657043
+6089,Los Angeles & 9th,34.0409072293992,-118.253783583641
+6090,Los Angeles & Olympic,34.0397781509257,-118.255430459976
+6091,Los Angeles & 11th,34.0385734876349,-118.256921768188
+6092,Los Angeles & 12th,34.0367020026095,-118.258380889893
+6093,Pico & Santee,34.0350660863916,-118.258059024811
+6094,Pico & Maple,34.034461500675,-118.256953954697
+6095,Pico & San Pedro,34.0329766909984,-118.254239559174
+6096,San Pedro & 14th,34.0314140563427,-118.254880607128
+6097,San Pedro Blue Line Station,34.0281041988559,-118.257061243057
+6099,Trinity & Washington,34.0281931154526,-118.259496688843
+6100,San Pedro & 14th,34.0313962737059,-118.255001306534
+6101,San Pedro & Pico,34.0326054845188,-118.254183232784
+6102,Pico & Maple,34.0341725427446,-118.256653547287
+6103,Pico & Santee,34.0352616867303,-118.258595466614
+6104,Los Angeles & 12th,34.037084304569,-118.258262872696
+6105,Los Angeles & 11th,34.0385512612141,-118.257063925266
+6106,Los Angeles & Olympic,34.0397937091957,-118.25558334589
+6107,Los Angeles & 9th,34.0408761132647,-118.253939151764
+6108,Los Angeles & 8th,34.0420540732486,-118.252184987068
+6109,7th & Witmer,34.0522416330961,-118.267457485199
+6110,6th & Witmer,34.0553127733464,-118.265081048012
+6112,7th & Los Angeles,34.0435787292365,-118.250924348831
+6113,7th & Spring,34.044676642374,-118.252576589584
+6114,7th & Broadway,34.0453478292343,-118.253606557846
+6115,7th & Hill,34.0460012312071,-118.254647254944
+6116,7th & Olive,34.0467701944266,-118.255805969238
+6117,7th & Grand,34.0473880268744,-118.256642818451
+6118,7th & Flower,34.0485570068868,-118.258493542671
+6119,USC - Vermont & 37th,34.02026,-118.291508
+6120,USC - Vermont & 36th Place,34.0223333124952,-118.291511535645
+6121,USC - Jefferson & Vermont,34.0254900092791,-118.291275501251
+6122,USC - Jefferson & McClintock,34.0249298153208,-118.286887407303
+6123,Jefferson & Hoover,34.0232472222222,-118.283361111111
+6124,Figueroa & 33rd,34.022512,-118.279542
+6125,Figueroa & 30th,34.0248453413079,-118.278057575226
+6126,Figueroa & Adams,34.0278596777349,-118.276137113571
+6127,Figueroa & 23rd,34.030833895894,-118.274254202843
+6128,Figueroa & Washington,34.0345281831346,-118.271888494492
+6129,Figueroa & Venice,34.0373376898021,-118.270080685616
+6130,Figueroa & Pico,34.0407827647928,-118.267838358879
+6133,Figueroa & Olympic,34.0453789437281,-118.263562917709
+6135,Figueroa & 8th,34.0477747254684,-118.261363506317
+6136,Figueroa & 7th,34.0490611111111,-118.259894444444
+6137,Figueroa & 5th,34.0521082959776,-118.25721681118
+6138,4th & Figueroa,34.0537349944955,-118.256192207336
+6139,Flower & 7th,34.0488059130972,-118.258692026138
+6140,Flower & 8th,34.047023550723,-118.260312080383
+6142,Flower & Olympic,34.0447888888889,-118.262558333333
+6143,Staples Center - Figueroa St. & 12,34.0422583333333,-118.266722222222
+6144,Figueroa & Pico,34.0404004795025,-118.268235325813
+6145,Figueroa & Venice,34.0371776571114,-118.270273804665
+6146,Figueroa & Washington,34.0344659461739,-118.272038698196
+6147,Figueroa & 23rd,34.0307138622024,-118.27445268631
+6148,Figueroa & Adams,34.0279930529792,-118.276163935661
+6149,Figueroa & 30th,34.0246808390413,-118.278304338455
+6150,USC - Figueroa & Jefferson,34.0215730200915,-118.280256986618
+6151,USC - Figueroa & USC Entrance 2,34.0191764982996,-118.281705379486
+6152,USC - Exposition & Watts,34.0183316971225,-118.288764953613
+6153,7th & Bixel,34.0508149150455,-118.264002799988
+6154,7th & Lucas,34.0514416072396,-118.265601396561
+6155,Wilshire & Bixel,34.0524594166053,-118.263600468636
+6157,Figueroa & 4th,34.0539527741684,-118.2555565238
+6159,Figueroa & 2nd,34.0563327584111,-118.25324177742
+6160,Diamond & Figueroa,34.0585371286501,-118.251656591892
+6161,1st & Hope,34.0562060942666,-118.249631524086
+6162,1st & Grand,34.0554638830194,-118.248440623283
+6163,1st St. & Hill St.,34.0543256,-118.2464203
+6164,1st & Broadway,34.0535394367615,-118.245404362679
+6165,1st & Main,34.0520505164945,-118.243269324303
+6167,1st & San Pedro,34.0505482361111,-118.241214752197
+6168,1st & Central,34.0492326077581,-118.239321112633
+6169,1st & Rose,34.0488103578444,-118.237159252167
+6170,Hewitt & 2nd,34.0473257993497,-118.236113190651
+6171,Traction & Hewitt,34.0454011683596,-118.236113190651
+6172,Traction & Merrick,34.0440499001783,-118.233903050423
+6173,4th & Hewitt,34.0444721737979,-118.236574530602
+6174,3rd & Alameda,34.0458634393732,-118.238843679428
+6175,San Pedro & 3rd,34.047530261045,-118.242416381836
+6176,San Pedro & 2nd,34.0490325949032,-118.241847753525
+6177,1st & San Pedro,34.050730466807,-118.241241574287
+6178,1st & Los Angeles,34.0517438401171,-118.242663145065
+6179,1st & Main,34.052570530425,-118.24382185936
+6180,1st & Broadway,34.0535305477629,-118.245200514793
+6181,1st St. & Hill St.,34.054406,-118.246971
+6182,1st & Grand,34.0559438766642,-118.248955607414
+6183,1st & Hope,34.0566505290283,-118.250114321709
+6184,Diamond & Figueroa,34.0584460217417,-118.251560032368
+6185,Figueroa & 2nd,34.0572638451728,-118.252592682838
+6186,Flower & 3rd,34.0539994411683,-118.253796994686
+6187,Figueroa St. & 7th St.,34.049117,-118.260017
+6200,Temple & Garey,34.0503837836834,-118.234874010086
+6204,7th & Main,34.0440143401986,-118.251562714577
+6209,Wilshire & Witmer,34.0537261055174,-118.266470432281
+6210,7th & Francisco,34.0498015306322,-118.261106014252
+6211,Spring & 1st,34.0530594295019,-118.244347572327
+6212,Temple & Alameda,34.0506771310341,-118.23739528656
+6213,Temple & Alameda(Little Tokyo Gold Line Station),34.0505393467988,-118.236397504807
+6214,7th & Main,34.0438454300911,-118.251171112061
+6215,Figueroa & Chick Hearn (Soutbound),34.0434275983799,-118.265483379364
+6216,USC - Exposition & Trousdale,34.0183228044338,-118.286769390106
+6238,Olive & 7th,34.0467879738405,-118.255296349525
+8005,Hope St. & 3rd St.,34.0533694,-118.2526138
+8006,Hope & 1st,34.056064,-118.249892
+8007,Hope St. & Temple St.,34.0587272,-118.2476255
+8009,Broadway & Temple,34.0559611111111,-118.243222222222
+8010,Glendale Fwy Off Ramp & Colorado St.,34.143069444,-118.22634444
+8012,Holly Dr. & Harvey Dr.,34.150241667,-118.22640556
+8015,Montrose Ave. & Ocean View Blvd.,34.209394444,-118.22776944
+8016,Lowell Ave. & Honolulu Ave.,34.232097222,-118.26604167
+8017,Foothill & Lowell,34.240757,-118.26652
+8018,Foothill Blvd. & Tujunga Canyon Blvd.,34.246730556,-118.27649167
+8019,Foothill Blvd. & Pinewood Ave.,34.248102778,-118.28576667
+8020,Foothill Blvd. & Mountair Ave.,34.251391667,-118.29303611
+8021,Foothill Blvd. & Apperson St.,34.256211111,-118.29950556
+8022,Foothill Blvd. & Woodward Ave.,34.259772222,-118.30746389
+8023,Foothill Blvd. & Oro Vista Ave.,34.259808333,-118.31558889
+8024,Foothill & Sunland,34.259866667,-118.32335556
+8028,Foothill & Paxton,34.286697222,-118.40783056
+8030,Foothill Blvd. & Maclay St.,34.298379,-118.42029
+8031,Foothill Blvd. & Hubbard St.,34.307325,-118.42992222
+8032,Foothill Blvd. & Polk St.,34.315413889,-118.44038333
+8035,Foothill & Glenoaks,34.323144444,-118.46927778
+8036,Foothill & Glenoaks,34.322941667,-118.46893889
+8038,Foothill Blvd. & Bledsoe St.,34.320669444,-118.44758611
+8039,Foothill Blvd. & Polk St.,34.315144444,-118.44046111
+8040,Foothill Blvd. & Hubbard St.,34.307094444,-118.43005
+8041,Foothill Blvd. & Maclay St.,34.298194444,-118.42035556
+8042,Foothill & Paxton,34.28645,-118.407925
+8044,Foothill & 210 Fwy,34.274433333,-118.38124722
+8045,Foothill & Sunland,34.259605556,-118.32275833
+8046,Foothill Blvd. & Oro Vista Ave.,34.259611111,-118.31613333
+8047,Foothill Blvd. & Woodward Ave.,34.259527778,-118.30722222
+8048,Foothill Blvd. & Apperson St.,34.2557,-118.29933889
+8049,Foothill Blvd. & Mountair Ave.,34.251036111,-118.29289722
+8050,Foothill Blvd. & Pinewood Ave.,34.247919444,-118.28566389
+8051,Foothill Blvd. & Tujunga Canyon Blvd.,34.246216667,-118.27579722
+8052,Foothill & Lowell,34.240372222,-118.26630556
+8053,Honolulu Ave. & Lowell Ave.,34.231475,-118.26573889
+8054,Montrose Ave. & Ocean View Blvd.,34.209047222,-118.22750556
+8055,Montrose Ave. & Florencita Ave.,34.206594,-118.22475
+8056,Verdugo & Valihi,34.204595,-118.221302
+8057,Harvey Dr. & Holly Dr.,34.149616,-118.227495
+8059,Eagledale Ave. & Colorado St.,34.142938,-118.227991
+8061,Broadway & Temple,34.0560083333333,-118.243447222222
+8062,Temple St. & Grand Ave.,34.058013889,-118.24612778
+8063,Hope St. & Temple St.,34.0575333333333,-118.248966666667
+8064,Hope & 1st,34.056804,-118.249516
+8065,N Broadway & W. College St.,34.0639604,-118.2373625
+8066,Flower St. & 4th St.,34.0529444444444,-118.254958333333
+8068,Foothill Blvd. & Terra Bella St.,34.2745,-118.39527222
+8070,Montrose Ave. & Waltonia Dr.,34.206727,-118.22459
+8071,Verdugo & Hilldale,34.205297222,-118.21926111
+8100,Chatsworth Metrolink Station,34.2529944444444,-118.598938888889
+8101,Devonshire St. & De Soto Ave.,34.2571222222222,-118.588983333333
+8102,Devonshire & Mason,34.2571388888889,-118.580111111111
+8103,Devonshire St. & Tampa Ave.,34.2571666666667,-118.553236111111
+8104,Devonshire & Reseda,34.2571527777778,-118.535627777778
+8105,Devonshire St. & Zelzah Ave.,34.2572972222222,-118.5229
+8106,Devonshire & Balboa,34.2574166666667,-118.501955555556
+8107,Woodley Ave. & Devonshire St.,34.257725,-118.484705555556
+8109,Orion Park & Ride (Chatsworth St & Orion Ave),34.2645755,-118.4733489
+8110,Sepulveda & Chatsworth,34.2648722222222,-118.467091666667
+8111,Hill St. & College St.,34.064575,-118.238763888889
+8113,Hill St. & Ord St.,34.0609333333333,-118.240525
+8114,Hill & Temple,34.0567333333333,-118.243972222222
+8115,Hill St. & 1st St.,34.0538444444444,-118.247266666667
+8117,Hill St. & 4th St.,34.0504555555556,-118.250363888889
+8119,Hill St. & 5th St.,34.0485444444444,-118.251852777778
+8120,Hill & 7th,34.0456388888889,-118.254825
+8121,Hill St. & 8th St.,34.0443211,-118.2559316
+8129,Jefferson & Hoover,34.0235666666667,-118.283397222222
+8130,Wilbur & Thousand Oaks,34.1800861111111,-118.882869444444
+8131,Thousand Oaks Blvd. & Hodencamp Rd.,34.1784972222222,-118.868072222222
+8137,Figueroa St. & 9th St.,34.0460805555556,-118.262794444444
+8138,9th St. & Hope St.,34.0451361111111,-118.260597222222
+8142,Hill & 7th,34.0457305555556,-118.254491666667
+8144,Hill St. & 4th St.,34.0505583333333,-118.250027777778
+8145,Hill St. & 2nd St.,34.0533,-118.247427777778
+8146,Hill St. & 1st St.,34.0547666666667,-118.246038888889
+8148,Hill St. & Ord St.,34.0610888888889,-118.240225
+8151,Sepulveda & Chatsworth,34.2648777777778,-118.467522222222
+8152,Orion Park & Ride (Chatsworth St & Orion Ave),34.2645755,-118.4733489
+8154,Woodley Ave. & Devonshire St.,34.2577,-118.484994444444
+8155,Devonshire & Balboa,34.2576472222222,-118.501944444444
+8156,Devonshire St. & Zelzah Ave.,34.2575138888889,-118.523075
+8157,Devonshire & Reseda,34.2574055555556,-118.5367
+8158,Devonshire St. & Tampa Ave.,34.2573916666667,-118.554055555556
+8159,Devonshire & Mason,34.257375,-118.580122222222
+8160,Devonshire St. & De Soto Ave.,34.2573777777778,-118.589022222222
+8200,Thousand Oaks Blvd. & Rancho Dr.,34.178275,-118.857438888889
+8202,Thousand Oaks Blvd. & Conejo School Rd.,34.1743111111111,-118.844516666667
+8203,Thousand Oaks Blvd. & Hampshire Rd.,34.1692444444444,-118.8364
+8204,Hampshire Rd. & Townsgate Rd.,34.1605916666667,-118.837852777778
+8205,Hampshire Rd. & Lakefield Rd.,34.1564222222222,-118.832208333333
+8206,Agoura & Westlake,34.1518388888889,-118.828716666667
+8207,Agoura Rd. & Village Glen,34.15085,-118.825602777778
+8208,Agoura Rd. & Stoneybrook Ln.,34.1494444444444,-118.822608333333
+8209,Agoura Rd. & Lakeview Cyn Rd.,34.1480666666667,-118.819508333333
+8210,Agoura Rd. & Greengate Ct.,34.1480194444444,-118.814236111111
+8213,Lindero Canyon Rd. & Via Colinas,34.152725,-118.801313888889
+8215,Thousand Oaks Blvd. & Lake Lindero Dr.,34.154625,-118.788827777778
+8216,Thousand Oaks Blvd. & Reyes Adobe Rd.,34.1557833333333,-118.781902777778
+8217,Thousand Oaks Blvd. & Forest Cove Ln.,34.1548027777778,-118.774919444444
+8219,Thousand Oaks & Kanan,34.1539194444444,-118.757458333333
+8220,Kanan Rd. & Hillrise Dr.,34.1503444444444,-118.7594
+8222,Topanga & Ventura,34.1688027777778,-118.605627777778
+8223,Oxnard St. & Topanga Canyon Blvd.,34.1790972222222,-118.604683333333
+8224,Oxnard St. & Owensmouth Ave.,34.1791138888889,-118.60115
+8225,Oxnard St. & Canoga Ave.,34.1791333333333,-118.597705555556
+8226,Canoga Ave. & Burbank Blvd.,34.1735416666667,-118.597533333333
+8227,Burbank & Reseda,34.1722472222222,-118.535272222222
+8228,101 Hwy & Van Nuys,34.1561805555556,-118.4477
+8229,101 Hwy & Western,34.0932416666667,-118.308941666667
+8230,101 Hwy. & Vermont St.,34.0791805555556,-118.291525
+8231,101 Hwy & Alvarado,34.0718222222222,-118.267038888889
+8249,101 Hwy & Alvarado,34.0723388888889,-118.266411111111
+8250,101 Hwy. & Vermont St.,34.08035,-118.291661111111
+8251,101 Hwy & Western,34.0941388888889,-118.309447222222
+8252,101 Hwy & Van Nuys,34.15755,-118.449047222222
+8253,101 Hwy & Reseda,34.1737361111111,-118.536777777778
+8254,Canoga Ave. & Ventura Fwy. Off Ramp,34.1703416666667,-118.597291666667
+8255,Canoga Ave. & Burbank Blvd.,34.1730638888889,-118.597277777778
+8256,Oxnard St. & Owensmouth Ave.,34.1793472222222,-118.601861111111
+8257,Topanga Canyon Blvd. & Oxnard St.,34.1786305555556,-118.605236111111
+8258,Topanga & Ventura,34.16865,-118.606230555556
+8259,Kanan Rd. & Hillrise Dr.,34.1503777777778,-118.759013888889
+8260,Thousand Oaks & Kanan,34.1542888888889,-118.757822222222
+8261,Thousand Oaks Blvd. & Grey Rock Rd.,34.1555361111111,-118.765377777778
+8262,Thousand Oaks Blvd. & Grey Rock Rd.,34.1553194444444,-118.764808333333
+8263,Thousand Oaks & Reyes Adobe,34.1555472222222,-118.780794444444
+8264,Lindero Canyon Rd. & Thousand Oaks Blvd.,34.1557305555556,-118.795213888889
+8265,Agoura Rd. & Lindero Canyon Rd.,34.1465527777778,-118.806363888889
+8267,Agoura Rd. & Greengate Ct.,34.1477444444444,-118.814622222222
+8268,Agoura Rd. & Lakeview Cyn Rd.,34.1483722222222,-118.819658333333
+8270,Agoura Rd. & Village Glen,34.1502555555556,-118.825052777778
+8271,Agoura & Westlake,34.1524166666667,-118.829316666667
+8272,Hampshire Rd. & Lakefield Rd.,34.1565722222222,-118.831891666667
+8273,Hampshire Rd. & Townsgate Rd.,34.1608083333333,-118.837577777778
+8274,Thousand Oaks Blvd. & Hampshire Rd.,34.1694583333333,-118.836252777778
+8275,Thousand Oaks Blvd. & Conejo School Rd.,34.1744166666667,-118.844016666667
+8276,Thousand Oaks Blvd. & Erbes Rd.,34.1780472222222,-118.851552777778
+8281,Oxnard St. & Canoga Ave.,34.1793583333333,-118.597980555556
+8282,Thousand Oaks Blvd. & Lindero Canyon Rd.,34.1556416666667,-118.794347222222
+8284,Thousand Oaks Transit Center,34.1749972222222,-118.861002777778
+8285,Thousand Oaks Blvd. & Rancho Dr.,34.1787833333333,-118.858486111111
+8286,Thousand Oaks Blvd. & Hodencamp Rd.,34.1787527777778,-118.8691
+8301,Hampshire & Foothill Dr.,34.1628055555556,-118.837883333333
+8311,Thousand Oaks Blvd. & Lake Lindero Dr.,34.1548694444444,-118.788936111111
+8319,101 Fwy On-ramp & Lost Hills Rd.,34.1411916666667,-118.7101
+8320,Las Virgenes & Ventura Fwy,34.1458833333333,-118.697808333333
+8321,Pkwy Calabasas & Calabasas,34.1519944444444,-118.651333333333
+8322,Park Granada & Parkway Calabasas,34.1496833333333,-118.647152777778
+8323,Ave. San Luis & Mulholland Dr.,34.1591416666667,-118.635952777778
+8325,Pkway Calabasas & Calabasas,34.1517194444444,-118.650644444444
+8327,Ave. San Luis & Dunman Ave.,34.1624416666667,-118.628536111111
+8329,Ventura Blvd & Fallbrook,34.1660194444444,-118.622875
+8330,Ventura Blvd. & Sale Ave.,34.167425,-118.619319444444
+8331,Ventura Blvd. & Shoup Ave.,34.1688277777778,-118.614847222222
+8332,Ventura Blvd. & San Feliciano Dr.,34.168825,-118.610025
+8333,Topanga Canyon & Ventura blvd.,34.1683583333333,-118.605333333333
+8334,LADOT Encino Park & Ride,34.1650861111111,-118.492494444444
+8363,Figueroa St. & 6th St.,34.0511416666667,-118.258058333333
+8370,Encino Park & Ride,34.1648611111111,-118.492611111111
+8371,Topanga Canyon & Ventura Blvd.,34.16875,-118.606230
+8373,Ventura Blvd. & Shoup Ave.,34.1685416666667,-118.614830555556
+8374,Ventura Blvd. & Sale Ave.,34.1672361111111,-118.618988888889
+8375,Ventura Blvd & Fallbrook,34.1656166666667,-118.623369444444
+8377,Ave. San Luis & Dunman Ave.,34.1623277777778,-118.628594444444
+8378,Ave. San Luis & Valley Circle,34.158981,-118.636355
+8380,Park Granada & Calabasas Rd.,34.155825,-118.642608333333
+8381,Park Granada & Calabasas Rd.,34.1556194444444,-118.642836111111
+8382,Park Granada & Parkway Calabasas,34.1496472222222,-118.646686111111
+8384,Las Virgenes & Ventura Fwy,34.1451805555556,-118.698183333333
+8399,Lindero Canyon Rd. & Via Colinas,34.1525555555556,-118.801005555556
+8408,Hampshire & Foothill Dr.,34.1622722222222,-118.838244444444
+8501,Ventura Blvd. & Woodley Ave.,34.1562861111111,-118.483886111111
+8502,Ventura Blvd. & Gloria Ave.,34.1556083333333,-118.478883333333
+8503,Sepulveda & Ventura,34.1541138888889,-118.466011111111
+8504,Burbank Blvd. & Van Nuys Blvd.,34.1720083333333,-118.448213888889
+8505,Burbank Blvd. & Hazeltine Ave.,34.1720138888889,-118.440369444444
+8506,Burbank Blvd. & Woodman Ave.,34.1720305555556,-118.430891666667
+8509,Burbank Blvd. & Laurel Canyon Blvd.,34.1720305555556,-118.396794444444
+8510,Metro Orange/Red Line Station,34.1686166666667,-118.377047222222
+8511,Riverside Dr. & Lankershim Blvd.,34.152137,-118.366522
+8512,Alameda & Pass,34.1528111111111,-118.343994444444
+8513,Olive Ave. & Hollywood Way,34.1519972222222,-118.339016666667
+8514,Alameda Ave. & Olive Ave.,34.1560388888889,-118.3343
+8515,Buena Vista St. @ Disney Gate,34.1562166666667,-118.327269444444
+8516,Alameda Ave. & Buena Vista St.,34.1580027777778,-118.328305555556
+8517,Sanchez & Brand,34.1558777777778,-118.255413888889
+8518,Glendale Park & Ride,34.146047,-118.229042
+8519,Walnut St. & Fair Oaks Ave.,34.1494083333333,-118.149986111111
+8520,Walnut & Garfield,34.1494361111111,-118.143975
+8521,Los Robles Ave. & Colorado Blvd.,34.1453277777778,-118.141561111111
+8522,Cordova St. & Los Robles Ave.,34.142072,-118.140891
+8523,Lake Ave. & Cordova St.,34.1428027777778,-118.132183333333
+8524,Lake Ave. & Colorado Blvd.,34.1464194444444,-118.132177777778
+8525,Lake Ave. & Walnut St.,34.1499472222222,-118.132252777778
+8526,Lake Metro Gold Line Station,34.1512833333333,-118.131797222222
+8527,Lake Metro Gold Line Station (Corson St & Lake Ave),34.1519,-118.132572222222
+8528,Lake Ave. & Walnut St.,34.1492611111111,-118.132491666667
+8529,Lake Ave. & Colorado Blvd.,34.1453305555556,-118.132508333333
+8530,Lake Ave. & Green St.,34.1442694444444,-118.132433333333
+8531,Los Robles Ave. & Cordova St.,34.142575,-118.141266666667
+8532,Los Robles Ave. & Colorado Blvd.,34.1460527777778,-118.141313888889
+8533,Walnut & Garfield,34.1496166666667,-118.144083333333
+8534,Walnut St. & Raymond Ave.,34.1495833333333,-118.149175
+8535,Glendale Park & Ride,34.147,-118.229869444444
+8536,Goode & Brand,34.1568527777778,-118.255686111111
+8537,Buena Vista St. @ Disney Gate,34.1563527777778,-118.327116666667
+8538,Alameda Ave. & Buena Vista St.,34.1582194444444,-118.328472222222
+8539,Olive Ave. & Alameda Ave.,34.1553361111111,-118.33585
+8540,Olive Ave. & Hollywood Way,34.1522277777778,-118.339161111111
+8541,Alameda & Pass,34.1529694444444,-118.3442
+8542,Riverside Dr. & Lankershim Blvd.,34.152352,-118.36667
+8543,Metro Orange/Red Line Station,34.1686944444444,-118.376769444444
+8544,Burbank Blvd. & Laurel Canyon Blvd.,34.1722638888889,-118.396136111111
+8547,Burbank Blvd. & Woodman Ave.,34.17225,-118.431586111111
+8548,Burbank Blvd. & Hazeltine Ave.,34.17225,-118.439644444444
+8549,Burbank Blvd. & Van Nuys Blvd.,34.1722333333333,-118.448419444444
+8550,Ventura & Sepulveda,34.153863,-118.465756
+8551,Ventura Blvd. & Gloria Ave.,34.1559416666667,-118.479580555556
+8552,Ventura Blvd. & Woodley Ave.,34.1564861111111,-118.483441666667
+8600,Constellation Blvd. & Ave Of The Stars,34.0588972222222,-118.415302777778
+8603,Century Park East & Constellation,34.0603241,-118.413471
+8604,Beverly Glen Blvd. & Wilkins Ave.,34.0610944444444,-118.425086111111
+8605,Wilshire Blvd. & Beverly Glen Blvd.,34.0668583333333,-118.429280555556
+8606,Wilshire & Glendon,34.0593055555556,-118.442555555556
+8607,Westwood & Wayburn,34.062589,-118.4474941
+8608,Gayley Ave. & Strathmore Dr.,34.0687888888889,-118.449005555556
+8610,Balboa Blvd. & Burbank Blvd.,34.1725111111111,-118.500947222222
+8611,Balboa & Victory,34.1871277777778,-118.500961111111
+8612,Balboa Blvd. & Vanowen St.,34.1943861111111,-118.500969444444
+8613,Balboa Blvd. & Sherman Way,34.2015611111111,-118.500980555556
+8614,Balboa Blvd. & Saticoy St.,34.2081694444444,-118.500961111111
+8615,Balboa & Roscoe,34.2216277777778,-118.502516666667
+8616,Balboa & Nordhoff,34.2361444444444,-118.502388888889
+8617,Balboa Blvd. & Devonshire St.,34.25785,-118.502183333333
+8618,Ave Of The Stars & Santa Monica Blvd.,34.060637,-118.418117
+8620,Le Conte Ave. & Gayley Ave.,34.0637388888889,-118.447986111111
+8622,Balboa Blvd. & Chatsworth St.,34.2644388888889,-118.502411111111
+8623,Balboa Blvd. & Devonshire St.,34.2571611111111,-118.502480555556
+8624,Balboa & Nordhoff,34.2354694444444,-118.502683333333
+8625,Balboa & Roscoe,34.2208055555556,-118.502791666667
+8626,Balboa Blvd. & Saticoy St.,34.208125,-118.5013
+8627,Balboa Blvd. & Sherman Way,34.2006777777778,-118.501261111111
+8628,Balboa Blvd. & Vanowen St.,34.1936666666667,-118.501266666667
+8629,Balboa & Victory,34.1863333333333,-118.501252777778
+8630,Balboa Blvd. & Burbank Blvd.,34.1718944444444,-118.501238888889
+8631,Encino Park & Ride,34.16418,-118.492127777778
+8632,Gayley Ave. & Strathmore Dr.,34.0682694444444,-118.448919444444
+8633,Le Conte Ave. & Gayley Ave.,34.0635611111111,-118.447916666667
+8634,Wilshire Blvd. & Glendon Ave.,34.0590432,-118.4423656
+8635,Wilshire & Beverly Glen,34.0667522,-118.4289634
+8637,Century Park East & Santa Monica Blvd.,34.0625027777778,-118.415680555556
+8638,Century Park East & Constellation,34.060577,-118.414201
+8639,Westwood & Weyburn,34.062589,-118.4474941
+8641,Santa Monica Blvd. & Ave. of the Stars,34.061166,-118.418
+8642,Century Park East & Constellation Blvd.,34.0613,-118.414316666667
+8643,Constellation Blvd. &  Ave. of the Stars,34.0584138888889,-118.416444444444
+8644,Constellation & Century Park W,34.0570444444444,-118.418455555556
+8646,Balboa Blvd. & Hart St.,34.1973472222222,-118.501238888889
+8647,Balboa Blvd. & Chatsworth St.,34.264226,-118.502135
+8648,Balboa Blvd. & Hart St.,34.1977583333333,-118.500977777778
+8650,Chatsworth St. & Gaynor,34.2644984,-118.4817137
+8651,Chatsworth St. & Gaynor,34.264525,-118.4817137
+8700,Space Park & Aviation,33.8911,-118.378233333333
+8701,Space Park Dr.  & Doolittle Dr.,33.8911722222222,-118.374583333333
+8702,Redondo Beach Ave. & Space Park Dr.,33.89358,-118.370006
+8703,Aviation Blvd. & Marine Ave.,33.8950722222222,-118.378513888889
+8704,Aviation Blvd. & 33rd St.,33.8984111111111,-118.378561111111
+8705,Aviation Blvd. & Rosecrans Ave.,33.9012416666667,-118.378472222222
+8706,Aviation Blvd. & 135th St.,33.9081138888889,-118.378602777778
+8707,El Segundo Blvd. & Aviation Blvd.,33.9165277777778,-118.379727777778
+8708,El Segundo Blvd. & Douglas St.,33.9165111111111,-118.383636111111
+8709,El Segundo & Nash,33.9165166666667,-118.387155555556
+8710,Grand Ave. & Continental Blvd.,33.919575,-118.391311111111
+8711,Sepulveda Blvd. & Grand Ave.,33.9198861111111,-118.395925
+8712,Sepulveda Blvd. & Walnut Ave.,33.9293333333333,-118.396080555556
+8713,Sepulveda Blvd. & Century Blvd.,33.94585,-118.396002777778
+8714,Sepulveda Blvd. & Manchester Ave.,33.9596388888889,-118.396075
+8715,Howard Hughes Center,33.9778111111111,-118.393008333333
+8730,Sylmar Metrolink Station,34.2929222222222,-118.450233333333
+8745,Howard Hughes Center,33.9782166666667,-118.393086111111
+8746,Sepulveda Blvd. & Manchester Ave.,33.9594361111111,-118.396375
+8747,Sepulveda Blvd. & Century Blvd.,33.9450527777778,-118.396438888889
+8748,Sepulveda Blvd. & Walnut Ave.,33.9292777777778,-118.396447222222
+8749,Grand Ave. & Sepulveda Blvd.,33.9193166666667,-118.395216666667
+8750,Grand Ave. & Continental Blvd.,33.919325,-118.391305555556
+8751,El Segundo & Nash,33.9162055555556,-118.386966666667
+8752,El Segundo Blvd. & Douglas St.,33.9162361111111,-118.383625
+8753,Aviation Blvd. & El Segundo Blvd.,33.911335,-118.378827
+8754,Aviation Blvd. & Utah Ave.,33.90885,-118.378839
+8755,Aviation Blvd. & Rosecrans Ave.,33.9013194444444,-118.378808333333
+8756,Aviation Blvd. & 33rd St.,33.8983583333333,-118.378802777778
+8757,Marine Ave. & Aviation Blvd.,33.8945277777778,-118.378277777778
+8758,Redondo Beach Ave. & Marine Ave.,33.8942444444444,-118.370291666667
+8759,Space Park Dr. & Doolittle Dr.,33.8913,-118.374530555556
+8760,Aviation Blvd. & Space Park Dr.,33.8912527777778,-118.378363888889
+8801,Sampson Way & 6th St.,33.738199,-118.2790553
+8802,Harbor Blvd. & 6th St.,33.738411,-118.27992
+8803,7th St. & Palos Verdes St.,33.737866,-118.28113
+8808,7th St. & Gaffey St.,33.7379324,-118.2920563
+8809,Gaffey St. & 5th St.,33.7395692,-118.2922439
+8810,Gaffey & 1st,33.7431573,-118.2922354
+8811,Ocean Blvd. & Magnolia Ave.,33.7672884,-118.1986052
+8812,Long Beach Transit Gallery,33.7681544,-118.190175
+8814,Pacific Ave. & Ocean Blvd.,33.767411,-118.19385
+8815,Ocean Blvd. & Magnolia Ave.,33.767134,-118.19781
+8816,Gaffey & 1st,33.7434553,-118.2924473
+8817,Gaffey St. & 4th St.,33.7402968,-118.2924339
+8818,7th St. & Gaffey St.,33.7378403,-118.2919236
+8822,7th St. & Palos Verdes St.,33.73784,-118.28106
+8823,Harbor Blvd. & 6th St.,33.738509,-118.27959
+8824,Sampson Way & 7th St.,33.7381253,-118.2790695
+8800,Ports O'Call & Sampson,33.7320363,-118.2777991
+8900,VA Medical Center Park & Ride,34.0595988,-118.4582621
+8902,Wilshire Blvd. & Westwood Blvd.,34.058615,-118.443593
+8904,Wilshire Blvd. & Selby Ave.,34.060156,-118.438139
+8905,Wilshire Blvd. & Westholme Ave.,34.061285,-118.433821
+8906,Wilshire Blvd. & Warner Ave.,34.064346,-118.431912
+8909,Beverly Glen Blvd. & Woodruff Ave.,34.060433,-118.4251211
+8910,Beverly Glen Blvd. & Santa Monica Blvd.,34.057693,-118.424447
+8912,Beverly Glen Blvd. & Olympic Blvd.,34.0504618,-118.4207372
+8914,Beverly Glen Blvd. & Pico Blvd.,34.04639,-118.4172301
+8915,Pico Blvd. & Patricia Ave.,34.0455357,-118.4185108
+8917,Pico Blvd. & Manning Ave.,34.042915,-118.423177
+8918,Overland & Pico,34.0414445,-118.4246496
+8919,Overland Ave. & Ashby Ave.,34.0382243,-118.4221507
+8920,Overland Ave. & Coventry Pl.,34.0364364,-118.4207653
+8921,Overland Ave. & National Blvd.,34.0308273,-118.4163046
+8923,National Blvd. & Valparaiso St.,34.0305014,-118.4136404
+8924,Motor Ave. & National Blvd.,34.0294984,-118.4108257
+8925,Motor Ave. & Manning Ave.,34.0333641,-118.4108029
+8926,Manning & Woodbine,34.0310988,-118.4060882
+8927,Loyola High School,34.044108,-118.294556
+8929,Olive & Pico,34.038024,-118.263236
+8930,Olive Ave. & 12th St.,34.039494,-118.261954
+8931,Olive Ave. & Olympic Blvd.,34.0421915,-118.2596588
+8932,Olive Ave. & 9th St.,34.0440025,-118.2578888
+8933,8th St. & Grand Ave.,34.0457339,-118.2577586
+8934,8th St. & Flower St.,34.0470883,-118.2599133
+8945,Union Station/Patsaouras Transit Plaza,34.0551801,-118.2333059
+8946,National Blvd. & Overland Ave.,34.0308151,-118.4157137
+8947,Cesar E Chavez & Vignes St.,34.056826,-118.231641
+8955,6th St. & Grand Ave.,34.048735,-118.255495
+8956,Grand & 7th - 8th,34.046855,-118.25712
+8957,Grand Ave. & 9th St.,34.044183,-118.259642
+8958,Grand Ave. & Olympic Blvd.,34.0432027,-118.2605562
+8960,Grand Ave. & Pico Blvd.,34.039142,-118.264304
+8962,Loyola High School,34.04417,-118.29724
+8963,Manning & National,34.03018,-118.403963
+8965,Motor Ave. & Manning Ave.,34.032897,-118.41089
+8966,National Blvd. & Motor Ave.,34.029147,-118.411
+8967,National Blvd. & Valparaiso St.,34.030529,-118.413476
+8968,National Blvd. & Overland Ave.,34.0309283,-118.4159241
+8970,Overland Ave. & Clarkson Rd.,34.033632,-118.418348
+8971,Overland Ave. & Coventry Pl.,34.0344107,-118.4190375
+8973,Overland & Pico,34.041421,-118.424297
+8974,Pico Blvd. & Manning Ave.,34.0427852,-118.4231259
+8976,Pico Blvd. & Patricia  Ave.,34.0447744,-118.4196724
+8977,Beverly Glen Blvd. & Pico Blvd.,34.046799,-118.417378
+8979,Beverly Glen Blvd. & Olympic Blvd.,34.0502619,-118.4203441
+8981,Beverly Glen Blvd. & Santa Monica Blvd.,34.0570566,-118.4236718
+8982,Beverly Glen Blvd. & Wilkins  Ave.,34.06107,-118.425069
+8985,Wilshire Blvd. & Warner  Ave.,34.0645432,-118.4320749
+8986,Wilshire Blvd. & Westholme Ave.,34.061828,-118.433592
+8987,Wilshire Blvd. & Selby  Ave.,34.060544,-118.437799
+8989,Wilshire & Westwood,34.0587425,-118.4439958
+9000,Pacific & Washington,33.9792,-118.465337
+9002,Pacific Ave. & Fleet St.,33.976459,-118.463017
+9004,Pacific Ave. & Lighthouse St.,33.97316,-118.46045
+9010,Via Marina & Captains Row,33.9685992,-118.4538113
+9011,Via Marina & Bora Bora Way,33.970992,-118.455507
+9012,Via Marina & Tahiti Way,33.9738669,-118.457668
+9013,Via Marina & Marquesas Way,33.9765385,-118.4591981
+9014,Via Marina & Panay Way,33.9791455,-118.4592124
+9016,Admiralty Way & Palawan Way,33.983361,-118.457703
+9018,Admiralty Way & 4351 Admiralty Way,33.985271,-118.452058
+9019,Admiralty Way & Calif Yacht Club,33.984306,-118.448271
+9020,Admiralty Way & Bali Way,33.9820357,-118.4415278
+9021,Mindanao Way & Admiralty Way,33.9800691,-118.4398422
+9022,Mindanao Way & Lincoln Blvd.,33.9808449,-118.4388183
+9023,Mindanao Way & Marina Fwy,33.9837985,-118.4378886
+9024,Mindanao Way & Glencoe Ave.,33.985614,-118.4373037
+9025,Mindanao Way & Alla Rd.,33.987991,-118.433564
+9026,Alla Rd. & Glencoe Ave.,33.985164,-118.43145
+9027,Alla & Panama,33.982987,-118.429911
+9028,Culver Blvd. & Braddock Dr,33.985865,-118.425145
+9029,Culver Blvd. & Centinela Ave.,33.9911972,-118.4208361
+9030,Culver Blvd. & Inglewood Blvd.,33.9951335,-118.417634
+9031,Culver Blvd. & Slauson Blvd.,33.998692,-118.414775
+9032,Culver Blvd. & Berryman Ave.,34.00034,-118.413418
+9035,Culver Blvd. & Harter Ave.,34.006973,-118.40807
+9036,Culver Blvd. & Elenda St.,34.009399,-118.406231
+9037,Culver Blvd. & Overland Ave.,34.013787,-118.402929
+9038,Culver Blvd. & Jackson Ave.,34.018641,-118.398427
+9039,Culver Blvd. & Duquesne Ave.,34.0207899,-118.3971093
+9040,Culver Blvd. & Lafayette St.,34.021879,-118.395844
+9041,Culver & Washington,34.0225714,-118.3954055
+9042,Washington Blvd. & Higuera St.,34.025668,-118.390507
+9043,Washington Blvd. & National Blvd.,34.027921,-118.387154
+9044,Washington Blvd. & Cattaragus Ave.,34.0306411,-118.3807985
+9045,Washington Blvd. & La Cienega Blvd.,34.03277,-118.3738936
+9046,Washington & Fairfax,34.0341042,-118.3703359
+9081,Washington & Fairfax,34.0347273,-118.3693466
+9082,Washington Blvd. & La Cienega Blvd.,34.0310269,-118.3787417
+9083,Washington Blvd. & Cattaragus Ave.,34.030439,-118.38079
+9084,Washington Blvd. & National Blvd.,34.0279955,-118.3867739
+9085,Washington Blvd. & Robertson Blvd.,34.0266631,-118.389223
+9087,Culver Blvd. & Duquesne Ave.,34.021285,-118.39634
+9088,Culver Blvd. & Madison Ave.,34.019425,-118.398156
+9089,Culver Blvd. & Motor Ave.,34.016624,-118.400366
+9090,Culver Blvd. & Overland Ave.,34.013515,-118.402732
+9091,Culver Blvd. & Elenda St.,34.010275,-118.405366
+9092,Culver Blvd. & Harter Ave.,34.0068246,-118.4080498
+9093,Culver Blvd. & Berryman Ave.,34.000047,-118.413429
+9094,Culver Blvd. & Slauson Ave.,33.9983303,-118.4149598
+9095,Culver Blvd. & Inglewood Blvd.,33.9946684,-118.4178669
+9096,Culver Blvd. & Centinela Ave.,33.9912368,-118.4206226
+9097,Culver Blvd. & Braddock Dr,33.985457,-118.425161
+9100,Mindanao Way & Alla Rd.,33.987771,-118.43347
+9101,Mindanao Way & Glencoe Ave.,33.985254,-118.437235
+9102,Mindanao Way & Marina Fwy,33.9825346,-118.4380755
+9103,Mindanao Way & Lincoln Blvd.,33.9807383,-118.4387391
+9104,Mindanao Way & Admiralty Way,33.979877,-118.439728
+9105,Admiralty Way & Bali Way,33.98184,-118.441662
+9106,Admiralty Way & Calif Yacht Club,33.984207,-118.448875
+9107,Admiralty Way & 4351 Admiralty Way,33.985081,-118.452176
+9109,Admiralty Way & Palawan Way,33.983205,-118.457444
+9110,Via Marina & Admiralty,33.981233,-118.459725
+9111,Via Marina & Panay Way,33.9787106,-118.4590326
+9112,Via Marina & Marquesas Way,33.9763816,-118.4589887
+9113,Via Marina & Tahiti Way,33.9736214,-118.4572859
+9114,Via Marina & Bora Bora Way,33.971314,-118.455509
+9115,Via Marina & Captains Row,33.968769,-118.453694
+9119,Pacific Ave. & Reef St.,33.970022,-118.458002
+9125,Washington & Pacific,33.979771,-118.465308
+9126,Culver Blvd. & Sepulveda Blvd.,34.004386,-118.409931
+9127,Culver Blvd. & Sawtelle Blvd.,34.002123,-118.411758
+9200,Palos Verdes & Via Valencia,33.8165877,-118.3851942
+9201,Catalina Ave. & Elena Ave.,33.816235,-118.386883
+9202,Catalina Ave. & Avenue I,33.8191391,-118.3882356
+9203,Catalina Ave. & Avenue F,33.8223249,-118.3883738
+9204,Catalina Ave. & Knob Hill Ave.,33.8288787,-118.3889776
+9205,Catalina Ave. & Sapphire St.,33.8332204,-118.3881384
+9206,Catalina Ave. & Torrance Blvd.,33.837984,-118.387856
+9207,Catalina Ave. & Garnet St.,33.8398804,-118.3880597
+9208,Catalina Ave. & Diamond St.,33.8433398,-118.3890358
+9209,Catalina Ave. & Carnelian St.,33.8448241,-118.3905153
+9210,Beryl St. & Harbor Drive,33.84624,-118.393028
+9211,Hermosa & 2nd,33.8548328,-118.3979778
+9212,Hermosa Ave. & 6th St.,33.8577702,-118.3987585
+9213,Hermosa Ave. & 10th St.,33.860518,-118.399449
+9214,Hermosa Ave. & 16th St.,33.8651172,-118.4006476
+9215,Hermosa Ave. & 19th St.,33.8674441,-118.4017608
+9216,Hermosa Ave. & 22nd St.,33.869354,-118.403373
+9217,Hermosa Ave. & 26th St.,33.8720088,-118.4050836
+9218,Manhattan Ave. & 33rd St.,33.87625,-118.40639
+9219,Manhattan Ave. & 1st St.,33.877674,-118.40708
+9220,Manhattan Ave. & 4th St.,33.8796871,-118.4080617
+9221,Manhattan Ave. & 10th St.,33.883474,-118.409974
+9222,Highland & 14th,33.886974,-118.410666
+9223,Highland Ave. & 18th St.,33.889392,-118.412163
+9224,Highland Ave. & Marine Ave.,33.89185,-118.413498
+9225,Highland Ave. & 26th St.,33.8942322,-118.4148471
+9226,Highland Ave. & 30th St.,33.896257,-118.4157792
+9227,Highland Ave. & 33rd St.,33.898402,-118.4166969
+9228,Rosecrans & Highland,33.9010679,-118.4179397
+9229,Highland Ave. & Seaview St.,33.904429,-118.419528
+9230,Vista Del Mar & 45th St.,33.905836,-118.4205
+9231,Vista Del Mar & Grand Ave.,33.91648,-118.42734
+9232,Imperial & Aviation Park & Ride,33.930507,-118.378265
+9233,37th St. Transitway Station,34.017866,-118.280202
+9234,Manhattan Ave. & 27th St.,33.873286,-118.404709
+9240,Catalina Ave. & Avenue C,33.8254852,-118.3885195
+9262,Flower St. & Pico Blvd.,34.0394282,-118.2673435
+9263,Flower St. & Venice Blvd.,34.037112,-118.268901
+9264,Flower & Washington,34.0339381,-118.2708927
+9265,37th St. Transitway Station,34.0177801,-118.2801735
+9267,Vista Del Mar & Grand Ave.,33.9144249,-118.4266387
+9268,Vista Del Mar & 45th St.,33.9059807,-118.4208676
+9270,Highland & Rosecrans,33.9008369,-118.4176978
+9271,Highland Ave. & 33rd St.,33.8983649,-118.4167155
+9272,Highland Ave. & 30th St.,33.896605,-118.4159561
+9273,Highland Ave. & 26th St.,33.8945187,-118.4150383
+9274,Highland Ave. & Marine Ave.,33.8925227,-118.4139759
+9276,Highland & 14th,33.886974,-118.410666
+9278,Manhattan Ave. & 4th St.,33.879794,-118.4082041
+9279,Manhattan Ave. & 1st St.,33.877805,-118.4072608
+9280,Manhattan Ave. & Longfellow,33.8758553,-118.4062231
+9281,Manhattan Ave. & 27th St.,33.87322,-118.4048559
+9282,Hermosa Ave. & 25th St.,33.870875,-118.4046084
+9283,Hermosa Ave. & 22nd St.,33.8693947,-118.4037006
+9284,Hermosa Ave. & 19th St.,33.8681174,-118.4025972
+9285,Hermosa Ave. & 16th St.,33.8658655,-118.4011251
+9286,Hermosa Ave. & 11th St.,33.8623554,-118.4001622
+9287,Hermosa Ave. & 6th St.,33.8592932,-118.3993528
+9288,Hermosa & 2nd,33.8548328,-118.3979778
+9289,Beryl St. & Harbor Drive,33.8494094,-118.395697
+9290,Catalina Ave. & Carnelian St.,33.8448623,-118.3909255
+9292,Catalina Ave. & Garnet St.,33.8387256,-118.3881606
+9293,Catalina Ave. & Torrance Blvd.,33.8341334,-118.3880199
+9294,Catalina Ave. & Sapphire St.,33.8330846,-118.3883372
+9295,Catalina Ave. & Knob Hill Ave.,33.8290205,-118.3890805
+9296,Catalina Ave. & Avenue F,33.8224589,-118.3885258
+9297,Avenue I & Elena Ave.,33.8189046,-118.3855402
+9298,Palos Verdes & Via Valencia,33.8165877,-118.3851942
+9401,Crest Rd. & Whitley Collins Dr.,33.760418,-118.374596
+9404,Crest Rd. & Cresta Verde Dr.,33.759172,-118.3905468
+9405,Hawthorne Blvd. & Crest Rd.,33.7613017,-118.3931536
+9409,Hawthorne Blvd. & Seamount Dr.,33.772584,-118.392073
+9410,Hawthorne Blvd. & Ridgegate Dr.,33.7789219,-118.3913132
+9411,Hawthorne Blvd. & Highridge Rd.,33.778931,-118.3843281
+9412,Hawthorne Blvd. & Indian Peak Rd.,33.7765558,-118.3779823
+9413,Hawthorne & Silver Spur,33.7764659,-118.3752797
+9414,Hawthorne Blvd. & Blackhorse Rd.,33.7809546,-118.3697011
+9417,Hawthorne Blvd. & Rolling Hills Rd.,33.794315,-118.34892
+9418,Hawthorne Blvd. & Newton St.,33.800168,-118.3510492
+9419,Hawthorne & 242nd,33.804265,-118.350912
+9420,Pacific Coast Hwy & Madison St.,33.803422,-118.347875
+9421,Pacific Coast Hwy & Newton St.,33.7960085,-118.3385829
+9422,Pacific Coast Hwy & Crenshaw Blvd.,33.7917905,-118.3328848
+9423,Pacific Coast Hwy & Airport Dr.,33.7894724,-118.3283559
+9424,Pacific Coast Hwy & Pennsylvania Ave.,33.7894795,-118.3250338
+9425,Pacific Coast Hwy & Cypress St.,33.7894734,-118.3224293
+9426,Pacific Coast Hwy & Narbonne Ave.,33.789438,-118.32023
+9427,Pacific Coast Hwy & Eshelman Ave.,33.789349,-118.31403
+9428,Pacific Coast Hwy & Walnut St.,33.7894231,-118.3119664
+9429,Pacific Coast Hwy & Western,33.789313,-118.30741
+9430,Pacific Coast Hwy & President Ave.,33.7894201,-118.3045452
+9431,Pacific Coast Hwy & Belle Porte Ave.,33.7894036,-118.3014306
+9432,Pacific Coast Hwy & Normandie Ave.,33.7899958,-118.2971235
+9433,Pacific Coast Hwy & Vermont Ave.,33.7909178,-118.2911056
+9434,Figueroa & Pacific Coast Hwy,33.790789,-118.28122
+9435,Harbor/Century Transitway Station,33.928708,-118.280638
+9466,Flower St. & 11th St.,34.0431527777778,-118.264083333333
+9472,110 Fwy & Pacific Coast Hwy,33.790793,-118.283138
+9473,Pacific Coast Hwy & Vermont Ave.,33.7910936,-118.2910852
+9474,Pacific Coast Hwy & Normandie Ave.,33.789955,-118.297718
+9475,Pacific Coast Hwy & Belle Porte Ave.,33.7895,-118.300792
+9476,Pacific Coast Hwy & President Ave.,33.7895679,-118.3035909
+9477,Pacific Coast Hwy & Western,33.78956,-118.307227
+9478,Pacific Coast Hwy & Walnut St.,33.7895969,-118.3118169
+9479,Pacific Coast Hwy & Eshelman Ave.,33.7896139,-118.3142574
+9480,Pacific Coast Hwy & Narbonne Ave.,33.7896318,-118.3198374
+9481,Pacific Coast Hwy & Cypress St.,33.7896501,-118.3231521
+9482,Pacific Coast Hwy & Pennsylvania Ave.,33.789643,-118.325538
+9483,Pacific Coast Hwy & Airport Dr.,33.7896991,-118.3290065
+9484,Pacific Coast Hwy & Crenshaw Blvd.,33.792443,-118.33351
+9485,Pacific Coast Hwy & Newton St.,33.7962526,-118.3385807
+9486,Pacific Coast Hwy & Madison St.,33.8034826,-118.3474817
+9488,Hawthorne Blvd. & Newton St.,33.7990904,-118.351241
+9489,Hawthorne Blvd. & Rolling Hills Rd.,33.7951509,-118.3491273
+9491,Hawthorne Blvd. & Blackhorse Rd.,33.7804985,-118.3700572
+9493,Hawthorne Blvd. & Indian Peak Rd.,33.776753,-118.377948
+9494,Hawthorne Blvd. & Grayslake Rd.,33.7791346,-118.3848672
+9495,Hawthorne Blvd. & Granvia Altamira,33.779014,-118.391445
+9496,Hawthorne Blvd. & Eddinghill Dr.,33.7730241,-118.3924185
+9498,Hawthorne Blvd. & Dover Ridge,33.768122,-118.391338
+9499,Hawthorne Blvd. & Ocean Crest Dr.,33.762979,-118.39223
+9500,Crest Rd. & Hawthorne Blvd.,33.7600084,-118.3917569
+9504,Crest Rd. & Whitley Collins Dr.,33.7605049,-118.3742041
+9505,Crest & Crenshaw,33.7627632,-118.3704846
+9600,Wilshire & Veteran,34.0575714,-118.4480525
+9604,Santa Monica Blvd. & Ave. Of The Stars,34.060859,-118.418364
+9607,Olympic Blvd. & Century Park East,34.0588912,-118.4114159
+9608,Olympic Blvd. & Western Ave.,34.0525905,-118.3093088
+9627,Los Angeles St. & 1st St.,34.0517165,-118.2423559
+9638,Flower St. & 9th St.,34.045939,-118.261465
+9640,Olympic Blvd. & Western Ave.,34.052762,-118.309155
+9641,Olympic Blvd. & Century Park East,34.0586603,-118.4118662
+9643,Santa Monica Blvd. & Ave Of The Stars,34.0616359,-118.4182963
+9648,Wilshire & Veteran,34.0578343,-118.447705
+9703,Hope & 4th,34.052657,-118.253451
+9704,Hope & 4th,34.052531,-118.253236

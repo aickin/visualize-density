@@ -1,0 +1,36 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# development
+/private-site/src/data/dev-*
+
+# temporary because the file is too big
+/data/transit/agencies/los-angeles-metro-bus/stop_times.txt
+/data/transit/agencies/long-beach-transit/stop_times.txt
+/data/zoning/input
+/data/zoning/output
+/data/parcels/input
+/data/parcels/output
+/data/census/input
+/data/census/output
+/data/streets/input
+/data/streets/output

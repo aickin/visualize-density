@@ -1,0 +1,760 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,2436127,1,Skyline & Union,12/Avenal
+1,2436100,2,Milham & Becky Pease,12/Avenal
+1,2436099,3,Milham @ Housing Authority,12/Avenal
+1,2436098,4,3rd & Milham,12/Avenal
+1,2436097,5,3rd & General Petroleum,12/Avenal
+1,2436096,6,General Petroleum & 5th,12/Avenal
+1,2436095,7,General Petroleum @ Elementary School,12/Avenal
+1,2436094,8,Becky Pease & Standard Oil,12/Avenal
+1,2436088,9,Main @ Grain Mill,12/Avenal
+1,2436027,10,Main & Empire,12/Avenal
+1,2436087,11,1st & Empire,12/Avenal
+1,2436086,12,1st & Railroad,12/Avenal
+1,2436107,13,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+1,2436083,14,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+1,2436106,15,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+1,2435945,16,Bush across  Kings River Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2435849,17,Bush @ Davita Dialysis,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2436085,18,19th & Bush,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2435944,19,19th & Cypress,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2436084,20,19th @ Lemoore Soccer Complex,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+1,2436007,21,Hanford Armona & Bennigton,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2435943,22,Hanford Armona @ K Mart,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2435937,23,Hanford Armona @ Country Club Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2435936,24,Hanford Armona across Park Place Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2435935,25,Hanford Armona & Cinnamon,"12/Avenal, 20/Hanford - Armona - Lemoore, 30/Lemoore - North"
+1,2435934,26,Hanford Armona @ Westberry Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2435933,27,Hanford Armona & 16th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2436082,28,Hanford Armona & 15th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2435931,29,Front & Hanford Armona Rd,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2436137,30,Front @ Club Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2436077,31,14th & Hanford Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2436026,32,14th & Highway 198,"12/Avenal, 20/Hanford - Armona - Lemoore"
+1,2436081,33,Centennial @ Walmart,12/Avenal
+1,2436036,34,Lacey & Centennial,"12/Avenal, 14/Laton, 7/Red Line"
+1,2435930,35,Lacey @ Hanford Mall,"12/Avenal, 14/Laton, 7/Red Line"
+1,2435929,36,Lacey @ Cancer Center,"12/Avenal, 14/Laton, 7/Red Line"
+1,2436035,37,Lacey @ Chubby's,"12/Avenal, 14/Laton, 7/Red Line"
+1,2436034,38,Lacey & Greenfield,"12/Avenal, 14/Laton, 7/Red Line"
+1,2436128,39,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+2,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+2,2436125,2,Lacey @ Carl's Jr.,"12/Avenal, 14/Laton, 6/Blue Line"
+2,2436124,3,Lacey @ Government Center,"12/Avenal, 14/Laton, 6/Blue Line"
+2,2436123,4,Lacey & Mall Drive,"12/Avenal, 14/Laton, 6/Blue Line"
+2,2436122,5,Lacey @ Centennial Plaza,"12/Avenal, 14/Laton, 6/Blue Line, 9/Yellow Line"
+2,2436120,6,Centennial @ Walmart,"12/Avenal, 6/Blue Line"
+2,2436119,7,14th @ Armona Fire Station,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436118,8,14th @ Armona Senior Center,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436136,9,Front @ Club Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2435932,10,Hanford Armona & 15th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436117,11,Hanford Armona & 16th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436116,12,Hanford Armona across Westberry Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436115,13,Hanford Armona & Belinda,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2435910,14,Hanford Armona @ Park Place Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436114,15,Hanford Armona @ Pioneer Square,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436113,16,18th @ Pizza Hut,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436112,17,18th & D,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436111,18,Bush & Follett,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436110,19,Bush @ City Park,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436109,20,Bush & Olive,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436108,21,Bush @ Kings River Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+2,2436107,22,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+2,2436083,23,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+2,2436106,24,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+2,2436105,25,1st & Railroad,12/Avenal
+2,2436104,26,1st & Cross,12/Avenal
+2,2436103,27,Empire & Main,12/Avenal
+2,2436102,28,Main @ Post Office,12/Avenal
+2,2436101,29,Main @ Grain Mill,12/Avenal
+2,2436100,30,Milham & Becky Pease,12/Avenal
+2,2436099,31,Milham @ Housing Authority,12/Avenal
+2,2436098,32,3rd & Milham,12/Avenal
+2,2436097,33,3rd & General Petroleum,12/Avenal
+2,2436096,34,General Petroleum & 5th,12/Avenal
+2,2436095,35,General Petroleum @ Elementary School,12/Avenal
+2,2436094,36,Becky Pease & Standard Oil,12/Avenal
+2,2436126,37,San Joaquin & Union,12/Avenal
+2,2436093,38,San Joaquin & 5th,12/Avenal
+2,2436092,39,San Joaquin & 2nd,12/Avenal
+2,2436091,40,San Joaquin & Thurston,12/Avenal
+2,2436090,41,Skyline @ Circle K,12/Avenal
+2,2436089,42,Skyline @ State Supermarket,12/Avenal
+2,2436127,43,Skyline & Union,12/Avenal
+3,2436127,1,Skyline & Union,12/Avenal
+3,2436100,2,Milham & Becky Pease,12/Avenal
+3,2436099,3,Milham @ Housing Authority,12/Avenal
+3,2436098,4,3rd & Milham,12/Avenal
+3,2436097,5,3rd & General Petroleum,12/Avenal
+3,2436096,6,General Petroleum & 5th,12/Avenal
+3,2436095,7,General Petroleum @ Elementary School,12/Avenal
+3,2436094,8,Becky Pease & Standard Oil,12/Avenal
+3,2436088,9,Main @ Grain Mill,12/Avenal
+3,2436027,10,Main & Empire,12/Avenal
+3,2436087,11,1st & Empire,12/Avenal
+3,2436086,12,1st & Railroad,12/Avenal
+3,2436107,13,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+3,2436083,14,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+3,2436106,15,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+3,2435945,16,Bush across  Kings River Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2435849,17,Bush @ Davita Dialysis,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2436085,18,19th & Bush,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2435944,19,19th & Cypress,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2436084,20,19th @ Lemoore Soccer Complex,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+3,2436007,21,Hanford Armona & Bennigton,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2435943,22,Hanford Armona @ K Mart,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2435937,23,Hanford Armona @ Country Club Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2435936,24,Hanford Armona across Park Place Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2435935,25,Hanford Armona & Cinnamon,"12/Avenal, 20/Hanford - Armona - Lemoore, 30/Lemoore - North"
+3,2435934,26,Hanford Armona @ Westberry Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2435933,27,Hanford Armona & 16th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2436082,28,Hanford Armona & 15th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2435931,29,Front & Hanford Armona Rd,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2436137,30,Front @ Club Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2436077,31,14th & Hanford Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2436026,32,14th & Highway 198,"12/Avenal, 20/Hanford - Armona - Lemoore"
+3,2436081,33,Centennial @ Walmart,12/Avenal
+3,2436036,34,Lacey & Centennial,"12/Avenal, 14/Laton, 7/Red Line"
+3,2435930,35,Lacey @ Hanford Mall,"12/Avenal, 14/Laton, 7/Red Line"
+3,2435929,36,Lacey @ Cancer Center,"12/Avenal, 14/Laton, 7/Red Line"
+3,2436035,37,Lacey @ Chubby's,"12/Avenal, 14/Laton, 7/Red Line"
+3,2436034,38,Lacey & Greenfield,"12/Avenal, 14/Laton, 7/Red Line"
+3,2436128,39,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+4,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+4,2436125,2,Lacey @ Carl's Jr.,"12/Avenal, 14/Laton, 6/Blue Line"
+4,2436124,3,Lacey @ Government Center,"12/Avenal, 14/Laton, 6/Blue Line"
+4,2436123,4,Lacey & Mall Drive,"12/Avenal, 14/Laton, 6/Blue Line"
+4,2436122,5,Lacey @ Centennial Plaza,"12/Avenal, 14/Laton, 6/Blue Line, 9/Yellow Line"
+4,2436120,6,Centennial @ Walmart,"12/Avenal, 6/Blue Line"
+4,2436119,7,14th @ Armona Fire Station,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436118,8,14th @ Armona Senior Center,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436136,9,Front @ Club Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2435932,10,Hanford Armona & 15th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436117,11,Hanford Armona & 16th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436116,12,Hanford Armona across Westberry Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436115,13,Hanford Armona & Belinda,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2435910,14,Hanford Armona @ Park Place Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436114,15,Hanford Armona @ Pioneer Square,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436113,16,18th @ Pizza Hut,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436112,17,18th & D,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436111,18,Bush & Follett,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436110,19,Bush @ City Park,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436109,20,Bush & Olive,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436108,21,Bush @ Kings River Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+4,2436107,22,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+4,2436083,23,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+4,2436106,24,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+4,2436105,25,1st & Railroad,12/Avenal
+4,2436104,26,1st & Cross,12/Avenal
+4,2436103,27,Empire & Main,12/Avenal
+4,2436102,28,Main @ Post Office,12/Avenal
+4,2436101,29,Main @ Grain Mill,12/Avenal
+4,2436100,30,Milham & Becky Pease,12/Avenal
+4,2436099,31,Milham @ Housing Authority,12/Avenal
+4,2436098,32,3rd & Milham,12/Avenal
+4,2436097,33,3rd & General Petroleum,12/Avenal
+4,2436096,34,General Petroleum & 5th,12/Avenal
+4,2436095,35,General Petroleum @ Elementary School,12/Avenal
+4,2436094,36,Becky Pease & Standard Oil,12/Avenal
+4,2436126,37,San Joaquin & Union,12/Avenal
+4,2436093,38,San Joaquin & 5th,12/Avenal
+4,2436092,39,San Joaquin & 2nd,12/Avenal
+4,2436091,40,San Joaquin & Thurston,12/Avenal
+4,2436090,41,Skyline @ Circle K,12/Avenal
+4,2436089,42,Skyline @ State Supermarket,12/Avenal
+4,2436127,43,Skyline & Union,12/Avenal
+5,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+5,2436125,2,Lacey @ Carl's Jr.,"12/Avenal, 14/Laton, 6/Blue Line"
+5,2436124,3,Lacey @ Government Center,"12/Avenal, 14/Laton, 6/Blue Line"
+5,2436123,4,Lacey & Mall Drive,"12/Avenal, 14/Laton, 6/Blue Line"
+5,2436122,5,Lacey @ Centennial Plaza,"12/Avenal, 14/Laton, 6/Blue Line, 9/Yellow Line"
+5,2436120,6,Centennial @ Walmart,"12/Avenal, 6/Blue Line"
+5,2436041,7,7th @ Adventist Hospital,6/Blue Line
+5,2435920,8,7th @ Senior Villa Apartments,6/Blue Line
+5,2435919,9,7th & Reagan,6/Blue Line
+5,2436040,10,7th & 11th,6/Blue Line
+5,2436128,11,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+6,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+6,2436125,2,Lacey @ Carl's Jr.,"12/Avenal, 14/Laton, 6/Blue Line"
+6,2436124,3,Lacey @ Government Center,"12/Avenal, 14/Laton, 6/Blue Line"
+6,2436123,4,Lacey & Mall Drive,"12/Avenal, 14/Laton, 6/Blue Line"
+6,2436122,5,Lacey @ Centennial Plaza,"12/Avenal, 14/Laton, 6/Blue Line, 9/Yellow Line"
+6,2436120,6,Centennial @ Walmart,"12/Avenal, 6/Blue Line"
+6,2436041,7,7th @ Adventist Hospital,6/Blue Line
+6,2435920,8,7th @ Senior Villa Apartments,6/Blue Line
+6,2435919,9,7th & Reagan,6/Blue Line
+6,2436040,10,7th & 11th,6/Blue Line
+6,2436128,11,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+7,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+7,2436134,2,6th & Irwin,4/Brown Line
+7,2435967,3,3rd & Douty,4/Brown Line
+7,2435968,4,3rd & White,4/Brown Line
+7,2436135,5,10th @ Fair Grounds,4/Brown Line
+7,2435957,6,10th @ City Yard,4/Brown Line
+7,2435966,7,10th @ Tapatia Bakery,"4/Brown Line, 8/Gray Line"
+7,2435965,8,10th & Orchard,"4/Brown Line, 8/Gray Line"
+7,2435964,9,Home & 2nd,"4/Brown Line, 8/Gray Line"
+7,2435963,10,Home & Shaw,"4/Brown Line, 8/Gray Line"
+7,2436047,11,6th & Eastview,"4/Brown Line, 8/Gray Line"
+7,2435962,12,Garden & Shaw,"4/Brown Line, 8/Gray Line"
+7,2435961,13,Garden & 2nd,4/Brown Line
+7,2435960,14,Garden & 10th,4/Brown Line
+7,2436046,15,10th & Home,4/Brown Line
+7,2435959,16,Hanford Armona @ Kings Rehab,"13/Corcoran, 4/Brown Line"
+7,2436045,17,Hanford Armona & Harris,4/Brown Line
+7,2436044,18,Hanford Armona & Irwin,4/Brown Line
+7,2435958,19,Irwin & Douty,4/Brown Line
+7,2436043,20,Douty & Lang,4/Brown Line
+7,2436042,21,Douty & 2nd,4/Brown Line
+7,2435844,22,6th & Irwin,4/Brown Line
+7,2439178,23,6th & Redington,4/Brown Line
+7,2436128,24,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+8,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+8,2436134,2,6th & Irwin,4/Brown Line
+8,2435967,3,3rd & Douty,4/Brown Line
+8,2435968,4,3rd & White,4/Brown Line
+8,2436135,5,10th @ Fair Grounds,4/Brown Line
+8,2435957,6,10th @ City Yard,4/Brown Line
+8,2435966,7,10th @ Tapatia Bakery,"4/Brown Line, 8/Gray Line"
+8,2435965,8,10th & Orchard,"4/Brown Line, 8/Gray Line"
+8,2435964,9,Home & 2nd,"4/Brown Line, 8/Gray Line"
+8,2435963,10,Home & Shaw,"4/Brown Line, 8/Gray Line"
+8,2436047,11,6th & Eastview,"4/Brown Line, 8/Gray Line"
+8,2435962,12,Garden & Shaw,"4/Brown Line, 8/Gray Line"
+8,2435961,13,Garden & 2nd,4/Brown Line
+8,2435960,14,Garden & 10th,4/Brown Line
+8,2436046,15,10th & Home,4/Brown Line
+8,2435959,16,Hanford Armona @ Kings Rehab,"13/Corcoran, 4/Brown Line"
+8,2436045,17,Hanford Armona & Harris,4/Brown Line
+8,2436044,18,Hanford Armona & Irwin,4/Brown Line
+8,2435958,19,Irwin & Douty,4/Brown Line
+8,2436043,20,Douty & Lang,4/Brown Line
+8,2436042,21,Douty & 2nd,4/Brown Line
+8,2435844,22,6th & Irwin,4/Brown Line
+8,2439178,23,6th & Redington,4/Brown Line
+8,2436128,24,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+9,2435880,1,KART Transit Center,"13/Corcoran, 14/Laton, 17/Fresno"
+9,2435959,2,Hanford Armona @ Kings Rehab,"13/Corcoran, 4/Brown Line"
+9,2436024,3,Amtrak,13/Corcoran
+9,2436029,4,Substance Abuse Prison Administration Lot,13/Corcoran
+9,2436028,5,Substance Abuse Prison Tower 5 Lot,13/Corcoran
+9,2436030,6,State Prison Administration Lot,13/Corcoran
+9,2436025,7,Amtrak,13/Corcoran
+9,2435880,8,KART Transit Center,"13/Corcoran, 14/Laton, 17/Fresno"
+10,2435880,1,KART Transit Center,"13/Corcoran, 14/Laton, 17/Fresno"
+10,2436003,2,De Woody @ Post Office,"14/Laton, 17/Fresno"
+10,2436017,3,Selma Kaiser Hospital,17/Fresno
+10,2436002,4,Fresno Fulton Mall,17/Fresno
+10,2436001,5,Community Regional Center,17/Fresno
+10,2436000,6,Fresno Veteran's Hospital,17/Fresno
+10,2435999,7,Fresno @ Shaw,17/Fresno
+10,2435847,8,Fresno Kaiser Hospital,17/Fresno
+10,2435998,9,Valley Children's Hospital,17/Fresno
+11,2435998,1,Valley Children's Hospital,17/Fresno
+11,2435846,2,Fresno Kaiser Hospital S,17/Fresno
+11,2436016,3,Fresno @ Shaw,17/Fresno
+11,2436000,4,Fresno Veteran's Hospital,17/Fresno
+11,2435997,5,Community Regional Center,17/Fresno
+11,2436002,6,Fresno Fulton Mall,17/Fresno
+11,2436017,7,Selma Kaiser Hospital,17/Fresno
+11,2436015,8,Across De Woody @ Post Office,17/Fresno
+11,2435880,9,KART Transit Center,"13/Corcoran, 14/Laton, 17/Fresno"
+12,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+12,2436009,2,11th @ Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+12,2436076,3,11th @ Castle Square,"5/Pink Line, 8/Gray Line"
+12,2436075,4,11th & Washington,"5/Pink Line, 8/Gray Line"
+12,2435923,5,Jones & Hanford Armona,"5/Pink Line, 8/Gray Line"
+12,2436071,6,Jones @ Amberwood Apartments,"5/Pink Line, 8/Gray Line"
+12,2435922,7,11th @ Amberwood Apartments,"5/Pink Line, 8/Gray Line"
+12,2435915,8,Hanford Armona @ Railroad,8/Gray Line
+12,2436033,9,Hanford Armona & 10 1/2,8/Gray Line
+12,2435897,10,Hanford Armona @ Kings Terrace Apartments,8/Gray Line
+12,2435966,11,10th @ Tapatia Bakery,"4/Brown Line, 8/Gray Line"
+12,2435965,12,10th & Orchard,"4/Brown Line, 8/Gray Line"
+12,2435964,13,Home & 2nd,"4/Brown Line, 8/Gray Line"
+12,2435963,14,Home & Shaw,"4/Brown Line, 8/Gray Line"
+12,2436047,15,6th & Eastview,"4/Brown Line, 8/Gray Line"
+12,2435962,16,Garden & Shaw,"4/Brown Line, 8/Gray Line"
+12,2435914,17,Shaw @ Home Garden Health Center,8/Gray Line
+12,2436032,18,Houston & Elvira,8/Gray Line
+12,2435913,19,11th & Bonneyview,8/Gray Line
+12,2436031,20,11th & Hume,8/Gray Line
+12,2435912,21,11th @ KCAO,8/Gray Line
+12,2435922,22,11th @ Amberwood Apartments,"5/Pink Line, 8/Gray Line"
+12,2435921,23,11th & Hanford Armona,"5/Pink Line, 8/Gray Line"
+12,2436008,24,11th & Davis,"5/Pink Line, 8/Gray Line"
+12,2436072,25,11th across Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+12,2436128,26,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+13,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+13,2436133,2,8th @ Family Healthcare Network,1/Green Line
+13,2435996,3,8th @ Old Courthouse,1/Green Line
+13,2436070,4,Douty @ Library,1/Green Line
+13,2436069,5,Douty & Ivy,1/Green Line
+13,2436068,6,Douty@ Community Care,1/Green Line
+13,2435995,7,Douty & Malone,1/Green Line
+13,2436131,8,Douty @ High School,1/Green Line
+13,2436067,9,Douty & Leland,1/Green Line
+13,2436130,10,Douty & Cortner,1/Green Line
+13,2435994,11,Fargo & Carter,1/Green Line
+13,2436066,12,Aspen & Fargo,1/Green Line
+13,2436065,13,Northstar @ Remmington,1/Green Line
+13,2435993,14,11th & Fargo,1/Green Line
+13,2435992,15,11th & Cortner,1/Green Line
+13,2435991,16,11th & Jana,1/Green Line
+13,2436064,17,11th & Neville,1/Green Line
+13,2436063,18,11th @ KCAO,1/Green Line
+13,2435990,19,11th @ Davita Dialysis,1/Green Line
+13,2436128,20,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+14,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+14,2436133,2,8th @ Family Healthcare Network,1/Green Line
+14,2435996,3,8th @ Old Courthouse,1/Green Line
+14,2436070,4,Douty @ Library,1/Green Line
+14,2436069,5,Douty & Ivy,1/Green Line
+14,2436068,6,Douty@ Community Care,1/Green Line
+14,2435995,7,Douty & Malone,1/Green Line
+14,2436131,8,Douty @ High School,1/Green Line
+14,2436067,9,Douty & Leland,1/Green Line
+14,2436130,10,Douty & Cortner,1/Green Line
+14,2435994,11,Fargo & Carter,1/Green Line
+14,2436066,12,Aspen & Fargo,1/Green Line
+14,2436065,13,Northstar @ Remmington,1/Green Line
+14,2435993,14,11th & Fargo,1/Green Line
+14,2435992,15,11th & Cortner,1/Green Line
+14,2435991,16,11th & Jana,1/Green Line
+14,2436064,17,11th & Neville,1/Green Line
+14,2436063,18,11th @ KCAO,1/Green Line
+14,2435990,19,11th @ Davita Dialysis,1/Green Line
+14,2436128,20,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+15,2436083,1,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+15,2436106,2,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+15,2435945,3,Bush across  Kings River Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2435849,4,Bush @ Davita Dialysis,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2436085,5,19th & Bush,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2435944,6,19th & Cypress,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2436084,7,19th @ Lemoore Soccer Complex,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+15,2435940,8,Liberty & Cinnamon,20/Hanford - Armona - Lemoore
+15,2435939,9,Liberty & Fallenleaf,20/Hanford - Armona - Lemoore
+15,2435938,10,Liberty & Hanford Armona Rd,20/Hanford - Armona - Lemoore
+15,2436007,11,Hanford Armona & Bennigton,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2435943,12,Hanford Armona @ K Mart,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2435937,13,Hanford Armona @ Country Club Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2435936,14,Hanford Armona across Park Place Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2435935,15,Hanford Armona & Cinnamon,"12/Avenal, 20/Hanford - Armona - Lemoore, 30/Lemoore - North"
+15,2435934,16,Hanford Armona @ Westberry Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2435933,17,Hanford Armona & 16th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2436082,18,Hanford Armona & 15th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2435931,19,Front & Hanford Armona Rd,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2436137,20,Front @ Club Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2436077,21,14th & Hanford Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2436026,22,14th & Highway 198,"12/Avenal, 20/Hanford - Armona - Lemoore"
+15,2436072,23,11th across Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+15,2436128,24,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+16,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+16,2436009,2,11th @ Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+16,2436119,3,14th @ Armona Fire Station,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2436118,4,14th @ Armona Senior Center,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2436136,5,Front @ Club Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2435932,6,Hanford Armona & 15th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2436117,7,Hanford Armona & 16th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2436116,8,Hanford Armona across Westberry Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2436115,9,Hanford Armona & Belinda,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2435910,10,Hanford Armona @ Park Place Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2436114,11,Hanford Armona @ Pioneer Square,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2436113,12,18th @ Pizza Hut,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2435942,13,Cinnamon & 18th,20/Hanford - Armona - Lemoore
+16,2435908,14,Follett @ Cinnamon Villa Apartments,"20/Hanford - Armona - Lemoore, 30/Lemoore - North"
+16,2435941,15,Follett @ Lemoore Depot,20/Hanford - Armona - Lemoore
+16,2436112,16,18th & D,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2436111,17,Bush & Follett,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2436110,18,Bush @ City Park,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2436109,19,Bush & Olive,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2435905,20,Bush @ South Valley Church,20/Hanford - Armona - Lemoore
+16,2436108,21,Bush @ Kings River Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+16,2436107,22,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+16,2436083,23,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+17,2436083,1,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+17,2436106,2,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+17,2435945,3,Bush across  Kings River Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2435849,4,Bush @ Davita Dialysis,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2436085,5,19th & Bush,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2435944,6,19th & Cypress,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2436084,7,19th @ Lemoore Soccer Complex,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+17,2435940,8,Liberty & Cinnamon,20/Hanford - Armona - Lemoore
+17,2435939,9,Liberty & Fallenleaf,20/Hanford - Armona - Lemoore
+17,2435938,10,Liberty & Hanford Armona Rd,20/Hanford - Armona - Lemoore
+17,2436007,11,Hanford Armona & Bennigton,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2435943,12,Hanford Armona @ K Mart,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2435937,13,Hanford Armona @ Country Club Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2435936,14,Hanford Armona across Park Place Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2435935,15,Hanford Armona & Cinnamon,"12/Avenal, 20/Hanford - Armona - Lemoore, 30/Lemoore - North"
+17,2435934,16,Hanford Armona @ Westberry Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2435933,17,Hanford Armona & 16th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2436082,18,Hanford Armona & 15th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2435931,19,Front & Hanford Armona Rd,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2436137,20,Front @ Club Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2436077,21,14th & Hanford Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2436026,22,14th & Highway 198,"12/Avenal, 20/Hanford - Armona - Lemoore"
+17,2436072,23,11th across Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+17,2436128,24,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+18,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+18,2436009,2,11th @ Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+18,2436119,3,14th @ Armona Fire Station,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2436118,4,14th @ Armona Senior Center,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2436136,5,Front @ Club Armona,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2435932,6,Hanford Armona & 15th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2436117,7,Hanford Armona & 16th,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2436116,8,Hanford Armona across Westberry Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2436115,9,Hanford Armona & Belinda,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2435910,10,Hanford Armona @ Park Place Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2436114,11,Hanford Armona @ Pioneer Square,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2436113,12,18th @ Pizza Hut,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2435942,13,Cinnamon & 18th,20/Hanford - Armona - Lemoore
+18,2435908,14,Follett @ Cinnamon Villa Apartments,"20/Hanford - Armona - Lemoore, 30/Lemoore - North"
+18,2435941,15,Follett @ Lemoore Depot,20/Hanford - Armona - Lemoore
+18,2436112,16,18th & D,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2436111,17,Bush & Follett,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2436110,18,Bush @ City Park,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2436109,19,Bush & Olive,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2435905,20,Bush @ South Valley Church,20/Hanford - Armona - Lemoore
+18,2436108,21,Bush @ Kings River Apartments,"12/Avenal, 20/Hanford - Armona - Lemoore"
+18,2436107,22,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+18,2436083,23,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+19,2435880,1,KART Transit Center,"13/Corcoran, 14/Laton, 17/Fresno"
+19,2436125,2,Lacey @ Carl's Jr.,"12/Avenal, 14/Laton, 6/Blue Line"
+19,2436124,3,Lacey @ Government Center,"12/Avenal, 14/Laton, 6/Blue Line"
+19,2436123,4,Lacey & Mall Drive,"12/Avenal, 14/Laton, 6/Blue Line"
+19,2436122,5,Lacey @ Centennial Plaza,"12/Avenal, 14/Laton, 6/Blue Line, 9/Yellow Line"
+19,2436003,6,De Woody @ Post Office,"14/Laton, 17/Fresno"
+19,2436022,7,Latonia & Gonser,14/Laton
+19,2436006,8,Dennis & Mt Whitney,14/Laton
+19,2436023,9,Paloma & Renn,14/Laton
+19,2436005,10,Murphy & Fatima,14/Laton
+19,2436004,11,Murphy & Gonser,14/Laton
+19,2436021,12,2nd & Excelsior,14/Laton
+19,2436020,13,Johnson & 1st,14/Laton
+19,2436019,14,1st & Excelsior,14/Laton
+19,2436036,15,Lacey & Centennial,"12/Avenal, 14/Laton, 7/Red Line"
+19,2435930,16,Lacey @ Hanford Mall,"12/Avenal, 14/Laton, 7/Red Line"
+19,2435929,17,Lacey @ Cancer Center,"12/Avenal, 14/Laton, 7/Red Line"
+19,2436035,18,Lacey @ Chubby's,"12/Avenal, 14/Laton, 7/Red Line"
+19,2436034,19,Lacey & Greenfield,"12/Avenal, 14/Laton, 7/Red Line"
+19,2435880,20,KART Transit Center,"13/Corcoran, 14/Laton, 17/Fresno"
+20,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+20,2436009,2,11th @ Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+20,2435956,3,D @ Central Valley Health Center,"21/Lemoore NAS, 31/Lemoore - South"
+20,2435954,4,E @ Lemoore Depot,"21/Lemoore NAS, 30/Lemoore - North, 31/Lemoore - South"
+20,2436013,5,Navy Exchange Center,21/Lemoore NAS
+20,2435952,6,Franklin @ Transportation Center,21/Lemoore NAS
+20,2435951,7,Franklin & Enterprise,21/Lemoore NAS
+20,2435950,8,Franklin @ Pedestrian Bridge,21/Lemoore NAS
+20,2436010,9,Franklin @ McDonalds,21/Lemoore NAS
+20,2435949,10,Franklin @ Spuds,21/Lemoore NAS
+20,2436011,11,NAS Hospital East End,21/Lemoore NAS
+20,2436012,12,NAS Hospital West End,21/Lemoore NAS
+20,2436014,13,Fleet & Family Support Center,21/Lemoore NAS
+20,2435948,14,Franklin @ Spuds,21/Lemoore NAS
+20,2435947,15,Franklin @ Pedestrian Bridge,21/Lemoore NAS
+20,2435946,16,Enterprise @ Training Center,21/Lemoore NAS
+20,2435953,17,Naval Air Station Exit,21/Lemoore NAS
+20,2435954,18,E @ Lemoore Depot,"21/Lemoore NAS, 30/Lemoore - North, 31/Lemoore - South"
+20,2435955,19,D @ Best Western,21/Lemoore NAS
+20,2436072,20,11th across Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+20,2436128,21,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+21,2435954,1,E @ Lemoore Depot,"21/Lemoore NAS, 30/Lemoore - North, 31/Lemoore - South"
+21,2435879,2,Fox across Leprino's,30/Lemoore - North
+21,2435878,3,Fox & Cinnamon,30/Lemoore - North
+21,2435877,4,Fox @ Lions Park,30/Lemoore - North
+21,2435876,5,Fox @ K-Mart,30/Lemoore - North
+21,2435875,6,Antelope & Burlwood,30/Lemoore - North
+21,2435874,7,Antelope & Spruce,30/Lemoore - North
+21,2435850,8,Hazelwood & Quandt,30/Lemoore - North
+21,2435873,9,Hazelwood & Beverly,30/Lemoore - North
+21,2435935,10,Hanford Armona & Cinnamon,"12/Avenal, 20/Hanford - Armona - Lemoore, 30/Lemoore - North"
+21,2435851,11,Cinnamon @ RiteAid,30/Lemoore - North
+21,2435872,12,Hanford-Armona @ Walgreens,30/Lemoore - North
+21,2435871,13,Hanford-Armona @ Kings Estates Mobile Park,30/Lemoore - North
+21,2435870,14,Hanford Armona @ Lemoore Mobile Park,30/Lemoore - North
+21,2435856,15,19th & Noble,30/Lemoore - North
+21,2435869,16,Cinnamon @ Lemoore Recreation Center,30/Lemoore - North
+21,2435908,17,Follett @ Cinnamon Villa Apartments,"20/Hanford - Armona - Lemoore, 30/Lemoore - North"
+21,2435954,18,E @ Lemoore Depot,"21/Lemoore NAS, 30/Lemoore - North, 31/Lemoore - South"
+22,2435954,1,E @ Lemoore Depot,"21/Lemoore NAS, 30/Lemoore - North, 31/Lemoore - South"
+22,2435879,2,Fox across Leprino's,30/Lemoore - North
+22,2435878,3,Fox & Cinnamon,30/Lemoore - North
+22,2435877,4,Fox @ Lions Park,30/Lemoore - North
+22,2435876,5,Fox @ K-Mart,30/Lemoore - North
+22,2435875,6,Antelope & Burlwood,30/Lemoore - North
+22,2435874,7,Antelope & Spruce,30/Lemoore - North
+22,2435850,8,Hazelwood & Quandt,30/Lemoore - North
+22,2435873,9,Hazelwood & Beverly,30/Lemoore - North
+22,2435935,10,Hanford Armona & Cinnamon,"12/Avenal, 20/Hanford - Armona - Lemoore, 30/Lemoore - North"
+22,2435851,11,Cinnamon @ RiteAid,30/Lemoore - North
+22,2435872,12,Hanford-Armona @ Walgreens,30/Lemoore - North
+22,2435871,13,Hanford-Armona @ Kings Estates Mobile Park,30/Lemoore - North
+22,2435870,14,Hanford Armona @ Lemoore Mobile Park,30/Lemoore - North
+22,2435856,15,19th & Noble,30/Lemoore - North
+22,2435869,16,Cinnamon @ Lemoore Recreation Center,30/Lemoore - North
+22,2435908,17,Follett @ Cinnamon Villa Apartments,"20/Hanford - Armona - Lemoore, 30/Lemoore - North"
+22,2435954,18,E @ Lemoore Depot,"21/Lemoore NAS, 30/Lemoore - North, 31/Lemoore - South"
+23,2435954,1,E @ Lemoore Depot,"21/Lemoore NAS, 30/Lemoore - North, 31/Lemoore - South"
+23,2435868,2,E @ Senior Living Apartments,31/Lemoore - South
+23,2436084,3,19th @ Lemoore Soccer Complex,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+23,2435857,4,Cinnamon & Holly,31/Lemoore - South
+23,2435858,5,Cinnamon & Dogwood,31/Lemoore - South
+23,2435859,6,19 1/2 @ The Grove Apts,31/Lemoore - South
+23,2436107,7,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+23,2436083,8,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+23,2436106,9,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+23,2435867,10,19th @ Montgomery Apartments,31/Lemoore - South
+23,2435866,11,19th @ Best Buy Market,31/Lemoore - South
+23,2435865,12,Bush @ Lemoore Elementary School,31/Lemoore - South
+23,2435864,13,Bush @ Lemoore High School,31/Lemoore - South
+23,2435863,14,Bush @ Life Way Church,31/Lemoore - South
+23,2435862,15,Bush & D,31/Lemoore - South
+23,2435956,16,D @ Central Valley Health Center,"21/Lemoore NAS, 31/Lemoore - South"
+23,2435861,17,D & Smith,31/Lemoore - South
+23,2435860,18,D across Chevron,31/Lemoore - South
+23,2435954,19,E @ Lemoore Depot,"21/Lemoore NAS, 30/Lemoore - North, 31/Lemoore - South"
+24,2435954,1,E @ Lemoore Depot,"21/Lemoore NAS, 30/Lemoore - North, 31/Lemoore - South"
+24,2435868,2,E @ Senior Living Apartments,31/Lemoore - South
+24,2436084,3,19th @ Lemoore Soccer Complex,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+24,2435857,4,Cinnamon & Holly,31/Lemoore - South
+24,2435858,5,Cinnamon & Dogwood,31/Lemoore - South
+24,2435859,6,19 1/2 @ The Grove Apts,31/Lemoore - South
+24,2436107,7,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+24,2436083,8,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+24,2436106,9,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
+24,2435867,10,19th @ Montgomery Apartments,31/Lemoore - South
+24,2435866,11,19th @ Best Buy Market,31/Lemoore - South
+24,2435865,12,Bush @ Lemoore Elementary School,31/Lemoore - South
+24,2435864,13,Bush @ Lemoore High School,31/Lemoore - South
+24,2435863,14,Bush @ Life Way Church,31/Lemoore - South
+24,2435862,15,Bush & D,31/Lemoore - South
+24,2435956,16,D @ Central Valley Health Center,"21/Lemoore NAS, 31/Lemoore - South"
+24,2435861,17,D & Smith,31/Lemoore - South
+24,2435860,18,D across Chevron,31/Lemoore - South
+24,2435954,19,E @ Lemoore Depot,"21/Lemoore NAS, 30/Lemoore - North, 31/Lemoore - South"
+25,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+25,2435989,2,7th @ Union Bank,2/Orange Line
+25,2435988,3,7th & Douty,2/Orange Line
+25,2435987,4,7th & Brown,2/Orange Line
+25,2435986,5,7th & East,2/Orange Line
+25,2436132,6,10th @ Carwash,2/Orange Line
+25,2436052,7,10th & Myrtle,2/Orange Line
+25,2436051,8,10th @ Fraternal Hall,2/Orange Line
+25,2436050,9,10th & Malone,2/Orange Line
+25,2436080,10,10th & Grangeville,2/Orange Line
+25,2435985,11,10th & Leland,2/Orange Line
+25,2435984,12,10th & Birch,2/Orange Line
+25,2435983,13,Fargo @ Rite Aid,2/Orange Line
+25,2436129,14,Douty & Fargo,2/Orange Line
+25,2436079,15,Douty & Cortner,2/Orange Line
+25,2435982,16,Douty & Leland,2/Orange Line
+25,2435981,17,Douty across High School,2/Orange Line
+25,2436049,18,Douty & Malone,2/Orange Line
+25,2435980,19,Douty across Community Care,2/Orange Line
+25,2436078,20,Douty & 11th,2/Orange Line
+25,2436048,21,Douty @ Civic Center,2/Orange Line
+25,2435979,22,8th & Irwin,2/Orange Line
+25,2436128,23,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+26,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+26,2435989,2,7th @ Union Bank,2/Orange Line
+26,2435988,3,7th & Douty,2/Orange Line
+26,2435987,4,7th & Brown,2/Orange Line
+26,2435986,5,7th & East,2/Orange Line
+26,2436132,6,10th @ Carwash,2/Orange Line
+26,2436052,7,10th & Myrtle,2/Orange Line
+26,2436051,8,10th @ Fraternal Hall,2/Orange Line
+26,2436050,9,10th & Malone,2/Orange Line
+26,2436080,10,10th & Grangeville,2/Orange Line
+26,2435985,11,10th & Leland,2/Orange Line
+26,2435984,12,10th & Birch,2/Orange Line
+26,2435983,13,Fargo @ Rite Aid,2/Orange Line
+26,2436129,14,Douty & Fargo,2/Orange Line
+26,2436079,15,Douty & Cortner,2/Orange Line
+26,2435982,16,Douty & Leland,2/Orange Line
+26,2435981,17,Douty across High School,2/Orange Line
+26,2436049,18,Douty & Malone,2/Orange Line
+26,2435980,19,Douty across Community Care,2/Orange Line
+26,2436078,20,Douty & 11th,2/Orange Line
+26,2436048,21,Douty @ Civic Center,2/Orange Line
+26,2435979,22,8th & Irwin,2/Orange Line
+26,2436128,23,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+27,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+27,2436009,2,11th @ Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+27,2436076,3,11th @ Castle Square,"5/Pink Line, 8/Gray Line"
+27,2436075,4,11th & Washington,"5/Pink Line, 8/Gray Line"
+27,2435928,5,11th @ DMV,5/Pink Line
+27,2435927,6,11th & Marconi,5/Pink Line
+27,2436074,7,Hume & 11th,5/Pink Line
+27,2436140,8,Hume & Echo,5/Pink Line
+27,2436139,9,Hume @ Butternut,5/Pink Line
+27,2436073,10,12th & Freestone,5/Pink Line
+27,2435926,11,Hanford Armona & 12th,5/Pink Line
+27,2435925,12,Hanford Armona @ Centennial Park,5/Pink Line
+27,2435924,13,Hanford Armona & 11 1/2,5/Pink Line
+27,2436138,14,Hanford Armona & Leslie,5/Pink Line
+27,2435923,15,Jones & Hanford Armona,"5/Pink Line, 8/Gray Line"
+27,2436071,16,Jones @ Amberwood Apartments,"5/Pink Line, 8/Gray Line"
+27,2435922,17,11th @ Amberwood Apartments,"5/Pink Line, 8/Gray Line"
+27,2435921,18,11th & Hanford Armona,"5/Pink Line, 8/Gray Line"
+27,2436008,19,11th & Davis,"5/Pink Line, 8/Gray Line"
+27,2436072,20,11th across Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+27,2436128,21,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+28,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+28,2436009,2,11th @ Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+28,2436076,3,11th @ Castle Square,"5/Pink Line, 8/Gray Line"
+28,2436075,4,11th & Washington,"5/Pink Line, 8/Gray Line"
+28,2435928,5,11th @ DMV,5/Pink Line
+28,2435927,6,11th & Marconi,5/Pink Line
+28,2436074,7,Hume & 11th,5/Pink Line
+28,2436140,8,Hume & Echo,5/Pink Line
+28,2436139,9,Hume @ Butternut,5/Pink Line
+28,2436073,10,12th & Freestone,5/Pink Line
+28,2435926,11,Hanford Armona & 12th,5/Pink Line
+28,2435925,12,Hanford Armona @ Centennial Park,5/Pink Line
+28,2435924,13,Hanford Armona & 11 1/2,5/Pink Line
+28,2436138,14,Hanford Armona & Leslie,5/Pink Line
+28,2435923,15,Jones & Hanford Armona,"5/Pink Line, 8/Gray Line"
+28,2436071,16,Jones @ Amberwood Apartments,"5/Pink Line, 8/Gray Line"
+28,2435922,17,11th @ Amberwood Apartments,"5/Pink Line, 8/Gray Line"
+28,2435921,18,11th & Hanford Armona,"5/Pink Line, 8/Gray Line"
+28,2436008,19,11th & Davis,"5/Pink Line, 8/Gray Line"
+28,2436072,20,11th across Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
+28,2436128,21,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+29,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+29,2436062,2,11th @ Railroad Tracks,"3/Purple Line, 7/Red Line"
+29,2436039,3,Florinda @ Woodrow Wilson School,3/Purple Line
+29,2435978,4,Florinda & Kaweah,3/Purple Line
+29,2435977,5,Florinda & Redington,3/Purple Line
+29,2436061,6,Florinda & Harris,3/Purple Line
+29,2436060,7,Florinda & Green,3/Purple Line
+29,2435976,8,Florinda & 10th,3/Purple Line
+29,2436059,9,Florinda & Whitney,3/Purple Line
+29,2436058,10,Lassen & Florinda,3/Purple Line
+29,2436057,11,Lassen & Fernot,3/Purple Line
+29,2435975,12,9 1/4 @ King Garden Apartments,3/Purple Line
+29,2435974,13,9 1/4 & Elm,3/Purple Line
+29,2436056,14,9 1/4 @ View Road Apartments,3/Purple Line
+29,2435893,15,9 1/4  & Hawthorn ,3/Purple Line
+29,2435892,16,Carolyn & Lacey ,3/Purple Line
+29,2435891,17,Carolyn & El Toro,3/Purple Line
+29,2435890,18,8 3/4 & Carolyn ,3/Purple Line
+29,2435853,19,Lacey @ Costco,3/Purple Line
+29,2435852,20,Lacey & Vidaurri,3/Purple Line
+29,2435854,21,Lacey & Sierra,3/Purple Line
+29,2435855,22,Lacey & Country,3/Purple Line
+29,2435845,23,Lacey @ Victory Outreach,3/Purple Line
+29,2435973,24,Lacey @ Kings Bowling Alley,3/Purple Line
+29,2435972,25,Lacey @ Americas Best Value Inn,3/Purple Line
+29,2436055,26,Lacey @ Smart & Final,3/Purple Line
+29,2435971,27,Lacey & Miller,3/Purple Line
+29,2435970,28,7th @ United Market,3/Purple Line
+29,2435969,29,7th & Brown,3/Purple Line
+29,2436054,30,7th & Douty,3/Purple Line
+29,2436053,31,7th & Redington,3/Purple Line
+29,2436128,32,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+30,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+30,2436062,2,11th @ Railroad Tracks,"3/Purple Line, 7/Red Line"
+30,2436039,3,Florinda @ Woodrow Wilson School,3/Purple Line
+30,2435978,4,Florinda & Kaweah,3/Purple Line
+30,2435977,5,Florinda & Redington,3/Purple Line
+30,2436061,6,Florinda & Harris,3/Purple Line
+30,2436060,7,Florinda & Green,3/Purple Line
+30,2435976,8,Florinda & 10th,3/Purple Line
+30,2436059,9,Florinda & Whitney,3/Purple Line
+30,2436058,10,Lassen & Florinda,3/Purple Line
+30,2436057,11,Lassen & Fernot,3/Purple Line
+30,2435975,12,9 1/4 @ King Garden Apartments,3/Purple Line
+30,2435974,13,9 1/4 & Elm,3/Purple Line
+30,2436056,14,9 1/4 @ View Road Apartments,3/Purple Line
+30,2435893,15,9 1/4  & Hawthorn ,3/Purple Line
+30,2435892,16,Carolyn & Lacey ,3/Purple Line
+30,2435891,17,Carolyn & El Toro,3/Purple Line
+30,2435890,18,8 3/4 & Carolyn ,3/Purple Line
+30,2435853,19,Lacey @ Costco,3/Purple Line
+30,2435852,20,Lacey & Vidaurri,3/Purple Line
+30,2435854,21,Lacey & Sierra,3/Purple Line
+30,2435855,22,Lacey & Country,3/Purple Line
+30,2435845,23,Lacey @ Victory Outreach,3/Purple Line
+30,2435973,24,Lacey @ Kings Bowling Alley,3/Purple Line
+30,2435972,25,Lacey @ Americas Best Value Inn,3/Purple Line
+30,2436055,26,Lacey @ Smart & Final,3/Purple Line
+30,2435971,27,Lacey & Miller,3/Purple Line
+30,2435970,28,7th @ United Market,3/Purple Line
+30,2435969,29,7th & Brown,3/Purple Line
+30,2436054,30,7th & Douty,3/Purple Line
+30,2436053,31,7th & Redington,3/Purple Line
+30,2436128,32,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+31,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+31,2436062,2,11th @ Railroad Tracks,"3/Purple Line, 7/Red Line"
+31,2436038,3,11th & Cameron,7/Red Line
+31,2436037,4,Grangeville & 11th,7/Red Line
+31,2435918,5,Grangeville & Rodgers,7/Red Line
+31,2435907,6,Grangeville & University,7/Red Line
+31,2435917,7,Grangeville & Fitzgerald,7/Red Line
+31,2435916,8,Grangeville & Vintage,7/Red Line
+31,2435895,9,Centennial & W Merritt,7/Red Line
+31,2435894,10,Centennial & Charlie Chambers,7/Red Line
+31,2436036,11,Lacey & Centennial,"12/Avenal, 14/Laton, 7/Red Line"
+31,2435930,12,Lacey @ Hanford Mall,"12/Avenal, 14/Laton, 7/Red Line"
+31,2435929,13,Lacey @ Cancer Center,"12/Avenal, 14/Laton, 7/Red Line"
+31,2436035,14,Lacey @ Chubby's,"12/Avenal, 14/Laton, 7/Red Line"
+31,2436034,15,Lacey & Greenfield,"12/Avenal, 14/Laton, 7/Red Line"
+31,2436128,16,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+32,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+32,2436062,2,11th @ Railroad Tracks,"3/Purple Line, 7/Red Line"
+32,2436038,3,11th & Cameron,7/Red Line
+32,2436037,4,Grangeville & 11th,7/Red Line
+32,2435918,5,Grangeville & Rodgers,7/Red Line
+32,2435907,6,Grangeville & University,7/Red Line
+32,2435917,7,Grangeville & Fitzgerald,7/Red Line
+32,2435916,8,Grangeville & Vintage,7/Red Line
+32,2435895,9,Centennial & W Merritt,7/Red Line
+32,2435894,10,Centennial & Charlie Chambers,7/Red Line
+32,2436036,11,Lacey & Centennial,"12/Avenal, 14/Laton, 7/Red Line"
+32,2435930,12,Lacey @ Hanford Mall,"12/Avenal, 14/Laton, 7/Red Line"
+32,2435929,13,Lacey @ Cancer Center,"12/Avenal, 14/Laton, 7/Red Line"
+32,2436035,14,Lacey @ Chubby's,"12/Avenal, 14/Laton, 7/Red Line"
+32,2436034,15,Lacey & Greenfield,"12/Avenal, 14/Laton, 7/Red Line"
+32,2436128,16,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+33,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+33,2435902,2,Noble & Akers,15/Visalia
+33,2435901,3,Noble @ Save Mart,15/Visalia
+33,2436018,4,COS Visalia Campus,15/Visalia
+33,2435900,5,Mooney @ Visalia Mall,15/Visalia
+33,2435903,6,Mooney @ Wendy's,15/Visalia
+33,2435911,7,Mooney @ Sequoia Mall,15/Visalia
+33,2435904,8,Court & Caldwell,15/Visalia
+33,2435899,9,Court @ Visalia Imaging,15/Visalia
+33,2435909,10,Visalia Transit Center,15/Visalia
+33,2435906,11,Mineral King @ Kaweah Delta Hospital,15/Visalia
+33,2435898,12,Mineral King @ Marie Callender's,15/Visalia
+33,2435848,13,Mineral King Ave  @ Valley Childrens Clinic,15/Visalia
+33,2436128,14,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+34,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+34,2435889,2,7th @ Medical Centers,9/Yellow Line
+34,2435888,3,Kings County Court House,9/Yellow Line
+34,2435887,4,12th @ Centennial Plaza,9/Yellow Line
+34,2436122,5,Lacey @ Centennial Plaza,"12/Avenal, 14/Laton, 6/Blue Line, 9/Yellow Line"
+34,2436121,6,Lacey @ Heritage Park Senior Center,9/Yellow Line
+34,2435886,7,Lacey @ Four Seasons Mobile Park,9/Yellow Line
+34,2435885,8,COS & Sierra Pacific High School,9/Yellow Line
+34,2435884,9,Greenfield & Pleasant,9/Yellow Line
+34,2435883,10,Greenfield @ Youth Athletic Complex,9/Yellow Line
+34,2435882,11,Greenfield @ Greenfiled Village Apartments,9/Yellow Line
+34,2435881,12,Greenfield @ Medical Offices,9/Yellow Line
+34,2436128,13,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+35,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+35,2435889,2,7th @ Medical Centers,9/Yellow Line
+35,2435888,3,Kings County Court House,9/Yellow Line
+35,2435887,4,12th @ Centennial Plaza,9/Yellow Line
+35,2436122,5,Lacey @ Centennial Plaza,"12/Avenal, 14/Laton, 6/Blue Line, 9/Yellow Line"
+35,2436121,6,Lacey @ Heritage Park Senior Center,9/Yellow Line
+35,2435886,7,Lacey @ Four Seasons Mobile Park,9/Yellow Line
+35,2435885,8,COS & Sierra Pacific High School,9/Yellow Line
+35,2435884,9,Greenfield & Pleasant,9/Yellow Line
+35,2435883,10,Greenfield @ Youth Athletic Complex,9/Yellow Line
+35,2435882,11,Greenfield @ Greenfiled Village Apartments,9/Yellow Line
+35,2435881,12,Greenfield @ Medical Offices,9/Yellow Line
+35,2436128,13,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"

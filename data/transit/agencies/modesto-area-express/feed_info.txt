@@ -1,0 +1,2 @@
+feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date
+http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 12-Dec-2017 18:49,,support+modesto-ca-us@trilliumtransit.com,http://support.trilliumtransit.com,20171212,20190101

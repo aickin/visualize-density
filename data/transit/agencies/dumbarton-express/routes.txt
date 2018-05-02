@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+"DB1","DE",DB1,Dumbarton Express,"",3,"","",""
+"DB","DE",DB,Dumbarton Express,"",3,"","",""

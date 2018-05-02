@@ -1,0 +1,7 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color,route_url
+801,,Metro Blue Line (801),,0,004DAC,FFFFFF,http://www.metro.net/around/rail/blue-line/
+802,,Metro Red Line (802),,1,EE3A43,FFFFFF,http://www.metro.net/around/rail/red-line/
+803,,Metro Green Line (803),,0,2EAB00,FFFFFF,http://www.metro.net/around/rail/green-line/
+804,,Metro Gold Line (804),,0,DA7C20,FFFFFF,http://www.metro.net/around/rail/gold-line/
+806,,Metro Expo Line (806),,0,0177A5,FFFFFF,http://www.metro.net/around/rail/expo-line/
+805,,Metro Purple Line (805),,1,9561A9,FFFFFF,http://www.metro.net/around/rail/purple-line/

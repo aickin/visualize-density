@@ -1,0 +1,61 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_url,to_from,schedules,stop_alias
+81,Anaheim-ARTIC Metrolink Station,33.802582,-117.877998,81,http://www.metrolinktrains.com/stations/detail/station_id/81.html,BOTH,1,Anaheim
+82,Anaheim Canyon Metrolink Station,33.854176,-117.840523,82,http://www.metrolinktrains.com/stations/detail/station_id/82.html,BOTH,1,Anaheim Canyon
+83,Baldwin Park Metrolink Station,34.086426,-117.957397,83,http://www.metrolinktrains.com/stations/detail/station_id/83.html,BOTH,1,Baldwin Park
+84,Buena Park Metrolink Station,33.875969,-117.986855,84,http://www.metrolinktrains.com/stations/detail/station_id/84.html,BOTH,1,Buena Park
+85,Burbank-Bob Hope Airport Metrolink Station,34.192795,-118.3526,85,http://www.metrolinktrains.com/stations/detail/station_id/85.html,BOTH,1,Burbank-Bob Hope Airport
+86,Downtown Burbank Metrolink Station,34.178944,-118.312866,86,http://www.metrolinktrains.com/stations/detail/station_id/86.html,BOTH,1,Burbank-Downtown
+87,Cal State LA Metrolink Station,34.062119,-118.171646,87,http://www.metrolinktrains.com/stations/detail/station_id/87.html,BOTH,1,Cal State LA
+88,Camarillo Metrolink Station,34.216656,-119.033829,88,http://www.metrolinktrains.com/stations/detail/station_id/88.html,BOTH,1,Camarillo
+89,Chatsworth Metrolink Station,34.253197,-118.599411,89,http://www.metrolinktrains.com/stations/detail/station_id/89.html,BOTH,1,Chatsworth
+90,Claremont Metrolink Station,34.093884,-117.716354,90,http://www.metrolinktrains.com/stations/detail/station_id/90.html,BOTH,1,Claremont
+91,Commerce Metrolink Station,33.990734,-118.143776,91,http://www.metrolinktrains.com/stations/detail/station_id/91.html,BOTH,1,Commerce
+92,Covina Metrolink Station,34.09214,-117.888893,92,http://www.metrolinktrains.com/stations/detail/station_id/92.html,BOTH,1,Covina
+93,Downtown Pomona Metrolink Station,34.058765,-117.750549,93,http://www.metrolinktrains.com/stations/detail/station_id/93.html,BOTH,1,Pomona-Downtown
+94,East Ontario Metrolink Station,34.039909,-117.579521,94,http://www.metrolinktrains.com/stations/detail/station_id/94.html,BOTH,1,Ontario-East
+95,El Monte Metrolink Station,34.076805,-118.0355,95,http://www.metrolinktrains.com/stations/detail/station_id/95.html,BOTH,1,El Monte
+96,Fontana Metrolink Station,34.095165,-117.438095,96,http://www.metrolinktrains.com/stations/detail/station_id/96.html,BOTH,1,Fontana
+97,Fullerton Metrolink Station,33.868698,-117.922295,97,http://www.metrolinktrains.com/stations/detail/station_id/97.html,BOTH,1,Fullerton
+98,Glendale Metrolink Station,34.123341,-118.258926,98,http://www.metrolinktrains.com/stations/detail/station_id/98.html,BOTH,1,Glendale
+99,Industry Metrolink Station,34.007927,-117.845581,99,http://www.metrolinktrains.com/stations/detail/station_id/99.html,BOTH,1,Industry
+100,Irvine Metrolink Station,33.657055,-117.732933,100,http://www.metrolinktrains.com/stations/detail/station_id/100.html,BOTH,1,Irvine
+101,Laguna Niguel/ Mission Viejo Metrolink Station,33.553902,-117.675003,101,http://www.metrolinktrains.com/stations/detail/station_id/101.html,BOTH,1,Laguna Niguel/Mission Viejo
+102,Lancaster Metrolink Station,34.696579,-118.136131,102,http://www.metrolinktrains.com/stations/detail/station_id/102.html,BOTH,1,Lancaster
+103,East Ventura Metrolink Station,34.250793,-119.205025,103,http://www.metrolinktrains.com/stations/detail/station_id/103.html,BOTH,1,Ventura-East
+104,Montclair Metrolink Station,34.094086,-117.69558,104,http://www.metrolinktrains.com/stations/detail/station_id/104.html,BOTH,1,Montclair
+105,Montebello/ Commerce Metrolink Station,34.006962,-118.12561,105,http://www.metrolinktrains.com/stations/detail/station_id/105.html,BOTH,1,Montebello / Commerce
+106,Moorpark Metrolink Station,34.285324,-118.877876,106,http://www.metrolinktrains.com/stations/detail/station_id/106.html,BOTH,1,Moorpark
+107,Newhall Metrolink Station,34.379913,-118.527306,107,http://www.metrolinktrains.com/stations/detail/station_id/107.html,BOTH,1,Newhall
+108,North Main Corona Metrolink Station,33.882195,-117.563454,108,http://www.metrolinktrains.com/stations/detail/station_id/108.html,BOTH,1,Corona-North Main
+109,Northridge Metrolink Station,34.230614,-118.545097,109,http://www.metrolinktrains.com/stations/detail/station_id/109.html,BOTH,1,Northridge
+110,Norwalk/ Santa Fe Springs Metrolink Station,33.916203,-118.060165,110,http://www.metrolinktrains.com/stations/detail/station_id/110.html,BOTH,1,Norwalk/Santa Fe Springs
+111,Oceanside Metrolink Station,33.192554,-117.379875,111,http://www.metrolinktrains.com/stations/detail/station_id/111.html,BOTH,1,Oceanside
+112,Orange Metrolink Station,33.78878,-117.8573,112,http://www.metrolinktrains.com/stations/detail/station_id/112.html,BOTH,1,Orange
+113,Oxnard Metrolink Station,34.199276,-119.176308,113,http://www.metrolinktrains.com/stations/detail/station_id/113.html,BOTH,1,Oxnard
+114,Palmdale Metrolink Station,34.590771,-118.119293,114,http://www.metrolinktrains.com/stations/detail/station_id/114.html,BOTH,1,Palmdale
+115,Pedley Metrolink Station,33.978119,-117.476273,115,http://www.metrolinktrains.com/stations/detail/station_id/115.html,BOTH,1,Pedley
+116,Pomona (North) Metrolink Station,34.093639,-117.753052,116,http://www.metrolinktrains.com/stations/detail/station_id/116.html,BOTH,1,Pomona-North
+117,Via Princessa Metrolink Station,34.408817,-118.469406,117,http://www.metrolinktrains.com/stations/detail/station_id/117.html,BOTH,1,Via Princessa
+118,Rancho Cucamonga Metrolink Station,34.091854,-117.559937,118,http://www.metrolinktrains.com/stations/detail/station_id/118.html,BOTH,1,Rancho Cucamonga
+119,Rialto Metrolink Station,34.096786,-117.371887,119,http://www.metrolinktrains.com/stations/detail/station_id/119.html,BOTH,1,Rialto
+120,Riverside-Downtown Metrolink Station,33.975552,-117.369888,120,http://www.metrolinktrains.com/stations/detail/station_id/120.html,BOTH,1,Riverside-Downtown
+121,Riverside-La Sierra Metrolink Station,33.899925,-117.4702,121,http://www.metrolinktrains.com/stations/detail/station_id/121.html,BOTH,1,Riverside-La Sierra
+122,San Bernardino Metrolink Station,34.104225,-117.310287,122,http://www.metrolinktrains.com/stations/detail/station_id/122.html,BOTH,1,San Bernardino
+123,San Clemente Metrolink Station,33.432076,-117.632736,123,http://www.metrolinktrains.com/stations/detail/station_id/123.html,BOTH,1,San Clemente
+124,San Juan Capistrano Metrolink Station,33.5014,-117.663696,124,http://www.metrolinktrains.com/stations/detail/station_id/124.html,BOTH,1,San Juan Capistrano
+125,Santa Ana Metrolink Station,33.751522,-117.85598,125,http://www.metrolinktrains.com/stations/detail/station_id/125.html,BOTH,1,Santa Ana
+126,Santa Clarita Metrolink Station,34.413437,-118.524818,126,http://www.metrolinktrains.com/stations/detail/station_id/126.html,BOTH,1,Santa Clarita
+127,Simi Valley Metrolink Station,34.270412,-118.695549,127,http://www.metrolinktrains.com/stations/detail/station_id/127.html,BOTH,1,Simi Valley
+128,Sun Valley Metrolink Station,34.222401,-118.373398,128,http://www.metrolinktrains.com/stations/detail/station_id/128.html,BOTH,1,Sun Valley
+129,Sylmar/San Fernando Metrolink Station,34.292591,-118.450172,129,http://www.metrolinktrains.com/stations/detail/station_id/129.html,BOTH,1,Sylmar/San Fernando
+130,Tustin Metrolink Station,33.707966,-117.806015,130,http://www.metrolinktrains.com/stations/detail/station_id/130.html,BOTH,1,Tustin
+131,L. A. Union Station Metrolink Station,34.055729,-118.233513,131,http://www.metrolinktrains.com/stations/detail/station_id/131.html,BOTH,1,L.A. - Union Station
+132,Upland Metrolink Station,34.094501,-117.647507,132,http://www.metrolinktrains.com/stations/detail/station_id/132.html,BOTH,1,Upland
+133,Van Nuys Metrolink Station,34.211559,-118.448219,133,http://www.metrolinktrains.com/stations/detail/station_id/133.html,BOTH,1,Van Nuys
+134,Vincent Grade/Acton Metrolink Station,34.49786,-118.118301,134,http://www.metrolinktrains.com/stations/detail/station_id/134.html,BOTH,1,Vincent Grade/Acton
+135,West Corona Metrolink Station,33.885761,-117.613586,135,http://www.metrolinktrains.com/stations/detail/station_id/135.html,BOTH,1,Corona-West
+141,San Clemente Pier Metrolink Station,33.419476,-117.619598,141,http://www.metrolinktrains.com/stations/detail/station_id/141.html,BOTH,1,San Clemente Pier
+142,Riverside-Hunter Park,33.997517,-117.335518,142,http://www.metrolinktrains.com/stations/detail/station_id/142.html,BOTH,1,Riverside-Hunter Park (coming soon)
+143,Moreno Valley/March Field,33.911469,-117.289215,143,http://www.metrolinktrains.com/stations/detail/station_id/143.html,BOTH,1,Riverside-Moreno Valley/March Field (coming soon)
+144,Perris Downtown,33.785282,-117.229836,144,http://www.metrolinktrains.com/stations/detail/station_id/144.html,BOTH,1,Perris-Downtown (coming soon)
+145,South Perris,33.763752,-117.229836,145,http://www.metrolinktrains.com/stations/detail/station_id/145.html,BOTH,1,Perris-South (coming soon)

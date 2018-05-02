@@ -1,0 +1,14 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,direction0_name,direction1_name
+10866892,SLOT,1A,Johnson/Tank Farm/Airport,,3,https://www.slocity.org/home/showdocument?id=16816,42205F,FFFFFF,Johnson/Orcutt/Marigold Center,
+10866826,SLOT,1B,Broad/Orcutt/Johnson,,3,https://www.slocity.org/home/showdocument?id=16818,8556A3,FFFFFF,A,Performing Arts Center / Ramona at Palomar
+10866895,SLOT,2A,Higuera/LOVR/Madonna,,3,http://www.slocity.org/home/showdocument?id=16888,223F99,FFFFFF,Promenade,A
+10866883,SLOT,2B,Madonna/LOVR/Higuera,,3,https://www.slocity.org/home/showdocument?id=16822,509CD5,FFFFFF,B,Promenade/Irish Hills
+10866897,SLOT,3A,Promenade/LOVR/Cal Poly,,3,http://www.slocity.org/home/showdocument?id=17579,C65427,FFFFFF,Laguna Lane,A
+10866849,SLOT,3B,Cal Poly/LOVR/Amtrak,,3,http://www.slocity.org/home/showdocument?id=17310,F4A31E,000000,A,Kennedy Library/Promenade/Amtrak
+10867636,SLOT,4A,Monterey/Foothill/Cal Poly,,3,https://www.slocity.org/home/showdocument?id=16828,12592E,FFFFFF,University Square/Kennedy Library,B
+10867637,SLOT,4B,Cal Poly/Ramona/Monterey,,3,http://www.slocity.org/home/showdocument?id=17424,24964C,000000,Cal Poly/Ramona at Palomar,B
+11162412,SLOT,6E,6 Express,,3,http://www.slocity.org/home/showdocument?id=17066,D90000,FFFFFF,A,B
+11162259,SLOT,HT,Highland Tripper,,3,http://www.slocity.org/home/showdocument?id=17142,00AEEF,,Highland Drive,
+11096761,SLOT,LT,Laguna Tripper,,3,http://www.slocity.org/home/showdocument?id=16756,FFCC00,000000,Laguna Lane,Transit Center
+11108697,SLOT,SLT,San Luis Drive Tripper,,3,https://www.slocity.org/home/showdocument?id=16606,000080,FFFFFF,SLO High,Downtown
+trolley,SLOT,Tr,Old SLO Trolley,,3,http://www.slocity.org/home/showdocument?id=7603,00B7AE,FFFFFF,Hotels and Marsh Street,

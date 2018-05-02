@@ -1,0 +1,13 @@
+service_id,service_description
+"72877","Weekday"
+"72878","Saturday"
+"72879","Sunday"
+"72880","Weekend"
+"72881","Weekday"
+"72882","Weekday"
+"72883","Mon-Sat"
+"72884","Daily"
+"72885","Mon, Tue, Thurs, Fri, Sun"
+"72886","Tue, Thurs, Sat"
+"72887","Mon, Wed, Fri, Sun"
+"73902","SpecialService"

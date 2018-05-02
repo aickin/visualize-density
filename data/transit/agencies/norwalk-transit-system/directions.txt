@@ -1,0 +1,13 @@
+route_id,direction_id,Direction
+5751,0,Northbound
+5751,1,Southbound
+5795,0,Clockwise
+5795,1,Counterclockwise
+5803,0,Northbound
+5803,1,Southbound
+5850,0,Eastbound
+5850,1,Westbound
+5851,0,Eastbound
+5851,1,Westbound
+5852,0,Northbound
+5852,1,Southbound

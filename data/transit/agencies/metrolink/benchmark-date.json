@@ -1,0 +1,14 @@
+{
+  "weekday": {
+    "date": 20171009,
+    "dayOfWeek": "monday"
+  },
+  "saturday": {
+    "date": 20171007,
+    "dayOfWeek": "saturday"
+  },
+  "sunday": {
+    "date": 20171008,
+    "dayOfWeek": "sunday"
+  }
+}

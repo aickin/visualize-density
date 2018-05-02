@@ -1,0 +1,504 @@
+stop_id,stop_city
+768160,Merced
+768161,Atwater
+768163,Atwater
+768164,Atwater
+768165,Atwater
+768166,Atwater
+768167,Atwater
+768168,Atwater
+768169,Atwater
+768170,Atwater
+768171,Atwater
+768172,Atwater
+768173,Atwater
+768174,Winton
+768175,Winton
+768176,Winton
+768177,Winton
+768178,Winton
+768179,Winton
+768180,Atwater
+768181,Atwater
+768182,Atwater
+768183,Atwater
+768184,Atwater
+768185,Atwater
+768186,Atwater
+768187,Atwater
+768188,Atwater
+768189,Atwater
+768190,Atwater
+768191,Atwater
+768192,Atwater
+768193,Atwater
+768194,Livingston
+768195,Livingston
+768196,Livingston
+768197,Livingston
+768198,Livingston
+768199,Livingston
+768200,Livingston
+768201,Livingston
+768202,Livingston
+768203,Livingston
+768204,Livingston
+768205,Livingston
+768206,Winton
+768207,Winton
+768208,Merced
+768209,Merced
+768210,Merced
+768211,Merced
+768212,Merced
+768213,Dos Palos
+768214,Merced
+768215,Merced
+768219,Merced
+768220,Merced
+768221,Los Banos
+768228,Los Banos
+768230,Los Banos
+768238,Los Banos
+768240,Los Banos
+768241,Los Banos
+768242,Los Banos
+768244,Merced
+768245,Merced
+768247,Merced
+768248,Los Banos
+768253,Merced
+768254,Merced
+768255,Merced
+768256,Merced
+768257,Merced
+768258,Planada
+768259,Planada
+768260,Planada
+768261,Planada
+768262,Planada
+768263,Planada
+768264,Planada
+768265,Planada
+768266,Planada
+768267,Planada
+768268,Planada
+768269,Planada
+768270,Planada
+768271,Merced
+768272,Merced
+768273,Planada
+768274,Le Grand
+768275,Merced
+768276,Turlock
+768277,Turlock
+768278,Merced
+768279,Merced
+768280,Merced
+768281,Delhi
+768282,Delhi
+768283,Delhi
+768284,Delhi
+768285,Delhi
+768286,Delhi
+768287,Delhi
+768288,Delhi
+768289,Delhi
+768290,Delhi
+768291,Delhi
+768292,Merced
+768293,Merced
+768294,Merced
+768295,Merced
+768296,Merced
+768297,Merced
+768298,Atwater
+768299,Atwater
+768300,Merced
+768301,Merced
+768302,Merced
+768303,Merced
+768304,Merced
+768305,Merced
+768306,Merced
+768307,Merced
+768308,Merced
+768309,Merced
+768310,Merced
+768311,Merced
+768312,Merced
+768313,Merced
+768314,Merced
+768315,Merced
+768316,Merced
+768317,Merced
+768318,Atwater
+768319,Los Banos
+768321,Merced
+768322,Merced
+768323,Merced
+768324,Merced
+768325,Livingston
+768326,Merced
+768327,Merced
+768328,Merced
+768329,Merced
+768330,Merced
+768331,Merced
+768332,Merced
+768333,Merced
+768334,Le Grand
+768335,Turlock
+768336,Los Banos
+768339,Los Banos
+768340,Los Banos
+768341,Merced
+768342,Merced
+768343,Merced
+768344,Livingston
+768345,Merced
+768346,Atwater
+768347,Los Banos
+768348,Merced
+768349,Dos Palos
+768350,Dos Palos
+768351,Dos Palos
+768352,Dos Palos
+768353,Merced
+768354,Merced
+768355,Dos Palos
+768356,Dos Palos
+768357,Dos Palos
+768358,Dos Palos
+768359,Merced
+768360,Merced
+768361,Livingston
+768362,Merced
+768363,Turlock
+768364,Delhi
+768365,Livingston
+768366,Livingston
+768367,Atwater
+768368,Atwater
+768369,Atwater
+768370,Atwater
+768371,Atwater
+768372,Atwater
+768373,Winton
+768374,Atwater
+768375,Atwater
+768376,Atwater
+768377,Atwater
+768378,Atwater
+768379,Atwater
+768380,Atwater
+768381,Atwater
+768382,Winton
+768383,Atwater
+768384,Atwater
+768385,Atwater
+768386,Atwater
+768387,Atwater
+768388,Atwater
+768389,Atwater
+768390,Atwater
+768391,Atwater
+768392,Atwater
+768393,Atwater
+768394,Atwater
+768395,Atwater
+768396,Atwater
+768397,Atwater
+768398,Atwater
+768399,Atwater
+768400,Atwater
+768401,Atwater
+768402,Atwater
+768403,Atwater
+768404,Atwater
+768405,Winton
+768406,Atwater
+768407,Atwater
+768408,Winton
+768409,Atwater
+768410,Winton
+768411,Winton
+768412,Atwater
+768413,Atwater
+768414,Atwater
+768415,Atwater
+768416,Atwater
+768417,Merced
+768418,Merced
+768419,Merced
+768420,Merced
+768421,Merced
+768422,Merced
+768423,Merced
+768424,Merced
+768425,Merced
+768426,Merced
+768427,Merced
+768428,Merced
+768429,Merced
+768430,Merced
+768431,Merced
+768432,Merced
+768433,Merced
+768434,Merced
+768435,Merced
+768436,Merced
+768437,Merced
+768438,Merced
+768439,Merced
+768440,Merced
+768441,Merced
+768442,Merced
+768443,Merced
+768444,Merced
+768446,Merced
+768447,Merced
+768448,Merced
+768449,Merced
+768450,Merced
+768451,Merced
+768452,Merced
+768453,Merced
+768454,Merced
+768455,Merced
+768456,Merced
+768457,Merced
+768458,Merced
+768459,Merced
+768460,Merced
+768461,Merced
+768462,Merced
+768463,Merced
+768464,Merced
+768465,Merced
+768466,Merced
+768467,Merced
+768468,Merced
+768469,Merced
+768470,Merced
+768471,Merced
+768472,Merced
+768473,Merced
+768474,Merced
+768475,Merced
+768476,Merced
+768477,Merced
+768478,Merced
+768479,Merced
+768480,Merced
+768481,Merced
+768482,Merced
+768483,Merced
+768484,Merced
+768485,Merced
+768486,Merced
+768487,Merced
+768488,Merced
+768489,Merced
+768490,Merced
+768491,Merced
+768492,Merced
+768493,Merced
+768494,Merced
+768495,Merced
+768496,Merced
+768497,Merced
+768498,Merced
+768499,Merced
+768500,Merced
+768501,Merced
+768502,Merced
+768503,Merced
+768504,Merced
+768505,Merced
+768506,Merced
+768507,Merced
+768508,Merced
+768509,Merced
+768510,Merced
+768511,Merced
+768512,Merced
+768513,Merced
+768514,Merced
+768515,Merced
+768516,Merced
+768517,Merced
+768518,Merced
+768519,Merced
+768520,Merced
+768521,Merced
+768522,Merced
+768523,Merced
+768524,Merced
+768525,Merced
+768526,Merced
+768527,Merced
+768528,Merced
+768529,Merced
+768530,Merced
+768531,Merced
+768532,Merced
+768533,Merced
+768534,Merced
+768535,Merced
+768536,Merced
+768537,Merced
+768538,Merced
+768539,Merced
+768540,Merced
+768541,Merced
+768542,Merced
+768543,Merced
+768544,Merced
+768545,Merced
+768546,Merced
+768547,Merced
+768548,Merced
+768549,Merced
+768550,Merced
+768551,Merced
+768552,Merced
+768553,Merced
+768554,Merced
+768555,Merced
+768556,Merced
+768557,Merced
+768558,Merced
+768559,Merced
+768560,Merced
+768561,Merced
+768562,Merced
+768563,Merced
+768564,Merced
+768565,Merced
+768566,Merced
+768567,Merced
+768568,Merced
+768569,Merced
+768570,Merced
+768571,Merced
+768572,Merced
+768573,Merced
+768574,Merced
+768575,Merced
+768576,Merced
+768577,Merced
+768578,Merced
+768579,Merced
+768580,Merced
+768581,Merced
+768582,Merced
+768583,Merced
+768584,Merced
+768585,Merced
+768586,Merced
+768587,Merced
+768588,Merced
+768589,Merced
+768590,Merced
+768592,Los Banos
+768593,Los Banos
+768596,Los Banos
+768597,Los Banos
+768599,Los Banos
+768602,Los Banos
+768604,Los Banos
+768605,Los Banos
+768607,Los Banos
+768608,Los Banos
+768610,Los Banos
+768614,Los Banos
+768620,Los Banos
+768622,Los Banos
+768623,Los Banos
+768626,Los Banos
+768627,Los Banos
+768628,Los Banos
+768634,Dos Palos
+768635,Dos Palos
+768636,Dos Palos
+768637,Dos Palos
+768638,El Nido
+768639,El Nido
+768640,Le Grand
+768641,Le Grand
+768642,Planada
+768643,Planada
+768644,Planada
+770323,Gustine
+770324,Newman
+770325,Los Banos
+770326,Los Banos
+770327,Gustine
+781812,
+781813,
+781814,
+781815,
+781816,
+781906,
+781907,
+781908,
+781909,
+781911,
+781912,
+781913,
+781915,
+781916,
+781917,
+781921,
+781922,
+781923,
+781924,
+781925,
+781926,
+781927,
+781928,
+781929,
+781930,
+781931,
+781932,
+781933,
+781934,
+781935,
+781936,
+781937,
+781938,
+781939,
+781940,
+781941,
+781942,
+781943,
+781944,
+781945,
+781946,
+781947,
+781948,
+781949,
+781950,
+781952,
+781953,
+781954,
+781955,
+781956,
+781994,
+782478,
+782479,
+782480,
+782481,
+782482,
+782483,
+782484,
+782485,
+782486,
+782487,
+782488,
+782489,
+835001,
+835719,
+844203,
+844204,

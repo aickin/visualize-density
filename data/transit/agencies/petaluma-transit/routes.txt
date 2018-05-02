@@ -1,0 +1,13 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+267,2036,2,Route 2,,3,http://transit.cityofpetaluma.net/routes/route-2/,ee1f23,ffffff,0,60
+267,2037,3,Route 3,,3,http://transit.cityofpetaluma.net/routes/route-3/,36c3f2,000000,1,60
+267,5270,312,Route 312,312 Casa Grande HS to ETC,3,http://transit.cityofpetaluma.net/wp-content/uploads/2017/08/Youth-Rider-Guide.png,4b5e4f,f7fbf8,10,60
+267,2035,501,Route 501,"Route 501, formerly named Route 5",3,http://transit.cityofpetaluma.net/wp-content/uploads/2017/08/Youth-Rider-Guide.png,690303,f7f4f4,11,22
+267,2034,10,Route 10,"Route 10, SMART, Downtown Petaluma, Petaluma Blvd. North",3,http://transit.cityofpetaluma.net/routes/route-10/,820404,fbf9f9,2,60
+267,2039,11,Route 11,Route 11 - Petaluma Crosstown,3,http://transit.cityofpetaluma.net/routes/route-11/,884b9d,ffffff,3,60
+267,2040,24,Route 24,Route 24 - SMART to Kaiser via Lakeville,3,http://transit.cityofpetaluma.net/routes/route-24/,f9a91b,000000,4,30
+267,2038,33,Route 33,"Route 33, East Petaluma Counterclockwise",3,http://transit.cityofpetaluma.net/routes/route-33/,1250a3,ffffff,5,60
+267,9748,301,Route 301,,3,,4bb36a,ffffff,6,
+267,2052,302,Route 302,Route 302 - Meadow School-CGHS-N. McDowell Blvd via SMP,3,http://transit.cityofpetaluma.net/wp-content/uploads/2017/08/Youth-Rider-Guide.png,964a85,f6f0f0,7,
+267,2051,303,Route 303,,3,http://transit.cityofpetaluma.net/wp-content/uploads/2017/08/Youth-Rider-Guide.png,1b4853,ffffff,8,60
+267,2049,311,Route 311,,3,http://transit.cityofpetaluma.net/wp-content/uploads/2017/08/Youth-Rider-Guide.png,ef0f2a,ffffff,9,

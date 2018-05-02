@@ -1,0 +1,207 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+20335,31,,Stop 31-Sierra Manor / Sierra Nevada ,,37.6423122541242,-118.964955210686,254,,0,,America/Los_Angeles,,,0
+20506,,,Big Pine (Reynolds Rd),,37.179962,-118.30777,258,,0,,America/Los_Angeles,,,0
+20292,17,,Stop 17-Main St / Minaret Rd,,37.648643,-118.9823,254,,0,,America/Los_Angeles,,,0
+20305,80,,Stop 80-Lakeview Blvd /  Lakeview Villas ,,37.64661,-118.987549,254,,0,,America/Los_Angeles,,,0
+20404,R6,,Devils Postpile ,,37.63007,-119.084602,254,,0,,America/Los_Angeles,,,0
+20502,,,Topaz Lodge,,38.694702,-119.548439,275,,0,,America/Los_Angeles,,,0
+20273,,,Gardnerville - (near Smith's) 1341 US 395,,38.936871,-119.739983,277,,0,,America/Los_Angeles,,,0
+20250,,,Lancaster - Metrolink 44812 Sierra Hwy,,34.696209,-118.136436,265,,0,,America/Los_Angeles,,,0
+20308,VM,,The Village / Minaret St ,,37.650162,-118.98465,254,,0,,America/Los_Angeles,,,0
+20291,16,,Stop 16-Main St / W of Frontage Rd,,37.648781,-118.97953,254,,0,,America/Los_Angeles,,,0
+20412,54,,Stop 54-Majestic Pines / Monterey Pines ,,37.637566,-118.989075,,,0,,America/Los_Angeles,,,0
+20374,60,,Stop 60-College Parkway / College ,,37.638649,-118.957161,254,,0,,America/Los_Angeles,,,0
+20362,49,,Stop 49-Meridian / North of Minaret ,,37.638451,-118.980949,254,,0,,America/Los_Angeles,,,0
+20354,45,,Stop 45-Meridian / OMR ,,37.64019,-118.968147,254,,0,,America/Los_Angeles,,,0
+20262,,,Tom's Place - 8180 Crowley Lake Drive,,37.561359,-118.681168,256,,0,,America/Los_Angeles,,,0
+20411,,,Minaret Vista ,,37.654041,-119.057968,,,0,,America/Los_Angeles,,,0
+20364,50,,Stop 50-Meridian / Holiday Vista  ,,37.636742,-118.982117,254,,0,,America/Los_Angeles,,,0
+20265,,,Mammoth Lakes McDonalds,,37.645668,-118.964325,254,,0,,America/Los_Angeles,,,0
+20266,,,June Lake Junction - US 395 & SR158,,37.812729,-119.05397,296,,0,,America/Los_Angeles,,,0
+20267,,,Lee Vining - Caltrans Maintenance Yard,,37.959019,-119.120857,294,,0,,America/Los_Angeles,,,0
+840992,,,June Lake Beach,,37.7943768516806,-119.065574128497,296,,0,,America/Los_Angeles,,,0
+20394,101,,Stop 101-Lake Mary Loop Rd / Lake George Rd ,,37.6030797,-119.0079837,254,,0,,America/Los_Angeles,,,0
+20300,75,,Stop 75-Lakeview Blvd / Mtn Back ,,37.644272,-118.995422,254,,0,,America/Los_Angeles,,,0
+20510,,,Hamill Valley,,37.680458,-118.409752,270,,0,,America/Los_Angeles,,,0
+20400,R2,,Starkweather Lake ,,37.664322,-119.073517,254,,0,,America/Los_Angeles,,,0
+20333,29,,Stop 29-Welcome Center Parking Lot,,37.64756,-118.959793,254,,0,,America/Los_Angeles,,,0
+20395,102,,Stop 102-Lake Mary Loop Rd / Pokonobe Lodge ,,37.608158,-119.005119,254,,0,,America/Los_Angeles,,,0
+20515,,,Tecopa,,35.869293,-116.233322,280,,0,,America/Los_Angeles,,,0
+20298,Canyon,,Canyon Lodge @ Canyon Lodge ,,37.645243993108,-119.00132568084,254,,0,,America/Los_Angeles,,,0
+20347,40,,Stop 40-Lupin / S of Dorance Rd. ,,37.643398,-118.975723,254,,0,,America/Los_Angeles,,,0
+20341,36,,Stop 36-Lupin / N of Dorance Rd ,,37.64492,-118.976044,254,,0,,America/Los_Angeles,,,0
+20355,46,,Stop 46-Meridian / E of Manzanita ,,37.640221,-118.972961,254,,0,,America/Los_Angeles,,,0
+20255,,,Lone Pine - McDonald's 601 S. Main Street,,36.602419,-118.062429,261,,0,,America/Los_Angeles,,,0
+840996,,,Tiger Bar,,37.7798482181372,-119.075436611045,296,,0,,America/Los_Angeles,,,0
+20320,64,,Stop 64-OMR / Mammoth Creek Park ,,37.635651,-118.966614,254,,0,,America/Los_Angeles,,,0
+20370,56,,Stop 56-Kelly Rd. / Tyrol Ln ,,37.64146,-118.991943,254,,0,,America/Los_Angeles,,,0
+20511,,,Benton Reservation,,37.792286,-118.522736,269,,0,,America/Los_Angeles,,,0
+20401,R3,,Upper Soda Springs ,,37.651199,-119.074203,254,,0,,America/Los_Angeles,,,0
+20287,12,,Stop 12-Main St. / Laurel Mt. Rd ,,37.647312,-118.967461,254,,0,,America/Los_Angeles,,,0
+20279,2,,Stop 2-OMR / Ranch Road ,,37.629501,-118.976372,254,,0,,America/Los_Angeles,,,0
+20353,44,,Stop 44-Sierra Nevada / OMR ,,37.6423,-118.967072,254,,0,,America/Los_Angeles,,,0
+20280,3,,Stop 3-Old Mammoth Rd / Minaret,,37.632648,-118.972221,254,,0,,America/Los_Angeles,,,0
+20376,62,,Stop 62-Meridian / Elementary School ,,37.640221,-118.957779,254,,0,,America/Los_Angeles,,,0
+20331,27,,Stop 27-Sierra Park Rd / Mammoth Hospital ,,37.64381,-118.963867,254,,0,,America/Los_Angeles,,,0
+20340,36,,Stop 36-Lupin / N of Dorance Rd ,,37.644699,-118.975906,254,,0,,America/Los_Angeles,,,0
+20393,100,,Stop 100-Lake Mary Loop Rd / Lake Mary Marina ,,37.599121,-118.999008,254,,0,,America/Los_Angeles,,,0
+20383,91,,Stop 91-Lake Mary Road / Lee Road ,,37.641708,-118.994537,254,,0,,America/Los_Angeles,,,0
+20402,R4,,Pumice Flats ,,37.646519,-119.073433,254,,0,,America/Los_Angeles,,,0
+20276,,,Reno/Tahoe International Airport,,39.50724,-119.775452,295,,0,,America/Los_Angeles,,,0
+20326,6,,Stop 6-Chateau ,,37.6371829134192,-118.968565464019,254,,0,,America/Los_Angeles,,,0
+20391,98,,Stop 98-Lake Mary Rd / Riding Stables,,37.61108,-119.002541,254,,0,,America/Los_Angeles,,,0
+20509,,,Benton (Smalley's Market),,37.815845,-118.476379,269,,0,,America/Los_Angeles,,,0
+20256,,,Independence - 168 Edwards Street,,36.802979,-118.199821,260,,0,,America/Los_Angeles,,,0
+20288,13,,Stop 13-Main St. / Post Office ,,37.648178,-118.971718,254,,0,,America/Los_Angeles,,,0
+20380,67,,Stop 67-OMR / Sherwin St,,37.628651,-118.988831,254,,0,,America/Los_Angeles,,,0
+20356,46,,Stop 46-Meridian / E of Manzanita ,,37.640083,-118.973495,254,,0,,America/Los_Angeles,,,0
+20315,11,,Stop 11-OMR / Gateway Ctr ,,37.645561,-118.966331,254,,0,,America/Los_Angeles,,,0
+20282,7,,Stop 7-OMR / Cheatau ,,37.637619,-118.966507,254,,0,,America/Los_Angeles,,,0
+20270,,,Walker - County Store 107700 US 395,,38.51553,-119.477562,273,,0,,America/Los_Angeles,,,0
+20389,96,,Stop 96-Twin Lakes Loop Rd /Twin Lakes Marina ,,37.615891,-119.006332,254,,0,,America/Los_Angeles,,,0
+20307,82,,Stop 82-Horseshoe Dr / Canyon Blvd,,37.6500449759126,-118.987006790005,254,,0,,America/Los_Angeles,,,0
+20358,47,,Stop 47-Meridian /  E of Lupin ,,37.640099,-118.975281,254,,0,,America/Los_Angeles,,,0
+20387,94,,Stop 94-Lake Mary Rd. / Lower Twin Lakes ,,37.62402,-119.00634,254,,0,,America/Los_Angeles,,,0
+840994,,,Gull Lake Marina,,37.7780298181233,-119.080223013032,296,,0,,America/Los_Angeles,,,0
+20392,99,,Stop 99-Lake Mary Loop Rd / Pine City Campground ,,37.60424,-119.000549,254,,0,,America/Los_Angeles,,,0
+20344,38,,Stop 38-S Frontage Rd / Mono St,,37.6484180935629,-118.974780115067,254,,0,,America/Los_Angeles,,,0
+20271,,,Coleville ,,38.566719,-119.507828,274,,0,,America/Los_Angeles,,,0
+20386,92,,Stop 92-Lake Mary Rd. / Bridges Lane ,,37.638851,-118.995827,254,,0,,America/Los_Angeles,,,0
+20283,8,,Stop 8-OMR / Meridian,,37.639389,-118.966621,254,,0,,America/Los_Angeles,,,0
+20360,48,,Stop 48-Meridian / W of Joaquin ,,37.640083,-118.97715,254,,0,,America/Los_Angeles,,,0
+820655,97,,Stop 97-Lake Mary Loop Rd / Old Mammoth Road,,37.615465,-119.002946,254,,0,,America/Los_Angeles,,,0
+841000,,,Whispering Pines Lodge/Double Eagle Resort,,37.7646424522856,-119.116871375907,296,,0,,America/Los_Angeles,,,0
+845128,19,,Stop 19-Wooly's Tube Park,,37.650865043149,-119.00731249762,254,,0,,America/Los_Angeles,,,0
+20359,48,,Stop 48-Meridian / W of Joaquin ,,37.64027,-118.977203,254,,0,,America/Los_Angeles,,,0
+20310,16,,Stop 16-Main St / W of Frontage Rd,,37.648571,-118.978981,254,,0,,America/Los_Angeles,,,0
+20294,70,,Stop 70-Canyon Blvd / Horsehoe Dr. ,,37.649471,-118.989189,254,,0,,America/Los_Angeles,,,0
+21054,Main,,Main Lodge,,37.6508571828493,-119.037573337554,254,,0,,America/Los_Angeles,,,0
+20264,,,Mammoth Airport ,,37.62743,-118.842682,268,,0,,America/Los_Angeles,,,0
+20332,28,,Stop 28-Mammoth RV Park on HWY 203 ,,37.646469,-118.959534,254,,0,,America/Los_Angeles,,,0
+819945,27A,,Stop 27A-Sierra Park Rd/Across from McDonalds ,,37.6462427752374,-118.963914184656,254,,0,,America/Los_Angeles,,,0
+20304,79,,Stop 79-Lakeview Blvd / Crestview ,,37.6458198,-118.9883996,254,,0,,America/Los_Angeles,,,0
+20504,,,Big Pine (Bartell Rd & Newman St),,37.15905,-118.280373,258,,0,,America/Los_Angeles,,,0
+811996,,,"Carson City - Carson Nugget, US 395 & Robinson",,39.1672035180738,-119.765949418316,278,,0,,America/Los_Angeles,,,0
+20338,34,,Stop 34-Manzanita / Dorrance ,,37.64312,-118.97361,254,,0,,America/Los_Angeles,,,0
+20388,95,,Stop 95-Twin Lakes Loop Rd / Tamarack Lodge ,,37.619511,-119.006851,254,,0,,America/Los_Angeles,,,0
+20397,103,,Stop 103-Lake Mary Loop Rd / Wildyrie Lodge ,,37.610561,-119.009872,254,,0,,America/Los_Angeles,,,0
+20277,,,Reno Greyhound 155 Stevenson,,39.525188,-119.818352,295,,0,,America/Los_Angeles,,,0
+20328,18,,Stop 18-Minaret (West) / Across from The Village ,,37.651321,-118.98494,254,,0,,America/Los_Angeles,,,0
+20284,9,,Stop 9-OMR / Meridian ,,37.640671,-118.966408,254,,0,,America/Los_Angeles,,,0
+20253,,,Pearsonville ,,35.798382,-117.871933,297,,0,,America/Los_Angeles,,,0
+20318,8,,Stop 8-OMR / Meridian,,37.639179,-118.966797,254,,0,,America/Los_Angeles,,,0
+20500,,,Lee Vining -Chevron 51557 US 395,,37.958813,-119.121086,294,,0,,America/Los_Angeles,,,0
+20252,,,Inyokern - Classic Burger 6525 W. Inyokern Road,,35.646775,-117.81338,263,,0,,America/Los_Angeles,,,0
+845129,19,,Stop 19-Wooly's Tube Park,,37.6507206359829,-119.007500252251,254,,0,,America/Los_Angeles,,,0
+20375,61,,Stop 61-Meridian / Trails End Skate Park  (summer only),,37.64003,-118.948997,254,,0,,America/Los_Angeles,,,0
+20409,AC,,Adventure Center ,,37.651402,-119.037292,254,,0,,America/Los_Angeles,,,0
+20317,9,,Stop 9-OMR / Meridian ,,37.640751,-118.966637,254,,0,,America/Los_Angeles,,,0
+20403,R5,,Minaret Falls ,,37.638821,-119.07695,254,,0,,America/Los_Angeles,,,0
+20384,91,,Stop 91-Lake Mary Road / Lee Road ,,37.641651,-118.994232,254,,0,,America/Los_Angeles,,,0
+20363,50,,Stop 50-Meridian / Holiday Vista  ,,37.636688,-118.982323,254,,0,,America/Los_Angeles,,,0
+20329,25,,Stop 25-Vons Parking Lot ,,37.638962,-118.966278,254,,0,,America/Los_Angeles,,,0
+20385,92,,Stop 92-Lake Mary Rd. / Bridges Lane ,,37.638489,-118.995888,254,,0,,America/Los_Angeles,,,0
+20293,VC,,The Village / Canyon Blvd ,,37.649765,-118.98526,254,,0,,America/Los_Angeles,,,0
+20366,51,,Stop 51-Meridian / Lodestar Dr. ,,37.636681,-118.984619,254,,0,,America/Los_Angeles,,,0
+20348,42,,Stop 42-Azimuth / N of Meridian ,,37.640999,-118.971123,254,,0,,America/Los_Angeles,,,0
+20345,38,,Stop 38-S Frontage Rd / Mono St,,37.648496261023,-118.97481959983,254,,0,,America/Los_Angeles,,,0
+20350,43,,Stop 43-Sierra Nevada / Arrowhead ,,37.642109,-118.969383,254,,0,,America/Los_Angeles,,,0
+841002,,,Silver Lake Campground,,37.7831647882424,-119.126968551744,296,,0,,America/Los_Angeles,,,0
+20368,55,,Stop 55-Majestic Pines / N of Pinehurst ,,37.64064,-118.99086,254,,0,,America/Los_Angeles,,,0
+21053,93,,Stop 93-Lake Mary Rd / Juniper Dr,,37.6357640518918,-118.996793031693,254,,0,,America/Los_Angeles,,,0
+20390,97,,Stop 97-Lake Mary Loop Rd / Old Mammoth Road,,37.617081,-119.002633,254,,0,,America/Los_Angeles,,,0
+20399,R1,,Agnew Meadows,,37.681149,-119.080673,254,,0,,America/Los_Angeles,,,0
+20357,47,,Stop 47-Meridian / E of Lupin ,,37.640251,-118.975365,254,,0,,America/Los_Angeles,,,0
+20313,13,,Stop 13-Main St. / Post Office ,,37.64785,-118.971123,254,,0,,America/Los_Angeles,,,0
+840997,,,June Mountain Ski Area,,37.770209457905,-119.09040847741,296,,0,,America/Los_Angeles,,,0
+20407,R9,,Rainbow Falls Trailhead ,,37.615292,-119.076279,254,,0,,America/Los_Angeles,,,0
+20259,,,Big Pine - 390 S. Main Street,,37.163998,-118.289642,258,,0,,America/Los_Angeles,,,0
+20322,4,,Stop 4-Minaret / Meadow Ln ,,37.6347954721748,-118.97226691246,254,,0,,America/Los_Angeles,,,0
+20254,,,Olancha - Mobile 105 Hwy 395,,36.28656,-118.010536,262,,0,,America/Los_Angeles,,,0
+20319,7,,Stop 7-OMR / Cheatau ,,37.637531,-118.966698,254,,0,,America/Los_Angeles,,,0
+20501,,,Aberdeen,,36.977383,-118.25415,259,,0,,America/Los_Angeles,,,0
+20260,,,Bishop - Vons/Kmart 1200 N. Main Street,,37.373909,-118.391945,257,,0,,America/Los_Angeles,,,0
+20367,Eagle,,Juniper Springs Resort ,,37.635578,-118.989952,254,,0,,America/Los_Angeles,,,0
+20314,12,,Stop 12-Main St. / Laurel Mt. Rd ,,37.646919,-118.967133,254,,0,,America/Los_Angeles,,,0
+20382,90,,Stop 90-Canyon Blvd / Across From Village ,,37.649551,-118.985329,254,,0,,America/Los_Angeles,,,0
+20296,72,,Stop 72-Canyon Blvd / Forest Trail ,,37.648731,-118.995003,254,,0,,America/Los_Angeles,,,0
+20343,37,,Stop 37-Lupin / S Frontage Rd ,,37.6469,-118.975929,254,,0,,America/Los_Angeles,,,0
+20405,R7,,Sotcher Lake ,,37.627392,-119.076729,254,,0,,America/Los_Angeles,,,0
+20274,,,Gardnerville - KFC 1338 US 395,,38.935322,-119.738922,277,,0,,America/Los_Angeles,,,0
+20377,63,,Stop 63-Azimuth / South of Meridian ,,37.638672,-118.971207,254,,0,,America/Los_Angeles,,,0
+20507,,,Wilkerson,,37.281788,-118.385864,741,,0,,America/Los_Angeles,,,0
+20295,71,,Stop 71-Canyon Blvd / W of Convict Dr. & E of Ridgecrest ,,37.649269,-118.992607,254,,0,,America/Los_Angeles,,,0
+2324950,63,,Stop 63-Azimuth / South of Meridian ,,37.6386705335426,-118.970992352581,,,0,,America/Los_Angeles,,,0
+20361,49,,Stop 49-Meridian / North of Minaret ,,37.63855,-118.98127,254,,0,,America/Los_Angeles,,,0
+20373,57,,Stop 57-Kelly Rd / Lake Mary Rd ,,37.642944,-118.991646,254,,0,,America/Los_Angeles,,,0
+20408,R10,,Reds Meadow Resort ,,37.614719,-119.074867,254,,0,,America/Los_Angeles,,,0
+20352,44,,Stop 44-Sierra Nevada / OMR ,,37.642189,-118.96656,254,,0,,America/Los_Angeles,,,0
+20251,,,Mojave - Carl's Jr 44812 Sierra Hwy,,35.052559,-118.172852,264,,0,,America/Los_Angeles,,,0
+20325,5,,Stop 5-Chateau / West of Azimuth ,,37.637338902086,-118.97098428843,254,,0,,America/Los_Angeles,,,0
+20312,14,,Stop 14-Main ST / E of Mono ,,37.648361,-118.973457,254,,0,,America/Los_Angeles,,,0
+2421479,,,Stop 35A-Manzanita/Frontage Rd,,37.647922296817,-118.9735195252,254,,0,,America/Los_Angeles,,,0
+20379,66,,Stop 66-OMR / Tamarack St.,,37.62833,-118.986145,254,,0,,America/Los_Angeles,,,0
+20281,64,,Stop 64-OMR / Sherwin Creek Rd ,,37.634529,-118.967163,254,,0,,America/Los_Angeles,,,0
+763839,,,Test stop,,36.2820237525748,-118.005867834902,254,,0,,America/Los_Angeles,,,0
+20299,74,,Stop 74-Lakeview Blvd / 1849 ,,37.64439,-118.998947,254,,0,,America/Los_Angeles,,,0
+20311,15,,Stop 15-Main St /  Opposite Joaquin Rd. ,,37.648708956541,-118.977249,254,,0,,America/Los_Angeles,,,0
+20330,26,,Stop 26-Sierra Park Rd / High School ,,37.640881,-118.963913,254,,0,,America/Los_Angeles,,,0
+840993,,,Fire Station/Boulder Lodge,,37.7830937734394,-119.073036033977,296,,0,,America/Los_Angeles,,,0
+2324948,45,,Stop 45-Meridian / OMR,,37.6401073930619,-118.968142505503,,,0,,America/Los_Angeles,,,0
+20346,39,,Stop 39-Lupin / N of Meridian ,,37.64159,-118.975807,254,,0,,America/Los_Angeles,,,0
+20263,,,Crowley Lake - Community Center,,37.56657,-118.741142,255,,0,,America/Los_Angeles,,,0
+20406,R8,,Reds Campground ,,37.619991,-119.076714,254,,0,,America/Los_Angeles,,,0
+20321,3,,Stop 3-Old Mammoth Rd / Minaret,,37.632809,-118.972481,254,,0,,America/Los_Angeles,,,0
+20268,,,Mono City ,,38.045631,-119.160851,294,,0,,America/Los_Angeles,,,0
+20369,55,,Stop 55-Kelly/ Majestic Pines ,,37.640816,-118.991257,254,,0,,America/Los_Angeles,,,0
+840999,,,Yost & Fern Lake Trailhead,,37.7631443921899,-119.11401884662,296,,0,,America/Los_Angeles,,,0
+840998,,,Fern Creek Lodge,,37.7659040646388,-119.104141611922,296,,0,,America/Los_Angeles,,,0
+20505,,,Big Pine (Main St Bus Shelter),,37.16465,-118.289459,258,,0,,America/Los_Angeles,,,0
+20508,,,Benton Station,,37.818672,-118.477654,269,,0,,America/Los_Angeles,,,0
+20371,56,,Stop 56-Kelly Rd. / Tyrol Ln ,,37.64204,-118.991859,254,,0,,America/Los_Angeles,,,0
+20269,,,Bridgeport - 121 Emigrant Street,,38.2573235309,-119.230735302,272,,0,,America/Los_Angeles,,,0
+20365,51,,Stop 51-Meridian / Lodestar Dr. ,,37.636841,-118.984489,254,,0,,America/Los_Angeles,,,0
+20512,,,Chalfant (Store),,37.529663,-118.368889,271,,0,,America/Los_Angeles,,,0
+820710,MMI,,Mammoth Mountain Inn,,37.651358,-119.038753,254,,0,,America/Los_Angeles,,,0
+20516,,,Charleston View ,,35.971886,-115.908348,279,,0,,America/Los_Angeles,,,0
+20334,30,,Stop 30-Sierra Manor / Park Ride ,,37.644371,-118.964851,254,,0,,America/Los_Angeles,,,0
+20306,81,,Stop 81-Lakeview Blvd / Ski & Racquet ,,37.647629,-118.987396,254,,0,,America/Los_Angeles,,,0
+20337,,,(N),,37.641521,-118.97364,254,,0,,America/Los_Angeles,,,0
+20381,68,,Stop 68-OMR / Red Fir ,,37.627869,-118.992027,254,,0,,America/Los_Angeles,,,0
+20323,4,,Stop 4-Minaret / Meadow Ln ,,37.634769,-118.972427,254,,0,,America/Los_Angeles,,,0
+20258,,,Big Pine - 391 S. Main Street ,,37.164223,-118.289413,258,,0,,America/Los_Angeles,,,0
+20336,32,,Stop 32-Sierra Manor / Meridian ,,37.64043,-118.964867,254,,0,,America/Los_Angeles,,,0
+20257,,,Independence - 101 S Edwards Street,,36.802212,-118.199593,260,,0,,America/Los_Angeles,,,0
+20289,14,,Stop 14-Main St / Sierra Blvd ,,37.648777,-118.974884,254,,0,,America/Los_Angeles,,,0
+20303,78,,Stop 78-Lakeview Blvd / Lakeview Rd ,,37.644878,-118.990013,254,,0,,America/Los_Angeles,,,0
+20398,104,,Stop 104-Lake Mary Loop Rd / Horseshoe Lake Parking,,37.61293,-119.021172,254,,0,,America/Los_Angeles,,,0
+21052,93,,Stop 93-Lake Mary Rd / Juniper Dr,,37.6358490144225,-118.996964693069,254,,0,,America/Los_Angeles,,,0
+20635,,,Keoughs,,37.2548240221077,-118.37500333786,740,,0,,America/Los_Angeles,,,0
+845130,33,,Stop 33-Manzanita / N of Meridian,,37.64184755118,-118.97363199902,254,,0,,America/Los_Angeles,,,0
+20261,512,,Round Valley ,Pine Creek & US 395,37.419559,-118.55632,267,,0,,America/Los_Angeles,,,0
+20339,35,,Stop 35-Mono St ,,37.645508,-118.9735,254,,0,,America/Los_Angeles,,,0
+20378,65,,Stop 65-OMR / Aspen Village ,,37.628929,-118.982094,254,,0,,America/Los_Angeles,,,0
+20297,73,,Stop 73-Canyon Blvd / Mammoth West Condo ,,37.647461,-118.998703,254,,0,,America/Los_Angeles,,,0
+20290,15,,Stop 15-Main St. / Mountain ,,37.648869,-118.976898,254,,0,,America/Los_Angeles,,,0
+20309,17,,Stop 17-Main St / Minaret Rd / near chain required sign ,,37.64843,-118.982063,254,,0,,America/Los_Angeles,,,0
+20349,42,,Stop 42-Azimuth / N or Meridian ,,37.640987,-118.971199,254,,0,,America/Los_Angeles,,,0
+20302,77,,Stop 77-Lakeview Blvd / Seasons4,,37.644192,-118.991257,254,,0,,America/Los_Angeles,,,0
+20342,37,,Stop 37-Lupin / S Frontage Rd ,,37.646946,-118.975853,254,,0,,America/Los_Angeles,,,0
+841001,,,Silver Lake Resort,,37.7800994304778,-119.128587264884,296,,0,,America/Los_Angeles,,,0
+20324,5,,Stop 5-Chateau / East of Azimuth ,,37.637206844988,-118.9709316485,254,,0,,America/Los_Angeles,,,0
+840995,,,June Lake Brewing,,37.778425725404,-119.076435733903,296,,0,,America/Los_Angeles,,,0
+20396,102,,Stop 102-Lake Mary Rd / Pokonobe Lodge ,,37.608429,-119.005302,254,,0,,America/Los_Angeles,,,0
+20413,54,,Stop 54-Majestic Pines / Monterey Pines ,,37.637573,-118.988922,,,0,,America/Los_Angeles,,,0
+20285,10,,Stop 10-OMR / Park and Ride ,,37.64452,-118.966057,254,,0,,America/Los_Angeles,,,0
+20272,,,Holbrook Station ,,38.732841,-119.556389,,,0,,America/Los_Angeles,,,0
+20514,,,Shoshone,,35.97448,-116.270416,281,,0,,America/Los_Angeles,,,0
+20503,,,Coso Junction,,36.047623,-117.945396,292,,0,,America/Los_Angeles,,,0
+20301,76,,Stop 76-Lakeview Blvd / Jahan ,,37.644218,-118.992996,254,,0,,America/Los_Angeles,,,0
+20372,57,,Stop 57-Kelly Rd / Lake Mary Rd ,,37.64296,-118.991753,254,,0,,America/Los_Angeles,,,0
+20275,,,"Carson City - Carson Nugget, US 395 & Robinson",,39.16708,-119.76651,278,,0,,America/Los_Angeles,,,0
+20286,11,,Stop 11-OMR / Gateway Ctr ,,37.645809,-118.966011,254,,0,,America/Los_Angeles,,,0
+20278,1,,Stop 1-Snowcreek Athletic Club ,,37.629951,-118.978783,254,,0,,America/Los_Angeles,,,0
+20316,10,,Stop 10-OMR / Park and Ride ,,37.642948,-118.966301,254,,0,,America/Los_Angeles,,,0
+20513,,,Pahrump,,36.21452,-115.993912,282,,0,,America/Los_Angeles,,,0
+20327,6,,Stop 6-Chateau ,,37.63739,-118.96859,254,,0,,America/Los_Angeles,,,0
+20351,43,,Stop 43-Sierra Nevada / Arrowhead ,,37.64217,-118.971024,254,,0,,America/Los_Angeles,,,0

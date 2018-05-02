@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Fresno Public Transportation (FAX),https://www.fresno.gov/transportation/fax/,en,20171113,20180218,Prod 11.13.17_20171106

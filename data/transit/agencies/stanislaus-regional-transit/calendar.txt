@@ -1,0 +1,7 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_2631_b_57_d_32,Year Round (Saturday only),0,0,0,0,0,1,0,20170301,20190101
+c_2631_b_57_d_31,Year Round (Monday-Friday),1,1,1,1,1,0,0,20170301,20190101
+c_2549_b_1037_d_31,Year Round Service (Monday-Friday),1,1,1,1,1,0,0,20170102,20190101
+c_4302_b_4275_d_32,"Starting August 28, 2017 (Saturday only)",0,0,0,0,0,1,0,20170828,20190101
+c_4302_b_4275_d_31,"Starting August 28, 2017 (Monday-Friday)",1,1,1,1,1,0,0,20170828,20190101
+c_2182_b_809_d_31,Year-round Calendar (Monday-Friday),1,1,1,1,1,0,0,20160822,20190101

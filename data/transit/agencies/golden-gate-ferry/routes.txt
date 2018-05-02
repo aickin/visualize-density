@@ -1,0 +1,6 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+"Ala-Oak-SF","SB",Ala-Oak-SF,Alameda - Oakland - San Francisco Ferry,"",4,"","",""
+"Harbor Bay-SF","SB",Harbor Bay-SF,Harbor Bay - San Francisco Ferry Building,"",4,"","",""
+"South SF-East Bay","SB",South SF-East Bay,South SF - Alameda - Oakland,"",4,"","",""
+"South SF-SF","SB",South SF-SF,South San Francisco - San Francisco Ferry Building,"",4,"","",""
+"Vallejo-SF","SB",Vallejo-SF,Vallejo - San Francisco,"",4,"","",""

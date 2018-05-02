@@ -1,0 +1,1038 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+813354,50070,,7th Ave & Minnetonka St,,34.481877,-117.312244,899,,0,,America/Los_Angeles,,,0
+844346,30103,,E Main St between Muriel Dr & Yucca Ave,,34.897696,-117.009783,901,,0,,America/Los_Angeles,,,0
+813161,40060,,7th Ave & Cajon St,,34.428987,-117.314641,899,,0,,America/Los_Angeles,,,0
+813459,40140,,I Ave & Live Oak St,,34.425984,-117.281676,899,,0,,America/Los_Angeles,,,0
+813703,63063,,Phelan Rd & Johnson,,34.426538,-117.555538,900,,0,,America/Los_Angeles,,,0
+813701,63052,,Baldy Mesa Yucca Terrace West side,,34.43346,-117.451185,900,,0,,America/Los_Angeles,,,0
+813056,50284,,Phantom West & Nevada Ave,,34.589642,-117.366813,899,,0,,America/Los_Angeles,,,0
+813503,40143,,I Ave & Mauna Loa St,,34.436965,-117.278988,899,,0,,America/Los_Angeles,,,0
+813200,20167,,Outer Hwy 18 South & Mondamon Rd,,34.5393,-117.261467,899,,0,,America/Los_Angeles,,,0
+813639,40213,,Topaz Ave & Chestnut St,,34.431145,-117.355513,899,,0,,America/Los_Angeles,,,0
+813472,50060,,7th St & Center St,,34.531755,-117.297966,899,,0,,America/Los_Angeles,,,0
+813096,20105,,Hwy 18 South & Bass Hill Rd,,34.52593,-117.220634,899,,0,,America/Los_Angeles,,,0
+813516,50135,,Bear Valley Rd & Tamarisk Rd,,34.471199,-117.272221,899,,0,,America/Los_Angeles,,,0
+844488,30070,,Armory Rd & Deseret Rd,,34.88388,-117.021523,901,,0,,America/Los_Angeles,,,0
+2394809,50015,,VVC Dock 1,,34.474002,-117.265109,899,,0,,America/Los_Angeles,,,0
+813317,50265,,Nisqualli & Cypress,,34.48535,-117.3164,899,,0,,America/Los_Angeles,,,0
+813762,63061,,Phelan Rd & Eaby Rd,,34.426689,-117.538718,900,,0,,America/Los_Angeles,,,0
+813236,50250,,Nevada Ave & Ohio St,,34.57679,-117.365112,899,,0,,America/Los_Angeles,,,0
+2382814,20227,,Waalew Rd at Los Ranchos 2,,34.556886,-117.210085,899,,0,,America/Los_Angeles,,,0
+813377,50073,,7th St & Tatum Rd,,34.524639,-117.304483,899,,0,,America/Los_Angeles,,,0
+813663,50285,,Rodeo Dr & Green Tree Blvd,,34.501621,-117.303851,899,,0,,America/Los_Angeles,,,0
+844441,30182,,W Main St & Ave H,,34.894026,-117.047277,901,,0,,America/Los_Angeles,,,0
+813655,50163,,Eagle Ranch & White Horse East side,,34.475477,-117.390374,899,,0,,America/Los_Angeles,,,0
+2326123,40226,,Mt. Shasta Dr & Glacier Circle,,34.436062,-117.365373,899,,0,,America/Los_Angeles,,,0
+813644,20126,,Outer Hwy 18 North & Acoma Rd,,34.537117,-117.247433,899,,0,,America/Los_Angeles,,,0
+2394880,62063,,Hwy 18 & Barstow Rd (Crossroads Ctr),,34.440751,-116.94486,900,,0,,America/Los_Angeles,,,0
+813362,40175,,Main St & E Ave,,34.420589,-117.294119,899,,0,,America/Los_Angeles,,,0
+813485,20183,,Thunderbird Rd & Wichita Rd,,34.530117,-117.212017,899,,0,,America/Los_Angeles,,,0
+2326114,40235,,9th Ave @ Villages at Hesperia Apts,,34.430262,-117.319153,899,,0,,America/Los_Angeles,,,0
+844344,30094,,E Main St & S 7th Ave,,34.898603,-117.017428,901,,0,,America/Los_Angeles,,,0
+813127,40195,,Mesa St & 7th Ave,,34.448938,-117.311676,899,,0,,America/Los_Angeles,,,0
+813286,10080,,Cactus Rd & Hwy 395,,34.535674,-117.402469,899,,0,,America/Los_Angeles,,,0
+2394830,20197,,Apple Valley Rd & Seneca,,34.515518,-117.243398,899,,0,,America/Los_Angeles,,,0
+813549,50054,,7th Ave & Minnetonka St,,34.481837,-117.31248,899,,0,,America/Los_Angeles,,,0
+844377,30168,,Virginia Way & Western Whip,,34.888199,-117.016228,901,,0,,America/Los_Angeles,,,0
+813565,62054,,Hwy 18 & Trade Post Rd South side,,34.443727,-116.963667,899,,0,,America/Los_Angeles,,,0
+813357,10081,,Cactus Rd & Maverick Dr,,34.535718,-117.406798,899,,0,,America/Los_Angeles,,,0
+813421,50162,,Eagle Ranch At Park&Terrano Ln Eastside,,34.479095,-117.389517,899,,0,,America/Los_Angeles,,,0
+813550,50173,,El Evado & La Brisa West side,,34.486633,-117.346967,899,,0,,America/Los_Angeles,,,0
+813098,50068,,7th St & Lacy St,,34.526133,-117.302483,899,,0,,America/Los_Angeles,,,0
+813259,40071,,Ash St & C Ave,,34.394934,-117.303157,899,,0,,America/Los_Angeles,,,0
+813488,20078,,Central Rd & Klickitat Ave,,34.517767,-117.172933,899,,0,,America/Los_Angeles,,,0
+813729,61055,,National Trails & Oro Grande Apts,,34.608,-117.34196,900,,0,,America/Los_Angeles,,,0
+813607,20150,,Pawnee Rd & Outer Hwy 18 North,,34.501247,-117.185678,899,,0,,America/Los_Angeles,,,0
+813769,63054,,Phelan Rd & Arrowhead,,34.426648,-117.455856,900,,0,,America/Los_Angeles,,,0
+813554,20133,,Outer Hwy 18 North & Palmero Rd,,34.539492,-117.259956,899,,0,,America/Los_Angeles,,,0
+813693,62052,,Emerald & Mesa South side,,34.400091,-116.953881,900,,0,,America/Los_Angeles,,,0
+813169,50076,,7th St & Victor St,,34.522333,-117.307317,899,,0,,America/Los_Angeles,,,0
+813406,40051,,3rd Ave & Cajon St,,34.428153,-117.305458,899,,0,,America/Los_Angeles,,,0
+844419,30124,,Lenwood Rd & Camino Del Sol,,34.881142,-117.118256,901,,0,,America/Los_Angeles,,,0
+844486,30087,,Center St & Broadway Ave,,34.879338,-117.006252,901,,0,,America/Los_Angeles,,,0
+813631,50241,,Mesa Linda & Eagle Ranch Pkwy East side,,34.481455,-117.391375,899,,0,,America/Los_Angeles,,,0
+813613,50231,,Llanada Ave & Village Dr,,34.544921,-117.334146,899,,0,,America/Los_Angeles,,,0
+813274,20170,,Outer Hwy 18 South & Tao Rd,,34.537267,-117.252617,899,,0,,America/Los_Angeles,,,0
+813528,50115,,B St & 11th St,,34.532062,-117.291481,899,,0,,America/Los_Angeles,,,0
+844361,30150,,Rimrock Rd & Monterey Ave,,34.876902,-117.015256,901,,0,,America/Los_Angeles,,,0
+813432,50276,,Palmdale Rd & Mesa Linda Ave,,34.506865,-117.393437,899,,0,,America/Los_Angeles,,,0
+813572,50215,,Jasmine & Hesperia Rd NE corner,,34.474988,-117.290967,899,,0,,America/Los_Angeles,,,0
+813440,50302,,Silica Dr & 3rd Ave,,34.478133,-117.3025,899,,0,,America/Los_Angeles,,,0
+2394843,20211,,Apple Valley Rd & Tuscola,,34.535397,-117.268203,899,,0,,America/Los_Angeles,,,0
+844436,30192,,W Main St & Chateau Barstow Estates Ln,,34.888556,-117.06879,901,,0,,America/Los_Angeles,,,0
+844448,30051,,N 1st Ave & White St,,34.900101,-117.027094,901,,0,,America/Los_Angeles,,,0
+2394842,20210,,Apple Valley Rd & Sitting Bull,,34.485184,-117.242576,899,,0,,America/Los_Angeles,,,0
+813734,63053,,Nielson Rd & Sheep Creek Rd,,34.419207,-117.573924,900,,0,,America/Los_Angeles,,,0
+813410,10121,,Seneca Rd & Bellflower St,,34.513805,-117.416611,899,,0,,America/Los_Angeles,,,0
+813155,50220,,Jasmine & Industrial South side,,34.474817,-117.283286,899,,0,,America/Los_Angeles,,,0
+813368,40155,,Live Oak Ln & Tamarisk Ave,,34.434623,-117.351327,899,,0,,America/Los_Angeles,,,0
+813073,40218,,Willow St & Oakwood Ave,,34.434668,-117.34199,899,,0,,America/Los_Angeles,,,0
+844342,30001,,MR Barney Kelley & E Buena Vista St,,34.895411,-117.025132,901,,0,,America/Los_Angeles,,,0
+813388,40059,,3rd Ave & Yucca St,,34.422936,-117.306666,899,,0,,America/Los_Angeles,,,0
+813118,20124,,Kiowa Rd & Yucca Loma Rd,,34.49855,-117.2067,899,,0,,America/Los_Angeles,,,0
+2394856,20220,,Jess Ranch & Marketplace,,34.46905,-117.249219,899,,0,,America/Los_Angeles,,,0
+813284,50083,,Amargosa Rd & Anacapa Rd,,34.5047,-117.330017,899,,0,,America/Los_Angeles,,,0
+813170,40211,,Sultana St & Main St,,34.41701,-117.273918,899,,0,,America/Los_Angeles,,,0
+813243,10126,,Verbena Rd & Villa St,,34.517839,-117.42576,899,,0,,America/Los_Angeles,,,0
+844425,30233,,Lenwood & Tanger,,34.847935,-117.083205,901,,0,,America/Los_Angeles,,,0
+813431,50152,,Del Rey & Mojave East side,,34.529635,-117.308509,899,,0,,America/Los_Angeles,,,0
+813789,30122,,L St Park & Ride,,34.885845,-117.05605,901,,0,,America/Los_Angeles,,,0
+813166,50086,,Amargosa Rd & Chaparral St,,34.534484,-117.330135,899,,0,,America/Los_Angeles,,,0
+813669,50067,,7th St & Lacy St,,34.525917,-117.302333,899,,0,,America/Los_Angeles,,,0
+813186,40165,,Main St & 9th Ave,,34.424,-117.319243,899,,0,,America/Los_Angeles,,,0
+813455,40157,,Main St & 3rd Ave,,34.422484,-117.307155,899,,0,,America/Los_Angeles,,,0
+813450,40128,,G Ave & Sultana St,,34.412999,-117.289395,899,,0,,America/Los_Angeles,,,0
+813185,20083,,Central Rd & Pahute Rd,,34.479306,-117.172565,899,,0,,America/Los_Angeles,,,0
+2394844,20212,,Apple Valley Rd & Yucca Loma,,34.499265,-117.242705,899,,0,,America/Los_Angeles,,,0
+813585,50105,,Amethyst Rd & Fox Fire Rd,,34.493177,-117.364466,899,,0,,America/Los_Angeles,,,0
+2394811,50012,,VVC Dock 3,,34.473627,-117.265042,899,,0,,America/Los_Angeles,,,0
+813246,40254,,7th Ave & Main St,,34.423143,-117.315881,899,,0,,America/Los_Angeles,,,0
+844347,30106,,E Main St & Yucca Ave,,34.896668,-117.008116,901,,0,,America/Los_Angeles,,,0
+813085,50061,,7th St & Circle Dr,,34.524707,-117.303905,899,,0,,America/Los_Angeles,,,0
+813709,10092,,Chamberlaine Way & Stevens St,,34.586985,-117.439984,900,,0,,America/Los_Angeles,,,0
+844451,30057,,S 2nd Ave & Williams St,,34.897821,-117.026087,901,,0,,America/Los_Angeles,,,0
+2388660,61091,,Dagget-Yermo Rd - Silver Valley HS,,34.896496231352,-116.88692975802,1095,,0,,America/Los_Angeles,,,0
+813095,50017,,Victorville Transportation Center,,34.538417,-117.294717,899,,0,,America/Los_Angeles,,,0
+813700,50151,,Dante St & Venus Ave,,34.564467,-117.2871,900,,0,,America/Los_Angeles,,,0
+844422,30132,,Lenwood Rd & W Main St,,34.871683,-117.118136,901,,0,,America/Los_Angeles,,,0
+813304,40146,,I Ave & Mojave St,,34.433032,-117.280191,899,,0,,America/Los_Angeles,,,0
+2394881,64050,,Mountain Rd & Pinon Hills Community Cntr,,34.44322,-117.647498,900,,0,,America/Los_Angeles,,,0
+2388636,50004,5,Lorene-7th Dock 5,,34.514408,-117.318384,899,,0,813683,,,,0
+813348,10110,,Mojave Dr & Verbena Rd,,34.528562,-117.42502,899,,0,,America/Los_Angeles,,,0
+813635,20135,,Outer Hwy 18 North & Tao Rd,,34.537795,-117.252569,899,,0,,America/Los_Angeles,,,0
+844418,30066,,Agate Rd & Lenwood Rd,,34.892759,-117.117163,901,,0,,America/Los_Angeles,,,0
+813282,50114,,B St & 7th St,,34.534833,-117.2951,899,,0,,America/Los_Angeles,,,0
+2394872,40255,,Avenal St & Box Mandela Rd,,34.437673,-117.36759,899,,0,,America/Los_Angeles,,,0
+813747,63051,,Baldy Mesa & Duncan SW corner,,34.469787,-117.451272,900,,0,,America/Los_Angeles,,,0
+813490,50246,,Mesa View & Vista Verde East side,,34.496896,-117.408153,899,,0,,America/Los_Angeles,,,0
+813560,40209,,Sultana St & Foremost St,,34.412522,-117.27967,899,,0,,America/Los_Angeles,,,0
+813675,20190,,Yucca Loma Rd Navajo Rd,,34.500429,-117.190794,899,,0,,America/Los_Angeles,,,0
+813224,50008,1,Lorene-7th Dock 1,,34.514401,-117.319193,899,,0,813683,,,,0
+813764,62061,,Sutter Trail & Visalia Ave,,34.422195,-116.884178,900,,0,,America/Los_Angeles,,,0
+813678,50237,,Mariposa Rd & 7th St,,34.507589,-117.321261,899,,0,,America/Los_Angeles,,,0
+844444,30176,,W Main St & Ave C,,34.896618,-117.037105,901,,0,,America/Los_Angeles,,,0
+813087,20127,,Outer Hwy 18 North & Erie Rd,,34.515917,-117.207883,899,,0,,America/Los_Angeles,,,0
+813255,50132,,Bear Valley Rd & Industrial Blvd,,34.470903,-117.283087,899,,0,,America/Los_Angeles,,,0
+2394816,50089,,Amargosa Rd & Desert Escape,,34.466352,-117.349961,899,,0,,America/Los_Angeles,,,0
+844396,30053,,N 2nd Ave & Cozy Ave,,34.899653,-117.026052,901,,0,,America/Los_Angeles,,,0
+813583,50187,,Fresno St & Forrest Ave,,34.536172,-117.304525,899,,0,,America/Los_Angeles,,,0
+813308,50202,,Hesperia Rd & Nisqualli West side,,34.485023,-117.290371,899,,0,,America/Los_Angeles,,,0
+2394845,20213,,Apple Valley Rd & Potomac,,34.539006,-117.272224,899,,0,,America/Los_Angeles,,,0
+813555,50137,,Palmdale Rd & Borego Rd,,34.50642,-117.334564,899,,0,,America/Los_Angeles,,,0
+813315,50143,,Civic Dr & Sage St,,34.513898,-117.323787,899,,0,,America/Los_Angeles,,,0
+813135,40194,,Mesa St & 5th Ave,,34.448805,-117.308923,899,,0,,America/Los_Angeles,,,0
+813672,50188,,Forrest & La Verida South side,,34.533811,-117.30754,899,,0,,America/Los_Angeles,,,0
+813544,50322,,Village Dr & Tawney Ridge Ln,,34.536014,-117.317473,899,,0,,America/Los_Angeles,,,0
+813584,50097,,Amethyst Rd & Bear Valley Rd,,34.471713,-117.364149,899,,0,,America/Los_Angeles,,,0
+813754,10085,,Chamberlaine Way & Bellflower St,,34.586327,-117.419167,900,,0,,America/Los_Angeles,,,0
+813500,50080,,Air Expressway & George Blvd,,34.572316,-117.360953,899,,0,,America/Los_Angeles,,,0
+2326125,40227,,Mariposa Rd & Main St,,34.427807,-117.377654,899,,0,,America/Los_Angeles,,,0
+813322,40057,,3rd Ave & Willow St,,34.432169,-117.304463,899,,0,,America/Los_Angeles,,,0
+813392,20177,,Thunderbird Rd & Douglas St,,34.529649,-117.188956,899,,0,,America/Los_Angeles,,,0
+813220,50274,,Palmdale & El Evado,,34.506526,-117.347704,899,,0,,America/Los_Angeles,,,0
+813759,61051,,Vista Rd & Jordan Rd (Comm Services),,34.734717,-117.329648,900,,0,,America/Los_Angeles,,,0
+813786,65005,,Irwin Inner Loop & 4th St,,35.265898,-116.688546,901,,0,,America/Los_Angeles,,,0
+2388648,61081,,National Trails Hwy & Indian Trail,,34.769354,-117.272479,901,,0,,America/Los_Angeles,,,0
+813708,10082,,Chamberlaine Way & Hwy 395,,34.586319,-117.415916,900,,0,,America/Los_Angeles,,,0
+813796,60050,,2nd St & Metrolink Way,,34.102747,-117.312485,,,0,,America/Los_Angeles,,,0
+813190,40099,,Cottonwood Ave & Eucalyptus St,,34.456204,-117.338659,899,,0,,America/Los_Angeles,,,0
+813048,50082,,Amargosa Rd & Anacapa Rd,,34.504467,-117.3302,899,,0,,America/Los_Angeles,,,0
+813523,50078,,11th St & B St,,34.530643,-117.292597,899,,0,,America/Los_Angeles,,,0
+813111,10095,,Jonathan St & Durango Dr,,34.527316,-117.408351,899,,0,,America/Los_Angeles,,,0
+2394829,20195,,Apple Valley Rd & Mondamon,,34.532923,-117.264342,899,,0,,America/Los_Angeles,,,0
+813320,10066,,Bartlett Ave & Greening St,,34.579344,-117.407059,899,,0,,America/Los_Angeles,,,0
+844360,30152,,Rimrock Rd & Muriel Dr,,34.876831,-117.013091,901,,0,,America/Los_Angeles,,,0
+813277,20146,,Pawnee Rd & Arapahoe Ave,,34.501633,-117.185733,899,,0,,America/Los_Angeles,,,0
+844404,30177,,W Main St & Ave F,,34.895689,-117.041641,901,,0,,America/Los_Angeles,,,0
+813702,61056,,National Trails & Oro Grande Apts,,34.608023,-117.342379,900,,0,,America/Los_Angeles,,,0
+813074,61070,,National Trails Hwy & Rinaldi St,,34.704618,-117.336234,899,,0,,America/Los_Angeles,,,0
+844378,30164,,Virginia Way & Lookout Dr,,34.888187,-117.020247,901,,0,,America/Los_Angeles,,,0
+813091,20065,,Bear Valley Rd & Locust Ln,,34.47112,-117.234271,899,,0,,America/Los_Angeles,,,0
+813139,50310,,Stoddard Wells Rd & 15 Fwy (Motel 6),,34.557217,-117.2895,899,,0,,America/Los_Angeles,,,0
+813250,20053,,Bass Hill Rd & Westlund Way,,34.528733,-117.219083,899,,0,,America/Los_Angeles,,,0
+844359,30157,,Rimrock Rd & Creosote Ct,,34.87676,-117.009766,901,,0,,America/Los_Angeles,,,0
+813756,10094,,Chamberlaine Way & Bellflower St,,34.586489,-117.419607,900,,0,,America/Los_Angeles,,,0
+813376,10077,,Bellflower St & Seneca Rd,,34.513508,-117.416832,899,,0,,America/Los_Angeles,,,0
+813254,50144,,Condor Rd & Calgo Ln,,34.532845,-117.320792,899,,0,,America/Los_Angeles,,,0
+844417,30063,,Agate Rd & Carmel Ct,,34.892704,-117.113048,901,,0,,America/Los_Angeles,,,0
+813117,10100,,Jonathan St & Lupin Rd,,34.531376,-117.408133,899,,0,,America/Los_Angeles,,,0
+813736,10068,,Bartlett St & Jonathan St,,34.5791,-117.408983,900,,0,,America/Los_Angeles,,,0
+813602,50179,,El Evado Rd & Maricopa Rd,,34.496156,-117.346863,899,,0,,America/Los_Angeles,,,0
+844464,30109,,E Mountain View St & S 7th Ave,,34.89324,-117.019999,901,,0,,America/Los_Angeles,,,0
+813178,40136,,I Ave & Hercules St,,34.430275,-117.280469,899,,0,,America/Los_Angeles,,,0
+813301,40113,,Danbury Ave & Madera Ave,,34.403107,-117.270251,899,,0,,America/Los_Angeles,,,0
+813226,20088,,Central Rd & Shawnee Rd,,34.499217,-117.17285,899,,0,,America/Los_Angeles,,,0
+2394857,20221,,Johnson & Dachsund,,34.600873,-117.19844,899,,0,,America/Los_Angeles,,,0
+813559,40095,,Cedar St & Seaside Ave,,34.404946,-117.377493,899,,0,,America/Los_Angeles,,,0
+813510,50271,,Palmdale & Borego,,34.506993,-117.335597,899,,0,,America/Los_Angeles,,,0
+813175,50142,,Civic Center Dr & Sage St,,34.511333,-117.323517,899,,0,,America/Los_Angeles,,,0
+813182,40088,,C Ave & Olive St,,34.416796,-117.297749,899,,0,,America/Los_Angeles,,,0
+813300,20193,,Yucca Loma Rd & Tamiani Rd,,34.50054,-117.200992,899,,0,,America/Los_Angeles,,,0
+844379,30072,,Armory Rd & Kennedy Middle School,,34.883901,-117.009346,901,,0,,America/Los_Angeles,,,0
+813577,10119,,Seneca Rd & Lilac Rd,,34.514045,-117.421666,899,,0,,America/Los_Angeles,,,0
+2388635,50005,4,Lorene-7th Dock 4,,34.514405,-117.318587,899,,0,813683,,,,0
+844479,30067,,Agate Rd & Lenwood Rd,,34.892602,-117.117008,901,,0,,America/Los_Angeles,,,0
+813428,20066,,Bear Valley Rd & Joshua Rd,,34.471634,-117.156296,899,,0,,America/Los_Angeles,,,0
+813742,61064,,National Trails Hwy & Darghty Rd,,34.71551,-117.332476,900,,0,,America/Los_Angeles,,,0
+2394840,20208,,Apple Valley Rd & Seneca,,34.514395,-117.243188,899,,0,,America/Los_Angeles,,,0
+2394837,20204,,Apple Valley Rd & Hwy 18,,34.539128,-117.271927,899,,0,,America/Los_Angeles,,,0
+813435,20051,,Apple Valley Rd & Hwy 18 North,,34.5412,-117.272962,899,,0,,America/Los_Angeles,,,0
+844355,30138,,Montara Elementary School,,34.880113,-116.993946,901,,0,,America/Los_Angeles,,,0
+813724,10086,,Chamberlaine Way & Jonathan St,,34.586414,-117.410629,900,,0,,America/Los_Angeles,,,0
+813217,40138,,I Ave & Lemon St,,34.441314,-117.278465,899,,0,,America/Los_Angeles,,,0
+813133,50131,,Bear Valley Rd & Hwy 395,,34.47046,-117.397889,899,,0,,America/Los_Angeles,,,0
+844412,30120,,Jasper Rd & Pettit Rd,,34.884115,-117.097675,901,,0,,America/Los_Angeles,,,0
+813719,62062,,Visalia Ave & Hwy 247,,34.443661,-116.884346,900,,0,,America/Los_Angeles,,,0
+813275,40169,,Main St & Balsam Ave,,34.427,-117.33,899,,0,,America/Los_Angeles,,,0
+813605,50221,,Jasmine St & Hesperia Rd (Wimbledon Apts,,34.474968,-117.292883,899,,0,,America/Los_Angeles,,,0
+813294,50287,,Rodeo Dr & Hughes Rd,,34.511938,-117.303816,899,,0,,America/Los_Angeles,,,0
+813477,50258,,Nisqualli & 3rd Ave,,34.485193,-117.303514,899,,0,,America/Los_Angeles,,,0
+813230,20158,,Serrano Rd & Rimrock Rd,,34.5363,-117.22175,899,,0,,America/Los_Angeles,,,0
+813158,50106,,Amethyst Rd & La Mesa Rd,,34.484503,-117.364458,899,,0,,America/Los_Angeles,,,0
+813197,10078,,Bellflower St & Villa St,,34.517773,-117.416855,899,,0,,America/Los_Angeles,,,0
+813105,40100,,Cottonwood Ave & Main St,,34.427344,-117.338292,899,,0,,America/Los_Angeles,,,0
+813790,30211,,Williams Park & Ride,,34.897706,-117.024508,901,,0,,America/Los_Angeles,,,0
+813685,63062,,Phelan Rd & Eaby Rd,,34.426368,-117.538064,900,,0,,America/Los_Angeles,,,0
+813690,61052,,Nat Tr&Bryman OB 1,,34.652632,-117.342328,900,,0,,America/Los_Angeles,,,0
+813641,50251,,Nevada Ave & Ohio St,,34.576708,-117.365375,899,,0,,America/Los_Angeles,,,0
+813467,50207,,Hook Blvd & Ashley Glen Dr,,34.521367,-117.340381,899,,0,,America/Los_Angeles,,,0
+844364,30228,,Veterans Pkwy Entrance,,34.868498,-117.027379,901,,0,,America/Los_Angeles,,,0
+813495,20125,,Kokanee Rd & Kasota Rd,,34.54414,-117.267466,899,,0,,America/Los_Angeles,,,0
+813463,40178,,Main St & Key Pointe Ave,,34.426524,-117.385036,899,,0,,America/Los_Angeles,,,0
+844470,30076,,Armory Rd & Muriel Dr,,34.883954,-117.012986,901,,0,,America/Los_Angeles,,,0
+813404,40204,,Santa Fe Ave & Olive St,,34.415911,-117.3024,899,,0,,America/Los_Angeles,,,0
+813714,62050,,Hwy 18 & Barstow Rd (Crossroads Ctr),,34.440091841474,-116.94489758376,900,,0,,America/Los_Angeles,,,0
+844374,30113,,E Mountain View St & Melissa Ave,,34.89308,-117.018597,901,,0,,America/Los_Angeles,,,0
+813640,50126,,Bear Valley Rd& Cobalt Rd,,34.47052,-117.369577,899,,0,,America/Los_Angeles,,,0
+813750,10058,,Aster Rd & Chamberlaine Way,,34.586115,-117.435766,900,,0,,America/Los_Angeles,,,0
+844460,30100,,E Main St & Eastgate Rd,,34.895428,-117.005854,901,,0,,America/Los_Angeles,,,0
+2394959,30227,,Broadway & Center,,34.879049,-117.005031,901,,0,,America/Los_Angeles,,,0
+813222,20110,,Kamana Rd & Tuscola Rd,,34.543997,-117.270234,899,,0,,America/Los_Angeles,,,0
+813499,50256,,Nisqualli Rd & 2nd Ave,,34.485319,-117.299001,899,,0,,America/Los_Angeles,,,0
+813414,50290,,Rodeo & Pebble Beach,,34.50625,-117.303867,899,,0,,America/Los_Angeles,,,0
+813451,20100,,Esaws Ave & Central Rd,,34.507813,-117.173538,899,,0,,America/Los_Angeles,,,0
+813575,10104,,Mojave Dr & Bellflower St,,34.528504,-117.417615,899,,0,,America/Los_Angeles,,,0
+2388658,61087,,Fort Cady Rd & Memorial Dr,,34.819232,-116.609954,1095,,0,,America/Los_Angeles,,,0
+813525,40133,,I Ave & E Ave,,34.450124,-117.277254,899,,0,,America/Los_Angeles,,,0
+813196,40166,,Main St & 11th Ave,,34.424879,-117.323178,899,,0,,America/Los_Angeles,,,0
+813543,50157,,Dos Palmas & Fern Pine South side,,34.499412,-117.401965,899,,0,,America/Los_Angeles,,,0
+813618,20141,,Navajo Rd & Sandia Rd,,34.463902,-117.189992,899,,0,,America/Los_Angeles,,,0
+813076,50093,,Amargosa Rd & Mojave Dr,,34.529,-117.3303,899,,0,,America/Los_Angeles,,,0
+813687,10064,,Bartlett Ave & Bellflower St,,34.579288,-117.417874,900,,0,,America/Los_Angeles,,,0
+844353,30097,,E Main St at Barstow Mall,,34.88863,-116.99588,901,,0,,America/Los_Angeles,,,0
+813172,50100,,Amethyst Rd & Creosote St,,34.481483,-117.3642,899,,0,,America/Los_Angeles,,,0
+813332,50216,,Jasmine & Hesperia Rd Inbound,,34.474984,-117.291893,899,,0,,America/Los_Angeles,,,0
+2388645,61080,,National Trails Hwy & Hinkley Rd,,34.830048,-117.180712,901,,0,,America/Los_Angeles,,,0
+813140,40129,,I Ave & Alston Ave,,34.403191,-117.285072,899,,0,,America/Los_Angeles,,,0
+813359,10127,,Victor St & Aster Rd,,34.521271,-117.434129,899,,0,,America/Los_Angeles,,,0
+2388633,50002,2,Lorene-7th Dock 2,,34.514403,-117.318994,899,,0,813683,,,,0
+813591,40145,,I Ave & Mojave St,,34.433001,-117.2799,899,,0,,America/Los_Angeles,,,0
+813418,50050,,2nd Ave & Bear Valley Rd,,34.471701,-117.299079,899,,0,,America/Los_Angeles,,,0
+813124,50228,,La Mesa & Wagon Wheel South side,,34.484803,-117.363421,899,,0,,America/Los_Angeles,,,0
+813614,20118,,Kiowa Rd & Ottawa Rd,,34.492696,-117.207793,899,,0,,America/Los_Angeles,,,0
+2388652,61079,,Hinkley Rd & Riverview,,34.892444,-117.188993,901,,0,,America/Los_Angeles,,,0
+2394812,50011,,VVC Dock 5,,34.473167,-117.264951,899,,0,,America/Los_Angeles,,,0
+813125,40084,,C Ave & Lime St,,34.405958,-117.299954,899,,0,,America/Los_Angeles,,,0
+813221,20172,,Thunderbird Rd & Apache Rd,,34.5296,-117.205083,899,,0,,America/Los_Angeles,,,0
+813643,50092,,Amargosa Rd & King Ranch Rd,,34.479941,-117.339375,899,,0,,America/Los_Angeles,,,0
+813081,40215,,Willow St & Cottonwood Ave,,34.434687,-117.338831,899,,0,,America/Los_Angeles,,,0
+813082,40062,,7th Ave & Hercules St,,34.435724,-117.312967,899,,0,,America/Los_Angeles,,,0
+2391803,30224,,L St - Home Depot,,34.886579,-117.056467,901,,0,,America/Los_Angeles,,,0
+813244,50283,,Phantom West & Innovation Dr,,34.575405,-117.377076,899,,0,,America/Los_Angeles,,,0
+813165,50282,,Phantom West & Innovation Dr,,34.576415,-117.376692,899,,0,,America/Los_Angeles,,,0
+813770,61073,,Silver Lakes Pkwy & Nautical Ln,,34.743039,-117.352443,900,,0,,America/Los_Angeles,,,0
+813514,40172,,Main St & C Ave,,34.420584,-117.295829,899,,0,,America/Los_Angeles,,,0
+813546,50117,,Bear Valley Rd & 2nd Ave,,34.471017,-117.298489,899,,0,,America/Los_Angeles,,,0
+813483,50212,,Jasmine & 1st Ave North side,,34.474933,-117.295733,899,,0,,America/Los_Angeles,,,0
+813382,50319,,Village Dr & Grand Triassic Ln,,34.55935,-117.33895,899,,0,,America/Los_Angeles,,,0
+2394818,50123,,Bear Valley Rd & Amethyst Rd,,34.47027,-117.363947,899,,0,,America/Los_Angeles,,,0
+844455,30148,,Rimrock Rd & Barstow Rd S,,34.876751,-117.021297,901,,0,,America/Los_Angeles,,,0
+813287,10061,,Aster Rd & Lee Ave,,34.583134,-117.435867,899,,0,,America/Los_Angeles,,,0
+813521,20071,,Bear Valley Rd & Quinnault Rd,,34.471691,-117.182894,899,,0,,America/Los_Angeles,,,0
+844376,30166,,Virginia Way & Muriel Dr,,34.888225,-117.013447,901,,0,,America/Los_Angeles,,,0
+813384,40151,,Juniper St & 7th Ave,,34.425777,-117.316785,899,,0,,America/Los_Angeles,,,0
+813350,50301,,Silica Dr & 2nd Ave,,34.478182,-117.299628,899,,0,,America/Los_Angeles,,,0
+813323,50312,,Valley Center Dr & 7th St,,34.509933,-117.32105,899,,0,,America/Los_Angeles,,,0
+813386,20140,,Navajo Rd & Powhatan Rd,,34.497709,-117.190382,899,,0,,America/Los_Angeles,,,0
+813278,40108,,Coyote Trail & Newport St,,34.406948,-117.381454,899,,0,,America/Los_Angeles,,,0
+844415,30061,,Agate Rd & Birch Rd,,34.892666,-117.10675,901,,0,,America/Los_Angeles,,,0
+813121,50167,,El Evado Rd & Dos Palmas Rd,,34.499797,-117.346661,899,,0,,America/Los_Angeles,,,0
+813492,40161,,Main St & 5th Ave,,34.422842,-117.311117,899,,0,,America/Los_Angeles,,,0
+813568,50316,,Victor Valley College Gym,,34.473767,-117.259317,899,,0,,America/Los_Angeles,,,0
+844392,30059,,S 7th Ave & E Buena Vista St,,34.895367,-117.01971,901,,0,,America/Los_Angeles,,,0
+813205,20160,,Outer Hwy 18 South & Corwin Rd,,34.539713,-117.263301,899,,0,,America/Los_Angeles,,,0
+844477,30116,,Jasper Rd & Camino Del Sol,,34.878387,-117.114367,901,,0,,America/Los_Angeles,,,0
+813749,63058,,Phelan Rd & Caughlin,,34.426676,-117.485579,900,,0,,America/Los_Angeles,,,0
+813355,50181,,El Evado Rd & Palmdale Rd,,34.508216,-117.346599,899,,0,,America/Los_Angeles,,,0
+813194,10106,,Mojave Dr & Coleridge St,,34.528307,-117.42329,899,,0,,America/Los_Angeles,,,0
+813598,40073,,Bear Valley Rd & 3rd Ave,,34.470644,-117.304707,899,,0,,America/Los_Angeles,,,0
+813383,40111,,Danbury Ave & I Ave,,34.400457,-117.280949,899,,0,,America/Los_Angeles,,,0
+813683,1131,,Lorene Drive & 7th Street Station,,34.514390590523,-117.31806845999,899,,1,,America/Los_Angeles,,,0
+813445,40162,,Main St & 7th Ave,,34.423842,-117.316312,899,,0,,America/Los_Angeles,,,0
+813263,40105,,Cottonwood Ave & Riverside St,,34.440185,-117.338568,899,,0,,America/Los_Angeles,,,0
+813101,40101,,Cottonwood Ave & Main St,,34.427321,-117.338604,899,,0,,America/Los_Angeles,,,0
+2394875,50324,,National Trails Hwy NB - Holland Burger,,34.561644,-117.31345,900,,0,,America/Los_Angeles,,,0
+813710,63067,,Phelan Rd & Sonora Rd,,34.426448,-117.511659,900,,0,,America/Los_Angeles,,,0
+844462,30112,,E Mountain View St & Belinda Ave,,34.893204,-117.025445,901,,0,,America/Los_Angeles,,,0
+813147,20109,,Kamana Rd & Quantico Rd,,34.5426,-117.271733,899,,0,,America/Los_Angeles,,,0
+844445,30174,,W Main St & Ave A,,34.897268,-117.034835,901,,0,,America/Los_Angeles,,,0
+813484,20185,,Wren St & Kiavan Rd,,34.449631,-117.195211,899,,0,,America/Los_Angeles,,,0
+813104,40139,,I Ave & Live Oak St,,34.425987,-117.281436,899,,0,,America/Los_Angeles,,,0
+813075,20101,,Goshute Ave & Pawnee Rd,,34.510917,-117.184146,899,,0,,America/Los_Angeles,,,0
+2388657,61089,,Hereford Rd & Valley Center,,34.879045,-116.715349,1095,,0,,America/Los_Angeles,,,0
+813164,40058,,3rd Ave & Willow St,,34.431699,-117.304706,899,,0,,America/Los_Angeles,,,0
+2388649,61078,,Outer Hwy 58 & Hidden River,,34.921517,-117.218105,901,,0,,America/Los_Angeles,,,0
+813646,40054,,3rd Ave & Lemon St,,34.445115,-117.303508,899,,0,,America/Los_Angeles,,,0
+813319,20187,,Wren St & Mohawk Rd,,34.449733,-117.1997,899,,0,,America/Los_Angeles,,,0
+813160,50286,,Rodeo Dr & Green Tree Blvd,,34.501452,-117.303694,899,,0,,America/Los_Angeles,,,0
+813740,61059,,Nat Tr&Rob Rnch East side,,34.639476,-117.345176,900,,0,,America/Los_Angeles,,,0
+2394883,64052,,Pinon Hills Post Office,,34.438689,-117.642473,900,,0,,America/Los_Angeles,,,0
+813782,60053,,Orange Way & Sierra Ave (Metrolink),,34.095752,-117.437425,901,,0,,America/Los_Angeles,,,0
+813123,50051,,2nd Ave & Jasmine St,,34.474779,-117.29937,899,,0,,America/Los_Angeles,,,0
+844369,30223,,Montara & Armory,,34.884381,-116.993601,901,,0,,America/Los_Angeles,,,0
+813209,50176,,El Evado & Manzano East side,,34.488295,-117.346637,899,,0,,America/Los_Angeles,,,0
+2394860,20222,,Dale Evans - Juvenile Center Parking Lot,,34.635331,-117.206638,899,,0,,America/Los_Angeles,,,0
+813216,40068,,9th Ave & Juniper St,,34.425663,-117.320006,899,,0,,America/Los_Angeles,,,0
+813730,10088,,Chamberlaine Way & New Hampshire Rd,,34.586437,-117.423203,900,,0,,America/Los_Angeles,,,0
+844356,30136,,Montara Rd & Forane St,,34.87828,-116.993904,901,,0,,America/Los_Angeles,,,0
+844430,30201,,W Main St & Paris Ave,,34.87685,-117.109779,901,,0,,America/Los_Angeles,,,0
+844390,30142,,Muriel Dr & Elizabeth St,,34.889554,-117.012114,901,,0,,America/Los_Angeles,,,0
+813768,10074,,Bellflower St & Rancho Rd,,34.559638,-117.418152,900,,0,,America/Los_Angeles,,,0
+813089,50315,,Victor St & S Mojave Dr,,34.521861,-117.300244,899,,0,,America/Los_Angeles,,,0
+813219,50270,,Palmdale & Amargosa,,34.507056,-117.33088,899,,0,,America/Los_Angeles,,,0
+813132,50072,,7th St & Mojave Dr,,34.527675,-117.300864,899,,0,,America/Los_Angeles,,,0
+813055,50175,,El Evado Rd & Luna Rd,,34.491356,-117.346922,899,,0,,America/Los_Angeles,,,0
+813532,40202,,Olive St & G Ave,,34.415839,-117.288014,899,,0,,America/Los_Angeles,,,0
+813774,30000,,E Buena Vista St & MR Barney Keller Ct,,34.89554,-117.024674,901,,0,,America/Los_Angeles,,,0
+813444,50232,,Lorene Dr & 7th St,,34.513775,-117.315291,899,,0,,America/Los_Angeles,,,0
+2388661,40246,,3rd Ave & Main,,34.421829,-117.306858,899,,0,,America/Los_Angeles,,,0
+813059,40170,,Main St & Balsam Ave,,34.426759,-117.33013,899,,0,,America/Los_Angeles,,,0
+844398,30050,,N 1st Ave & White St,,34.899617,-117.027272,901,,0,,America/Los_Angeles,,,0
+813047,20142,,Navajo Rd & Wren St,,34.450346,-117.189978,899,,0,,America/Los_Angeles,,,0
+813794,50084,,Amargosa Rd & Bear Valley Rd,,34.469026,-117.348355,899,,0,,America/Los_Angeles,,,0
+813159,50130,,Bear Valley Rd & Hesperia Rd,,34.471125,-117.289315,899,,0,,America/Los_Angeles,,,0
+813131,40131,,I Ave & Catalpa St,,34.459993,-117.277346,899,,0,,America/Los_Angeles,,,0
+813251,40137,,I Ave & Lemon St,,34.442115,-117.277915,899,,0,,America/Los_Angeles,,,0
+813207,40093,,Cataba Rd & Main St,,34.427516,-117.38626,899,,0,,America/Los_Angeles,,,0
+2394836,20203,,Town Center & Apple Valley Rd,,34.465782,-117.243999,899,,0,,America/Los_Angeles,,,0
+2388665,40251,,7th Ave & Sultana St,,34.417027,-117.317013,899,,0,,America/Los_Angeles,,,0
+813212,50218,,Jasmine St & Hesperia Rd,,34.474701,-117.292191,899,,0,,America/Los_Angeles,,,0
+813537,50065,,7th St & La Paz Dr,,34.517331,-117.311897,899,,0,,America/Los_Angeles,,,0
+813696,10062,,Bartlett Ave & Adelanto Rd,,34.579369,-117.401224,900,,0,,America/Los_Angeles,,,0
+813757,50150,,Dante St & Jupiter Ave,,34.56455,-117.2908,900,,0,,America/Los_Angeles,,,0
+813482,10120,,Seneca Rd & Pearmain St,,34.513867,-117.404059,899,,0,,America/Los_Angeles,,,0
+813057,50128,,Bear Valley R & Mall Blvd,,34.470567,-117.353017,899,,0,,America/Los_Angeles,,,0
+813290,50129,,Bear Valley Rd & Eagle Ranch Pkwy,,34.470494,-117.390395,899,,0,,America/Los_Angeles,,,0
+813112,20075,,Central Rd & Bear Valley Rd,,34.472663,-117.172566,899,,0,,America/Los_Angeles,,,0
+813727,62057,,Highland Ave_LV Post Office&Hwy 18Eside,,34.442787,-116.952347,900,,0,,America/Los_Angeles,,,0
+813448,50186,,Forrest & Del Rey South side,,34.533744,-117.310256,899,,0,,America/Los_Angeles,,,0
+813574,50295,,Roy Rogers Dr & Civic Dr (Farmer Boys),,34.521348,-117.325785,899,,0,,America/Los_Angeles,,,0
+813632,20159,,Serrano Rd& Wanaque Rd,,34.540332,-117.219674,899,,0,,America/Los_Angeles,,,0
+813407,20188,,Wren St & Pinole Rd,,34.4497,-117.1922,899,,0,,America/Los_Angeles,,,0
+844447,30200,,W Main St & Otis Ave,,34.89816,-117.031596,901,,0,,America/Los_Angeles,,,0
+813623,20228,,Dale Evans Pkwy & Johnson Rd,,34.600757,-117.207107,899,,0,,America/Los_Angeles,,,0
+813760,61057,,National Trails & Oro Grande Market,,34.600387,-117.337485,900,,0,,America/Los_Angeles,,,0
+813338,40217,,Willow St & Oakwood Ave,,34.434787,-117.343088,899,,0,,America/Los_Angeles,,,0
+813622,50075,,7th St & Victor St,,34.522233,-117.307023,899,,0,,America/Los_Angeles,,,0
+813657,40120,,Escondido Ave & Hollister St,,34.415657,-117.37302,899,,0,,America/Los_Angeles,,,0
+813539,20115,,Kiowa Rd & Lancelet Rd,,34.45295,-117.207733,899,,0,,America/Los_Angeles,,,0
+813229,20184,,Wanaque Ave & Thunderbird Rd,,34.5304,-117.217467,899,,0,,America/Los_Angeles,,,0
+844410,30191,,W Main St & Chateau Barstow Estates Ln,,34.888786,-117.068806,901,,0,,America/Los_Angeles,,,0
+813784,65003,,Inner Loop & Burger King,,35.256291,-116.688148,901,,0,,America/Los_Angeles,,,0
+2388669,40244,,3rd Ave & Lime St,,34.40751840716,-117.30973494899,899,,0,,America/Los_Angeles,,,0
+813536,50240,,Mariposa & Talpa East side,,34.495661,-117.328306,899,,0,,America/Los_Angeles,,,0
+813676,20171,,Outer Hwy 18 South & Yanan Rd,,34.536717,-117.24875,899,,0,,America/Los_Angeles,,,0
+813115,10114,,Palmdale Rd & Hwy 395,,34.506839,-117.401582,899,,0,,America/Los_Angeles,,,0
+813469,40216,,Willow St & Maple Ave,,34.434643,-117.346892,899,,0,,America/Los_Angeles,,,0
+813339,50200,,Hesperia Rd & Jasmine St,,34.474006,-117.29178,899,,0,,America/Los_Angeles,,,0
+2394835,20202,,Apple Valley Rd & Yucca Loma,,34.500651,-117.242392,899,,0,,America/Los_Angeles,,,0
+844409,30195,,W Main St & Laverne Ave,,34.889956,-117.064083,901,,0,,America/Los_Angeles,,,0
+813735,10053,,Adelanto Rd & Air Expressway,,34.57248,-117.40086,900,,0,,America/Los_Angeles,,,0
+813130,20166,,Outer Hwy 18 South & Atnah Rd,,34.536583,-117.2445,899,,0,,America/Los_Angeles,,,0
+813739,63060,,Phelan Rd & Sheep Creek,,34.426207,-117.574192,900,,0,,America/Los_Angeles,,,0
+2391801,30234,,Lenwood Rd Hampton Inn,,34.844923,-117.08312,901,,0,,America/Los_Angeles,,,0
+813566,50213,,Jasmine & Apatite South side,,34.474794,-117.287145,899,,0,,America/Los_Angeles,,,0
+2326127,64060,,Escondido Ave & Ranchero Rd,,34.383777,-117.372778,1095,,0,,America/Los_Angeles,,,0
+813476,20102,,Goshute Ave & Pawnee Rd,,34.510805,-117.183942,899,,0,,America/Los_Angeles,,,0
+813755,61068,,National Trails Hwy & Iron Hog,,34.629226,-117.343871,900,,0,,America/Los_Angeles,,,0
+813375,20117,,Kiowa Rd & Ottawa Rd,,34.492174,-117.207636,899,,0,,America/Los_Angeles,,,0
+813447,10131,,Victor St & Verbena Rd,,34.521295,-117.42654,899,,0,,America/Los_Angeles,,,0
+844473,30073,,Armory Rd & McBroom Ave,,34.884096,-117.006022,901,,0,,America/Los_Angeles,,,0
+2394884,64061,,Ranchero & Cataba,,34.383235,-117.384806,1095,,0,,America/Los_Angeles,,,0
+813637,10109,,Mojave Rd & Twilight Way,,34.528307,-117.41258,899,,0,,America/Los_Angeles,,,0
+813049,50222,,Kentwood & Palmdale East side,,34.5078,-117.32735,899,,0,,America/Los_Angeles,,,0
+813079,50098,,Amethyst Rd& Bear Valley Rd,,34.471752,-117.364466,899,,0,,America/Los_Angeles,,,0
+813280,50313,,Valley Center Dr & La Paz Dr,,34.518093,-117.316442,899,,0,,America/Los_Angeles,,,0
+844432,30189,,W Main St & Birch Rd,,34.878811,-117.105038,901,,0,,America/Los_Angeles,,,0
+844490,30205,,W Main St & Western Dr,,34.88005,-117.102538,901,,0,,America/Los_Angeles,,,0
+813361,50224,,La Mesa & El Evado South side,,34.484855,-117.345546,899,,0,,America/Los_Angeles,,,0
+844440,30184,,W Main St & Ave J,,34.893135,-117.050715,901,,0,,America/Los_Angeles,,,0
+813208,20099,,Esawa Ave & Central Rd,,34.50796,-117.173449,899,,0,,America/Los_Angeles,,,0
+813660,40186,,Main St & Sabina Ave,,34.416039,-117.264954,899,,0,,America/Los_Angeles,,,0
+813793,30141,,Irwin Rd SB - Mt View Cemetery,,34.92313,-117.026943,901,,0,,America/Los_Angeles,,,0
+813501,50164,,El Evado & Begonia West side,,34.508717,-117.346867,899,,0,,America/Los_Angeles,,,0
+813417,20163,,Outer Hwy 18 South & Kasota Rd,,34.540226,-117.265804,899,,0,,America/Los_Angeles,,,0
+2394954,30214,,WB Mountain View St FS Lillian Dr,,34.893886,-117.015227,901,,0,,America/Los_Angeles,,,0
+813716,63056,,Phelan Rd & Buttemere,,34.426714,-117.50382,900,,0,,America/Los_Angeles,,,0
+813478,50252,,Nevada Ave & Phantom West,,34.589114,-117.365355,899,,0,,America/Los_Angeles,,,0
+844443,30178,,W Main St & Ave F,,34.895737,-117.04053,901,,0,,America/Los_Angeles,,,0
+813688,10071,,Bellflower St & Begonia Rd,,34.510657,-117.416842,900,,0,,America/Los_Angeles,,,0
+813453,40089,,C Ave & Sage St,,34.400431,-117.301106,899,,0,,America/Los_Angeles,,,0
+813316,20082,,Central Rd & Ottawa Rd,,34.491238,-117.172556,899,,0,,America/Los_Angeles,,,0
+2394951,30163,,Veterans Home Bldg E,,34.86753,-117.027466,901,,0,,America/Los_Angeles,,,0
+813763,10091,,Chamberlaine Way & Rhode Island St,,34.586586,-117.431299,900,,0,,America/Los_Angeles,,,0
+2394846,20214,,Corwin Rd & Palmero,,34.540475,-117.26123,899,,0,,America/Los_Angeles,,,0
+2388646,61083,,National Trails Hwy & Hinkley Rd,,34.830354,-117.180083,901,,0,,America/Los_Angeles,,,0
+813266,50227,,La Mesa & Petaluma South side,,34.4849,-117.352433,899,,0,,America/Los_Angeles,,,0
+813204,50124,,Bear Valley Rd & Apatite Ave,,34.471182,-117.284812,899,,0,,America/Los_Angeles,,,0
+813561,40052,,3rd Ave & Hercules St,,34.434454,-117.304134,899,,0,,America/Los_Angeles,,,0
+813401,50233,,Lorene Dr & La Paz Rd,,34.513572,-117.312381,899,,0,,America/Los_Angeles,,,0
+813587,50074,,7th St & Union St,,34.529258,-117.29964,899,,0,,America/Los_Angeles,,,0
+844442,30180,,W Main St & Ave G,,34.895009,-117.043406,901,,0,,America/Los_Angeles,,,0
+813699,63059,,Phelan Rd & Caughlin Rd,,34.426386,-117.486575,900,,0,,America/Los_Angeles,,,0
+844466,30078,,EB Mountain View St at Barstow Hospital,,34.89367,-117.01559,901,,0,,America/Los_Angeles,,,0
+813470,50055,,Arrowhead Dr & Evansdale Way,,34.487803,-117.312283,899,,0,,America/Los_Angeles,,,0
+813371,40193,,Mesa St & 5th Ave,,34.448896,-117.308879,899,,0,,America/Los_Angeles,,,0
+813153,40185,,Main St & Peach Ave,,34.415293,-117.260545,899,,0,,America/Los_Angeles,,,0
+813569,50294,,Roy Rogers & Civic,,34.521694,-117.323176,899,,0,,America/Los_Angeles,,,0
+844357,30159,,Rimrock Rd & Montera Rd,,34.87645,-116.9965,901,,0,,America/Los_Angeles,,,0
+813143,40109,,Danbury Ave & Arrowhead Lake Rd,,34.402271,-117.250134,899,,0,,America/Los_Angeles,,,0
+813758,62055,,Hwy 247 & Visalia Ave,,34.443563,-116.884966,900,,0,,America/Los_Angeles,,,0
+813596,50277,,Park & Bonanza,,34.503575,-117.326395,899,,0,,America/Los_Angeles,,,0
+813260,10102,,Mojave Dr & Aster Rd,,34.528594,-117.433386,899,,0,,America/Los_Angeles,,,0
+813556,20174,,Thunderbird Rd & Central Rd,,34.529729,-117.173777,899,,0,,America/Los_Angeles,,,0
+813083,40056,,3rd Ave & Mauna Loa St,,34.441653,-117.303244,899,,0,,America/Los_Angeles,,,0
+813522,40205,,Smoke Tree St (VVTA),,34.423763,-117.289717,899,,0,,America/Los_Angeles,,,0
+844478,30123,,Lenwood Rd & Camino Del Sol,,34.88088,-117.118,901,,0,,America/Los_Angeles,,,0
+813326,10123,,Verbena Rd & Seneca Rd,,34.514309,-117.4256,899,,0,,America/Los_Angeles,,,0
+813285,20153,,Powhatan Rd & Navajo Rd,,34.496807,-117.188449,899,,0,,America/Los_Angeles,,,0
+813156,20131,,Outer Hwy 18 North & St Timothy Rd,,34.536995,-117.242857,899,,0,,America/Los_Angeles,,,0
+813110,20178,,Thunderbird Rd & Erie Rd,,34.529633,-117.195333,899,,0,,America/Los_Angeles,,,0
+813695,61062,,National Trails Hwy & Bryman Rd,,34.674407,-117.339788,900,,0,,America/Los_Angeles,,,0
+813443,50225,,La Mesa & King Canyon S side,,34.484933,-117.341417,899,,0,,America/Los_Angeles,,,0
+2388656,61086,,Minneola Rd & National Trails Hwy,,34.845465,-116.768363,1095,,0,,America/Los_Angeles,,,0
+813223,40192,,Mesa St & 3rd Ave,,34.448809,-117.303858,899,,0,,America/Los_Angeles,,,0
+813593,50057,,Arrowhead Dr & Ottawa St,,34.492227,-117.312297,899,,0,,America/Los_Angeles,,,0
+813100,40214,,Willow St & Cottonwood Ave,,34.434807,-117.338689,899,,0,,America/Los_Angeles,,,0
+813108,50199,,Hesperia Rd & Jasmine St,,34.475755,-117.291233,899,,0,,America/Los_Angeles,,,0
+813327,10073,,Bellflower St & Lee Ave,,34.58298,-117.418582,899,,0,,America/Los_Angeles,,,0
+2394960,30226,,Muriel & Rimrock,,34.877236,-117.012275,901,,0,,America/Los_Angeles,,,0
+844399,30170,,W Main St & N 1st Ave,,34.898875,-117.028645,901,,0,,America/Los_Angeles,,,0
+813579,40053,,3rd Ave & Lemon St,,34.444917,-117.303253,899,,0,,America/Los_Angeles,,,0
+844503,30161,,State Street at Excelsior,,34.88826,-117.00466,901,,0,,America/Los_Angeles,,,0
+813580,40116,,E Ave & Olive St,,34.417113,-117.293266,899,,0,,America/Los_Angeles,,,0
+813576,20057,,Bear Valley Rd & Mesquite Rd,,34.471748,-117.165253,899,,0,,America/Los_Angeles,,,0
+844471,30212,,Windy Pass & Upton Dr,,34.880236,-117.010985,901,,0,,America/Los_Angeles,,,0
+2388641,65051,,Pinion Hills Fire Station,,34.439162,-117.646806,900,,0,,America/Los_Angeles,,,0
+813563,10116,,Rancho Rd & Verbena Rd,,34.558491,-117.427475,899,,0,,America/Los_Angeles,,,0
+813381,50159,,Dos Palmas & Mesa Linda South side,,34.499394,-117.39031,899,,0,,America/Los_Angeles,,,0
+813433,40182,,Main St & Maple Ave,,34.426645,-117.345949,899,,0,,America/Los_Angeles,,,0
+2326128,40229,,Mariposa Rd & Emerald St,,34.425318,-117.378524,899,,0,,America/Los_Angeles,,,0
+813511,20058,,Bear Valley Rd & Central Rd,,34.471429,-117.175668,899,,0,,America/Los_Angeles,,,0
+813264,50139,,Burning Tree Dr & Pebble Beach Dr,,34.507201,-117.313542,899,,0,,America/Los_Angeles,,,0
+813496,50296,,Seneca Rd & Amargosa Rd,,34.514233,-117.329367,899,,0,,America/Los_Angeles,,,0
+813372,20089,,Central Rd & Sioux Rd,,34.475869,-117.172553,899,,0,,America/Los_Angeles,,,0
+813761,62060,,Sutter & Camp Rock Rd North side,,34.421611,-116.859401,900,,0,,America/Los_Angeles,,,0
+844449,30115,,Hutchinson St & N 1st Ave,,34.90126,-117.026905,901,,0,,America/Los_Angeles,,,0
+844426,30131,,Lenwood Rd & Serrano,,34.850219,-117.082861,901,,0,,America/Los_Angeles,,,0
+813086,50111,,Arrowhead Dr & Greentree Blvd,,34.500198,-117.312293,899,,0,,America/Los_Angeles,,,0
+813458,40203,,Pyrite Ave & Chestnut St,,34.431384,-117.361205,899,,0,,America/Los_Angeles,,,0
+2394877,61058,,National Trails & Oro Grande Market,,34.600891,-117.338029,900,,0,,America/Los_Angeles,,,0
+813612,50208,,Hook & Rosemary South side,,34.5212,-117.341041,899,,0,,America/Los_Angeles,,,0
+813128,50198,,Hesperia Rd & Green Tree Blvd,,34.5009,-117.294226,899,,0,,America/Los_Angeles,,,0
+813571,50118,,Bear Valley Rd & 5th Ave,,34.47095,-117.308283,899,,0,,America/Los_Angeles,,,0
+813589,40187,,Main St & Tamarisk,,34.426844,-117.350822,899,,0,,America/Los_Angeles,,,0
+813551,50229,,La Paz & Lorene West side,,34.513123,-117.312749,899,,0,,America/Los_Angeles,,,0
+813442,20120,,Kiowa Rd & Ponca Rd,,34.490283,-117.207633,899,,0,,America/Los_Angeles,,,0
+813748,61054,,National Trails & Cardigan,,34.692964,-117.339018,900,,0,,America/Los_Angeles,,,0
+813570,20186,,Wren St & Kiowa Rd,,34.4497,-117.207083,899,,0,,America/Los_Angeles,,,0
+813772,61053,,National Trails & Bryman,,34.651993,-117.342844,900,,0,,America/Los_Angeles,,,0
+813050,40077,,Bear Valley Rd & 11th Ave,,34.470505,-117.320555,899,,0,,America/Los_Angeles,,,0
+813542,50289,,Rodeo Dr & Lariat Rd,,34.508435,-117.303803,899,,0,,America/Los_Angeles,,,0
+813517,50079,,11th St & Verde St (VV Hospital),,34.52873,-117.292567,899,,0,,America/Los_Angeles,,,0
+813218,20154,,Rancherias Rd & Carlisle Rd,,34.538733,-117.22575,899,,0,,America/Los_Angeles,,,0
+813167,50245,,Mesa View & Luna East side,,34.492332,-117.408141,899,,0,,America/Los_Angeles,,,0
+2394958,30232,,Armory & Montara,,34.883959,-116.994452,901,,0,,America/Los_Angeles,,,0
+813136,20104,,Goshute Ave & Pioneer Rd,,34.510845,-117.179784,899,,0,,America/Los_Angeles,,,0
+2394871,40245,,Main & Escondido,,34.426535,-117.372074,899,,0,,America/Los_Angeles,,,0
+813434,50203,,Hesperia Rd & Silica Dr,,34.478936,-117.290816,899,,0,,America/Los_Angeles,,,0
+813437,50260,,Nisqualli Rd & 9th Ave,,34.48532,-117.32162,899,,0,,America/Los_Angeles,,,0
+844414,30064,,Agate Rd & Cedar Rd,,34.892653,-117.10277,901,,0,,America/Los_Angeles,,,0
+813545,50091,,Amargosa & King Ranch (Jack In The Box),,34.476985,-117.341688,899,,0,,America/Los_Angeles,,,0
+813650,40148,,I Ave & Redbud St,,34.412219,-117.284587,899,,0,,America/Los_Angeles,,,0
+2388638,50006,7,Lorene-7th Dock 7,,34.514384,-117.317386,899,,0,813683,,,,0
+813778,60052,,Sierra Ave & Marygold Ave (Kaiser Hosp),,34.073087,-117.435438,901,,0,,America/Los_Angeles,,,0
+813360,20050,,Apple Valley Rd & Bear Valley Rd,,34.470271,-117.242515,899,,0,,America/Los_Angeles,,,0
+813743,10084,,Chamberlaine Way & Aster Rd,,34.586714,-117.436596,900,,0,,America/Los_Angeles,,,0
+813454,20165,,Outer Hwy 18 South & Mandan Rd,,34.535659,-117.239741,899,,0,,America/Los_Angeles,,,0
+813107,50304,,Silica Dr & Glen Canyon Ln,,34.478049,-117.311088,899,,0,,America/Los_Angeles,,,0
+2394833,20200,,Apple Valley Rd & Town Center,,34.467225,-117.24226,899,,0,,America/Los_Angeles,,,0
+813113,40069,,Arrowhead Lake Rd & Centennial St,,34.409876,-117.253229,899,,0,,America/Los_Angeles,,,0
+813694,50275,,Palmdale & E of Hwy 395 NE corner,,34.506813,-117.398434,900,,0,,America/Los_Angeles,,,0
+2391795,30217,,Barstow Rd & WIndy Pass,,34.880719,-117.022768,901,,0,,America/Los_Angeles,,,0
+813658,10118,,Seneca Rd & Bellflower St,,34.514101,-117.417837,899,,0,,America/Los_Angeles,,,0
+813241,40050,,3rd Ave & Cajon St,,34.428137,-117.305306,899,,0,,America/Los_Angeles,,,0
+813210,20189,,Yucca Loma Rd & Kiowa Rd,,34.5004,-117.205983,899,,0,,America/Los_Angeles,,,0
+844427,30126,,Lenwood Rd & Commerce Pkwy,,34.855048,-117.088992,901,,0,,America/Los_Angeles,,,0
+2382807,20226,,Waalew Rd at Los Ranchos 1,,34.55684336395,-117.21437611758,899,,0,,America/Los_Angeles,,,0
+813449,20121,,Kiowa Rd & Quileute Rd,,34.487683,-117.2078,899,,0,,America/Los_Angeles,,,0
+844395,30058,,S 7th Ave & Powell Ct,,34.895267,-117.019538,901,,0,,America/Los_Angeles,,,0
+813573,40191,,Mesa St & 3rd Ave,,34.448987,-117.303782,899,,0,,America/Los_Angeles,,,0
+844371,30105,,E Main St & N Muriel Dr,,34.898405,-117.010945,901,,0,,America/Los_Angeles,,,0
+813595,10069,,Bellflower St & Air Expressway,,34.57146,-117.418243,899,,0,,America/Los_Angeles,,,0
+813302,40098,,Cottonwood Ave & Eucalyptus St,,34.456141,-117.338495,899,,0,,America/Los_Angeles,,,0
+813534,20103,,Goshute Ave & Pioneer Rd,,34.510958,-117.179792,899,,0,,America/Los_Angeles,,,0
+813273,50184,,El Evado & Seneca West side,,34.513333,-117.346883,899,,0,,America/Los_Angeles,,,0
+813515,40179,,Main St & Locust Ave,,34.427157,-117.334284,899,,0,,America/Los_Angeles,,,0
+813337,40153,,Key Pointe Ave & Main St,,34.427511,-117.383636,899,,0,,America/Los_Angeles,,,0
+2326119,40232,,Willow St & Balsam Ave,,34.434917,-117.328162,899,,0,,America/Los_Angeles,,,0
+813636,20060,,Bear Valley Rd & De Varian Ln,,34.471243,-117.218689,899,,0,,America/Los_Angeles,,,0
+813461,20192,,Yucca Loma Rd & Rancherias Rd,,34.50045,-117.195633,899,,0,,America/Los_Angeles,,,0
+813504,20106,,Jess Ranch Pkwy & Marketplace Dr,,34.469245,-117.248941,899,,0,,America/Los_Angeles,,,0
+844391,30144,,Muriel Dr & Mountain View St,,34.893438,-117.012162,901,,0,,America/Los_Angeles,,,0
+813238,50248,,Mojave & La Paz SE corner,,34.528875,-117.311579,899,,0,,America/Los_Angeles,,,0
+844465,30108,,E Mountain View St & S 7th Ave,,34.893372,-117.02028,901,,0,,America/Los_Angeles,,,0
+813420,10000,,Hwy 395 & Palmdale Rd,,34.509749,-117.399686,899,,0,,America/Los_Angeles,,,0
+844472,30081,,Broadway Ave & De Anza St,,34.880865,-117.004692,901,,0,,America/Los_Angeles,,,0
+844502,30128,,Lenwood Rd at Loves E,,34.857172,-117.090898,901,,0,,America/Los_Angeles,,,0
+813723,63069,,Phelan Rd & Wilson Ranch Rd,,34.426408,-117.520179,900,,0,,America/Los_Angeles,,,0
+2394876,50325,,National Trails Hwy NB FS Air Expwy,,34.567557,-117.319668,900,,0,,America/Los_Angeles,,,0
+813137,50318,,Village Dr & Culebra Rd,,34.530967,-117.317333,899,,0,,America/Los_Angeles,,,0
+813668,40070,,Arrowhead Lake Rd & Sutter St,,34.406608,-117.25124,899,,0,,America/Los_Angeles,,,0
+813557,50223,,Kentwood Blvd & Ramona Ave,,34.508173,-117.327618,899,,0,,America/Los_Angeles,,,0
+813064,50238,,Mariposa Rd & Nisqualli Rd,,34.484103,-117.332109,899,,0,,America/Los_Angeles,,,0
+844400,30199,,W Main St & Dillingham Dr,,34.898407,-117.031446,901,,0,,America/Los_Angeles,,,0
+813753,10067,,Bartlett Ave & Jonathan St,,34.579335,-117.409203,900,,0,,America/Los_Angeles,,,0
+813245,20077,,Central Rd & Cholena Rd,,34.525567,-117.173017,899,,0,,America/Los_Angeles,,,0
+844407,30185,,W Main St & Ave K,,34.892573,-117.053864,901,,0,,America/Los_Angeles,,,0
+2394882,64051,,Pinion Hills Community Center,,34.438984,-117.646686,900,,0,,America/Los_Angeles,,,0
+813665,50153,,Del Rey & Vallejo East side,,34.531156,-117.308591,899,,0,,America/Los_Angeles,,,0
+813281,40132,,I Ave & E Ave,,34.450326,-117.276974,899,,0,,America/Los_Angeles,,,0
+813109,50193,,Green Tree Blvd & 6th Ave,,34.499784,-117.307368,899,,0,,America/Los_Angeles,,,0
+813177,20084,,Central Rd & Pahute Rd,,34.478517,-117.172767,899,,0,,America/Los_Angeles,,,0
+813728,62053,,Hwy 18 & Trade Post Rd,,34.443821,-116.96414,900,,0,,America/Los_Angeles,,,0
+844362,30147,,Rimrock Rd & Barstow Rd N,,34.876971,-117.021242,901,,0,,America/Los_Angeles,,,0
+813538,20094,,Central Rd & Ottawa Rd,,34.491309,-117.172776,899,,0,,America/Los_Angeles,,,0
+813486,20076,,Central Rd & Bear Valley Rd,,34.472169,-117.172876,899,,0,,America/Los_Angeles,,,0
+813402,50243,,Mesa Linda At Park & Bombay East side,,34.489674,-117.390519,899,,0,,America/Los_Angeles,,,0
+813502,40127,,G Ave & Sultana St,,34.413028,-117.289067,899,,0,,America/Los_Angeles,,,0
+813379,40150,,I Ave & Valencia St,,34.446789,-117.27724,899,,0,,America/Los_Angeles,,,0
+2388666,40253,,7th Ave & Main St,,34.424202,-117.315429,899,,0,,America/Los_Angeles,,,0
+813666,20122,,Kiowa Rd & Sandia Rd,,34.46385,-117.207817,899,,0,,America/Los_Angeles,,,0
+844389,30165,,Virginia Way & Lookout Dr,,34.88811,-117.020355,901,,0,,America/Los_Angeles,,,0
+813530,40197,,Mission St & Santa Fe Ave,,34.39407,-117.30662,899,,0,,America/Los_Angeles,,,0
+813148,40066,,7th Ave & Willow St,,34.43265,-117.313591,899,,0,,America/Los_Angeles,,,0
+844482,30065,,Agate Rd & Cedar Rd,,34.892464,-117.102812,901,,0,,America/Los_Angeles,,,0
+813364,20074,,Carlisle Rd & Chehalis Rd,,34.542033,-117.223283,899,,0,,America/Los_Angeles,,,0
+813265,40184,,Main St & Oakwood Ave,,34.426951,-117.342915,899,,0,,America/Los_Angeles,,,0
+813715,50249,,National Trails Hwy & Air Expressway,,34.566964,-117.319456,900,,0,,America/Los_Angeles,,,0
+2382813,20207,,Apple Valley Rd & Pimlico,,34.473618,-117.242507,899,,0,,America/Los_Angeles,,,0
+813367,40086,,C Ave & Mission St,,34.393633,-117.302503,899,,0,,America/Los_Angeles,,,0
+813738,50311,,Stoddard Wells Rd South of Overpass,,34.552736,-117.289182,900,,0,,America/Los_Angeles,,,0
+844461,30104,,E Main St & Yucca Ave,,34.896405,-117.007348,901,,0,,America/Los_Angeles,,,0
+2382808,20196,,Apple Valley Rd & Pimlco,,34.474618,-117.242199,899,,0,,America/Los_Angeles,,,0
+813149,10122,,Seneca Rd & Jonathan St,,34.513855,-117.408394,899,,0,,America/Los_Angeles,,,0
+813168,50269,,Orick & Vasquez,,34.546833,-117.3377,899,,0,,America/Los_Angeles,,,0
+813524,20112,,Kiowa Rd & Bear Valley Rd,,34.470117,-117.207833,899,,0,,America/Los_Angeles,,,0
+844413,30085,,Cedar Rd & Jasper Rd,,34.883801,-117.102369,901,,0,,America/Los_Angeles,,,0
+813744,10093,,Chamberlaine Way & Thomas Ct,,34.586741,-117.440899,900,,0,,America/Los_Angeles,,,0
+813192,50109,,Arlette Dr & Joshua St,,34.524778,-117.334644,899,,0,,America/Los_Angeles,,,0
+813468,40106,,Cottonwood Ave & Sycamore St,,34.463303,-117.338587,899,,0,,America/Los_Angeles,,,0
+813393,50125,,Bear Valley Rd & Balsam Ave,,34.470719,-117.331852,899,,0,,America/Los_Angeles,,,0
+813638,50247,,S Mojave Dr & Joshua St,,34.525037,-117.299781,899,,0,,America/Los_Angeles,,,0
+813312,40094,,Cedar St & Escondido Ave,,34.40492,-117.373206,899,,0,,America/Los_Angeles,,,0
+813529,20136,,Navajo Rd & Del Oro Rd,,34.4574,-117.190083,899,,0,,America/Los_Angeles,,,0
+844483,30084,,Cedar Rd & Jade Rd,,34.887397,-117.102607,901,,0,,America/Los_Angeles,,,0
+2388664,40250,,7th Ave & Lime St,,34.408965,-117.318746,899,,0,,America/Los_Angeles,,,0
+844336,30133,,Melissa Ave & E Mountain View St,,34.89395,-117.017009,901,,0,,America/Los_Angeles,,,0
+2388663,40243,,3rd Ave & Lime,,34.407565,-117.309937,899,,0,,America/Los_Angeles,,,0
+813508,40181,,Main St & Maple Ave,,34.426957,-117.348109,899,,0,,America/Los_Angeles,,,0
+2394823,10125,,Verbena Rd & Victor St,,34.521426,-117.425726,899,,0,,America/Los_Angeles,,,0
+813712,61071,,Oro Grande Post Office,,34.599332,-117.334485,900,,0,,America/Los_Angeles,,,0
+813677,40126,,G Ave & Main St,,34.418619,-117.288077,899,,0,,America/Los_Angeles,,,0
+813370,20119,,Kiowa Rd & Pahute Rd,,34.478528,-117.207838,899,,0,,America/Los_Angeles,,,0
+844420,30117,,Jasper Rd & Camino Del Sol,,34.878264,-117.114563,901,,0,,America/Los_Angeles,,,0
+813151,20068,,Bear Valley Rd & Mohawk Rd,,34.4716,-117.19935,899,,0,,America/Los_Angeles,,,0
+844481,30062,,Agate Rd & Birch Rd,,34.892522,-117.106658,901,,0,,America/Los_Angeles,,,0
+813673,50138,,Burning Tree Dr & Molino Dr,,34.511333,-117.3146,899,,0,,America/Los_Angeles,,,0
+844438,30187,,W Main St & L St,,34.891087,-117.058945,901,,0,,America/Los_Angeles,,,0
+2394850,20218,,Corwin Rd & Palmero,,34.540748,-117.261127,899,,0,,America/Los_Angeles,,,0
+813069,40072,,Bear Valley Rd & 2nd Ave,,34.470735,-117.298764,899,,0,,America/Los_Angeles,,,0
+813248,10101,,Koala Rd & Barcelona Ave,,34.592701,-117.453712,899,,0,,America/Los_Angeles,,,0
+813429,50236,,Luna Rd & Mesa Linda Ave,,34.49227,-117.391304,899,,0,,America/Los_Angeles,,,0
+813518,40124,,Escondido Ave & Sultana St,,34.420227,-117.372739,899,,0,,America/Los_Angeles,,,0
+813129,40210,,Sultana St & I Ave,,34.411598,-117.285586,899,,0,,America/Los_Angeles,,,0
+813279,40152,,Juniper St & 7th Ave,,34.425593,-117.316758,899,,0,,America/Los_Angeles,,,0
+2388639,50001,8,Lorene-7th Dock 8,,34.514395,-117.317152,899,,0,813683,,,,0
+2394854,20219,,Corwin Rd & Tao,,34.544006,-117.251526,899,,0,,America/Los_Angeles,,,0
+813713,63055,,Phelan Rd & Arrowhead Rd,,34.426396,-117.455752,900,,0,,America/Los_Angeles,,,0
+844476,30118,,Jasper Rd & Birch Rd,,34.881737,-117.10527,901,,0,,America/Los_Angeles,,,0
+813662,50107,,Amethyst Rd & Northstar Ave,,34.478231,-117.364178,899,,0,,America/Los_Angeles,,,0
+813788,50116,,Bear Valley Park & Ride,,34.469317,-117.347937,901,,0,,America/Los_Angeles,,,0
+813419,20054,,Bear Valley Rd & Apple Valley Rd,,34.470869,-117.243801,899,,0,,America/Los_Angeles,,,0
+813705,61067,,National Trails Hwy & Citation St E,,34.692805,-117.339322,900,,0,,America/Los_Angeles,,,0
+813642,50110,,Arlette Dr & Joshua St,,34.524495,-117.33477,899,,0,,America/Los_Angeles,,,0
+813792,30140,,Irwin Rd NB - Mt View Cemetery,,34.923081,-117.026682,901,,0,,America/Los_Angeles,,,0
+844429,30210,,W Main St & Woods Ave,,34.875479,-117.11253,901,,0,,America/Los_Angeles,,,0
+813398,40207,,Sultana St & Camphor Ave,,34.41371,-117.277316,899,,0,,America/Los_Angeles,,,0
+813581,40134,,I Ave & Eucalyptus St,,34.454659,-117.277017,899,,0,,America/Los_Angeles,,,0
+2388647,61082,,National Trails Hwy & Indian Trail,,34.769773,-117.271804,901,,0,,America/Los_Angeles,,,0
+813341,50071,,7th St & Mojave Dr,,34.52805,-117.30025,899,,0,,America/Los_Angeles,,,0
+844345,30102,,E Main St & Muriel Dr,,34.89852,-117.012328,901,,0,,America/Los_Angeles,,,0
+844489,30179,,W Main St & Ave G,,34.894871,-117.044795,901,,0,,America/Los_Angeles,,,0
+844496,30188,,W Main St NS Birch Rd N,,34.878953,-117.105317,901,,0,,America/Los_Angeles,,,0
+813493,50267,,Nisqualli Rd & Hesperia Rd,,34.485549,-117.293668,899,,0,,America/Los_Angeles,,,0
+813438,40076,,Bear Valley Rd & 9th Ave,,34.470537,-117.316186,899,,0,,America/Los_Angeles,,,0
+813512,20168,,Outer Hwy 18 South & Piute Rd,,34.534322,-117.237052,899,,0,,America/Los_Angeles,,,0
+813313,10117,,Rancho Rd & Verbena Rd,,34.558067,-117.427498,899,,0,,America/Los_Angeles,,,0
+813601,20072,,Bear Valley Rd & Quinnault Rd,,34.471418,-117.181209,899,,0,,America/Los_Angeles,,,0
+813783,65001,,Mates & South Depot Loop,,35.249791,-116.678889,901,,0,,America/Los_Angeles,,,0
+844351,30093,,E Main at Quality Inn W,,34.893376,-117.003128,901,,0,,America/Los_Angeles,,,0
+844337,30091,,E Main St & N 6th Ave,,34.898825,-117.021434,901,,0,,America/Los_Angeles,,,0
+813397,50134,,Bear Valley Rd & Pacoima Rd,,34.4705,-117.356567,899,,0,,America/Los_Angeles,,,0
+2394841,20209,,Apple Valley Rd & Shoshonee,,34.506838,-117.242625,899,,0,,America/Los_Angeles,,,0
+813351,20161,,Outer Hwy 18 South & Dale Evans Pkwy,,34.523183,-117.216567,899,,0,,America/Los_Angeles,,,0
+813353,10070,,Bellflower St & Air Expressway,,34.571541,-117.418503,899,,0,,America/Los_Angeles,,,0
+813426,61072,,Portland St & 1st St,,34.596275,-117.333204,899,,0,,America/Los_Angeles,,,0
+813305,50305,,Silica Dr & Glen Canyon Ln,,34.477924,-117.31036,899,,0,,America/Los_Angeles,,,0
+2394838,20205,,Apple Valley Rd & Mandan,,34.52031,-117.247199,899,,0,,America/Los_Angeles,,,0
+813258,50122,,Bear Valley Rd & Amethyst Rd,,34.470567,-117.362633,899,,0,,America/Los_Angeles,,,0
+813233,50219,,Jasmine & Industrial North side,,34.47505,-117.283283,899,,0,,America/Los_Angeles,,,0
+2394831,20198,,Apple Valley Rd & Shoshonee,,34.508093,-117.242478,899,,0,,America/Los_Angeles,,,0
+813441,50053,,7th St & E Sage St,,34.511264,-117.318178,899,,0,,America/Los_Angeles,,,0
+813120,40080,,Bear Valley Rd & Hesperia Rd,,34.470795,-117.291587,899,,0,,America/Los_Angeles,,,0
+2394957,30137,,Montara Rd & E Main St,,34.885356,-116.993471,901,,0,,America/Los_Angeles,,,0
+813552,50077,,7th St & Westside Rd,,34.532038,-117.29817,899,,0,,America/Los_Angeles,,,0
+813141,50230,,La Paz & Seneca West side,,34.515933,-117.3127,899,,0,,America/Los_Angeles,,,0
+2391798,30222,,Buena Vista & Silver Lane,,34.89571,-117.030138,901,,0,,America/Los_Angeles,,,0
+844501,30129,,Lenwood Rd & Commerce Pkwy,,34.855134,-117.089619,901,,0,,America/Los_Angeles,,,0
+2326117,40223,,Willow St & 11th St,,34.43458,-117.321759,899,,0,,America/Los_Angeles,,,0
+844368,30146,,Rimrock Rd & Borrego Dr,,34.876416,-117.005724,901,,0,,America/Los_Angeles,,,0
+813628,20091,,Central Rd & Standing Rock Ave,,34.522933,-117.172817,899,,0,,America/Los_Angeles,,,0
+813092,40173,,Main St & Choiceana St,,34.414315,-117.256627,899,,0,,America/Los_Angeles,,,0
+813321,40061,,7th Ave & Chestnut St,,34.42798,-117.314549,899,,0,,America/Los_Angeles,,,0
+2388662,40248,,3rd Ave & Sultana,,34.415707,-117.308183,899,,0,,America/Los_Angeles,,,0
+2394814,40079,,Bear Valley Rd & Cottonwood Ave,,34.470334,-117.337247,899,,0,,America/Los_Angeles,,,0
+813145,40198,,Muscatel St & Coyote Trail,,34.412086,-117.381266,899,,0,,America/Los_Angeles,,,0
+813093,20148,,Pawnee Rd & Esaws Ave,,34.507667,-117.184417,899,,0,,America/Los_Angeles,,,0
+844338,30052,,S 1st Ave & Williams St,,34.897765,-117.027736,901,,0,,America/Los_Angeles,,,0
+813698,10089,,Chamberlaine Way & Panther Ave,,34.587059,-117.447201,900,,0,,America/Los_Angeles,,,0
+813498,50103,,Amethyst Rd & Dry Creek Rd,,34.489412,-117.364454,899,,0,,America/Los_Angeles,,,0
+2388637,50003,6,Lorene-7th Dock 6,,34.514407,-117.318176,899,,0,813683,,,,0
+844437,30203,,W Main St & Santa Catalina Ave,,34.889347,-117.06584,901,,0,,America/Los_Angeles,,,0
+813474,20128,,Outer Hwy 18 North & Kiowa Rd,,34.506967,-117.198467,899,,0,,America/Los_Angeles,,,0
+813268,40159,,Main St & 4th Ave,,34.422513,-117.308968,899,,0,,America/Los_Angeles,,,0
+813491,10052,,Adelanto Rd & Air Expressway,,34.572645,-117.400548,899,,0,,America/Los_Angeles,,,0
+813352,20000,,Apple Valley Post Office,,34.499534,-117.181322,899,,0,,America/Los_Angeles,,,0
+813625,40208,,Sultana St & E Ave,,34.412514,-117.292883,899,,0,,America/Los_Angeles,,,0
+813374,50280,,Phantom West & George Blvd,,34.586398,-117.374428,899,,0,,America/Los_Angeles,,,0
+2391797,30221,,Buena Vista & Silver Lane,,34.895588,-117.029539,901,,0,,America/Los_Angeles,,,0
+813505,50189,,Green Tree Blvd & Arrowhead Dr,,34.500161,-117.310996,899,,0,,America/Los_Angeles,,,0
+813295,20129,,Outer Hwy 18 North & Navajo Rd,,34.500791,-117.189128,899,,0,,America/Los_Angeles,,,0
+2394822,10054,,Air Expressway & Aster Rd,,34.572231917187,-117.4347829746,899,,0,,America/Los_Angeles,,,0
+844405,30181,,W Main St & Ave H,,34.894066,-117.048088,901,,0,,America/Los_Angeles,,,0
+813611,50160,,Dos Palmas & Mesa View South side,,34.499373,-117.407925,899,,0,,America/Los_Angeles,,,0
+813464,20173,,Thunderbird Rd & Apache Rd,,34.529433,-117.205367,899,,0,,America/Los_Angeles,,,0
+2391799,30219,,Ave A & Buena Vista,,34.895581,-117.034495,901,,0,,America/Los_Angeles,,,0
+2394873,40256,,Avenal St & Box Mandela Rd,,34.437572,-117.368829,899,,0,,America/Los_Angeles,,,0
+813629,50108,,Amethyst Rd & Northstar Ave,,34.477343,-117.364423,899,,0,,America/Los_Angeles,,,0
+2388655,61088,,Silver Valley Rd & Newberry Rd,,34.865564,-116.663439,1095,,0,,America/Los_Angeles,,,0
+813061,10132,,Victor St & Verbena Rd,,34.520955,-117.424825,899,,0,,America/Los_Angeles,,,0
+844380,30080,,Broadway Ave & Armory Rd,,34.883433,-117.004904,901,,0,,America/Los_Angeles,,,0
+813077,10098,,Jonathan St & Villa St,,34.517737,-117.408327,899,,0,,America/Los_Angeles,,,0
+2391794,30229,,Armory & Higgins,,34.883856,-116.997295,901,,0,,America/Los_Angeles,,,0
+813310,20175,,Thunderbird Rd & Comanche Rd,,34.529467,-117.20085,899,,0,,America/Los_Angeles,,,0
+813299,50172,,El Evado & La Brisa East side,,34.486304,-117.346587,899,,0,,America/Los_Angeles,,,0
+813349,20145,,Nisqually Rd & Quinnault Rd,,34.486169,-117.182685,899,,0,,America/Los_Angeles,,,0
+813439,40168,,Main St & 11th Ave,,34.424806,-117.324609,899,,0,,America/Los_Angeles,,,0
+2394950,30162,,Tanger Mall,,34.847088,-117.084516,901,,0,,America/Los_Angeles,,,0
+813291,50158,,Dos Palmas & Mayflower South side,,34.49924,-117.385978,899,,0,,America/Los_Angeles,,,0
+2394832,20199,,Apple Valley Rd & Sitting Bull,,34.486278,-117.242317,899,,0,,America/Los_Angeles,,,0
+813174,50196,,Hesperia Rd & Comanche St,,34.481579,-117.290796,899,,0,,America/Los_Angeles,,,0
+844358,30155,,Rimrock Rd & Opal Ave,,34.876593,-117.002778,901,,0,,America/Los_Angeles,,,0
+813652,40078,,Bear Valley Rd & Balsam Ave,,34.470415,-117.330227,899,,0,,America/Los_Angeles,,,0
+813608,50317,,Fish Hatchery,,34.4777,-117.261135,899,,0,,America/Los_Angeles,,,0
+844375,30143,,Muriel Dr & Elizabeth St,,34.889438,-117.012246,901,,0,,America/Los_Angeles,,,0
+813704,61060,,Nat Tr&Rob Rnch West,,34.639093,-117.345541,900,,0,,America/Los_Angeles,,,0
+813288,40189,,Main St & Topaz Ave,,34.426602,-117.35682,899,,0,,America/Los_Angeles,,,0
+813063,40144,,I Ave & Mauna Loa St,,34.436983,-117.279375,899,,0,,America/Los_Angeles,,,0
+813773,63071,,Phelan Rd & Lilac Rd,,34.426564,-117.421804,900,,0,,America/Los_Angeles,,,0
+813717,61074,,Silver Lakes-Mkt at Vista North side,,34.74472,-117.335403,900,,0,,America/Los_Angeles,,,0
+813686,62059,,Moss MHP North side,,34.437061,-116.826935,900,,0,,America/Los_Angeles,,,0
+813228,50242,,Mesa Linda & La Mesa East side,,34.484527,-117.390526,899,,0,,America/Los_Angeles,,,0
+813116,20138,,Navajo Rd & Ottawa Rd,,34.493749,-117.190016,899,,0,,America/Los_Angeles,,,0
+813667,20086,,Central Rd & Ramona Rd,,34.514885,-117.172704,899,,0,,America/Los_Angeles,,,0
+844468,30111,,E Mountain View St & Adele Dr,,34.893773,-117.013257,901,,0,,America/Los_Angeles,,,0
+813253,50136,,Bear Valley Rd & Topaz Rd,,34.470467,-117.381533,899,,0,,America/Los_Angeles,,,0
+844446,30198,,W Main St & May Ave,,34.897829,-117.032948,901,,0,,America/Los_Angeles,,,0
+844366,30156,,Rimrock Rd & Princeton Dr,,34.876691,-117.018185,901,,0,,America/Los_Angeles,,,0
+813707,10063,,Bartlett Ave & Adelanto Rd,,34.579137,-117.401261,900,,0,,America/Los_Angeles,,,0
+813422,40065,,7th Ave & Verde St,,34.443551,-117.312275,899,,0,,America/Los_Angeles,,,0
+813188,50064,,7th St & Forrest Ave,,34.533217,-117.296483,899,,0,,America/Los_Angeles,,,0
+2388643,61076,,Old Hwy 58 & Community Blvd,,34.910686,-117.083373,901,,0,,America/Los_Angeles,,,0
+2394827,20181,,Thunderbird Rd & Nanticoke Rd,,34.5295,-117.181924,899,,0,,America/Los_Angeles,,,0
+813292,20114,,Kiowa Rd & Del Oro Rd,,34.45805,-117.207767,899,,0,,America/Los_Angeles,,,0
+2394825,20062,,Bear Valley Rd & Jess Ranch Pkwy,,34.470817,-117.250006,899,,0,,America/Los_Angeles,,,0
+844457,30153,,Rimrock Rd & Muriel Dr,,34.876606,-117.01296,901,,0,,America/Los_Angeles,,,0
+813328,20162,,Outer Hwy 18 South & Flathead Rd,,34.514472,-117.207392,899,,0,,America/Los_Angeles,,,0
+813342,20095,,Dale Evans Pkwy & Outer Hwy 18 North,,34.524783,-117.215683,899,,0,,America/Los_Angeles,,,0
+813610,20151,,Pioneer Rd & Esaws Ave,,34.50819,-117.178829,899,,0,,America/Los_Angeles,,,0
+813630,10056,,Air Expressway & Jonathan St,,34.572083,-117.40844,899,,0,,America/Los_Angeles,,,0
+844500,30127,,Lenwood Rd at Loves W,,34.857106,-117.091179,901,,0,,America/Los_Angeles,,,0
+813399,50101,,Amethyst Rd & Creosote St,,34.480644,-117.364445,899,,0,,America/Los_Angeles,,,0
+2388667,40252,,7th Ave & Sultana St,,34.416102,-117.317328,899,,0,,America/Los_Angeles,,,0
+813176,40074,,Bear Valley Rd & 5th Ave,,34.470673,-117.308188,899,,0,,America/Los_Angeles,,,0
+813345,50119,,Bear Valley Rd & 7th Ave,,34.470853,-117.314526,899,,0,,America/Los_Angeles,,,0
+813097,40121,,Escondido Ave & Main St,,34.425705,-117.373151,899,,0,,America/Los_Angeles,,,0
+844363,30077,,Barstow Community College,,34.871385,-117.02337,901,,0,,America/Los_Angeles,,,0
+2394885,65002,,Inner Loop Across From Bldg 990,,35.253532,-116.685492,901,,0,,America/Los_Angeles,,,0
+813365,50063,,7th St & Desert Knoll Dr,,34.51985,-117.30965,899,,0,,America/Los_Angeles,,,0
+813358,20067,,Bear Valley Rd & Mohawk Rd,,34.471337,-117.199202,899,,0,,America/Los_Angeles,,,0
+813679,10059,,Aster Rd & Joshua St,,34.524665,-117.43461,899,,0,,America/Los_Angeles,,,0
+813119,10128,,Victor St & Aster Rd,,34.521079,-117.434097,899,,0,,America/Los_Angeles,,,0
+813751,50306,,Stoddard Wells Rd & 15 Fwy (Motel 6),,34.55715,-117.289667,900,,0,,America/Los_Angeles,,,0
+813626,50211,,Industrial & Bear Valley West side,,34.472941,-117.282993,899,,0,,America/Los_Angeles,,,0
+2326120,40224,,Wiilow St & Balsam Ave,,34.434832,-117.32995,899,,0,,America/Los_Angeles,,,0
+813582,50190,,Greentree & Dean_Knolls West Convalescen,,34.500144,-117.294903,899,,0,,America/Los_Angeles,,,0
+813616,40135,,I Ave & Eucalyptus St,,34.454621,-117.277294,899,,0,,America/Los_Angeles,,,0
+813706,63065,,Phelan Rd & Sierra Vista Rd,,34.426257,-117.566501,900,,0,,America/Los_Angeles,,,0
+813396,20134,,Outer Hwy 18 North & Nancotta Rd,,34.538247,-117.254753,899,,0,,America/Los_Angeles,,,0
+813620,50328,,Palmdale Rd & Hwy 395,,34.506542,-117.398647,899,,0,,America/Los_Angeles,,,0
+813586,50255,,Nisqualli Rd & 1st Ave,,34.485352,-117.294779,899,,0,,America/Los_Angeles,,,0
+844373,30101,,E Main St & N 7th Ave,,34.898796,-117.017336,901,,0,,America/Los_Angeles,,,0
+813114,50059,,Arrowhead Dr & Winona St,,34.489934,-117.312586,899,,0,,America/Los_Angeles,,,0
+813423,50266,,Nisqualli Rd & Cypress Ave,,34.48515,-117.31638,899,,0,,America/Los_Angeles,,,0
+813475,50262,,Nisqualli Rd & Arrowhead Dr,,34.485463,-117.313055,899,,0,,America/Los_Angeles,,,0
+813619,40201,,Olive St & C Ave,,34.416951,-117.296054,899,,0,,America/Los_Angeles,,,0
+813261,50099,,Amethyst Rd & Clear Valley Rd,,34.497065,-117.363897,899,,0,,America/Los_Angeles,,,0
+844367,30158,,Rimrock Rd & Rushmore Dr,,34.876502,-117.009125,901,,0,,America/Los_Angeles,,,0
+844463,30055,,S 2nd Ave & E Buena Vista St,,34.894581,-117.026115,901,,0,,America/Los_Angeles,,,0
+813213,20096,,Dale Evans Pkwy & Johnson Rd,,34.600331,-117.20677,899,,0,,America/Los_Angeles,,,0
+813378,40102,,Cottonwood Ave & Mojave St,,34.441086,-117.338413,899,,0,,America/Los_Angeles,,,0
+813691,10076,,Bellflower St & Rancho Rd,,34.558838,-117.418465,900,,0,,America/Los_Angeles,,,0
+813234,50253,,Nisqualli & 11th Ave,,34.485276,-117.326747,899,,0,,America/Los_Angeles,,,0
+813578,20061,,Bear Valley Rd & Iroquois Rd,,34.471635,-117.214478,899,,0,,America/Los_Angeles,,,0
+2394848,20216,,Corwin Rd & Chippewa,,34.547585,-117.242533,899,,0,,America/Los_Angeles,,,0
+813604,40142,,I Ave & Main St,,34.419738,-117.283025,899,,0,,America/Los_Angeles,,,0
+813232,50127,,Bear Valley Rd & Cottonwood Ave,,34.470624,-117.337417,899,,0,,America/Los_Angeles,,,0
+813597,40154,,Live Oak Ln & Tamarisk Ave,,34.434819,-117.351328,899,,0,,America/Los_Angeles,,,0
+813134,50177,,El Evado & Manzano West side,,34.4886,-117.346917,899,,0,,America/Los_Angeles,,,0
+813173,50288,,Rodeo & Hughes,,34.509947,-117.303979,899,,0,,America/Los_Angeles,,,0
+844352,30098,,E Main St & Cal Ave,,34.89089,-116.999306,901,,0,,America/Los_Angeles,,,0
+813777,60051,,Arrowhead Reg Medical Center,,34.072288,-117.351681,901,,0,,America/Los_Angeles,,,0
+844408,30194,,W Main St & L St,,34.891738,-117.057208,901,,0,,America/Los_Angeles,,,0
+813413,50104,,Amethyst Rd & Eastgate Way,,34.475283,-117.364161,899,,0,,America/Los_Angeles,,,0
+813588,50165,,El Evado & Bonanza East side,,34.5025,-117.3467,899,,0,,America/Los_Angeles,,,0
+813138,20090,,Central Rd & Sioux Rd,,34.474833,-117.172717,899,,0,,America/Los_Angeles,,,0
+813609,20123,,Kiowa Rd & Caddo Rd,,34.474887,-117.207879,899,,0,,America/Los_Angeles,,,0
+813187,40087,,C Ave & Muscatel St,,34.409764,-117.299272,899,,0,,America/Los_Angeles,,,0
+813331,40141,,I Ave & Main St,,34.419199,-117.282846,899,,0,,America/Los_Angeles,,,0
+844388,30075,,Armory Rd & Muriel Dr,,34.884125,-117.01315,901,,0,,America/Los_Angeles,,,0
+844474,30169,,Virginia Way & Western Whip,,34.888077,-117.016116,901,,0,,America/Los_Angeles,,,0
+844393,30048,,7th & Williams W,,34.897439,-117.019746,901,,0,,America/Los_Angeles,,,0
+813239,50261,,Nisqualli Rd & 9th Ave,,34.485126,-117.320716,899,,0,,America/Los_Angeles,,,0
+2394952,30092,,E Main St & S 6th Ave,,34.898612,-117.020702,901,,0,,America/Los_Angeles,,,0
+813745,63066,,Phelan Rd & Sonora Rd,,34.426692,-117.512627,900,,0,,America/Los_Angeles,,,0
+813651,50145,,Condor Rd & Mojave Dr,,34.529298,-117.320807,899,,0,,America/Los_Angeles,,,0
+813415,50204,,Hesperia Rd & Silica Dr,,34.477168,-117.291353,899,,0,,America/Los_Angeles,,,0
+813330,50294,,Seneca Rd & Park Ave,,34.514435,-117.325171,899,,0,,America/Los_Angeles,,,0
+813262,50234,,Luna & Bella Pine North side,,34.492319,-117.401116,899,,0,,America/Los_Angeles,,,0
+813436,40167,,Main St & 11th Ave,,34.425534,-117.325787,899,,0,,America/Los_Angeles,,,0
+813195,20116,,Kiowa Rd & Little Beaver Rd,,34.48245,-117.207667,899,,0,,America/Los_Angeles,,,0
+813235,40176,,Main St & Escondido Ave,,34.426491,-117.374205,899,,0,,America/Los_Angeles,,,0
+813272,50293,,Roy Rogers Dr & Amargosa Rd,,34.521321,-117.329652,899,,0,,America/Los_Angeles,,,0
+813070,50169,,El Evado Rd & El Grande Way,,34.517148,-117.3469,899,,0,,America/Los_Angeles,,,0
+813681,10083,,Chamberlaine Way and Aster N,,34.586889,-117.436398,899,,0,,America/Los_Angeles,,,0
+813547,40097,,Cottonwood Ave & Cashew St,,34.435764,-117.33839,899,,0,,America/Los_Angeles,,,0
+813060,20191,,Yucca Loma Rd & Rancherias Rd,,34.50057,-117.19637,899,,0,,America/Los_Angeles,,,0
+813692,65050,,Wrightwood Community Center,,34.360878,-117.634045,900,,0,,America/Los_Angeles,,,0
+2388670,40247,,3rd Ave & Sultana,,34.415524,-117.308045,899,,0,,America/Los_Angeles,,,0
+813633,50149,,Cottonwood Ave & Pahute Ave,,34.476214,-117.33882,899,,0,,America/Los_Angeles,,,0
+844459,30135,,Montara Rd & Elm Ln,,34.878468,-116.993628,901,,0,,America/Los_Angeles,,,0
+844394,30060,,S 7th Ave & Williams St,,34.897445,-117.01958,901,,0,,America/Los_Angeles,,,0
+813466,50321,,Village Dr & Rancho Rd,,34.557378,-117.338634,899,,0,,America/Los_Angeles,,,0
+813103,20079,,Central Rd & Little Beaver Rd,,34.482817,-117.172567,899,,0,,America/Los_Angeles,,,0
+813479,10057,,Air Expressway & Verbena Rd,,34.572132,-117.427742,899,,0,,America/Los_Angeles,,,0
+813615,40115,,E Ave & Olive St,,34.416983,-117.293148,899,,0,,America/Los_Angeles,,,0
+813606,10079,,Bellflower St & Villa St,,34.517971,-117.417152,899,,0,,America/Los_Angeles,,,0
+2326110,40220,,7th Ave & Mauna Loa St,,34.441323,-117.312236,899,,0,,America/Los_Angeles,,,0
+844497,30172,,W Main St FS Ash Rd N,,34.877537,-117.10885,901,,0,,America/Los_Angeles,,,0
+813106,40212,,Sultana St & Santa Fe Ave,,34.41402,-117.30204,899,,0,,America/Los_Angeles,,,0
+813480,50014,,VVC Dock 4,,34.473354,-117.264994,899,,0,,America/Los_Angeles,,,0
+844433,30204,,W Main St & Western Dr,,34.879674,-117.10293,901,,0,,America/Los_Angeles,,,0
+813767,10055,,Air Expressway & Bellflower St,,34.572152,-117.417691,900,,0,,America/Los_Angeles,,,0
+844434,30206,,W Main St & Western Dr,,34.880464,-117.100875,901,,0,,America/Los_Angeles,,,0
+813276,40219,,Willow St & Shangri La Ave,,34.434772,-117.347818,899,,0,,America/Los_Angeles,,,0
+813179,50259,,Nisqualli Rd & 7th Ave,,34.485137,-117.311773,899,,0,,America/Los_Angeles,,,0
+844411,30207,,W Main St & Woodhill Ave N,,34.887024,-117.075735,901,,0,,America/Los_Angeles,,,0
+844453,30095,,E Main St & Mountain View St,,34.895124,-117.005743,901,,0,,America/Los_Angeles,,,0
+813380,50303,,Silica Dr & 3rd Ave,,34.477995,-117.303016,899,,0,,America/Los_Angeles,,,0
+813283,10107,,Mojave Dr & Daisy Rd,,34.528357,-117.430511,899,,0,,America/Los_Angeles,,,0
+813553,40125,,Escondido Ave & Main St (Walmart),,34.4236,-117.372747,899,,0,,America/Los_Angeles,,,0
+813487,50121,,Bear Valley Rd & 11th Ave,,34.470767,-117.321667,899,,0,,America/Los_Angeles,,,0
+813065,20092,,Central Rd & Standing Rock Ave,,34.522,-117.173,899,,0,,America/Los_Angeles,,,0
+813053,50209,,Hughes & Pebble Beach Park S,,34.510707,-117.305932,899,,0,,America/Los_Angeles,,,0
+844458,30149,,Rimrock Rd & Montera Rd,,34.87622,-116.996726,901,,0,,America/Los_Angeles,,,0
+813684,63068,,Phelan Rd & Wilson Ranch,,34.426709,-117.52145,900,,0,,America/Los_Angeles,,,0
+813191,40158,,Main St & 3rd Ave,,34.422047,-117.305688,899,,0,,America/Los_Angeles,,,0
+813267,40180,,Main St & Locust,,34.426895,-117.333712,899,,0,,America/Los_Angeles,,,0
+813654,20052,,Apple Valley Rd & Town Center Dr,,34.466133,-117.242517,899,,0,,America/Los_Angeles,,,0
+844484,30208,,W Main St & Woodhill Ave,,34.886491,-117.077036,901,,0,,America/Los_Angeles,,,0
+813653,20113,,Kiowa Rd & Caddo Rd,,34.473924,-117.207577,899,,0,,America/Los_Angeles,,,0
+813489,50217,,Jasmine & Hesperia Rd SE corner,,34.474757,-117.291039,899,,0,,America/Los_Angeles,,,0
+813394,40149,,I Ave & Valencia St,,34.445508,-117.277236,899,,0,,America/Los_Angeles,,,0
+813335,50191,,Green Tree & Greenbriar North side,,34.500067,-117.305217,899,,0,,America/Los_Angeles,,,0
+813462,20093,,Central Rd & Thunderbird Rd,,34.529083,-117.173083,899,,0,,America/Los_Angeles,,,0
+813346,40083,,C Ave & Bodart St,,34.396317,-117.302135,899,,0,,America/Los_Angeles,,,0
+844487,30090,,Center St & Upton Dr,,34.87867,-117.009173,901,,0,,America/Los_Angeles,,,0
+813497,50095,,Amargosa Rd & Topango Rd,,34.538661,-117.33003,899,,0,,America/Los_Angeles,,,0
+813318,50244,,Mesa View & Dellwood East side,,34.494629,-117.408147,899,,0,,America/Los_Angeles,,,0
+813424,50192,,Greentree & Rodeo NorthEast corner,,34.500116,-117.303295,899,,0,,America/Los_Angeles,,,0
+844480,30069,,Agate Rd & Walnut St,,34.892529,-117.110691,901,,0,,America/Los_Angeles,,,0
+2388642,63072,,Phelan & Sheep Creek,,34.426419,-117.573855,900,,0,,America/Los_Angeles,,,0
+813329,20056,,Bear Valley Rd & Joshua Rd,,34.471878,-117.159988,899,,0,,America/Los_Angeles,,,0
+813052,10060,,Aster Rd & Kemper Ave,,34.577744,-117.435997,899,,0,,America/Los_Angeles,,,0
+813099,50081,,Air Expressway & George Blvd,,34.572076,-117.359814,899,,0,,America/Los_Angeles,,,0
+813624,40114,,Danbury Ave & Peach Ave,,34.402815,-117.264445,899,,0,,America/Los_Angeles,,,0
+813513,40081,,Bear Valley Rd & Mariposa Rd,,34.470306,-117.342422,899,,0,,America/Los_Angeles,,,0
+813674,20147,,Pawnee Rd & Cherokee Ave,,34.504711,-117.184399,899,,0,,America/Los_Angeles,,,0
+813733,10072,,Bellflower St & Lee Ave,,34.583317,-117.41836,900,,0,,America/Los_Angeles,,,0
+2326115,40222,,Willow St & 9th St,,34.434078,-117.318705,899,,0,,America/Los_Angeles,,,0
+813071,40103,,Cottonwood Ave & Pendleton St,,34.447414,-117.338417,899,,0,,America/Los_Angeles,,,0
+813324,50214,,Jasmine & BusinessCenter North side,,34.475021,-117.286264,899,,0,,America/Los_Angeles,,,0
+2388654,61090,,W Yermo Rd & 1st St,,34.904948,-116.821146,1095,,0,,America/Los_Angeles,,,0
+2382809,20223,,Navajo Rd & Johnson (Traning Center),,34.598025,-117.189428,899,,0,,America/Los_Angeles,,,0
+813058,50180,,El Evado & Palmdale East side,,34.505837,-117.346591,899,,0,,America/Los_Angeles,,,0
+813333,40122,,Escondido Ave & Muscatel St,,34.411999,-117.372979,899,,0,,America/Los_Angeles,,,0
+813163,20144,,Nisqually Rd & Pawnee Rd,,34.486092,-117.186108,899,,0,,America/Los_Angeles,,,0
+813068,50197,,Hesperia Rd & Crestview W,,34.509841,-117.29757,899,,0,,America/Los_Angeles,,,0
+813271,20069,,Bear Valley Rd & Navajo Rd,,34.471361,-117.189467,899,,0,,America/Los_Angeles,,,0
+844416,30068,,Agate Rd & Walnut St,,34.8927,-117.110999,901,,0,,America/Los_Angeles,,,0
+813721,10087,,Chamberlaine Way & New Hampshire Rd,,34.586566,-117.422324,900,,0,,America/Los_Angeles,,,0
+813465,50156,,Dos Palmas & Cobalt South side,,34.499345,-117.372672,899,,0,,America/Los_Angeles,,,0
+813457,50166,,El Evado Rd & Bonanza Rd,,34.502769,-117.346845,899,,0,,America/Los_Angeles,,,0
+813385,50174,,El Evado & Luna East side,,34.491617,-117.346683,899,,0,,America/Los_Angeles,,,0
+813670,40119,,Escondido Ave & Hollister St,,34.415628,-117.372736,899,,0,,America/Los_Angeles,,,0
+813257,40177,,Main St & I Ave,,34.419164,-117.284535,899,,0,,America/Los_Angeles,,,0
+844428,30196,,W Main St & Lenwood Rd,,34.872485,-117.117775,901,,0,,America/Los_Angeles,,,0
+813411,50087,,Amargosa Rd & Chaparral St,,34.534533,-117.330383,899,,0,,America/Los_Angeles,,,0
+813765,10051,,Bartlett Ave & Greening St,,34.579117,-117.406769,900,,0,,America/Los_Angeles,,,0
+813520,20176,,Thunderbird Rd & Dale Evans Pkwy,,34.529584,-117.208531,899,,0,,America/Los_Angeles,,,0
+813193,40164,,Main St & 9th Ave,,34.424522,-117.320743,899,,0,,America/Los_Angeles,,,0
+813387,50329,,Palmdale Rd & Cobalt Rd,,34.506567,-117.374083,899,,0,,America/Los_Angeles,,,0
+813237,50090,,Amargosa Rd & Hook Blvd,,34.520383,-117.330383,899,,0,,America/Los_Angeles,,,0
+813152,40206,,Sultana St & Aspen St,,34.411624,-117.281385,899,,0,,America/Los_Angeles,,,0
+2326126,40230,,Mariposa Rd & Main St,,34.427311,-117.37751,899,,0,,America/Los_Angeles,,,0
+813775,20098,,Dale Evans Pkwy (Juvenile Ctr),,34.635069,-117.207003,901,,0,,America/Los_Angeles,,,0
+813446,40118,,E Ave & Walnut St,,34.419059,-117.292558,899,,0,,America/Los_Angeles,,,0
+813201,50307,,Stoddard Wells Rd & Abbey Ln,,34.560333,-117.29055,899,,0,,America/Los_Angeles,,,0
+813202,40000,,G Ave & Olive St (NW Corner),,34.416332,-117.288562,899,,0,,America/Los_Angeles,,,0
+813293,40174,,Main St & E Ave TP,,34.420168,-117.293195,899,,0,,America/Los_Angeles,,,0
+844421,30119,,Jasper Rd & Birch Rd (Jasper Park),,34.88164,-117.105089,901,,0,,America/Los_Angeles,,,0
+813356,20139,,Navajo Rd & Powhatan Rd (Community Ctr),,34.495464,-117.190056,899,,0,,America/Los_Angeles,,,0
+844491,30145,,Rimrock Rd & Borrego Dr,,34.876588,-117.005432,901,,0,,America/Los_Angeles,,,0
+813526,10099,,Jonathan St & Virgina St,,34.522721625214,-117.40838802517,899,,0,,America/Los_Angeles,,,0
+813249,20107,,Jess Ranch Pkwy & Town Center Dr,,34.466437,-117.248937,899,,0,,America/Los_Angeles,,,0
+813600,20169,,Outer Hwy 18 South & Pohez Rd,,34.537899,-117.255473,899,,0,,America/Los_Angeles,,,0
+813395,50264,,Nisqualli Rd & Balsam Ave,,34.485057,-117.329071,899,,0,,America/Los_Angeles,,,0
+813336,20080,,Central Rd & Little Beaver Rd,,34.48225,-117.172717,899,,0,,America/Los_Angeles,,,0
+813647,20063,,Bear Valley Rd & Kiowa Rd,,34.471561,-117.210047,899,,0,,America/Los_Angeles,,,0
+813592,40092,,C Ave & Sultana St,,34.410364,-117.298917,899,,0,,America/Los_Angeles,,,0
+813366,40147,,I Ave & Redbud St,,34.413017,-117.284224,899,,0,,America/Los_Angeles,,,0
+2394949,30086,,Cedar Rd & Jasper Rd,,34.883806,-117.102543,901,,0,,America/Los_Angeles,,,0
+813150,20059,,Bear Valley Rd & Cottontail Ln,,34.471123,-117.229028,899,,0,,America/Los_Angeles,,,0
+813720,62058,,Highland Ave & Hwy 18 (LV Post Office),,34.442607,-116.952532,900,,0,,America/Los_Angeles,,,0
+813664,50235,,Luna Rd & Cartagena St,,34.492272,-117.394746,899,,0,,America/Los_Angeles,,,0
+813430,50120,,Bear Valley Rd & 9th Ave,,34.470805,-117.31708,899,,0,,America/Los_Angeles,,,0
+813146,50147,,Cottonwood Ave & Bear Valley Rd,,34.471739,-117.338578,899,,0,,America/Los_Angeles,,,0
+813369,20152,,Pioneer Rd & Esaws Ave,,34.508069,-117.178965,899,,0,,America/Los_Angeles,,,0
+844372,30107,,E Main St & N Muriel Dr,,34.89876,-117.01297,901,,0,,America/Los_Angeles,,,0
+813154,50096,,Amargosa Rd & Topango Rd,,34.53955,-117.330283,899,,0,,America/Los_Angeles,,,0
+813269,50066,,7th St & La Paz Dr,,34.5173,-117.312283,899,,0,,America/Los_Angeles,,,0
+844467,30110,,E Mountain View St & Adele Dr,,34.89392,-117.013228,901,,0,,America/Los_Angeles,,,0
+2391800,30220,,Ave A & Buena Vista,,34.895555,-117.034641,901,,0,,America/Los_Angeles,,,0
+813084,50300,,Seneca Rd & Rodeo Dr,,34.514364,-117.303602,899,,0,,America/Los_Angeles,,,0
+844382,30089,,Center St & Upton Dr,,34.878628,-117.00989,901,,0,,America/Los_Angeles,,,0
+813256,20182,,Thunderbird Rd & Navajo Rd,,34.52955,-117.191,899,,0,,America/Los_Angeles,,,0
+844485,30071,,Armory Rd & Deseret Rd,,34.884206,-117.021633,901,,0,,America/Los_Angeles,,,0
+813227,50168,,El Evado & Dos Palmas West side,,34.499735,-117.346878,899,,0,,America/Los_Angeles,,,0
+813203,50113,,B St & 4th S,,34.536489,-117.297306,899,,0,,America/Los_Angeles,,,0
+813791,30139,,Walmart,,34.882538,-116.993607,901,,0,,America/Los_Angeles,,,0
+813206,50178,,El Evado Rd & Maricopa Rd,,34.496152,-117.346659,899,,0,,America/Los_Angeles,,,0
+813427,40085,,C Ave & Lime St,,34.40608,-117.300066,899,,0,,America/Los_Angeles,,,0
+844370,30096,,E Main St & Cal Ave (Barstow Station),,34.891053,-116.999094,901,,0,,America/Los_Angeles,,,0
+813689,10111,,Muskrat Ave & El Mirage Rd,,34.601349,-117.449577,900,,0,,America/Los_Angeles,,,0
+2388668,40249,,Lime St & 7th Ave,,34.408277,-117.318262,899,,0,,America/Los_Angeles,,,0
+2326111,40221,,9th Ave @ Villages at Hesperia Apts,,34.430537,-117.318946,899,,0,,America/Los_Angeles,,,0
+844456,30151,,Rimrock Rd & Monterey Ave,,34.876667,-117.015554,901,,0,,America/Los_Angeles,,,0
+813473,10097,,Jonathan St & Seneca Rd,,34.514351,-117.408315,899,,0,,America/Los_Angeles,,,0
+813533,40196,,Mesa St & 7th Ave,,34.44879,-117.311632,899,,0,,America/Los_Angeles,,,0
+813062,50069,,7th St & Lorene Dr,,34.51529,-117.31439,899,,0,,America/Los_Angeles,,,0
+813157,20156,,Rancherias Rd & Thunderbird Rd,,34.531011,-117.225505,899,,0,,America/Los_Angeles,,,0
+813558,50133,,Bear Valley Rd & Mariposa Rd,,34.470569,-117.339591,899,,0,,America/Los_Angeles,,,0
+844439,30186,,W Main St & Ave K,,34.892434,-117.053439,901,,0,,America/Los_Angeles,,,0
+2391793,30225,,State St VVTA,,34.888186,-117.000389,901,,0,,America/Los_Angeles,,,0
+813771,63050,,Baldy Mesa & 7th W side,,34.467118,-117.451247,900,,0,,America/Los_Angeles,,,0
+813564,50201,,Hesperia Rd & Bear Valley Rd,,34.472283,-117.291605,899,,0,,America/Los_Angeles,,,0
+813412,63057,,Phelan Rd & Buttemere Rd,,34.426454,-117.502762,899,,0,,America/Los_Angeles,,,0
+813126,40001,,G Ave & Olive St,,34.415675,-117.288492,899,,0,,America/Los_Angeles,,,0
+813409,40064,,7th Ave & Verde St,,34.443547,-117.312115,899,,0,,America/Los_Angeles,,,0
+813066,40112,,Danbury Ave & Lassen Ave,,34.40245,-117.255594,899,,0,,America/Los_Angeles,,,0
+2394824,10134,,Pearmain & Cornell,,34.512145,-117.40376,899,,0,,America/Los_Angeles,,,0
+813051,40117,,E Ave & Smoke Tree St (VVTA),,34.424453,-117.291435,899,,0,,America/Los_Angeles,,,0
+813214,50161,,Dos Palmas & Topaz South side,,34.499351,-117.381419,899,,0,,America/Los_Angeles,,,0
+844424,30130,,Lenwood Rd & Polo Loco,,34.850716,-117.083192,901,,0,,America/Los_Angeles,,,0
+813215,50320,,Village Dr & Manning St,,34.552163,-117.33858,899,,0,,America/Los_Angeles,,,0
+813307,20137,,Navajo Rd & Nisqually Rd,,34.487336,-117.190003,899,,0,,America/Los_Angeles,,,0
+844403,30190,,W Main St & Bradshaw Dr,,34.896429,-117.038754,901,,0,,America/Los_Angeles,,,0
+2388653,61085,,Yermo Rd & Minneola Rd,,34.915555,-116.772982,1095,,0,,America/Los_Angeles,,,0
+844493,30088,,Center St & Broadway Ave,,34.879195,-117.006257,901,,0,,America/Los_Angeles,,,0
+2388632,9902,,Dale Evans Parkway & Corwin Road,,34.564664713507,-117.20716650685,,,0,,America/Los_Angeles,,,0
+813627,50314,,Verde St & Hesperia Rd,,34.527303,-117.296733,899,,0,,America/Los_Angeles,,,0
+813122,50171,,El Evado Rd & Hook Blvd,,34.520218,-117.346861,899,,0,,America/Los_Angeles,,,0
+813252,40090,,C Ave & Sage St,,34.400384,-117.301266,899,,0,,America/Los_Angeles,,,0
+813649,50291,,Rodeo & Trinidad,,34.504283,-117.303883,899,,0,,America/Los_Angeles,,,0
+2326116,40234,,9th Ave & Willow St,,34.433604,-117.318444,899,,0,,America/Los_Angeles,,,0
+2391802,30235,,Lenwood Rd & Mercantile,,34.848006,-117.08288,901,,0,,America/Los_Angeles,,,0
+813656,40067,,7th Ave & Willow St,,34.432768,-117.31381,899,,0,,America/Los_Angeles,,,0
+2394839,20206,,Apple Valley Rd & Mondamon,,34.532059,-117.263382,899,,0,,America/Los_Angeles,,,0
+813363,50279,,Park & Palmdale,,34.505038,-117.326618,899,,0,,America/Los_Angeles,,,0
+813731,10050,,Adelanto City Hall,,34.572116,-117.410578,900,,0,,America/Los_Angeles,,,0
+813303,40200,,Olive St & C Ave,,34.417252,-117.296529,899,,0,,America/Los_Angeles,,,0
+813456,40190,,Main St & Topaz Ave,,34.42688,-117.355963,899,,0,,America/Los_Angeles,,,0
+813567,10124,,Verbena Rd & Star St,,34.525372,-117.425726,899,,0,,America/Los_Angeles,,,0
+813781,65000,,Fort Irwin Bus Lot,,35.256769,-116.679906,901,,0,,America/Los_Angeles,,,0
+844339,30056,,S 2nd Ave & Williams St,,34.897787,-117.02622,901,,0,,America/Los_Angeles,,,0
+813766,61075,,Silver Lakes-Mkt at Vista South side,,34.744381,-117.334993,900,,0,,America/Los_Angeles,,,0
+813711,61069,,National Trails Hwy & Darghty Rd,,34.715393,-117.332789,900,,0,,America/Los_Angeles,,,0
+813247,50257,,Nisqualli Rd & 3rd Ave,,34.485443,-117.304512,899,,0,,America/Los_Angeles,,,0
+2394879,62056,,Lucerne Valley Senior Cntr_Library,,34.443443,-116.940598,900,,0,,America/Los_Angeles,,,0
+813481,50154,,Desert Escape & Amargosa Rd,,34.46607,-117.351058,899,,0,,America/Los_Angeles,,,0
+844498,30209,,W Main St FS Woods N,,34.875349,-117.113252,901,,0,,America/Los_Angeles,,,0
+844494,30173,,W Main St & Ave A,,34.897477,-117.034903,901,,0,,America/Los_Angeles,,,0
+2387606,65040,,G St FS Quinn,,34.840097,-114.606783,,,0,,America/Los_Angeles,,,0
+844402,30175,,W Main St & Ave C,,34.896854,-117.036948,901,,0,,America/Los_Angeles,,,0
+813617,50052,,2nd Ave & Silica Dr,,34.477694,-117.299343,899,,0,,America/Los_Angeles,,,0
+844454,30154,,Rimrock Rd & Opal Ave,,34.876552,-117.001909,901,,0,,America/Los_Angeles,,,0
+2428408,50330,,Palmdale & Borego,,34.506725368409,-117.33399249584,899,,0,,America/Los_Angeles,,,0
+813718,63070,,Phelan Rd & Braceo St,,34.426507,-117.44246,900,,0,,America/Los_Angeles,,,0
+813325,50085,,Amargosa Rd & Bear Valley Rd,,34.469147,-117.348534,899,,0,,America/Los_Angeles,,,0
+844431,30171,,W Main St & Ash Rd,,34.877314,-117.108811,901,,0,,America/Los_Angeles,,,0
+844365,30079,,Barstow Rd & Pipeline Rd,,34.87186,-117.021263,901,,0,,America/Los_Angeles,,,0
+813452,10129,,Victor St & Galileo St,,34.521302,-117.41779,899,,0,,America/Los_Angeles,,,0
+813334,50298,,Seneca Rd & Hesperia Rd,,34.514371,-117.300757,899,,0,,America/Los_Angeles,,,0
+813347,40091,,C Ave & Sultana St,,34.411272,-117.298944,899,,0,,America/Los_Angeles,,,0
+844495,30121,,Jasper Rd at Barstonian Apt S,,34.884029,-117.097599,901,,0,,America/Los_Angeles,,,0
+813090,50297,,Seneca Rd & Amargosa Rd,,34.514085,-117.32956,899,,0,,America/Los_Angeles,,,0
+813391,40186,,Main St & Buckthorn Ave,,34.416607,-117.269351,899,,0,,America/Los_Angeles,,,0
+813403,20157,,Rimrock Rd & Wanaque Ave,,34.535783,-117.219867,899,,0,,America/Los_Angeles,,,0
+2388640,50000,9,Lorene-7th Dock 9,,34.514405,-117.316979,899,,0,813683,,,,0
+813198,50278,,Park & Palmdale,,34.505537,-117.326475,899,,0,,America/Los_Angeles,,,0
+813240,20132,,Outer Hwy 18 North & Standing Rock Ave,,34.5223,-117.214567,899,,0,,America/Los_Angeles,,,0
+813408,20064,,Bear Valley Rd & Kiowa Rd,,34.47125,-117.209108,899,,0,,America/Los_Angeles,,,0
+813416,40075,,Bear Valley Rd & 7th Ave,,34.470553,-117.312796,899,,0,,America/Los_Angeles,,,0
+844469,30167,,Virginia Way & Muriel Dr,,34.888102,-117.0129,901,,0,,America/Los_Angeles,,,0
+813390,50016,,Victor Valley Mall,,34.474692,-117.346066,899,,0,,America/Los_Angeles,,,0
+813180,20073,,Bear Valley Rd & Central Rd,,34.471527,-117.16967,899,,0,,America/Los_Angeles,,,0
+813211,50205,,Hook & Arlette North side,,34.521496,-117.333254,899,,0,,America/Los_Angeles,,,0
+813599,40156,,Live Oak Ln & Topaz Ave,,34.433971,-117.354647,899,,0,,America/Los_Angeles,,,0
+813296,50062,,7th St & Desert Knoll Dr,,34.520241,-117.308789,899,,0,,America/Los_Angeles,,,0
+813088,50210,,Industrial & Bear Valley East side,,34.472908,-117.282738,899,,0,,America/Los_Angeles,,,0
+813080,50263,,Nisqualli & Balsam,,34.485233,-117.331988,899,,0,,America/Los_Angeles,,,0
+813697,10133,,Vintage Rd & Muskrat Ave,,34.590731,-117.449942,900,,0,,America/Los_Angeles,,,0
+813425,20180,,Thunderbird Rd & Nanticoke Rd,,34.529683,-117.180683,899,,0,,America/Los_Angeles,,,0
+2391796,30218,,Barstow Rd & Windy Pass,,34.880188,-117.023076,901,,0,,America/Los_Angeles,,,0
+813494,20070,,Bear Valley Rd & Navajo Rd,,34.471616,-117.193426,899,,0,,America/Los_Angeles,,,0
+813183,50141,,Cholame Rd & Amargosa Rd,,34.502219,-117.328388,899,,0,,America/Los_Angeles,,,0
+813471,50170,,El Evado & Hook East side,,34.520308,-117.346601,899,,0,,America/Los_Angeles,,,0
+813314,40096,,Cottonwood Ave & Bear Valley Rd,,34.469398,-117.338772,899,,0,,America/Los_Angeles,,,0
+813621,20155,,Rancherias Rd & Symeron Rd,,34.533317,-117.225733,899,,0,,America/Los_Angeles,,,0
+2394813,50323,,Victor Valley College Farmers Market,,34.475175,-117.259962,899,,0,,America/Los_Angeles,,,0
+2388634,50009,3,Lorene-7th Dock 3,,34.514408,-117.318788,899,,0,813683,,,,0
+813726,50185,,Emerson & Mars,,34.5654,-117.288233,900,,0,,America/Los_Angeles,,,0
+813400,50056,,7th Ave & Nisqualli Rd,,34.486286,-117.312574,899,,0,,America/Los_Angeles,,,0
+813659,40130,,I Ave & Catalpa St,,34.458977,-117.277057,899,,0,,America/Los_Angeles,,,0
+813645,40055,,3rd Ave & Main St,,34.422509,-117.306465,899,,0,,America/Los_Angeles,,,0
+813527,20149,,Pawnee Rd & Fox Ave,,34.509606,-117.184431,899,,0,,America/Los_Angeles,,,0
+2326118,40233,,Willow St & 11th St,,34.434468,-117.321848,899,,0,,America/Los_Angeles,,,0
+844381,30082,,Broadway Ave & De Anza St,,34.88021,-117.004983,901,,0,,America/Los_Angeles,,,0
+813297,50088,,Amargosa Rd & La Mesa Rd,,34.483281,-117.3372,899,,0,,America/Los_Angeles,,,0
+813199,40160,,Main St & 5th Ave,,34.422942,-117.310499,899,,0,,America/Los_Angeles,,,0
+813102,20085,,Central Rd & Powhatan Rd,,34.496504,-117.172795,899,,0,,America/Los_Angeles,,,0
+813648,50268,,Orick & Ritter,,34.5452,-117.335767,899,,0,,America/Los_Angeles,,,0
+813671,50183,,El Evado & Seneca East side,,34.514731,-117.346609,899,,0,,America/Los_Angeles,,,0
+813144,50206,,Hook & Arlette South side,,34.521305,-117.333187,899,,0,,America/Los_Angeles,,,0
+2394826,20087,,Central Rd & Ramona Rd,,34.514557,-117.172909,899,,0,,America/Los_Angeles,,,0
+813289,50281,,Phantom West & George Blvd,,34.58709,-117.373199,899,,0,,America/Los_Angeles,,,0
+813506,50195,,Hesperia Rd & Cherryhill_Chalon Rd W,,34.505166,-117.29548,899,,0,,America/Los_Angeles,,,0
+844475,30049,,Melissa NS Mt View Sr Ctr W,,34.89405,-117.017265,901,,0,,America/Los_Angeles,,,0
+813787,65006,,5th St & D Ave,,35.2639,-116.682423,901,,0,,America/Los_Angeles,,,0
+813785,65004,,Irwin Inner Loop & Langford Lake Rd,,35.263151,-116.691722,901,,0,,America/Los_Angeles,,,0
+813078,10115,,Rancho Rd & Aster Rd,,34.557308,-117.436684,899,,0,,America/Los_Angeles,,,0
+813795,60000,,SB Transit Center,,34.100515,-117.296583,,,0,,America/Los_Angeles,,,0
+813184,61050,,3rd St & State St,,34.597812,-117.332488,899,,0,,America/Los_Angeles,,,0
+2388659,61084,,Dagget-Yermo Rd - Silver Valley HS,,34.896464,-116.886675,1095,,0,,America/Los_Angeles,,,0
+2394847,20215,,Corwin Rd & Tao,,34.544055231108,-117.25112340332,899,,0,,America/Los_Angeles,,,0
+813231,50148,,Cottonwood Ave & Pahute Ave,,34.476365,-117.338555,899,,0,,America/Los_Angeles,,,0
+813225,40199,,Muscatel St & Malibu Ave,,34.412092,-117.377212,899,,0,,America/Los_Angeles,,,0
+813680,10090,,Chamberlaine Way & Rhode Island St,,34.586767,-117.431144,899,,0,,America/Los_Angeles,,,0
+813540,50102,,Amethyst Rd & Dos Palmas Rd,,34.499066,-117.363402,899,,0,,America/Los_Angeles,,,0
+844492,30074,,Armory Rd & McBroom Ave,,34.883904,-117.006008,901,,0,,America/Los_Angeles,,,0
+844450,30054,,N 2nd Ave & Cozy Ave,,34.899641,-117.026235,901,,0,,America/Los_Angeles,,,0
+844383,30213,,Windy Pass & Upton Dr,,34.880359,-117.01073,901,,0,,America/Los_Angeles,,,0
+813725,61061,,National Trails Hwy & Iron Hog,,34.629504,-117.344201,900,,0,,America/Los_Angeles,,,0
+813054,40188,,Main St & Topaz Ave,,34.426616,-117.35398,899,,0,,America/Los_Angeles,,,0
+813541,40110,,Danbury Ave & Hinton St,,34.402955,-117.276545,899,,0,,America/Los_Angeles,,,0
+813343,20179,,Thunderbird Rd & Erie Rd,,34.529452,-117.194358,899,,0,,America/Los_Angeles,,,0
+813373,50309,,Stoddard Wells Rd & River Ranch Mobile H,,34.5398,-117.286917,899,,0,,America/Los_Angeles,,,0
+813181,20055,,Bear Valley Rd & Apple Valley Rd,,34.470938,-117.240708,899,,0,,America/Los_Angeles,,,0
+813171,40063,,7th Ave & Hercules St,,34.435746,-117.31314,899,,0,,America/Los_Angeles,,,0
+813634,50254,,Nisqualli Rd & 11th Ave,,34.485083,-117.32511,899,,0,,America/Los_Angeles,,,0
+813094,50146,,Condor Rd & Tawney Ridge Ln,,34.535776,-117.320787,899,,0,,America/Los_Angeles,,,0
+2391805,30230,,Armory & Higgins,,34.883996,-116.998166,901,,0,,America/Los_Angeles,,,0
+813548,20111,,Kasota Rd & Hwy 18 (St Marys Hospital),,34.541876,-117.2667,899,,0,,America/Los_Angeles,,,0
+813746,10065,,Bartlett St & Bellflower St,,34.579055,-117.417749,900,,0,,America/Los_Angeles,,,0
+813590,20081,,Central Rd & Nisqually Rd,,34.485417,-117.172717,899,,0,,America/Los_Angeles,,,0
+813072,40183,,Main St & Mariposa Rd,,34.426855,-117.376527,899,,0,,America/Los_Angeles,,,0
+813594,20164,,Outer Hwy 18 South & Erie Rd,,34.517817,-117.210717,899,,0,,America/Los_Angeles,,,0
+2394810,50013,,VVC Dock 2,,34.473805,-117.265076,899,,0,,America/Los_Angeles,,,0
+813741,63064,,Phelan Rd & Johnson Rd,,34.426285,-117.554309,900,,0,,America/Los_Angeles,,,0
+813309,50272,,Palmdale & Cobalt,,34.506814,-117.372325,899,,0,,America/Los_Angeles,,,0
+844401,30197,,W Main St & May Ave,,34.897968,-117.033042,901,,0,,America/Los_Angeles,,,0
+813344,40104,,Cottonwood Ave & Pendleton St,,34.44717,-117.338635,899,,0,,America/Los_Angeles,,,0
+813298,50239,,Mariposa Rd & Nisqualli Rd,,34.484063,-117.332406,899,,0,,America/Los_Angeles,,,0
+2326122,40225,,Live Oak St & Topaz Ave,,34.434206,-117.356005,899,,0,,America/Los_Angeles,,,0
+813507,50140,,Burning Tree Dr & Wimbleton Dr,,34.504817,-117.3135,899,,0,,America/Los_Angeles,,,0
+813189,50226,,La Mesa & Pacoima South side,,34.48485,-117.35665,899,,0,,America/Los_Angeles,,,0
+813389,10096,,Jonathan St & Lee Ave,,34.583073,-117.409634,899,,0,,America/Los_Angeles,,,0
+813460,50182,,El Evado & Palmdale West side,,34.506133,-117.346917,899,,0,,America/Los_Angeles,,,0
+813142,50273,,Palmdale & El Evado,,34.506877,-117.345306,899,,0,,America/Los_Angeles,,,0
+844406,30183,,W Main St & Ave J,,34.89327,-117.051171,901,,0,,America/Los_Angeles,,,0
+813509,10103,,Mojave Dr & Aster Rd,,34.528307,-117.43343,899,,0,,America/Los_Angeles,,,0
+813067,50155,,Dos Palmas & Ashmont South side,,34.499386,-117.404978,899,,0,,America/Los_Angeles,,,0
+2394828,20194,,Apple Valley Rd & Mandan,,34.521325,-117.248146,899,,0,,America/Los_Angeles,,,0
+2394874,50058,,Arrowhead Dr & Ottawa St,,34.493201,-117.312549,899,,0,,America/Los_Angeles,,,0
+2326130,40228,,Mariposa Rd @ San Joaquin Vlly College,,34.420781,-117.384392,899,,0,,America/Los_Angeles,,,0
+813340,10108,,Mojave & Jonathan NE,,34.528644,-117.407448,899,,0,,America/Los_Angeles,,,0
+813270,50112,,Arrowhead Dr & Greentree Blvd,,34.500695,-117.312379,899,,0,,America/Los_Angeles,,,0
+2394849,20217,,Corwin Rd & Choco,,34.550788,-117.234851,899,,0,,America/Los_Angeles,,,0
+813661,40107,,Cottonwood Ave & Sycamore St,,34.463454,-117.338725,899,,0,,America/Los_Angeles,,,0
+844354,30134,,Montara Rd & Armory Rd,,34.883675,-116.99389,901,,0,,America/Los_Angeles,,,0
+813722,61065,,National Trails Hwy & Rinaldi St,,34.704488,-117.336537,900,,0,,America/Los_Angeles,,,0
+813535,10075,,Bellflower St & Rancho Rd,,34.559658,-117.418495,899,,0,,America/Los_Angeles,,,0
+813519,40082,,C Ave & Bodart St,,34.396358,-117.301948,899,,0,,America/Los_Angeles,,,0
+813732,61063,,National Trails Hwy & Bryman Rd,,34.674372,-117.339563,900,,0,,America/Los_Angeles,,,0
+813603,40123,,Escondido Ave & Palm St,,34.408376,-117.37294,899,,0,,America/Los_Angeles,,,0
+813531,20108,,Kamana Rd & Kokanee Rd,,34.544909,-117.269294,899,,0,,America/Los_Angeles,,,0
+844397,30114,,Hutchinson St & N 1st Ave,,34.901414,-117.026889,901,,0,,America/Los_Angeles,,,0
+813405,20143,,Nisqually Rd & Central Rd,,34.486233,-117.176733,899,,0,,America/Los_Angeles,,,0
+2394864,20225,,Waalew Rd & Dale Evans Pkwy,,34.556819,-117.207755,899,,0,,America/Los_Angeles,,,0
+813311,50094,,Amargosa Rd & Roy Rogers Dr,,34.522053,-117.330107,899,,0,,America/Los_Angeles,,,0
+813562,20130,,Outer Hwy 18 North & Rimrock Rd,,34.5349,-117.236717,899,,0,,America/Los_Angeles,,,0
+813752,62051,,Emerald Rd & Mesa Rd,,34.400296,-116.954347,900,,0,,America/Los_Angeles,,,0
+2326124,40231,,Mt. Shasta Dr & Glacier Circle,,34.436148,-117.365529,899,,0,,America/Los_Angeles,,,0
+813242,50292,,Rodeo & Victor,,34.5214,-117.302867,899,,0,,America/Los_Angeles,,,0
+813737,50308,,Stoddard Wells Rd & Dante St,,34.5641,-117.291633,900,,0,,America/Los_Angeles,,,0
+2388650,61077,,Pera Rd & Hinkley Rd,,34.939881,-117.188547,901,,0,,America/Los_Angeles,,,0
+2394863,20224,,Town Center & Jess Ranch Pkwy,,34.465748,-117.24854,899,,0,,America/Los_Angeles,,,0
+813162,10105,,Mojave Dr & Bellflower St,,34.528286,-117.417555,899,,0,,America/Los_Angeles,,,0

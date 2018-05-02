@@ -1,0 +1,25 @@
+service_id,date,holiday_name,exception_type
+c_785_b_6375_d_64,20180401,Easter,2
+c_785_b_6375_d_31,20190101,New Year's Day,2
+c_785_b_6375_d_31,20181225,Christmas Day,2
+c_785_b_6375_d_31,20181123,Day After Thanksgiving,2
+c_785_b_6375_d_31,20181122,Thanksgiving Day,2
+c_785_b_6375_d_31,20180903,Labor Day,2
+c_785_b_6375_d_31,20180704,Independence Day,2
+c_785_b_6375_d_31,20180528,Memorial Day,2
+c_785_b_6375_d_31,20180219,Presidents Day,2
+c_785_b_6375_d_31,20180115,"Martin Luther King, Jr. Day",2
+c_785_b_6375_d_31,20180101,New Years Day,2
+c_785_b_6375_d_16,20181123,Day After Thanksgiving,2
+c_785_b_6375_d_15,20190101,New Year's Day,2
+c_785_b_6375_d_15,20181225,Christmas Day,2
+c_785_b_6375_d_15,20181122,Thanksgiving Day,2
+c_785_b_6375_d_15,20180903,Labor Day,2
+c_785_b_6375_d_15,20180704,Independence Day,2
+c_785_b_6375_d_15,20180528,Memorial Day,2
+c_785_b_6375_d_15,20180219,Presidents Day,2
+c_785_b_6375_d_15,20180115,"Martin Luther King, Jr. Day",2
+c_785_b_6375_d_15,20180101,New Years Day,2
+c_6029_b_none_d_0,20181123,Day After Thanksgiving,1
+c_6029_b_none_d_0,20180219,Presidents Day,1
+c_6029_b_none_d_0,20180115,"Martin Luther King, Jr. Day",1

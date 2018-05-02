@@ -1,0 +1,47 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+296,27,,DASH Downtown  B,3,703e7e,ffffff
+297,27,,DASH Downtown  E,3,e20a16,ffffff
+298,27,,DASH Downtown  F,3,de1f82,ffffff
+408,27,,DASH Downtown  D,3,f38d1f,ffffff
+409,27,,DASH Downtown  A,3,5f93bf,ffffff
+510,27,,Larchmont Shuttle,3,000000,ffffff
+600,27,,DASH Wilmington,3,ff8a3c,ffffff
+601,27,,DASH San Pedro,3,6ABF8C,ffffff
+602,27,,DASH Chesterfield Square,3,DCA42A,ffffff
+603,27,,DASH Vermont Main,3,2CAA41,ffffff
+604,27,,DASH Crenshaw,3,126CB8,ffffff
+605,27,,DASH King-East,3,3B5AA7,ffffff
+606,27,,DASH Leimert/Slauson,3,005F39,ffffff
+607,27,,DASH Midtown,3,C0AE00,ffffff
+608,27,,DASH Southeast,3,D86F2A,ffffff
+609,27,,DASH Pueblo Del Rio,3,EAA266,ffffff
+610,27,,DASH Watts,3,A392B7,ffffff
+611,27,,DASH Pico Union/Echo Park,3,43C4B7,ffffff
+612,27,,DASH El Sereno/City Terrace,3,A50667,ffffff
+613,27,,DASH Boyle Heights/East LA,3,843C10,ffffff
+614,27,,DASH Van Nuys/Studio City,3,00667C,ffffff
+615,27,,DASH Panorama City/Van Nuys,3,B0232A,ffffff
+616,27,,DASH Northridge,3,6F5048,ffffff
+617,27,,DASH Beachwood Canyon,3,005743,ffffff
+618,27,,DASH Hollywood,3,00ABBE,ffffff
+619,27,,DASH Hollywood/Wilshire,3,31679D,ffffff
+620,27,,DASH Highland Park/Eagle Rock,3,D28CA6,ffffff
+621,27,,DASH Fairfax,3,7E2342,ffffff
+622,27,,DASH Los Feliz,3,003066,ffffff
+623,27,,DASH Lincoln Heights/Chinatown,3,836E2C,ffffff
+624,27,,DASH Wilshire Center/Koreatown,3,E34585,ffffff
+625,27,,Commuter Express 142,3,0067C6,ffffff
+626,27,,Commuter Express 409,3,0067C6,ffffff
+627,27,,Commuter Express 419,3,0067C6,ffffff
+628,27,,Commuter Express 431,3,0067C6,ffffff
+629,27,,Commuter Express 534,3,0067C6,ffffff
+630,27,,Commuter Express 573,3,0067C6,ffffff
+631,27,,Commuter Express 574,3,0067C6,ffffff
+632,27,,Commuter Express Union Station/Bunker Hill,3,0067C6,ffffff
+633,27,,Commuter Express 422,3,0067C6,ffffff
+634,27,,Commuter Express 437,3,0067C6,ffffff
+635,27,,Commuter Express 448,3,0067C6,ffffff
+636,27,,Commuter Express 549,3,0067C6,ffffff
+637,27,,Commuter Express 438,3,0067C6,ffffff
+638,27,,Commuter Express 423,3,0067C6,ffffff
+639,27,,DASH Observatory ,3,B0232A,ffffff

@@ -1,0 +1,8 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+818728,,,San Fransisco Pier 40 ,,37.7818831,-122.3876122,,,0,,America/Los_Angeles,,,0
+818720,,,Tiburon-Sam's Anchor Cafe,,37.8727469,-122.4565526,,,0,,America/Los_Angeles,,,0
+818727,,,San Francisco Pier 1.5,,37.7974815,-122.3950251,,,0,,America/Los_Angeles,,,0
+818733,,,"Berkeley Marina, Berkeley CA",,37.864539695513,-122.31393184362,,,0,,America/Los_Angeles,,,0
+818722,,,"Trident Restaurant Sausalito, CA",,37.8538049,-122.4786033,,,0,,America/Los_Angeles,,,0
+818726,,,San Francisco-Hyde Street Pier,,37.8091991,-122.4214965,,,0,,America/Los_Angeles,,,0
+2320940,,,"Marina Bay Yacht Harbor, Richmond CA",,37.913659,-122.354316,,,0,,America/Los_Angeles,,,0

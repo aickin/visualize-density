@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+"d139e461-175c-4156-beb0-e6a23b64d978","Yolo County Transportation District","http://yolobus.com/","America/Los_Angeles","en","530-666-2877"

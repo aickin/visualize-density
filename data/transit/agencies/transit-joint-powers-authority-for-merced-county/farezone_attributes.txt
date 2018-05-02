@@ -1,0 +1,14 @@
+zone_id,zone_name
+559,Winton
+560,Atwater
+561,Merced
+562,Livingston
+563,Delhi
+564,Turlock
+565,Los Banos
+566,Dos Palos
+567,Planada
+568,Le Grand
+569,El Nido
+570,Gustine
+572,Newman

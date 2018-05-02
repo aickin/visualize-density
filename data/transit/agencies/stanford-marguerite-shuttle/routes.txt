@@ -1,0 +1,17 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,direction0_name,direction1_name
+28,10747950,1050A,1050 Arastradero,,3,https://transportation.stanford.edu/marguerite/1050a,954A35,FFFFFF,Campus @ Li Ka Shing,
+36,10747950,AE-F,Line AE-F,,3,https://transportation.stanford.edu/marguerite/aef,AAAAAA,900000,Quarry @ Psychiatry Bld (AM),Fremont BART (PM)
+4,10747950,C,Line C,,3,https://transportation.stanford.edu/marguerite/c,6DCFF6,000000,Stock Farm Garage E / Vi,
+55,10747950,EB,East Bay Express,,3,https://transportation.stanford.edu/marguerite/eb,5674B9,FFFFFF,Campus Oval,Fremont
+59,10747950,HD,Hospital: Direct,,3,https://transportation.stanford.edu/marguerite/hd,2DBCB5,FFFFFF,Searsville at SV Lot,
+22,10747950,MC,Medical Center,,3,https://transportation.stanford.edu/marguerite/mc,91268F,FFFFFF,CalTrain Platform South,.
+9,10747950,N,Line N - Evenings ONLY,,3,http://transportation.stanford.edu/marguerite/n,2E3092,FFFFFF,Lytton Ave @ Alma / Olmsted @ Hulme S,
+43,10747950,O,Line O - Evenings ONLY,,3,http://transportation.stanford.edu/marguerite/o,2E3192,FFFFFF,Campus Across SV Lot / Lytton Ave @ Alma,
+56,10747950,OCA,Oak Creek Apartments,,3,https://transportation.stanford.edu/marguerite/oca,73909F,FFFFFF,Tresidder West,
+20,10747950,P,Line P,,3,http://transportation.stanford.edu/marguerite/p,AFDBBD,000000,Caltrain Platform South / Campus Oval,Medical Center
+38,10747950,RP,Research Park,,3,https://transportation.stanford.edu/marguerite/rp,008579,FFFFFF,3475 Deer Creek E,PATC-University Circle
+33,10747950,S,Line S,,3,http://transportation.stanford.edu/marguerite/s,666733,FFFFFF,Guest House @ SLAC,Sharon Park
+18,10747950,SE,Shopping Express,,3,https://transportation.stanford.edu/marguerite/se,D174AF,FFFFFF,San Antonio Shopping Center,Palo Alto Transit Center - University Circle
+8,10747950,SLAC,S L A C,,3,http://transportation.stanford.edu/marguerite/slac,00A650,FFFFFF,Serra Mall @ Lasuen Mall,
+3,10747950,X,Line X,,3,http://transportation.stanford.edu/marguerite/x,ED1C24,FFFFFF,Y2E2 (on Via Ortega),PATC-University Circle
+2,10747950,Y,Line Y,,3,http://transportation.stanford.edu/marguerite/y,ED1C24,FFFFFF,Tresidder Union,PATC-University Circle

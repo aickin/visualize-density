@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+"97aff62a-ed6d-4bd2-a9c8-d63f8e98a358","B-Line","http://www.blinetransit.com","America/Vancouver","en","5303420221"

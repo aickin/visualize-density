@@ -1,0 +1,60 @@
+{
+  "private": true,
+  "workspaces": ["common", "data", "district-site", "private-site", "site"],
+  "name": "visualize-density",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write \"site/src/*.{js,md}\" \"private-site/src/*.{js,md}\" \"district-site/src/*.{js,md}\" \"common/*.{js,md}\" \"data/*.{js,md}\" README.md",
+    "precommit": "lint-staged",
+    "test": "jest",
+    "build-common": "cd common && yarn build && cd ..",
+    "build-site": "cd site && yarn build && cd ..",
+    "start-site": "cd site && yarn start && cd ..",
+    "build-private-site": "cd private-site && yarn build && cd ..",
+    "start-private-site": "cd private-site && yarn start && cd ..",
+    "build-district-site": "cd district-site && yarn build && cd ..",
+    "start-district-site": "cd district-site && yarn start && cd ..",
+    "build-data": "yarn build-common && cd data && yarn build && cd .."
+  },
+  "lint-staged": {
+    "ignore": ["data/transit/README.md"],
+    "site/src/*.{js,md}": [
+      "prettier --write",
+      "git add"
+    ],
+    "district-site/src/*.{js,md}": [
+      "prettier --write",
+      "git add"
+    ],
+    "private-site/src/*.{js,md}": [
+      "prettier --write",
+      "git add"
+    ],
+    "common/*.{js,md}": [
+      "prettier --write",
+      "git add"
+    ],
+    "data/*.{js,md}": [
+      "prettier --write",
+      "git add"
+    ],
+    "README.md": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "author": "Sasha Aickin",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "csv-parse": "^2.0.0"
+  },
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "jest": "^22.0.4",
+    "lint-staged": "^6.0.0",
+    "prettier": "1.10.2"
+  }
+}

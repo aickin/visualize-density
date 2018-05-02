@@ -1,0 +1,24 @@
+route_id,direction_id,Direction
+6465,,Eastbound
+6465,1,Westbound
+6464,,Northbound
+6464,1,Southbound
+6463,,Northbound
+6463,1,Southbound
+6462,,Northbound
+474,,Inbound
+474,1,Outbound
+473,,Inbound
+473,1,Outbound
+472,,Inbound
+472,1,Outbound
+370,1,Counter-clockwise
+369,1,Counter-clockwise
+366,,Northbound
+366,1,Southbound
+365,,Clockwise
+364,,to Yuba College
+364,1,Southbound
+363,,Clockwise
+362,,to Yuba College
+362,1,to Yuba City

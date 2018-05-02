@@ -1,0 +1,4 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+16,http://bit.ly/1PmcYOH,en,North Lake Tahoe Express - 24 hour advance reservations required,866-216-5222,America/Los_Angeles,http://bit.ly/1n6UhrO
+14,http://tahoetruckeetransit.com,en,Tahoe Truckee Area Regional Transit,(530) 550-1212,America/Los_Angeles,
+458,http://www.tahoetransportation.org/transit,en,Tahoe Transportation District,5305417149,America/Los_Angeles,http://www.tahoetransportation.org/fares

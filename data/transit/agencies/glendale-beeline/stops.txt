@@ -1,0 +1,341 @@
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon
+101,,Brand & Broadway,Broadway,34.145898,-118.255158
+102,,Brand & California,California,34.149611,-118.255168
+103,,Brand & Chevy Chase,Chevy Chase,34.133283,-118.255101
+104,,Brand & Garfield,Garfield,34.135547,-118.255117
+105,,Brand & Glenoaks,Glenoaks,34.158748,-118.255242
+106,,Brand & Lomita,Lomita,34.140332,-118.255148
+107,,Brand & Los Feliz,Los Feliz,34.128898,-118.255076
+108,,Brand & Magnolia,Magnolia,34.13099,-118.255083
+109,,Brand & Maple,Maple,34.138109,-118.255133
+110,,Brand & Milford,Milford,34.152646,-118.255184
+111,,Brand & Monterey,Monterey,34.157197,-118.25523
+112,,Brand & Wilson,Wilson,34.147725,-118.255174
+113,,Central & Americana,Americana,34.145368,-118.257742
+114,,Central & Arden,Arden,34.158315,-118.257848
+115,,Central & California,California,34.150146,-118.257788
+116,,Central & Chevy Chase,Chevy Chase,34.133759,-118.257714
+117,,Central & Colorado,Colorado,34.142827,-118.257757
+118,,Central & Doran,Doran,34.154934,-118.257831
+119,,Central & Dryden,Dryden,34.16176,-118.256769
+120,,Central & Lomita,Lomita,34.1406,-118.257743
+121,,Central & Los Feliz,Los Feliz,34.129056,-118.257679
+122,,Central & Magnolia,Magnolia,34.131543,-118.257694
+123,,Central & Milford,Milford,34.15327,-118.257849
+124,,Central & Stocker,Stocker,34.163538,-118.256774
+125,,Central & Windsor,Windsor,34.136968,-118.257732
+126,,Central & Glenoaks,Glenoaks,34.159748,-118.257279
+127,,Brand & Colorado,Colorado,34.142234,-118.255152
+128,,Brand & Doran,Doran,34.15431,-118.255203
+129,,Brand & Lexington,Lexington,34.151437,-118.25517
+613,,Central & Broadway,Broadway,34.147193,-118.257772
+131,,Central & Laurel,Laurel,34.127974,-118.25767
+132,,Central & Laurel,Laurel,34.12772,-118.257913
+133,,Glendale Transportation Center,Departure,34.124415,-118.258756
+134,,Brand & Dryden,Dryden,34.161295,-118.255257
+135,,Stocker & Brand,Brand,34.16365,-118.255386
+136,,Brand & California,California,34.150201,-118.254868
+137,,Brand & Chevy Chase,Chevy Chase,34.134102,-118.254758
+138,,Brand & Garfield,Garfield,34.135697,-118.254775
+139,,Brand & Lomita,Lomita,34.14083,-118.254818
+140,,Brand & Los Feliz,Los Feliz,34.129016,-118.254759
+141,,Brand & Magnolia,Magnolia,34.131093,-118.254735
+142,,Brand & Maple,Maple,34.138585,-118.254765
+143,,Brand & Monterey,Monterey,34.157847,-118.254883
+144,,Brand & Wilson,Wilson,34.148375,-118.254855
+145,,Central & Arden,Arden,34.158192,-118.258103
+146,,Central & California,California,34.149628,-118.258047
+147,,Central & Chevy Chase,Chevy Chase,34.133667,-118.257957
+148,,Central & Doran,Doran,34.154199,-118.25806
+149,,Central & Dryden,Dryden,34.161117,-118.256969
+150,,Central & Lexington,Lexington,34.151398,-118.258055
+614,,Central & Lexington,Lexington,34.152026,-118.257809
+151,,Central & Los Feliz,Los Feliz,34.128881,-118.257918
+152,,Central & Magnolia,Magnolia,34.130952,-118.257943
+153,,Central & Milford,Milford,34.153029,-118.258052
+154,,Central & Stocker,Stocker,34.163228,-118.256958
+155,,Central & Windsor,Windsor,34.136358,-118.257975
+156,,Brand & Broadway,Broadway,34.146602,-118.254833
+157,,Brand & Lexington,Lexington,34.151989,-118.254867
+158,,Brand & Colorado,Colorado,34.142944,-118.254831
+159,,Brand & Milford,Milford,34.153363,-118.254854
+160,,Brand & Harvard,Harvard,34.144759,-118.254819
+161,,Central & Americana,Americana,34.143988,-118.258013
+162,,Central & Broadway,Broadway,34.146373,-118.258027
+163,,Central & Lomita,Lomita,34.140082,-118.257993
+164,,Central & Colorado,Colorado,34.142203,-118.258005
+165,,Brand & Fairview,Fairview,34.160488,-118.254894
+166,,Stocker & Brand,Brand,34.163742,-118.255369
+167,,Broadway & Brand,Brand,34.146207,-118.254661
+168,,Broadway & Jackson,Jackson,34.1463,-118.249924
+169,,Broadway & Jackson,Jackson,34.14643,-118.250378
+170,,Broadway & Louise,Louise,34.146225,-118.252224
+171,,Foothill & Alta Canyada,Alta Canyada,34.209602,-118.211707
+172,,Foothill & Alta Canyada,Alta Canyada,34.2098,-118.211573
+173,,Foothill & Beulah,Beulah,34.203466,-118.198349
+174,,Foothill & Briggs,Briggs,34.218934,-118.231578
+175,,Foothill & Briggs,Briggs,34.219254,-118.231616
+176,,Foothill & Chevy Chase,Chevy Chase,34.20487,-118.201404
+177,,Foothill & Chevy Chase,Chevy Chase,34.204801,-118.200706
+178,,Foothill & Commonwealth,Commonwealth,34.202176,-118.19558
+179,,Foothill & Commonwealth,Commonwealth,34.202625,-118.196113
+180,,Foothill & Cornishon,Cornishon,34.205775,-118.203377
+181,,Foothill & Cornishon,Cornishon,34.206037,-118.203393
+182,,Foothill & Crown,Crown,34.196809,-118.183756
+183,,Foothill & Crown,Crown,34.197201,-118.184064
+184,,Foothill & Gould,Gould,34.199196,-118.188983
+185,,Foothill & Gould,Gould,34.19972,-118.189581
+186,,Foothill & Hill,Hill,34.205489,-118.20221
+187,,Foothill & Hillard,Hillard,34.211149,-118.215083
+188,,Foothill & Hillard,Hillard,34.211467,-118.215195
+189,,Foothill & Indiana,Indiana,34.209047,-118.20993
+190,,Foothill & La Canada,La Canada,34.206798,-118.205021
+191,,Foothill & La Canada Plaza,La Canada Plaza,34.215512,-118.224098
+192,,Foothill & La Canada Plaza,La Canada Plaza,34.21577,-118.2241
+193,,Foothill & Lasheart,Lasheart,34.207423,-118.206984
+194,,Foothill & Oakwood,Oakwood,34.201168,-118.193282
+195,,Foothill & Oakwood,Oakwood,34.201652,-118.193843
+196,,Foothill & Ocean View,Ocean View,34.21691,-118.227219
+197,,Foothill & Ocean View,Ocean View,34.217565,-118.228104
+198,,Foothill & Palm,Palm,34.21266,-118.217961
+199,,Foothill & Palm,Palm,34.21289,-118.217843
+200,,Foothill & Raymond,Raymond,34.22228,-118.237188
+201,,Foothill & Raymond,Raymond,34.222659,-118.237307
+202,,Foothill & Rosemont,Rosemont,34.220804,-118.234795
+203,,Foothill & Rosemont,Rosemont,34.221455,-118.235352
+204,,Foothill & Vineta,Vineta,34.198897,-118.187788
+205,,Glendale & Broadway,Broadway,34.146654,-118.246895
+206,,Glendale & Broadway,Broadway,34.146525,-118.247235
+207,,Glendale & California,California,34.149824,-118.245608
+208,,Glendale & Doran,Doran,34.15332,-118.243644
+209,,Glendale & Doran,Doran,34.153294,-118.243938
+210,,Glendale & Lexington,Lexington,34.151994,-118.244504
+211,,Glendale & Lexington,Lexington,34.15114,-118.245317
+212,,Glendale & Monterey,Monterey,34.155842,-118.242281
+213,,Glendale & Wilson,Wilson,34.148376,-118.246197
+214,,Glendale & Wilson,Wilson,34.148314,-118.246497
+215,,Honolulu & La Crescenta,La Crescenta,34.211107,-118.239654
+216,,Honolulu & La Crescenta,La Crescenta,34.211439,-118.23978
+217,,Honolulu & Las Palmas,Las Palmas,34.206765,-118.231927
+218,,Honolulu & Market,Market,34.205341,-118.226629
+219,,Honolulu & Ocean View,Ocean View,34.205605,-118.228658
+220,,Honolulu & Orangedale,Orangedale,34.207048,-118.232065
+221,,Honolulu & Rosemont,Rosemont,34.208205,-118.234968
+222,,Honolulu & Rosemont,Rosemont,34.208826,-118.235564
+223,,La Crescenta & Altura,Altura,34.219818,-118.239832
+224,,La Crescenta & Altura,Altura,34.219603,-118.240056
+225,,La Crescenta & Mary,Mary,34.223466,-118.239823
+226,,La Crescenta & Mary,Mary,34.223581,-118.240047
+227,,La Crescenta & Montrose,Montrose,34.215655,-118.239841
+228,,La Crescenta & Montrose,Montrose,34.216349,-118.240069
+229,,La Crescenta & Piedmont,Piedmont,34.213874,-118.239864
+230,,La Crescenta & Piedmont,Piedmont,34.214023,-118.240094
+231,,La Crescenta & Prospect,Prospect,34.221084,-118.239822
+232,,La Crescenta & Prospect,Prospect,34.221725,-118.240047
+233,,Oak Grove & Foothill,Foothill,34.194776,-118.177607
+234,,Oak Grove & Jet Propulsion Laboratory,Jet Propulsion Laboratory,34.197798,-118.175246
+235,,Verdugo & Alpha,Alpha,34.188841,-118.226293
+236,,Verdugo & Bagdad,Bagdad,34.193391,-118.228061
+237,,Verdugo & Bara,Bara,34.18012,-118.225784
+238,,Verdugo & Crestmont,Crestmont,34.17412,-118.226048
+239,,Verdugo & Crestmont,Crestmont,34.174362,-118.226209
+240,,Verdugo & El Cino,El Cino,34.200995,-118.227741
+241,,Verdugo & Fern,Fern,34.182271,-118.225675
+242,,Verdugo & Fern,Fern,34.18257,-118.225946
+243,,Verdugo & Glencoe,Glencoe,34.198154,-118.229098
+244,,Verdugo & Glencoe,Glencoe,34.198603,-118.229367
+245,,Verdugo & Glorietta,Glorietta,34.187407,-118.225606
+246,,Verdugo & Glorietta,Glorietta,34.187596,-118.225794
+247,,Verdugo & Honolulu,Honolulu,34.204754,-118.225564
+248,,Verdugo & Kirkby,Kirkby,34.171488,-118.226774
+249,,Verdugo & Kirkby,Kirkby,34.171814,-118.226914
+250,,Verdugo & Ocean View,Ocean View,34.201056,-118.22808
+251,,Verdugo & Sunview,Sunview,34.202421,-118.226781
+252,,Verdugo & Sunview,Sunview,34.202792,-118.226893
+253,,Verdugo & Verdugo Loma,Verdugo Loma,34.170119,-118.22724
+254,,Montrose & Pennsylvania,Pennsylvania,34.221014,-118.248302
+255,,Verdugo & Opechee,Opechee,34.180473,-118.226035
+256,,Verdugo & Oakwood,Oakwood,34.188802,-118.226509
+257,,Montrose & Ramsdell,Ramsdell,34.21869,-118.244549
+258,,Oak Grove & La Canada High,La Canada High,34.193138,-118.178377
+259,,Foothill & Rinetti,Rinetti,34.200603,-118.191492
+260,,Montrose & Waltonia,Waltonia,34.206924,-118.224605
+261,,Montrose & Ocean View,Ocean View,34.209381,-118.227677
+262,,Oak Grove & Foothill,Foothill,34.194436,-118.17756
+263,,Ocean View & Honolulu,Honolulu,34.205781,-118.228125
+264,,Verdugo & Honolulu,Honolulu,34.204876,-118.225164
+265,,Ca�ada & Towne,Towne,34.168478,-118.229188
+266,,Harvard & Louise,Louise,34.144519,-118.252992
+267,,Glendale & Glenoaks,Glenoaks,34.159003,-118.239512
+268,,Glendale & Glenoaks,Glenoaks,34.159099,-118.239821
+269,,Glendale & Monterey,Monterey,34.156407,-118.241554
+270,,Glendale & Verdugo,Verdugo,34.160959,-118.236648
+271,,Glendale & Verdugo,Verdugo,34.160921,-118.237094
+272,,Verdugo & Mountain,Mountain,34.164652,-118.232664
+273,,Verdugo & Calle Vaquero,Calle Vaquero,34.163781,-118.233067
+274,,Verdugo & Civic Aud.,Civic Aud.,34.167606,-118.229443
+275,,Glendale College & Towne,Towne,34.168363,-118.229
+276,,Broadway & Adams,Adams,34.146162,-118.24149
+277,,Broadway & Adams,Adams,34.146342,-118.242189
+278,,Broadway & Cedar,Cedar,34.146183,-118.244045
+279,,Broadway & Cedar,Cedar,34.146379,-118.244659
+280,,Broadway & Glendale,Glendale,34.146259,-118.24682
+281,,Chevy Chase & Adams,Adams,34.13372,-118.242022
+282,,Chevy Chase & Adams,Adams,34.133888,-118.242191
+283,,Chevy Chase & Boynton,Boynton,34.133598,-118.249286
+284,,Chevy Chase & Boynton,Boynton,34.133763,-118.248848
+285,,Chevy Chase & Brand,Brand,34.133425,-118.25444
+286,,Chevy Chase & Carlton,Carlton,34.145268,-118.239491
+287,,Chevy Chase & Mid Block,Mid Block (La Boice & Boynton),34.13372,-118.246327
+288,,Chevy Chase & Mid Block,Mid Block (La Boice & Boynton),34.133895,-118.246363
+289,,Chevy Chase & Colorado,Colorado,34.142436,-118.239483
+290,,Chevy Chase & Colorado,Colorado,34.142336,-118.239717
+291,,Chevy Chase & Garfield,Garfield,34.13624,-118.239463
+292,,Chevy Chase & Garfield,Garfield,34.136385,-118.239699
+293,,Chevy Chase & Glendale,Glendale,34.133455,-118.252253
+294,,Chevy Chase & Maple,Maple,34.139198,-118.239476
+295,,Chevy Chase & Maple,Maple,34.138796,-118.239708
+296,,Glendale & Broadway,Broadway,34.146109,-118.247399
+297,,Glendale & Palmer,Palmer,34.132459,-118.252234
+298,,Harvard & Isabel,Isabel,34.144416,-118.249011
+299,,Harvard & Isabel,Isabel,34.144567,-118.249016
+300,,Harvard & Louise,Louise,34.144364,-118.252789
+301,,Broadway & Brand,Brand,34.146359,-118.255525
+302,,Chevy Chase & Carlton,Carlton,34.145562,-118.239727
+303,,Palmer & Brand,Brand,34.132323,-118.254402
+304,,Colorado & Central,Central,34.142444,-118.257422
+305,,Pacific & Arden,Arden,34.158842,-118.263954
+306,,Pacific & Arden,Arden,34.158102,-118.264142
+307,,Pacific & California,California,34.149657,-118.264435
+308,,Pacific & California,California,34.150043,-118.264637
+309,,Pacific & Colorado,Colorado,34.142829,-118.264187
+310,,Pacific & Doran,Doran,34.154309,-118.264479
+311,,Pacific & Doran,Doran,34.153725,-118.264652
+312,,Pacific & Harvard,Harvard,34.144015,-118.263972
+313,,Pacific & Harvard,Harvard,34.144391,-118.264213
+314,,Pacific & Ivy,Ivy,34.146022,-118.264221
+315,,Pacific & Lexington,Lexington,34.151469,-118.264453
+316,,Pacific & Lexington,Lexington,34.151775,-118.264646
+317,,Pacific & Vine,Vine,34.140637,-118.264322
+318,,Pacific & Wilson,Wilson,34.147794,-118.264423
+319,,Pacific & Wilson,Wilson,34.148223,-118.264611
+320,,Riverdale & Columbus,Columbus,34.138811,-118.260559
+321,,Riverdale & Pacific,Pacific,34.138805,-118.264213
+322,,Colorado & Columbus,Columbus,34.142433,-118.261119
+323,,Colorado & Pacific,Pacific,34.142426,-118.263955
+324,,Glenwood & Concord,Concord,34.165251,-118.269629
+325,,Pacific & Dryden,Dryden,34.160923,-118.264553
+326,,Pacific & Palm,Palm,34.161534,-118.264479
+327,,Stocker & Pacific,Pacific,34.163175,-118.265248
+328,,Broadway & Carr,Carr,34.146087,-118.229722
+329,,Colorado & Adams,Adams,34.142544,-118.241991
+330,,Colorado & Adams,Adams,34.142741,-118.241576
+331,,Colorado & Brand,Brand,34.14249,-118.254563
+332,,Colorado & Brand,Brand,34.14268,-118.254217
+333,,Colorado & Campus,Campus,34.142862,-118.231536
+334,,Colorado & Chevy Chase,Chevy Chase,34.142545,-118.239175
+335,,Colorado & Chevy Chase,Chevy Chase,34.142737,-118.239336
+336,,Colorado & Columbus,Columbus,34.142645,-118.260585
+337,,Colorado & Everett,Everett,34.142565,-118.245751
+338,,Colorado & Everett,Everett,34.142761,-118.245828
+339,,Colorado & Fischer,Fischer,34.142602,-118.236486
+340,,Colorado & Fischer,Fischer,34.142819,-118.235849
+341,,Colorado & Glendale,Glendale,34.142555,-118.249668
+342,,Colorado & Glendale,Glendale,34.142778,-118.248732
+343,,Colorado & Carr Park,Carr Park,34.142866,-118.229221
+344,,Colorado & Louise,Louise,34.142513,-118.252761
+345,,Colorado & Louise,Louise,34.142704,-118.25241
+346,,Colorado & Verdugo,Verdugo,34.142857,-118.233775
+347,,Pacific & Colorado,Colorado,34.142167,-118.264503
+348,,San Fernando & Riverdale,Riverdale,34.138895,-118.267599
+349,,Verdugo & Broadway,Broadway,34.145915,-118.234827
+350,,Verdugo & Colorado,Colorado,34.143291,-118.234091
+351,,Pacific & Riverdale ,Riverdale,34.138892,-118.264493
+352,,Broadway & Sinclair,Sinclair,34.14608,-118.23242
+353,,San Fernando & Elk,Elk,34.141432,-118.268925
+354,,Alameda & Glenoaks,Glenoaks,34.176459,-118.297583
+355,,Alameda & Glenoaks,Glenoaks,34.176566,-118.297761
+356,,Glenoaks & Allen,Allen,34.173668,-118.293426
+357,,Glenoaks & Allen,Allen,34.1742,-118.2936
+358,,Glenoaks & Concord,Concord,34.159734,-118.270505
+359,,Glenoaks & Concord,Concord,34.160189,-118.271082
+360,,Glenoaks & Grandview,Grandview,34.165113,-118.281735
+361,,Glenoaks & Grandview,Grandview,34.165532,-118.281706
+362,,Glenoaks & Graynold,Graynold,34.162499,-118.278154
+363,,Glenoaks & Highland,Highland,34.160564,-118.274605
+364,,Glenoaks & Highland,Highland,34.161161,-118.275065
+365,,Glenoaks & Jackson,Jackson,34.158241,-118.250003
+366,,Glenoaks & Jackson,Jackson,34.158412,-118.249945
+367,,Glenoaks & Justin,Justin,34.169441,-118.28771
+368,,Glenoaks & Justin,Justin,34.169713,-118.287437
+369,,Glenoaks & Kenilworth,Kenilworth,34.15951,-118.267233
+370,,Glenoaks & Kenilworth,Kenilworth,34.159934,-118.267554
+371,,Glenoaks & Pacific,Pacific,34.159691,-118.264538
+372,,Glenoaks & Rosedale,Rosedale,34.16688,-118.28355
+373,,Glenoaks & Sonora,Sonora,34.167952,-118.285644
+374,,Glenoaks & Sonora,Sonora,34.168266,-118.285444
+375,,Glenoaks & Thompson,Thompson,34.172558,-118.291906
+376,,Glenoaks & Thompson,Thompson,34.172565,-118.291346
+377,,Glenoaks & Western,Western,34.170816,-118.289578
+378,,Glenoaks & Western,Western,34.171425,-118.289782
+379,,San Fernando & Alameda,Alameda,34.174335,-118.299572
+380,,San Fernando & Alameda,Alameda,34.174017,-118.299481
+381,,San Fernando & Allen,Allen,34.171557,-118.295781
+382,,San Fernando & Allen,Allen,34.171345,-118.295838
+383,,San Fernando & Thompson,Thompson,34.170255,-118.29434
+384,,San Fernando & Western,Western,34.169079,-118.292381
+385,,San Fernando & Western,Western,34.168904,-118.292496
+386,,Sonora & Lake,Lake,34.160836,-118.293843
+387,,Stocker & Central,Central,34.163623,-118.257054
+388,,Stocker & Central,Central,34.163746,-118.257103
+389,,Stocker & Columbus,Columbus,34.163534,-118.261883
+390,,Stocker & Columbus,Columbus,34.163608,-118.262308
+391,,Stocker & Pacific,Pacific,34.163209,-118.264505
+392,,Western & Lake,Lake,34.163279,-118.297806
+393,,Glenoaks & Graynold,Graynold,34.16308,-118.278328
+394,,Stocker & Pacific,Pacific,34.163134,-118.264242
+395,,Glenoaks & Brand,Brand,34.15881,-118.254132
+396,,Monterey & Glendale,Glendale,34.156624,-118.24259
+397,,Victory & Western,Western,34.161,-118.299809
+398,,Flower & Sonora,Sonora,34.163009,-118.291685
+399,,Monterey & Brand,Brand,34.157368,-118.254607
+400,,Monterey & Brand,Brand,34.157519,-118.254112
+401,,Wilson & Glendale,Glendale,34.148063,-118.246865
+402,,Wilson & Maryland,Maryland,34.148052,-118.253619
+403,,Colorado & Jackson,Jackson,34.142719,-118.250323
+404,,Burbank Transit Center,,34.177991,-118.31213
+405,,Flower & Alameda,Alameda,34.171617,-118.303208
+406,,Flower & Alameda,Alameda,34.171211,-118.302878
+407,,Flower & Allen,Allen,34.168802,-118.299306
+408,,Flower & Allen,Allen,34.168682,-118.299407
+409,,Flower & Circle Seven,Circle Seven,34.159639,-118.286754
+410,,Flower & Circle Seven,Circle Seven,34.159331,-118.286641
+411,,Flower & Davis,Davis,34.161717,-118.289604
+412,,Flower & Sonora,Sonora,34.16292,-118.291227
+413,,Flower & Verdugo,Verdugo,34.175616,-118.309231
+414,,Flower & Verdugo,Verdugo,34.175529,-118.309326
+415,,Flower & Western,Western,34.16605,-118.29556
+416,,Grandview & Air,Air,34.1609,-118.283262
+417,,Grandview & Air,Air,34.161012,-118.283453
+418,,Grandview & Flower,Flower,34.158895,-118.285376
+419,,Grandview & Flower,Flower,34.158967,-118.285591
+422,,San Fernando & Broadway,Broadway,34.146527,-118.27153
+423,,San Fernando & Broadway,Broadway,34.146939,-118.271969
+424,,San Fernando & California,California,34.150157,-118.273641
+425,,San Fernando & Chevy Chase,Chevy Chase,34.133305,-118.262249
+426,,San Fernando & Chevy Chase,Chevy Chase,34.133635,-118.262682
+427,,San Fernando & Colorado,Colorado,34.142643,-118.269755
+428,,San Fernando & Fairmont,Fairmont,34.154988,-118.276026
+429,,San Fernando & Highland,Highland,34.156757,-118.277293
+430,,San Fernando & Highland,Highland,34.157022,-118.277756
+431,,San Fernando & Milford,Milford,34.151624,-118.274141
+432,,San Fernando & Pacific,Pacific,34.137022,-118.264579
+433,,San Fernando & Pacific,Pacific,34.136824,-118.26467
+434,,San Fernando & Doran,Doran,34.153001,-118.275109
+439,,San Fernando & Pelanconi,Pelanconi,34.159069,-118.279388
+440,,San Fernando & Flower,Flower,34.159254,-118.279902
+441,,Flower & Davis,Davis,34.161472,-118.289571
+442,,Flower & Western,Western,34.165901,-118.295677
+443,,Glendale & California,California,34.149622,-118.245984
+444,,La Crescenta & Montrose,Montrose,34.215718,-118.240055
+581,,San Fernando & Thompson,Thompson,34.170446,-118.294242

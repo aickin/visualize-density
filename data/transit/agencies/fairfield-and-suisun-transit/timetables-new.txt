@@ -1,0 +1,60 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,980,0,20130101,20190101,0,0,0,0,0,1,0,Cordelia Library/Oakbrook Dr,Year-round (Saturday only),North,horizontal
+2,980,0,20130101,20190101,1,1,1,1,1,0,0,Cordelia Library/Oakbrook Dr,Year-round (Monday-Friday),North,horizontal
+3,980,1,20130101,20190101,0,0,0,0,0,1,0,Cordelia Library/Oakbrook Dr,Year-round (Saturday only),South,horizontal
+4,980,1,20130101,20190101,1,1,1,1,1,0,0,Cordelia Library/Oakbrook Dr,Year-round (Monday-Friday),South,horizontal
+5,193,0,20130101,20190101,0,0,0,0,0,1,0,Fairfield/Vacaville,Year-round (Saturday only),Loop,horizontal
+6,193,0,20130101,20190101,1,1,1,1,1,0,0,Fairfield/Vacaville,Year-round (Monday-Friday),Loop,horizontal
+7,259,0,20130101,20190101,0,0,0,0,0,1,0,FTC/El Cerrito Del Norte BART/Suisun City Amtrak,Year-round (Saturday only),West,horizontal
+8,259,0,20130101,20190101,1,1,1,1,1,0,0,FTC/El Cerrito Del Norte BART/Suisun City Amtrak,Year-round (Monday-Friday),West,horizontal
+9,259,1,20130101,20190101,0,0,0,0,0,1,0,FTC/El Cerrito Del Norte BART/Suisun City Amtrak,Year-round (Saturday only),East,horizontal
+10,259,1,20130101,20190101,1,1,1,1,1,0,0,FTC/El Cerrito Del Norte BART/Suisun City Amtrak,Year-round (Monday-Friday),East,horizontal
+11,259,0,20170109,20190101,1,1,1,1,1,0,0,FTC/El Cerrito Del Norte BART/Suisun City Amtrak,Starting Jan. 9th (Monday-Friday),West,horizontal
+12,259,1,20170109,20190101,1,1,1,1,1,0,0,FTC/El Cerrito Del Norte BART/Suisun City Amtrak,Starting Jan. 9th (Monday-Friday),East,horizontal
+13,979,0,20130101,20190101,0,0,0,0,0,1,0, FTC/Solano College/Cordelia Library,Year-round (Saturday only),North,horizontal
+14,979,0,20130101,20190101,1,1,1,1,1,0,0, FTC/Solano College/Cordelia Library,Year-round (Monday-Friday),North,horizontal
+15,979,1,20130101,20190101,0,0,0,0,0,1,0, FTC/Solano College/Cordelia Library,Year-round (Saturday only),South,horizontal
+16,979,1,20130101,20190101,1,1,1,1,1,0,0, FTC/Solano College/Cordelia Library,Year-round (Monday-Friday),South,horizontal
+17,975,0,20130101,20190101,0,0,0,0,0,1,0,FTC/Solano Town Center/Walmart,Year-round (Saturday only),North,horizontal
+18,975,0,20130101,20190101,1,1,1,1,1,0,0,FTC/Solano Town Center/Walmart,Year-round (Monday-Friday),North,horizontal
+19,975,1,20130101,20190101,0,0,0,0,0,1,0,FTC/Solano Town Center/Walmart,Year-round (Saturday only),South,horizontal
+20,975,1,20130101,20190101,1,1,1,1,1,0,0,FTC/Solano Town Center/Walmart,Year-round (Monday-Friday),South,horizontal
+21,977,0,20130101,20190101,0,0,0,0,0,1,0,FTC/Suisun Senior Center,Year-round (Saturday only),West,horizontal
+22,977,0,20130101,20190101,1,1,1,1,1,0,0,FTC/Suisun Senior Center,Year-round (Monday-Friday),West,horizontal
+23,977,1,20130101,20190101,0,0,0,0,0,1,0,FTC/Suisun Senior Center,Year-round (Saturday only),East,horizontal
+24,977,1,20130101,20190101,1,1,1,1,1,0,0,FTC/Suisun Senior Center,Year-round (Monday-Friday),East,horizontal
+25,973,0,20130101,20190101,0,0,0,0,0,1,0,FTC/Walmart,Year-round (Saturday only),North,horizontal
+26,973,0,20130101,20190101,1,1,1,1,1,0,0,FTC/Walmart,Year-round (Monday-Friday),North,horizontal
+27,973,1,20130101,20190101,0,0,0,0,0,1,0,FTC/Walmart,Year-round (Saturday only),South,horizontal
+28,973,1,20130101,20190101,1,1,1,1,1,0,0,FTC/Walmart,Year-round (Monday-Friday),South,horizontal
+29,974,0,20130101,20190101,0,0,0,0,0,1,0,Route 2 - Solano Town Ctr/Huntington Ct,Year-round (Saturday only),West,horizontal
+30,974,0,20130101,20190101,1,1,1,1,1,0,0,Route 2 - Solano Town Ctr/Huntington Ct,Year-round (Monday-Friday),West,horizontal
+31,974,1,20130101,20190101,0,0,0,0,0,1,0,Route 2 - Solano Town Ctr/Huntington Ct,Year-round (Saturday only),East,horizontal
+32,974,1,20130101,20190101,1,1,1,1,1,0,0,Route 2 - Solano Town Ctr/Huntington Ct,Year-round (Monday-Friday),East,horizontal
+33,190,0,20130101,20190101,1,1,1,1,1,0,0,Sacramento/Davis/Fairfield,Year-round (Monday-Friday),West,horizontal
+34,190,1,20130101,20190101,1,1,1,1,0,0,0,Sacramento/Davis/Fairfield,Year-round (Monday-Thursday),East,horizontal
+35,190,1,20130101,20190101,1,1,1,1,1,0,0,Sacramento/Davis/Fairfield,Year-round (Monday-Friday),East,horizontal
+36,190,0,20170109,20190101,0,0,0,0,0,1,0,Sacramento/Davis/Fairfield,Starting Jan. 9th (Saturday only),West,horizontal
+37,190,0,20170109,20190101,0,0,0,0,1,0,0,Sacramento/Davis/Fairfield,Starting Jan. 9th (Friday only),West,horizontal
+38,190,0,20170109,20190101,1,1,1,1,0,0,0,Sacramento/Davis/Fairfield,Starting Jan. 9th (Monday-Thursday),West,horizontal
+39,190,0,20170109,20190101,1,1,1,1,1,0,0,Sacramento/Davis/Fairfield,Starting Jan. 9th (Monday-Friday),West,horizontal
+40,190,1,20170109,20190101,0,0,0,0,0,1,0,Sacramento/Davis/Fairfield,Starting Jan. 9th (Saturday only),East,horizontal
+41,190,1,20170109,20190101,0,0,0,0,1,0,0,Sacramento/Davis/Fairfield,Starting Jan. 9th (Friday only),East,horizontal
+42,190,1,20170109,20190101,1,1,1,1,0,0,0,Sacramento/Davis/Fairfield,Starting Jan. 9th (Monday-Thursday),East,horizontal
+43,190,1,20170109,20190101,1,1,1,1,1,0,0,Sacramento/Davis/Fairfield,Starting Jan. 9th (Monday-Friday),East,horizontal
+44,976,0,20130101,20190101,0,0,0,0,0,1,0,Smart & Final/Travis Air Force Base,Year-round (Saturday only),West,horizontal
+45,976,0,20130101,20190101,1,1,1,1,1,0,0,Smart & Final/Travis Air Force Base,Year-round (Monday-Friday),West,horizontal
+46,976,1,20130101,20190101,0,0,0,0,0,1,0,Smart & Final/Travis Air Force Base,Year-round (Saturday only),East,horizontal
+47,976,1,20130101,20190101,1,1,1,1,1,0,0,Smart & Final/Travis Air Force Base,Year-round (Monday-Friday),East,horizontal
+48,978,0,20130101,20190101,0,0,0,0,0,1,0,Solano Town Ctr/Suisun Senior Ctr/Montebello Dr,Year-round (Saturday only),West,horizontal
+49,978,0,20130101,20190101,1,1,1,1,1,0,0,Solano Town Ctr/Suisun Senior Ctr/Montebello Dr,Year-round (Monday-Friday),West,horizontal
+50,978,1,20130101,20190101,0,0,0,0,0,1,0,Solano Town Ctr/Suisun Senior Ctr/Montebello Dr,Year-round (Saturday only),East,horizontal
+51,978,1,20130101,20190101,1,1,1,1,1,0,0,Solano Town Ctr/Suisun Senior Ctr/Montebello Dr,Year-round (Monday-Friday),East,horizontal
+52,2720,0,20130101,20190101,0,0,0,0,0,1,0,Suisun Senior Center/Suisun City Walmart,Year-round (Saturday only),West,horizontal
+53,2720,0,20130101,20190101,1,1,1,1,1,0,0,Suisun Senior Center/Suisun City Walmart,Year-round (Monday-Friday),West,horizontal
+54,2720,1,20130101,20190101,0,0,0,0,0,1,0,Suisun Senior Center/Suisun City Walmart,Year-round (Saturday only),East,horizontal
+55,2720,1,20130101,20190101,1,1,1,1,1,0,0,Suisun Senior Center/Suisun City Walmart,Year-round (Monday-Friday),East,horizontal
+56,196,0,20130101,20190101,1,1,1,1,1,0,0,WC/PH BART - Vacaville/Fairfield,Year-round (Monday-Friday),North,horizontal
+57,196,1,20130101,20190101,1,1,1,1,1,0,0,WC/PH BART - Vacaville/Fairfield,Year-round (Monday-Friday),South,horizontal
+58,196,0,20170109,20190101,1,1,1,1,1,0,0,WC/PH BART - Vacaville/Fairfield,Starting Jan. 9th (Monday-Friday),North,horizontal
+59,196,1,20170109,20190101,1,1,1,1,1,0,0,WC/PH BART - Vacaville/Fairfield,Starting Jan. 9th (Monday-Friday),South,horizontal

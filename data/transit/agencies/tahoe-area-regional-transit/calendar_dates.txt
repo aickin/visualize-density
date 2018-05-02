@@ -1,0 +1,4 @@
+service_id,date,holiday_name,exception_type
+c_4288_b_4207_d_127,20181225,Christmas Day,2
+c_3417_b_6555_d_127,20181225,Christmas Day,2
+c_1947_b_1225_d_127,20181225,Christmas Day,2

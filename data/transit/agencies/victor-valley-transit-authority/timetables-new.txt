@@ -1,0 +1,168 @@
+timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation
+1,3384,0,20160101,20190101,0,0,0,0,0,0,1,Adelanto Circulator,Year-round calendar (Sunday only),Northbound,horizontal
+2,3384,0,20160101,20190101,0,0,0,0,0,1,0,Adelanto Circulator,Year-round calendar (Saturday only),Northbound,horizontal
+3,3384,0,20160101,20190101,1,1,1,1,1,0,0,Adelanto Circulator,Year-round calendar (Monday-Friday),Northbound,horizontal
+4,3384,1,20160101,20190101,0,0,0,0,0,0,1,Adelanto Circulator,Year-round calendar (Sunday only),Southbound,horizontal
+5,3384,1,20160101,20190101,0,0,0,0,0,1,0,Adelanto Circulator,Year-round calendar (Saturday only),Southbound,horizontal
+6,3384,1,20160101,20190101,1,1,1,1,1,0,0,Adelanto Circulator,Year-round calendar (Monday-Friday),Southbound,horizontal
+7,3384,,20160101,20190101,0,0,0,0,0,0,1,Adelanto Circulator,Year-round calendar (Sunday only),,horizontal
+8,3384,,20160101,20190101,0,0,0,0,0,1,0,Adelanto Circulator,Year-round calendar (Saturday only),,horizontal
+9,3384,,20160101,20190101,1,1,1,1,1,0,0,Adelanto Circulator,Year-round calendar (Monday-Friday),,horizontal
+10,3381,0,20160101,20190101,0,0,0,0,0,0,1,Apple Valley - Lucerne Valley,Year-round calendar (Sunday only),Eastbound,horizontal
+11,3381,0,20160101,20190101,0,0,0,0,0,1,0,Apple Valley - Lucerne Valley,Year-round calendar (Saturday only),Eastbound,horizontal
+12,3381,0,20160101,20190101,1,1,1,1,1,0,0,Apple Valley - Lucerne Valley,Year-round calendar (Monday-Friday),Eastbound,horizontal
+13,3381,1,20160101,20190101,0,0,0,0,0,0,1,Apple Valley - Lucerne Valley,Year-round calendar (Sunday only),Westbound,horizontal
+14,3381,1,20160101,20190101,0,0,0,0,0,1,0,Apple Valley - Lucerne Valley,Year-round calendar (Saturday only),Westbound,horizontal
+15,3381,1,20160101,20190101,1,1,1,1,1,0,0,Apple Valley - Lucerne Valley,Year-round calendar (Monday-Friday),Westbound,horizontal
+16,3385,0,20160101,20190101,0,0,0,0,0,0,1,Apple Valley North Deviation,Year-round calendar (Sunday only),Direction A,horizontal
+17,3385,0,20160101,20190101,0,0,0,0,0,1,0,Apple Valley North Deviation,Year-round calendar (Saturday only),Direction A,horizontal
+18,3385,0,20160101,20190101,1,1,1,1,1,0,0,Apple Valley North Deviation,Year-round calendar (Monday-Friday),Direction A,horizontal
+19,6831,0,20160101,20190101,0,0,0,0,0,0,1,Apple Valley Road,Year-round calendar (Sunday only),Northbound,horizontal
+20,6831,0,20160101,20190101,0,0,0,0,0,1,0,Apple Valley Road,Year-round calendar (Saturday only),Northbound,horizontal
+21,6831,0,20160101,20190101,1,1,1,1,1,0,0,Apple Valley Road,Year-round calendar (Monday-Friday),Northbound,horizontal
+22,6831,1,20160101,20190101,0,0,0,0,0,0,1,Apple Valley Road,Year-round calendar (Sunday only),Southbound,horizontal
+23,6831,1,20160101,20190101,0,0,0,0,0,1,0,Apple Valley Road,Year-round calendar (Saturday only),Southbound,horizontal
+24,6831,1,20160101,20190101,1,1,1,1,1,0,0,Apple Valley Road,Year-round calendar (Monday-Friday),Southbound,horizontal
+25,3389,,20160101,20190101,0,0,0,0,0,0,1,Apple Valley South Deviation,Year-round calendar (Sunday only),,horizontal
+26,3389,,20160101,20190101,0,0,0,0,0,1,0,Apple Valley South Deviation,Year-round calendar (Saturday only),,horizontal
+27,3389,,20160101,20190101,1,1,1,1,1,0,0,Apple Valley South Deviation,Year-round calendar (Monday-Friday),,horizontal
+28,3387,0,20160101,20190101,0,0,0,0,0,0,1,Apple Valley - Victor Valley College,Year-round calendar (Sunday only),Eastbound,horizontal
+29,3387,0,20160101,20190101,0,0,0,0,0,1,0,Apple Valley - Victor Valley College,Year-round calendar (Saturday only),Eastbound,horizontal
+30,3387,0,20160101,20190101,1,1,1,1,1,0,0,Apple Valley - Victor Valley College,Year-round calendar (Monday-Friday),Eastbound,horizontal
+31,3387,1,20160101,20190101,0,0,0,0,0,0,1,Apple Valley - Victor Valley College,Year-round calendar (Sunday only),Westbound,horizontal
+32,3387,1,20160101,20190101,0,0,0,0,0,1,0,Apple Valley - Victor Valley College,Year-round calendar (Saturday only),Westbound,horizontal
+33,3387,1,20160101,20190101,1,1,1,1,1,0,0,Apple Valley - Victor Valley College,Year-round calendar (Monday-Friday),Westbound,horizontal
+34,7120,1,20160101,20190101,0,0,0,0,0,1,1,Barstow - Hinkley - Helendale,Year-round calendar (Weekend),Westbound,horizontal
+35,7120,1,20160101,20190101,1,1,1,1,1,0,0,Barstow - Hinkley - Helendale,Year-round calendar (Monday-Friday),Westbound,horizontal
+36,5137,0,20160101,20180101,0,0,0,0,0,1,1,Barstow Library - Barstow College,Year Round (Weekend),Southbound,horizontal
+37,5137,0,20160101,20180101,1,1,1,1,1,0,0,Barstow Library - Barstow College,Year Round (Monday-Friday),Southbound,horizontal
+38,5137,1,20160101,20180101,0,0,0,0,0,1,1,Barstow Library - Barstow College,Year Round (Weekend),Northbound,horizontal
+39,5137,1,20160101,20180101,1,1,1,1,1,0,0,Barstow Library - Barstow College,Year Round (Monday-Friday),Northbound,horizontal
+40,7140,,20160101,20180101,0,0,0,0,0,1,1,Barstow Library - College,Year Round (Weekend),,horizontal
+41,7140,,20160101,20180101,1,1,1,1,1,0,0,Barstow Library - College,Year Round (Monday-Friday),,horizontal
+42,5138,0,20160101,20180101,0,0,0,0,0,1,1,Barstow Library - Outlets at Barstow,Year Round (Weekend),Westbound,horizontal
+43,5138,0,20160101,20180101,1,1,1,1,1,0,0,Barstow Library - Outlets at Barstow,Year Round (Monday-Friday),Westbound,horizontal
+44,5138,1,20160101,20180101,0,0,0,0,0,1,1,Barstow Library - Outlets at Barstow,Year Round (Weekend),Eastbound,horizontal
+45,5138,1,20160101,20180101,1,1,1,1,1,0,0,Barstow Library - Outlets at Barstow,Year Round (Monday-Friday),Eastbound,horizontal
+46,3394,0,20160101,20190101,0,0,0,0,0,1,0,B-V Link Barstow-Victorville,Year-round calendar (Saturday only),Northbound,horizontal
+47,3394,0,20160101,20190101,1,1,1,1,1,0,0,B-V Link Barstow-Victorville,Year-round calendar (Monday-Friday),Northbound,horizontal
+48,3394,1,20160101,20190101,0,0,0,0,0,1,0,B-V Link Barstow-Victorville,Year-round calendar (Saturday only),Southbound,horizontal
+49,3394,1,20160101,20190101,1,1,1,1,1,0,0,B-V Link Barstow-Victorville,Year-round calendar (Monday-Friday),Southbound,horizontal
+50,3398,0,20160101,20190101,0,0,0,0,0,1,0,B-V Link Victorville-San Bernardino,Year-round calendar (Saturday only),Northbound,horizontal
+51,3398,0,20160101,20190101,1,1,1,1,1,0,0,B-V Link Victorville-San Bernardino,Year-round calendar (Monday-Friday),Northbound,horizontal
+52,3398,1,20160101,20190101,0,0,0,0,0,1,0,B-V Link Victorville-San Bernardino,Year-round calendar (Saturday only),Southbound,horizontal
+53,3398,1,20160101,20190101,1,1,1,1,1,0,0,B-V Link Victorville-San Bernardino,Year-round calendar (Monday-Friday),Southbound,horizontal
+54,5136,0,20160101,20180101,0,0,0,0,0,1,1,Central Barstow,Year Round (Weekend),Westbound,horizontal
+55,5136,0,20160101,20180101,1,1,1,1,1,0,0,Central Barstow,Year Round (Monday-Friday),Westbound,horizontal
+56,5136,1,20160101,20180101,0,0,0,0,0,1,1,Central Barstow,Year Round (Weekend),Eastbound,horizontal
+57,5136,1,20160101,20180101,1,1,1,1,1,0,0,Central Barstow,Year Round (Monday-Friday),Eastbound,horizontal
+58,3406,0,20160101,20190101,1,1,1,1,0,0,0,Express VV to VVC,Year-round calendar (Monday-Thursday),Northbound,horizontal
+59,3406,1,20160101,20190101,1,1,1,1,0,0,0,Express VV to VVC,Year-round calendar (Monday-Thursday),Southbound,horizontal
+60,3390,0,20160101,20190101,0,0,0,0,0,0,1,Hesperia Post Office - Super Target - DISCONTINUED,Year-round calendar (Sunday only),Eastbound,horizontal
+61,3390,0,20160101,20190101,0,0,0,0,0,1,0,Hesperia Post Office - Super Target - DISCONTINUED,Year-round calendar (Saturday only),Eastbound,horizontal
+62,3390,0,20160101,20190101,1,1,1,1,1,0,0,Hesperia Post Office - Super Target - DISCONTINUED,Year-round calendar (Monday-Friday),Eastbound,horizontal
+63,3390,1,20160101,20190101,0,0,0,0,0,0,1,Hesperia Post Office - Super Target - DISCONTINUED,Year-round calendar (Sunday only),Westbound,horizontal
+64,3390,1,20160101,20190101,0,0,0,0,0,1,0,Hesperia Post Office - Super Target - DISCONTINUED,Year-round calendar (Saturday only),Westbound,horizontal
+65,3390,1,20160101,20190101,1,1,1,1,1,0,0,Hesperia Post Office - Super Target - DISCONTINUED,Year-round calendar (Monday-Friday),Westbound,horizontal
+66,3388,,20160101,20190101,0,0,0,0,0,0,1,Hesperia Route Deviation,Year-round calendar (Sunday only),,horizontal
+67,3388,,20160101,20190101,0,0,0,0,0,1,0,Hesperia Route Deviation,Year-round calendar (Saturday only),,horizontal
+68,3388,,20160101,20190101,1,1,1,1,1,0,0,Hesperia Route Deviation,Year-round calendar (Monday-Friday),,horizontal
+69,7122,,20160101,20190101,0,0,0,0,0,0,1,Hesperia - Victor Valley Mall,Year-round calendar (Sunday only),,horizontal
+70,7122,,20160101,20190101,0,0,0,0,0,1,0,Hesperia - Victor Valley Mall,Year-round calendar (Saturday only),,horizontal
+71,7122,,20160101,20190101,1,1,1,1,1,0,0,Hesperia - Victor Valley Mall,Year-round calendar (Monday-Friday),,horizontal
+72,3393,,20160101,20190101,0,0,0,0,0,0,1,Hwy 395-Palmdale - Victor Valley Mall,Year-round calendar (Sunday only),,horizontal
+73,3393,,20160101,20190101,0,0,0,0,0,1,0,Hwy 395-Palmdale - Victor Valley Mall,Year-round calendar (Saturday only),,horizontal
+74,3393,,20160101,20190101,1,1,1,1,1,0,0,Hwy 395-Palmdale - Victor Valley Mall,Year-round calendar (Monday-Friday),,horizontal
+75,3386,0,20160101,20190101,0,0,0,0,0,0,1,Lorene-7th - Apple Valley Post Office,Year-round calendar (Sunday only),Eastbound,horizontal
+76,3386,0,20160101,20190101,0,0,0,0,0,1,0,Lorene-7th - Apple Valley Post Office,Year-round calendar (Saturday only),Eastbound,horizontal
+77,3386,0,20160101,20190101,1,1,1,1,1,0,0,Lorene-7th - Apple Valley Post Office,Year-round calendar (Monday-Friday),Eastbound,horizontal
+78,3386,1,20160101,20190101,0,0,0,0,0,0,1,Lorene-7th - Apple Valley Post Office,Year-round calendar (Sunday only),Westbound,horizontal
+79,3386,1,20160101,20190101,0,0,0,0,0,1,0,Lorene-7th - Apple Valley Post Office,Year-round calendar (Saturday only),Westbound,horizontal
+80,3386,1,20160101,20190101,1,1,1,1,1,0,0,Lorene-7th - Apple Valley Post Office,Year-round calendar (Monday-Friday),Westbound,horizontal
+81,3397,0,20160101,20190101,0,0,0,0,0,0,1,Lorene-7th - Victor Valley College,Year-round calendar (Sunday only),Northbound,horizontal
+82,3397,0,20160101,20190101,0,0,0,0,0,1,0,Lorene-7th - Victor Valley College,Year-round calendar (Saturday only),Northbound,horizontal
+83,3397,0,20160101,20190101,1,1,1,1,1,0,0,Lorene-7th - Victor Valley College,Year-round calendar (Monday-Friday),Northbound,horizontal
+84,3397,1,20160101,20190101,0,0,0,0,0,0,1,Lorene-7th - Victor Valley College,Year-round calendar (Sunday only),Southbound,horizontal
+85,3397,1,20160101,20190101,0,0,0,0,0,1,0,Lorene-7th - Victor Valley College,Year-round calendar (Saturday only),Southbound,horizontal
+86,3397,1,20160101,20190101,1,1,1,1,1,0,0,Lorene-7th - Victor Valley College,Year-round calendar (Monday-Friday),Southbound,horizontal
+87,3391,,20160101,20190101,0,0,0,0,0,0,1,Lorene-7th - Victor Valley Hospital,Year-round calendar (Sunday only),,horizontal
+88,3391,,20160101,20190101,0,0,0,0,0,1,0,Lorene-7th - Victor Valley Hospital,Year-round calendar (Saturday only),,horizontal
+89,3391,,20160101,20190101,1,1,1,1,1,0,0,Lorene-7th - Victor Valley Hospital,Year-round calendar (Monday-Friday),,horizontal
+90,3395,0,20160101,20190101,0,0,0,0,0,0,1,Lorene-7th - Victor Valley Mall,Year-round calendar (Sunday only),Northbound,horizontal
+91,3395,0,20160101,20190101,0,0,0,0,0,1,0,Lorene-7th - Victor Valley Mall,Year-round calendar (Saturday only),Northbound,horizontal
+92,3395,0,20160101,20190101,1,1,1,1,1,0,0,Lorene-7th - Victor Valley Mall,Year-round calendar (Monday-Friday),Northbound,horizontal
+93,3395,1,20160101,20190101,0,0,0,0,0,0,1,Lorene-7th - Victor Valley Mall,Year-round calendar (Sunday only),Southbound,horizontal
+94,3395,1,20160101,20190101,0,0,0,0,0,1,0,Lorene-7th - Victor Valley Mall,Year-round calendar (Saturday only),Southbound,horizontal
+95,3395,1,20160101,20190101,1,1,1,1,1,0,0,Lorene-7th - Victor Valley Mall,Year-round calendar (Monday-Friday),Southbound,horizontal
+96,7106,0,20160101,20190101,0,0,0,0,1,0,0,Needles Link,Year-round calendar (Friday only),Eastbound,horizontal
+97,7106,1,20160101,20190101,0,0,0,0,1,0,0,Needles Link,Year-round calendar (Friday only),Westbound,horizontal
+98,7121,,20160101,20190101,0,0,0,0,0,1,1,Newberry Springs - Barsrtow,Year-round calendar (Weekend),,horizontal
+99,7121,,20160101,20190101,1,1,1,1,1,0,0,Newberry Springs - Barsrtow,Year-round calendar (Monday-Friday),,horizontal
+100,3399,0,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Northbound,horizontal
+101,3399,1,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Southbound,horizontal
+102,3400,0,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Northbound,horizontal
+103,3400,1,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Southbound,horizontal
+104,3401,0,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Northbound,horizontal
+105,3401,1,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Southbound,horizontal
+106,3402,0,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Northbound,horizontal
+107,3402,1,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Southbound,horizontal
+108,3403,0,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Northbound,horizontal
+109,3403,1,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Southbound,horizontal
+110,3404,0,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Northbound,horizontal
+111,3404,1,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Southbound,horizontal
+112,3405,0,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Northbound,horizontal
+113,3405,1,20160101,20190101,1,1,1,1,1,0,0,NTC Commuter,Year-round calendar (Monday-Friday),Southbound,horizontal
+114,5797,0,20160101,20190101,0,0,0,0,0,0,1,Oak Hills - Hesperia,Year-round calendar (Sunday only),Direction A,horizontal
+115,5797,0,20160101,20190101,0,0,0,0,0,1,0,Oak Hills - Hesperia,Year-round calendar (Saturday only),Direction A,horizontal
+116,5797,0,20160101,20190101,1,1,1,1,1,0,0,Oak Hills - Hesperia,Year-round calendar (Monday-Friday),Direction A,horizontal
+117,5797,1,20160101,20190101,0,0,0,0,0,0,1,Oak Hills - Hesperia,Year-round calendar (Sunday only),Direction B,horizontal
+118,5797,1,20160101,20190101,0,0,0,0,0,1,0,Oak Hills - Hesperia,Year-round calendar (Saturday only),Direction B,horizontal
+119,5797,1,20160101,20190101,1,1,1,1,1,0,0,Oak Hills - Hesperia,Year-round calendar (Monday-Friday),Direction B,horizontal
+120,3396,0,20160101,20190101,0,0,0,0,0,1,0,Tri-Community Dar - DISCONTINUED,Year-round calendar (Saturday only),Northbound,horizontal
+121,3396,0,20160101,20190101,1,1,1,1,1,0,0,Tri-Community Dar - DISCONTINUED,Year-round calendar (Monday-Friday),Northbound,horizontal
+122,3396,1,20160101,20190101,0,0,0,0,0,1,0,Tri-Community Dar - DISCONTINUED,Year-round calendar (Saturday only),Southbound,horizontal
+123,3396,1,20160101,20190101,1,1,1,1,1,0,0,Tri-Community Dar - DISCONTINUED,Year-round calendar (Monday-Friday),Southbound,horizontal
+124,3380,0,20160101,20190101,0,0,0,0,0,0,1,Victor Valley Mall - Hesperia Po - DISCONTINUED,Year-round calendar (Sunday only),Northbound,horizontal
+125,3380,0,20160101,20190101,0,0,0,0,0,1,0,Victor Valley Mall - Hesperia Po - DISCONTINUED,Year-round calendar (Saturday only),Northbound,horizontal
+126,3380,0,20160101,20190101,1,1,1,1,1,0,0,Victor Valley Mall - Hesperia Po - DISCONTINUED,Year-round calendar (Monday-Friday),Northbound,horizontal
+127,3380,1,20160101,20190101,0,0,0,0,0,0,1,Victor Valley Mall - Hesperia Po - DISCONTINUED,Year-round calendar (Sunday only),Southbound,horizontal
+128,3380,1,20160101,20190101,0,0,0,0,0,1,0,Victor Valley Mall - Hesperia Po - DISCONTINUED,Year-round calendar (Saturday only),Southbound,horizontal
+129,3380,1,20160101,20190101,1,1,1,1,1,0,0,Victor Valley Mall - Hesperia Po - DISCONTINUED,Year-round calendar (Monday-Friday),Southbound,horizontal
+130,3392,0,20160101,20190101,0,0,0,0,0,0,1,Victor Valley Mall - Vv College,Year-round calendar (Sunday only),Eastbound,horizontal
+131,3392,0,20160101,20190101,0,0,0,0,0,1,0,Victor Valley Mall - Vv College,Year-round calendar (Saturday only),Eastbound,horizontal
+132,3392,0,20160101,20190101,1,1,1,1,1,0,0,Victor Valley Mall - Vv College,Year-round calendar (Monday-Friday),Eastbound,horizontal
+133,3392,1,20160101,20190101,0,0,0,0,0,0,1,Victor Valley Mall - Vv College,Year-round calendar (Sunday only),Westbound,horizontal
+134,3392,1,20160101,20190101,0,0,0,0,0,1,0,Victor Valley Mall - Vv College,Year-round calendar (Saturday only),Westbound,horizontal
+135,3392,1,20160101,20190101,1,1,1,1,1,0,0,Victor Valley Mall - Vv College,Year-round calendar (Monday-Friday),Westbound,horizontal
+136,7145,0,20160101,20190101,1,1,1,1,1,0,0,Victor Valley Mall - Wrightwood,Year-round calendar (Monday-Friday),Eastbound,horizontal
+137,7145,1,20160101,20190101,1,1,1,1,1,0,0,Victor Valley Mall - Wrightwood,Year-round calendar (Monday-Friday),Westbound,horizontal
+138,3383,0,20160101,20190101,0,0,0,0,0,0,1,Victorville - Adelanto North,Year-round calendar (Sunday only),Eastbound,horizontal
+139,3383,0,20160101,20190101,0,0,0,0,0,1,0,Victorville - Adelanto North,Year-round calendar (Saturday only),Eastbound,horizontal
+140,3383,0,20160101,20190101,1,1,1,1,1,0,0,Victorville - Adelanto North,Year-round calendar (Monday-Friday),Eastbound,horizontal
+141,3383,1,20160101,20190101,0,0,0,0,0,0,1,Victorville - Adelanto North,Year-round calendar (Sunday only),Westbound,horizontal
+142,3383,1,20160101,20190101,0,0,0,0,0,1,0,Victorville - Adelanto North,Year-round calendar (Saturday only),Westbound,horizontal
+143,3383,1,20160101,20190101,1,1,1,1,1,0,0,Victorville - Adelanto North,Year-round calendar (Monday-Friday),Westbound,horizontal
+144,3382,0,20160101,20190101,0,0,0,0,0,0,1,Victorville - Adelanto South,Year-round calendar (Sunday only),Eastbound,horizontal
+145,3382,0,20160101,20190101,0,0,0,0,0,1,0,Victorville - Adelanto South,Year-round calendar (Saturday only),Eastbound,horizontal
+146,3382,0,20160101,20190101,1,1,1,1,1,0,0,Victorville - Adelanto South,Year-round calendar (Monday-Friday),Eastbound,horizontal
+147,3382,1,20160101,20190101,0,0,0,0,0,0,1,Victorville - Adelanto South,Year-round calendar (Sunday only),Westbound,horizontal
+148,3382,1,20160101,20190101,0,0,0,0,0,1,0,Victorville - Adelanto South,Year-round calendar (Saturday only),Westbound,horizontal
+149,3382,1,20160101,20190101,1,1,1,1,1,0,0,Victorville - Adelanto South,Year-round calendar (Monday-Friday),Westbound,horizontal
+150,3379,0,20160101,20190101,0,0,0,0,0,0,1,Victorville - Helendale,Year-round calendar (Sunday only),Northbound,horizontal
+151,3379,0,20160101,20190101,0,0,0,0,0,1,0,Victorville - Helendale,Year-round calendar (Saturday only),Northbound,horizontal
+152,3379,0,20160101,20190101,1,1,1,1,1,0,0,Victorville - Helendale,Year-round calendar (Monday-Friday),Northbound,horizontal
+153,3379,1,20160101,20190101,0,0,0,0,0,0,1,Victorville - Helendale,Year-round calendar (Sunday only),Southbound,horizontal
+154,3379,1,20160101,20190101,0,0,0,0,0,1,0,Victorville - Helendale,Year-round calendar (Saturday only),Southbound,horizontal
+155,3379,1,20160101,20190101,1,1,1,1,1,0,0,Victorville - Helendale,Year-round calendar (Monday-Friday),Southbound,horizontal
+156,3378,0,20160101,20190101,0,0,0,0,0,0,1,Victorville - Hesperia Post Office,Year-round calendar (Sunday only),Northbound,horizontal
+157,3378,0,20160101,20190101,0,0,0,0,0,1,0,Victorville - Hesperia Post Office,Year-round calendar (Saturday only),Northbound,horizontal
+158,3378,0,20160101,20190101,1,1,1,1,1,0,0,Victorville - Hesperia Post Office,Year-round calendar (Monday-Friday),Northbound,horizontal
+159,3378,1,20160101,20190101,0,0,0,0,0,0,1,Victorville - Hesperia Post Office,Year-round calendar (Sunday only),Southbound,horizontal
+160,3378,1,20160101,20190101,0,0,0,0,0,1,0,Victorville - Hesperia Post Office,Year-round calendar (Saturday only),Southbound,horizontal
+161,3378,1,20160101,20190101,1,1,1,1,1,0,0,Victorville - Hesperia Post Office,Year-round calendar (Monday-Friday),Southbound,horizontal
+162,3377,0,20160101,20190101,0,0,0,0,0,0,1,Victorville - Pinon Hills,Year-round calendar (Sunday only),Eastbound,horizontal
+163,3377,0,20160101,20190101,0,0,0,0,0,1,0,Victorville - Pinon Hills,Year-round calendar (Saturday only),Eastbound,horizontal
+164,3377,0,20160101,20190101,1,1,1,1,1,0,0,Victorville - Pinon Hills,Year-round calendar (Monday-Friday),Eastbound,horizontal
+165,3377,1,20160101,20190101,0,0,0,0,0,0,1,Victorville - Pinon Hills,Year-round calendar (Sunday only),Westbound,horizontal
+166,3377,1,20160101,20190101,0,0,0,0,0,1,0,Victorville - Pinon Hills,Year-round calendar (Saturday only),Westbound,horizontal
+167,3377,1,20160101,20190101,1,1,1,1,1,0,0,Victorville - Pinon Hills,Year-round calendar (Monday-Friday),Westbound,horizontal

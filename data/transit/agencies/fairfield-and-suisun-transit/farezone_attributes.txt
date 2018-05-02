@@ -1,0 +1,11 @@
+zone_id,zone_name
+116,FAST Local
+576,SolExp 20
+581,SolExp 90
+663,Fairfield
+664,Sacramento
+665,UC Davis
+666,Vacaville
+667,Dixon
+669,Pleasant Hill/Walnut Creek BAR
+670,Benicia

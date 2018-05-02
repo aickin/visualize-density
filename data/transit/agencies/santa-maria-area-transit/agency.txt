@@ -1,0 +1,3 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+476,http://www.cityofsantamaria.org/home/showdocument?id=11840,en,Guadalupe Flyer,8059228476,America/Los_Angeles,http://www.smoothinc.org/guadalupe-flyer.php
+475,http://www.cityofsantamaria.org/home/showdocument?id=6159,en,Santa Maria Area Transit,(805)-928-5624,America/Los_Angeles,http://www.cityofsantamaria.org/city-government/departments/public-works-services/public-transit-services-2499

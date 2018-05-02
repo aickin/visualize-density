@@ -1,0 +1,348 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+WWDi,WWDiA,WWDiA0600,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA0700,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA0800,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA0900,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA1000,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA1100,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA1200,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA1300,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA1400,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA1500,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA1600,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA1700,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA1800,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA1900,Westwood to LAX,0,,WWDiS
+WWDi,WWDiA,WWDiA2000,Westwood to LAX,0,,WWDiS
+WWDo,WWDoA,WWDoA0600,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA0700,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA0800,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA0900,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA1000,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA1100,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA1200,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA1300,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA1400,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA1500,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA1600,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA1700,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA1800,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA1900,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA2000,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA2100,LAX to Westwood,1,,WWDoS
+WWDo,WWDoA,WWDoA2200,LAX to Westwood,1,,WWDoS
+VNYi,VNYiA,VNYiA0100,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0200,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0300,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0330,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0400,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0430,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0500,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0515,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0530,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0545,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0600,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0615,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0630,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0645,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0700,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0715,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0730,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0745,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0800,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0815,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0830,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0845,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0900,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0915,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA0930,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1000,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1030,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1100,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1130,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1200,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1230,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1300,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1330,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1400,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1430,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1500,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1530,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1600,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1630,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1700,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1730,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1800,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1830,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1900,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA1930,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA2000,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA2030,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA2100,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA2130,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA2200,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA2230,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA2300,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA2330,Van Nuys to LAX,0,,VNYiS
+VNYi,VNYiA,VNYiA2400,Van Nuys to LAX,0,,VNYiS
+VNYo,VNYoA,VNYoA2400,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0015,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0030,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0115,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0215,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0245,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0345,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0415,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0445,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0530,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0600,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0630,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0700,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0730,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0800,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0830,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0900,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA0930,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1000,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1030,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1100,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1130,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1200,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1230,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1300,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1330,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1400,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1430,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1500,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1530,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1600,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1630,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1700,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1730,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1800,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1830,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1900,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA1930,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA2000,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA2030,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA2100,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA2130,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA2200,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA2230,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA2300,LAX to Van Nuys,1,,VNYoS
+VNYo,VNYoA,VNYoA2330,LAX to Van Nuys,1,,VNYoS
+USTi,USTiA,USTiA2400,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA0030,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA0100,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA0200,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA0300,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA0400,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA0500,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA0530,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA0630,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA0730,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA0830,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA0930,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1000,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1030,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1100,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1130,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1200,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1230,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1300,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1330,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1400,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1430,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1500,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1530,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1600,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1630,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1700,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1730,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1800,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1830,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1900,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA1930,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA2000,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA2030,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA2100,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA2130,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA2200,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA2230,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA2300,Union Station to LAX,0,,USTiS
+USTi,USTiA,USTiA2330,Union Station to LAX,0,,USTiS
+USTi,USTiW,USTiW0550,Union Station to LAX,0,,USTiS
+USTi,USTiW,USTiW0610,Union Station to LAX,0,,USTiS
+USTi,USTiW,USTiW0650,Union Station to LAX,0,,USTiS
+USTi,USTiW,USTiW0710,Union Station to LAX,0,,USTiS
+USTi,USTiW,USTiW0750,Union Station to LAX,0,,USTiS
+USTi,USTiW,USTiW0810,Union Station to LAX,0,,USTiS
+USTi,USTiW,USTiW0850,Union Station to LAX,0,,USTiS
+USTi,USTiW,USTiW0910,Union Station to LAX,0,,USTiS
+USTi,USTiE,USTiE0600,Union Station to LAX,0,,USTiS
+USTi,USTiE,USTiE0700,Union Station to LAX,0,,USTiS
+USTi,USTiE,USTiE0800,Union Station to LAX,0,,USTiS
+USTi,USTiE,USTiE0900,Union Station to LAX,0,,USTiS
+USTo,USToA,USToA2400,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0030,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0100,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0200,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0300,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0400,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0500,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0530,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0600,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0630,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0700,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0730,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0800,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0830,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0900,LAX to Union Station,1,,USToS
+USTo,USToA,USToA0930,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1000,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1030,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1100,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1130,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1200,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1230,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1300,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1330,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1400,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1430,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1500,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1530,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1600,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1630,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1700,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1730,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1800,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1830,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1900,LAX to Union Station,1,,USToS
+USTo,USToA,USToA1930,LAX to Union Station,1,,USToS
+USTo,USToA,USToA2000,LAX to Union Station,1,,USToS
+USTo,USToA,USToA2030,LAX to Union Station,1,,USToS
+USTo,USToA,USToA2100,LAX to Union Station,1,,USToS
+USTo,USToA,USToA2130,LAX to Union Station,1,,USToS
+USTo,USToA,USToA2200,LAX to Union Station,1,,USToS
+USTo,USToA,USToA2230,LAX to Union Station,1,,USToS
+USTo,USToA,USToA2300,LAX to Union Station,1,,USToS
+USTo,USToA,USToA2330,LAX to Union Station,1,,USToS
+HWDi,HWDiA,HWDiA0515,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA0615,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA0715,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA0815,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA0915,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA1015,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA1115,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA1215,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA1315,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA1415,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA1515,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA1615,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA1715,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA1815,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA1915,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA2015,Hollywood & Vine to LAX,0,,HWDiS
+HWDi,HWDiA,HWDiA2115,Hollywood & Vine to LAX,0,,HWDiS
+HWDo,HWDoA,HWDoA0515,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA0615,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA0715,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA0815,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA0915,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA1015,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA1115,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA1215,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA1315,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA1415,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA1515,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA1615,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA1715,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA1815,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA1915,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA2015,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA2115,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA2215,LAX to Hollywood & Vine,1,,HWDoS
+HWDo,HWDoA,HWDoA2315,LAX to Hollywood & Vine,1,,HWDoS
+
+OLVi,OLViA,OLViA0403,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA0503,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA0603,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA0703,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA0803,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA0903,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA1003,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA1103,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA1203,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA1303,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA1403,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA1503,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA1603,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA1703,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA1803,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA1903,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA2003,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA2103,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA2203,Orange Line to LAX,0,,OLViS
+OLVi,OLViA,OLViA2303,Orange Line to LAX,0,,OLViS
+
+OLVo,OLVoA,OLVoA0445,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA0600,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA0700,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA0800,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA0900,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA1000,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA1100,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA1200,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA1300,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA1400,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA1500,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA1600,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA1700,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA1800,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA1900,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA2000,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA2100,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA2200,LAX to Orange Line,1,,OLVoS
+OLVo,OLVoA,OLVoA2300,LAX to Orange Line,1,,OLVoS
+
+LGBi,LGBiA,LGBiA0530,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA0630,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA0730,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA0830,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA0930,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA1030,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA1130,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA1230,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA1330,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA1430,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA1530,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA1630,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA1730,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA1830,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA1930,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA2030,LAX to Downtown Long Beach,1,,LGBiS
+LGBi,LGBiA,LGBiA2130,LAX to Downtown Long Beach,1,,LGBiS
+
+LGBo,LGBoA,LGBoA0530,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA0630,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA0730,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA0830,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA0930,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA1030,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA1130,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA1230,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA1330,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA1430,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA1530,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA1630,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA1730,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA1830,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA1930,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA2030,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA2130,LAX to Downtown Long Beach,1,,LGBoS
+LGBo,LGBoA,LGBoA2230,LAX to Downtown Long Beach,1,,LGBoS
+
+CSHTLi,CSHTLiA,CSHTLiT,Bus Center to Terminals,0,,CSHTLiS
+CSHTLo,CSHTLoA,CSHTLoT,Terminals to Bus Center,1,,CSHTLoS
+GSHTLi,GSHTLiA,GSHTLiT,Metro Rail to Terminals,0,,GSHTLiS
+GSHTLo,GSHTLoA,GSHTLoT,Terminals to Metro Rail,1,,GSHTLoS

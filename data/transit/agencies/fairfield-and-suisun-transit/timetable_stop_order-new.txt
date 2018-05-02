@@ -1,0 +1,720 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,28696,1,Oakbrook Dr and Lopes Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28697,2,Oakbrook Dr and Rainier Ct ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28698,3,Oakbrook Dr and Brookdale Cir ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28699,4,Oakbrook Dr and Oakbrook Ct,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28700,5,Oakbrook Dr and Oakbrook Cir ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28701,6,Oakbrook Dr and Amberwood Cir ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28763,7,Red Top Rd op Oakbrook Dr (RHS),"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28702,8,Watt Dr and Fermi Dr,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28703,9,Watt Dr and Watt Ct,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28704,10,Fulton Dr and  Edison Ct,8/Cordelia Library/Oakbrook Dr
+1,28705,11,Fulton Dr  and  Lopes Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28707,12,Central Way fs Ritchie Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28708,13,Central Way ns Grobric Ct,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28709,14,Pittman Rd and Central Way (Pittman),"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+1,28762,15,Central Way op Link Rd,8/Cordelia Library/Oakbrook Dr
+1,28706,16,Central Way op Ritchie,8/Cordelia Library/Oakbrook Dr
+1,28761,17,Fairfield - Cordelia Library,"7/ FTC/Solano College/Cordelia Library, 8/Cordelia Library/Oakbrook Dr"
+2,28696,1,Oakbrook Dr and Lopes Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28697,2,Oakbrook Dr and Rainier Ct ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28698,3,Oakbrook Dr and Brookdale Cir ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28699,4,Oakbrook Dr and Oakbrook Ct,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28700,5,Oakbrook Dr and Oakbrook Cir ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28701,6,Oakbrook Dr and Amberwood Cir ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28763,7,Red Top Rd op Oakbrook Dr (RHS),"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28702,8,Watt Dr and Fermi Dr,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28703,9,Watt Dr and Watt Ct,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28704,10,Fulton Dr and  Edison Ct,8/Cordelia Library/Oakbrook Dr
+2,28705,11,Fulton Dr  and  Lopes Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28707,12,Central Way fs Ritchie Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28708,13,Central Way ns Grobric Ct,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28709,14,Pittman Rd and Central Way (Pittman),"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+2,28762,15,Central Way op Link Rd,8/Cordelia Library/Oakbrook Dr
+2,28706,16,Central Way op Ritchie,8/Cordelia Library/Oakbrook Dr
+2,28761,17,Fairfield - Cordelia Library,"7/ FTC/Solano College/Cordelia Library, 8/Cordelia Library/Oakbrook Dr"
+3,28761,1,Fairfield - Cordelia Library,"7/ FTC/Solano College/Cordelia Library, 8/Cordelia Library/Oakbrook Dr"
+3,28707,2,Central Way fs Ritchie Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+3,28708,3,Central Way ns Grobric Ct,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+3,28709,4,Pittman Rd and Central Way (Pittman),"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+3,28762,5,Central Way op Link Rd,8/Cordelia Library/Oakbrook Dr
+3,28706,6,Central Way op Ritchie,8/Cordelia Library/Oakbrook Dr
+3,28679,7,Lopes Rd and Cordelia Rd,8/Cordelia Library/Oakbrook Dr
+3,28680,8,Fulton Dr and Edison Ct ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+3,28681,9,Watt Dr and Watt Ct ,8/Cordelia Library/Oakbrook Dr
+3,28682,10,Oakbrook and Red Top Rd (RHS),"7AT3/Green Valley MS, 7AT/Rodriguez High School, 8/Cordelia Library/Oakbrook Dr"
+3,28683,11,Silverado Dr and Silverado Cir ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+3,28684,12,Silverado Dr and Meadows Ct ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+3,28685,13,Lopes Rd and Silver Creek Rd ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+3,28686,14,Lopes Rd and Gold Hill Rd ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+3,28687,15,Lopes Rd and Woodside Way (North),"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+3,28688,16,Lopes Rd fs Woodside Way (South),"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+3,28689,17,Lopes Rd and Canyon Hills Dr ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+3,28690,18,Canyon Hills Dr and Firwood Way,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+3,28691,19,Gold Hill Rd and Canyon Hills Dr ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+3,28692,20,Gold Hill Rd and Northwood Dr ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+3,28693,21,Gold Hill Rd fs Stonewood Dr (Green Valley MS),"7AT3/Green Valley MS, 7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+3,28694,22,Gold Hill Rd and Northwood Dr ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+3,28695,23,Lopes Rd and Gold Hill Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+3,28696,24,Oakbrook Dr and Lopes Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+4,28761,1,Fairfield - Cordelia Library,"7/ FTC/Solano College/Cordelia Library, 8/Cordelia Library/Oakbrook Dr"
+4,28707,2,Central Way fs Ritchie Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+4,28708,3,Central Way ns Grobric Ct,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+4,28709,4,Pittman Rd and Central Way (Pittman),"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+4,28762,5,Central Way op Link Rd,8/Cordelia Library/Oakbrook Dr
+4,28706,6,Central Way op Ritchie,8/Cordelia Library/Oakbrook Dr
+4,28679,7,Lopes Rd and Cordelia Rd,8/Cordelia Library/Oakbrook Dr
+4,28680,8,Fulton Dr and Edison Ct ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+4,28681,9,Watt Dr and Watt Ct ,8/Cordelia Library/Oakbrook Dr
+4,28682,10,Oakbrook and Red Top Rd (RHS),"7AT3/Green Valley MS, 7AT/Rodriguez High School, 8/Cordelia Library/Oakbrook Dr"
+4,28683,11,Silverado Dr and Silverado Cir ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+4,28684,12,Silverado Dr and Meadows Ct ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+4,28685,13,Lopes Rd and Silver Creek Rd ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+4,28686,14,Lopes Rd and Gold Hill Rd ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+4,28687,15,Lopes Rd and Woodside Way (North),"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+4,28688,16,Lopes Rd fs Woodside Way (South),"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+4,28689,17,Lopes Rd and Canyon Hills Dr ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+4,28690,18,Canyon Hills Dr and Firwood Way,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+4,28691,19,Gold Hill Rd and Canyon Hills Dr ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+4,28692,20,Gold Hill Rd and Northwood Dr ,"7AT3/Green Valley MS, 8/Cordelia Library/Oakbrook Dr"
+4,28693,21,Gold Hill Rd fs Stonewood Dr (Green Valley MS),"7AT3/Green Valley MS, 7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+4,28694,22,Gold Hill Rd and Northwood Dr ,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+4,28695,23,Lopes Rd and Gold Hill Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+4,28696,24,Oakbrook Dr and Lopes Rd,"7BT/Solano Town Center, 8/Cordelia Library/Oakbrook Dr"
+5,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+5,5410,2,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+5,5411,3,Davis St. Park and Ride,20/Fairfield/Vacaville
+5,5386,4,Solano Town Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield"
+5,28715,5,Pennsylvania Ave. & B.Gale Wilson,"20/Fairfield/Vacaville, 2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+5,2332275,6,Fairfield Transportation Center,20/Fairfield/Vacaville
+6,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+6,5410,2,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+6,5411,3,Davis St. Park and Ride,20/Fairfield/Vacaville
+6,5386,4,Solano Town Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield"
+6,28715,5,Pennsylvania Ave. & B.Gale Wilson,"20/Fairfield/Vacaville, 2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+6,2332275,6,Fairfield Transportation Center,20/Fairfield/Vacaville
+7,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+7,9827,2,El Cerrito Del Norte BART,90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak
+8,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+8,9827,2,El Cerrito Del Norte BART,90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak
+9,9827,1,El Cerrito Del Norte BART,90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak
+9,5351,2,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+9,28635,3,Main Street and Lotz Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+10,9827,1,El Cerrito Del Norte BART,90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak
+10,5351,2,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+10,28635,3,Main Street and Lotz Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+11,28635,1,Main Street and Lotz Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+11,5351,2,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+11,9827,3,El Cerrito Del Norte BART,90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak
+12,9827,1,El Cerrito Del Norte BART,90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak
+12,5351,2,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+12,28635,3,Main Street and Lotz Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+13,28761,1,Fairfield - Cordelia Library,"7/ FTC/Solano College/Cordelia Library, 8/Cordelia Library/Oakbrook Dr"
+13,28760,2,Suisun Valley Rd and Kaiser Dr,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+13,28678,3,Solano Community College,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+13,28677,4,Suisun Valley Rd and Snowberry Way,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+13,28710,5,Chadbourne and Busch Dr,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+13,28711,6,Chadbourne fs Low Ct,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+13,28712,7,Courage ns S Watney,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+13,28673,8,Human Services Center,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+13,28599,9,Beck Ave and Woolner Ave,"5/FTC/Suisun Senior Center, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+13,5351,10,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+14,28761,1,Fairfield - Cordelia Library,"7/ FTC/Solano College/Cordelia Library, 8/Cordelia Library/Oakbrook Dr"
+14,28760,2,Suisun Valley Rd and Kaiser Dr,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+14,28678,3,Solano Community College,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+14,28677,4,Suisun Valley Rd and Snowberry Way,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+14,28710,5,Chadbourne and Busch Dr,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+14,28711,6,Chadbourne fs Low Ct,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+14,28712,7,Courage ns S Watney,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+14,28673,8,Human Services Center,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+14,28599,9,Beck Ave and Woolner Ave,"5/FTC/Suisun Senior Center, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+14,5351,10,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+15,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+15,28672,2,Beck Ave and Woolner Ave ,"7AT3/Green Valley MS, 7AT/Rodriguez High School, 7/ FTC/Solano College/Cordelia Library"
+15,28673,3,Human Services Center,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+15,28674,4,Courage Dr and N Watney Way,7/ FTC/Solano College/Cordelia Library
+15,28675,5,Courage ns Chadbourne,7/ FTC/Solano College/Cordelia Library
+15,28676,6,Chadbourne and Busch Dr,7/ FTC/Solano College/Cordelia Library
+15,28760,7,Suisun Valley Rd and Kaiser Dr,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+15,28678,8,Solano Community College,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+15,28677,9,Suisun Valley Rd and Snowberry Way,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+15,28761,10,Fairfield - Cordelia Library,"7/ FTC/Solano College/Cordelia Library, 8/Cordelia Library/Oakbrook Dr"
+16,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+16,28672,2,Beck Ave and Woolner Ave ,"7AT3/Green Valley MS, 7AT/Rodriguez High School, 7/ FTC/Solano College/Cordelia Library"
+16,28673,3,Human Services Center,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+16,28674,4,Courage Dr and N Watney Way,7/ FTC/Solano College/Cordelia Library
+16,28675,5,Courage ns Chadbourne,7/ FTC/Solano College/Cordelia Library
+16,28676,6,Chadbourne and Busch Dr,7/ FTC/Solano College/Cordelia Library
+16,28760,7,Suisun Valley Rd and Kaiser Dr,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+16,28678,8,Solano Community College,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+16,28677,9,Suisun Valley Rd and Snowberry Way,"7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+16,28761,10,Fairfield - Cordelia Library,"7/ FTC/Solano College/Cordelia Library, 8/Cordelia Library/Oakbrook Dr"
+17,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+17,28612,2,Travis Blvd and Holiday Ln (Geri Towne),3/FTC/Solano Town Center/Walmart
+17,28613,3,GatewayBlvd and Courtyard,3/FTC/Solano Town Center/Walmart
+17,28614,4,Gateway Blvd @ Mall (west),3/FTC/Solano Town Center/Walmart
+17,28717,5,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+17,28539,6,Tabor Ave and Bristol Ln,3/FTC/Solano Town Center/Walmart
+17,28540,7,Fairfield Ave and Stratford Lane,3/FTC/Solano Town Center/Walmart
+17,28541,8,Heath Dr and Breton Dr,3/FTC/Solano Town Center/Walmart
+17,28664,9,Heather Dr and Dahlia St,3/FTC/Solano Town Center/Walmart
+17,28665,10,Heather Dr and Jasmine St,3/FTC/Solano Town Center/Walmart
+17,28666,11,Atlantic Ave and North Texas St.  ,"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+17,28663,12,Cement Hill Rd and Elmhurst Cir (Fairfield High School),"3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+17,28662,13,Cement Hill Rd and Camrose Ave,"3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+17,28661,14,Dover Ave and Sunrise Dr,3/FTC/Solano Town Center/Walmart
+17,28660,15,Dover fs Amherst Ct (Dover Avenue),3/FTC/Solano Town Center/Walmart
+17,28563,16,N Texas St and Air Base Parkway,"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart"
+17,28609,17,Atlantic Ave and Orchid St (Walmart),"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+18,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+18,28612,2,Travis Blvd and Holiday Ln (Geri Towne),3/FTC/Solano Town Center/Walmart
+18,28613,3,GatewayBlvd and Courtyard,3/FTC/Solano Town Center/Walmart
+18,28614,4,Gateway Blvd @ Mall (west),3/FTC/Solano Town Center/Walmart
+18,28717,5,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+18,28539,6,Tabor Ave and Bristol Ln,3/FTC/Solano Town Center/Walmart
+18,28540,7,Fairfield Ave and Stratford Lane,3/FTC/Solano Town Center/Walmart
+18,28541,8,Heath Dr and Breton Dr,3/FTC/Solano Town Center/Walmart
+18,28664,9,Heather Dr and Dahlia St,3/FTC/Solano Town Center/Walmart
+18,28665,10,Heather Dr and Jasmine St,3/FTC/Solano Town Center/Walmart
+18,28666,11,Atlantic Ave and North Texas St.  ,"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+18,28663,12,Cement Hill Rd and Elmhurst Cir (Fairfield High School),"3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+18,28662,13,Cement Hill Rd and Camrose Ave,"3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+18,28661,14,Dover Ave and Sunrise Dr,3/FTC/Solano Town Center/Walmart
+18,28660,15,Dover fs Amherst Ct (Dover Avenue),3/FTC/Solano Town Center/Walmart
+18,28563,16,N Texas St and Air Base Parkway,"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart"
+18,28609,17,Atlantic Ave and Orchid St (Walmart),"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+19,28609,1,Atlantic Ave and Orchid St (Walmart),"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+19,28610,2,Atlantic Ave and Heather Dr,3/FTC/Solano Town Center/Walmart
+19,28611,3,Heather Dr and Dahlia St,3/FTC/Solano Town Center/Walmart
+19,28564,4,Heath Dr and Breton Dr,3/FTC/Solano Town Center/Walmart
+19,28565,5,Pacific Ave and Fairfield Ave,3/FTC/Solano Town Center/Walmart
+19,28566,6,Tabor Ave and Cambridge Dr,3/FTC/Solano Town Center/Walmart
+19,28719,7,Solano Town Center @ North Entrance,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+19,28717,8,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+19,28715,9,Pennsylvania Ave. & B.Gale Wilson,"20/Fairfield/Vacaville, 2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+19,28743,10,Oliver Rd and Holiday Lane,3/FTC/Solano Town Center/Walmart
+19,5351,11,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+20,28609,1,Atlantic Ave and Orchid St (Walmart),"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+20,28610,2,Atlantic Ave and Heather Dr,3/FTC/Solano Town Center/Walmart
+20,28611,3,Heather Dr and Dahlia St,3/FTC/Solano Town Center/Walmart
+20,28564,4,Heath Dr and Breton Dr,3/FTC/Solano Town Center/Walmart
+20,28565,5,Pacific Ave and Fairfield Ave,3/FTC/Solano Town Center/Walmart
+20,28566,6,Tabor Ave and Cambridge Dr,3/FTC/Solano Town Center/Walmart
+20,28719,7,Solano Town Center @ North Entrance,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+20,28717,8,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+20,28715,9,Pennsylvania Ave. & B.Gale Wilson,"20/Fairfield/Vacaville, 2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+20,28743,10,Oliver Rd and Holiday Lane,3/FTC/Solano Town Center/Walmart
+20,5351,11,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+21,28628,1,Merganser Dr. and Wigeon Way (Suisun City Post Office),"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,28720,2,Pintail Dr. and Wigeon Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,28629,3,Buena Vista Ave and Village Dr.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,28630,4,Buena Vista Ave. and Pittier Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,28631,5,Buena Vista Ave and Marina Blvd.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,28632,6,Marina Blvd. and Lotz Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,28634,7,Driftwood Dr. and Josiah Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,28623,8,Civic Center Dr @ Suisun City Hall,5/FTC/Suisun Senior Center
+21,28635,9,Main Street and Lotz Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+21,5230,10,Railroad Ave @ Amtrak (Suisun City Amtrak Station),"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,28637,11,Main St. and Driftwood Dr.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,28638,12,Main St. and California St.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,28639,13,Cordelia St. and West St.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,795553,14,Pennsylvania Ave. & Ohio St.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+21,805482,15,Woolner Ave and Gregory St,5/FTC/Suisun Senior Center
+21,28598,16,Woolner Ave and Vine Dr.,5/FTC/Suisun Senior Center
+21,28599,17,Beck Ave and Woolner Ave,"5/FTC/Suisun Senior Center, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+21,5351,18,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+22,28628,1,Merganser Dr. and Wigeon Way (Suisun City Post Office),"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,28720,2,Pintail Dr. and Wigeon Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,28629,3,Buena Vista Ave and Village Dr.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,28630,4,Buena Vista Ave. and Pittier Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,28631,5,Buena Vista Ave and Marina Blvd.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,28632,6,Marina Blvd. and Lotz Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,28634,7,Driftwood Dr. and Josiah Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,28623,8,Civic Center Dr @ Suisun City Hall,5/FTC/Suisun Senior Center
+22,28635,9,Main Street and Lotz Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+22,5230,10,Railroad Ave @ Amtrak (Suisun City Amtrak Station),"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,28637,11,Main St. and Driftwood Dr.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,28638,12,Main St. and California St.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,28639,13,Cordelia St. and West St.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,795553,14,Pennsylvania Ave. & Ohio St.,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+22,805482,15,Woolner Ave and Gregory St,5/FTC/Suisun Senior Center
+22,28598,16,Woolner Ave and Vine Dr.,5/FTC/Suisun Senior Center
+22,28599,17,Beck Ave and Woolner Ave,"5/FTC/Suisun Senior Center, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library"
+22,5351,18,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+23,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+23,28724,2,Woolner Ave and Vine St,5/FTC/Suisun Senior Center
+23,28723,3,Woolner fs Enterprise,5/FTC/Suisun Senior Center
+23,28722,4,Woolner Ave and Gregory Ln.,5/FTC/Suisun Senior Center
+23,28757,5,Pennsylvania Ave and Woolner Ave,5/FTC/Suisun Senior Center
+23,28622,6,Cordelia Rd. and West St,5/FTC/Suisun Senior Center
+23,28754,7,Main St fs Morgan St,5/FTC/Suisun Senior Center
+23,28755,8,Main St op Sacramento St,5/FTC/Suisun Senior Center
+23,28635,9,Main Street and Lotz Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+23,5230,10,Railroad Ave @ Amtrak (Suisun City Amtrak Station),"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+23,28623,11,Civic Center Dr @ Suisun City Hall,5/FTC/Suisun Senior Center
+23,28633,12,Driftwood @ Josiah Circle,5/FTC/Suisun Senior Center
+23,28624,13,Driftwood Dr. and Marina Blvd.,5/FTC/Suisun Senior Center
+23,28625,14,Buena Vista Ave and Marina Blvd,5/FTC/Suisun Senior Center
+23,28626,15,Buena Vista Ave and Pittier Way,5/FTC/Suisun Senior Center
+23,28627,16,Pintail Dr. and Parkside Dr.,5/FTC/Suisun Senior Center
+23,28628,17,Merganser Dr. and Wigeon Way (Suisun City Post Office),"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+24,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+24,28724,2,Woolner Ave and Vine St,5/FTC/Suisun Senior Center
+24,28723,3,Woolner fs Enterprise,5/FTC/Suisun Senior Center
+24,28722,4,Woolner Ave and Gregory Ln.,5/FTC/Suisun Senior Center
+24,28757,5,Pennsylvania Ave and Woolner Ave,5/FTC/Suisun Senior Center
+24,28622,6,Cordelia Rd. and West St,5/FTC/Suisun Senior Center
+24,28754,7,Main St fs Morgan St,5/FTC/Suisun Senior Center
+24,28755,8,Main St op Sacramento St,5/FTC/Suisun Senior Center
+24,28635,9,Main Street and Lotz Way,"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+24,5230,10,Railroad Ave @ Amtrak (Suisun City Amtrak Station),"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+24,28623,11,Civic Center Dr @ Suisun City Hall,5/FTC/Suisun Senior Center
+24,28633,12,Driftwood @ Josiah Circle,5/FTC/Suisun Senior Center
+24,28624,13,Driftwood Dr. and Marina Blvd.,5/FTC/Suisun Senior Center
+24,28625,14,Buena Vista Ave and Marina Blvd,5/FTC/Suisun Senior Center
+24,28626,15,Buena Vista Ave and Pittier Way,5/FTC/Suisun Senior Center
+24,28627,16,Pintail Dr. and Parkside Dr.,5/FTC/Suisun Senior Center
+24,28628,17,Merganser Dr. and Wigeon Way (Suisun City Post Office),"5/FTC/Suisun Senior Center, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+25,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+25,28600,2,W Texas St and Beck Ave,"1/FTC/Walmart, 7BT/Solano Town Center"
+25,28713,3,W Texas St and 5th St (Allan Witt Park),"1/FTC/Walmart, 7BT/Solano Town Center"
+25,28727,4,W Texas St and Gregory Ln,"1/FTC/Walmart, 7BT/Solano Town Center"
+25,28728,5,W Texas St and 1st St,"1/FTC/Walmart, 7BT/Solano Town Center"
+25,28656,6,Pennsylvania Ave and Kentucky St,"1/FTC/Walmart, 7BT/Solano Town Center"
+25,28729,7,Kentucky St and Madison St(Civic Center),1/FTC/Walmart
+25,28596,8,Webster St and Kentucky St,1/FTC/Walmart
+25,28730,9,Washington St and Empire St (Armijo High School),1/FTC/Walmart
+25,28601,10,Texas St and State St,1/FTC/Walmart
+25,28602,11,N Texas St and  E Kentucky St,1/FTC/Walmart
+25,28603,12,N Texas St and  E Bell St,1/FTC/Walmart
+25,28558,13,N Texas St and E Travis Blvd,"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+25,28559,14,N Texas and Acacia Ave (Mexico Meat Market),"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+25,28560,15,N Texas St and E Tabor Ave,1/FTC/Walmart
+25,28561,16,N Texas St and E Pacific Ave,1/FTC/Walmart
+25,28562,17,N Texas St and Alaska Ave,1/FTC/Walmart
+25,28563,18,N Texas St and Air Base Parkway,"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart"
+25,28609,19,Atlantic Ave and Orchid St (Walmart),"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+26,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+26,28600,2,W Texas St and Beck Ave,"1/FTC/Walmart, 7BT/Solano Town Center"
+26,28713,3,W Texas St and 5th St (Allan Witt Park),"1/FTC/Walmart, 7BT/Solano Town Center"
+26,28727,4,W Texas St and Gregory Ln,"1/FTC/Walmart, 7BT/Solano Town Center"
+26,28728,5,W Texas St and 1st St,"1/FTC/Walmart, 7BT/Solano Town Center"
+26,28656,6,Pennsylvania Ave and Kentucky St,"1/FTC/Walmart, 7BT/Solano Town Center"
+26,28729,7,Kentucky St and Madison St(Civic Center),1/FTC/Walmart
+26,28596,8,Webster St and Kentucky St,1/FTC/Walmart
+26,28730,9,Washington St and Empire St (Armijo High School),1/FTC/Walmart
+26,28601,10,Texas St and State St,1/FTC/Walmart
+26,28602,11,N Texas St and  E Kentucky St,1/FTC/Walmart
+26,28603,12,N Texas St and  E Bell St,1/FTC/Walmart
+26,28558,13,N Texas St and E Travis Blvd,"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+26,28559,14,N Texas and Acacia Ave (Mexico Meat Market),"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+26,28560,15,N Texas St and E Tabor Ave,1/FTC/Walmart
+26,28561,16,N Texas St and E Pacific Ave,1/FTC/Walmart
+26,28562,17,N Texas St and Alaska Ave,1/FTC/Walmart
+26,28563,18,N Texas St and Air Base Parkway,"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart"
+26,28609,19,Atlantic Ave and Orchid St (Walmart),"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+27,28609,1,Atlantic Ave and Orchid St (Walmart),"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+27,28731,2,N Texas St and Marigold Dr,1/FTC/Walmart
+27,28732,3,Dickson Hill Rd and N Texas St,1/FTC/Walmart
+27,28733,4,Dickson Hill Rd and El Camino Dr,1/FTC/Walmart
+27,28734,5,Dover Ave and Dickson Hill Rd,1/FTC/Walmart
+27,28735,6,Doverwood Apartments,1/FTC/Walmart
+27,28606,7,Cement Hill Rd and Dover Ave,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+27,28607,8,Cement Hill Rd and Camrose Ave,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+27,28608,9,Cement Hill Rd and  Elmhurst Cir (Fairfield High School),"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+27,28620,10,Hawthorne Dr and N Texas St,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+27,28621,11,Orchid St and Larkspur Ln,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+27,28666,12,Atlantic Ave and North Texas St.  ,"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+27,28542,13,N Texas St and Alaska Ave,1/FTC/Walmart
+27,28543,14,N Texas St and E Pacific Ave,1/FTC/Walmart
+27,28544,15,N Texas St and E Tabor Ave,1/FTC/Walmart
+27,28545,16,N Texas St and Acacia Ave (Foodmax),"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+27,28546,17,N Texas St and Travis Blvd,"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+27,28593,18,N Texas fs E Bell,1/FTC/Walmart
+27,28594,19,N Texas St and E Kentucky St,1/FTC/Walmart
+27,28595,20,Texas St and Clay St,1/FTC/Walmart
+27,28736,21,Washington St and Empire St (Armijo High School),1/FTC/Walmart
+27,28551,22,Kentucky St and Webster St,"1/FTC/Walmart, 7AT3/Green Valley MS"
+27,28552,23,Kentucky St Madison St (Civic Center),"1/FTC/Walmart, 7AT3/Green Valley MS"
+27,28597,24,W Texas St and Pennsylvania Ave,"1/FTC/Walmart, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+27,28670,25,W Texas St and Gregory Lane,"1/FTC/Walmart, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+27,28671,26,W Texas St and 5th St,"1/FTC/Walmart, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+27,5351,27,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+28,28609,1,Atlantic Ave and Orchid St (Walmart),"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+28,28731,2,N Texas St and Marigold Dr,1/FTC/Walmart
+28,28732,3,Dickson Hill Rd and N Texas St,1/FTC/Walmart
+28,28733,4,Dickson Hill Rd and El Camino Dr,1/FTC/Walmart
+28,28734,5,Dover Ave and Dickson Hill Rd,1/FTC/Walmart
+28,28735,6,Doverwood Apartments,1/FTC/Walmart
+28,28606,7,Cement Hill Rd and Dover Ave,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+28,28607,8,Cement Hill Rd and Camrose Ave,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+28,28608,9,Cement Hill Rd and  Elmhurst Cir (Fairfield High School),"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+28,28620,10,Hawthorne Dr and N Texas St,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+28,28621,11,Orchid St and Larkspur Ln,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+28,28666,12,Atlantic Ave and North Texas St.  ,"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+28,28542,13,N Texas St and Alaska Ave,1/FTC/Walmart
+28,28543,14,N Texas St and E Pacific Ave,1/FTC/Walmart
+28,28544,15,N Texas St and E Tabor Ave,1/FTC/Walmart
+28,28545,16,N Texas St and Acacia Ave (Foodmax),"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+28,28546,17,N Texas St and Travis Blvd,"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+28,28593,18,N Texas fs E Bell,1/FTC/Walmart
+28,28594,19,N Texas St and E Kentucky St,1/FTC/Walmart
+28,28595,20,Texas St and Clay St,1/FTC/Walmart
+28,28736,21,Washington St and Empire St (Armijo High School),1/FTC/Walmart
+28,28551,22,Kentucky St and Webster St,"1/FTC/Walmart, 7AT3/Green Valley MS"
+28,28552,23,Kentucky St Madison St (Civic Center),"1/FTC/Walmart, 7AT3/Green Valley MS"
+28,28597,24,W Texas St and Pennsylvania Ave,"1/FTC/Walmart, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+28,28670,25,W Texas St and Gregory Lane,"1/FTC/Walmart, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+28,28671,26,W Texas St and 5th St,"1/FTC/Walmart, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+28,5351,27,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+29,5310,1,Huntington Ct & Walters Rd,"2/Route 2 - Solano Town Ctr/Huntington Ct, 4/Smart & Final/Travis Air Force Base"
+29,28579,2,Walters Rd and Walters Ct,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28580,3,Walters Rd and Granada Dr,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28581,4,E Tabor Ave and Solano Rd,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28582,5,E Tabor Ave and Tolenas Rd,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28583,6,E Tabor Ave and Davis Dr,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28584,7,E Tabor Ave and Villa Ct,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28585,8,E Tabor Ave and Manor Pl  (Tabor Park),2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28586,9,E Tabor and Falcon Dr (Grange Middle School),2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28587,10,E Tabor Ave and Cardinal Way,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28588,11,E Tabor Ave and Dover Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28589,12,E Tabor Ave and San Salvador St,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28545,13,N Texas St and Acacia Ave (Foodmax),"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+29,28546,14,N Texas St and Travis Blvd,"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+29,28547,15,Travis Blvd. & Clay St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+29,28548,16,Union Ave and Kennedy Ct,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28549,17,Union Ave and Carpenter St,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28550,18,Kentucky St and Union Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28740,19,Webster St and Kentucky St,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28741,20,Civic Center Dr and Pennsylvania Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,2335944,21,Fairfield Senior Ctr/Penn Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+29,28742,22,Pennsylvania Ave and Grant St,"2/Route 2 - Solano Town Ctr/Huntington Ct, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+29,28716,23,Pennsylvania Ave. & B. Gale Wilson Blvd.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+29,28719,24,Solano Town Center @ North Entrance,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+29,28717,25,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+30,5310,1,Huntington Ct & Walters Rd,"2/Route 2 - Solano Town Ctr/Huntington Ct, 4/Smart & Final/Travis Air Force Base"
+30,28579,2,Walters Rd and Walters Ct,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28580,3,Walters Rd and Granada Dr,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28581,4,E Tabor Ave and Solano Rd,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28582,5,E Tabor Ave and Tolenas Rd,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28583,6,E Tabor Ave and Davis Dr,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28584,7,E Tabor Ave and Villa Ct,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28585,8,E Tabor Ave and Manor Pl  (Tabor Park),2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28586,9,E Tabor and Falcon Dr (Grange Middle School),2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28587,10,E Tabor Ave and Cardinal Way,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28588,11,E Tabor Ave and Dover Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28589,12,E Tabor Ave and San Salvador St,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28545,13,N Texas St and Acacia Ave (Foodmax),"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+30,28546,14,N Texas St and Travis Blvd,"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+30,28547,15,Travis Blvd. & Clay St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+30,28548,16,Union Ave and Kennedy Ct,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28549,17,Union Ave and Carpenter St,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28550,18,Kentucky St and Union Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28740,19,Webster St and Kentucky St,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28741,20,Civic Center Dr and Pennsylvania Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,2335944,21,Fairfield Senior Ctr/Penn Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+30,28742,22,Pennsylvania Ave and Grant St,"2/Route 2 - Solano Town Ctr/Huntington Ct, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+30,28716,23,Pennsylvania Ave. & B. Gale Wilson Blvd.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+30,28719,24,Solano Town Center @ North Entrance,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+30,28717,25,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+31,28717,1,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+31,28715,2,Pennsylvania Ave. & B.Gale Wilson,"20/Fairfield/Vacaville, 2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+31,28553,3,Pennsylvania Ave and Kansas St,"2/Route 2 - Solano Town Ctr/Huntington Ct, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+31,28737,4,Civic Center Dr and Pennsylvania Ave,"2/Route 2 - Solano Town Ctr/Huntington Ct, 7AT3/Green Valley MS"
+31,28738,5,Webster St and Civic Center Dr. ,"2/Route 2 - Solano Town Ctr/Huntington Ct, 7AT3/Green Valley MS"
+31,28739,6,Webster St and Kentucky St,"2/Route 2 - Solano Town Ctr/Huntington Ct, 7AT3/Green Valley MS"
+31,28554,7,Union Ave and Louisiana St,2/Route 2 - Solano Town Ctr/Huntington Ct
+31,28555,8,Travis Blvd. and Washington St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+31,28556,9,Travis Blvd. and Clay St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+31,28558,10,N Texas St and E Travis Blvd,"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+31,28559,11,N Texas and Acacia Ave (Mexico Meat Market),"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+31,28567,12,E Tabor Ave and Kidder Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+31,28568,13,E Tabor Ave and Dover Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+31,28569,14,E Tabor Ave and Sunset Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+31,28570,15,E Tabor Ave and Falcon Dr (Grange Middle School),2/Route 2 - Solano Town Ctr/Huntington Ct
+31,28571,16,E Tabor Ave and Manor Place,2/Route 2 - Solano Town Ctr/Huntington Ct
+31,28572,17,E Tabor Ave and Grande Circle (E),2/Route 2 - Solano Town Ctr/Huntington Ct
+31,28573,18,E Tabor Ave and Davis Dr,2/Route 2 - Solano Town Ctr/Huntington Ct
+31,28574,19,E Tabor Ave and Tolenas Rd,2/Route 2 - Solano Town Ctr/Huntington Ct
+31,28575,20,E Tabor Ave and Solano Rd.,2/Route 2 - Solano Town Ctr/Huntington Ct
+31,28576,21,Walters Rd and E Tabor Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+31,28577,22,Walters Rd and Walters Ct,2/Route 2 - Solano Town Ctr/Huntington Ct
+31,5310,23,Huntington Ct & Walters Rd,"2/Route 2 - Solano Town Ctr/Huntington Ct, 4/Smart & Final/Travis Air Force Base"
+32,28717,1,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+32,28715,2,Pennsylvania Ave. & B.Gale Wilson,"20/Fairfield/Vacaville, 2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+32,28553,3,Pennsylvania Ave and Kansas St,"2/Route 2 - Solano Town Ctr/Huntington Ct, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+32,28737,4,Civic Center Dr and Pennsylvania Ave,"2/Route 2 - Solano Town Ctr/Huntington Ct, 7AT3/Green Valley MS"
+32,28738,5,Webster St and Civic Center Dr. ,"2/Route 2 - Solano Town Ctr/Huntington Ct, 7AT3/Green Valley MS"
+32,28739,6,Webster St and Kentucky St,"2/Route 2 - Solano Town Ctr/Huntington Ct, 7AT3/Green Valley MS"
+32,28554,7,Union Ave and Louisiana St,2/Route 2 - Solano Town Ctr/Huntington Ct
+32,28555,8,Travis Blvd. and Washington St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+32,28556,9,Travis Blvd. and Clay St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+32,28558,10,N Texas St and E Travis Blvd,"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+32,28559,11,N Texas and Acacia Ave (Mexico Meat Market),"1/FTC/Walmart, 2/Route 2 - Solano Town Ctr/Huntington Ct"
+32,28567,12,E Tabor Ave and Kidder Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+32,28568,13,E Tabor Ave and Dover Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+32,28569,14,E Tabor Ave and Sunset Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+32,28570,15,E Tabor Ave and Falcon Dr (Grange Middle School),2/Route 2 - Solano Town Ctr/Huntington Ct
+32,28571,16,E Tabor Ave and Manor Place,2/Route 2 - Solano Town Ctr/Huntington Ct
+32,28572,17,E Tabor Ave and Grande Circle (E),2/Route 2 - Solano Town Ctr/Huntington Ct
+32,28573,18,E Tabor Ave and Davis Dr,2/Route 2 - Solano Town Ctr/Huntington Ct
+32,28574,19,E Tabor Ave and Tolenas Rd,2/Route 2 - Solano Town Ctr/Huntington Ct
+32,28575,20,E Tabor Ave and Solano Rd.,2/Route 2 - Solano Town Ctr/Huntington Ct
+32,28576,21,Walters Rd and E Tabor Ave,2/Route 2 - Solano Town Ctr/Huntington Ct
+32,28577,22,Walters Rd and Walters Ct,2/Route 2 - Solano Town Ctr/Huntington Ct
+32,5310,23,Huntington Ct & Walters Rd,"2/Route 2 - Solano Town Ctr/Huntington Ct, 4/Smart & Final/Travis Air Force Base"
+33,5412,1,Market Lane Park and Ride,30/Sacramento/Davis/Fairfield
+33,5410,2,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+33,5386,3,Solano Town Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield"
+33,5351,4,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+34,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+34,5410,2,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+34,5412,3,Market Lane Park and Ride,30/Sacramento/Davis/Fairfield
+34,5414,4,Capitol Mall ,30/Sacramento/Davis/Fairfield
+34,795554,5,J St. and 6th St.,30/Sacramento/Davis/Fairfield
+34,5424,6,9th St and L St,30/Sacramento/Davis/Fairfield
+34,5425,7,9th St and O St,30/Sacramento/Davis/Fairfield
+34,795462,8,5th St and P St,30/Sacramento/Davis/Fairfield
+35,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+35,5410,2,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+35,5412,3,Market Lane Park and Ride,30/Sacramento/Davis/Fairfield
+35,5414,4,Capitol Mall ,30/Sacramento/Davis/Fairfield
+35,795554,5,J St. and 6th St.,30/Sacramento/Davis/Fairfield
+35,5424,6,9th St and L St,30/Sacramento/Davis/Fairfield
+35,5425,7,9th St and O St,30/Sacramento/Davis/Fairfield
+35,795462,8,5th St and P St,30/Sacramento/Davis/Fairfield
+36,5421,1,UC Davis Memorial Union,30/Sacramento/Davis/Fairfield
+36,5412,2,Market Lane Park and Ride,30/Sacramento/Davis/Fairfield
+36,5410,3,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+36,5386,4,Solano Town Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield"
+36,5351,5,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+37,5421,1,UC Davis Memorial Union,30/Sacramento/Davis/Fairfield
+37,5412,2,Market Lane Park and Ride,30/Sacramento/Davis/Fairfield
+37,5410,3,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+37,5386,4,Solano Town Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield"
+37,5351,5,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+38,5421,1,UC Davis Memorial Union,30/Sacramento/Davis/Fairfield
+38,5412,2,Market Lane Park and Ride,30/Sacramento/Davis/Fairfield
+38,5410,3,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+38,5386,4,Solano Town Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield"
+38,5351,5,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+39,5421,1,UC Davis Memorial Union,30/Sacramento/Davis/Fairfield
+39,5412,2,Market Lane Park and Ride,30/Sacramento/Davis/Fairfield
+39,5410,3,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+39,5386,4,Solano Town Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield"
+39,5351,5,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+40,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+40,5386,2,Solano Town Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield"
+40,5410,3,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+40,5412,4,Market Lane Park and Ride,30/Sacramento/Davis/Fairfield
+40,5421,5,UC Davis Memorial Union,30/Sacramento/Davis/Fairfield
+41,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+41,5386,2,Solano Town Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield"
+41,5410,3,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+41,5412,4,Market Lane Park and Ride,30/Sacramento/Davis/Fairfield
+41,5421,5,UC Davis Memorial Union,30/Sacramento/Davis/Fairfield
+42,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+42,5386,2,Solano Town Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield"
+42,5410,3,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+42,5412,4,Market Lane Park and Ride,30/Sacramento/Davis/Fairfield
+42,5421,5,UC Davis Memorial Union,30/Sacramento/Davis/Fairfield
+43,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+43,5386,2,Solano Town Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield"
+43,5410,3,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+43,5412,4,Market Lane Park and Ride,30/Sacramento/Davis/Fairfield
+43,5421,5,UC Davis Memorial Union,30/Sacramento/Davis/Fairfield
+44,28714,1,Hickam Ave and Pacific St (David Grant Med Ctr),4/Smart & Final/Travis Air Force Base
+44,28753,2,Air Base Pkwy and Parker Rd,4/Smart & Final/Travis Air Force Base
+44,5310,3,Huntington Ct & Walters Rd,"2/Route 2 - Solano Town Ctr/Huntington Ct, 4/Smart & Final/Travis Air Force Base"
+44,28615,4,Clay Bank Rd and Horizon Dr,4/Smart & Final/Travis Air Force Base
+44,28616,5,Clay Bank Rd and Canal St,4/Smart & Final/Travis Air Force Base
+44,28617,6,Cement Hill and Bay Tree Dr,4/Smart & Final/Travis Air Force Base
+44,28618,7,Cement Hill fs Peppertree Dr (E),4/Smart & Final/Travis Air Force Base
+44,28619,8,Cement Hill op Peppertree Dr (W),4/Smart & Final/Travis Air Force Base
+44,28606,9,Cement Hill Rd and Dover Ave,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+44,28607,10,Cement Hill Rd and Camrose Ave,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+44,28608,11,Cement Hill Rd and  Elmhurst Cir (Fairfield High School),"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+44,28620,12,Hawthorne Dr and N Texas St,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+44,28621,13,Orchid St and Larkspur Ln,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+44,28609,14,Atlantic Ave and Orchid St (Walmart),"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+45,28714,1,Hickam Ave and Pacific St (David Grant Med Ctr),4/Smart & Final/Travis Air Force Base
+45,28753,2,Air Base Pkwy and Parker Rd,4/Smart & Final/Travis Air Force Base
+45,5310,3,Huntington Ct & Walters Rd,"2/Route 2 - Solano Town Ctr/Huntington Ct, 4/Smart & Final/Travis Air Force Base"
+45,28615,4,Clay Bank Rd and Horizon Dr,4/Smart & Final/Travis Air Force Base
+45,28616,5,Clay Bank Rd and Canal St,4/Smart & Final/Travis Air Force Base
+45,28617,6,Cement Hill and Bay Tree Dr,4/Smart & Final/Travis Air Force Base
+45,28618,7,Cement Hill fs Peppertree Dr (E),4/Smart & Final/Travis Air Force Base
+45,28619,8,Cement Hill op Peppertree Dr (W),4/Smart & Final/Travis Air Force Base
+45,28606,9,Cement Hill Rd and Dover Ave,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+45,28607,10,Cement Hill Rd and Camrose Ave,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+45,28608,11,Cement Hill Rd and  Elmhurst Cir (Fairfield High School),"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+45,28620,12,Hawthorne Dr and N Texas St,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+45,28621,13,Orchid St and Larkspur Ln,"1/FTC/Walmart, 4/Smart & Final/Travis Air Force Base"
+45,28609,14,Atlantic Ave and Orchid St (Walmart),"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+46,28666,1,Atlantic Ave and North Texas St.  ,"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+46,28663,2,Cement Hill Rd and Elmhurst Cir (Fairfield High School),"3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+46,28662,3,Cement Hill Rd and Camrose Ave,"3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+46,28744,4,Cement Hill fs Dover,4/Smart & Final/Travis Air Force Base
+46,28745,5,Cement Hill Rd and Peppertree Dr (E),4/Smart & Final/Travis Air Force Base
+46,28746,6,Claybank Rd and Western Dr,4/Smart & Final/Travis Air Force Base
+46,5310,7,Huntington Ct & Walters Rd,"2/Route 2 - Solano Town Ctr/Huntington Ct, 4/Smart & Final/Travis Air Force Base"
+46,28753,8,Air Base Pkwy and Parker Rd,4/Smart & Final/Travis Air Force Base
+46,28747,9,Travis Ave. and Ragsdale St,4/Smart & Final/Travis Air Force Base
+46,28748,10,Travis Ave. and Broadway,4/Smart & Final/Travis Air Force Base
+46,28749,11,Travis Ave. and 1st St,4/Smart & Final/Travis Air Force Base
+46,28725,12,Travis Ave ns Burgan Blvd  (Air Force Inn),4/Smart & Final/Travis Air Force Base
+46,28750,13,Burgan Blvd and Airlift Dr (Passenger Terminal),4/Smart & Final/Travis Air Force Base
+46,28751,14,Hickam Ave and Windward Dr.,4/Smart & Final/Travis Air Force Base
+46,28752,15,Hickam Ave and Skymaster Dr,4/Smart & Final/Travis Air Force Base
+46,28714,16,Hickam Ave and Pacific St (David Grant Med Ctr),4/Smart & Final/Travis Air Force Base
+47,28666,1,Atlantic Ave and North Texas St.  ,"1/FTC/Walmart, 3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+47,28663,2,Cement Hill Rd and Elmhurst Cir (Fairfield High School),"3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+47,28662,3,Cement Hill Rd and Camrose Ave,"3/FTC/Solano Town Center/Walmart, 4/Smart & Final/Travis Air Force Base"
+47,28744,4,Cement Hill fs Dover,4/Smart & Final/Travis Air Force Base
+47,28745,5,Cement Hill Rd and Peppertree Dr (E),4/Smart & Final/Travis Air Force Base
+47,28746,6,Claybank Rd and Western Dr,4/Smart & Final/Travis Air Force Base
+47,5310,7,Huntington Ct & Walters Rd,"2/Route 2 - Solano Town Ctr/Huntington Ct, 4/Smart & Final/Travis Air Force Base"
+47,28753,8,Air Base Pkwy and Parker Rd,4/Smart & Final/Travis Air Force Base
+47,28747,9,Travis Ave. and Ragsdale St,4/Smart & Final/Travis Air Force Base
+47,28748,10,Travis Ave. and Broadway,4/Smart & Final/Travis Air Force Base
+47,28749,11,Travis Ave. and 1st St,4/Smart & Final/Travis Air Force Base
+47,28725,12,Travis Ave ns Burgan Blvd  (Air Force Inn),4/Smart & Final/Travis Air Force Base
+47,28750,13,Burgan Blvd and Airlift Dr (Passenger Terminal),4/Smart & Final/Travis Air Force Base
+47,28751,14,Hickam Ave and Windward Dr.,4/Smart & Final/Travis Air Force Base
+47,28752,15,Hickam Ave and Skymaster Dr,4/Smart & Final/Travis Air Force Base
+47,28714,16,Hickam Ave and Pacific St (David Grant Med Ctr),4/Smart & Final/Travis Air Force Base
+48,28659,1,Montebello Dr. & El Mar Ct. ,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+48,28758,2,Bella Vista and Ventura Way,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+48,28759,3,Bella Vista and Charleston St,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+48,28667,4,Pintail fs Walters,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+48,28653,5,Pintail fs Harrier,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+48,795057,6,Pintail Dr. and Woodlark Dr.,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+48,28721,7,Pintail ns White Wing Lane,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+48,28756,8,Merganser Dr and Wigeon Way (SS Senior Center),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+48,28647,9,Sunset fs Pintail,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+48,28648,10,Sunset Ave. and Canvasback Dr.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+48,28649,11,Travis op Phoenix,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+48,28590,12,Travis fs Dover,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+48,28591,13,Travis Blvd. & Kidder Ave.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+48,28592,14,Travis Blvd. & Chamberlain Dr. ,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+48,28547,15,Travis Blvd. & Clay St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+48,28669,16,Travis Blvd. & Fairfield Ave.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+48,28716,17,Pennsylvania Ave. & B. Gale Wilson Blvd.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+48,28719,18,Solano Town Center @ North Entrance,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+48,28717,19,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+49,28659,1,Montebello Dr. & El Mar Ct. ,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+49,28758,2,Bella Vista and Ventura Way,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+49,28759,3,Bella Vista and Charleston St,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+49,28667,4,Pintail fs Walters,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+49,28653,5,Pintail fs Harrier,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+49,795057,6,Pintail Dr. and Woodlark Dr.,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+49,28721,7,Pintail ns White Wing Lane,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+49,28756,8,Merganser Dr and Wigeon Way (SS Senior Center),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+49,28647,9,Sunset fs Pintail,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+49,28648,10,Sunset Ave. and Canvasback Dr.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+49,28649,11,Travis op Phoenix,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+49,28590,12,Travis fs Dover,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+49,28591,13,Travis Blvd. & Kidder Ave.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+49,28592,14,Travis Blvd. & Chamberlain Dr. ,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+49,28547,15,Travis Blvd. & Clay St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+49,28669,16,Travis Blvd. & Fairfield Ave.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+49,28716,17,Pennsylvania Ave. & B. Gale Wilson Blvd.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+49,28719,18,Solano Town Center @ North Entrance,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+49,28717,19,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+50,28717,1,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+50,28715,2,Pennsylvania Ave. & B.Gale Wilson,"20/Fairfield/Vacaville, 2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+50,28650,3,Travis Blvd and Webster St.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+50,28555,4,Travis Blvd. and Washington St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+50,28556,5,Travis Blvd. and Clay St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+50,28604,6,Travis fs N Texas St.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+50,795460,7,E. Travis Blvd. and Eisenhower St.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+50,28668,8,E. Travis Blvd. and Phoenix Dr.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+50,28651,9,Travis Blvd and Sunset Ave,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+50,795461,10,Sunset Ave. and Railroad Ave,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+50,28756,11,Merganser Dr and Wigeon Way (SS Senior Center),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+50,28655,12,Pintail op Scoter Way,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+50,28642,13,Pintail ns East Wigeon Way (KROC CENTER),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+50,28643,14,Pintail fs Emperor,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+50,28657,15,Pintail Dr and Woodlark Lane,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+50,28658,16,Pintail ns Seagull,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+50,28726,17,Pintail Dr and Walters Rd,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+50,28659,18,Montebello Dr. & El Mar Ct. ,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+51,28717,1,Solano Town Center,"2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 7BT/Solano Town Center"
+51,28715,2,Pennsylvania Ave. & B.Gale Wilson,"20/Fairfield/Vacaville, 2/Route 2 - Solano Town Ctr/Huntington Ct, 3/FTC/Solano Town Center/Walmart, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+51,28650,3,Travis Blvd and Webster St.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+51,28555,4,Travis Blvd. and Washington St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+51,28556,5,Travis Blvd. and Clay St.,"2/Route 2 - Solano Town Ctr/Huntington Ct, 6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr"
+51,28604,6,Travis fs N Texas St.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+51,795460,7,E. Travis Blvd. and Eisenhower St.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+51,28668,8,E. Travis Blvd. and Phoenix Dr.,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+51,28651,9,Travis Blvd and Sunset Ave,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+51,795461,10,Sunset Ave. and Railroad Ave,6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr
+51,28756,11,Merganser Dr and Wigeon Way (SS Senior Center),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+51,28655,12,Pintail op Scoter Way,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+51,28642,13,Pintail ns East Wigeon Way (KROC CENTER),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+51,28643,14,Pintail fs Emperor,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+51,28657,15,Pintail Dr and Woodlark Lane,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+51,28658,16,Pintail ns Seagull,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+51,28726,17,Pintail Dr and Walters Rd,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+51,28659,18,Montebello Dr. & El Mar Ct. ,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School"
+52,795052,1,Walters Rd and  Walmart driveway fs (Suisun City Walmart),9/Suisun Senior Center/Suisun City Walmart
+52,28644,2,Portreo Cir. and Lawler Ranch Pkwy,"7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+52,28645,3,Mayfield Circle and Engell Dr,"7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+52,28646,4,Mayfield Cir. & Lawler Ranch Pkwy,"7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+52,795053,5,Lawler Ranch Pwky and Spinney Way,9/Suisun Senior Center/Suisun City Walmart
+52,795054,6,Lawler Ranch Pkwy and Fennie Way ,9/Suisun Senior Center/Suisun City Walmart
+52,795055,7,Lawler Ranch Pkwy and Peytonia Lane,9/Suisun Senior Center/Suisun City Walmart
+52,795056,8,Walters Rd and Petersen Rd  ns (Suisun City Walmart),9/Suisun Senior Center/Suisun City Walmart
+52,28667,9,Pintail fs Walters,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+52,28653,10,Pintail fs Harrier,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+52,795057,11,Pintail Dr. and Woodlark Dr.,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+52,28721,12,Pintail ns White Wing Lane,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+52,28756,13,Merganser Dr and Wigeon Way (SS Senior Center),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+53,795052,1,Walters Rd and  Walmart driveway fs (Suisun City Walmart),9/Suisun Senior Center/Suisun City Walmart
+53,28644,2,Portreo Cir. and Lawler Ranch Pkwy,"7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+53,28645,3,Mayfield Circle and Engell Dr,"7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+53,28646,4,Mayfield Cir. & Lawler Ranch Pkwy,"7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+53,795053,5,Lawler Ranch Pwky and Spinney Way,9/Suisun Senior Center/Suisun City Walmart
+53,795054,6,Lawler Ranch Pkwy and Fennie Way ,9/Suisun Senior Center/Suisun City Walmart
+53,795055,7,Lawler Ranch Pkwy and Peytonia Lane,9/Suisun Senior Center/Suisun City Walmart
+53,795056,8,Walters Rd and Petersen Rd  ns (Suisun City Walmart),9/Suisun Senior Center/Suisun City Walmart
+53,28667,9,Pintail fs Walters,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+53,28653,10,Pintail fs Harrier,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+53,795057,11,Pintail Dr. and Woodlark Dr.,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+53,28721,12,Pintail ns White Wing Lane,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 9/Suisun Senior Center/Suisun City Walmart"
+53,28756,13,Merganser Dr and Wigeon Way (SS Senior Center),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+54,28756,1,Merganser Dr and Wigeon Way (SS Senior Center),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+54,28655,2,Pintail op Scoter Way,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+54,28642,3,Pintail ns East Wigeon Way (KROC CENTER),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+54,28643,4,Pintail fs Emperor,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+54,28657,5,Pintail Dr and Woodlark Lane,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+54,28658,6,Pintail ns Seagull,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+54,28726,7,Pintail Dr and Walters Rd,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+54,795052,8,Walters Rd and  Walmart driveway fs (Suisun City Walmart),9/Suisun Senior Center/Suisun City Walmart
+55,28756,1,Merganser Dr and Wigeon Way (SS Senior Center),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+55,28655,2,Pintail op Scoter Way,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+55,28642,3,Pintail ns East Wigeon Way (KROC CENTER),"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+55,28643,4,Pintail fs Emperor,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+55,28657,5,Pintail Dr and Woodlark Lane,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+55,28658,6,Pintail ns Seagull,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+55,28726,7,Pintail Dr and Walters Rd,"6/Solano Town Ctr/Suisun Senior Ctr/Montebello Dr, 7AT3/Green Valley MS, 7AT/Rodriguez High School, 9/Suisun Senior Center/Suisun City Walmart"
+55,795052,8,Walters Rd and  Walmart driveway fs (Suisun City Walmart),9/Suisun Senior Center/Suisun City Walmart
+56,5418,1,Walnut Creek BART Station,40/WC/PH BART - Vacaville/Fairfield
+56,5417,2,Pleasant Hill BART Station,40/WC/PH BART - Vacaville/Fairfield
+56,807829,3,Benicia Park Rd and Industrial Way (Eastbound),40/WC/PH BART - Vacaville/Fairfield
+56,5351,4,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+56,5410,5,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+57,5351,1,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+57,5416,2,Benicia Park Road & Industrial Way (westbound),40/WC/PH BART - Vacaville/Fairfield
+57,5417,3,Pleasant Hill BART Station,40/WC/PH BART - Vacaville/Fairfield
+57,5418,4,Walnut Creek BART Station,40/WC/PH BART - Vacaville/Fairfield
+58,5418,1,Walnut Creek BART Station,40/WC/PH BART - Vacaville/Fairfield
+58,5417,2,Pleasant Hill BART Station,40/WC/PH BART - Vacaville/Fairfield
+58,807829,3,Benicia Park Rd and Industrial Way (Eastbound),40/WC/PH BART - Vacaville/Fairfield
+58,5351,4,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+58,5410,5,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+59,5410,1,Vacaville Transportation Center,"20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 40/WC/PH BART - Vacaville/Fairfield"
+59,5351,2,Fairfield Transportation Center (FTC),"1/FTC/Walmart, 20/Fairfield/Vacaville, 30/Sacramento/Davis/Fairfield, 3/FTC/Solano Town Center/Walmart, 40/WC/PH BART - Vacaville/Fairfield, 5/FTC/Suisun Senior Center, 7AT/Rodriguez High School, 7BT/Solano Town Center, 7/ FTC/Solano College/Cordelia Library, 90/FTC/El Cerrito Del Norte BART/Suisun City Amtrak"
+59,5416,3,Benicia Park Road & Industrial Way (westbound),40/WC/PH BART - Vacaville/Fairfield
+59,5417,4,Pleasant Hill BART Station,40/WC/PH BART - Vacaville/Fairfield
+59,5418,5,Walnut Creek BART Station,40/WC/PH BART - Vacaville/Fairfield

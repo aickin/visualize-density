@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+15,Beach Cities Transit,http://www.redondo.org/depts/recreation/transit/default.asp,America/Los_Angeles,en

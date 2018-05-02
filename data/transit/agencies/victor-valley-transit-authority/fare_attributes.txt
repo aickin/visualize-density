@@ -1,0 +1,7 @@
+agency_id,fare_id,price,currency_type,payment_method,transfers,transfer_duration
+493,1540,1.50,USD,0,0,
+493,1541,2.50,USD,0,0,
+493,1542,6.50,USD,0,0,
+493,1543,13.00,USD,0,0,
+493,1545,13.00,USD,0,0,
+493,1759,1.50,USD,0,1,

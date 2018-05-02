@@ -1,0 +1,5 @@
+fare_id,rider_category_id,price
+55,2,1.00
+55,3,0
+55,5,1.25
+55,6,1.00

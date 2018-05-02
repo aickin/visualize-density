@@ -1,0 +1,44 @@
+service_id,date,holiday_name,exception_type
+c_757_b_6408_d_31,20181225,Christmas Day,2
+c_757_b_6408_d_31,20181122,Thanksgiving,2
+c_757_b_6408_d_31,20180903,Labor Day,2
+c_757_b_6408_d_31,20180704,Fourth of July,2
+c_757_b_6408_d_31,20180528,Memorial Day,2
+c_757_b_6408_d_31,20180219,Presidents Day,2
+c_757_b_6408_d_31,20180212,Lincoln's Birthday,2
+c_757_b_6408_d_31,20180101,New Years Day,2
+c_757_b_6408_d_31,20171225,Christmas Day,2
+c_757_b_6407_d_31,20181225,Christmas Day,2
+c_757_b_6407_d_31,20181122,Thanksgiving,2
+c_757_b_6407_d_31,20180903,Labor Day,2
+c_757_b_6407_d_31,20180704,Fourth of July,2
+c_757_b_6407_d_31,20180528,Memorial Day,2
+c_757_b_6407_d_31,20180219,Presidents Day,2
+c_757_b_6407_d_31,20180212,Lincoln's Birthday,2
+c_757_b_6407_d_31,20180101,New Years Day,2
+c_757_b_6407_d_31,20171225,Christmas Day,2
+c_757_b_3296_d_31,20181225,Christmas Day,2
+c_757_b_3296_d_31,20181122,Thanksgiving,2
+c_757_b_3296_d_31,20180903,Labor Day,2
+c_757_b_3296_d_31,20180704,Fourth of July,2
+c_757_b_3296_d_31,20180528,Memorial Day,2
+c_757_b_3296_d_31,20180219,Presidents Day,2
+c_757_b_3296_d_31,20180212,Lincoln's Birthday,2
+c_757_b_3296_d_31,20180101,New Years Day,2
+c_757_b_3296_d_31,20171225,Christmas Day,2
+c_153_b_none_d_32,20180219,Presidents Day,1
+c_153_b_252_d_31,20181225,Christmas Day,2
+c_153_b_252_d_31,20181122,Thanksgiving,2
+c_153_b_252_d_31,20180903,Labor Day,2
+c_153_b_252_d_31,20180704,Fourth of July,2
+c_153_b_252_d_31,20180528,Memorial Day,2
+c_153_b_252_d_31,20180219,Presidents Day,2
+c_153_b_252_d_31,20180101,New Years Day,2
+c_153_b_252_d_31,20171225,Christmas Day,2
+c_153_b_252_d_127,20181225,Christmas Day,2
+c_153_b_252_d_127,20181122,Thanksgiving,2
+c_153_b_252_d_127,20180903,Labor Day,2
+c_153_b_252_d_127,20180704,Fourth of July,2
+c_153_b_252_d_127,20180528,Memorial Day,2
+c_153_b_252_d_127,20180101,New Years Day,2
+c_153_b_252_d_127,20171225,Christmas Day,2

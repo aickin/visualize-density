@@ -1,0 +1,4 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+649,http://www.turlocktransit.com/,en,Turlock Transit,(209) 668-5600,America/Los_Angeles,http://www.turlocktransit.com/fares.html?lang=en
+68,http://www.srt.org/,en,Stanislaus Regional Transit,(800) 262-1516,America/Los_Angeles,https://www.srt.org/fares/
+70,http://www.ci.ceres.ca.us/CeresAreaTransit/CAT.html,en,Ceres Area Transit,(209) 538-5792,America/Los_Angeles,http://www.ci.ceres.ca.us/CeresAreaTransit/CAT-Fares.html

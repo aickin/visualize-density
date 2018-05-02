@@ -1,0 +1,6 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+421,Ala-Oak-SF,,,
+422,Harbor Bay-SF,,,
+423,Vallejo-SF,,,
+424,South SF-East Bay,,,
+424,South SF-SF,,,

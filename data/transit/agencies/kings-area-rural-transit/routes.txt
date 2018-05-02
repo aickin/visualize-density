@@ -1,0 +1,19 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes
+804,10076,1,Green Line,,3,,00A751,FFFFFF,0,60
+804,10077,2,Orange Line,,3,,F58220,FFFFFF,1,60
+804,10086,13,Corcoran,,3,,20909A,FFFFFF,10,
+804,10075,14,Laton,,3,,20909A,FFFFFF,11,
+804,10074,15,Visalia,,3,,20909A,FFFFFF,12,
+804,10072,17,Fresno,,3,,20909A,FFFFFF,13,
+804,10073,20,Hanford - Armona - Lemoore,,3,,20909A,FFFFFF,14,60
+804,10089,21,Lemoore NAS,,3,,20909A,FFFFFF,15,
+804,10088,30,Lemoore - North,,3,,EBBA1D,000000,16,60
+804,10087,31,Lemoore - South,,3,,EBBA1D,000000,17,60
+804,10078,3,Purple Line,,3,,A2248F,FFFFFF,2,60
+804,10079,4,Brown Line,,3,,826B51,FFFFFF,3,60
+804,10080,5,Pink Line,,3,,ED008D,FFFFFF,4,60
+804,10081,6,Blue Line,,3,,2E3093,FFFFFF,5,30
+804,10082,7,Red Line,,3,,ED1D24,FFFFFF,6,60
+804,10083,8,Gray Line,,3,,808284,FFFFFF,7,60
+804,10084,9,Yellow Line,,3,,F0E50A,000000,8,60
+804,10085,12,Avenal,,3,,F58220,FFFFFF,9,

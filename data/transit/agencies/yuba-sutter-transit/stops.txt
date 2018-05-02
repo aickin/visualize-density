@@ -1,0 +1,299 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+12319,,,North Beale Road and Rio Rancho Motel,corner: SE; routes: 1/4B,39.1282271824735,-121.582402288914,,,0,,America/Los_Angeles,,,0
+12253,,,Queens Ave. and Live Oak Blvd. (Brundy Ct.),corner: NE; routes: 2,39.1521322757993,-121.619730591774,,,0,,America/Los_Angeles,,,0
+12308,,,22nd Street and Covillaud Street,corner: NE; routes: 4,39.1603456321185,-121.578003466129,,,0,,America/Los_Angeles,,,0
+12417,,,Pennington Road and O Street (Live Oak Park),corner: Live Oak; ,39.2761579619967,-121.665572226048,,,0,,America/Los_Angeles,,,0
+12269,,,H Street and 4th Street,corner: NW; routes: 40182,39.1389606185616,-121.595048904419,,,0,,America/Los_Angeles,,,0
+12422,,,Anderson Way and McCurry St. (Wheatland Ranch),corner: Wheatland; ,39.0168496808315,-121.413549184799,,,0,,America/Los_Angeles,,,0
+12334,,,North Beale Road and College View Drive,corner: NW; routes: 6,39.1282126176767,-121.534645557404,,,0,,America/Los_Angeles,,,0
+12379,,,Chestnut Road and Catalpa Street,corner: NE; routes: 3,39.1085682082169,-121.555944979191,,,0,,America/Los_Angeles,,,0
+26743,,,2379 Gateway Oaks ,,38.6089482485674,-121.51638507843,,,0,,America/Los_Angeles,,,0
+12403,,,Plumas Lake Park & Ride (Hwy 70),corner of Feather River & Challice Creek,38.977860337468,-121.540471315384,,,0,,America/Los_Angeles,,,0
+14926,,,Walton Ave & Sam's Club Entrance (NB),Buses head NB,39.139285,-121.643795,,,0,,America/Los_Angeles,,,0
+12407,,,15th Street and K Street,corner: NW; routes: 99/70,38.5774120979417,-121.487119495869,,,0,,America/Los_Angeles,,,0
+12412,,,Brownsville (Gold Eagle Market),,39.4577380035174,-121.282367706299,,,0,,America/Los_Angeles,,,0
+12332,,,Yuba College Terminal and Building 100B,,39.126923,-121.537674,,,0,,America/Los_Angeles,,,0
+12378,,,Chestnut Road and Catalpa Street,corner: SW; routes: 3,39.1083309435303,-121.555950343609,,,0,,America/Los_Angeles,,,0
+12235,,,Pebble Beach Drive and Walton Ave.,corner: SW; routes: 5,39.1035938077209,-121.644068956375,,,0,,America/Los_Angeles,,,0
+12150,,,Stabler Ln. and Butte House Rd.,corner: SW; routes: 38354,39.147138069856,-121.64410918951,,,0,,America/Los_Angeles,,,0
+12383,,,Chestnut Road and Olivehurst Avenue,corner: NE; routes: 3,39.102028568098,-121.55131816864,,,0,,America/Los_Angeles,,,0
+12339,,,Hammonton-Smartville Rd. and Dunning Avenue,corner: NW; routes: 6,39.1353947776646,-121.544548273087,,,0,,America/Los_Angeles,,,0
+12302,,,Ramirez Street and East 18th Street,corner: SW; routes: 4,39.155243855066,-121.58363878727,,,0,,America/Los_Angeles,,,0
+12365,,,Arboga Road and Grand Avenue,corner: SW; routes: 3,39.1177168582823,-121.571263074875,,,0,,America/Los_Angeles,,,0
+12376,,,Arboga Road and Feather River Blvd.,corner: SE; routes: 3,39.122761010791,-121.57835483551,,,0,,America/Los_Angeles,,,0
+12156,,,Butte House Rd. and Yuba City Mall Signal Ent.,corner: SE; routes: 2,39.1452700916899,-121.632406711578,,,0,,America/Los_Angeles,,,0
+12204,,,Bridge St. and North Barrett Rd.,corner: SE; routes: 2,39.1322386289773,-121.631001234055,,,0,,America/Los_Angeles,,,0
+12171,,,Plumas St.  and Church St.,corner: SW; routes: 40180,39.1387192954702,-121.617021560669,,,0,,America/Los_Angeles,,,0
+12175,,,Plumas St. and Bridge St.,corner: NE; routes: 2,39.1355695372028,-121.615208387375,,,0,,America/Los_Angeles,,,0
+12305,,,East 19th Street and Covillaud Street,corner: NW; routes: 4,39.1570429340425,-121.578008830547,,,0,,America/Los_Angeles,,,0
+12221,,,Walton Ave. and Lincoln Road,corner: NE; routes: 5,39.1128429982723,-121.643752455711,,,0,,America/Los_Angeles,,,0
+12218,,,Walton Ave. and Cherry Street,corner: NE; routes: 5,39.1202681125682,-121.64381146431,,,0,,America/Los_Angeles,,,0
+12216,,,Walton Ave. and Camino Del Flores,corner: SE; routes: 5,39.1236245567986,-121.643739044666,,,0,,America/Los_Angeles,,,0
+12364,,,Arboga Road and Grand Avenue,corner: SE; routes: 3,39.1177459922132,-121.570997536182,,,0,,America/Los_Angeles,,,0
+12282,,,B Street and 9th Street,corner: SW; routes: 4,39.1446834780731,-121.586726009846,,,0,,America/Los_Angeles,,,0
+12399,,,McGowan Parkway and George Avenue,corner: NE; routes: 3,39.0773318985355,-121.544534862041,,,0,,America/Los_Angeles,,,0
+12166,,,Forbes Ave. and Orange St.,corner: NW; routes: 1,39.1378392913276,-121.622782945633,,,0,,America/Los_Angeles,,,0
+12409,,,P Street and 13th Street,corner: NW; routes: 99/70,38.5726394842365,-121.49215400219,,,0,,America/Los_Angeles,,,0
+12360,,,Alicia and Pasado Road,corner: NW; routes: 6,39.1126681823426,-121.570831239223,,,0,,America/Los_Angeles,,,0
+2371245,,,Maple Park Neighborhood Center,,39.274711889224,-121.65699521794,,https://www.yubasuttertransit.com/live-oak,0,,America/Los_Angeles,,,1
+12362,,,Pasado Road and Arboga Road,corner: NW; routes: 6,39.1130948156946,-121.564729213715,,,0,,America/Los_Angeles,,,0
+12350,,,Feather River Blvd. and Alicia Avenue,corner: SE; routes: 6,39.1205303080182,-121.580841243267,,,0,,America/Los_Angeles,,,0
+12242,,,Gray Ave. and Queens Ave.,corner: SW; routes: 2,39.1514625194866,-121.630212664604,,,0,,America/Los_Angeles,,,0
+12236,,,Pebble Beach Drive and Portola Valley Drive (Park),corner: SE; routes: 5,39.1034938998471,-121.649465560913,,,0,,America/Los_Angeles,,,0
+12435,,,Clark Ave and Julie Dr at St. Isadore's,,39.1232479271909,-121.624885797501,,,0,,America/Los_Angeles,,,0
+12289,,,East 17th Street and Del Pero Street,corner: NE; routes: 4,39.1552272159706,-121.573682427406,,,0,,America/Los_Angeles,,,0
+12414,,,Willow Glen Cafe,,39.3630286594133,-121.323823928833,,,0,,America/Los_Angeles,,,0
+12186,,,Garden Hwy. and Percy Ave.,corner: SW; routes: 2,39.1220410342204,-121.613019704819,,,0,,America/Los_Angeles,,,0
+12207,,,Bridge St. and JoAnn Way,corner: SE; routes: 40214,39.1322469512429,-121.640383601189,,,0,,America/Los_Angeles,,,0
+12410,,,P Street and 9th Street,corner: NW; routes: 99/70,38.5741367267104,-121.497738361359,,,0,,America/Los_Angeles,,,0
+12209,,,Walton Ave. and Bridge St.,corner: NE; routes: 40214,39.1327233993089,-121.643730998039,,,0,,America/Los_Angeles,,,0
+14929,,,J St & 4th St (EB),Buses head EB,38.582249,-121.501021,,,0,,America/Los_Angeles,,,0
+12267,,,H Street and 7th Street,corner: SW; routes: 40182,39.1418522705736,-121.595467329025,,,0,,America/Los_Angeles,,,0
+12199,,,Franklin Road and Gray Ave.,corner: SE; routes: 2,39.1271597829623,-121.629332900047,,,0,,America/Los_Angeles,,,0
+12318,,,Sampson Street and East 16th Street,corner: NW; routes: 4,39.1535965655347,-121.580390632153,,,0,,America/Los_Angeles,,,0
+12202,,,Gray Avenue and B Street,corner: SW; routes: 2,39.1298605012872,-121.629965901375,,,0,,America/Los_Angeles,,,0
+14931,,,J St & 11th St (EB),Buses head EB,38.579763,-121.491736,,,0,,America/Los_Angeles,,,0
+12356,,,Grand  and Island,corner: NE; routes: 6,39.1128908644632,-121.577957868576,,,0,,America/Los_Angeles,,,0
+12208,,,Bridge Street and JoAnn Way,corner: NW; routes: 40214,39.1324716520425,-121.640726923943,,,0,,America/Los_Angeles,,,0
+12200,,,Gray Avenue and Franklin Road,corner: NE; routes: 2,39.1275759250465,-121.629665493965,,,0,,America/Los_Angeles,,,0
+12317,,,Sampson Street and East 16th Street,corner: NE; routes: 4,39.153802478835,-121.580170691013,,,0,,America/Los_Angeles,,,0
+758939,,,Yuba Co. Government Center and I & 9th Streets,,39.1437910671318,-121.597023010254,,,0,,America/Los_Angeles,,,0
+12348,,,Feather River Blvd. and Arboga Road,corner: SW; routes: 6,39.1225446024219,-121.5790361166,,,0,,America/Los_Angeles,,,0
+12176,,,Plumas Street and B Street,corner: SW; routes: 2,39.133179038767,-121.614468097687,,,0,,America/Los_Angeles,,,0
+12353,,,Feather River Blvd. and Riverside,corner: SE; routes: 6,39.1161311218705,-121.58339202404,,,0,,America/Los_Angeles,,,0
+12161,,,Gray Ave. and Louise Ave. (Paradise Motel),corner: NE; routes: 1,39.1400694459269,-121.630043685436,,,0,,America/Los_Angeles,,,0
+12211,,,Franklin Road and Winco Foods (Across Street ),corner: NW; routes: 5,39.1274406791388,-121.637435853481,,,0,,America/Los_Angeles,,,0
+12179,,,C Street and Wilbur Avenue,corner: NW; routes: 2,39.1326484993898,-121.612247228622,,,0,,America/Los_Angeles,,,0
+12346,,,North Beale Road and Hammonton-Smartville Road,corner: SE; routes: 40181,39.1277382197929,-121.555030345917,,,0,,America/Los_Angeles,,,0
+12301,,,Ramirez Street and East 18th Street,corner: NE; routes: 4,39.1555683166397,-121.583461761475,,,0,,America/Los_Angeles,,,0
+12421,,,Main Street and C Street,routes: Wheatland; ,39.010649594095,-121.421952545643,,,0,,America/Los_Angeles,,,0
+12404,,,J Street and 4th Street,corner: SE; routes: 99/70,38.5823164878974,-121.501380801201,,,0,,America/Los_Angeles,,,0
+12214,,,Walton Ave. and Franklin Road,corner: SW; routes: 5,39.127070312093,-121.644026041031,,,0,,America/Los_Angeles,,,0
+12292,,,East 17th Street and Covillaud Street,corner: NE; routes: 4,39.1549318713725,-121.577252447605,,,0,,America/Los_Angeles,,,0
+12239,,,Ainsley Ave. and Clark Ave.,corner: NW; routes: 2,39.1440843782698,-121.626103520393,,,0,,America/Los_Angeles,,,0
+12187,,,Garden Hwy. and Percy Ave.,corner: NE; routes: 2,39.1222948996314,-121.61211848259,,,0,,America/Los_Angeles,,,0
+12177,,,Plumas Street and Town Square,corner: SE; routes: 2,39.1329876289428,-121.613894104958,,,0,,America/Los_Angeles,,,0
+12238,,,Washington Ave. and Clark Ave.,corner: SW; routes: 2,39.1489914379488,-121.626119613647,,,0,,America/Los_Angeles,,,0
+758937,,,Hansen St. and East 22nd St.,,39.1595490887723,-121.5665102005,,http://www.yubasuttertransits.com/newroute4ab.htm#bottomschedule,0,,America/Los_Angeles,,,0
+12418,,,Date Street and O Street (Senior Village),corner: Live Oak; ,39.2716833755079,-121.664963364601,,,0,,America/Los_Angeles,,,0
+12152,,,Stabler Ln. and Starr Drive,corner: SW; routes: 38354,39.1430005771284,-121.644044816494,,,0,,America/Los_Angeles,,,0
+12277,,,14th Street and Ellis Lake Drive,corner: NW; routes: 4,39.1503289112029,-121.592302322388,,,0,,America/Los_Angeles,,,0
+12190,,,Lincoln Rd. and Garden Hwy.,corner: NW; routes: 2,39.1128367548538,-121.618094444275,,,0,,America/Los_Angeles,,,0
+12392,,,Olivehurst Avenue and Clarice Avenue,corner: SW; routes: 3,39.0824226639488,-121.551940441132,,,0,,America/Los_Angeles,,,0
+12293,,,East 18th Street and B Street,corner: SW; routes: 4,39.1550150671594,-121.587788164616,,,0,,America/Los_Angeles,,,0
+12170,,,Plumas St. and Church St.,corner: NE; routes: 40180,39.1388357963762,-121.616790890694,,,0,,America/Los_Angeles,,,0
+12325,,,North Beale Road and Lowe Avenue,corner: NE; routes: 38720,39.1275738443422,-121.561102867126,,,0,,America/Los_Angeles,,,0
+12310,,,22nd Street and Huston Street,corner: SW; routes: 4,39.1604808148199,-121.571582257748,,,0,,America/Los_Angeles,,,0
+12321,,,North Beale Road and Wal-Mart,corner: NW; routes: 1/3/4B/6,39.125488947741,-121.573615372181,,,0,,America/Los_Angeles,,,0
+12347,,,Feather River Blvd. and North Beale Road,corner: NW; routes: 6,39.1252517400261,-121.576399505138,,,0,,America/Los_Angeles,,,0
+12278,,,B Street and 3rd Street,corner: NW; routes: 4,39.1384426050458,-121.58587038517,,,0,,America/Los_Angeles,,,0
+12286,,,F Street and Second Street (Buttes Manor),corner: NE; routes: 40182,39.1369114263474,-121.591503024101,,,0,,America/Los_Angeles,,,0
+12222,,,Walton Ave. and Joseph Street,corner: NE; routes: 5,39.1110740075465,-121.643765866756,,,0,,America/Los_Angeles,,,0
+12189,,,Garden Hwy. and Winship Rd.,corner: NE; routes: 2,39.1196459146984,-121.616195440292,,,0,,America/Los_Angeles,,,0
+12144,,,Lassen Boulevard and Tharp Rd.,corner: NW; routes: 1/5/10,39.1381159841229,-121.648757457733,,,0,,America/Los_Angeles,,,0
+12303,,,East 19th Street and Sampson Street,corner: SW; routes: 4,39.1566165668835,-121.58088684082,,,0,,America/Los_Angeles,,,0
+12390,,,Olivehurst Avenue and 11th Avenue,corner: NW; routes: 3,39.088262537471,-121.551927030087,,,0,,America/Los_Angeles,,,0
+12248,,,Northgate Dr. and Clark Ave.,corner: NE; routes: 2,39.1594846162009,-121.625588536263,,,0,,America/Los_Angeles,,,0
+12212,,,Franklin Road and Winco Foods,corner: SW; routes: 5,39.127195155135,-121.637473404408,,,0,,America/Los_Angeles,,,0
+12384,,,Olivehurst Avenue and 6th Avenue,corner: SE; routes: 3,39.0976615323351,-121.551414728165,,,0,,America/Los_Angeles,,,0
+12306,,,Covillaud Street and East 19th Street,corner: NE; routes: 4,39.157350748727,-121.577617228031,,,0,,America/Los_Angeles,,,0
+12328,,,North Beale Road and Albrecht Avenue,corner: SE; routes: 40181,39.1276716373781,-121.549228727818,,,0,,America/Los_Angeles,,,0
+12194,,,Clark Ave. and Richland Rd.,corner: NE; routes: 2,39.1186865955098,-121.624783873558,,,0,,America/Los_Angeles,,,0
+12250,,,Northgate Dr. and Live Oak Blvd.,corner: NW; routes: 2,39.1594700578702,-121.622874140739,,,0,,America/Los_Angeles,,,0
+12329,,,North Beale Road and Albrecht Avenue,corner: NW; routes: 40181,39.1278630616511,-121.549682021141,,,0,,America/Los_Angeles,,,0
+12154,,,Butte House Rd. and Civic Center Blvd.,corner: SE; routes: 2,39.1462914533776,-121.638243198395,,,0,,America/Los_Angeles,,,0
+12262,,,Bogue and Highway 99 and Park and Ride,corner: - - -; routes: Hwy. 99,39.0984775099951,-121.634273529053,,,0,,America/Los_Angeles,,,0
+12147,,,Harter Road and Yuba City Marketplace,corner: NE; routes: 1/5/10,39.1444920995235,-121.655285954475,,,0,,America/Los_Angeles,,,0
+12284,,,B Street and 16th Street,corner: NE; routes: 4,39.1531472980606,-121.587654054165,,,0,,America/Los_Angeles,,,0
+12327,,,North Beale Road and between Alpine and Park,corner: NW; routes: 38720,39.1276757987809,-121.557755470276,,,0,,America/Los_Angeles,,,0
+12294,,,Chestnut and East 18th Street,corner: SE; routes: 4,39.154919391996,-121.587324142456,,,0,,America/Los_Angeles,,,0
+12402,,,McGowan Park and Ride and McGowan & Power Line Rd.,corner: NE; routes: 70,39.0773797888377,-121.542729735374,,,0,,America/Los_Angeles,,,0
+12217,,,Walton Ave. and Cherry Street,corner: SW; routes: 5,39.1196708859562,-121.64397507906,,,0,,America/Los_Angeles,,,0
+12224,,,Lincoln Road and Crest Drive,corner: SW; routes: 5,39.1126494520387,-121.641274094582,,,0,,America/Los_Angeles,,,0
+12411,,,P Street and 5th Street,corner: NW; routes: 99/70,38.5755605459983,-121.503062546253,,,0,,America/Los_Angeles,,,0
+12197,,,Franklin Road and Clark Avenue (Tennis Courts),corner: NW; routes: 2,39.1272846258457,-121.625162065029,,,0,,America/Los_Angeles,,,0
+12375,,,Arboga Road and Jay,corner: SE; routes: 3,39.1210005926503,-121.575806736946,,,0,,America/Los_Angeles,,,0
+12357,,,Grand  and Island,corner: NW; routes: 6,39.1128721342185,-121.578290462494,,,0,,America/Los_Angeles,,,0
+12276,,,14th Street and Ellis Lake Drive,corner: SW; routes: 4,39.1501229877383,-121.592468619347,,,0,,America/Los_Angeles,,,0
+14935,,,P St & 9th St (WB),Buses head WB,38.57416,-121.497974,,,0,,America/Los_Angeles,,,0
+12149,,,Butte House Rd. and Tharp Rd.,corner: SE; routes: 1/5/10,39.1490912813091,-121.648156642914,,,0,,America/Los_Angeles,,,0
+12322,,,North Beale Road and SouthSide,corner: SW; routes: 1/3/4B/6,39.1251705898349,-121.573773622513,,,0,,America/Los_Angeles,,,0
+2371246,,,Butte View Estates,,39.267680686944,-121.66004903818,,https://www.yubasuttertransit.com/live-oak,0,,America/Los_Angeles,,,1
+12254,,,Plumas St. and Alemar Way,corner: NW; routes: 2,39.1508343571521,-121.61759018898,,,0,,America/Los_Angeles,,,0
+12432,,,D and 2nd,,39.1369863217322,-121.588659882545,,,0,,America/Los_Angeles,,,0
+12354,,,Feather River Blvd. and Island,corner: NW; routes: 6,39.1132176023757,-121.582482755184,,,0,,America/Los_Angeles,,,0
+12335,,,Alberta Avenue and North Beale Road,corner: NE; routes: 6,39.1291863717432,-121.530557870865,,,0,,America/Los_Angeles,,,0
+12373,,,Erle and Ravine Ct. Pedestrian Access,corner: NW; routes: 6,39.1135172842247,-121.551216244698,,,0,,America/Los_Angeles,,,0
+12363,,,Pasado Road and Arboga Road,corner: SW; routes: 6,39.1128429982723,-121.565812826157,,,0,,America/Los_Angeles,,,0
+12206,,,Onstott Frontage Road and Cinemark Movies 12,corner: SW; routes: 5,39.1296149857188,-121.635086238384,,,0,,America/Los_Angeles,,,0
+12210,,,Bridge St. and Walton Ave.,corner: SE; routes: 40214,39.1322511123754,-121.643556654453,,,0,,America/Los_Angeles,,,0
+12386,,,Olivehurst Avenue and 7th Avenue,corner: NW; routes: 3,39.0955205868739,-121.551709771156,,,0,,America/Los_Angeles,,,0
+12359,,,Grand Avenue and Alicia Avenue,corner: SE; routes: 6,39.1151592684002,-121.574731171131,,,0,,America/Los_Angeles,,,0
+12291,,,East 17th Street and Covillaud Street,corner: SW; routes: 4,39.1547259613771,-121.577509939671,,,0,,America/Los_Angeles,,,0
+12181,,,Wilbur Ave. and Franklin Ave.,corner: SW; routes: 2,39.1302620630415,-121.611525714397,,,0,,America/Los_Angeles,,,0
+12341,,,Hammonton-Smartville Rd. and Farrell,corner: SW; routes: 6,39.1347123791241,-121.550272107124,,,0,,America/Los_Angeles,,,0
+12174,,,Plumas St. and Bridge St.,corner: NW; routes: 2,39.1357130893561,-121.615578532219,,,0,,America/Los_Angeles,,,0
+12395,,,Olivehurst Avenue and Bellis Court,corner: SW; routes: 3,39.0790288611537,-121.551994085312,,,0,,America/Los_Angeles,,,0
+12352,,,Feather River Blvd. and Riverside,corner: NW; routes: 6,39.116087419968,-121.583571732044,,,0,,America/Los_Angeles,,,0
+14932,,,15th St & K St (SB),Buses head SB,38.577846,-121.48694,,,0,,America/Los_Angeles,,,0
+12393,,,Olivehurst Avenue and 14th Avenue,corner: SE; routes: 3,39.0837031054065,-121.551720499992,,,0,,America/Los_Angeles,,,0
+12368,,,Arboga Road and Pasado Road,corner: NW; routes: 3,39.1133258209682,-121.564761400223,,,0,,America/Los_Angeles,,,0
+12180,,,Wilbur Avenue and Franklin Road,corner: NE; routes: 2,39.1305554305441,-121.611332595348,,,0,,America/Los_Angeles,,,0
+12397,,,McGowan Parkway and Ardmore Avenue,corner: NE; routes: 3,39.0772673506854,-121.549378931522,,,0,,America/Los_Angeles,,,0
+12351,,,Feather River Blvd. and Alicia Avenue (Clover Leaf),corner: NE; routes: 6,39.1203305401448,-121.581270396709,,,0,,America/Los_Angeles,,,0
+12367,,,5594 Arboga Road ,corner: NW; routes: 3,39.1159479899075,-121.568344831467,,,0,,America/Los_Angeles,,,0
+12420,,,Highway 65 and Third Street,routes: Wheatland; ,39.009838853494,-121.425844430923,,,0,,America/Los_Angeles,,,0
+14923,,,I St & 9th St (SB),Buses head SB,39.143729,-121.597275,,,0,,America/Los_Angeles,,,0
+12342,,,Hammonton-Smartville Road and Mapes Way,corner: NE; routes: 6,39.1353073977329,-121.547901034355,,,0,,America/Los_Angeles,,,0
+12372,,,Edgewater and Riverbank,corner: SW; routes: 6,39.1149969446727,-121.545216143131,,,0,,America/Los_Angeles,,,0
+12195,,,Bunce Rd. and Richland Rd.,corner: SW; routes: 2,39.1178458798849,-121.625030636787,,,0,,America/Los_Angeles,,,0
+12234,,,Sanborn Road and Bogue Road,corner: NE; routes: 5,39.0984400418401,-121.655146479607,,,0,,America/Los_Angeles,,,0
+12261,,,Plumas St. and Fremont Hospital (front door),corner: NW; routes: 2,39.1434041441866,-121.617777943611,,,0,,America/Los_Angeles,,,0
+12287,,,East 17th Street and Huston Street,corner: NE; routes: 4,39.1554372842612,-121.571091413498,,,0,,America/Los_Angeles,,,0
+12377,,,Arboga Road and Feather River Blvd.,corner: SW; routes: 3,39.1225612492431,-121.578389704227,,,0,,America/Los_Angeles,,,0
+12290,,,East 17th Street and Del Pero Street,corner: SW; routes: 4,39.1550171470528,-121.573929190636,,,0,,America/Los_Angeles,,,0
+12300,,,Yuba Street and 12th Street (One-Stop),corner: SW; routes: 4A/B,39.1480137975623,-121.584156453609,,,0,,America/Los_Angeles,,,0
+804149,,,Gray Ave and Ainsley Ave (SB),,39.1437973155598,-121.630281060934,,,0,,America/Los_Angeles,,,0
+12169,,,Forbes Ave. and Almond St.,corner: NW; routes: 1,39.137747753622,-121.619245111942,,,0,,America/Los_Angeles,,,0
+12315,,,Hall Street and East 19th Street,corner: NW; routes: 4,39.1577292757494,-121.570619344711,,,0,,America/Los_Angeles,,,0
+14925,,,Bogue Rd & Highway 99 (SB),Buses head SB,39.098856,-121.633549,,,0,,America/Los_Angeles,,,0
+12264,,,Bogue Road and Walton,corner: NE; routes: 5,39.0983234741191,-121.642797589302,,,0,,America/Los_Angeles,,,0
+12355,,,Feather River Blvd. and Island,corner: NE; routes: 6,39.1131718175366,-121.582206487656,,,0,,America/Los_Angeles,,,0
+12249,,,Northgate Dr. and Live Oak Blvd.,corner: SW; routes: 2,39.1593036767334,-121.622426211834,,,0,,America/Los_Angeles,,,0
+14924,,,Walton Ave & Sam's Club Entrance (SB),Buses head SB,39.139173,-121.644074,,,0,,America/Los_Angeles,,,0
+12251,,,Yuba-Sutter Mental Health ,,39.1557263871208,-121.618963479996,,,0,,America/Los_Angeles,,,0
+12231,,,Bogue Road and Railroad Avenue,corner: NE; routes: 5,39.0985815880992,-121.624467372894,,,0,,America/Los_Angeles,,,0
+12143,,,Lassen Boulevard and Walton Avenue,corner: NW; routes: 1/5/10,39.138091019404,-121.644406914711,,,0,,America/Los_Angeles,,,0
+12167,,,Forbes Ave. and Orange St.,corner: SE; routes: 1,39.1376582962039,-121.622144579887,,,0,,America/Los_Angeles,,,0
+12324,,,North Beale Road and Lowe Avenue,corner: SE; routes: 38720,39.1273657736012,-121.561043858528,,,0,,America/Los_Angeles,,,0
+12225,,,Lincoln Road and Phillips Road,corner: SE; routes: 5,39.1126161537084,-121.631760299206,,,0,,America/Los_Angeles,,,0
+12297,,,Ramirez Street and East 13th Street,corner: NW; routes: 4,39.1501500282276,-121.582938730717,,,0,,America/Los_Angeles,,,0
+12419,,,Spruce Avenue and Evergreen Drive,corner: Wheatland; ,39.0149157289158,-121.437310874462,,,0,,America/Los_Angeles,,,0
+12298,,,Ramirez Street and East 12th Street,corner: NE; routes: 4,39.1493055280417,-121.582587361336,,,0,,America/Los_Angeles,,,0
+12434,,,Bridge St and ToysRUs,,39.1324778937211,-121.637500226498,,,0,,America/Los_Angeles,,,0
+12226,,,Lincoln Road and Jones Road,corner: SE; routes: 5,39.1125578815924,-121.626825034618,,,0,,America/Los_Angeles,,,0
+12336,,,Alberta Ave. and North Beale Road,corner: NW; routes: 6,39.1290490482672,-121.530742943287,,,0,,America/Los_Angeles,,,0
+12198,,,Clark Ave. and Franklin Ave.,corner: SW; routes: 2,39.1268726434906,-121.624875068665,,,0,,America/Los_Angeles,,,0
+12285,,,B Street and 16th Street,corner: SW; routes: 4,39.1526813880207,-121.587825715542,,,0,,America/Los_Angeles,,,0
+12241,,,Gray Ave. and Queens Ave.,corner: NE; routes: 2,39.1521156359681,-121.629990041256,,,0,,America/Los_Angeles,,,0
+12268,,,H Street and 7th Street,corner: NE; routes: 40182,39.1422475231323,-121.595306396484,,,0,,America/Los_Angeles,,,0
+12388,,,Olivehurst Avenue and 9th Avenue,corner: SW; routes: 3,39.0912853409099,-121.55180901289,,,0,,America/Los_Angeles,,,0
+12265,,,Yuba Co. Government Center and I & 9th Streets,corner: SW; routes: 1/4/70/99,39.1436558523658,-121.597320735455,,,0,,America/Los_Angeles,,,0
+12338,,,Alberta Ave. and Hammonton-Smartville Road,corner: SW; routes: 6,39.1356277902858,-121.53078854084,,,0,,America/Los_Angeles,,,0
+12229,,,Bogue Road and Garden Highway,corner: NW; routes: 5,39.100821311671,-121.616211533546,,,0,,America/Los_Angeles,,,0
+12370,,,Edgewater and Rupert,corner: NE; routes: 6,39.115496401101,-121.55415058136,,,0,,America/Los_Angeles,,,0
+12304,,,East 19th Street and Sampson Street,corner: NE; routes: 4,39.1568183116661,-121.580543518066,,,0,,America/Los_Angeles,,,0
+12196,,,Clark Ave. and Julie Dr. (Hillcrest Plaza),corner: SE; routes: 2,39.1232271188666,-121.624636352062,,,0,,America/Los_Angeles,,,0
+12307,,,Covillaud Street and East 22nd Street,corner: SE; routes: 4,39.1601480569338,-121.57802760601,,,0,,America/Los_Angeles,,,0
+12295,,,Ramirez Street and East 15th Street,corner: NE; routes: 4,39.1524525917825,-121.583048701286,,,0,,America/Los_Angeles,,,0
+2371251,,,Dobbins/Oregon House Fire Department,,39.361995150573,-121.25373447668,,https://www.yubasuttertransit.com/foothill,0,,America/Los_Angeles,,,1
+12215,,,Walton Ave. and Camino Del Flores (AK School),corner: SW; routes: 5,39.1237722949346,-121.644020676613,,,0,,America/Los_Angeles,,,0
+12337,,,Alberta Ave. and Hammonton-Smartville Road,corner: SE; routes: 6,39.1355175254808,-121.530606150627,,,0,,America/Los_Angeles,,,0
+12309,,,22nd Street and Huston Street,corner: NE; routes: 4,39.1607075052285,-121.571295261383,,,0,,America/Los_Angeles,,,0
+12245,,,Northgate Dr. and Gray Ave.,corner: SE; routes: 2,39.159667634959,-121.629845201969,,,0,,America/Los_Angeles,,,0
+804148,,,Gray Ave and Ainsley Ave (NB),,39.1440836922217,-121.630165626984,,,0,,America/Los_Angeles,,,0
+12389,,,Olivehurst Avenue and 9th Avenue,corner: NE; routes: 3,39.0918536634508,-121.551658809185,,,0,,America/Los_Angeles,,,0
+12227,,,Garden Highway and Teesdale,corner: NE; routes: 5,39.1073111125372,-121.616785526276,,,0,,America/Los_Angeles,,,0
+12184,,,Wilbur Ave. and Garden Hwy.,corner: SW; routes: 2,39.1256096320613,-121.609929800034,,,0,,America/Los_Angeles,,,0
+12263,,,Bogue Road and Ramona Avenue,corner: NW; routes: 5,39.0984317155807,-121.633350849152,,,0,,America/Los_Angeles,,,0
+14927,,,Power Line Rd & McGowan Pkwy (NB),Buses head NB,39.078633,-121.542199,,,0,,America/Los_Angeles,,,0
+12165,,,Forbes Ave. and Clark Ave.,corner: NE; routes: 1,39.1380057232145,-121.625218391418,,,0,,America/Los_Angeles,,,0
+12423,,,Donner Trail Manor and 121 C Street (in office parking lot),corner: Wheatland; ,39.0140800285869,-121.427400112152,,,0,,America/Los_Angeles,,,0
+12162,,,Forbes Ave. and Gray Ave.,corner: SE; routes: 1,39.1379287485157,-121.629348993301,,,0,,America/Los_Angeles,,,0
+12155,,,Butte House Rd. and El Dorado Lane,corner: NW; routes: 2,39.1467990084594,-121.638967394829,,,0,,America/Los_Angeles,,,0
+12163,,,Forbes Ave. and Gray Ave.,corner: NE; routes: 1,39.1381159841229,-121.629458963871,,,0,,America/Los_Angeles,,,0
+12358,,,Grand Avenue and Alicia Avenue,corner: SW; routes: 6,39.11514261983,-121.575023531914,,,0,,America/Los_Angeles,,,0
+12257,,,Plumas St. and Sutter Estates (south ent.),corner: NE; routes: 2,39.1470777461687,-121.617504358292,,,0,,America/Los_Angeles,,,0
+12193,,,Lincoln Rd. and Railroad Ave.,corner: NW; routes: 40214,39.1127347789384,-121.623209416866,,,0,,America/Los_Angeles,,,0
+12243,,,Gray Ave. and Casita Dr.,corner: NE; routes: 2,39.154979708962,-121.630022227764,,,0,,America/Los_Angeles,,,0
+12366,,,5585 Arboga Road ,corner: SW; routes: 3,39.1155900487872,-121.56803637743,,,0,,America/Los_Angeles,,,0
+12381,,,Chestnut Road and 2nd Avenue,corner: NE; routes: 3,39.1044138794998,-121.552946269512,,,0,,America/Los_Angeles,,,0
+12272,,,H Street and 11th Street,corner: NW; routes: 4,39.1465909945242,-121.596207618713,,,0,,America/Los_Angeles,,,0
+12288,,,East 17th Street and Huston Street,corner: SE; routes: 4,39.155289612558,-121.570938527584,,,0,,America/Los_Angeles,,,0
+12371,,,Edgewater and Oakwood,corner: NE; routes: 6,39.1175420544438,-121.550744175911,,,0,,America/Los_Angeles,,,0
+12255,,,Plumas St. and Alemar Way,corner: NE; routes: 2,39.1507469963834,-121.617394387722,,,0,,America/Los_Angeles,,,0
+12382,,,Chestnut Road and Olivehurst Avenue,corner: SW; routes: 3,39.1012521796994,-121.551288664341,,,0,,America/Los_Angeles,,,0
+12233,,,Bogue Road and Falls Drive,corner: NW; routes: 5,39.0983318003913,-121.651238501072,,,0,,America/Los_Angeles,,,0
+12183,,,Wilbur Ave. and Fairview MHP Entrance,corner: NE; routes: 2,39.1288097718738,-121.611598134041,,,0,,America/Los_Angeles,,,0
+12153,,,Stabler Ln. and Starr Drive,corner: NE; routes: 2,39.1438243507266,-121.643816828728,,,0,,America/Los_Angeles,,,0
+14934,,,P St & 13th St (WB),Buses head WB,38.572671,-121.492326,,,0,,America/Los_Angeles,,,0
+12256,,,Plumas St. and Sutter Estates (south ent.),corner: NW; routes: 2,39.1473585628939,-121.61772698164,,,0,,America/Los_Angeles,,,0
+12345,,,Hammonton-Smartville Road and North Beale Road,corner: NE; routes: 6,39.1275613601151,-121.55472189188,,,0,,America/Los_Angeles,,,0
+12192,,,Lincoln Rd. and Railroad Ave.,corner: SE; routes: 2,39.1124912848294,-121.622528135777,,,0,,America/Los_Angeles,,,0
+12252,,,Queens Ave. and Live Oak Blvd. (Brundy Ct.),corner: SE; routes: 2,39.151737078746,-121.620216071606,,,0,,America/Los_Angeles,,,0
+12146,,,Harter Road and Spirit Way,corner: NE; routes: 1/5/10,39.1397844394348,-121.655323505402,,,0,,America/Los_Angeles,,,0
+12333,,,North Beale Road and College View Drive,corner: SE; routes: 6,39.1279795805191,-121.534385383129,,,0,,America/Los_Angeles,,,0
+12168,,,Forbes Ave. and Almond St.,corner: SE; routes: 1,39.137587562351,-121.618888378143,,,0,,America/Los_Angeles,,,0
+12330,,,North Beale Road and Woodland Drive,corner: SE; routes: 40181,39.1277756723736,-121.544282734394,,,0,,America/Los_Angeles,,,0
+12219,,,Walton Ave. and McCune Avenue,corner: NW; routes: 5,39.1166721907989,-121.643996536732,,,0,,America/Los_Angeles,,,0
+12433,,,Walton Terminal Sam's Club,,39.1391416103373,-121.64408236742,,,0,,America/Los_Angeles,,,0
+2371247,,,Richard Ave & Presley Ave,,39.273048714755,-121.67273923052,,https://www.yubasuttertransit.com/live-oak,0,,America/Los_Angeles,,,1
+12316,,,Hall Street and East 19th Street,corner: SE; routes: 4,39.1575046555642,-121.570380628109,,,0,,America/Los_Angeles,,,0
+12157,,,Butte House Rd. and Target Entrance,corner: NW; routes: 2,39.1454968311041,-121.633227467537,,,0,,America/Los_Angeles,,,0
+12380,,,Chestnut Road and 2nd Avenue,corner: SW; routes: 3,39.1041828450147,-121.552935540676,,,0,,America/Los_Angeles,,,0
+12398,,,McGowan Parkway and George Avenue,corner: SE; routes: 3,39.0771715698958,-121.544003784657,,,0,,America/Los_Angeles,,,0
+12281,,,B Street and 6th Street,corner: NE; routes: 4,39.1418377085948,-121.586055457592,,,0,,America/Los_Angeles,,,0
+12340,,,Hammonton-Smartville Rd. and Dunning Avenue,corner: SE; routes: 6,39.1352865929713,-121.544119119644,,,0,,America/Los_Angeles,,,0
+12258,,,Plumas St. and Ainsley Ave.,corner: NW; routes: 2,39.1451473608766,-121.61775380373,,,0,,America/Los_Angeles,,,0
+12280,,,B Street and 6th Street,corner: SW; routes: 4,39.1414549355015,-121.586267352104,,,0,,America/Los_Angeles,,,0
+12205,,,Bridge St. and Oji Way,corner: SW; routes: 40214,39.1322698374683,-121.637240052223,,,0,,America/Los_Angeles,,,0
+12283,,,B Street and 8th Street (Caltrans),corner: SE; routes: 4,39.1440448541451,-121.586382687092,,,0,,America/Los_Angeles,,,0
+12320,,,North Beale Road and Feather River Blvd.,corner: NW; routes: 1/4B,39.1257365584509,-121.576807200909,,,0,,America/Los_Angeles,,,0
+12220,,,Walton Ave. and McCune Avenue,corner: NE; routes: 5,39.1164786550826,-121.643795371056,,,0,,America/Los_Angeles,,,0
+12145,,,Lassen Boulevard and Klamath,corner: NW; routes: 1/5/10,39.1380618938875,-121.651831269264,,,0,,America/Los_Angeles,,,0
+12415,,,Loma Rica (Gold Eagle Market),,39.3119713440203,-121.417787075043,,,0,,America/Los_Angeles,,,0
+12311,,,East 22nd Street and Hansen Street,corner: SW; routes: 4,39.1598860089906,-121.566604077816,,,0,,America/Los_Angeles,,,0
+12349,,,Feather River Blvd. and Arboga Road,corner: NW; routes: 6,39.1226278364887,-121.579325795174,,,0,,America/Los_Angeles,,,0
+12148,,,Butte House Road and Harter Road ,corner: SE; routes: 1/5,39.1505473142189,-121.653242111206,,,0,,America/Los_Angeles,,,0
+14930,,,J St & 8th St (EB),Buses head EB,38.580991,-121.496365,,,0,,America/Los_Angeles,,,0
+12274,,,H Street and 14th Street,corner: SW; routes: 4,39.1495135339542,-121.596572399139,,,0,,America/Los_Angeles,,,0
+12228,,,Garden Highway and River Oaks Drive,corner: SW; routes: 5,39.1027529120309,-121.61617398262,,,0,,America/Los_Angeles,,,0
+12394,,,Olivehurst Avenue and Beverly Avenue,corner: NE; routes: 3,39.0781689330503,-121.55180901289,,,0,,America/Los_Angeles,,,0
+12259,,,Plumas St. and Ainsley Ave.,corner: NE; routes: 2,39.1454469068921,-121.617520451546,,,0,,America/Los_Angeles,,,0
+12413,,,Oregon House Post Office,,39.3570933888828,-121.275613903999,,,0,,America/Los_Angeles,,,0
+12279,,,B Street and 3rd Street,corner: NE; routes: 4,39.1386340000418,-121.585647761822,,,0,,America/Los_Angeles,,,0
+12406,,,J Street and 11th Street,corner: SE; routes: 99/70,38.5798339313301,-121.492073535919,,,0,,America/Los_Angeles,,,0
+12151,,,Butte House Rd. and Stabler Ln. (Rite-Aid),corner: SE; routes: 2,39.1478161877492,-121.643470823765,,,0,,America/Los_Angeles,,,0
+12271,,,Third Street and F Street,corner: SW; routes: 40182,39.137686693961,-121.59259858005,,,0,,America/Los_Angeles,,,0
+12185,,,Wilbur Ave. and Garden Hwy.,corner: NW; routes: 2,39.1257365584509,-121.609817147255,,,0,,America/Los_Angeles,,,0
+12160,,,Gray Ave. and Louise Ave. (K-Mart),corner: SW; routes: 1,39.139516074603,-121.630336046219,,,0,,America/Los_Angeles,,,0
+12237,,,Washington Ave. and Gray Ave.,corner: SE; routes: 2,39.1489831176624,-121.629917621613,,,0,,America/Los_Angeles,,,0
+12296,,,Ramirez Street and East 15th Street,corner: NW; routes: 4,39.1524193122677,-121.583249866962,,,0,,America/Los_Angeles,,,0
+12331,,,North Beale Road and Woodland Drive,corner: NE; routes: 40181,39.1280087102059,-121.544349789619,,,0,,America/Los_Angeles,,,0
+12178,,,C Street and Wilbur Avenue,corner: SW; routes: 2,39.1325028604302,-121.612086296082,,,0,,America/Los_Angeles,,,0
+12343,,,Hammonton-Smartville Road and Hile Avenue,corner: SW; routes: 6,39.1319390267605,-121.5530616045,,,0,,America/Los_Angeles,,,0
+12405,,,J Street and 8th Street,corner: SW; routes: 99/70,38.5809536085134,-121.496248394251,,,0,,America/Los_Angeles,,,0
+12323,,,Peach Tree Clinic (Department),corner: NE; routes: 4B,39.1202181704671,-121.566821336746,,,0,,America/Los_Angeles,,,0
+12387,,,Olivehurst Avenue and 7th Avenue,corner: NE; routes: 3,39.095561179055,-121.551492512226,,,0,,America/Los_Angeles,,,0
+12203,,,Bridge St. and Gray Ave. (Save Mart),corner: NW; routes: 2,39.1324466853224,-121.631146073341,,,0,,America/Los_Angeles,,,0
+2371244,,,Ash St. & Hwy 99,,39.270081766093,-121.65844357342,,https://www.yubasuttertransit.com/live-oak,0,,America/Los_Angeles,,,1
+12408,,,15th Street and N Street,corner: NW; routes: 99/70,38.5741199510573,-121.48853302002,,,0,,America/Los_Angeles,,,0
+12201,,,Gray Avenue and B Street,corner: NE; routes: 2,39.130380658562,-121.629775464535,,,0,,America/Los_Angeles,,,0
+12326,,,North Beale Road and Park Avenue,corner: SE; routes: 38720,39.1274240334707,-121.558404564857,,,0,,America/Los_Angeles,,,0
+12270,,,3rd St between H St and F St,corner: Midblock; routes: 40182,39.137891113794,-121.59317904736,,,0,,America/Los_Angeles,,,0
+12164,,,Forbes Ave. and Clark Ave. (Library),corner: SE; routes: 1,39.1378143265106,-121.624867022038,,,0,,America/Los_Angeles,,,0
+12260,,,Plumas St. and Fremont Hospital,corner: NE; routes: 2,39.1434998350054,-121.617498993874,,,0,,America/Los_Angeles,,,0
+12275,,,14th Street and H Street,corner: SE; routes: 4,39.1497777005769,-121.596384644508,,,0,,America/Los_Angeles,,,0
+12191,,,Lincoln Rd. and Garden Hwy.,corner: SW; routes: 40214,39.1125870176564,-121.618199050426,,,0,,America/Los_Angeles,,,0
+12361,,,Pasado Road and Alicia Avenue,corner: NE; routes: 6,39.1126952372172,-121.570418179035,,,0,,America/Los_Angeles,,,0
+12246,,,Northgate Dr. and Gray Ave.,corner: NE; routes: 2,39.1598444139892,-121.629914939404,,,0,,America/Los_Angeles,,,0
+12213,,,Franklin Road and Walton Ave.,corner: SE; routes: 5,39.127226365861,-121.643218696117,,,0,,America/Los_Angeles,,,0
+12391,,,Olivehurst Avenue and 11th Avenue,corner: NE; routes: 3,39.0883666306524,-121.551731228828,,,0,,America/Los_Angeles,,,0
+758936,,,Evelyn and Johnson Park,,39.0787082112219,-121.537239253521,,,0,,America/Los_Angeles,,,0
+12232,,,Bogue Road and Germaine Drive,corner: NW; routes: 5,39.0983567792019,-121.647558510303,,,0,,America/Los_Angeles,,,0
+12188,,,Garden Hwy. and Winship Rd.,corner: NW; routes: 2,39.1198914650158,-121.616369783878,,,0,,America/Los_Angeles,,,0
+12223,,,Walton Ave. and Tracy Drive,corner: SE; routes: 5,39.1069468836065,-121.643661260605,,,0,,America/Los_Angeles,,,0
+12374,,,Arboga Road and Jay,corner: NW; routes: 3,39.1208299587661,-121.575763821602,,,0,,America/Los_Angeles,,,0
+14933,,,15th St & N St (SB),Buses head SB,38.574248,-121.488479,,,0,,America/Los_Angeles,,,0
+12396,,,McGowan Parkway and Ardmore Avenue,corner: SE; routes: 3,39.0770945287315,-121.549513041973,,,0,,America/Los_Angeles,,,0
+12273,,,H Street and 11th Street,corner: NE; routes: 4,39.146759485859,-121.595982313156,,,0,,America/Los_Angeles,,,0
+12230,,,Bogue Road and South Park,corner: NE; routes: 5,39.0995682408942,-121.621093153954,,,0,,America/Los_Angeles,,,0
+12240,,,Ainsley Ave. and Yuba City Senior Center,,39.1440635761017,-121.628691852093,,,0,,America/Los_Angeles,,,0
+12299,,,Ramirez Street and East 11th Street,corner: NE; routes: 4A/B,39.1478681903854,-121.582375466824,,,0,,America/Los_Angeles,,,0
+12182,,,Wilbur Ave. and Career Placement Center,corner: NW; routes: 2,39.12888259521,-121.611804664135,,,0,,America/Los_Angeles,,,0
+12172,,,Alturas St. and Shasta St.,corner: SW; routes: 1/2/4A,39.1416692054787,-121.616383194923,,,0,,America/Los_Angeles,,,0
+12369,,,Arboga Road and Pasado Road,corner: NE; routes: 3,39.113313334216,-121.564466357231,,,0,,America/Los_Angeles,,,0
+12247,,,Northgate Dr. and Clark Ave.,corner: SE; routes: 2,39.1593244743971,-121.625470519066,,,0,,America/Los_Angeles,,,0
+12385,,,Olivehurst Avenue and 6th Avenue,corner: SW; routes: 3,39.0978155696573,-121.551629304886,,,0,,America/Los_Angeles,,,0
+14936,,,P St & 5th St (WB),Buses head WB,38.575598,-121.503296,,,0,,America/Los_Angeles,,,0
+12244,,,Gray Ave. and Casita Dr.,corner: SW; routes: 2,39.1546198862958,-121.630218029022,,,0,,America/Los_Angeles,,,0

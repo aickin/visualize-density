@@ -1,0 +1,806 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+12716,,,9th St. & G St.,9TH SB G FS,37.63649,-120.9975,860,,0,,America/Los_Angeles,,,0
+12788,,,Litt Rd. & Hillglen Ave.,LITT NB HILLGLEN FS,37.68624,-120.9306,860,,0,,America/Los_Angeles,,,0
+12867,,,Sisk Rd. & Briggsmore Ave.,SISK SB BRIGGSMORE NS,37.66759,-121.033,860,,0,,America/Los_Angeles,,,0
+12767,,,Rose Ave. & Wylie Dr.,ROSE NB WYLIE NS,37.65743,-120.9665,860,,0,,America/Los_Angeles,,,0
+818178,,,Rose Avenue and Brewer Way,,37.6731380698844,-120.966684598221,860,,0,,America/Los_Angeles,,,0
+12673,,,Sylvan Ave. & Hasham Dr.,SYLVAN EB HASHAM FS,37.68887,-120.9598,860,,0,,America/Los_Angeles,,,0
+12954,,,Sylvan Ave. & Dragoo Park Dr.,SYLVAN EB DRAGOO PARK FS,37.68884,-120.9842,860,,0,,America/Los_Angeles,,,0
+12913,,,Tenaya Dr. & Spenker Ave.,TENAYA WB SPENKER FS,37.63247,-120.9594,860,,0,,America/Los_Angeles,,,0
+12892,,,Finch Rd. & Mariposa Rd.,FINCH EB MARIPOSA FS,37.62367,-120.9327,860,,0,,America/Los_Angeles,,,0
+12958,,,Oakdale & Orangeburg,OAKDALE SB ORANGEBURG FS,37.66302,-120.9576,860,,0,,America/Los_Angeles,,,0
+12621,,,McHenry Ave. & Sylvan Ave.,MCHENRY NB SYLVAN FS,37.68951,-120.9942,860,,0,,America/Los_Angeles,,,0
+12766,,,Rose Ave. & Scenic Dr.,ROSE NB SCENIC FS,37.651828,-120.966523,860,,0,,America/Los_Angeles,,,0
+12656,,,Scenic Dr. & Melrose Ave.,SCENIC EB MELROSE NS,37.6462,-120.9868,860,,0,,America/Los_Angeles,,,0
+13062,,,Tully Rd. between Clevenger & Union,TULLY NB CLEVENGER UNION MB,37.69368,-121.0125,860,,0,,America/Los_Angeles,,,0
+13068,,,Dale Rd. & Nightingale Dr.,DALE SB NIGHTINGALE NS,37.69471,-121.05,860,,0,,America/Los_Angeles,,,0
+12602,,,L St. & 7th St.,L EB 7TH NS,37.64008,-121.0056,860,,0,,America/Los_Angeles,,,0
+12732,,,Hatch Rd. & Herndon Rd.,HATCH WB HERNDON NS,37.60941,-120.9717,860,,0,,America/Los_Angeles,,,0
+12607,,,Modesto Jr College East - Virginia Ave & Coldwell Ave.,VIRGINIA NB COLDWELL NS,37.65274,-121.002850379133,860,,0,,America/Los_Angeles,,,0
+13081,,,Pelandale Ave. & Prescott Rd.,PELANDALE EB PRESCOTT FS,37.70035,-121.0309,860,,0,,America/Los_Angeles,,,0
+12877,,,Beverly Dr. & Vernon Ave.,BEVERLY EB VERNON NS,37.62158,-121.0283,860,,0,,America/Los_Angeles,,,0
+12687,,,Floyd Ave. & Orchard Park Way,FLOYD WB ORCHARD PARK FS,37.67825,-120.9548,860,,0,,America/Los_Angeles,,,0
+13011,,,Mt Vernon Dr. & Prescott Rd.,PRESCOTT NB MT VERNON FS,37.67406,-121.0312,860,,0,,America/Los_Angeles,,,0
+13045,,,Tully Rd. & Fordham Ave.,TULLY NB FORDHAM FS,37.65731,-121.0119,860,,0,,America/Los_Angeles,,,0
+12684,,,Floyd Ave. & Roselle Ave.,FLOYD WB ESTA FS,37.67824,-120.94051,860,,0,,America/Los_Angeles,,,0
+13151,,,Coffee Rd. & Coolidge Ave.,COFFEE SB COOLIDGE X,37.66554,-120.9758,860,,0,,America/Los_Angeles,,,0
+13120,,,Coffee Rd. & Scenic Dr.,COFFEE NB SCENIC FS,37.64975,-120.9754,860,,0,,America/Los_Angeles,,,0
+12635,,,McHenry Ave. & Pelandale Ave.,MCHENRY SB PELANDALE NS,37.7003,-120.9947,860,,0,,America/Los_Angeles,,,0
+768663,,,Sutter Ave. & Paradise Rd.,,37.6270584978836,-121.011730262566,860,,0,,America/Los_Angeles,,,0
+12743,,,Herndon Rd. & Hatch Rd.,HERNDON NB HATCH FS,37.609604,-120.974191,860,,0,,America/Los_Angeles,,,0
+13242,,,Orangeburg Ave. & College Ave.,ORANGEBURG WB COLLEGE NS,37.66402,-121.0074,860,,0,,America/Los_Angeles,,,0
+13042,,,9th St. & Campus Way.,9TH NB CAMPUS WAY NS,37.647,-121.0106,860,,0,,America/Los_Angeles,,,0
+12742,,,7th St. between Pecos & Hyw 99,7TH ST SB PECOS 99 MB,37.61277,-120.9822,860,,0,,America/Los_Angeles,,,0
+12824,,,Empire Ave. & Tenaya Dr.,EMPIRE SB TENAYA FS,37.6338,-120.9686,860,,0,,America/Los_Angeles,,,0
+13069,,,Dale & Veneman (NW corner),DALE SB VENEMAN NS,37.68996,-121.05,860,,0,,America/Los_Angeles,,,0
+12789,,,Litt Rd. & Sylvan Ave.,LITT NB SYLVAN NS,37.68776,-120.9306,860,,0,,America/Los_Angeles,,,0
+13272,,,Orangeburg Ave. & Albert Dr.,ORANGEBURG EB ALBERT FS,37.66354,-120.9354,860,,0,,America/Los_Angeles,,,0
+13034,,,College Ave. & Princeton Ave.,COLLEGE SB PRINCETON NS,37.65575,-121.0076,860,,0,,America/Los_Angeles,,,0
+12874,,,Carpenter Rd. & California Ave.,CARPENTER SB CALIFORNIS FS,37.63105,-121.0307,860,,0,,America/Los_Angeles,,,0
+13097,,,Tully Rd. & Princeton Ave.,TULLY SB PRINCETON FS,37.65572,-121.0121,860,,0,,America/Los_Angeles,,,0
+12659,,,Sunrise Ave. & Annabelle Ave.,SUNRISE NB ANNABELLE FS,37.65649,-120.9847,860,,0,,America/Los_Angeles,,,0
+12601,,,Maze Blvd. & Jefferson St.,MAZE EB JEFFERSON NS,37.63861,-121.0091,860,,0,,America/Los_Angeles,,,0
+12726,,,Herndon Rd. & Pecos Ave.,HERNDON SB PECOS NS,37.61685,-120.9754,860,,0,,America/Los_Angeles,,,0
+12703,,,Rose Ave. & Wylie Dr.,ROSE SB WYLIE FS,37.65789,-120.9666,860,,0,,America/Los_Angeles,,,0
+13158,,,J St. & 12th St.,J EB 12TH NS,37.6418,-120.9985,860,,0,,America/Los_Angeles,,,0
+13197,,,Miller Ave. & Maria Ct.,MILLER EB MARIA CT NS,37.64,-120.9656,860,,0,,America/Los_Angeles,,,0
+13118,,,Pelandale Ave. & Honey Creek Rd.,PELANDALE EB HONEY CREEK NS,37.70015,-121.0549,860,,0,,America/Los_Angeles,,,0
+13122,,,Coffee Rd. & Lucern Ave.,COFFEE NB LUCERN FS,37.65303,-120.9755,860,,0,,America/Los_Angeles,,,0
+13275,,,Orangeburg Ave. & Glenbrook Way,ORANGEBURG EB GLENBROOK FS,37.66359,-120.9237,860,,0,,America/Los_Angeles,,,0
+12724,,,Sonora Ave. & Avon St.,SONORA EB AVON FS,37.6202,-120.979,860,,0,,America/Los_Angeles,,,0
+12991,,,Hatch Rd. & Church Ln.,HATCH EB CHURCH FS,37.60942,-120.9823,860,,0,,America/Los_Angeles,,,0
+13110,,,Sisk Rd. & Kiernan Ave.,SISK NB KIERNAN NS,37.70929,-121.0775,860,,0,,America/Los_Angeles,,,0
+12553,,,Modesto HS - Paradise Rd. & Washington St.,PARADISE WB WASHINGTON FS,37.63117,-121.0078,860,,0,,America/Los_Angeles,,,0
+13008,,,Mt Vernon Dr. & Queenaire Ln.,MT VERNON WB QUEENAIRE NS,37.67672,-121.0229,860,,0,,America/Los_Angeles,,,0
+13261,,,Orangeburg Ave. & Coffee Rd.,ORANGEBURG EB COFFEE FS,37.66353,-120.975,860,,0,,America/Los_Angeles,,,0
+12945,,,Rumble Rd. & Conant Ave.,RUMBLE EB CONANT FS,37.68224,-121.0402,860,,0,,America/Los_Angeles,,,0
+807734,,,Roselle Ave. & Merle Ave.,ROSSELLE NB MERLE NS,37.6700998033863,-120.939504288137,,,0,,America/Los_Angeles,,,0
+12652,,,I St. & 14th St.,I EB 14TH FS,37.6424,-120.9951,860,,0,,America/Los_Angeles,,,0
+13141,,,Keller St. & Dorset Ln.,KELLER NB DORSET FS,37.67847,-120.9701,860,,0,,America/Los_Angeles,,,0
+13046,,,Tully Rd. & Roseburg Ave.,TULLY NB ROSEBURG FS,37.66068,-121.012,860,,0,,America/Los_Angeles,,,0
+13336,,,Dublin/Pleasanton BART Station,,37.70166532,-121.898309,,,0,,America/Los_Angeles,,,0
+12592,,,Carpenter Rd. & Hillview Dr.,CARPENTER NB HILLVIEW FS,37.64031,-121.0303,860,,0,,America/Los_Angeles,,,0
+12907,,,Yosemite & Lincoln ,YOSEMITE WB LINCOLN FS,37.63826,-120.9417,860,,0,,America/Los_Angeles,,,0
+12999,,,Roseburg Ave. & College Ave.,ROSEBURG WB COLLEGE FS,37.66036,-121.0083,860,,0,,America/Los_Angeles,,,0
+12662,,,McHenry Village - McHenry & Granger,MCHENRY NB GRANGER FS,37.66755,-120.9939,860,,0,,America/Los_Angeles,,,0
+13252,,,Orangeburg Ave. & Kearney Ave.,ORANGEBURG EB KEARNEY NS,37.66402,-121.0169,860,,0,,America/Los_Angeles,,,0
+12653,,,I St. & 15th St.,I EB 15TH FS,37.64317,-120.9942,860,,0,,America/Los_Angeles,,,0
+13335,,,McHenry Ave. & Auto Center,MCHENRY NB PELANDALE FS  * changed name 6/28/16 per Regina's request,37.700764,-120.99434,860,,0,,America/Los_Angeles,,,0
+12946,,,Rumble Rd. & Prescott Rd.,RUMBLE EB PRESCOTT NS,37.6823,-121.0344,860,,0,,America/Los_Angeles,,,0
+12599,,,Maze Blvd. & Spencer Ave.,MAZE EB SPENCER NS,37.6386,-121.0172,860,,0,,America/Los_Angeles,,,0
+12831,,,Oregon Dr. & Benson Ave.,OREGON WB BENSON NS,37.631056,-120.973121,860,,0,,America/Los_Angeles,,,0
+12756,,,9th St. & B St.,9TH NB B ST FS,37.63437,-120.99468,860,,0,,America/Los_Angeles,,,0
+12690,,,Merle Ave. & Oakdale Rd.,MERLE EB OAKDALE FS,37.67078,-120.9563,860,,0,,America/Los_Angeles,,,0
+12681,,,Millbrook Ave. & Kee Ln..,MILLBROOK SB KEE X,37.68416,-120.9338,860,,0,,America/Los_Angeles,,,0
+13007,,,Carver Rd. & Scott Ave.,CARVER NB SCOTT X,37.67445,-121.0221,860,,0,,America/Los_Angeles,,,0
+12881,,,Rouse Ave. & Sutter Ave.,ROUSE EB SUTTER NS,37.62051,-121.01192,860,,0,,America/Los_Angeles,,,0
+12790,,,Sylvan Ave. & Millbrook Ave. (Enochs High School),SYLVAN WB MILLBROOK FS,37.68916,-120.9362,860,,0,,America/Los_Angeles,,,0
+12745,,,Herndon Rd. & Holm Ave.,HERNDON NB HOLM FS,37.61413,-120.9753,860,,0,,America/Los_Angeles,,,0
+12642,,,College Ave. & Granger Ave.,COLLEGE SB GRANGER FS,37.6673287,-121.0077751,860,,0,,America/Los_Angeles,,,0
+13059,,,Standiford Ave. & Shawnee Dr.,STANDIFORD WB SHAWNEE FS,37.68958,-121.0268,860,,0,,America/Los_Angeles,,,0
+13365,,,McHenry Ave. & Coralwood Rd.,MCHENRY SB CORALWOOD X,37.69747,-120.9946,860,,0,,America/Los_Angeles,,,0
+13049,,,Tully Rd. & Granger Ave.,TULLY NB GRANGER FS,37.66794,-121.0121,860,,0,,America/Los_Angeles,,,0
+13174,,,Standiford Ave. & Colonial Dr.,STANDIFORD WB COLONIAL FS,37.68939,-121.0096,860,,0,,America/Los_Angeles,,,0
+13268,,,Orangeburg Ave. & Sonoma Ave.,ORANGEBURG EB SONOMA NS,37.6635069696596,-120.9488,860,,0,,America/Los_Angeles,,,0
+12813,,,H St. & 13th St.,H WB 13TH NS,37.64088,-120.995,860,,0,,America/Los_Angeles,,,0
+13065,,,Pelandale Ave. & Prescott Rd.,PELANDALE WB PRESCOTT FS,37.7006,-121.0324,860,,0,,America/Los_Angeles,,,0
+12781,,,Floyd Ave. & Oakdale Rd.,FLOYD EB OAKDALE FS,37.67806,-120.9561,860,,0,,America/Los_Angeles,,,0
+13127,,,Coffee Rd. & Coolidge Ave.,COFFEE NB COOLIDGE FS,37.66563,-120.9756,860,,0,,America/Los_Angeles,,,0
+12596,,,Emerald Ave. & Kansas Ave.,EMERALD SB KANSAS FS,37.64567,-121.0211,860,,0,,America/Los_Angeles,,,0
+13923,,,Central Catholic HS - Carpenter & Maze,carpenter nb maze ns,37.6370299835393,-121.030578017235,860,,0,,America/Los_Angeles,,,0
+12977,,,Whitmore Ave. & Dallas St.,WHITMORE WB DALLAS FS,37.59493,-121.00181,860,,0,,America/Los_Angeles,,,0
+13125,,,Coffee Rd. & Brighton Ave.,COFFEE NB BRIGHTON FS,37.65946,-120.9756,860,,0,,America/Los_Angeles,,,0
+13131,,,Mable Ave. & Coffee Rd.,MABLE EB COFFEE FS,37.69609,-120.9752,860,,0,,America/Los_Angeles,,,0
+12740,,,7th St. at BJ Mini Mart,7TH SB BJ MINI MART,37.61966,-120.9899,860,,0,,America/Los_Angeles,,,0
+13000,,,Roseburg Ave. & Tully Rd.,ROSEBURG WB TULLY FS,37.66044,-121.0126,860,,0,,America/Los_Angeles,,,0
+13175,,,Standiford Ave. & Tully Rd.,STANDIFORD EB TULLY FS,37.68926,-121.0121,860,,0,,America/Los_Angeles,,,0
+13109,,,Sisk Rd. & Bangs Ave.,SISK NB BANGS FS,37.7042,-121.0747,860,,0,,America/Los_Angeles,,,0
+12614,,,McHenry Ave. & Norwegian Ave.,MCHENRY NB NORWEGIAN FS,37.67147,-120.9939,860,,0,,America/Los_Angeles,,,0
+13205,,,Lincoln Ave. & Poppypatch Dr.,LINCOLN NB POPPYPATCH FS,37.64288,-120.939,860,,0,,America/Los_Angeles,,,0
+13248,,,Orangeburg Ave. & Evergreen Ave.,ORANGEBURG WB EVERGREEN NS,37.66725,-121.0302,860,,0,,America/Los_Angeles,,,0
+13172,,,Standiford Ave. & Columbine Dr.,STANDIFORD WB COLUMBINE FS,37.68927,-121.0026,860,,0,,America/Los_Angeles,,,0
+758970,,,Finney Rd. & Norris Way,,37.69876,-121.0866,860,,0,,America/Los_Angeles,,,0
+12581,,,Vine St. & Jefferson St.,VINE WB JEFFERSON FS,37.6335,-121.0092,860,,0,,America/Los_Angeles,,,0
+12823,,,Empire Ave. & Mono Dr.,EMPIRE SB MONO NS,37.63559,-120.968,860,,0,,America/Los_Angeles,,,0
+13269,,,Orangeburg Ave. & Eastridge Dr.,ORANGEBURG EB EASTRIDGE NS,37.66351,-120.9451,860,,0,,America/Los_Angeles,,,0
+13278,,,Johansen HS - Creekwood Dr. & Claus Rd.,CREEKWOOD WB CLAUS FS,37.64987,-120.9219,860,,0,,America/Los_Angeles,,,0
+12864,,,Sisk Rd. & Rumble Rd.,SISK SB RUMBLE FS,37.6817,-121.0498,860,,0,,America/Los_Angeles,,,0
+13361,,,Dale Rd. & Pelandale Ave.,DALE NB PELANDALE FS,37.701063001239,-121.050233847885,860,,0,,America/Los_Angeles,,,0
+13076,,,Standiford Ave. & Chancellor Ave.,STANDIFORD EB CHANCELLOR FS,37.6893,-121.0145,860,,0,,America/Los_Angeles,,,0
+13323,,,California Ave. & Champagne Ln.,CALIFORNIA EB CHAMPAGNE NS,37.63135,-121.0276,860,,0,,America/Los_Angeles,,,0
+12992,,,Joyce Ave. & Herndon Rd.,JOYCE WB HERNDON FS,37.61083,-120.9759,860,,0,,America/Los_Angeles,,,0
+13266,,,Orangeburg Ave. & Oakdale Rd.,ORANGEBURG EB OAKDALE FS,37.66353,-120.9561,860,,0,,America/Los_Angeles,,,0
+13246,,,Orangeburg Ave. & Martin Ave.,ORANGEBURN WB MARTIN FS,37.66423,-121.0269,860,,0,,America/Los_Angeles,,,0
+12709,,,I St. & 16th St.,I ST WB 16TH FS,37.64364,-120.9938,860,,0,,America/Los_Angeles,,,0
+12736,,,Crows Landing Rd. & School Ave.,CROWSLANDING NB SCHOOL FS,37.61217,-120.9935,860,,0,,America/Los_Angeles,,,0
+13352,,,Toomes Rd. & Covert Rd.,TOOMES NB COVERT NS,37.703142,-121.09569,860,,0,,America/Los_Angeles,,,0
+13027,,,Carver Rd. & Pearl St.,CARVER SB PEARL FS,37.66581,-121.022,860,,0,,America/Los_Angeles,,,0
+12645,,,Roseburg Ave. between Mills & Virginia,ROSEBURG EB MILLS VIRGINIA MB,37.66023,-121.004,860,,0,,America/Los_Angeles,,,0
+12926,,,Sylvan Ave. & Coffee Rd.,SYLVAN WB COFFEE FS,37.68903,-120.9778,860,,0,,America/Los_Angeles,,,0
+12930,,,Rumble Rd. & Sherwood Ave.,RUMBLE WB SHERWOOD FS,37.68191,-120.9984,860,,0,,America/Los_Angeles,,,0
+13193,,,La Loma & Las Palmas Ave.,LA LOMA SB LAS PALMAS NS,37.64229,-120.979,860,,0,,America/Los_Angeles,,,0
+12951,,,Rumble Rd. & College Ave.,RUMBLE EB COLLEGE NS,37.68204,-121.0045,860,,0,,America/Los_Angeles,,,0
+12727,,,Nadine Ave. & Herndon Rd.,NADINE EB HERNDON FS,37.61299,-120.975,860,,0,,America/Los_Angeles,,,0
+13165,,,McHenry Ave. & Hintze Ave.,MCHENRY NB HINTZE NS,37.65565,-120.9938,860,,0,,America/Los_Angeles,,,0
+12983,,,Glenn Ave. & Ustick Rd.,GLENN EB USTICK FS,37.60164,-121.01113,860,,0,,America/Los_Angeles,,,0
+16228,,,Scenic Eb Rose Ns,,37.65088,-120.9684,860,,0,,America/Los_Angeles,,,0
+12941,,,Rumble Rd. & Sisk Rd.,RUMBLE WB SISK NS,37.6822,-121.0484,860,,0,,America/Los_Angeles,,,0
+13070,,,Standiford Ave. & Conant Ave.,STANDIFORD EB CONA FS,37.68579,-121.0402,860,,0,,America/Los_Angeles,,,0
+13297,,,La Loma & Las Palmas Ave.,LA LOMA NB LAS PALMAS FS,37.6424,-120.9792,860,,0,,America/Los_Angeles,,,0
+12708,,,I St. & 17th St.,I ST WB 17TH NS,37.64466,-120.9924,860,,0,,America/Los_Angeles,,,0
+12931,,,Rumble Rd. & Stafford Way.,RUMBLE WB STAFFORD FS,37.68205178,-121.002174,860,,0,,America/Los_Angeles,,,0
+12587,,,Panama Dr. & Vallecito Way,PANAMA SB VALLECITO FS,37.6282,-121.0233,860,,0,,America/Los_Angeles,,,0
+12858,,,Sisk Rd. & Plaza Pkw.,SISK NB PLAZA PARKWAY FS,37.6720826,-121.03926,860,,0,,America/Los_Angeles,,,0
+12584,,,California Ave. & Spencer Ave.,CALIFORNIA WB SPENCER FS,37.63143,-121.0167,860,,0,,America/Los_Angeles,,,0
+12830,,,Oregon Dr. & Kerr Ave.,OREGON WB KERR NS,37.631017,-120.971701,860,,0,,America/Los_Angeles,,,0
+12833,,,Santa Cruz Ave. & Tenaya Dr.,SANTA CRUZ NB TENAYA FS,37.63392,-120.9747,860,,0,,America/Los_Angeles,,,0
+13161,,,McHenry Ave. & Jones St.,MCHENRY NB JONES NS,37.64639,-120.9937,860,,0,,America/Los_Angeles,,,0
+13350,,,Bacon Rd. & Toomes Rd.,BACON WB TOOMES NS,37.69646,-121.09508,860,,0,,America/Los_Angeles,,,0
+13190,,,G St. & 17th St.,G EB 17TH FS,37.6428,-120.99,860,,0,,America/Los_Angeles,,,0
+12648,,,Modesto Jr. College East - Virginia Ave. & Morris Ave.,VIRGINIA SB MORRIS FS,37.65138,-121.00293,860,,0,,America/Los_Angeles,,,0
+12777,,,Merle Ave. & Temescal Dr.,MERLE WB TEMESCAL FS,37.67084,-120.9443,860,,0,,America/Los_Angeles,,,0
+13357,,,Kaiser Hospital Northbound - Dale Rd.,DALE NB KAISER NS,37.7055184994707,-121.049875889549,860,,0,,America/Los_Angeles,,,0
+12814,,,H St. & 11th St.,H WB 11TH NS,37.63943,-120.9969,860,,0,,America/Los_Angeles,,,0
+12801,,,Floyd Ave. & Edward Ave.,FLOYD WB EDWARD NS,37.6782,-120.987,860,,0,,America/Los_Angeles,,,0
+13254,,,Orangeburg Ave. & College Ave.,ORANGEBURG EB COLLEGE FS,37.66387,-121.0073,860,,0,,America/Los_Angeles,,,0
+13111,,,Elm St. & Broadway Ave.,ELM NB BROADWAY NS,37.70683,-121.0832,860,,0,,America/Los_Angeles,,,0
+12906,,,Yosemite Blvd. & Creekwood Dr.,YOSEMITE WB CREEKWOOD FS,37.63824,-120.926552,860,,0,,America/Los_Angeles,,,0
+12669,,,Coffee Rd. between Floyd & Rumble,COFFEE NB FLOYD RUMBLE MB,37.67969,-120.9758,860,,0,,America/Los_Angeles,,,0
+12735,,,School Ave. & Santa Fe Ave.,SCHOOL WB SANTA FE FS,37.612214,-120.9893,860,,0,,America/Los_Angeles,,,0
+12786,,,Millbrook Ave. & Parkcrest Dr.,MILLBROOK NB PARKCREST FS,37.6812,-120.9331,860,,0,,America/Los_Angeles,,,0
+12778,,,Merle Ave. & Lincoln Oak Dr.,MERLE WB LINCOLN OAK FS,37.67084,-120.9485,860,,0,,America/Los_Angeles,,,0
+12848,,,Beverly Dr. & Paradise Rd.,BEVERLY WB PARADISE NS,37.6217,-121.0213,860,,0,,America/Los_Angeles,,,0
+12627,,,Bangs Ave. & Northstar Way,BANGS WB NORTHSTAR NS,37.70369,-121.0014,860,,0,,America/Los_Angeles,,,0
+13348,,,Finney Rd. @ Canal,FINNEY SB CANAL FS,37.70063,-121.08669,860,,0,,America/Los_Angeles,,,0
+12579,,,I St. & 4th St.,I WB 4TH NS,37.63537,-121.0048,860,,0,,America/Los_Angeles,,,0
+12961,,,El Vista Ave. & Edgebrook Dr.,EL VISTA SB EDGEBROOK NS,37.64995,-120.9575,860,,0,,America/Los_Angeles,,,0
+13338,,,Mall Park & Ride Lot,MALL PARKnRIDE,37.6882913,-121.058362,,,0,,America/Los_Angeles,,,0
+12810,,,Bodem St. & Lucern Ave.,BODEM SM LUCERN FS,37.65241,-120.9851,860,,0,,America/Los_Angeles,,,0
+12917,,,El Vista Ave. & Ada St.,EL VISTA NB ADA NS,37.647,-120.9572,860,,0,,America/Los_Angeles,,,0
+12706,,,Scenic Dr. & Sunnyside Ave.,SCENIC WB SUNNYSIDE FS,37.64957,-120.9739,860,,0,,America/Los_Angeles,,,0
+12915,,,El Vista & Miller ,EL VISTA NB MILLER FS,37.64029,-120.9571,860,,0,,America/Los_Angeles,,,0
+13290,,,Miller Way & Trask Ln.,MILLER WB TRASK FS,37.64007,-120.9529,860,,0,,America/Los_Angeles,,,0
+12828,,,Monterey Ave. & Santa Cruz Ave.,MONTEREY WB SANTA CRUZ NS,37.62734,-120.9746,860,,0,,America/Los_Angeles,,,0
+12671,,,Sylvan & Coffee,SYLVAN EB COFFEE FS,37.68874415,-120.9752862,860,,0,,America/Los_Angeles,,,0
+13273,,,Orangeburg Ave. & Lillian Dr.,ORANGEBURG EB LILLIAN FS,37.66354,-120.9322,860,,0,,America/Los_Angeles,,,0
+12665,,,Norwegian Ave. & Sunny Vista Ave.,NORWEGIAN EB SUNNY VISTA FS,37.671,-120.9792,860,,0,,America/Los_Angeles,,,0
+13245,,,Orangeburg Ave. & Carver Rd.,ORANGEBURG WB CARVER NS,37.66422,-121.0216,860,,0,,America/Los_Angeles,,,0
+13216,,,Held Briggsmore,HELD SB BRIGGSMORE FS,37.66601,-120.9136,860,,0,,America/Los_Angeles,,,0
+12854,,,Carpenter Rd. between Granite & Blue Gum,CARPENTER NB GRANITE BLUE GUM MB,37.65754,-121.031,860,,0,,America/Los_Angeles,,,0
+12676,,,Sylvan Ave. & Aria Way,SYLVAN EB ARIA FS,37.68882,-120.948,860,,0,,America/Los_Angeles,,,0
+13209,,,Ardia Ave. & Redfield Ave.,ARDIA EB REDFIELD FS,37.64678,-120.929,860,,0,,America/Los_Angeles,,,0
+12975,,,Whitmore Ave. & Crows Landing Rd.,WHITMORE WB CROWS LANDING FS,37.59499,-120.994,860,,0,,America/Los_Angeles,,,0
+12815,,,D St. & Yosemite Blvd.,D EB YOSEMITE NS,37.63707,-120.9902,860,,0,,America/Los_Angeles,,,0
+13128,,,Coffee Rd. & Briggsmore Ave.,COFFEE NB BRIGGSMORE FS,37.66803,-120.9755,860,,0,,America/Los_Angeles,,,0
+13075,,,Standiford Ave. & Longbridge Dr.,STANDIFORD EB LONGBRIDGE X,37.68935,-121.0175,860,,0,,America/Los_Angeles,,,0
+12629,,,600 Galaxy Way,NORTHSTART NB GALAXY NS,37.7076070282986,-121.00133784523,860,,0,,America/Los_Angeles,,,0
+13063,,,Tully Rd. & Snyder Ave.,TULLY NB SNYDER FS,37.69904,-121.0126,860,,0,,America/Los_Angeles,,,0
+13101,,,Nightingale Dr. & Gareth Ln.,NIGHTINGALE WB GARETH X,37.69457,-121.0506,860,,0,,America/Los_Angeles,,,0
+13094,,,Tully Rd. & Orangeburg Ave.,TULLY SB ORANGEBURG NS,37.66465,-121.0123,860,,0,,America/Los_Angeles,,,0
+12875,,,Carpenter Rd. & Chicago Ave.,CARPENTER SB CHICAGE FS,37.62411,-121.0305,860,,0,,America/Los_Angeles,,,0
+13054,,,Tully Rd. & Woodrow Ave.,TULLY NB WOODROW FS,37.68552,-121.0125,860,,0,,America/Los_Angeles,,,0
+12680,,,Litt Rd. & Hillglen Ave.,LITT SB HILLGLEN NS,37.68597,-120.9307,860,,0,,America/Los_Angeles,,,0
+12844,,,Roselawn Ave. & Rouse Ave.,ROSELAWN SB ROUSE NS,37.62099,-121.005,860,,0,,America/Los_Angeles,,,0
+12879,,,Rouse Ave. & Hammond St.,ROUSE EB HAMMOND FS,37.6205,-121.0183,860,,0,,America/Los_Angeles,,,0
+13212,,,Johansen HS - Creekwood Dr. & Claus Rd.,CREEKWOOD EB CLAUS NS,37.6499099999999,-120.92225,860,,0,,America/Los_Angeles,,,0
+768667,,,Sutter Ave. & Nian Way,,37.6175249769115,-121.011733703041,860,,0,,America/Los_Angeles,,,0
+13270,,,Orangeburg Ave. & Rimrock Way.,ORANGEBURG EB RIMROCK FS,37.66351,-120.9409,860,,0,,America/Los_Angeles,,,0
+13053,,,Tully Rd. & Rumble Rd. (Davis HS),TULLY NB RUMBLE NS,37.68141,-121.0123,860,,0,,America/Los_Angeles,,,0
+12577,,,7th St. & H St.,7TH NB H FS,37.63658,-121.001,860,,0,,America/Los_Angeles,,,0
+12952,,,Rumble Rd. & Sherwood Ave.,RUMBLE EB SHERWOOD FS,37.68185,-120.998,860,,0,,America/Los_Angeles,,,0
+12785,,,Millbrook Ave. & Floyd Ave.,MILLBROOK NB FLOYD FS,37.6786,-120.9318,860,,0,,America/Los_Angeles,,,0
+12594,,,Carpenter Rd. & Kansas Ave.,CARPENTER NB KANSAS NS,37.64541,-121.0302,860,,0,,America/Los_Angeles,,,0
+13243,,,Orangeburg Ave. & Tully Rd.,ORANGEBURG WB TULLY FS,37.66412,-121.0129,860,,0,,America/Los_Angeles,,,0
+13306,,,Woodland Ave. & McWilliams Way,WOODLAND WB MC WILLAMS NS,37.65326,-121.0285,860,,0,,America/Los_Angeles,,,0
+12868,,,Carpenter Rd. & Blue Gum Ave.,CARPENTER SB BLUE GUM FS,37.66013,-121.0313,860,,0,,America/Los_Angeles,,,0
+13116,,,Pelandale Ave. & Gagos Dr.,PELANDALE EB GAGOS FS,37.70006,-121.0622,860,,0,,America/Los_Angeles,,,0
+13320,,,Paradise Rd. & Vernon Ave.,PARADISE WB VERNON NS,37.61746,-121.0275,860,,0,,America/Los_Angeles,,,0
+13241,,,Orangeburg Ave. & Bronson Ave.,ORANGEBURG WB BRONSON NS,37.66397,-121.0052,860,,0,,America/Los_Angeles,,,0
+13140,,,Floyd Ave. & Rose Ave.,FLOYD WB ROSE FS,37.67808,-120.9673,860,,0,,America/Los_Angeles,,,0
+13072,,,Standiford Ave. & Prescott Rd.,STANDIFORD EB PRESCOTT FS,37.68958,-121.0309,860,,0,,America/Los_Angeles,,,0
+12557,,,Sutter Ave. & Western Way,SUTTER SB WESTERN CHICAGO FS,37.6251899999999,-121.01185364418,860,,0,,America/Los_Angeles,,,0
+13194,,,La Loma & Santa Barbara Ave.,LA LOMA SB SANTA BARBARA FS,37.6407,-120.9751,860,,0,,America/Los_Angeles,,,0
+12967,,,Crows Landing Rd. & Amador Ave.,CROWS LANDING SB AMADOR FS,37.60748,-120.9937,860,,0,,America/Los_Angeles,,,0
+12984,,,Glenn Ave. & Frazier St.,GLENN EB FRAZIER FS,37.60173,-121.0059,860,,0,,America/Los_Angeles,,,0
+13032,,,Roseburg Ave. & Tully Rd.,ROSEBURG EB TULLY FS,37.6604,-121.0115,860,,0,,America/Los_Angeles,,,0
+13359,,,Sisk Rd. Orchard Supply Hardware (OSH),BART OSH LOT SISK,37.68054,-121.04872,,,0,,America/Los_Angeles,,,0
+13078,,,Dale Rd. & Nightingale Dr.,DALE NB NIGHTINGALE NS,37.69405,-121.0498,860,,0,,America/Los_Angeles,,,0
+12612,,,College Ave. & Orangeburg Ave.,COLLEGE NB ORANGEBURG NS,37.66337,-121.0075,860,,0,,America/Los_Angeles,,,0
+12685,,,Floyd Ave. & Temescal Dr.,FLOYD WB TEMESCAL FS,37.67824,-120.945,860,,0,,America/Los_Angeles,,,0
+768659,,,Sutter Ave. (north of Garden),,37.6141097571729,-121.011730262566,860,,0,,America/Los_Angeles,,,0
+13142,,,Keller St. & Rumble Rd.,KELLER NB RUMBLE NS,37.6811,-120.97,860,,0,,America/Los_Angeles,,,0
+12654,,,I Street and 17th NS,17TH SB I FS,37.6441976483074,-120.992810214194,860,,0,,America/Los_Angeles,,,0
+12889,,,Tenaya Dr. between Mitchell & Riverside,TENAYA EB MITCHELL RIVERSIDE MB,37.62852,-120.9522,860,,0,,America/Los_Angeles,,,0
+12827,,,Monterey Ave. & Kerr Ave.,MONTEREY WB KERR FS,37.62733,-120.9719,860,,0,,America/Los_Angeles,,,0
+13136,,,Oakdale Rd. & Mable Ave.,OAKDALE SB MABLE FS,37.69591,-120.9582,860,,0,,America/Los_Angeles,,,0
+12762,,,Scenic Dr. & Bodem St.,SCENIC EB BODEM NS,37.6467,-120.9854,860,,0,,America/Los_Angeles,,,0
+13149,,,Coffee Rd. & Norwegian Ave.,COFFEE SB NORWEGIAN NS,37.67125,-120.9758,860,,0,,America/Los_Angeles,,,0
+12806,,,Orangeburg Ave. & Nelson Ave.,ORANGEBURG EB NELSON NS,37.66357,-120.9888,860,,0,,America/Los_Angeles,,,0
+13302,,,McHenry Ave. & Morris Ave.,MCHENRY SB MORRIS NS,37.65118,-120.9939,860,,0,,America/Los_Angeles,,,0
+13356,,,Gregori High School (Pirrone Rd. & Stoddard Rd.),PIRRONE WB STODDARD NS,37.71849,-121.0661,860,,0,,America/Los_Angeles,,,0
+768662,,,Sutter Ave. & Western Way,,37.625194506462,-121.011691370535,860,,0,,America/Los_Angeles,,,0
+831949,,,Lyell Dr. & Northstar Way,,37.702820122454,-121.000608331836,,,0,,America/Los_Angeles,,,0
+13332,,,Oakdale Rd. & La Force Dr.,OAKDALE SB LAFORCE X,37.683467,-120.95799,860,,0,,America/Los_Angeles,,,0
+13249,,,Orangeburg Ave. & Evergreen Ave.,ORANGEBURG EB EVERGREEN FS,37.66616,-121.0299,860,,0,,America/Los_Angeles,,,0
+12578,,,7th St. & K St.,7TH NB K NS,37.63918,-121.0041,860,,0,,America/Los_Angeles,,,0
+13100,,,Dale & Veneman (SE corner),DALE NB VENEMAN NS,37.68909,-121.0498,860,,0,,America/Los_Angeles,,,0
+13315,,,Carpenter and Woodland,WOODLAND EB CARPENTER FS,37.65314,-121.02943,860,,0,,America/Los_Angeles,,,0
+12651,,,I St. & 12th St.,I EB 12TH NS,37.64077,-120.9973,860,,0,,America/Los_Angeles,,,0
+12964,,,El Vista & Miller ,EL VISTA SB MILLER FS,37.63985,-120.9573,860,,0,,America/Los_Angeles,,,0
+12739,,,7th St. & Blankenburg Ave.,7TH ST SB CROW BLANKENBURG MB,37.62252,-120.992,860,,0,,America/Los_Angeles,,,0
+13347,,,Sequoia St. & Shearer Ave.,SEQUOIA SB SHEARER NS,37.704136,-121.08566,860,,0,,America/Los_Angeles,,,0
+12916,,,El Vista Ave. & Roble Ave.,EL VISTA NB ROBLE FS,37.64347,-120.9572,860,,0,,America/Los_Angeles,,,0
+12575,,,Modesto Hs - G St & 2nd St,G EB 2ND NS,37.6317,-121.00463,860,,0,,America/Los_Angeles,,,0
+13289,,,Miller Ave. & Kingston Ln.,MILLER WB KINGSTON NS,37.64012,-120.9495,860,,0,,America/Los_Angeles,,,0
+12749,,,Sonora Ave. & Avon St.,SONORA WB AVON NS,37.62027,-120.979,860,,0,,America/Los_Angeles,,,0
+13220,,,Orangeburg Ave. & Palmdale Dr.,ORANGEBURG WB PALMDALE FS,37.66364,-120.9276,860,,0,,America/Los_Angeles,,,0
+12839,,,10th St. & F St.,10TH NB F NS,37.63657,-120.9955,860,,0,,America/Los_Angeles,,,0
+12995,,,11th St. & N St.,11TH NB N X,37.64513,-121.0039,860,,0,,America/Los_Angeles,,,0
+13226,,,Orangeburg Ave. & Christiansen Dr.,ORANGEBURG WB CHRISTIANSEN FS,37.6636,-120.9511,860,,0,,America/Los_Angeles,,,0
+12838,,,D St. & 13th St.,D WB 13TH NS,37.63717,-120.9904,860,,0,,America/Los_Angeles,,,0
+13185,,,McHenry Ave. & Stoddard Ave.,MCHENRY SB STODDARD FS,37.64895,-120.9939,860,,0,,America/Los_Angeles,,,0
+12840,,,Mall Back Entrance,,37.68944,-121.0538,860,,0,,America/Los_Angeles,,,0
+13014,,,Standiford Ave. & Hahn Dr. ,,37.68543,-121.04543,860,,0,,America/Los_Angeles,,,0
+13026,,,Carver Rd. & Evergreen Ave.,CARVER SB EVERGREEN FS,37.66748,-121.022,860,,0,,America/Los_Angeles,,,0
+12850,,,Carpenter Rd. & Beverly Dr.,CARPENTER NB BEVERLY FS-TP,37.62164,-121.0303,860,,0,,America/Los_Angeles,,,0
+12672,,,Sylvan & Boyce Beyer HS,SYLVAN EB BOYCE FS,37.68889,-120.9661,860,,0,,America/Los_Angeles,,,0
+12600,,,Maze Blvd. & M.L.King Dr.,MAZE EB MLK BLVD NS,37.63861,-121.012,860,,0,,America/Los_Angeles,,,0
+13038,,,10th St. & N St.,10TH SB N FS,37.64414,-121.0047,860,,0,,America/Los_Angeles,,,0
+13064,,,Pelandale Ave. & Carver Rd.,PELANDALE WB CARVER FS,37.7005,-121.0233,860,,0,,America/Los_Angeles,,,0
+13098,,,Tully between Coldwell & Stoddard (MJC East),TULLY SB COLDWELL STODDARD MB,37.6508,-121.0121,860,,0,,America/Los_Angeles,,,0
+13036,,,College Ave. & Coldwell Ave. (MJC East),COLLEGE SB COLDWELL FS,37.6520907503174,-121.007527374,860,,0,,America/Los_Angeles,,,0
+13250,,,Orangeburg Ave. & Martin Ave.,ORANGEBURG EB MARTIN NS,37.66407,-121.0259,860,,0,,America/Los_Angeles,,,0
+12572,,,Paradise Rd. & Sutter Ave.,PARADISE EB SUTTER NS,37.6273,-121.0124,860,,0,,America/Los_Angeles,,,0
+13180,,,McHenry Ave. & Bowen Ave.,MCHENRY SB BOWEN NS,37.67656,-120.994258,860,,0,,America/Los_Angeles,,,0
+12721,,,Latimer Ave. & Bystrum Rd.,LATIMER EB BYSTRUM FS,37.61845,-120.9841,860,,0,,America/Los_Angeles,,,0
+12576,,,G St. & 4th St.,G EB 4TH NS,37.63311,-121.0026,860,,0,,America/Los_Angeles,,,0
+12887,,,Tenaya Dr. & Airport Way,TENAYA EB AIRPORT WAY FS,37.63239,-120.9589,860,,0,,America/Los_Angeles,,,0
+12725,,,Sonora Ave. & Herndon Rd.,SONORA EB HERNDON NS,37.62019,-120.9756,860,,0,,America/Los_Angeles,,,0
+768666,,,Robertson Rd. & Marlow St.,,37.6131777413194,-121.025776267528,860,,0,,America/Los_Angeles,,,0
+12644,,,Roseburg Ave. & Wellesley Ave.,ROSEBURG EB WELLESLEY NS,37.66028,-121.0067,860,,0,,America/Los_Angeles,,,0
+13024,,,Carver Rd. & Gulfstream Dr.,CARVER SB GULFSTREAM FS,37.67205,-121.0221,860,,0,,America/Los_Angeles,,,0
+12960,,,Oakdale & Scenic ,OAKDALE SB SCENIC NS,37.65524,-120.9576,860,,0,,America/Los_Angeles,,,0
+13238,,,Orangeburg Ave. & McHenry Ave. (Farside),ORANGEBURG WB MCHENRY FS,37.66376,-120.995,860,,0,,America/Los_Angeles,,,0
+12623,,,McHenry Ave. & Coralwood Rd.,MCHENRY NB CORALWOOD NS,37.69513,-120.9943,860,,0,,America/Los_Angeles,,,0
+12679,,,Litt Rd. & Sylvan Ave.,LITT SB SYLVAN FS,37.68836,-120.9308,860,,0,,America/Los_Angeles,,,0
+12927,,,Sylvan Ave. & Dragoo Park Dr.,SYLVAN WB DRAGOO PARK FS,37.6891,-120.9852,860,,0,,America/Los_Angeles,,,0
+12752,,,Latimer Ave. & Bystrum Rd.,LATIMER WB BYSTRUM NS,37.61853,-120.984,860,,0,,America/Los_Angeles,,,0
+12832,,,Santa Cruz Ave. & Oregon Dr.,SANTA CRUZ NB OREGON FS,37.63163,-120.9747,860,,0,,America/Los_Angeles,,,0
+13337,,,ACE Lathrop/Manteca Station,,37.7979065,-121.264007,,,0,,America/Los_Angeles,,,0
+12939,,,Rumble Rd. & Conant Ave.,RUMBLE WB CONANT NS,37.6823,-121.0404,860,,0,,America/Los_Angeles,,,0
+12631,,,Kiernan Ave. & Stratos Way,KIERNAN EB STRATOS FS,37.71103,-120.9998,860,,0,,America/Los_Angeles,,,0
+12563,,,Robertson Rd. & Marlow St.,ROBERTSON WB MARLOW NS,37.61334,-121.0255,860,,0,,America/Los_Angeles,,,0
+12793,,,Sylvan Ave. & Oakdale Rd.,SYLVAN WB OAKDALE FS,37.68911,-120.9586,860,,0,,America/Los_Angeles,,,0
+13208,,,McClure Rd. & Penny Ln.,MCCLURE NB PENNY LANE FS,37.64544,-120.9301,860,,0,,America/Los_Angeles,,,0
+13280,,,Creekwood Dr. & Ardia Ave.,CREEKWOOD SB ARDIA FS,37.64602,-120.9262,860,,0,,America/Los_Angeles,,,0
+12776,,,Roselle Ave. & Briggsmore Ave.,ROSELLE NB BRIGGSMORE FS,37.66767,-120.9393,860,,0,,America/Los_Angeles,,,0
+12558,,,Sutter Ave. & Rouse Ave.,SUTTER SB ROUSE FS,37.62032,-121.0118,860,,0,,America/Los_Angeles,,,0
+13095,,,Tully Rd. & Roseburg Ave.,TULLY SB ROSEBURG FS,37.66016,-121.0122,860,,0,,America/Los_Angeles,,,0
+12905,,,Yosemite Blvd. & Holiday Manor MHP,YOSEMITE WB at HOLIDAY MANOR MHP,37.638264,-120.919316,860,,0,,America/Los_Angeles,,,0
+12666,,,Coffee Rd. & Celeste Dr.,COFFEE NB CELESTE FS,37.67212,-120.9756,860,,0,,America/Los_Angeles,,,0
+12986,,,Dallas St. & Butte Ave.,DALLAS NB BUTTE NS,37.60549,-121.0013,860,,0,,America/Los_Angeles,,,0
+12606,,,Virginia Ave. & Stoddard Ave.,VIRGINIA NB STODDARD FS,37.649341,-121.002818,860,,0,,America/Los_Angeles,,,0
+12695,,,Lakewood Ave. & Orangeburg Ave.,LAKEWOOD SB ORANGEBURG FS,37.66246,-120.9395,860,,0,,America/Los_Angeles,,,0
+13291,,,Miller Ave. & El Vista Ave.,MILLER WB EL VISTA FS,37.64005,-120.9579,860,,0,,America/Los_Angeles,,,0
+12834,,,Santa Cruz Ave. & Yosemite Blvd.,SANTA CRUZ NB YOSEMITE NS,37.63721,-120.9748,860,,0,,America/Los_Angeles,,,0
+13283,,,McClure Rd. & Poppy Patch Dr.,MCCLURE SB POPPY PATCH NS,37.64291,-120.9301,860,,0,,America/Los_Angeles,,,0
+12640,,,McHenry Ave. & Floyd Ave.,MCHENRY SB FLOYD X,37.6783,-120.99432,860,,0,,America/Los_Angeles,,,0
+12552,,,H St. & 4th St.,H WB 4TH FS,37.63403,-121.0041,860,,0,,America/Los_Angeles,,,0
+12803,,,McHenry Village - McHenry & Granger,MCHENRY SB GRANGER NS,37.66748,-120.9941,860,,0,,America/Los_Angeles,,,0
+13292,,,Miller Ave. & Phoenix Ave.,MILLER WB PHONIX FS,37.64015,-120.9625,860,,0,,America/Los_Angeles,,,0
+12683,,,Floyd Ave. & Millbrook Ave.,MILLBROOK SB FLOYD NS,37.67822,-120.93261,860,,0,,America/Los_Angeles,,,0
+13286,,,Lincoln Ave. & Poppypatch Dr.,LINCOLN SB POPPY PATCH FS,37.64241,-120.9391,860,,0,,America/Los_Angeles,,,0
+13082,,,Pelandale Ave. & Carver Rd.,PELANDALE EB CARVER FS,37.70021,-121.0219,860,,0,,America/Los_Angeles,,,0
+12959,,,Oakdale Rd. & Wylie Dr.,OAKDALE SB WYLIE FS,37.65784,-120.9576,860,,0,,America/Los_Angeles,,,0
+12878,,,Beverly Dr. & Paradise Rd.,BEVERLY EB PARADISE NS,37.6216,-121.022,860,,0,,America/Los_Angeles,,,0
+12800,,,Floyd Ave. & Newport Dr.,FLOYD WB NEWPORT X,37.67813,-120.9824,860,,0,,America/Los_Angeles,,,0
+13015,,,Hahn Dr. & Standiford Ave.,HAHN NB STANDIFORD FS,37.68589,-121.0452,860,,0,,America/Los_Angeles,,,0
+12904,,,Arco,YOSEMITE WB B NS ARCO,37.638273,-120.907004,860,,0,,America/Los_Angeles,,,0
+12634,,,McHenry Ave. & Bangs Ave.,MCHENRY SB BANGS NS,37.70436,-120.9948,860,,0,,America/Los_Angeles,,,0
+13333,,,Claus Rd. & Scenic Dr.,CLAUS NB SCENIC FS,37.658062,-120.92099,860,,0,,America/Los_Angeles,,,0
+12733,,,Rio Grande Ave. & Boulder Ave.,RIO GRANDE WB BOULDER FS,37.60974,-120.9865,860,,0,,America/Los_Angeles,,,0
+13310,,,Poust Rd. & Woodland Ave.,POUST NB WOODLAND FS,37.65329,-121.0452,860,,0,,America/Los_Angeles,,,0
+12825,,,Empire Ave. & Oregon Dr.,EMPRIRE SB OREGON NS,37.63116,-120.9687,860,,0,,America/Los_Angeles,,,0
+13132,,,Mable Ave. & Beyer Park Dr.,MABLE EB BEYER PARK NS,37.6961,-120.9715,860,,0,,America/Los_Angeles,,,0
+12661,,,Granger Ave. & Sunrise Ave.,GRANGER WB SUNRISE FS,37.66725,-120.9852,860,,0,,America/Los_Angeles,,,0
+13162,,,McHenry Ave. & Almond Ave.,MCHENRY NB ALMOND NS,37.64856,-120.99369,860,,0,,America/Los_Angeles,,,0
+13144,,,Keller St. & Sylvan Ave.,KELLER NB SYLVAN NS,37.68813,-120.9702,860,,0,,America/Los_Angeles,,,0
+12730,,,Richland Ave. & Hatch Rd.,RICHLAND SB HATCH NS,37.610512,-120.966379930223,860,,0,,America/Los_Angeles,,,0
+13166,,,McHenry Ave. & Fairmont Ave.,MCHENRY NB FAIRMONT NS,37.65715,-120.9938,860,,0,,America/Los_Angeles,,,0
+13312,,,Blue Gum Ave. & Poust Rd.,BLUE GUM EB POUST FS,37.66028,-121.0445,860,,0,,America/Los_Angeles,,,0
+13017,,,Prescott Rd. & Chrysler Dr.,PRESCOTT SB CHRYSLER NS,37.67888,-121.0315,860,,0,,America/Los_Angeles,,,0
+12746,,,Herndon Rd. & Pecos Ave.,HERNDON NB PECOS NS,37.61637,-120.9753,860,,0,,America/Los_Angeles,,,0
+12933,,,Rumble & Tully Davis HS,RUMBLE WB TULLY NS,37.68194,-121.0121,860,,0,,America/Los_Angeles,,,0
+13313,,,Blue Gum at MJC West,BLUE GUM EB ROSEMORE NS,37.66037,-121.0405,860,,0,,America/Los_Angeles,,,0
+12565,,,Carpenter Rd. & Robertson Rd.,CARPENTER NB ROBERTSON FS,37.6135,-121.0302,860,,0,,America/Los_Angeles,,,0
+13327,,,I St. & 2nd St.,I ST EB 2ND FS,37.63383,-121.0065,860,,0,,America/Los_Angeles,,,0
+12704,,,Rose Ave. & Irene Ave.,ROSE SB IRENE FS,37.65454,-120.9665,860,,0,,America/Los_Angeles,,,0
+13018,,,Prescott Rd. & Sharon Way.,PRESCOTT SB SHARON NS,37.67499,-121.0314,860,,0,,America/Los_Angeles,,,0
+12948,,,Rumble Rd. & Hunt Ave.,RUMBLE EB HUNT FS,37.68175,-121.0239,860,,0,,America/Los_Angeles,,,0
+12896,,,Yosemite Blvd. & McClure Rd.,YOSEMITE EB McCLURE FS,37.63812,-120.9303,860,,0,,America/Los_Angeles,,,0
+12912,,,Tenaya Dr. & Mitchell Rd.,TENAYA WB MITCH NS,37.6325,-120.9567,860,,0,,America/Los_Angeles,,,0
+13322,,,Carpenter Rd. & Paradise Rd.,CARPENTER NB PARADISE FS,37.61708,-121.0303,860,,0,,America/Los_Angeles,,,0
+13130,,,Coffee Rd. & Sylvan Meadows Dr.,COFFEE NB SYLVAN MEADOWS NS,37.69103,-120.976,860,,0,,America/Los_Angeles,,,0
+13030,,,Roseburg Ave. & Carver Rd.,ROSEBURG EB CARVER FS,37.66051,-121.0209,860,,0,,America/Los_Angeles,,,0
+12570,,,Paradise Rd. & Mayette Ave.,PARADISE EB MAYETTE,37.62315,-121.0186,860,,0,,America/Los_Angeles,,,0
+12965,,,Crows Landing Rd. & School Ave.,CROWS LANDING SB SCHOOL FS,37.61155,-120.9938,860,,0,,America/Los_Angeles,,,0
+12559,,,Sutter Ave. & Nian Way,SUTTER SB NIAN NS,37.61754,-121.0119,860,,0,,America/Los_Angeles,,,0
+12782,,,Floyd Ave. & Temescal Dr.,FLOYD EB TEMESCAL FS,37.67805,-120.9439,860,,0,,America/Los_Angeles,,,0
+12899,,,1st St. & I St.,1st WB I FS EMPIRE,37.6397,-120.899,860,,0,,America/Los_Angeles,,,0
+13191,,,G St. & Burney St.,G EB BURNEY FS,37.64342,-120.9886,860,,0,,America/Los_Angeles,,,0
+13091,,,Tully Rd. & Ronald Ave.,TULLY SB RONALD NS,37.67216,-121.0123,860,,0,,America/Los_Angeles,,,0
+13326,,,Madison St. & Vine St.,MADISON NB VINE NE,37.6332341,-121.0103,860,,0,,America/Los_Angeles,,,0
+13066,,,Dale Rd. & Pelandale Ave.,DALE SB PELANDALE FS,37.69918,-121.0502,860,,0,,America/Los_Angeles,,,0
+12974,,,Community Services Agency,COMMUNITY SERVICES MAIN SHELTER,37.58771,-120.9918,860,,0,,America/Los_Angeles,,,0
+12852,,,Carpenter Rd. & Torrid Ave.,CARPENTER NB TORRID NS,37.64928,-121.0307,860,,0,,America/Los_Angeles,,,0
+12851,,,Carpenter Rd. & Chicago Ave.,CARPENTER NB CHICAGO FS,37.62535,-121.0304,860,,0,,America/Los_Angeles,,,0
+12936,,,Rumble Rd. & Pembroke Dr.,RUMBLE WB PEMBROKE FS,37.68184,-121.0255,860,,0,,America/Los_Angeles,,,0
+12718,,,9th St. & River Rd.,9TH SB RIVER FS,37.62575,-120.987,860,,0,,America/Los_Angeles,,,0
+12717,,,9th St. & D St.,9TH SB D NS,37.63413,-120.99463,860,,0,,America/Los_Angeles,,,0
+12968,,,Crows Landing Rd. between Butte & Colusa,CROWS LANDING SB BUTTE COLUSA MB,37.60454,-120.9937,860,,0,,America/Los_Angeles,,,0
+12884,,,Roselawn Ave. & South Ave.,ROSELAWN NB SOUTH FS,37.62441,-121.0049,860,,0,,America/Los_Angeles,,,0
+13005,,,Carver Rd. & Barkwood Dr.,CARVER NB BARKWOOD FS,37.66916,-121.022,860,,0,,America/Los_Angeles,,,0
+12784,,,Floyd Ave. & Roselle Ave.,FLOYD EB ROSELLE FS,37.67802,-120.938,860,,0,,America/Los_Angeles,,,0
+12935,,,Rumble Rd. & Radner Way,RUMBLE WB RADNOR FS,37.68186,-121.0235,860,,0,,America/Los_Angeles,,,0
+12802,,,Floyd Ave. & MacDougal St.,FLOYD WB MACDOUGAL FS,37.67822,-120.9917,860,,0,,America/Los_Angeles,,,0
+13052,,,Tully Rd. & Mt Vernon Dr.,TULLY NB MT VERNON NS,37.67645,-121.0123,860,,0,,America/Los_Angeles,,,0
+13304,,,9th St. & Coldwell Ave.,9TH NB TULLY COLDWELL MB,37.6516099999999,-121.015829999999,860,,0,,America/Los_Angeles,,,0
+12853,,,Carpenter Rd. & Woodland Ave.,CARPENTER NB WOODLAND FS,37.65354,-121.031,860,,0,,America/Los_Angeles,,,0
+12842,,,Roselawn Ave. & Tuolumne Blvd.,ROSELAWN SB TUOLUMNE FS,37.62764,-121.005,860,,0,,America/Los_Angeles,,,0
+12820,,,Yosemite Blvd. & Kerr Ave.,YOSEMITE EB KERR FS,37.6381,-120.9709,860,,0,,America/Los_Angeles,,,0
+12787,,,Millbrook Ave. & Kee Ln.,MILLBROOK NB SLEEPY HOLLOW KEE MB,37.68356,-120.9336,860,,0,,America/Los_Angeles,,,0
+13056,,,Standiford Ave. & Tully Rd.,STANDIFORD WB TULLY FS,37.68944,-121.0133,860,,0,,America/Los_Angeles,,,0
+13107,,,Sisk Rd. & Pelandale Ave.,SISK NB PELANDALE NS,37.69856,-121.0689,860,,0,,America/Los_Angeles,,,0
+12942,,,Standiford Ave. & Dale Rd.,STANDIFORD EB DALE FS,37.68526,-121.0482,860,,0,,America/Los_Angeles,,,0
+12675,,,Sylvan Ave. & Wood Sorrel Dr.,SYLVAN EB WOOD SORREL FS,37.68881,-120.9526,860,,0,,America/Los_Angeles,,,0
+13124,,,Coffee Rd. & Fairmont Ave. (Downey High),COFFEE NB FAIRMONT X,37.6574698285237,-120.975514169312,860,,0,,America/Los_Angeles,,,0
+12649,,,Virginia Ave. & Alice St.,VIRGINIA SB ALICE FS,37.647043579905,-121.002911429176,860,,0,,America/Los_Angeles,,,0
+12898,,,Yosemite Blvd. & Abbie St.,YOSEMITE EB ABBIE NS,37.63825,-120.9,860,,0,,America/Los_Angeles,,,0
+12811,,,H St. & 17th St.,H WB 17TH NS,37.64392,-120.9911,860,,0,,America/Los_Angeles,,,0
+13096,,,Tully Rd. & Fordham Ave.,TULLY SB FORDHAM NS,37.65742,-121.0122,860,,0,,America/Los_Angeles,,,0
+12678,,,Enochs HS - Sylvan Ave. & Millbrook Ave.,SYLVAN EB MILLBROOK FS,37.68893,-120.934,860,,0,,America/Los_Angeles,,,0
+13233,,,Orangeburg Ave. & Coffee Rd.,ORANGEBURG WB COFFEE FS,37.66363,-120.977,860,,0,,America/Los_Angeles,,,0
+12761,,,G St. & 16th St.,G EB 16TH NS,37.64181,-120.9911,860,,0,,America/Los_Angeles,,,0
+13351,,,Toomes Rd. & San Tropez Dr.,TOOMES NB SAN TROPEZ FS,37.699165,-121.09563,860,,0,,America/Los_Angeles,,,0
+13173,,,Standiford Ave. Winegarden Dr.,STANDIFORD WB WINEGARDEN FS,37.68933,-121.0058,860,,0,,America/Los_Angeles,,,0
+13181,,,McHenry Ave. between Roseburg & Mensinger,MCHENRY SB ROSEBURG MENSINGER MB,37.65946,-120.994,860,,0,,America/Los_Angeles,,,0
+13108,,,Sisk Rd. & Green Leaf Ct.,SISK NB GREEN LEAF FS,37.701854,-121.0718,860,,0,,America/Los_Angeles,,,0
+12876,,,Carpenter Rd. & Houser Ln.,CARPENTER SB HOUSER FS,37.62736,-121.0306,860,,0,,America/Los_Angeles,,,0
+13259,,,Orangeburg Ave. & El Vecino Ave.,ORANGEBURG EB EL VECINO FS,37.66346,-120.9799,860,,0,,America/Los_Angeles,,,0
+12869,,,Carpenter Rd. & Cummins Dr.,CARPENTER SB CUMMINS FS,37.65715,-121.0313,860,,0,,America/Los_Angeles,,,0
+13206,,,Lincoln Ave. & Penny Ln.,LINCOLN NB PENNY LANE NS,37.64517,-120.939,860,,0,,America/Los_Angeles,,,0
+12646,,,Virginia Ave. & Princeton Ave.,VIRGINIA SB PRINCETON FS,37.65549,-121.003,860,,0,,America/Los_Angeles,,,0
+12805,,,Orangeburg Ave. & McHenry Ave.,ORANGEBURG EB MCHENRY FS,37.66359,-120.9933,860,,0,,America/Los_Angeles,,,0
+13267,,,Orangeburg Ave. & Christiansen Dr.,ORANGEBURG EB CHRISTIANSEN X,37.66354,-120.9514,860,,0,,America/Los_Angeles,,,0
+13228,,,Orangeburg Ave. & Oakdale Rd.,ORANGEBURG WB OAKDALE FS,37.66358,-120.9587,860,,0,,America/Los_Angeles,,,0
+12609,,,Virginia Ave. & Roseburg Ave.,VIRGINIA NB ROSEBURG NS,37.65961,-121.003,860,,0,,America/Los_Angeles,,,0
+12799,,,Floyd Ave. & Coffee Rd.,FLOYD WB COFFEE FS,37.6780699999999,-120.97685,860,,0,,America/Los_Angeles,,,0
+13126,,,Coffee Rd. & Orangeburg Ave.,COFFEE NB ORANGEBURG NS,37.6636,-120.9756,860,,0,,America/Los_Angeles,,,0
+13251,,,Orangeburg Ave. & Carver Rd.,ORANGEBURG EB CARVER FS,37.6640309097222,-121.022301528767,860,,0,,America/Los_Angeles,,,0
+12595,,,Kansas Ave. & Lone Palm Ave.,KANSAS EB LONE PALM NS,37.64594,-121.0232,860,,0,,America/Los_Angeles,,,0
+13247,,,Orangeburg Ave. between Martin & Evergreen,ORANGEBURG WB MARTIN EVERGREEN MB,37.66518,-121.0285,860,,0,,America/Los_Angeles,,,0
+12780,,,Oakdale Rd. & Manor Oak Dr.,OAKDALE NB MANOR OAK FS,37.67467,-120.9576,860,,0,,America/Los_Angeles,,,0
+12650,,,12th St. & M St.,12TH SB M NS,37.64495,-121.002,860,,0,,America/Los_Angeles,,,0
+12872,,,Carpenter Rd. & Kansas Ave.,CAPTENTER SB KANSAS NS,37.64548,-121.0304,860,,0,,America/Los_Angeles,,,0
+13263,,,Orangeburg Ave. & Rose Ave.,ORANGEBURG EB ROSE FS,37.66362,-120.966,860,,0,,America/Los_Angeles,,,0
+12699,,,Surrey Ave. & McGuire Dr.,SURREY WB MCGUIRE NS,37.65624,-120.9516,860,,0,,America/Los_Angeles,,,0
+12804,,,McHenry Ave. & Coolidge Ave.,MCHENRY SB COOLIDGE NS,37.66585,-120.994,860,,0,,America/Los_Angeles,,,0
+12953,,,Sylvan Ave. & Mchenry Ave.,SYLVAN EB MCHENRY FS,37.689,-120.99373,860,,0,,America/Los_Angeles,,,0
+13086,,,Tully Rd. & Woodrow Ave.,TULLY SB WOODROW FS,37.68558,-121.0126,860,,0,,America/Los_Angeles,,,0
+12641,,,McHenry Ave. & Bowen Ave.,MCHENRY SB BOWEN FS,37.6731699999999,-120.9943,860,,0,,America/Los_Angeles,,,0
+13093,,,Tully Rd. & Granger Ave.,TULLY SB GRANGER FS,37.66746,-121.0123,860,,0,,America/Los_Angeles,,,0
+12630,,,Stratos Way & Galaxy Way,STRATOS NB GALAXY FS,37.70795,-121.0001,860,,0,,America/Los_Angeles,,,0
+12598,,,Emerald Ave. between Laurel & Mathia,EMERALD SB LAUREL MATHIA MB,37.64083,-121.0211,860,,0,,America/Los_Angeles,,,0
+12835,,,Yosemite & Santa Ana,YOSEMITE WB SANTA ANA NS,37.63833,-120.9761,860,,0,,America/Los_Angeles,,,0
+12694,,,Lakewood Ave. & Briggsmore Ave.,LAKEWOOD SB BRIGGSMORE FS,37.66647,-120.9395,860,,0,,America/Los_Angeles,,,0
+13331,,,Roseburg Ave. & Kearney Ave.,ROSEBURG WB KEARNEY NS,37.6605,-121.016,860,,0,,America/Los_Angeles,,,0
+13117,,,Pelandale Ave. & Blue Bird Dr.,PELANDALE EB BLUE BIRD FS,37.70011,-121.0584,860,,0,,America/Los_Angeles,,,0
+12597,,,Emerald Ave. & Elm Ave.,EMERALD SB ELM FS,37.64298,-121.0212,860,,0,,America/Los_Angeles,,,0
+12759,,,G St. & 12th St.,G EB 12TH NS,37.63895,-120.995,860,,0,,America/Los_Angeles,,,0
+12925,,,Oakdale Rd. between Floyd & Sylvan,OAKDALE NB FLOYD SYLVAN MB,37.68409,-120.9577,860,,0,,America/Los_Angeles,,,0
+12707,,,Scenic Dr. & Bodem St.,SCENIC WB BODEM FS,37.64668,-120.986,860,,0,,America/Los_Angeles,,,0
+13318,,,Paradise Rd. & Florette Ave.,PARADISE WB FLORETTE NS,37.62465,-121.0168,860,,0,,America/Los_Angeles,,,0
+12667,,,Coffee Rd. & Athens Ave.,COFFEE NB ATHENS FS,37.67427,-120.9757,860,,0,,America/Los_Angeles,,,0
+12910,,,Tenaya & Riverside,TENAYA WB RIVERSIDE FS,37.62739,-120.9499,860,,0,,America/Los_Angeles,,,0
+13080,,,Dale Rd. & Pelandale Ave.,DALE NB PELANDALE NS,37.69851,-121.0498,860,,0,,America/Los_Angeles,,,0
+13271,,,Orangeburg Ave. & Lakewood Ave.,ORANGEBURG EB LAKEWOOD FS,37.66351,-120.9389,860,,0,,America/Los_Angeles,,,0
+12608,,,Virginia Ave. & Griswold Ave.,VIRGINIA NB GRISWOLD NS,37.65555,-121.0029,860,,0,,America/Los_Angeles,,,0
+12719,,,9th St. & Hosemer Ave.,9TH SB HOSMER NS,37.62291,-120.9863,860,,0,,America/Los_Angeles,,,0
+12769,,,Wylie Dr. & Oakdale Rd.,WYLIE EB OAKDALE NS,37.658,-120.9586,860,,0,,America/Los_Angeles,,,0
+13314,,,Blue Gum Ave. & Pritchard Ave.,BLUE GUM EB PRICHARD FS,37.66041,-121.0373,860,,0,,America/Los_Angeles,,,0
+13103,,,Nightingale Dr. & Cardinal Ct.,NIGHTINGALE WB CARDINAL CT NS,37.69328,-121.0576,860,,0,,America/Los_Angeles,,,0
+13157,,,Coffee Rd. & Scenic Dr.,COFFEE SB SCENIC NS,37.64964,-120.9756,860,,0,,America/Los_Angeles,,,0
+13303,,,Miller Ave. & Camellia Way,MILLER EB CAMELLIA FS,37.6401,-120.9704,860,,0,,America/Los_Angeles,,,0
+13058,,,Standiford Ave. & Carver Rd.,STANDIFORD WB CARVER FS,37.68954,-121.0229,860,,0,,America/Los_Angeles,,,0
+13155,,,Coffee Rd. & Locke Rd.,COFFEE SB LOCKE NS,37.65477,-120.9757,860,,0,,America/Los_Angeles,,,0
+12582,,,Madison St. & Walnut St.,MADISON SB WALNUT NS,37.63261,-121.0105,860,,0,,America/Los_Angeles,,,0
+13043,,,Tully between Stoddard & Coldwell (MJC East),TULLY NB STODDARD COLDWELL MB,37.65132,-121.0119,860,,0,,America/Los_Angeles,,,0
+12593,,,Carpenter Rd. & Elm Ave.,CARPENTER NB ELM FS,37.64353,-121.0301,860,,0,,America/Los_Angeles,,,0
+13047,,,Tully Rd. & Orangeburg Ave.,TULLY NB ORANGEBURG NS,37.66326,-121.012,860,,0,,America/Los_Angeles,,,0
+12551,,,I St. & 7th St.,I WB 7TH FS,37.63726,-121.0023,860,,0,,America/Los_Angeles,,,0
+12615,,,McHenry Ave. & Tokay Ave.,MCHENRY NB TOKAY FS,37.67308,-120.9939,860,,0,,America/Los_Angeles,,,0
+13002,,,Roseburg Ave. & Carver Rd.,ROSEBURG WB CARVER NS,37.66053,-121.0216,860,,0,,America/Los_Angeles,,,0
+13223,,,Orangeburg Ave. & Lakewood Ave.,ORANGEBURG WB LAKEWOOD FS,37.66357,-120.9397,860,,0,,America/Los_Angeles,,,0
+12589,,,Carpenter Rd. & Houser Ln.,CARPENTER NB HOUSER FS,37.628,-121.0304,860,,0,,America/Los_Angeles,,,0
+12973,,,CSA Public Safety Center,CSA SHERIFF PUBLIC SAFETY CTR,37.58695,-120.9908,860,,0,,America/Los_Angeles,,,0
+13020,,,Mt Vernon Dr. & Girard Ave.,MT VERNON EB GIRARD FS,37.67453,-121.0281,860,,0,,America/Los_Angeles,,,0
+12880,,,Rouse Ave. & Mamilane,ROUSE EB MAMILANE NS,37.62055,-121.0176,860,,0,,America/Los_Angeles,,,0
+12911,,,Tenaya Dr. between Riverside & Mitchell,TENAYA WB MITCHELL RIVERSIDE MB,37.62962,-120.954,860,,0,,America/Los_Angeles,,,0
+13167,,,McHenry Ave. & Roseburg Ave.,MCHENRY NB ROSEBURG FS,37.66029,-120.9938,860,,0,,America/Los_Angeles,,,0
+12937,,,Rumble Rd. & Holiday Ln.,RUMBLE WB HOLIDAY NS,37.68222,-121.033,860,,0,,America/Los_Angeles,,,0
+12886,,,Tenaya Dr. & Daly Ave.,TENAYA EB DALY X,37.63276,-120.9631,860,,0,,America/Los_Angeles,,,0
+13354,,,Covert Rd. & St Jean Pl.,COVERT EB ST JEAN PLACE FS,37.703525,-121.08858,860,,0,,America/Los_Angeles,,,0
+12737,,,Crows Landing Rd. & Blankenburg Ave.,CROWSLANDING NB BLANKENBURG FS,37.62146,-120.9935,860,,0,,America/Los_Angeles,,,0
+12921,,,Oakdale Rd. & Morningside Dr.,OAKDALE NB MORNINGSIDE FS,37.6606,-120.9574,860,,0,,America/Los_Angeles,,,0
+13285,,,Poppy Patch Dr. & Whitehorn Dr.,POPPY PATCH WB WHITEHORN X,37.64265,-120.9364,860,,0,,America/Los_Angeles,,,0
+13004,,,Carver Rd. & Orangeburg Ave.,CARVER NB ORANGEBURG FS,37.664427,-121.0219,860,,0,,America/Los_Angeles,,,0
+12818,,,Yosemite Blvd. & Santa Rita Ave.,YOSEMITE EB SANTA RITA FS,37.63816,-120.9775,860,,0,,America/Los_Angeles,,,0
+13152,,,Coffee Rd. & Orangeburg Ave.,COFFEE SB ORANGEBURG FS,37.66332,-120.9757,860,,0,,America/Los_Angeles,,,0
+12677,,,Sylvan Ave. & McReynolds Ave.,SYLVAN EB MCREYNOLDS FS,37.68883,-120.9436,860,,0,,America/Los_Angeles,,,0
+13299,,,La Loma & James St.,LA LOMA NB JAMES FS,37.64406,-120.9879,860,,0,,America/Los_Angeles,,,0
+13010,,,Mt Vernon Dr. & Girard Ave.,MT VERNON WB GIRARD X,37.67439,-121.0283,860,,0,,America/Los_Angeles,,,0
+13019,,,Mt Vernon Dr. & Prescott Rd.,MT VERNON EB PRESCOTT FS,37.67353,-121.0308,860,,0,,America/Los_Angeles,,,0
+12674,,,Sylvan Ave. & Oakdale Rd.,SYLVAN EB OAKDALE FS,37.68885,-120.9568,860,,0,,America/Los_Angeles,,,0
+13258,,,Orangeburg Ave. & Ford Ave.,ORANGEBURG EB FORD FS,37.66353,-120.9834,860,,0,,America/Los_Angeles,,,0
+12993,,,11th St. & K St.,11TH NB K FS,37.64244,-121.0007,860,,0,,America/Los_Angeles,,,0
+12639,,,McHenry Ave. & Rumble Rd.,MCHENRY SB RUMBLE FS,37.68092,-120.9943,860,,0,,America/Los_Angeles,,,0
+13061,,,Standiford Ave. & Prescott Rd.,STANDIFORD WB PRESCOTT FS,37.68983,-121.0319,860,,0,,America/Los_Angeles,,,0
+12701,,,Wylie Dr. & Oakdale Rd.,WYLIE WB OAKDALE FS,37.6581,-120.9583,860,,0,,America/Los_Angeles,,,0
+13055,,,Tully Rd. & Standiford Ave.,TULLY NB STANDIFORD FS,37.690381,-121.012438,860,,0,,America/Los_Angeles,,,0
+12990,,,Hatch Rd. & Jim Way,HATCH EB JIM WAY NS,37.60944,-120.9856,860,,0,,America/Los_Angeles,,,0
+12779,,,Merle Ave. & Bailey Dr.,MERLE WB BAILEY FS,37.67086,-120.9541,860,,0,,America/Los_Angeles,,,0
+13031,,,Roseburg Ave. & Kearney Ave.,ROSEBURG EB KEARNEY FS,37.66045,-121.0164,860,,0,,America/Los_Angeles,,,0
+13178,,,Standiford Ave. & Polaris St.,STANDIFORD EB POLARIS ST FS,37.68914,-121.0015,860,,0,,America/Los_Angeles,,,0
+13123,,,Coffee Rd. & Locke Rd.,COFFEE NB LOCKE FS,37.65478,-120.9755,860,,0,,America/Los_Angeles,,,0
+12845,,,Rouse Ave. & Leon Ave.,ROUSE WB LEON NS,37.62063,-121.0094,860,,0,,America/Los_Angeles,,,0
+12863,,,Dale & Veneman (SW corner),DALE SB VENEMAN FS,37.68859,-121.05,860,,0,,America/Los_Angeles,,,0
+13169,,,McHenry Ave. & Coolidge Ave.,MCHENRY NB COOLIDGE FS,37.66577,-120.9939,860,,0,,America/Los_Angeles,,,0
+13074,,,Standiford Ave. & Carver Rd.,STANDIFORD EB CARVER FS,37.68937,-121.0219,860,,0,,America/Los_Angeles,,,0
+12696,,,Lakewood Ave. & Middleboro Pl.,MIDDLEBORO WB LAKEWOOD FS,37.65834,-120.9397,860,,0,,America/Los_Angeles,,,0
+12561,,,Robertson Rd. & Marseille Ln.,ROBERTSON WB MARSEILLE FS,37.61339,-121.0159,860,,0,,America/Los_Angeles,,,0
+12843,,,Roselawn Ave. & South Ave.,ROSELAWN SB SOUTH NS,37.62449,-121.005,860,,0,,America/Los_Angeles,,,0
+12731,,,JFK / Howard Training Center,STONUM NB HATCH FS,37.61027,-120.9616,860,,0,,America/Los_Angeles,,,0
+12890,,,Tenaya & Riverside,TENAYA EB RIVERSIDE NS,37.62694,-120.9487,860,,0,,America/Los_Angeles,,,0
+13222,,,Orangeburg Ave. & Desert Willow Ln.,ORNAGEBURG WB DESERT WILLOW FS,37.6636,-120.9346,860,,0,,America/Los_Angeles,,,0
+13154,,,Coffee & Fairmont (Downey High),,37.65696,-120.9757,860,,0,,America/Los_Angeles,,,0
+12957,,,Oakdale Rd. & Lancey Dr.,OAKDALE SB LANCEY FS,37.66915,-120.9577,860,,0,,America/Los_Angeles,,,0
+768658,,,Robertson & Hays Iglesia Bautista,,37.6132367558028,-121.015917434359,860,,0,,America/Los_Angeles,,,0
+13023,,,Carver Rd. & Scott Ave.,CARVER SB SCOTT NS,37.67482,-121.0222,860,,0,,America/Los_Angeles,,,0
+13296,,,La Loma & Santa Barbara Ave.,LA LOMA NB SANTA BARBARA FS,37.64101,-120.9758,860,,0,,America/Los_Angeles,,,0
+12705,,,Scenic Dr. & Rose Ave.,SCENIC WB ROSE FS,37.65104,-120.9684,860,,0,,America/Los_Angeles,,,0
+13105,,,Sisk Rd. & Vintage Dr.,SISK NB VINTAGE FS,37.69164,-121.0627,860,,0,,America/Los_Angeles,,,0
+12619,,,McHenry Ave. & Rumble Rd.,MCHENRY NB RUMBLE FS,37.68221,-120.994,860,,0,,America/Los_Angeles,,,0
+13113,,,Salida Library - Sisk Rd. & Kiernan Ave.,SISK KIERNAN SALIDA LIBRARY,37.708976,-121.0776,860,,0,,America/Los_Angeles,,,0
+13257,,,Orangeburg Ave. & Alma Ave.,ORANGEBURG EB ALMA NS,37.66365,-120.9955,860,,0,,America/Los_Angeles,,,0
+13227,,,Orangeburg Ave. & Oakdale Rd.,ORANGEBURG WB OAKDALE NS,37.66362,-120.9563,860,,0,,America/Los_Angeles,,,0
+12962,,,El Vista Ave. & Moran Ave.,EL VISTA SB MORAN NS,37.64696,-120.9574,860,,0,,America/Los_Angeles,,,0
+2332338,,,D St. & 10th St,D EB – 10th NS,37.634637,-120.993475,860,,0,,America/Los_Angeles,,,0
+13183,,,McHenry Ave. & Griswold Ave.,MCHENRY SB GRISWOLD NS,37.65564,-120.994,860,,0,,America/Los_Angeles,,,0
+12792,,,Sylvan Ave. & Aria Way,SYLVAN WB ARIA X,37.68908,-120.9493,860,,0,,America/Los_Angeles,,,0
+12758,,,10th St & H St.,10TH SB H FS,37.63828,-120.9978,860,,0,,America/Los_Angeles,,,0
+13048,,,Tully Rd. & Pearl St.,TULLY NB PEARL NS,37.6657,-121.0121,860,,0,,America/Los_Angeles,,,0
+12947,,,Rumble Rd. & Prescott Rd.,RUMBLE EB PRESCOTT FS,37.681833,-121.0306,860,,0,,America/Los_Angeles,,,0
+13294,,,Miller Ave. & Rosina Ave.,MILLER WB ROSINA FS,37.64013,-120.9689,860,,0,,America/Los_Angeles,,,0
+12798,,,Coffee Rd. & Rumble Rd.,COFFEE SB RUMBLE FS,37.68139,-120.9761,860,,0,,America/Los_Angeles,,,0
+12938,,,Rumble Rd. & Ashland Way,RUMBLE WB ASHLAND FS,37.68233,-121.0379,860,,0,,America/Los_Angeles,,,0
+13349,,,Bacon Rd. & Royal Windsor Dr.,BACON WB ROYAL WINDSOR FS,37.696432,-121.09135,860,,0,,America/Los_Angeles,,,0
+13177,,,Standiford Ave. & Tierra Ct.,STANDIFORD EB TIERRA CT FS,37.6892,-121.0057,860,,0,,America/Los_Angeles,,,0
+12591,,,Central Catholic HS - Carpenter & Maze,CARPENTER NB MAZE NS,37.63701,-121.0304,860,,0,,America/Los_Angeles,,,0
+12568,,,Paradise Rd. & Pine Tree Ln.,PARADISE EB PINE TREE FS,37.62003,-121.0232,860,,0,,America/Los_Angeles,,,0
+12808,,,Sunrise Ave. & Palm Ave.,SUNRISE SB PALM FS,37.65895,-120.9848,860,,0,,America/Los_Angeles,,,0
+13044,,,Tully Rd. & Yale Ave.,TULLY NB YALE NS,37.65401,-121.0119,860,,0,,America/Los_Angeles,,,0
+13308,,,Woodland Ave. & Emigrant Way,WOODLAND WB EMIGRANT FS,37.65319,-121.0372,860,,0,,America/Los_Angeles,,,0
+12796,,,Coffee & Sylvan,COFFEE SB SYLVAN FS,37.6882,-120.9762,860,,0,,America/Los_Angeles,,,0
+13040,,,9th St. & K St.,9TH NB K FS,37.6409,-121.0026,860,,0,,America/Los_Angeles,,,0
+12611,,,College Ave. & Roseburg Ave.,COLLEGE NB ROSEBURG FS,37.66056,-121.0075,860,,0,,America/Los_Angeles,,,0
+13188,,,J St. & 13th St.,J WB 13TH FS,37.64259,-120.9977,860,,0,,America/Los_Angeles,,,0
+13171,,,Standiford Ave. & McHenry Ave.,STANDIFORD WB MCHENRY FS,37.68922,-120.9955,860,,0,,America/Los_Angeles,,,0
+12751,,,Latimer Ave. & Fallen Leaf Ln.,LATIMER WB FALLEN LEAD NS,37.61851,-120.9823,860,,0,,America/Los_Angeles,,,0
+12702,,,Wylie Dr. & Muirwood Way,WYLIE WB MUIRWOOD FS,37.65811,-120.9623,860,,0,,America/Los_Angeles,,,0
+12616,,,McHenry Ave. & Mark Randy Pl.,MCHENRY NB MARK RANDY NS,37.67486,-120.9939,860,,0,,America/Los_Angeles,,,0
+13239,,,Orangeburg Ave. & Sherwood Ave.,ORANGEBURG WB SHERWOOD NS,37.66385,-120.9983,860,,0,,America/Los_Angeles,,,0
+13133,,,Mable Ave. & Northview Dr.,MABLE EB NORTHVIEW FS,37.69613,-120.9684,860,,0,,America/Los_Angeles,,,0
+2428370,,,Staniford Ave. & Hahn Dr.,STANDIFORD WB HAHN FS,37.685535226213,-121.04542838975,,,0,,America/Los_Angeles,,,0
+13255,,,Orangeburg Ave .& Virginia Corridor,ORANGEBURG EB VIRGINIA CORRIDOR NS,37.6638,-121.0034,860,,0,,America/Los_Angeles,,,0
+13334,,,Sunrise Ave. & Edison Ave.,SUNRISE NB EDISON FS,37.658954,-120.9846,860,,0,,America/Los_Angeles,,,0
+12698,,,Surrey Ave. & Sonoma Ave.,SURREY WB SONOMA NS,37.65622,-120.9482,860,,0,,America/Los_Angeles,,,0
+12855,,,Carpenter Rd. & Blue Gum Ave.,CARPENTER NB BLUE GUM NS,37.66013,-121.031,860,,0,,America/Los_Angeles,,,0
+12794,,,Sylvan & Boyce Beyer HS,SYLVAN WB BOYCE FS,37.68911,-120.9671,860,,0,,America/Los_Angeles,,,0
+12847,,,Rouse Ave. & Josilane,ROUSE WB JOSILANE FS,37.62056,-121.0163,860,,0,,America/Los_Angeles,,,0
+13114,,,Sisk Rd. & Bangs Ave.,SISK SB BANGS NS,37.70407,-121.0749,860,,0,,America/Los_Angeles,,,0
+768647,,,McHenry Ave. & Morris Ave.,,37.6508226115009,-120.993666647816,860,,0,,America/Los_Angeles,,,0
+12573,,,Paradise Rd. & Leon Ave.,PARADISE EB LEON NS,37.629433,-121.009733,860,,0,,America/Los_Angeles,,,0
+12613,,,College Ave. & Granger Ave.,COLLEGE NB GRANGER NS,37.66735,-121.0076,860,,0,,America/Los_Angeles,,,0
+12632,,,McHenry Ave. & Kiernan Ave.,KIERNAN EB MCHENRY NS,37.71093,-120.9961,860,,0,,America/Los_Angeles,,,0
+12856,,,Sisk Rd. & Briggsmore Ave.,SISK NB BRIGGSMORE FS,37.6683,-121.0346,860,,0,,America/Los_Angeles,,,0
+12969,,,Crows Landing Rd. & Glenn Ave.,CROWS LANDING SB GLENN FS,37.6013,-120.9937,860,,0,,America/Los_Angeles,,,0
+12744,,,Herndon Rd. & Eugene Ave.,HERNDON NB EUGENE FS,37.61213,-120.9753,860,,0,,America/Los_Angeles,,,0
+12711,,,I St. & 11th St.,I ST WB 11TH FS,37.64014,-120.9985,860,,0,,America/Los_Angeles,,,0
+13060,,,Standiford Ave. & San Clemente Ave.,STANDIFORD WB SAN CLEMENTE NS,37.68962,-121.0287,860,,0,,America/Los_Angeles,,,0
+758971,,,Va Clinic - Oakdale Rd. & Morningside Dr.,,37.66042,-120.9576,860,,0,,America/Los_Angeles,,,0
+12764,,,Scenic Dr. & Coffee Rd.,SCENIC EB COFFEE FS,37.64905,-120.9748,860,,0,,America/Los_Angeles,,,0
+13210,,,Ardia Ave. & Creekwood Dr.,ARDIA EB CREEKWOOD NS,37.64623,-120.9263,860,,0,,America/Los_Angeles,,,0
+12970,,,Crows Landing Rd. & Algen Ave.,CROWS LANDING SB ALGEN FS,37.5985,-120.9937,860,,0,,America/Los_Angeles,,,0
+12882,,,Rouse Ave. & Colorado Ave.,ROUSE EB COLORADO NS,37.62054,-121.0074,860,,0,,America/Los_Angeles,,,0
+13353,,,Covert Rd. & Overland Pl.,COVERT EB OVERLAND FS,37.703563,-121.09226,860,,0,,America/Los_Angeles,,,0
+12637,,,McHenry Ave. & Standiford Ave.,MCHENRY SB STANDIFORD FS,37.68809,-120.9944,860,,0,,America/Los_Angeles,,,0
+13282,,,Mechalys Way & McClure Rd.,MECHALYS WB MCCLURE NS,37.64486,-120.9296,860,,0,,America/Los_Angeles,,,0
+13148,,,Coffee Rd. & Athens Ave.,COFFEE SB ATHENS NS,37.67443,-120.9758,860,,0,,America/Los_Angeles,,,0
+13037,,,College Ave. & Needham St.,COLLEGE SB NEEDHAM NS,37.64688,-121.0067,860,,0,,America/Los_Angeles,,,0
+13309,,,Woodland Ave. & Dan West Ct.,woodland wb dan west ct fs,37.65314,-121.0413,860,,0,,America/Los_Angeles,,,0
+12760,,,G St. & 14th St.,G EB 14TH FS,37.64063,-120.9928,860,,0,,America/Los_Angeles,,,0
+13202,,,Miller Ave. & Kingston Ln.,MILLER EB KINGSTON,37.64001,-120.9498,860,,0,,America/Los_Angeles,,,0
+12956,,,Oakdale Rd. & Celeste Dr.,OAKDALE SB CELESTE FS,37.67207,-120.9578,860,,0,,America/Los_Angeles,,,0
+12963,,,El Vista Ave. & Roble Ave.,EL VISTA SB ROBLE FS,37.64336,-120.9574,860,,0,,America/Los_Angeles,,,0
+13025,,,Carver Rd. & Joann Ave.,CARVER SB JOANN FS,37.67043,-121.0221,860,,0,,America/Los_Angeles,,,0
+13164,,,McHenry Ave. & Frances Ave.,MCHENRY NB FRANCES FS,37.65379,-120.9937,860,,0,,America/Los_Angeles,,,0
+13115,,,Pelandale Ave. & Sisk Rd.,PELANDALE EB SISK FS,37.69999,-121.0678,860,,0,,America/Los_Angeles,,,0
+12865,,,Sisk Rd. & Brenner Way.,SISK SB BRENNER FS,37.6785,-121.0473,860,,0,,America/Los_Angeles,,,0
+12693,,,Roselle Ave. & Merle Ave.,ROSELLE SB MERLE FS,37.6703244538389,-120.939801251147,860,,0,,America/Los_Angeles,,,0
+12562,,,Robertson Rd & Hancock Across,ROBERTSON WB HANCOCK ACROSS,37.61332,-121.0218,860,,0,,America/Los_Angeles,,,0
+12857,,,Sisk Rd. & Plaza Pkw.,SISK NB PLAZA PARKWAY NS,37.66994,-121.0368,860,,0,,America/Los_Angeles,,,0
+12979,,,Tucson Ave. & Whitmore Ave.,TUCSON NB WHITMORE FS,37.5954,-121.0143,860,,0,,America/Los_Angeles,,,0
+13003,,,Carver Rd. & Clayton Ave.,CARVER NB CLAYTON NS,37.66209,-121.0219,860,,0,,America/Los_Angeles,,,0
+12554,,,H St. & 2nd St.,H WB 2ND FS,37.63269,-121.0059,860,,0,,America/Los_Angeles,,,0
+13237,,,Orangeburg Ave. & McHenry Ave.,ORANGEBURG WB MCHENRY NS,37.66373,-120.99307,860,,0,,America/Los_Angeles,,,0
+807735,,,Sylvan Ave. & Litt Rd.,SYLVAN WB LITT FS,37.689163,-120.931795,,,0,,America/Los_Angeles,,,0
+12816,,,Yosemite Blvd. & Morton Blvd.,YOSEMITE EB MORTON NS,37.63742078,-120.9847954,860,,0,,America/Los_Angeles,,,0
+12741,,,7th St. & Pecos Ave.,7TH ST SB PECOS FS,37.61605,-120.9859,860,,0,,America/Los_Angeles,,,0
+12626,,,Bangs Ave. & Spyres Way,BANGS WB SPYRES FS,37.70369,-120.9987,860,,0,,America/Los_Angeles,,,0
+13160,,,J St. & 16th St.,J EB 16TH FS,37.64487,-120.9943,860,,0,,America/Los_Angeles,,,0
+13198,,,Miller Ave. & Phoenix Ave.,MILLER EB PHOENIX NS,37.63999488,-120.9626797,860,,0,,America/Los_Angeles,,,0
+12610,,,Roseburg Ave. at Roseburg Square,ROSEBURG WB ROSEBURG SQUARE,37.66027,-121.0047,860,,0,,America/Los_Angeles,,,0
+13057,,,Standiford Ave. & Longbridge Dr.,STANDIFORD WB LONGBRIDGE NS,37.6895,-121.0174,860,,0,,America/Los_Angeles,,,0
+13211,,,Creekwood Dr. & Edenton Ln.,CREEKWOOD NB EDENTON FS,37.64743,-120.9261,860,,0,,America/Los_Angeles,,,0
+12897,,,Johansen HS - Creekwood Dr. & Claus Rd.,CREEKWOOD EB CLAUS JHS,37.64972,-120.9196,860,,0,,America/Los_Angeles,,,0
+13236,,,Orangeburg Ave. & Nelson Ave.,ORANGEBURG WB NELSON NS,37.6637,-120.9879,860,,0,,America/Los_Angeles,,,0
+13028,,,Carver Rd. & Orangeburg Ave.,CARV SB ORANGEBURG FS,37.6636,-121.022,860,,0,,America/Los_Angeles,,,0
+13079,,,Dale Rd. & Snyder Ave.,DALE NB SNYDER NS,37.69651,-121.0499,860,,0,,America/Los_Angeles,,,0
+12918,,,El Vista Ave. & Edgebrook Dr.,EL VISTA NB EDGEBROOK NS,37.65019,-120.9572,860,,0,,America/Los_Angeles,,,0
+13276,,,Claus Rd. & Orangeburg Ave.,CLAUS SB ORANGEBURG FS,37.66317,-120.9214,860,,0,,America/Los_Angeles,,,0
+13029,,,Carver Rd. & Barbara Way,CARVER SB BARBARA WAY NS,37.66146,-121.022,860,,0,,America/Los_Angeles,,,0
+13260,,,Orangeburg Ave. & Allen Dr.,ORANGEBURG EB ALLEN NS,37.66348,-120.9782,860,,0,,America/Los_Angeles,,,0
+13099,,,9th St. & O St.,9TH SB O NS,37.64491,-121.0075,860,,0,,America/Los_Angeles,,,0
+12636,,,McHenry Ave. & Union Ave.,MCHENRY SB W UNION FS,37.69302,-120.9945,860,,0,,America/Los_Angeles,,,0
+13192,,,La Loma & Morton Blvd.,LA LOMA SB MORTON FS,37.64352,-120.9851,860,,0,,America/Los_Angeles,,,0
+13145,,,Floyd Ave. & Keller St.,FLOYD WB KELLER FS,37.67807,-120.9704,860,,0,,America/Los_Angeles,,,0
+12888,,,Tenaya Dr. & Signature Office,TENAYA EB at SIGNATURE FRUIT OFFICE,37.63061,-120.9559,860,,0,,America/Los_Angeles,,,0
+13006,,,Carver Rd. & Gulfstream Dr.,CARVER NB GULFSTREAM FS,37.67188,-121.0221,860,,0,,America/Los_Angeles,,,0
+13073,,,Standiford Ave. & Shawnee Dr.,STANDIFORD EB SHAWNEE FS,37.68944,-121.0262,860,,0,,America/Los_Angeles,,,0
+13139,,,Floyd Ave. & Marina Dr.,FLOYD WB MARINA DRIVE NS,37.6781,-120.9609,860,,0,,America/Los_Angeles,,,0
+12944,,,Conant Ave. & Standiford Ave.,CONANT SB STANDIFORD FS,37.68444,-121.0406,860,,0,,America/Los_Angeles,,,0
+13087,,,Tully Rd. & Morada Dr.,TULLY SB MORADA FS,37.68374,-121.0125,860,,0,,America/Los_Angeles,,,0
+12550,,,Downtown Transit Center,,37.638953,-121.00107,860,,0,,America/Los_Angeles,,,0
+13182,,,McHenry Ave. & Fairmont Ave.,MCHENRY SB FAIRMONT FS,37.65714,-120.994,860,,0,,America/Los_Angeles,,,0
+12903,,,Santa Fe Ave. & Yosemite Blvd.,SANTA FE NB YOSEMITE NS,37.636289,-120.90253,860,,0,,America/Los_Angeles,,,0
+13176,,,Standiford Ave. & Colonial Dr.,STANDIFORD EB COLONIAL FS,37.68922,-121.0087,860,,0,,America/Los_Angeles,,,0
+13138,,,Oakdale & Floyd ,FLOYD WB OAKDALE FS,37.6781,-120.9582,860,,0,,America/Los_Angeles,,,0
+12932,,,Rumble Rd. & Napier Dr.,RUMBLE WB NAPIER NS,37.68201,-121.0057,860,,0,,America/Los_Angeles,,,0
+12620,,,McHenry Ave. & Robinhood Dr.,MCHENRY NB ROBINHOOD NS,37.68513,-120.9941,860,,0,,America/Los_Angeles,,,0
+12914,,,Yosemite & Rosina,YOSEMITE WB ROSINA FS,37.63829,-120.969,860,,0,,America/Los_Angeles,,,0
+12775,,,Lakewood Ave. & Orangeburg Ave.,LAKEWOOD NB ORANGEBURG FS,37.66385,-120.9392121,860,,0,,America/Los_Angeles,,,0
+13196,,,Miller Ave. & Ferguson Ave.,MILLER EB FERGUSON X,37.64003,-120.9676,860,,0,,America/Los_Angeles,,,0
+12807,,,Orangeburg & Sunrise (Elliott Ed Ctr),ORANGEBURG EB SUNRISE NS,37.66357,-120.9852,860,,0,,America/Los_Angeles,,,0
+12988,,,Hatch Rd. between Cascade & Canal,HATCH EB CASCADE CANAL MB,37.60941,-120.9971,860,,0,,America/Los_Angeles,,,0
+13195,,,Miller Ave. & Santa Cruz Ave.,MILLER EB SANTA CRUZ FS,37.64013,-120.9736,860,,0,,America/Los_Angeles,,,0
+12934,,,Rumble Rd. & Secrest Way,RUMBLE WB SECREST NS,37.68217,-121.0167,860,,0,,America/Los_Angeles,,,0
+13307,,,Woodland Ave. & Watts Ave.,WOODLAND WB WATTS FS,37.65323,-121.0335,860,,0,,America/Los_Angeles,,,0
+12555,,,Paradise Rd. & Ash St.,PARADISE WB ASH FS,37.6292,-121.0102,860,,0,,America/Los_Angeles,,,0
+768657,,,Robertson & Hancock,,37.6132088227641,-121.020586300421,860,,0,,America/Los_Angeles,,,0
+13262,,,Orangeburg Ave. & Lorry Ave.,ORANGEBURG EB LORRY NS,37.6634796,-120.97094,860,,0,,America/Los_Angeles,,,0
+12883,,,Roselawn Ave. & Rouse Ave.,ROSELAWN NB ROUSE FS,37.62121,-121.0049,860,,0,,America/Los_Angeles,,,0
+12909,,,Riverside Dr. & Nathan Ave.,RIVERSIDE SB NATHAN NS,37.6316,-120.9481,860,,0,,America/Los_Angeles,,,0
+12908,,,Riverside Dr. & Lapham Dr.,RIVERSIDE SB LAPHAM FS,37.637793,-120.9481,860,,0,,America/Los_Angeles,,,0
+12950,,,Rumble & Tully Davis HS,RUMBLE EB TULLY NS,37.68207,-121.012,860,,0,,America/Los_Angeles,,,0
+13215,,,Amtrak Station - Held Dr. & Briggsmore Ave.,HELD NB AMTRAK STATION,37.66918,-120.9134,860,,0,,America/Los_Angeles,,,0
+13316,,,Woodland Ave. & Graphics Dr.,WOODLAND EB GRAPHICS FS,37.65315,-121.0206,860,,0,,America/Los_Angeles,,,0
+12750,,,Latimer Ave. & Avon St.,LATIMER WB AVON FS,37.61847,-120.9796,860,,0,,America/Los_Angeles,,,0
+12714,,,Coffee Rd. & Rumble Rd.,COFFEE NB RUMBLE FS,37.68207,-120.9759,860,,0,,America/Los_Angeles,,,0
+13189,,,J St. & 11th St.,J WB 11TH FS,37.64116,-120.9996,860,,0,,America/Los_Angeles,,,0
+12617,,,McHenry Ave. & Sheila Ct.,MCHENRY NB SHEILA NS,37.67653,-120.994,860,,0,,America/Los_Angeles,,,0
+13321,,,Paradise Rd. & Pine Tree Ln.,PARADISE WB PINE TREE NS,37.62009,-121.0234,860,,0,,America/Los_Angeles,,,0
+13288,,,Yosemite Blvd. & Riverside Dr.,YOSEMITE WB RIVERSIDE NS,37.63821,-120.94705,860,,0,,America/Los_Angeles,,,0
+13156,,,Coffee Rd. & Lucern Ave.,COFFEE SB LUCERN NS,37.65282,-120.9757,860,,0,,America/Los_Angeles,,,0
+13129,,,Coffee Rd. & Sylvan Ave.,COFFEE NB SYLVAN FS,37.689514263747,-120.975948347338,860,,0,,America/Los_Angeles,,,0
+12655,,,Burney St. & LaLoma Ave.,BURNEY NB LA LOMA NS,37.64408,-120.9889,860,,0,,America/Los_Angeles,,,0
+768661,,,Sutter Ave. & Rouse Ave.,,37.6207932080384,-121.011688688326,860,,0,,America/Los_Angeles,,,0
+13089,,,Tully Rd. & Mt Vernon Dr.,TULLY SB MT VERNON FS,37.67686,-121.0124,860,,0,,America/Los_Angeles,,,0
+12586,,,California Ave. & Panama Dr.,PANAMA SB IONE FS,37.63055,-121.0233,860,,0,,America/Los_Angeles,,,0
+13159,,,J St. & 14th St.,J EB 14TH FS,37.64357,-120.9962,860,,0,,America/Los_Angeles,,,0
+12658,,,Sunrise Ave. & Lucern Ave.,SUNRISE NB LUCERN FS,37.65292,-120.9847,860,,0,,America/Los_Angeles,,,0
+12987,,,Dallas St. & Hatch Rd.,DALLAS NB HATCH NS,37.60885,-121.00127,860,,0,,America/Los_Angeles,,,0
+13203,,,Riverside Dr. & Miller Ave.,RIVERSIDE SB MILLER FS,37.63932,-120.9482,860,,0,,America/Los_Angeles,,,0
+13067,,,Dale Rd. & Snyder Ave.,DALE SB SNYDER FS,37.6963,-121.0501,860,,0,,America/Los_Angeles,,,0
+13041,,,9th St. & O St.,9TH NB O FS,37.64479,-121.0071,860,,0,,America/Los_Angeles,,,0
+12871,,,Carpenter Rd. & Torrid Ave.,CARPENTER SB TORRID FS,37.64929,-121.0311,860,,0,,America/Los_Angeles,,,0
+12922,,,Oakdale & Orangeburg,OAKDALE NB ORANGEBURG NS,37.66325,-120.9574,860,,0,,America/Los_Angeles,,,0
+12748,,,Sonora Ave. & Herndon Rd.,SONORA WB HERNDON FS,37.6202,-120.9753,860,,0,,America/Los_Angeles,,,0
+13360,,,Kiernan Ave. & Nutcracker Ln.,KIERNAN EB NUTCRACKER FS,37.71086,-121.07221,860,,0,,America/Los_Angeles,,,0
+12893,,,Garner & Yosemite,GARNER NB YOSEMITE NS,37.63193,-120.923,860,,0,,America/Los_Angeles,,,0
+13090,,,Tully Rd. & Bowen Ave.,TULLY SB BOWEN FS,37.67382,-121.0124,860,,0,,America/Los_Angeles,,,0
+13112,,,Kiernan Ave. & Sisk Rd.,KIERNAN EB SISK NS,37.71038,-121.0789,860,,0,,America/Los_Angeles,,,0
+13317,,,Paradise/Sutter (Paradise Medical),PARADISE WB SUTTER FS,37.62683,-121.0134,860,,0,,America/Los_Angeles,,,0
+13218,,,Orangeburg Ave. & Prospect Ln.,ORANGEBURG WB PROSPECT NS,37.66391,-120.9162,860,,0,,America/Los_Angeles,,,0
+12728,,,Nadine Ave. & Musick Ave.,NADINE EB MUSICK FS,37.61297,-120.9705,860,,0,,America/Los_Angeles,,,0
+13088,,,Tully Rd. & Levon Ave. (Davis HS),TULLY SB LEVON FS,37.68016,-121.0125,860,,0,,America/Los_Angeles,,,0
+13232,,,Orangeburg Ave. & Gary Ln.,ORANGEBURG WB GARY FS,37.66363,-120.9728,860,,0,,America/Los_Angeles,,,0
+12713,,,Granger Ave. & McHenry Ave.,GRANGER WB MCHENRY NS,37.6673,-120.9911,860,,0,,America/Los_Angeles,,,0
+12809,,,Sunrise Ave. & Burke Ave.,SUNRISE SB BURKE X,37.65575,-120.9847,860,,0,,America/Los_Angeles,,,0
+12949,,,Rumble Rd. between Campbell & Thornton,RUMBLE EB CAMPBELL THORNTON MB,37.68153,-121.0199,860,,0,,America/Los_Angeles,,,0
+12829,,,Santa Cruz Ave. & Larkin Ave.,SANTA CRUZ NB LARKIN NS,37.62907,-120.9747,860,,0,,America/Los_Angeles,,,0
+13256,,,Orangeburg Ave. & Enslen Ave.,ORANGEBURG EB ENSLEN NS,37.66376,-121.0014,860,,0,,America/Los_Angeles,,,0
+12859,,,Sisk Rd. & Earl St.,SISK NB EARL FS,37.67671,-121.0449,860,,0,,America/Los_Angeles,,,0
+12795,,,Sylvan Ave. & Forest Glenn Dr.,SYLVAN WB FOREST GLENN FS,37.689,-120.972,860,,0,,America/Los_Angeles,,,0
+12692,,,Merle Ave. & Pantaleo Dr.,MERLE EB PANTALEO NS,37.67078,-120.9453,860,,0,,America/Los_Angeles,,,0
+12985,,,Glenn Ave. & Dallas St.,GLENN EB DALLAS NS,37.60219,-121.0015,860,,0,,America/Los_Angeles,,,0
+13277,,,Claus Rd. & Cedar Creek Dr.,CLAUS SB CEDAR CREEK FS,37.65982,-120.9214,860,,0,,America/Los_Angeles,,,0
+13084,,,Tully Rd. between Clevenger & Union,TULLY SB CLEVENGER UNION MB,37.69346,-121.0127,860,,0,,America/Los_Angeles,,,0
+12940,,,Rumble Rd. & Hahn Dr.,RUMBLE WB HAHN NS,37.68226,-121.045,860,,0,,America/Los_Angeles,,,0
+12919,,,Oakdale & Scenic ,OAKDALE NB SCENIC FS,37.65451,-120.9573,860,,0,,America/Los_Angeles,,,0
+13013,,,Standiford Ave. & Conant Ave.,STANDIFORD WB CONANT FS,37.68586,-121.041,860,,0,,America/Los_Angeles,,,0
+13298,,,La Loma & Bonita Ave.,LA LOMA NB BONITA NS,37.64322,-120.9813,860,,0,,America/Los_Angeles,,,0
+12604,,,12th St. & M St.,12TH NB M NS,37.64471,-121.0016,860,,0,,America/Los_Angeles,,,0
+13217,,,Orangeburg Ave. & Held Dr.,ORANGEBURG WB HELD FS,37.66365,-120.9133,860,,0,,America/Los_Angeles,,,0
+13153,,,Coffee Rd. & Gloria Way,COFFEE SB GLORIA FS,37.66059,-120.9758,860,,0,,America/Los_Angeles,,,0
+13199,,,Miller Ave. & Parry Ave.,MILLER EB PARRY FS,37.64005,-120.9593,860,,0,,America/Los_Angeles,,,0
+12928,,,Sylvan Ave. & Bridgeford Ln.,SYLVAN WB BRIDGEFORD FS,37.68919,-120.9918,860,,0,,America/Los_Angeles,,,0
+13230,,,Orangeburg Ave. & Rose Ave.,ORANGEBURG WB ROSE FS,37.66368,-120.9671,860,,0,,America/Los_Angeles,,,0
+13168,,,McHenry Ave. & Orangeburg Ave.,MCHENRY NB ORANGEBURG FS,37.66402,-120.9939,860,,0,,America/Los_Angeles,,,0
+12923,,,Oakdale Rd. & Merle Ave.,OAKDALE NB MERLE NS,37.66999,-120.9575,860,,0,,America/Los_Angeles,,,0
+13224,,,Orangeburg Ave. & Eastridge Dr.,ORANGEBURG WB EASTRIDGE X,37.66357,-120.9449,860,,0,,America/Los_Angeles,,,0
+12722,,,Latimer Ave. & Fallen Leaf Ln.,LATIMER EB FALLEN LEAF FS,37.61844,-120.9821,860,,0,,America/Los_Angeles,,,0
+13213,,,Claus Rd. & Orangeburg Ave.,CLAUS NB ORANGEBURG FS,37.66402,-120.9212,860,,0,,America/Los_Angeles,,,0
+12560,,,Sutter Ave. & Robertson Rd.,SUTTER SB ROBERTSON NS,37.61458,-121.0118,860,,0,,America/Los_Angeles,,,0
+13219,,,Orangeburg Ave. & Claus Rd.,ORANGEBURG WB CLAUS FS,37.66369,-120.9218,860,,0,,America/Los_Angeles,,,0
+12689,,,Oakdale Rd. & Manor Oak Dr.,OAKDALE SB MANOR OAK X,37.67461,-120.9578,860,,0,,America/Los_Angeles,,,0
+13021,,,Mt Vernon Dr. & Debonaire Dr.,MT VERNON EB DEBONAIRE FS,37.67625855,-121.0259073,860,,0,,America/Los_Angeles,,,0
+13284,,,Poppy Patch D.r & Hubert Dr.,POPPY PATCH WB HUBERT FS,37.64262,-120.9339,860,,0,,America/Los_Angeles,,,0
+13083,,,Tully Rd. & Pelandale Ave.,TULLY SB PELANDALE FS,37.69971,-121.0128,860,,0,,America/Los_Angeles,,,0
+12670,,,Coffee Rd. & Thorsen Ave.,COFFEE NB THORSEN FS,37.685284117236,-120.975893367851,860,,0,,America/Los_Angeles,,,0
+12763,,,Scenic Dr. & County Health Services Agency,SCENIC EB COUNTY HSA MED CTR,37.64712,-120.9821,860,,0,,America/Los_Angeles,,,0
+13244,,,Orangeburg Ave. & Kearney Ave.,ORANGEBURG WB KEARNEY FS,37.66416,-121.017,860,,0,,America/Los_Angeles,,,0
+12920,,,Oakdale Rd. & Wylie Dr.,OAKDALE NB WYLIE FS,37.65833,-120.9573,860,,0,,America/Los_Angeles,,,0
+13293,,,Miller Ave. & Conejo Ave.,MILLER WB CONEJO NS,37.64006,-120.9658,860,,0,,America/Los_Angeles,,,0
+12571,,,Paradise Rd. & Chicago Ave.,PARADISE EB CHICAGO NS,37.62588,-121.0146,860,,0,,America/Los_Angeles,,,0
+13265,,,Orangeburg Ave. & Oakdale Rd.,ORANGEBURG EB OAKDALE NS,37.66356,-120.9586,860,,0,,America/Los_Angeles,,,0
+13207,,,Penny Ln. & Hubert Dr.,PENNY LANE EB HUBERT NS,37.64529,-120.9337,860,,0,,America/Los_Angeles,,,0
+13324,,,California Ave. & Panama Dr.,CALIFORNIA EB PANAMA FS,37.63139,-121.0202,860,,0,,America/Los_Angeles,,,0
+13287,,,Lincoln Ave. & Yosemite Blvd,LINCOLN SB YOSEMITE NS,37.63964,-120.9391,860,,0,,America/Los_Angeles,,,0
+12873,,,Carpenter Rd. & Elm Ave.,CARPENTER SB ELM FS,37.64079,-121.0306,860,,0,,America/Los_Angeles,,,0
+12866,,,Sisk Rd. & Plaza Pkw.,SISK SB PLAZA PARKWAY X,37.67073,-121.038,860,,0,,America/Los_Angeles,,,0
+12605,,,Virginia Ave. & Alice St.,VIRGINIA NB ALICE FS,37.6475,-121.0027,860,,0,,America/Los_Angeles,,,0
+12891,,,Finch Rd. at Signature Plant 7,FINCH EB at SIGNATURE PLANT 7,37.62362,-120.9391,860,,0,,America/Los_Angeles,,,0
+12846,,,Rouse Ave. & Sutter Ave.,ROUSE WB SUTTER FS,37.6206,-121.0122,860,,0,,America/Los_Angeles,,,0
+13186,,,McHenry Ave. & Needham St.,MCHENRY SB NEEDHAM NS,37.64587,-120.9938,860,,0,,America/Los_Angeles,,,0
+12900,,,G St. & Yosemite Blvd.,G SB YOSEMITE NS,37.6385,-120.901178,860,,0,,America/Los_Angeles,,,0
+13328,,,I St. & 4th St.,I ST EB 4TH NS,37.63506,-121.0049,860,,0,,America/Los_Angeles,,,0
+12976,,,Whitmore Ave. & Trevose Dr.,WHITMORE WB TREVOSE FS,37.595,-120.9986,860,,0,,America/Los_Angeles,,,0
+13279,,,Creekwood Dr. & Dry Creek Dr.,CREEKWOOD SB DRY CREEK FS,37.64846,-120.9261,860,,0,,America/Los_Angeles,,,0
+12580,,,I St. & 2nd St.,I WB 2ND NS,37.63393,-121.0067,860,,0,,America/Los_Angeles,,,0
+12955,,,Oakdale Rd. & Sylvan Ave.,OAKDALE SB SYLVAN FS,37.68826,-120.9581,860,,0,,America/Los_Angeles,,,0
+13039,,,10th St. & L St.,10TH SB L NS,37.64257,-121.0028,860,,0,,America/Los_Angeles,,,0
+12996,,,Needham St. & College Ave. ,NEEDHAM WB COLLEGE NS,37.645957,-121.00635,860,,0,,America/Los_Angeles,,,0
+12583,,,California Ave. & MLK Dr.,CALIFORNIA WB MLK DR FS,37.63146,-121.012,860,,0,,America/Los_Angeles,,,0
+12989,,,Hatch Rd. & Crows Landing Rd.,HATCH EB CROWS LANDING FS,37.60935,-120.9931,860,,0,,America/Los_Angeles,,,0
+12971,,,Crows Landing Rd. & Whitmore Ave.,CROWS LANDING SB WHITMORE NS,37.59521,-120.9937,860,,0,,America/Los_Angeles,,,0
+12566,,,Paradise Rd. & Carpenter Rd.,PARADISE EB CARPENTER FS,37.61654,-121.0299,860,,0,,America/Los_Angeles,,,0
+13319,,,Paradise Rd. & Mayette Ave.,PARADISE WB MAYETTE NS,37.62319,-121.0188,860,,0,,America/Los_Angeles,,,0
+12774,,,Middleboro Pl. & Lakewood Ave.,MIDDLEBORO EB LAKEWOOD NS,37.65825,-120.9397,860,,0,,America/Los_Angeles,,,0
+12812,,,H St. & 15th St.,H WB 15TH NS,37.64237,-120.993,860,,0,,America/Los_Angeles,,,0
+12755,,,9th St. & River Rd.,9TH NB RIVER ROAD NS,37.62548,-120.9867,860,,0,,America/Los_Angeles,,,0
+12981,,,Tucson Ave. & Lassen Ave.,TUCSON NB LASSEN NS,37.599,-121.0143,860,,0,,America/Los_Angeles,,,0
+13012,,,Prescott Rd. & Chrysler Dr.,PRESCOTT NB CHRYSLER FS,37.67862,-121.0313,860,,0,,America/Los_Angeles,,,0
+13134,,,Mable Ave. & Palmwood MHP,MABLE EB PALMWOOD FS MHP,37.69619,-120.9627,860,,0,,America/Los_Angeles,,,0
+12822,,,Empire & Yosemite,EMPIRE SB YOSEMITE FS,37.637906,-120.96796,860,,0,,America/Los_Angeles,,,0
+12894,,,Yosemite Blvd. & Beard Ave.,YOSEMITE EB BEARD FS,37.638181,-120.9435,860,,0,,America/Los_Angeles,,,0
+13121,,,Coffee Rd. & Morris Ave.,COFFEE NB MORRIS X,37.65157,-120.9755,860,,0,,America/Los_Angeles,,,0
+13179,,,Standiford Ave. & Sherwood Ave.,STANDIFORD EB SHERWOOD MCHENRY MB,37.68907,-120.9959,860,,0,,America/Los_Angeles,,,0
+12712,,,Granger Ave. & Honeysuckle Dr.,GRANGER WB HONEYSUCKLE FS,37.66729,-120.989362,860,,0,,America/Los_Angeles,,,0
+12638,,,McHenry Ave. & Woodrow Ave.,MCHENRY SB WOODROW FS,37.68456,-120.9944,860,,0,,America/Los_Angeles,,,0
+12773,,,Middleboro Pl. & Eastridge Dr.,MIDDLEBORO EB EASTRIDGE FS,37.6583,-120.9439,860,,0,,America/Los_Angeles,,,0
+12738,,,7th St. & Crows Landing Rd.,7TH ST SB CROWSLANDING FS,37.62391,-120.9926,860,,0,,America/Los_Angeles,,,0
+12734,,,Santa Fe Ave. & Rio Grande Ave.,SANTA FE NB RIO GRANDE FS,37.60987,-120.9891,860,,0,,America/Los_Angeles,,,0
+12723,,,Latimer Ave. & Avon St.,LATIMER EV AVON NS,37.61841,-120.9796,860,,0,,America/Los_Angeles,,,0
+12628,,,Northstar Way & Glass Ln.,NORTHSTAR NB GLASS NS,37.70522,-121.0024,860,,0,,America/Los_Angeles,,,0
+13221,,,Orangeburg Ave. & Pepper Tree Ln.,ORANGEBURG WB PEPPER TREE NS,37.66362,-120.9306,860,,0,,America/Los_Angeles,,,0
+13240,,,Orangeburg Ave. & Enslen Ave.,ORANGEBURG WB ENSLEN FS,37.66388,-121.001223,860,,0,,America/Los_Angeles,,,0
+12966,,,Crows Landing Rd. & Hatch Rd.,CROWS LANDING SB HATCH FS,37.60902,-120.9937,860,,0,,America/Los_Angeles,,,0
+12980,,,Tucson Ave. & Placer Ave.,TUCSON NB PLACER FS,37.59691,-121.0143,860,,0,,America/Los_Angeles,,,0
+13146,,,Floyd Ave. & Vera Cruz Dr.,FLOYD WB VERA CRUZ X,37.67805,-120.9733,860,,0,,America/Los_Angeles,,,0
+12569,,,Paradise Rd. & Wade Ave.,PARADISE EB WADE FS,37.62168,-121.0208,860,,0,,America/Los_Angeles,,,0
+12753,,,9th St. & Lombardo Ave.,9TH NB LOMBARDO NS,37.62024,-120.9853,860,,0,,America/Los_Angeles,,,0
+13253,,,Orangeburg Ave. & Tully Rd.,ORANGEBURG EB TULLY FS,37.6639659,-121.0118458,860,,0,,America/Los_Angeles,,,0
+12770,,,Surrey Ave. & Oakdale Rd.,SURREY EB OAKDALE FS,37.65643,-120.957,860,,0,,America/Los_Angeles,,,0
+12861,,,Sisk Rd. & Rumble Rd.,SISK NB RUMBLE FS,37.6833,-121.0498,860,,0,,America/Los_Angeles,,,0
+13355,,,Gregori High School,PIRRONE WB GREGORI HIGH NS,37.71855,-121.06182,860,,0,,America/Los_Angeles,,,0
+12691,,,Merle Ave. & Woodcrest Way,MERLE EB WOODCREST FS,37.67078,-120.9499,860,,0,,America/Los_Angeles,,,0
+768665,,,Robertson Rd. & Vernon Ave.,,37.6133205167583,-121.028102506781,860,,0,,America/Los_Angeles,,,0
+13264,,,Orangeburg Ave. & Sharonwood Dr.,ORANGEBURG EB SHARONWOOD NS,37.66353,-120.9617,860,,0,,America/Los_Angeles,,,0
+12972,,,Crows Landing Rd. & Hackett Rd.,CROWS LANDING SB HACKETT NS,37.58897,-120.9938,860,,0,,America/Los_Angeles,,,0
+12998,,,College Ave. & Coldwell Ave. MJC East,COLLEGE NB COLDWELL FS,37.65332,-121.0074,860,,0,,America/Los_Angeles,,,0
+12660,,,Orangeburg & Sunrise (Elliott Ed Ctr.),SUNRISE NB ORANGEBURG FS,37.66431,-120.9848,860,,0,,America/Los_Angeles,,,0
+13085,,,Tully Rd. & Standiford Ave.,TULLY SB STANDIFORD FS,37.68906,-121.0126,860,,0,,America/Los_Angeles,,,0
+12729,,,Richland Ave. & Nadine Ave.,RICHLAND SB NADINE FS,37.61272,-120.9663,860,,0,,America/Los_Angeles,,,0
+13234,,,Orangeburg Ave. & Yarmouth Dr.,ORANGEBURG WB YARMOUTH FS,37.66365,-120.9809,860,,0,,America/Los_Angeles,,,0
+12860,,,Sisk Rd. & Brenner Way.,SISK NB BRENNER FS,37.67923,-121.048,860,,0,,America/Los_Angeles,,,0
+12849,,,Beverly Dr. & Vernon Ave.,BEVERLY WB VERNON NS,37.62166,-121.0279,860,,0,,America/Los_Angeles,,,0
+12720,,,9th St. & Sonora Ave.,9TH SB SONORA NS,37.62067,-120.9857,860,,0,,America/Los_Angeles,,,0
+12978,,,Whitmore Ave. & Ustick Rd.,WHITMORE WB USTICK NS,37.59515,-121.0097,860,,0,,America/Los_Angeles,,,0
+13300,,,McHenry Ave. & Orangeburg Ave.,MCHENRY SB ORANGEBURG NS,37.66399,-120.994,860,,0,,America/Los_Angeles,,,0
+13143,,,Keller St. & Thorsen Ave.,KELLER NB THORSEN FS,37.685224440471,-120.970189271164,860,,0,,America/Los_Angeles,,,0
+13325,,,California Ave. & Spencer Ave.,CALIFORNIA EB SPENCER FS,37.63134,-121.0162,860,,0,,America/Los_Angeles,,,0
+12982,,,Tucson Ave. & Glenn Ave.,TUCSON NB GLENN NS,37.60143,-121.0143,860,,0,,America/Los_Angeles,,,0
+12668,,,Coffee Rd. & Floyd Ave.,COFFEE NB FLOYD NS,37.67772,-120.9757,860,,0,,America/Los_Angeles,,,0
+13104,,,Vintage Dr. & Gagos Dr.,VINTAGE WB GAGOS FS,37.69231,-121.0608,860,,0,,America/Los_Angeles,,,0
+12657,,,Bodem St. & Cedar Ave.,BODEM NB CEDAR NS,37.64892,-120.9854,860,,0,,America/Los_Angeles,,,0
+13119,,,Kaiser Hospital Southbound,DALE SB HEALTHCARE FS,37.70806,-121.0503,860,,0,,America/Los_Angeles,,,0
+13147,,,Coffee Rd. & Floyd Ave.,COFFEE SB FLOYD FS,37.6777,-120.9759,860,,0,,America/Los_Angeles,,,0
+12895,,,Yosemite & Lincoln ,YOSEMITE EB LINCOLN X,37.63811,-120.9392,860,,0,,America/Los_Angeles,,,0
+13071,,,Standiford Ave. between Conant & Prescott,STANDIFORD EB CONANT PRESCOTT MB,37.688238,-121.036,860,,0,,America/Los_Angeles,,,0
+13200,,,Miller Ave. & El Vista Ave.,MILLER EB EL VISTA FS,37.64007,-120.957,860,,0,,America/Los_Angeles,,,0
+13235,,,Orangeburg Ave. & Sunrise Ave.,ORANGEBURG WB SUNRISE NS,37.66367,-120.9839,860,,0,,America/Los_Angeles,,,0
+12885,,,Roselawn Ave. & Tuolumne Blvd.,ROSELAWN NB TUOLUMNE NS,37.62748,-121.005,860,,0,,America/Los_Angeles,,,0
+13106,,,Sisk Rd. & Target Center.,SISK NB TARGET CENTER FS,37.69432,-121.0659,860,,0,,America/Los_Angeles,,,0
+12624,,,McHenry Ave. & Grecian Ave.,MCHENRY NB GRECIAN NS,37.69721,-120.9943,860,,0,,America/Los_Angeles,,,0
+13102,,,Nightingale Dr. & Honey Creek Rd.,NIGHTINGALE WB HONEY CREEK NS,37.69363,-121.0544,860,,0,,America/Los_Angeles,,,0
+13274,,,Orangeburg Ave. & Christopher Ct.,ORANGEBURG EB CHRISTOPHER FS,37.66357,-120.9283,860,,0,,America/Los_Angeles,,,0
+12783,,,Floyd Ave. & Grouse Crossing Way,FLOYD EB GROUSE CROSSING FS,37.67805,-120.9407,860,,0,,America/Los_Angeles,,,0
+12710,,,I St. & 14th St.,I ST WB 14TH FS,37.64233,-120.9956,860,,0,,America/Los_Angeles,,,0
+12817,,,Yosemite Blvd. & Santa Rosa Ave.,YOSEMITE EB SANTA ROSA NS,37.63818,-120.9802,860,,0,,America/Los_Angeles,,,0
+12556,,,Sutter Ave. & Paradise Rd.,SUTTER SB PARADISE FS,37.62706,-121.0118,860,,0,,America/Los_Angeles,,,0
+13311,,,Poust Rd. & Chapparal Pl.,POUST NB CHAPPARAL FS,37.65675,-121.0447,860,,0,,America/Los_Angeles,,,0
+12994,,,11 St. & M St.,11TH NB M NS,37.64408,-121.0027,860,,0,,America/Los_Angeles,,,0
+12754,,,9th St. & Hosmer Ave.,9TH NB HOSMER FS,37.6223,-120.9859,860,,0,,America/Los_Angeles,,,0
+13187,,,J St. & 15th St.,J WB 15TH FS,37.64404,-120.9958,860,,0,,America/Los_Angeles,,,0
+12924,,,Oakdale & Floyd ,OAKDALE NB FLOYD FS,37.67891,-120.9576,860,,0,,America/Los_Angeles,,,0
+12797,,,Coffee Rd. & Las Cruces Ct.,COFFEE SB LAS CRUCES NS,37.68446,-120.9761,860,,0,,America/Los_Angeles,,,0
+13184,,,McHenry Ave. & Maynell Ave.,MCHENRY SB MAYNELL NS,37.65314,-120.9939,860,,0,,America/Los_Angeles,,,0
+12567,,,Paradise Rd. & Vernon Ave.,PARADISE EB VERNON FS,37.61751,-121.0271,860,,0,,America/Los_Angeles,,,0
+12997,,,MJC East - College Ave. & Stoddard Ave.,COLLEGE NB STODDARD NS,37.64930623,-121.0073016,860,,0,,America/Los_Angeles,,,0
+13022,,,Carver Rd. & Mt Vernon Dr.,CRAVER SB MT VERNON FS,37.67668,-121.0223,860,,0,,America/Los_Angeles,,,0
+12768,,,Wylie Dr. & Strathmore Dr.,WYLIE EB STRATHMORE FS,37.65808,-120.9635,860,,0,,America/Los_Angeles,,,0
+12585,,,California Ave. & Emerald Ave.,CALIFORNIA WB EMERALD NS,37.63143,-121.0206,860,,0,,America/Los_Angeles,,,0
+13295,,,Miller Ave. & Rowland Ave.,MILLER WB ROWLAND FS,37.64015,-120.9737,860,,0,,America/Los_Angeles,,,0
+13135,,,Mable Ave. & Spring Oak Dr.,MABLE EB SPRING OAK FS,37.69619,-120.9596,860,,0,,America/Los_Angeles,,,0
+12819,,,Santa Cruz Ave. & Yosemite Blvd.,YOSEMITE EB SANTA CRUZ FS,37.63814,-120.9739,860,,0,,America/Los_Angeles,,,0
+13231,,,Orangeburg Ave. & Morene Ave.,ORANGEBURG WB MORENE FS,37.66375,-120.9697,860,,0,,America/Los_Angeles,,,0
+12821,,,Empire & Yosemite,YOSEMITE EB EMPIRE NS,37.638197,-120.96861,860,,0,,America/Los_Angeles,,,0
+13204,,,Lincoln Ave. & Yosemite Blvd.,LINCOLN NB YOSEMITE FS,37.63867,-120.9389,860,,0,,America/Los_Angeles,,,0
+16247,,,California Eb Martin Luther King Ns,,37.63137,-121.01227,860,,0,,America/Los_Angeles,,,0
+12686,,,Floyd Ave. & Lincoln Oak Dr.,FLOYD WB LINCOLN OAK FS,37.67825,-120.9489,860,,0,,America/Los_Angeles,,,0
+13001,,,Roseburg Ave. & Del Vale Ave.,ROSEBURG WB DEL VALE NS,37.66053,-121.0192,860,,0,,America/Los_Angeles,,,0
+12772,,,Surrey Ave. & Sonoma Ave.,SURREY EB SONOMA NS,37.65624,-120.9485,860,,0,,America/Los_Angeles,,,0
+12682,,,Millbrook Ave. & Parkcrest Dr.,MILLBROOK SB PARKCREST FS,37.6807,-120.9329,860,,0,,America/Los_Angeles,,,0
+13229,,,Orangeburg Ave. & Steuben Way,ORANGEBURG WB STEUBEN FS,37.66368,-120.9645,860,,0,,America/Los_Angeles,,,0
+13077,,,Dale & Veneman (NE corner),DALE NB VENEMAN FS,37.689883,-121.049764,860,,0,,America/Los_Angeles,,,0
+12664,,,Norwegian Ave. & Eldena Way,NORWEGIAN EB ELDENA NS,37.67105,-120.9871,860,,0,,America/Los_Angeles,,,0
+13281,,,Mechalys Way & Ansonville Ln.,MECHALYS EB ANSONVILLE X,37.64486,-120.9267,860,,0,,America/Los_Angeles,,,0
+13214,,,Briggmore Ave. & Peta Way,BRIGGSMORE EB PETA FS,37.66687,-120.9177,860,,0,,America/Los_Angeles,,,0
+12622,,,McHenry Ave. & Warren Way,MCHENRY NB WARREN FS,37.69133,-120.9942,860,,0,,America/Los_Angeles,,,0
+12688,,,Oakdale & Floyd ,OAKDALE SB FLOYD FS,37.67724,-120.9579,860,,0,,America/Los_Angeles,,,0
+12574,,,G St. & Sierra Dr. (Modesto HS),1ST SB SIERRA NS,37.63144,-121.0058,860,,0,,America/Los_Angeles,,,0
+13051,,,Tully Rd. & Bowen Ave.,TULLY NB BOWEN NS,37.67462,-121.0123,860,,0,,America/Los_Angeles,,,0
+12841,,,Roselawn Ave. & Center St.,ROSELAWN SB CENTER FS,37.62944,-121.005,860,,0,,America/Los_Angeles,,,0
+12618,,,McHenry Ave. & Floyd Ave. (Northbound),MCHENRY NB FLOYD FS,37.67846,-120.994,860,,0,,America/Los_Angeles,,,0
+13009,,,Mt Vernon Dr. & Debonaire Dr.,MT VERNON WB DEBONAIRE FS,37.67609,-121.0264,860,,0,,America/Los_Angeles,,,0
+12901,,,Abbie St. between Yosemite & South,ABBIE SB YOSEMITE S AVE MB,37.636178,-120.89928,860,,0,,America/Los_Angeles,,,0
+13137,,,Oakdale Rd. & Bridgewood Way,OAKDALE SB BRIDGEWOOD NS,37.69225,-120.9581,860,,0,,America/Los_Angeles,,,0
+12697,,,Middleboro Pl. & Eastridge Dr.,MIDDLEBORO WB EASTRIDGE NS,37.65834,-120.944,860,,0,,America/Los_Angeles,,,0
+12663,,,Norwegian Ave. & McHenry Ave.,NORWEGIAN EB MCHENRY FS,37.67113,-120.9935,860,,0,,America/Los_Angeles,,,0
+13201,,,Miller Ave. & Trask Ln.,MILLER EB TRASK FS,37.64,-120.9525,860,,0,,America/Los_Angeles,,,0
+12836,,,Yosemite Blvd. & Las Flores Ave.,YOSEMITE WB LAS FLORES FS,37.63834,-120.9813,860,,0,,America/Los_Angeles,,,0
+12929,,,Rumble Rd. & McHenry Ave.,RUMBLE WB MCHENRY FS,37.6818,-120.9951,860,,0,,America/Los_Angeles,,,0
+12643,,,College Ave. & Orangeburg Ave.,COLLEGE SB ORANGEBURG FS,37.66373,-121.0077,860,,0,,America/Los_Angeles,,,0
+12837,,,Yosemite Blvd. & Groveland St.,YOSEMITE WB GROVELAND NS,37.63742,-120.9869,860,,0,,America/Los_Angeles,,,0
+12588,,,Houser Ln. & Raymond Dr.,HOUSER WB RAYMOND,37.62776,-121.0272,860,,0,,America/Los_Angeles,,,0
+12826,,,Empire Ave. & Monterey Ave.,EMPIRE SB MONTEREY NS,37.62745,-120.9687,860,,0,,America/Los_Angeles,,,0
+12747,,,Herndon Rd. & Latimer Ave.,HERNDON NB LATIMER X,37.61839,-120.9753,860,,0,,America/Los_Angeles,,,0
+13305,,,Woodland Ave. & Lone Palm Ave.,WOODLAND WB LONE PALM NS,37.65325,-121.023,860,,0,,America/Los_Angeles,,,0
+13050,,,Tully Rd. & Bispo Dr.,TULLY NB BISPO NS,37.67239,-121.0122,860,,0,,America/Los_Angeles,,,0
+12700,,,Surrey Ave. & Oakdale Rd.,SURREY WB OAKDALE NS,37.6565,-120.957,860,,0,,America/Los_Angeles,,,0
+12791,,,Sylvan Ave. & McReynolds Ave.,SYLVAN WB MCREYNOLDS FS,37.68909,-120.9446,860,,0,,America/Los_Angeles,,,0
+12902,,,South & Santa Fe ,SOUTH WB SANTA FE NS,37.631112,-120.901261,860,,0,,America/Los_Angeles,,,0
+13033,,,Roseburg Ave. & Amherst Ave.,ROSEBURG EB AMHERST FS,37.66033,-121.0082,860,,0,,America/Los_Angeles,,,0
+12564,,,Robertson Rd. & Vernon Ave.,ROBERTSON WB VERNON NS,37.61331,-121.0279,860,,0,,America/Los_Angeles,,,0
+13092,,,Tully Rd. & Madrone Dr.,TULLY SB MADRONE FS,37.66898,-121.0123,860,,0,,America/Los_Angeles,,,0
+12870,,,Carpenter Rd. & Woodland Ave.,CARPENTER SB WOODLAND FS,37.65263,-121.0312,860,,0,,America/Los_Angeles,,,0

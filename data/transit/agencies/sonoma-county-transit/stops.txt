@@ -1,0 +1,1059 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+757445,7729600,,Riverside Dr. & Petaluma Ave.,,38.29401191,-122.4773754,470,,0,,America/Los_Angeles,,,0
+2329753,7772700,,Rohnert Park SMART Station ,,38.348152121392,-122.70192730675,471,,0,,America/Los_Angeles,,,0
+757125,7703500,,Windsor River Rd. (Windsor Depot),,38.54732459,-122.8161523,463,,0,,America/Los_Angeles,,,0
+757918,7773700,,Golf Course Dr. & Hillview Ct.,,38.367018,-122.688735,471,,0,,America/Los_Angeles,,,0
+757881,7770700,,Lancaster & Lincoln Ave.,,38.32864258,-122.6944695,471,,0,,America/Los_Angeles,,,0
+757196,7709700,,Healdsburg Ave. & Sherman St.,,38.61864331,-122.8720327,463,,0,,America/Los_Angeles,,,0
+757645,7747940,,Sonoma Mtn. Pkwy. (Ac. Petaluma SRJC),,38.26661921,-122.6371181,471,,0,,America/Los_Angeles,,,0
+757405,7726000,,Valley Oaks & Pythian Rd.,,38.43074626,-122.587388,468,,0,,America/Los_Angeles,,,0
+757934,7774500,,Snyder Ln. & Eleanor St.,,38.36159747,-122.6858496,471,,0,,America/Los_Angeles,,,0
+757571,7740900,,Santa Rosa Ave. & Burt St.,,38.40925313,-122.7137078,467,,0,,America/Los_Angeles,,,0
+757184,7708700,,Geyserville Ave. & Geysers Ridge Rd.,,38.71080318,-122.9120935,461,,0,,America/Los_Angeles,,,0
+757450,7730100,,Fifth St. West & West MacArthur,,38.28661593,-122.4691378,470,,0,,America/Los_Angeles,,,0
+757447,7729800,,Hwy. 12 & 7th St. West,,38.29324336,-122.4723624,470,,0,,America/Los_Angeles,,,0
+757365,7721000,,Hwy. 12 & Llano Rd.,,38.41201252,-122.7941031,466,,0,,America/Los_Angeles,,,0
+757857,7768300,,River Rd.,,38.5041628,-122.9404752,464,,0,,America/Los_Angeles,,,0
+757989,7785400,,Lakeville Hwy. & Marina Ave.,,38.23336161,-122.6100011,471,,0,,America/Los_Angeles,,,0
+757751,7756600,,Sonoma State University,,38.33807478,-122.6750043,471,,0,,America/Los_Angeles,,,0
+757941,7775500,,Railroad St. & West Third St.,,38.43583788,-122.7201699,467,,0,,America/Los_Angeles,,,0
+757378,7722100,,Sebastopol Rd. & Avalon Ave.,,38.42994208,-122.7276989,467,,0,,America/Los_Angeles,,,0
+757622,7746200,,Petaluma Blvd. & Gossage Ave.,,38.25484665,-122.6513943,471,,0,,America/Los_Angeles,,,0
+757190,7709100,,Healdsburg Ave. & Lytton Springs Rd.,,38.658852,-122.8717621,463,,0,,America/Los_Angeles,,,0
+757992,7785700,,Lakeville St. & Caufield,,38.23546956,-122.6232076,471,,0,,America/Los_Angeles,,,0
+824783,7796500,,Cloverdale Blvd. & Treadway Blvd. (CVS Store),,38.784954611072,-123.01398830094,461,,0,,America/Los_Angeles,,,0
+758934,7770740,,Technology Middle School,,38.3393441620292,-122.699864208698,471,,0,,America/Los_Angeles,,,0
+757105,7702010,,Old Redwood Hwy. & Deerwood Dr.,,38.50551709,-122.7587711,463,,0,,America/Los_Angeles,,,0
+848653,7711110,,Windsor Rd. & Windsor Depot,,38.54755278,-122.8168687,463,,0,,America/Los_Angeles,,,0
+810166,7795500,,Champlain Ave. & Cloverdale Blvd.,,38.8123488647763,-123.022585937213,461,,0,,America/Los_Angeles,,,0
+848652,7711100,,Windsor River Rd. (Windsor Depot),,38.54713147,-122.8162381,463,,0,,America/Los_Angeles,,,0
+757995,7786000,,Lakeville Hwy. & Marina,,38.23307839,-122.6099946,471,,0,,America/Los_Angeles,,,0
+757914,7773300,,Country Club Dr. & Ellen St.,,38.35565236,-122.6937922,471,,0,,America/Los_Angeles,,,0
+757666,7749800,,Old Redwood Hwy. & Ely Rd.,,38.28435374,-122.6672606,471,,0,,America/Los_Angeles,,,0
+757496,7733000,,Agua Caliente Rd. & Las Flores Dr,,38.32406564,-122.4920952,470,,0,,America/Los_Angeles,,,0
+757422,7727300,,Sonoma Dev. Center,,38.34874293,-122.5168092,468,,0,,America/Los_Angeles,,,0
+757552,7739300,,Graton Rd. & Sonoma Ave.,,38.43685602,-122.8622679,466,,0,,America/Los_Angeles,,,0
+757775,7760500,,Hwy. 116 & Bloomfield Rd.,,38.38100554,-122.805693,466,,0,,America/Los_Angeles,,,0
+757435,7728700,,Hwy. 12 & Encinas,,38.30591416,-122.4778783,470,,0,,America/Los_Angeles,,,0
+757141,7705200,,Healdsburg Ave. & Powell Ave.,,38.62110029,-122.8723508,463,,0,,America/Los_Angeles,,,0
+757438,7728820,,Hwy. 12 & West Spain St.,,38.29424992,-122.4759461,470,,0,,America/Los_Angeles,,,0
+2335915,7708410,,Geyserville Ave. & Barilani Rd. ,,38.735016351234,-122.94446414822,461,,0,,America/Los_Angeles,,,0
+758037,7790200,,Brooks Rd. & Foothill Dr.,,38.5566839536,-122.80753241,463,,0,,America/Los_Angeles,,,0
+757675,7750700,,Old Redwood Hwy. & Page Ave.,,38.3239580120984,-122.703961319609,471,,0,,America/Los_Angeles,,,0
+757670,7750200,,Old Redwood Hwy. & Adobe Rd.,,38.30331586,-122.681021,471,,0,,America/Los_Angeles,,,0
+757807,7763200,,Hwy. 116 & Woodworth Rd.,,38.34937647,-122.7627897,466,,0,,America/Los_Angeles,,,0
+757748,7756300,,Petaluma Hill Rd. & Robert's Rd.,,38.32940918,-122.6666285,471,,0,,America/Los_Angeles,,,0
+2371015,7762620,,Santaro Way & E. Cotati Ave. (Cotati Depot),,38.331158150349,-122.69139702206,471,,0,,America/Los_Angeles,,,0
+757175,7707900,,Cloverdale Blvd & Sandholm Dr.,,38.78107398,-123.0090673,461,,0,,America/Los_Angeles,,,0
+757355,7720800,,Burbank Heights,,38.39733204,-122.8335403,466,,0,,America/Los_Angeles,,,0
+758081,7798900,,Freestone (Westbound),,38.372903362,-122.9109189562,464,,0,,America/Los_Angeles,,,0
+757410,7726320,,Hwy. 12 & Pythian Rd.,,38.43587432,-122.5794859,468,,0,,America/Los_Angeles,,,0
+757730,7754660,,Sonoma Mtn. Pkwy. & Ely Rd.,,38.2689426,-122.6439137,471,,0,,America/Los_Angeles,,,0
+757271,7715200,,Old Redwood Hwy. & Mark West Springs Rd.,,38.49587144,-122.746945,467,,0,,America/Los_Angeles,,,0
+757413,7726500,,Kenwood (Hwy. 12 & Greene St.),,38.42035755,-122.5523973,468,,0,,America/Los_Angeles,,,0
+757853,7767900,,River Rd. & Mirabel Rd.,,38.49361363,-122.8956529,466,,0,,America/Los_Angeles,,,0
+757279,7715720,,Range Ave. & @ Paulin Creek,,38.46322967,-122.7325171,467,,0,,America/Los_Angeles,,,0
+758085,7799300,,Moscow Rd. & Casini Ranch,,38.4602232586,-123.0449767043,464,,0,,America/Los_Angeles,,,0
+757533,7736400,,Montgomery Dr. & Summerfield Dr.,,38.45454668,-122.6724547,467,,0,,America/Los_Angeles,,,0
+757449,7730000,,Fifth St. West & Andrieux St.,,38.28945934,-122.4687259,470,,0,,America/Los_Angeles,,,0
+758084,7799200,,Duncans Mills (Eastbound),,38.4531464373,-123.053945326,464,,0,,America/Los_Angeles,,,0
+757854,7768000,,River Rd. & Scenic Rd.,,38.50603184,-122.9137523,464,,0,,America/Los_Angeles,,,0
+757132,7704300,,Old Redwood Hwy. & Starr Rd.,,38.56461423,-122.8283657,463,,0,,America/Los_Angeles,,,0
+757091,7701500,,Old Redwood Hwy. (Kaiser Stein Bldg.),,38.48272423,-122.7344032,467,,0,,America/Los_Angeles,,,0
+757500,7733400,,Arnold Dr. & Traxler,,38.3464424,-122.5143138,468,,0,,America/Los_Angeles,,,0
+757312,7717800,,Hwy. 116 (Guerneville Park & Ride),,38.50185113,-123.0027351,464,,0,,America/Los_Angeles,,,0
+758078,7798600,,Freestone (Eastbound),,38.3729335413,-122.9106488213,464,,0,,America/Los_Angeles,,,0
+757722,7754400,,N. McDowell Blvd. (Lucchesi Park),,38.2523146,-122.6311875,471,,0,,America/Los_Angeles,,,0
+757607,7744800,,Cotati Hub,,38.32619993,-122.7061734,471,,0,,America/Los_Angeles,,,0
+757837,7765800,,Corby Extension,,38.41450249,-122.7180034,467,,0,,America/Los_Angeles,,,0
+757119,7702900,,Old Redwood Hwy. & Thrushwing,,38.53794826,-122.7908582,463,,0,,America/Los_Angeles,,,0
+757740,7755500,,N. McDowell Blvd. & Scott St.,,38.2725157454398,-122.663713674413,471,,0,,America/Los_Angeles,,,0
+757131,7704200,,Starr Rd. & Twin Oaks Ln.,,38.55979085,-122.8259572,463,,0,,America/Los_Angeles,,,0
+757224,7712020,,Hembree Ln. & Dove Ln.,,38.536034,-122.798073,463,,0,,America/Los_Angeles,,,0
+757906,7772500,,RP Expressway & Redwood Dr.,,38.34824865,-122.7180242,471,,0,,America/Los_Angeles,,,0
+2329754,7771510,,Rohnert Park SMART Station ,,38.348475595751,-122.70151580324,471,,0,,America/Los_Angeles,,,0
+757176,7708000,,Dutcher Creek Rd. & Hiatt Rd.,,38.77494848,-123.0022061,461,,0,,America/Los_Angeles,,,0
+757080,7701030,,County Admin. Center (Ventura Ave.),,38.46654093,-122.7242188,467,,0,,America/Los_Angeles,,,0
+757117,7702700,,Old Redwood Hwy. & Savannah Way,,38.53167894,-122.7837409,463,,0,,America/Los_Angeles,,,0
+758044,7791000,,Los Amigos Rd. & Tabatha Way,,38.5571219755,-122.818033724,463,,0,,America/Los_Angeles,,,0
+757847,7766900,,Standish Ave. & W. Robles Ave.,,38.39384828,-122.723046,467,,0,,America/Los_Angeles,,,0
+757485,7732010,,Hwy. 12 & Donald St.,,38.30491479,-122.4773573,470,,0,,America/Los_Angeles,,,0
+757302,7717330,,Moscow Rd. & Casini Ranch,,38.46028036,-123.0453249,464,,0,,America/Los_Angeles,,,0
+757081,7701040,,Russell & Ventura (Kaiser Stop),,38.46920628,-122.7257582,467,,0,,America/Los_Angeles,,,0
+757551,7739200,,Graton Rd. & Hwy. 116,,38.43700841,-122.8588402,466,,0,,America/Los_Angeles,,,0
+757577,7741500,,Santa Rosa Ave. & Todd Rd.,,38.38975155,-122.7137317,467,,0,,America/Los_Angeles,,,0
+757095,7701810,,Mark West Springs Rd. & Old Redwood Hwy.,,38.49658245,-122.7503067,467,,0,,America/Los_Angeles,,,0
+757341,7719900,,Ross Rd. & Kamuela Rd.,,38.44178284,-122.8706797,466,,0,,America/Los_Angeles,,,0
+757322,7718300,,River Rd.,,38.51350048,-122.9836682,464,,0,,America/Los_Angeles,,,0
+757518,7735000,,Oakmont Dr. & Deerfield Circle,,38.43490589,-122.5968417,468,,0,,America/Los_Angeles,,,0
+757702,7752400,,Santa Rosa Ave. & Mountain View Ave.,,38.38156553,-122.7134087,467,,0,,America/Los_Angeles,,,0
+757736,7755100,,Ac. Petaluma Estates MHP,,38.26455448,-122.6528389,471,,0,,America/Los_Angeles,,,0
+757090,7701400,,Old Redwood Hwy. &,,38.47935233,-122.7326428,467,,0,,America/Los_Angeles,,,0
+757982,7784700,,Hermosa Pkwy. & Watmaugh Rd.,,38.26009485,-122.4866495,470,,0,,America/Los_Angeles,,,0
+757359,7720840,,Pleasant Hill Ave. & Valentine Ave.,,38.40207898,-122.8397814,466,,0,,America/Los_Angeles,,,0
+757325,7718600,,River Rd.,,38.50410574,-122.9405973,464,,0,,America/Los_Angeles,,,0
+758074,7798200,,The Tides (Bodega Bay),,38.3286943774,-123.0445250304,464,,0,,America/Los_Angeles,,,0
+757795,7762700,,East Cotati Ave. & Windmill Farms Dr.,,38.33246852,-122.6903189,471,,0,,America/Los_Angeles,,,0
+757160,7706710,,Asti Rd. & Theresa Dr.,,38.76610151,-122.9913956,461,,0,,America/Los_Angeles,,,0
+757636,7747400,,McDowell Blvd. & Old Redwood Hwy.,,38.27341725,-122.6656986,471,,0,,America/Los_Angeles,,,0
+757758,7757400,,Snyder Ln. & Eleanor St.,,38.36020383,-122.6856466,471,,0,,America/Los_Angeles,,,0
+757823,7764510,,Laguna Park Way & Sebastopol Transit Hub,,38.40438795,-122.8230619,466,,0,,America/Los_Angeles,,,0
+757813,7763800,,Hwy. 116,,38.37764377,-122.7957035,466,,0,,America/Los_Angeles,,,0
+757699,7752100,,Commerce Blvd. & Utility Ct.,,38.3605817230158,-122.712368260817,471,,0,,America/Los_Angeles,,,0
+757478,7731720,,Railroad Ave. & Toy Ave.,,38.30932889,-122.4903282,470,,0,,America/Los_Angeles,,,0
+757553,7739400,,Graton,,38.43751134,-122.8698057,466,,0,,America/Los_Angeles,,,0
+757535,7736600,,Montgomery Dr. & Yulupa Ave.,,38.44936432,-122.6795069,467,,0,,America/Los_Angeles,,,0
+757423,7727400,,Arnold Dr. & Traxler Dr.,,38.34632999,-122.514483,468,,0,,America/Los_Angeles,,,0
+757096,7701830,,River Rd. & West of Hwy. 101,,38.49650345,-122.7611762,467,,0,,America/Los_Angeles,,,0
+757384,7724000,,Montgomery Dr. & Yulupa Ave.,,38.44952402,-122.6789718,467,,0,,America/Los_Angeles,,,0
+757356,7720810,,Burbank Heights,,38.39536852,-122.8339722,466,,0,,America/Los_Angeles,,,0
+757418,7726910,,Hwy. 12 & Madrone Rd.,,38.34334414,-122.4974969,468,,0,,America/Los_Angeles,,,0
+757138,7704900,,Healdsburg Ave. & Exchange Way,,38.60561888,-122.8687294,463,,0,,America/Los_Angeles,,,0
+757108,7702300,,Old Redwood Hwy. & Fulton Rd.,,38.51566174,-122.7692227,463,,0,,America/Los_Angeles,,,0
+757766,7758200,,East Cotati Ave. & Camino Colegio Ave.,,38.33392131,-122.6887091,471,,0,,America/Los_Angeles,,,0
+757640,7747800,,McDowell Blvd. & Corona Rd.,,38.26535263,-122.6547387,471,,0,,America/Los_Angeles,,,0
+757809,7763400,,Hwy. 116 & Hessel Rd.,,38.36347877,-122.7793004,466,,0,,America/Los_Angeles,,,0
+757375,7721800,,Sebastopol Rd. & Hampton Way,,38.4275369,-122.7378369,467,,0,,America/Los_Angeles,,,0
+757216,7711600,,Old Redwood Hwy. & Pleasant Ave.,,38.54025006,-122.7942947,463,,0,,America/Los_Angeles,,,0
+757583,7742700,,Redwood Dr. & Commerce Blvd.,,38.3655538,-122.7135683,471,,0,,America/Los_Angeles,,,0
+757437,7728810,,Maxwell Village on Hwy. 12,,38.29911987,-122.4753365,470,,0,,America/Los_Angeles,,,0
+757784,7761300,,Hwy. 116 & Stony Point Rd.,,38.33436221,-122.7373297,471,,0,,America/Los_Angeles,,,0
+757517,7734900,,Oakmont Golf Course,,38.43222382,-122.5930211,468,,0,,America/Los_Angeles,,,0
+928,7793000,,Riverview Club House,Flag Stop,38.6095221332,-122.8518218965,463,,0,,America/Los_Angeles,,,0
+757915,7773400,,Country Club/ Golf Course,,38.36185722,-122.6943612,471,,0,,America/Los_Angeles,,,0
+757634,7747200,,Petaluma Hill Rd. & Adobe Rd.,,38.29960772,-122.6665129,471,,0,,America/Los_Angeles,,,0
+757653,7748500,,N. McDowell Blvd. (Petaluma Plaza),,38.25147329,-122.6301351,471,,0,,America/Los_Angeles,,,0
+757350,7720710,,Keating Ave. & Pitt Ave.,,38.40386046,-122.8271125,466,,0,,America/Los_Angeles,,,0
+757701,7752300,,Santa Rosa Ave. & Horn Ave.,,38.37628493,-122.7133048,467,,0,,America/Los_Angeles,,,0
+757495,7732900,,Agua Caliente Rd. & Lake St.,,38.32510088,-122.4897554,470,,0,,America/Los_Angeles,,,0
+757088,7701200,,Mendocino Ave. & Bicentennial Way,,38.4710363,-122.7233788,467,,0,,America/Los_Angeles,,,0
+757111,7702510,,Shiloh Rd. & Old Redwood Hwy.,,38.52580463,-122.781513,463,,0,,America/Los_Angeles,,,0
+757166,7707300,,Cloverdale Blvd. & South St.,,38.80027783,-123.0164808,461,,0,,America/Los_Angeles,,,0
+757509,7734300,,Kenwood (Hwy. 12 & Greene St.),,38.42035131,-122.5521401,468,,0,,America/Los_Angeles,,,0
+757123,7703300,,Old Redwood Hwy. & Lakewood Dr.,,38.54625232,-122.8061443,463,,0,,America/Los_Angeles,,,0
+758023,7788800,,Conde Ln. & Den Beste Ct.,,38.5342667698,-122.7983706072,463,,0,,America/Los_Angeles,,,0
+757893,7771500,,Country Club Dr. & Civic Center Dr.,,38.34663134,-122.6963733,471,,0,,America/Los_Angeles,,,0
+757521,7735210,,Hwy. 12 & Oakmont Dr.,,38.4457331,-122.6058789,468,,0,,America/Los_Angeles,,,0
+757924,7773760,,Holly Ave. & Hawthorne Circle,,38.37148141,-122.6936598,471,,0,,America/Los_Angeles,,,0
+757133,7704400,,Old Redwood Hwy. &,,38.56633599,-122.8312631,463,,0,,America/Los_Angeles,,,0
+757773,7760300,,Hwy. 116 & Lynch Rd.,,38.38858716,-122.8148809,466,,0,,America/Los_Angeles,,,0
+757490,7732500,,Hwy. 12 & Balsam Ave.,,38.316833,-122.4835321,470,,0,,America/Los_Angeles,,,0
+757371,7721200,,Wright Rd. & Sebastopol Rd.,,38.4261596814822,-122.769172558301,467,,0,,America/Los_Angeles,,,0
+757544,7738700,,Laguna Park Way & Morris St.,,38.40520772,-122.8204207,466,,0,,America/Los_Angeles,,,0
+757293,7716400,,Mendocino Ave. & Benton,,38.44802358,-122.7177412,467,,0,,America/Los_Angeles,,,0
+758043,7790900,,Los Amigos Rd. & Valley Oak Ct.,,38.5541731388,-122.8152154863,463,,0,,America/Los_Angeles,,,0
+757984,7784900,,Adobe Rd. & Stage Gulch Rd.,,38.23655957,-122.5271605,470,,0,,America/Los_Angeles,,,0
+2382440,7714110,,Aviation Blvd. & Airport Blvd.,,38.513305737702,-122.78285380183,463,,0,,America/Los_Angeles,,,0
+757516,7734800,,Pythian Rd. & Valley Oaks,,38.43084343,-122.5867573,468,,0,,America/Los_Angeles,,,0
+757604,7744400,,Adrian Dr. & Bonnie Ave.,,38.33212509,-122.7003778,471,,0,,America/Los_Angeles,,,0
+758020,7788500,,Bell Rd. & Conde Ln.,,38.5369476866,-122.8014473808,463,,0,,America/Los_Angeles,,,0
+757211,7711110,,Windsor Rd. & Windsor Depot,,38.54755278,-122.8168687,463,,0,,America/Los_Angeles,,,0
+757089,7701300,,Mendocino Ave. & Fountain Grove Pkwy.,,38.4743317488,-122.7278767873,467,,0,,America/Los_Angeles,,,0
+758046,7791200,,Old Redwood Hwy. & Miller Ln.,,38.5588570249,-122.8216374225,463,,0,,America/Los_Angeles,,,0
+757956,7781500,,Sonoma Marketplace (Whole Foods),,38.29158153,-122.4622362,470,,0,,America/Los_Angeles,,,0
+757648,7748000,,McDowell Blvd. & Southpoint,,38.26093456,-122.6469814,471,,0,,America/Los_Angeles,,,0
+757561,7740220,,Petaluma Hill Rd. & Colgan Ave.,,38.42307158,-122.7078588,467,,0,,America/Los_Angeles,,,0
+757806,7763100,,Hwy. 116 & Stony Point Rd.,,38.3347597951,-122.7393544895,471,,0,,America/Los_Angeles,,,0
+757512,7734410,,Hwy. 12 & Pythian Rd.,,38.43634794,-122.5800496,468,,0,,America/Los_Angeles,,,0
+757579,7741800,,Santa Rosa Ave. & Mountain View Ave.,,38.38035816,-122.7136211,467,,0,,America/Los_Angeles,,,0
+757619,7746000,,Petaluma Blvd. N. & Stony Pt. Rd.,,38.26866632,-122.6708947,471,,0,,America/Los_Angeles,,,0
+757993,7785800,,Lakeville St. & Caufield,,38.23519425,-122.6219756,471,,0,,America/Los_Angeles,,,0
+757430,7728100,,Hwy. 12 & Mountain Ave.,,38.31962053,-122.4859386,470,,0,,America/Los_Angeles,,,0
+757643,7747920,,Sonoma Mtn. Pkwy. & Colombard Rd.,,38.26883044,-122.6428137,471,,0,,America/Los_Angeles,,,0
+757574,7741200,,Santa Rosa Ave. & Northstar Dr.,,38.39874911,-122.713673,467,,0,,America/Los_Angeles,,,0
+757171,7707600,,Cloverdale Blvd & Franklin St.,,38.79820655,-123.0184563,461,,0,,America/Los_Angeles,,,0
+757717,7754100,,Petaluma Transit Mall,,38.236645,-122.636513,471,,0,,America/Los_Angeles,,,0
+757852,7767800,,Mirabel Rd. & Trenton Rd.,,38.48972103,-122.8949689,466,,0,,America/Los_Angeles,,,0
+2329756,7715620,,Guerneville Rd. & SMART Station,,38.456883969128,-122.73698816548,467,,0,,America/Los_Angeles,,,0
+757888,7771040,,Burton Ave. & Adrian Dr.,,38.33166488,-122.6978651,471,,0,,America/Los_Angeles,,,0
+757440,7729000,,Verano Ave. (outside FAHA),,38.30284298,-122.4808773,470,,0,,America/Los_Angeles,,,0
+757816,7764100,,Fairfield Inn,,38.38860193,-122.8145178,466,,0,,America/Los_Angeles,,,0
+757936,7774700,,Snyder Ln. & Keiser,,38.35677569,-122.6858597,471,,0,,America/Los_Angeles,,,0
+757342,7720000,,Graton,,38.43732792,-122.8699724,466,,0,,America/Los_Angeles,,,0
+757270,7715100,,Old Redwood Hwy. & Larkfield Maples Ct.,,38.49924528,-122.749655,467,,0,,America/Los_Angeles,,,0
+757953,7780000,,San Rafael Transit Center,,37.97116752,-122.5230338,471,,0,,America/Los_Angeles,,,0
+757862,7768800,,Hwy. 116 & Old River Rd.,,38.50446796,-122.9927013,464,,0,,America/Los_Angeles,,,0
+757421,7727200,,Arnold Dr.,,38.35416289,-122.5244585,468,,0,,America/Los_Angeles,,,0
+757482,7731800,,Verano Ave. & Willow St.,,38.3023881,-122.4846345,470,,0,,America/Los_Angeles,,,0
+757942,7775900,,Sebastopol Rd. & West Ave.,,38.43017052,-122.7276876,467,,0,,America/Los_Angeles,,,0
+757913,7773200,,Country Club Dr. & Emily,,38.35179837,-122.695478,471,,0,,America/Los_Angeles,,,0
+757635,7747300,,Petaluma Hill Rd. & Old Redwood Hwy.,,38.29658017,-122.6664842,471,,0,,America/Los_Angeles,,,0
+757194,7709500,,Healdsburg Ave. & Sunnyvale Dr.,,38.62845329,-122.872767,463,,0,,America/Los_Angeles,,,0
+758079,7798700,,Bodega Hwy. & Sexton Rd.,,38.3914389175,-122.8795691109,466,,0,,America/Los_Angeles,,,0
+925,7792600,,Catholic Church (Matheson St.),,38.610732959315,-122.868019186936,463,,0,,America/Los_Angeles,,,0
+757904,7772310,,Reading Cinemas (on Labath Ave.),,38.346641,-122.72127,471,,0,,America/Los_Angeles,,,0
+757399,7725410,,Hwy. 12 & Oakmont Dr.,,38.44490605,-122.6046172,468,,0,,America/Los_Angeles,,,0
+757669,7750100,,Old Redwood Hwy. & Adobe Rd.,,38.29986755,-122.6739944,471,,0,,America/Los_Angeles,,,0
+2335943,7714120,,Aviation Blvd. & Concourse Blvd.,,38.514907281225,-122.78797665094,463,,0,,America/Los_Angeles,,,0
+757372,7721300,,Sebastopol Rd. & Doubles Dr.,,38.4252112,-122.7616723,467,,0,,America/Los_Angeles,,,0
+757673,7750500,,Old Redwood Hwy. & East Railroad Ave.,,38.31470927,-122.6946934,471,,0,,America/Los_Angeles,,,0
+757508,7734200,,Hwy. 12 & Laurel Ave.,,38.41568853,-122.5474559,468,,0,,America/Los_Angeles,,,0
+757084,7701070,,Range Ave. & State Farm Dr.,,38.46558338,-122.7327481,467,,0,,America/Los_Angeles,,,0
+757655,7748600,,E. Washington St. & Ellis St.,,38.24353483,-122.6312198,471,,0,,America/Los_Angeles,,,0
+757254,7713700,,N. Laughlin Rd. & Copperhill Parkway,,38.50902884,-122.8003805,463,,0,,America/Los_Angeles,,,0
+757856,7768200,,River Rd. & Westside Rd.,,38.50677621,-122.9303604,464,,0,,America/Los_Angeles,,,0
+757750,7756500,,East Cotati Ave. & Petaluma Hill Rd.,,38.3362539,-122.6687535,471,,0,,America/Los_Angeles,,,0
+757939,7774910,,R.P. Expressway & Snyder Ln.,,38.34568132,-122.6845804,471,,0,,America/Los_Angeles,,,0
+758072,7798000,,Portuguese Beach,,38.3777562918,-123.0798332274,464,,0,,America/Los_Angeles,,,0
+757988,7785300,,Lakeville Hwy. & Casa Grande Rd.,,38.23389969,-122.6036133,471,,0,,America/Los_Angeles,,,0
+757162,7706900,,Cloverdale Blvd. & Sandholm Dr.,,38.78197143,-123.0099086,461,,0,,America/Los_Angeles,,,0
+757144,7705320,,Grove St. & Chaquita Rd.,,38.63316713,-122.8766603,463,,0,,America/Los_Angeles,,,0
+930,7793200,,Rivers Bend Club House,Flag Stop,38.6099007443,-122.8465710807,463,,0,,America/Los_Angeles,,,0
+757845,7766700,,Todd Rd. & Standish Ave.,,38.38726903,-122.7226446,467,,0,,America/Los_Angeles,,,0
+757584,7742710,,Redwood Dr. / Golf Course Dr. (Graton Resort),,38.3637023219566,-122.714933916077,471,,0,,America/Los_Angeles,,,0
+757686,7751400,,Arlen/Santa Alicia,,38.33998342,-122.7098338,471,,0,,America/Los_Angeles,,,0
+757969,7782900,,Hwy. 12 & 3rd St. West,,38.2924891,-122.4643189,470,,0,,America/Los_Angeles,,,0
+757801,7762770,,Bodway Pkwy./ Middlebrook Way,,38.33205724,-122.6762095,471,,0,,America/Los_Angeles,,,0
+757408,7726300,,Pythian Rd. & Hwy. 12,,38.43479869,-122.5784843,468,,0,,America/Los_Angeles,,,0
+757389,7724500,,Hwy. 12 & Middle Rincon Rd.,,38.46358896,-122.6654464,467,,0,,America/Los_Angeles,,,0
+757086,7701090,,Range Ave. & Steele Ln.,,38.46037227,-122.7326246,467,,0,,America/Los_Angeles,,,0
+757540,7737100,,3rd St. & D St.,,38.4407383,-122.7111752,467,,0,,America/Los_Angeles,,,0
+757373,7721400,,S.R. Corporate Center (The Lakes),,38.42599396,-122.7512049,467,,0,,America/Los_Angeles,,,0
+2329752,7785710,,SMART Petaluma Station (D St.),,38.236548948002,-122.63446979105,471,,0,,America/Los_Angeles,,,0
+2371011,7742800,,Redwood Dr. & Golf Course Dr. (Graton Resort),,38.362691321182,-122.71517355999,471,,0,,America/Los_Angeles,,,0
+757755,7757100,,Snyder Ln. & R.P. Expressway,,38.34823037,-122.6854454,471,,0,,America/Los_Angeles,,,0
+757314,7718000,,River Rd. & Armstrong Woods Rd.,,38.50196802,-122.996923,464,,0,,America/Los_Angeles,,,0
+757456,7730400,,Broadway & Patten St.,,38.28984489,-122.4580508,470,,0,,America/Los_Angeles,,,0
+757638,7747600,,McDowell Blvd. & Clegg St.,,38.26900206,-122.6602084,471,,0,,America/Los_Angeles,,,0
+944,7794400,,Prentice Ave. & March Ave.,,38.6267861847,-122.8666548598,463,,0,,America/Los_Angeles,,,0
+757565,7740300,,Santa Rosa Ave. & Barham Ave.,,38.42739573,-122.7132341,467,,0,,America/Los_Angeles,,,0
+757820,7764310,,Hwy. 116 & Southpoint Ave.,,38.39447167,-122.8187896,466,,0,,America/Los_Angeles,,,0
+757404,7725900,,Ac. Oakmont Golf Course,,38.43266568,-122.5943358,468,,0,,America/Los_Angeles,,,0
+758016,7788100,,Windsor Rd. & Mitchell Ln.,,38.5326514269,-122.8135263103,463,,0,,America/Los_Angeles,,,0
+757952,7776800,,Irwin Ln. & Hwy. 12,,38.41797344,-122.7895855,466,,0,,America/Los_Angeles,,,0
+757609,7745000,,Old Redwood Hwy. & Valparaiso Ave.,,38.32048088,-122.7016937,471,,0,,America/Los_Angeles,,,0
+757843,7766400,,Moorland Ave. & btwn. W. Robles/Todd,,38.39213027,-122.7185054,467,,0,,America/Los_Angeles,,,0
+757147,7705600,,Healdsburg Ave. & Parkland Farms Dr.,,38.63837884,-122.873838,463,,0,,America/Los_Angeles,,,0
+849470,7776610,,Occidental Rd. & Fulton Rd.,,38.427636697151,-122.77110354581,466,,0,,America/Los_Angeles,,,0
+757548,7739100,,Healdsburg Ave. & Hurlbut Ave.,,38.40735362,-122.8382132,466,,0,,America/Los_Angeles,,,0
+757612,7745300,,Old Redwood Hwy. & Minnesota Ave.,,38.30641002,-122.686891,471,,0,,America/Los_Angeles,,,0
+757318,7718040,,Orchard Ave. & River Ln.,,38.4896846112418,-123.013768284795,464,,0,,America/Los_Angeles,,,0
+757419,7727000,,Arnold Dr. & Warm Springs Rd.,,38.3638298,-122.5244788,468,,0,,America/Los_Angeles,,,0
+757150,7705810,,Geyserville Ave. & Independence Ln.,,38.67911269,-122.8797758,461,,0,,America/Los_Angeles,,,0
+757153,7706100,,Geyserville Ave. (Geyserville Park & Ride),,38.70732429,-122.9052184,461,,0,,America/Los_Angeles,,,0
+757968,7782800,,W. Napa St. & 5th St. W. (front of Safeway),,38.29277243,-122.4674966,470,,0,,America/Los_Angeles,,,0
+757368,7721030,,Earl Baum Ctr. (Occidental Rd.),,38.42373072,-122.7803922,466,,0,,America/Los_Angeles,,,0
+757831,7765200,,Moorland Ave. & West Robles Ave.,,38.39438405,-122.7184786,467,,0,,America/Los_Angeles,,,0
+758745,7765410,,Bellevue Ave. & Moorland Ave.,,38.4019364705393,-122.718028128147,467,,0,,America/Los_Angeles,,,0
+757173,7707800,,Cloverdale Blvd & Treadway,,38.7843695,-123.0129716,461,,0,,America/Los_Angeles,,,0
+757802,7762780,,Bodway & Maurice,,38.33433504,-122.6777819,471,,0,,America/Los_Angeles,,,0
+757165,7707200,,Cloverdale Blvd. & Tarman Dr.,,38.79816744,-123.0181411,461,,0,,America/Los_Angeles,,,0
+757502,7733600,,Arnold Dr.,,38.3553199,-122.5251394,468,,0,,America/Los_Angeles,,,0
+757796,7762710,,Camino Colegio & East Cotati Ave.,,38.33374242,-122.687626,471,,0,,America/Los_Angeles,,,0
+757763,7757900,,Petaluma Hill Rd. & Kawana Springs Rd.,,38.41698222,-122.7041053,467,,0,,America/Los_Angeles,,,0
+758073,7798100,,Salmon Creek Beach,,38.3556914549,-123.0662585569,464,,0,,America/Los_Angeles,,,0
+757103,7701910,,Larkfield Shopping Center,,38.50125011,-122.7515788,467,,0,,America/Los_Angeles,,,0
+757239,7713200,,Airport Blvd. & N. Laughlin Rd.,,38.51113418,-122.8006591,463,,0,,America/Los_Angeles,,,0
+757315,7718010,,Guernewood Rd. & Neeley Rd.,,38.4988937846836,-123.00215473288,464,,0,,America/Los_Angeles,,,0
+757726,7754620,,Rainier Ave. & Acadia Dr.,,38.26200457,-122.6298689,471,,0,,America/Los_Angeles,,,0
+758005,7786720,,Broadway & Leveroni Rd.,,38.27715705,-122.4599655,470,,0,,America/Los_Angeles,,,0
+757323,7718400,,Rio Nido,,38.51940815,-122.9778392,464,,0,,America/Los_Angeles,,,0
+757744,7755900,,Petaluma Hill Rd. & Dutch Ln.,,38.30413233,-122.6663911,471,,0,,America/Los_Angeles,,,0
+757515,7734700,,Pythian Rd. & Golf Ct.,,38.42929266,-122.5832924,468,,0,,America/Los_Angeles,,,0
+757858,7768400,,River Rd. & Odd Fellows Park Rd.,,38.51027234,-122.9661932,464,,0,,America/Los_Angeles,,,0
+757983,7784800,,Watmaugh Rd. & Bear Flag Rd.,,38.25811141,-122.4911749,470,,0,,America/Los_Angeles,,,0
+757623,7746300,,Petaluma Blvd. & Shasta Ln.,,38.24694506,-122.6454322,471,,0,,America/Los_Angeles,,,0
+757537,7736800,,Montgomery Dr. & Shortt Rd.,,38.44567189,-122.6915052,467,,0,,America/Los_Angeles,,,0
+933,7792700,,Senior Center,,38.6106643201,-122.8690835745,463,,0,,America/Los_Angeles,,,0
+757528,7735900,,Hwy. 12 & Boas Dr.,,38.46518097,-122.6583649,467,,0,,America/Los_Angeles,,,0
+757772,7760200,,Hwy. 116 & Fircrest Ave.,,38.3908633,-122.816698,466,,0,,America/Los_Angeles,,,0
+757301,7717320,,Moscow Rd. & West St.,,38.47298178,-123.0248064,464,,0,,America/Los_Angeles,,,0
+758030,7789500,,Hembree Ln. & Pepper Tree Dr.,,38.5512575708,-122.7979813212,463,,0,,America/Los_Angeles,,,0
+757779,7760900,,Hwy. 116 & Lone Pine Rd.,,38.36484362,-122.7809687,466,,0,,America/Los_Angeles,,,0
+757908,7772710,,RP Expressway & Country Club Dr.,,38.34811828,-122.7002912,471,,0,,America/Los_Angeles,,,0
+757554,7739500,,Ross Rd. & Kamuela Rd.,,38.44192618,-122.870603,466,,0,,America/Los_Angeles,,,0
+757780,7761000,,Hwy. 116 & Hessel Rd.,,38.36340461,-122.7794375,466,,0,,America/Los_Angeles,,,0
+757223,7712010,,Hembree Ln. & Broad Oak Way,,38.53920919,-122.7981025,463,,0,,America/Los_Angeles,,,0
+757137,7704800,,Old Redwood Hwy. & Limerick Ln.,,38.5886666,-122.8494604,463,,0,,America/Los_Angeles,,,0
+757627,7746500,,Washington & Petaluma Blvd. (Downtown Petaluma),,38.2357086,-122.6407987,471,,0,,America/Los_Angeles,,,0
+757195,7709600,,Healdsburg Ave. & Dry Creek Rd.,,38.62504465,-122.8728117,463,,0,,America/Los_Angeles,,,0
+757403,7725800,,Oakmont Dr. & RidgeGreen Dr.,,38.43516372,-122.5981164,468,,0,,America/Los_Angeles,,,0
+757415,7726700,,Hwy. 12 & Kunde Ranch Rd.,,38.41078732,-122.544071,468,,0,,America/Los_Angeles,,,0
+757317,7718030,,Orchard Ave. & Montesano Ave.,,38.4873899576644,-123.012934096048,464,,0,,America/Los_Angeles,,,0
+757169,7707410,,Kings Circle & E. Third St.,,38.8102707954439,-123.015643440414,461,,0,,America/Los_Angeles,,,0
+757600,7744300,,Adrian/ Southwest,,38.3354751848146,-122.705107927322,471,,0,,America/Los_Angeles,,,0
+757473,7731420,,Hwy. 12 & Ramon St.,,38.2987839,-122.475068,470,,0,,America/Los_Angeles,,,0
+757520,7735200,,Oakmont Dr. & White Oak,,38.44126442,-122.6043073,468,,0,,America/Los_Angeles,,,0
+757887,7771030,,Burton Ave. & Bonnie Ave.,,38.33426044,-122.6967434,471,,0,,America/Los_Angeles,,,0
+757681,7750900,,East Cotati Ave. & La Salle Ave.,,38.32862395,-122.6991816,471,,0,,America/Los_Angeles,,,0
+757283,7715760,,Russell & Ventura (Kaiser Stop),,38.46908844,-122.7244746,467,,0,,America/Los_Angeles,,,0
+757923,7773750,,Fairway Dr. & Holly Ave.,,38.37160252,-122.6962735,471,,0,,America/Los_Angeles,,,0
+757285,7715780,,Administration Dr. & Ventura Ave.,,38.464062,-122.723862,467,,0,,America/Los_Angeles,,,0
+758012,7787700,,Windsor Rd. & Plant Rd.,,38.5402983444445,-122.816933357672,463,,0,,America/Los_Angeles,,,0
+758071,7797900,,Duncan's Landing,,38.4011955462,-123.0944557969,464,,0,,America/Los_Angeles,,,0
+757274,7715500,,Old Redwood Hwy. (Kaiser Stein Bldg.),,38.48283847,-122.7346954,467,,0,,America/Los_Angeles,,,0
+758047,7791300,,Old Redwood Hwy. & Rio Ruso Dr.,,38.5572387865,-122.8203265712,463,,0,,America/Los_Angeles,,,0
+757994,7785900,,Lakeville Hwy. & Baywood Dr.,,38.23276528,-122.6152987,471,,0,,America/Los_Angeles,,,0
+757491,7732600,,Hwy. 12 & Mountain Ave.,,38.31973723,-122.4857874,470,,0,,America/Los_Angeles,,,0
+757255,7713800,,Copperhill Pkwy. & N. Laughlin Rd.,,38.50722201,-122.7978727,463,,0,,America/Los_Angeles,,,0
+757305,7717370,,Hwy. 116 & Laurel Dell Ave.,,38.46668715,-123.0411087,464,,0,,America/Los_Angeles,,,0
+757534,7736500,,Montgomery Dr. & Jacqueline,,38.45201926,-122.6754025,467,,0,,America/Los_Angeles,,,0
+757733,7754800,,N. McDowell Blvd. & Dynamic St.,,38.25804034,-122.6413586,471,,0,,America/Los_Angeles,,,0
+757092,7701600,,Old Redwood Hwy. & Cardinal Newman HS,,38.49145401,-122.7410319,467,,0,,America/Los_Angeles,,,0
+757867,7769200,,Hwy. 116 & Lovers/Guernewood Ln.,,38.49532542,-123.0086669,464,,0,,America/Los_Angeles,,,0
+757085,7701080,,Range Ave. & @ Paulin Creek,,38.46269277,-122.732721,467,,0,,America/Los_Angeles,,,0
+757215,7711500,,Old Redwood Hwy. & Hembree Ln.,,38.5414302106652,-122.796816558301,463,,0,,America/Los_Angeles,,,0
+757879,7770500,,Lancaster & Lords Manor Way,,38.32469699,-122.6905845,471,,0,,America/Los_Angeles,,,0
+757967,7782700,,FAHA (inside driveway),,38.3031127,-122.4806414,470,,0,,America/Los_Angeles,,,0
+757933,7774400,,Snyder Ln. & Golf Course Dr.,,38.36693261,-122.6858995,471,,0,,America/Los_Angeles,,,0
+757358,7720830,,Bodega Ave. & Pleasant Hill Ave.,,38.39827084,-122.8389857,466,,0,,America/Los_Angeles,,,0
+757374,7721700,,Sebastopol Rd. & Stony Point Rd.,,38.42661118,-122.7434526,467,,0,,America/Los_Angeles,,,0
+2332185,7752200,,Robert's Lake Rd. / Golf Course Dr.,,38.363872032091,-122.71049909226,471,,0,,America/Los_Angeles,,,0
+757396,7725200,,Hwy. 12 & Los Alamos,,38.45792645,-122.633575,468,,0,,America/Los_Angeles,,,0
+757760,7757600,,Snyder Ln. & Holly,,38.3694557906981,-122.685637772083,471,,0,,America/Los_Angeles,,,0
+757629,7746700,,Petaluma Hill Rd. & Robert's Rd.,,38.3282859,-122.6668176,471,,0,,America/Los_Angeles,,,0
+809086,7742720,,Redwood Dr. / Commerce Blvd. (Taco Bell across from Chili's),,38.3649875835296,-122.713647946502,471,,0,,America/Los_Angeles,,,0
+757106,7702100,,Old Redwood Hwy. & Faught Rd.,,38.50878194,-122.7598039,463,,0,,America/Los_Angeles,,,0
+757082,7701050,,Kaiser Stop / Bicentennial Ave,,38.47034051,-122.7257001,467,,0,,America/Los_Angeles,,,0
+757695,7751910,,State Farm Dr. & City Hall Dr.,,38.35045232,-122.7058571,471,,0,,America/Los_Angeles,,,0
+757576,7741400,,Santa Rosa Ave. & East Robles Ave.,,38.39285094,-122.713726,467,,0,,America/Los_Angeles,,,0
+757966,7782600,,Railroad Ave. & Craig Ave.,,38.30650699,-122.4890656,470,,0,,America/Los_Angeles,,,0
+757790,7761900,,RP Expressway & Hwy. 101,,38.34818649,-122.7141267,471,,0,,America/Los_Angeles,,,0
+757788,7761700,,Redwood Dr. & RP Expressway,,38.345704,-122.7155439,471,,0,,America/Los_Angeles,,,0
+757458,7730510,,2nd St. West & Hwy. 12,,38.29090472,-122.4615479,470,,0,,America/Los_Angeles,,,0
+757976,7784400,,DeAnza/Moon Valley MHP (Inside),,38.28399801,-122.4697447,470,,0,,America/Los_Angeles,,,0
+929,7793100,,Riverside Club House,Flag Stop,38.6095400275339,-122.850292072845,463,,0,,America/Los_Angeles,,,0
+757611,7745200,,Old Redwood Hwy. & Fern Avenue/Highland,,38.30975919,-122.6906597,471,,0,,America/Los_Angeles,,,0
+757526,7735700,,Hwy. 12 & Mountain Hawk,,38.46269441,-122.6436854,468,,0,,America/Los_Angeles,,,0
+758038,7790300,,Brooks Rd. & Glen Miller Dr. (Lakewood Village),,38.5511211631,-122.8075336683,463,,0,,America/Los_Angeles,,,0
+757335,7719300,,Mirabel Rd. & Hwy. 116,,38.47435722,-122.8949966,466,,0,,America/Los_Angeles,,,0
+757531,7736200,,Hwy. 12 & Cardinal Way,,38.46099626,-122.671099,467,,0,,America/Los_Angeles,,,0
+757765,7758100,,East Cotati Ave. & Cristobal Way,,38.3351866,-122.6868726,471,,0,,America/Los_Angeles,,,0
+757205,7710600,,Starr Rd. & Entrada,,38.55896779,-122.8261991,463,,0,,America/Los_Angeles,,,0
+761115,7777700,,Graton Resort (North Entrance),,38.3616404690514,-122.722625809554,471,,0,,America/Los_Angeles,,,0
+757826,7764700,,Amarosa Academy,,38.39713582,-122.7234076,467,,0,,America/Los_Angeles,,,0
+848666,7707320,,Cloverdale Blvd. & Railroad Ave.,,38.8031534055756,-123.015830978537,461,,0,,America/Los_Angeles,,,0
+757484,7732000,,Hwy. 12 & Verano Ave.,,38.30315661,-122.4763818,470,,0,,America/Los_Angeles,,,0
+757610,7745100,,Old Redwood Hwy. & West Railroad Ave.,,38.31446418,-122.6946144,471,,0,,America/Los_Angeles,,,0
+757428,7727900,,Agua Caliente Rd. & Hwy. 12,,38.32550862,-122.4885654,470,,0,,America/Los_Angeles,,,0
+757590,7743000,,Redwood Dr. & RP Expressway,,38.3524656,-122.7149946,471,,0,,America/Los_Angeles,,,0
+757674,7750600,,Old Redwood Hwy. & Valparaiso,,38.32238485,-122.7027804,471,,0,,America/Los_Angeles,,,0
+757331,7719010,,River Rd. & Trenton-Healdsburg Rd.,,38.48802264,-122.8548663,466,,0,,America/Los_Angeles,,,0
+757483,7731900,,Verano Ave. & Main St.,,38.30270313,-122.4784528,470,,0,,America/Los_Angeles,,,0
+757556,7739700,,Hwy. 116 & Guerneville Rd.,,38.45263229,-122.8683234,466,,0,,America/Los_Angeles,,,0
+757954,7780100,,Schellville Hwy. 116 & 121,,38.23595679,-122.4613023,470,,0,,America/Los_Angeles,,,0
+757747,7756200,,Petaluma Hill Rd. & Valley House Dr.,,38.32085142,-122.6666625,471,,0,,America/Los_Angeles,,,0
+757550,7739120,,Gravenstein Hwy. & Occidental Rd.,,38.4258548195446,-122.84814690741,466,,0,,America/Los_Angeles,,,0
+757541,7738400,,Hwy. 12 & Merced Rd.,,38.42114279,-122.7788678,466,,0,,America/Los_Angeles,,,0
+757294,7716500,,Healdsburg Ave. & Tenth St.,,38.44366408,-122.717923,467,,0,,America/Los_Angeles,,,0
+757391,7724700,,Hwy. 12 & Boas Dr.,,38.46489233,-122.6572843,467,,0,,America/Los_Angeles,,,0
+758022,7788700,,Conde Ln.,,38.5362236507,-122.8001727649,463,,0,,America/Los_Angeles,,,0
+759361,7790910,,Los Amigos & Cordelia Ln.,,38.5555678756499,-122.816557735205,463,,0,,America/Los_Angeles,,,0
+757343,7720100,,Graton Rd. & Sonoma Ave.,,38.43675309,-122.8615516,466,,0,,America/Los_Angeles,,,0
+757236,7713110,,Westwind Blvd. & Airport Blvd.,,38.50902829,-122.7959075,463,,0,,America/Los_Angeles,,,0
+757143,7705310,,Dry Creek Rd. & Healdsburg Ave.,,38.62636291,-122.8737646,463,,0,,America/Los_Angeles,,,0
+757083,7701060,,Range Ave. & Russel Ave.,,38.46832138,-122.7327758,467,,0,,America/Los_Angeles,,,0
+757714,7753700,,Santa Rosa Ave. & Barham Ave.,,38.4275483,-122.7128235,467,,0,,America/Los_Angeles,,,0
+757882,7770800,,Rancho Cotate High School,,38.33968746,-122.6859462,471,,0,,America/Los_Angeles,,,0
+757479,7731730,,Boyes Blvd. & Railroad Ave.,,38.31173252,-122.4921335,470,,0,,America/Los_Angeles,,,0
+757587,7742830,,Labath & Martin,,38.35527369,-122.7224293,471,,0,,America/Los_Angeles,,,0
+757742,7755700,,Petaluma Hill Rd. & Woodward Ave.,,38.29729696,-122.6663154,471,,0,,America/Los_Angeles,,,0
+757124,7703400,,Windsor River Rd. & Old Redwood Hwy.,,38.54742656,-122.8115173,463,,0,,America/Los_Angeles,,,0
+757962,7782200,,Boyes Blvd. & Spring St.,,38.31404129,-122.4852375,470,,0,,America/Los_Angeles,,,0
+757402,7725700,,Oakmont Dr. & Hillsdale Dr.,,38.43712803,-122.5994973,468,,0,,America/Los_Angeles,,,0
+757303,7717340,,Duncans Mills,,38.453416066,-123.0536903381,464,,0,,America/Los_Angeles,,,0
+757595,7743500,,Commerce Blvd. & Padre Parkway,,38.35011198,-122.7097556,471,,0,,America/Los_Angeles,,,0
+757475,7731600,,Riverside Dr. & Solano Ave.,,38.29658959,-122.4807293,470,,0,,America/Los_Angeles,,,0
+757849,7767500,,Forestville (Downtown),,38.47367409,-122.8929302,466,,0,,America/Los_Angeles,,,0
+757385,7724100,,Montgomery Dr. & Jacqueline,,38.45220904,-122.6747247,467,,0,,America/Los_Angeles,,,0
+757397,7725300,,Hwy. 12 & Melita Rd. (West End),,38.45558113,-122.627412,468,,0,,America/Los_Angeles,,,0
+757973,7784000,,Sonoma Marketplace (Mid-Center Stop),,38.29056248,-122.4625124,470,,0,,America/Los_Angeles,,,0
+757189,7709010,,Geyserville Ave. & Independence Ln.,,38.67912815,-122.8798852,461,,0,,America/Los_Angeles,,,0
+757958,7781700,,W. Napa St. & 5th St. W. (ac. Safeway),,38.29293888,-122.4671215,470,,0,,America/Los_Angeles,,,0
+757559,7740100,,Santa Rosa Ave. & Sebastopol Ave.,,38.43393453,-122.7119073,467,,0,,America/Los_Angeles,,,0
+757263,7714440,,River Rd. & W. of Hwy. 101,,38.49628523,-122.760916,467,,0,,America/Los_Angeles,,,0
+940,7794000,,Parkland Farms,,38.6377489406,-122.8730207968,463,,0,,America/Los_Angeles,,,0
+757289,7716000,,Mendocino Ave. & Schurman Dr.,,38.4628473,-122.7182234,467,,0,,America/Los_Angeles,,,0
+757911,7773100,,Country Club Dr. & Santa Cruz Way,,38.34964807,-122.6954733,471,,0,,America/Los_Angeles,,,0
+757889,7771100,,Southwest Blvd. & Seedfarm Dr.,,38.34141781,-122.6969639,471,,0,,America/Los_Angeles,,,0
+757659,7749200,,Petaluma Blvd. & Btwn. Cherry&Magnolia,,38.24289931,-122.6440597,471,,0,,America/Los_Angeles,,,0
+757273,7715400,,Old Redwood Hwy. & Cardinal Newman HS,,38.49092684,-122.740733,467,,0,,America/Los_Angeles,,,0
+757660,7749300,,Petaluma Blvd. & Shasta Ave.,,38.24692128,-122.6451768,471,,0,,America/Los_Angeles,,,0
+757840,7766100,,Moorland Ave. & Bellevue Ave.,,38.40087418,-122.7186316,467,,0,,America/Los_Angeles,,,0
+757599,7743810,,Commerce Blvd. & Alison,,38.33892972,-122.7123664,471,,0,,America/Los_Angeles,,,0
+810175,7797200,,Blair St. & Clark Ave.,,38.7979634556,-123.0146394256,461,,0,,America/Los_Angeles,,,0
+757295,7716600,,B St. & Seventh St.,,38.44089571,-122.7167027,467,,0,,America/Los_Angeles,,,0
+757488,7732300,,Hwy. 12 & Thompson Ave.,,38.31013188,-122.4794077,470,,0,,America/Los_Angeles,,,0
+757684,7751200,,Adrian Dr. & Adrian Ct.,,38.33776349,-122.7053861,471,,0,,America/Los_Angeles,,,0
+757139,7705000,,Healdsburg Ave. & Mill St.,,38.60757937,-122.8694918,463,,0,,America/Los_Angeles,,,0
+757543,7738600,,Morris St. & Hwy. 12,,38.40359583,-122.8191429,466,,0,,America/Los_Angeles,,,0
+757288,7715900,,Mendocino Ave. & Chanate Rd.,,38.46465344,-122.7193304,467,,0,,America/Los_Angeles,,,0
+757336,7719400,,Forestville (Downtown),,38.4735395,-122.8928919,466,,0,,America/Los_Angeles,,,0
+757266,7714700,,Old Redwood Hwy. & Faught Rd.,,38.50853376,-122.7599479,463,,0,,America/Los_Angeles,,,0
+757398,7725400,,Hwy. 12 & Melita Rd. (East End),,38.45351777,-122.6229557,468,,0,,America/Los_Angeles,,,0
+757307,7717390,,Hwy. 116 & Front St.,,38.46967229,-123.014148,464,,0,,America/Los_Angeles,,,0
+757932,7774300,,Snyder Ln. & Holly Ave.,,38.36982997,-122.6858966,471,,0,,America/Los_Angeles,,,0
+757696,7751920,,Kaiser Medical Center,,38.35484583,-122.7079276,471,,0,,America/Los_Angeles,,,0
+757470,7731300,,Hwy. 12 & 7th St. West,,38.29342576,-122.4724949,470,,0,,America/Los_Angeles,,,0
+757672,7750400,,Old Redwood Hwy. & Fern Ave.,,38.30971175,-122.6903806,471,,0,,America/Los_Angeles,,,0
+757281,7715740,,Range Ave. & Russel Ave.,,38.46962622,-122.7324752,467,,0,,America/Los_Angeles,,,0
+757201,7710200,,Old Redwood Hwy. & Eastside Rd.,,38.57782174,-122.8433622,463,,0,,America/Los_Angeles,,,0
+757232,7712600,,Old Redwood Hwy. & Airport Blvd,,38.51273422,-122.7657755,463,,0,,America/Los_Angeles,,,0
+757156,7706400,,Geyserville Rd. & East of Hwy. 101,,38.72806979,-122.9393669,461,,0,,America/Los_Angeles,,,0
+758017,7788200,,Mitchell Ln. & 8th Hole Dr.,,38.5327649641,-122.8093547791,463,,0,,America/Los_Angeles,,,0
+757187,7708900,,Geyserville Ave. & Walden St.,,38.70532814,-122.9022357,461,,0,,America/Los_Angeles,,,0
+757805,7763000,,East Cotati Ave. & Bodway/Vine,,38.33599657,-122.6773239,471,,0,,America/Los_Angeles,,,0
+757848,7767000,,W. Robles Ave. & Standish Ave.,,38.39448975,-122.7246297,467,,0,,America/Los_Angeles,,,0
+757593,7743300,,Commerce Blvd. & State Farm Dr.,,38.35809394,-122.7126844,471,,0,,America/Los_Angeles,,,0
+758069,7797700,,Jenner,,38.4494169538,-123.1149881667,464,,0,,America/Los_Angeles,,,0
+758010,7787500,,Windsor Depot (Emily Rose Circle),,38.5477930573,-122.8170393356,463,,0,,America/Los_Angeles,,,0
+757188,7709000,,Geyserville Ave. &,,38.69305168,-122.8849537,461,,0,,America/Los_Angeles,,,0
+757834,7765500,,Corby Ave. & Bellevue Ave.,,38.40764857,-122.7163375,467,,0,,America/Los_Angeles,,,0
+757313,7717900,,Guerneville Safeway,,38.50182822,-123.0005581,464,,0,,America/Los_Angeles,,,0
+757824,7764520,,Laguna Park Way & Morris St.,,38.40513006,-122.8200281,466,,0,,America/Los_Angeles,,,0
+757746,7756100,,Petluma Hill Rd. & East Railroad Ave.,,38.31459884,-122.6665737,471,,0,,America/Los_Angeles,,,0
+757999,7786400,,Adobe Rd. & Stage Gulch Rd.,,38.23621691,-122.5269582,470,,0,,America/Los_Angeles,,,0
+757866,7769100,,Hwy. 116 (Guerneville Park & Ride),,38.50204813,-123.0030418,464,,0,,America/Los_Angeles,,,0
+757677,7750810,,Old Redwood Hwy. & La Plaza,,38.32710469,-122.7066699,471,,0,,America/Los_Angeles,,,0
+757127,7703700,,Starr Rd. & Buckingham Dr.,,38.54878559,-122.8259323,463,,0,,America/Los_Angeles,,,0
+757093,7701700,,Old Redwood Hwy. & La Mancha Apartments,,38.49373114,-122.7439674,467,,0,,America/Los_Angeles,,,0
+757626,7746410,,Petaluma Blvd. & Kent St.,,38.23979036,-122.6433605,471,,0,,America/Los_Angeles,,,0
+757416,7726800,,Hwy. 12 & Nuns Canyon Rd.,,38.38835615,-122.5224866,468,,0,,America/Los_Angeles,,,0
+758024,7788900,,Conde Ln. & American Way,,38.5296553488,-122.798234808,463,,0,,America/Los_Angeles,,,0
+810172,7796300,,Cherry Creek Rd. & Foothill Blvd.,,38.7947326773,-123.0207055739,461,,0,,America/Los_Angeles,,,0
+757474,7731500,,Riverside Dr. & Petaluma Ave.,,38.29473063,-122.4781539,470,,0,,America/Los_Angeles,,,0
+757427,7727800,,Agua Caliente Rd. & Lake St.,,38.32390851,-122.4919885,470,,0,,America/Los_Angeles,,,0
+757768,7758400,,East Cotati Ave. & Ryan Lane,,38.3314364213873,-122.69293384523,471,,0,,America/Los_Angeles,,,0
+757154,7706200,,Geyserville Ave. & Geysers Ridge Rd.,,38.7106872,-122.9115988,461,,0,,America/Los_Angeles,,,0
+757390,7724600,,Hwy. 12 & Maria Ln.,,38.46472612,-122.6604336,467,,0,,America/Los_Angeles,,,0
+757884,7771000,,Southwest Blvd. & Country Club Dr.,,38.34142841,-122.6944266,471,,0,,America/Los_Angeles,,,0
+757767,7758300,,East Cotati Ave. & Sunflower Dr.,,38.33267251,-122.6904413,471,,0,,America/Los_Angeles,,,0
+757631,7746900,,Petaluma Hill Rd. & East Railroad Ave.,,38.31399225,-122.6668043,471,,0,,America/Los_Angeles,,,0
+757324,7718500,,River Rd. & Odd Fellows Park Rd.,,38.51024692,-122.9664692,464,,0,,America/Los_Angeles,,,0
+757895,7771800,,Enterprise Dr. & Hunter Dr.,,38.34471544,-122.70642,471,,0,,America/Los_Angeles,,,0
+757898,7772010,,LaBath Ave. & RP Expressway,,38.35062167,-122.7211343,471,,0,,America/Los_Angeles,,,0
+757878,7770400,,Lancaster/Myrtle,,38.32205842,-122.6894212,471,,0,,America/Los_Angeles,,,0
+810169,7795900,,Jefferson St. & W. Fourth St.,,38.8070685174,-123.0226078512,461,,0,,America/Los_Angeles,,,0
+757720,7754220,,Petaluma Fairgrounds Park & Ride,,38.24255811,-122.6313492,471,,0,,America/Los_Angeles,,,0
+757723,7754500,,N. McDowell Blvd. & Lynch Creek Way,,38.25338689,-122.6330373,471,,0,,America/Los_Angeles,,,0
+931,7793300,,First St. & Mason St.,,38.6080522554972,-122.86185554262,463,,0,,America/Los_Angeles,,,0
+758041,7790700,,Foxwood Dr.,,38.552464637,-122.8112792034,463,,0,,America/Los_Angeles,,,0
+757073,7700600,,Mendocino Ave. & Ridgeway,,38.44997874,-122.7174098,467,,0,,America/Los_Angeles,,,0
+757212,7711200,,Windsor River Rd. & Old Red. Hwy.,,38.54721113,-122.8119284,463,,0,,America/Los_Angeles,,,0
+810168,7795800,,Jefferson St. & School St.,,38.8093802289,-123.0242082305,461,,0,,America/Los_Angeles,,,0
+757929,7774010,,Houser St. & Redwood Dr.,,38.339079,-122.71389,471,,0,,America/Los_Angeles,,,0
+771475,7760110,,Hwy. 116 and Hutchins Ave.,,38.3932625783333,-122.818402960683,466,,0,,America/Los_Angeles,,,0
+757387,7724300,,Mission Blvd. & Hwy. 12,,38.45828634,-122.6730349,467,,0,,America/Los_Angeles,,,0
+757142,7705300,,Healdsburg Ave. & Dry Creek Rd.,,38.62354419,-122.8725411,463,,0,,America/Los_Angeles,,,0
+757880,7770600,,Lancaster & Liman Way,,38.32634116,-122.6915191,471,,0,,America/Los_Angeles,,,0
+757991,7785600,,Lakeville St. & SB Hwy. 101 on-ramp,,38.23417966,-122.6192798,471,,0,,America/Los_Angeles,,,0
+757792,7762400,,Old Redwood Hwy. & Commerce Blvd.,,38.33175672,-122.7112888,471,,0,,America/Los_Angeles,,,0
+757925,7773770,,Holly Ave. & Hillview Way,,38.37059772,-122.6903737,471,,0,,America/Los_Angeles,,,0
+757644,7747930,,Sonoma Mtn. Pkwy & Reisling,,38.26843848,-122.6404032,471,,0,,America/Los_Angeles,,,0
+757346,7720400,,Gravenstein Hwy. & Mills Station Rd.,,38.41304545,-122.8433789,466,,0,,America/Los_Angeles,,,0
+757219,7711900,,Old Redwood Hwy. & Billington Ln.,,38.53530859,-122.7882376,463,,0,,America/Los_Angeles,,,0
+757276,7715610,,Mendocino Ave. & Bicentennial Way,,38.47245321,-122.7257566,467,,0,,America/Los_Angeles,,,0
+757709,7753200,,Santa Rosa Ave. & Court Rd.,,38.40753712,-122.7132943,467,,0,,America/Los_Angeles,,,0
+757209,7711000,,Windsor River Rd. & Spencer St.,,38.54716554,-122.8206467,463,,0,,America/Los_Angeles,,,0
+757334,7719200,,Mirabel Rd. & Giusti Rd.,,38.48098175,-122.8949012,466,,0,,America/Los_Angeles,,,0
+757221,7711920,,Old Redwood Hwy. & Anna Dr.,,38.530375,-122.782642,463,,0,,America/Los_Angeles,,,0
+757434,7728600,,Hwy. 12 & Siesta Way,,38.30825843,-122.478682,470,,0,,America/Los_Angeles,,,0
+757207,7710800,,Starr Rd. & Coleen Dr.,,38.55366945,-122.8261566,463,,0,,America/Los_Angeles,,,0
+757442,7729200,,El Verano (Verano Ave. & Bay St.),,38.30155671,-122.4876839,470,,0,,America/Los_Angeles,,,0
+757075,7700800,,Mendocino Ave. & Dexter St.,,38.45720892,-122.7171263,467,,0,,America/Los_Angeles,,,0
+757951,7776700,,Irwin Ln. & Occidental Rd.,,38.42294861,-122.7880759,466,,0,,America/Los_Angeles,,,0
+757121,7703100,,Old Redwood Hwy. & Hembree Ln.,,38.54186574,-122.7972778,463,,0,,America/Los_Angeles,,,0
+757664,7749600,,Petaluma Blvd. N. & Stony Pt. Rd.,,38.26951289,-122.6703298,471,,0,,America/Los_Angeles,,,0
+757366,7721010,,Irwin Ln. & Hwy. 12,,38.41793759,-122.7894844,466,,0,,America/Los_Angeles,,,0
+757078,7701010,,Administration Dr. & Paulin,,38.46425226,-122.7220606,467,,0,,America/Los_Angeles,,,0
+757079,7701020,,Administration Dr. & Ventura,,38.46416122,-122.7239988,467,,0,,America/Los_Angeles,,,0
+757439,7728900,,Verano Ave. & Main St.,,38.30294243,-122.4779746,470,,0,,America/Los_Angeles,,,0
+757731,7754670,,Sonoma Mtn. Pkwy. & Maria Dr.,,38.26824192,-122.6490768,471,,0,,America/Los_Angeles,,,0
+848650,7756600,,Sonoma State University,,38.33807478,-122.6750043,471,,0,,America/Los_Angeles,,,0
+757637,7747500,,McDowell Blvd. & Scott St.,,38.2722420230384,-122.663721181754,471,,0,,America/Los_Angeles,,,0
+757519,7735100,,Oakmont Dr. & Hillsdale Dr.,,38.43774846,-122.5994435,468,,0,,America/Los_Angeles,,,0
+757793,7762500,,Old Redwood Hwy. & William Dr.,,38.32848395,-122.7082086,471,,0,,America/Los_Angeles,,,0
+757900,7772030,,Business Park Dr. & Redwood Dr.,,38.35760723,-122.7143603,471,,0,,America/Los_Angeles,,,0
+921,7792500,,Safeway,,38.6096864784742,-122.873346166062,463,,0,,America/Los_Angeles,,,0
+757352,7720730,,Bodega Ave. & N. Main St.,,38.402084,-122.824493,466,,0,,America/Los_Angeles,,,0
+757349,7720700,,Healdsburg Ave. & N. Main St. (Safeway),,38.40517849,-122.8269352,466,,0,,America/Los_Angeles,,,0
+757665,7749700,,Old Redwood Hwy. & McDowell Blvd.,,38.27630122,-122.6689325,471,,0,,America/Los_Angeles,,,0
+757527,7735800,,St. Francis Ctr. (Hwy. 12 & Calistoga Rd.),,38.464987,-122.6524638,467,,0,,America/Los_Angeles,,,0
+757804,7762900,,East Cotati Ave. & Snyder/Maurice,,38.33599767,-122.6839518,471,,0,,America/Los_Angeles,,,0
+757764,7758000,,Petaluma Hill Rd. & Aston Ave.,,38.42426169,-122.70829,467,,0,,America/Los_Angeles,,,0
+757536,7736700,,Montgomery Village,,38.44722429,-122.6858981,467,,0,,America/Los_Angeles,,,0
+757367,7721020,,Irwin Ln. & Occidental Rd.,,38.42283706,-122.7879079,466,,0,,America/Los_Angeles,,,0
+757990,7785500,,Lakeville Hwy. & Baywood Dr.,,38.23314703,-122.6134885,471,,0,,America/Los_Angeles,,,0
+757955,7780200,,Temelec - Arnold Dr. & Watmaugh Rd.,,38.2598051,-122.4828819,470,,0,,America/Los_Angeles,,,0
+849469,7721040,,Occidental Rd. & Merced Ave.,,38.424314755685,-122.77455823102,466,,0,,America/Los_Angeles,,,0
+757614,7745500,,Old Redwood Hwy. & Penngrove Ave.,,38.30046413,-122.6758683,471,,0,,America/Los_Angeles,,,0
+757697,7751930,,State Farm Dr. & Commerce Blvd.,,38.3574955106094,-122.712365984917,471,,0,,America/Los_Angeles,,,0
+757573,7741100,,Santa Rosa Ave. & Bellevue Ave.,,38.40419841,-122.7136344,467,,0,,America/Los_Angeles,,,0
+757218,7711800,,Old Redwood Hwy. & Shira St.,,38.5377637,-122.7909856,463,,0,,America/Los_Angeles,,,0
+757663,7749510,,Petaluma Blvd. & Metz Ln.,,38.26448036,-122.667944,471,,0,,America/Los_Angeles,,,0
+757328,7718800,,River Rd. & Scenic Rd.,,38.50574801,-122.913842,464,,0,,America/Los_Angeles,,,0
+757538,7736900,,Memorial Hospital,,38.44305655,-122.7010683,467,,0,,America/Los_Angeles,,,0
+757126,7703600,,Windsor River Rd. & Starr Rd.,,38.5473518,-122.8252264,463,,0,,America/Los_Angeles,,,0
+757724,7754600,,N. McDowell Blvd. & Rainer Ave.,,38.25566879,-122.637162,471,,0,,America/Los_Angeles,,,0
+757977,7784500,,Temelec Circle & Almeria Dr.,,38.26717447,-122.4906072,470,,0,,America/Los_Angeles,,,0
+758039,7790400,,Raley's Shopping Center,,38.5492273512,-122.8051478676,463,,0,,America/Los_Angeles,,,0
+758027,7789200,,Hembree Ln. & (driveway),,38.5438545261,-122.7981993686,463,,0,,America/Los_Angeles,,,0
+757938,7774900,,Snyder Ln. & RP Express Way,,38.34787819,-122.685632,471,,0,,America/Los_Angeles,,,0
+757570,7740800,,Santa Rosa Ave. & Hearn Ave.,,38.41120177,-122.7136356,467,,0,,America/Los_Angeles,,,0
+757885,7771010,,Technology Middle School,,38.33932777,-122.7001032,471,,0,,America/Los_Angeles,,,0
+757503,7733700,,Glen Ellen (Arnold Dr. & London Ranch Rd.),,38.36217016,-122.5257982,468,,0,,America/Los_Angeles,,,0
+757598,7743800,,Commerce Blvd. & Arlen Dr.,,38.34087434,-122.7123831,471,,0,,America/Los_Angeles,,,0
+2329762,7762910,,Camino Colegio & Manchester (Ac. Credo H.S.),,38.3254606610256,-122.679429950403,471,,0,,America/Los_Angeles,,,0
+757959,7781800,,Maxwell Village Shopping Center (inside) ,,38.2996411,-122.4766137,470,,0,,America/Los_Angeles,,,0
+757097,7701840,,Fulton Rd. & River Rd.,,38.49697808,-122.7699069,467,,0,,America/Los_Angeles,,,0
+757558,7739900,,Hwy. 116 & Templeman Rd.,,38.46347716,-122.8792265,466,,0,,America/Los_Angeles,,,0
+757134,7704500,,Old Redwood Hwy. & Eastside Rd.,,38.57451945,-122.84165,463,,0,,America/Los_Angeles,,,0
+757182,7708500,,Geyserville Ave. & East of Hwy. 101,,38.727993,-122.939468,461,,0,,America/Los_Angeles,,,0
+757068,7700100,,Santa Rosa Transit Mall,,38.43868566,-122.7137267,467,,0,,America/Los_Angeles,,,0
+757803,7762800,,East Cotati Ave. & Camino Colegio Ave.,,38.33495475,-122.6868396,471,,0,,America/Los_Angeles,,,0
+770316,7794600,,N. University St. & Monte Vista Ave.,,38.623965322904,-122.863825986269,463,,0,,America/Los_Angeles,,,0
+757624,7746310,,Petaluma Blvd. & Magnolia Ave.,,38.244208,-122.644692,471,,0,,America/Los_Angeles,,,0
+757789,7761800,,Redwood Dr. & RP Expressway,,38.34768745,-122.7166747,471,,0,,America/Los_Angeles,,,0
+810949,7796000,,Jefferson St. & W. First St.,,38.803962329596,-123.020476564551,461,,0,,America/Los_Angeles,,,0
+757996,7786100,,Lakeville Hwy. & Casa Grande Rd.,,38.23354159,-122.603953,471,,0,,America/Los_Angeles,,,0
+757693,7751800,,Commerce Blvd. & RP Expressway,,38.34991393,-122.7094897,471,,0,,America/Los_Angeles,,,0
+757539,7737000,,Third St. & Brookwood,,38.44265692,-122.7069169,467,,0,,America/Los_Angeles,,,0
+757692,7751730,,Redwood Dr. / Golf Course Dr. (Graton Resort),,38.3621345715629,-122.714453734918,471,,0,,America/Los_Angeles,,,0
+757164,7707100,,Cloverdale Blvd. & Brookside Dr.,,38.79200937,-123.0174969,461,,0,,America/Los_Angeles,,,0
+757297,7717100,,Camp Meeker (Bohemian Hwy. & Van Ness Ave.),,38.42422487,-122.9566357,464,,0,,America/Los_Angeles,,,0
+757113,7702540,,Hembree Ln. & Wilson Ln.,,38.53313588,-122.7962341,463,,0,,America/Los_Angeles,,,0
+757287,7715800,,Mendocino Ave./ Bicentennial Way,,38.46937261,-122.7222384,467,,0,,America/Los_Angeles,,,0
+757411,7726400,,Hwy. 12 & Lawndale Dr.,,38.42939125,-122.5640423,468,,0,,America/Los_Angeles,,,0
+757227,7712100,,Old Redwood Hwy. & Shiloh Rd.,,38.52519074,-122.7790434,463,,0,,America/Los_Angeles,,,0
+757494,7732800,,Agua Caliente Rd. & Hwy. 12,,38.3256509,-122.4886709,470,,0,,America/Los_Angeles,,,0
+757812,7763700,,Hwy. 116 & Old Gravenstein Hwy.,,38.37562743,-122.7929182,466,,0,,America/Los_Angeles,,,0
+758052,7791800,,Johnson St. & Bell Rd.,,38.5464958097,-122.8134593287,463,,0,,America/Los_Angeles,,,0
+757159,7706700,,Asti,,38.76157999,-122.9754915,461,,0,,America/Los_Angeles,,,0
+757262,7714430,,River Rd. & Fulton Rd.,,38.49634363,-122.7674106,467,,0,,America/Los_Angeles,,,0
+757594,7743400,,Commerce Blvd. & Professional Center Dr.,,38.35390495,-122.7125357,471,,0,,America/Los_Angeles,,,0
+757943,7776000,,Sebastopol Rd. & Burbank Rd.,,38.42858803,-122.7343003,467,,0,,America/Los_Angeles,,,0
+757309,7717500,,Hwy. 116 & Ridgecrest Dr.,,38.47761809,-122.9983688,464,,0,,America/Los_Angeles,,,0
+810164,7795200,,Cloverdale Blvd. & Fourth St.,,38.8081623403,-123.0189965272,461,,0,,America/Los_Angeles,,,0
+757892,7771400,,Country Club Dr. & Copeland Creek,,38.34303679,-122.6949625,471,,0,,America/Los_Angeles,,,0
+2329760,7755010,,N. McDowell Blvd. & Southpoint,,38.2632336141544,-122.650538535999,471,,0,,America/Los_Angeles,,,0
+757407,7726200,,Pythian Rd. & Oaktrail Dr.,,38.43181263,-122.5802524,468,,0,,America/Los_Angeles,,,0
+758014,7787900,,Windsor Rd. & Reiman Ln.,,38.53643558,-122.8168868,463,,0,,America/Los_Angeles,,,0
+757290,7716100,,Mendocino Ave. & Clement Ave.,,38.45925799,-122.7173229,467,,0,,America/Los_Angeles,,,0
+757340,7719800,,Green Valley Rd. & Hwy. 116/Hicks Rd.,,38.44576348,-122.8673598,466,,0,,America/Los_Angeles,,,0
+757737,7755200,,N. McDowell Blvd. & Corona Rd.,,38.26542516,-122.6544285,471,,0,,America/Los_Angeles,,,0
+757585,7742810,,Redwood Dr. & Business Park Dr.,,38.358365038118,-122.71369643558,471,,0,,America/Los_Angeles,,,0
+757671,7750300,,Old Redwood Hwy. & Minnesota Ave.,,38.30719898,-122.6877487,471,,0,,America/Los_Angeles,,,0
+757181,7708400,,Geyserville Ave. & Zanzi Ln.,,38.74198089,-122.9495214,461,,0,,America/Los_Angeles,,,0
+757946,7776300,,Sebastopol Rd. & Lombardi Ln.,,38.4263991,-122.7490453,467,,0,,America/Los_Angeles,,,0
+757319,7718050,,Neeley Rd. & Hwy. 116,,38.4983537704382,-122.993600534835,464,,0,,America/Los_Angeles,,,0
+757264,7714450,,Mark West Springs Rd. & Old Redwood Hwy.,,38.496407,-122.750122,467,,0,,America/Los_Angeles,,,0
+757931,7774200,,Hwy. 116 & Alder Ave.,,38.33243437,-122.7213076,471,,0,,America/Los_Angeles,,,0
+757846,7766800,,Standish Ave. & Sutton Pl.,,38.3907609,-122.7231599,467,,0,,America/Los_Angeles,,,0
+758004,7786710,,Leveroni Rd. & Palmer Ave.,,38.27619408,-122.4648714,470,,0,,America/Los_Angeles,,,0
+757859,7768500,,Rio Nido,,38.51934255,-122.9793565,464,,0,,America/Los_Angeles,,,0
+757886,7771020,,Burton Ave. & Bernice Ave.,,38.33711694,-122.6984231,471,,0,,America/Los_Angeles,,,0
+757497,7733100,,Hanna Boys Center,,38.32076843,-122.5021438,470,,0,,America/Los_Angeles,,,0
+757284,7715770,,County Admin. Center (Ventura Ave.),,38.466534,-122.724426,467,,0,,America/Los_Angeles,,,0
+757076,7700900,,Mendocino Ave. & Silva Ave.,,38.45851776,-122.7170832,467,,0,,America/Los_Angeles,,,0
+757228,7712200,,Old Redwood Hwy. & Shiloh Rd.,,38.521731,-122.775906,463,,0,,America/Los_Angeles,,,0
+757910,7772720,,State Farm Dr. & Enterprise Dr.,,38.34525565,-122.7043932,471,,0,,America/Los_Angeles,,,0
+757707,7753000,,Santa Rosa Ave. & Castro Ct,,38.39919208,-122.7133464,467,,0,,America/Los_Angeles,,,0
+757621,7746100,,Petaluma Blvd. & Skillman Ln.,,38.25965994,-122.6603096,471,,0,,America/Los_Angeles,,,0
+757738,7755300,,N. McDowell Blvd. & Rand St.,,38.26777574,-122.6585469,471,,0,,America/Los_Angeles,,,0
+757122,7703200,,Old Redwood Hwy. & Alden Ln.,,38.54340506,-122.8000289,463,,0,,America/Los_Angeles,,,0
+757844,7766500,,Moorland Ave. & Todd Rd.,,38.38774971,-122.7186006,467,,0,,America/Los_Angeles,,,0
+757425,7727600,,Arnold Dr. & Madrone Rd.,,38.33870859,-122.5129367,468,,0,,America/Los_Angeles,,,0
+757157,7706500,,Geyserville Rd. & Zanzi Ln.,,38.74208701,-122.9493358,461,,0,,America/Los_Angeles,,,0
+757902,7772200,,Rancho Verde Mobile Home Park,,38.349432,-122.728745,471,,0,,America/Los_Angeles,,,0
+757265,7714600,,Old Redwood Hwy. & Airport Blvd,,38.51063803,-122.7630671,463,,0,,America/Los_Angeles,,,0
+945,7794500,,Alliance Medical Center,,38.6267718658668,-122.865088660987,463,,0,,America/Los_Angeles,,,0
+757822,7764500,,Petaluma Ave. & Abbott,,38.40071985,-122.8221431,466,,0,,America/Los_Angeles,,,0
+757957,7781600,,Hwy. 12 & 3rd St. West,,38.29267605,-122.4649737,470,,0,,America/Los_Angeles,,,0
+757333,7719100,,Mirabel Rd. & Trenton Rd.,,38.48998309,-122.8951477,466,,0,,America/Los_Angeles,,,0
+757250,7713480,,Old Redwood Hwy. & Windsor Rd.,,38.5523561393631,-122.816264083012,463,,0,,America/Los_Angeles,,,0
+757180,7708300,,Asti Rd. & Washington School Rd.,,38.75611211,-122.9712242,461,,0,,America/Los_Angeles,,,0
+757691,7751720,,Redwood Dr. & R.P. Expressway (Boathouse Sushi),,38.34899059,-122.7167299,471,,0,,America/Los_Angeles,,,0
+757466,7730900,,West MacArthur St. & 4th St. West,,38.2856323,-122.4671959,470,,0,,America/Los_Angeles,,,0
+757563,7740240,,Petaluma Hill Rd. & Hunter Ln.,,38.38485199,-122.6876788,467,,0,,America/Los_Angeles,,,0
+757292,7716300,,Mendocino Ave. & Ridgeway Ave.,,38.45095525,-122.717669,467,,0,,America/Los_Angeles,,,0
+757299,7717300,,Main St. & Moscow Rd.,,38.46412774,-123.0104746,464,,0,,America/Los_Angeles,,,0
+757754,7756900,,Snyder Ln. & Southwest Blvd.,,38.3403001,-122.6853028,471,,0,,America/Los_Angeles,,,0
+758070,7797800,,Arch View (Blind Beach),,38.4406911136,-123.1264984029,464,,0,,America/Los_Angeles,,,0
+757863,7768900,,River Rd. & Armstrong Woods Rd.,,38.50217629,-122.9968357,464,,0,,America/Los_Angeles,,,0
+757129,7703900,,Starr Rd. & Colleen Dr.,,38.55397225,-122.825971,463,,0,,America/Los_Angeles,,,0
+757499,7733300,,Arnold Dr. & Sonoma Glen Circle,,38.3420101,-122.5135722,468,,0,,America/Los_Angeles,,,0
+757388,7724400,,Hwy. 12 & Acacia Ln.,,38.46231943,-122.6687212,467,,0,,America/Los_Angeles,,,0
+845492,7751900,,Commerce Blvd & State Farm Dr,,38.357182696205,-122.712478503371,471,,0,,America/Los_Angeles,,,0
+757860,7768600,,River Rd. & Foothill Blvd.,,38.51501579,-122.9833127,464,,0,,America/Los_Angeles,,,0
+757616,7745700,,Old Redwood Hwy. & Hatchery Rd.,,38.28963909,-122.6665872,471,,0,,America/Los_Angeles,,,0
+757316,7718020,,Beach/ Orchard,,38.4848257622287,-123.010773462102,464,,0,,America/Los_Angeles,,,0
+757381,7723700,,Memorial Hospital,,38.44302404,-122.7004943,467,,0,,America/Los_Angeles,,,0
+757459,7730520,,2nd St. W. & Andrieux (Ac. Son. Medical Ctr.),,38.28869445,-122.461909,470,,0,,America/Los_Angeles,,,0
+757481,7731750,,Boyes Blvd. & Poplar,,38.31418351,-122.4842927,470,,0,,America/Los_Angeles,,,0
+757338,7719600,,Hwy. 116 & Appian Way,,38.45793736,-122.8737267,466,,0,,America/Los_Angeles,,,0
+757689,7751700,,Commerce Blvd. & R.P. Expressway,,38.34761562,-122.7094376,471,,0,,America/Los_Angeles,,,0
+757167,7707310,,Asti Rd. & Cloverdale Depot,,38.79806417,-123.011823,461,,0,,America/Los_Angeles,,,0
+757170,7707500,,Cloverdale Blvd. & Healdsburg Ave.,,38.800529,-123.01667,461,,0,,America/Los_Angeles,,,0
+757278,7715710,,Range Ave. & Steele Ln.,,38.46076203,-122.7323834,467,,0,,America/Los_Angeles,,,0
+757258,7714100,,Airport Blvd. & SMART Station,,38.51107672688,-122.78469829314,463,,0,,America/Los_Angeles,,,0
+757326,7718700,,River Rd. & Westside Rd.,,38.50818105,-122.9290174,464,,0,,America/Los_Angeles,,,0
+757330,7719000,,Mirabel Rd. Ext. & River Rd.,,38.49324369,-122.8960599,466,,0,,America/Los_Angeles,,,0
+757930,7774100,,Hwy. 116 & Redwood Dr.,,38.33173584,-122.7155296,471,,0,,America/Los_Angeles,,,0
+757679,7750830,,Old Redwood Hwy. & St. Joseph Way,,38.33043601,-122.7097035,471,,0,,America/Los_Angeles,,,0
+757210,7711100,,Windsor River Rd. (Windsor Depot),,38.54713147,-122.8162381,463,,0,,America/Los_Angeles,,,0
+757130,7704000,,Starr Rd. & Gumview Rd.,,38.55636434,-122.8259637,463,,0,,America/Los_Angeles,,,0
+757568,7740600,,Santa Rosa Ave. & Commercial Ct. (Market Place),,38.41831752,-122.7136858,467,,0,,America/Los_Angeles,,,0
+757357,7720820,,Bodega Ave. & Virginia Ave.,,38.39821811,-122.8344564,466,,0,,America/Los_Angeles,,,0
+757560,7740200,,Santa Rosa Ave. & Maple Ave.,,38.43172196,-122.7114073,467,,0,,America/Los_Angeles,,,0
+757876,7770200,,Myrtle Ave. & Veronda Way,,38.32151504,-122.6975935,471,,0,,America/Los_Angeles,,,0
+757345,7720300,,Gravenstein Hwy. & Occidental Rd.,,38.42542342,-122.848404,466,,0,,America/Los_Angeles,,,0
+757179,7708200,,Asti,,38.76139674,-122.9756806,461,,0,,America/Los_Angeles,,,0
+757729,7754650,,Sonoma Mtn. Pkwy. & Reisling,,38.26903145,-122.6409865,471,,0,,America/Los_Angeles,,,0
+757417,7726900,,Hwy. 12 & Trinity Rd.,,38.37931743,-122.5144505,468,,0,,America/Los_Angeles,,,0
+757457,7730500,,Sonoma Plaza,,38.29226799,-122.4580372,470,,0,,America/Los_Angeles,,,0
+757339,7719700,,Hwy. 116 & Guerneville Rd.,,38.45137218,-122.8681371,466,,0,,America/Los_Angeles,,,0
+757799,7762740,,Camino Colegio & Mitchell ,,38.32519458,-122.6811075,471,,0,,America/Los_Angeles,,,0
+757204,7710500,,Old Redwood Hwy. & Starr Rd.,,38.56420861,-122.8280399,463,,0,,America/Los_Angeles,,,0
+926,7792800,,Fitch Mountain Terrace,,38.6103300303,-122.8565591492,463,,0,,America/Los_Angeles,,,0
+757298,7717200,,Monte Rio (Creekside Park),,38.4608333037068,-123.011846983386,464,,0,,America/Los_Angeles,,,0
+757935,7774600,,Snyder Ln. & Eleanor St.,,38.35948127,-122.6858463,471,,0,,America/Los_Angeles,,,0
+757524,7735500,,Hwy. 12 & Los Alamos,,38.45839514,-122.6347013,468,,0,,America/Los_Angeles,,,0
+757461,7730600,,Broadway & Maple St.,,38.28982359,-122.4583664,470,,0,,America/Los_Angeles,,,0
+757183,7708600,,Geyserville Ave. & Canyon Rd.,,38.71433341,-122.9173075,461,,0,,America/Los_Angeles,,,0
+757712,7753500,,Santa Rosa Ave. & Colgan Ave. (Market Place),,38.41917727,-122.7133076,467,,0,,America/Los_Angeles,,,0
+757890,7771200,,Southwest Blvd. & Burton Ave.,,38.33983129,-122.7004793,471,,0,,America/Los_Angeles,,,0
+757756,7757200,,Lawrence Jones Middle School,,38.35167895,-122.6854621,471,,0,,America/Los_Angeles,,,0
+757400,7725500,,Oakmont Dr. & White Oak,,38.44156298,-122.6050402,468,,0,,America/Los_Angeles,,,0
+757504,7733800,,Arnold Dr. & Carquinez Ave.,,38.36383294,-122.5243097,468,,0,,America/Los_Angeles,,,0
+757306,7717380,,Hwy. 116 & west of Duncan Rd.,,38.4773201,-123.0257457,464,,0,,America/Los_Angeles,,,0
+757706,7752900,,Santa Rosa Ave. & Butterfly Ln.,,38.39664861,-122.713364,467,,0,,America/Los_Angeles,,,0
+757505,7733900,,Hwy. 12 & Sylvia Dr.,,38.38325604,-122.5166252,468,,0,,America/Los_Angeles,,,0
+758028,7789300,,Hembree Ln. & Leaf Haven Ln.,,38.5458569361,-122.797855764,463,,0,,America/Los_Angeles,,,0
+757667,7749900,,Old Redwood Hwy. & Hatchery Rd.,,38.29000293,-122.6663126,471,,0,,America/Los_Angeles,,,0
+938,7793800,,Grove St. & Dry Creek Rd.,,38.6258043766,-122.8756439228,463,,0,,America/Los_Angeles,,,0
+757572,7741000,,Santa Rosa Ave. & Court St.,,38.40694343,-122.7136154,467,,0,,America/Los_Angeles,,,0
+757810,7763500,,Hwy. 116 & Lone Pine Rd.,,38.36500561,-122.7809461,466,,0,,America/Los_Angeles,,,0
+758080,7798800,,Bodega Hwy. & Grandview,,38.3929096727,-122.8772593361,466,,0,,America/Los_Angeles,,,0
+757261,7714420,,Fulton Rd. & River Rd.,,38.4976679,-122.7701479,467,,0,,America/Los_Angeles,,,0
+757963,7782300,,Boyes Blvd. & Riverside Dr.,,38.31326561,-122.4882235,470,,0,,America/Los_Angeles,,,0
+757922,7773740,,Fairway/ Country Club,,38.36626523,-122.697851,471,,0,,America/Los_Angeles,,,0
+757650,7748200,,McDowell Blvd. & Dynamic St.,,38.25817813,-122.6419926,471,,0,,America/Los_Angeles,,,0
+758018,7788300,,Mitchell Ln. & 10th Hole Dr.,,38.5328403664,-122.8044319428,463,,0,,America/Los_Angeles,,,0
+757145,7705400,,Healdsburg Ave. & Terrace,,38.62766601,-122.8725195,463,,0,,America/Los_Angeles,,,0
+757116,7702600,,Old Redwood Hwy. & Shiloh Rd.,,38.52634997,-122.7795453,463,,0,,America/Los_Angeles,,,0
+810950,7796600,,Cloverdale Blvd. & Treadway Blvd. (Ray's Market),,38.783897812913,-123.014694718,461,,0,,America/Los_Angeles,,,0
+758026,7789100,,Hembree Ln. & Old Redwood Hwy.,,38.5429659926,-122.7978690485,463,,0,,America/Los_Angeles,,,0
+757401,7725600,,Oakmont Dr. & Laurel Leaf Pl.,,38.43987843,-122.6033053,468,,0,,America/Los_Angeles,,,0
+758025,7789000,,Shiloh Rd. & Conde Ln.,,38.5256802127,-122.7965187411,463,,0,,America/Los_Angeles,,,0
+757821,7764400,,Palm Dr. Hospital,,38.39692224,-122.8201819,466,,0,,America/Los_Angeles,,,0
+757819,7764300,,Hwy. 116 & Hutchins Ave.,,38.39302891,-122.818031,466,,0,,America/Los_Angeles,,,0
+757486,7732100,,Hwy. 12 & Encinas,,38.30613486,-122.4777293,470,,0,,America/Los_Angeles,,,0
+2329761,7762410,,Old Redwood Hwy. & St. Joseph Way,,38.3302090880985,-122.709808649705,471,,0,,America/Los_Angeles,,,0
+757102,7701900,,Old Redwood Hwy. & Mark West Springs Rd.,,38.4988560367303,-122.749122651486,467,,0,,America/Los_Angeles,,,0
+757269,7715000,,Larkfield Shopping Center,,38.50101805,-122.7517331,467,,0,,America/Los_Angeles,,,0
+757203,7710400,,Old Redwood Hwy. & West of Hwy. 101,,38.56596714,-122.8309824,463,,0,,America/Los_Angeles,,,0
+758011,7787600,,Windsor Rd. & Ginny Dr.,,38.54439875,-122.8168942,463,,0,,America/Los_Angeles,,,0
+757477,7731710,,Railroad Ave. & Craig Ave.,,38.30589593,-122.4886073,470,,0,,America/Los_Angeles,,,0
+757894,7771600,,Rohnert Park Library,,38.34853603,-122.7038554,471,,0,,America/Los_Angeles,,,0
+757557,7739800,,Hwy. 116 & Appian Way,,38.45858978,-122.8742225,466,,0,,America/Los_Angeles,,,0
+757109,7702400,,Old Redwood Hwy. & Plymouth Way,,38.52004655,-122.7740887,463,,0,,America/Los_Angeles,,,0
+2335914,7706410,,Geyserville Ave. & Barilani Rd.,,38.734960983084,-122.94426826809,461,,0,,America/Los_Angeles,,,0
+757487,7732200,,Fiesta Plaza,,38.30843555,-122.4784708,470,,0,,America/Los_Angeles,,,0
+758077,7798500,,Bodega (Eastbound),,38.3456810231,-122.9736877254,464,,0,,America/Los_Angeles,,,0
+757596,7743600,,Commerce Blvd. & R.P. Expressway,,38.34730697,-122.7097547,471,,0,,America/Los_Angeles,,,0
+810952,7797400,,S. East St. & Lake St.,,38.804502997673,-123.01388066757,461,,0,,America/Los_Angeles,,,0
+757304,7717360,,Hwy. 116 & Cazadero Hwy.,,38.46695085,-123.0509308,464,,0,,America/Los_Angeles,,,0
+757260,7714410,,Fulton Rd. & Airport Blvd.,,38.51068055,-122.7700679,463,,0,,America/Los_Angeles,,,0
+849472,7713470,,Old Redwood Hwy. & Market St.,,38.549927674318,-122.81388640611,463,,0,,America/Los_Angeles,,,0
+757493,7732710,,Hwy. 12 & Madrone Rd.,,38.34458873,-122.4981799,468,,0,,America/Los_Angeles,,,0
+757715,7753900,,Santa Rosa Ave. & Maple Ave.,,38.43176189,-122.7112025,467,,0,,America/Los_Angeles,,,0
+758050,7791600,,Old Redwood Hwy. & Market St.,,38.549686335251,-122.813916239316,463,,0,,America/Los_Angeles,,,0
+757462,7730710,,Broadway & W MacArthur,,38.2840079703,-122.4592338727,470,,0,,America/Los_Angeles,,,0
+757409,7726310,,Los Guilicos,,38.44005808,-122.5806225,468,,0,,America/Los_Angeles,,,0
+757690,7751710,,RP Expressway & Hwy. 101,,38.348587,-122.7118547,471,,0,,America/Los_Angeles,,,0
+924,7793400,,Russian River Pines Apartments,,38.6049213298581,-122.861344660861,463,,0,,America/Los_Angeles,,,0
+757327,7718710,,River Rd. & River Dr. (East),,38.50925504,-122.9222597,464,,0,,America/Los_Angeles,,,0
+757777,7760700,,Hwy. 116 & Fredricks Rd.,,38.37415647,-122.791295,466,,0,,America/Los_Angeles,,,0
+757177,7708100,,Theresa Dr. & Hwy. 101,,38.76766068,-122.9945439,461,,0,,America/Los_Angeles,,,0
+757443,7729300,,Grove St. & Bay St.,,38.29954296,-122.4864877,470,,0,,America/Los_Angeles,,,0
+757965,7782500,,Railroad Ave & Toy Ln.,,38.30842079,-122.4900298,470,,0,,America/Los_Angeles,,,0
+757855,7768100,,River Rd. & Grays Ct. (Ac. Berry's Market),,38.50918152,-122.9236538,464,,0,,America/Los_Angeles,,,0
+757186,7708810,,Geyserville Ave. (Ac. Geyserville Park & Ride),,38.70718305,-122.9052674,461,,0,,America/Los_Angeles,,,0
+757827,7764800,,Standish Ave. & Sutton Pl.,,38.39081543,-122.7233273,467,,0,,America/Los_Angeles,,,0
+757275,7715600,,Mendocino Ave. & Fountain Grove Pkwy.,,38.47378954,-122.7274625,467,,0,,America/Los_Angeles,,,0
+757727,7754630,,Sonoma Mtn. Pkwy. & Rainier Ave.,,38.26294282,-122.6300462,471,,0,,America/Los_Angeles,,,0
+757661,7749400,,Petaluma Blvd. & Gossage Ave.,,38.25549211,-122.6517316,471,,0,,America/Los_Angeles,,,0
+757897,7772000,,RP Expressway & LaBath,,38.3491677228957,-122.721963981823,471,,0,,America/Los_Angeles,,,0
+757641,7747900,,Petaluma Estates MHP,,38.26406909,-122.6524885,471,,0,,America/Los_Angeles,,,0
+757851,7767700,,Mirabel Rd. & Davis Rd.,,38.48076899,-122.8947293,466,,0,,America/Los_Angeles,,,0
+757685,7751300,,Adrian Dr. & Arlen Dr.,,38.33967798,-122.7057163,471,,0,,America/Los_Angeles,,,0
+757225,7712030,,Shiloh Center & Wal-Mart (McFarlane),,38.527721,-122.788651,463,,0,,America/Los_Angeles,,,0
+758051,7791700,,Old Redwood Hwy. & Windsor River Rd.,,38.5476631704,-122.8109879292,463,,0,,America/Los_Angeles,,,0
+757639,7747700,,McDowell Blvd. & Corona Rd.,,38.26729842,-122.6582232,471,,0,,America/Los_Angeles,,,0
+757940,7775000,,Snyder Ln. & RP Expressway,,38.34492622,-122.685618,471,,0,,America/Los_Angeles,,,0
+2335912,7796410,,Treadway Blvd. & Cloverdale Blvd.,,38.783656362423,-123.01330719868,461,,0,,America/Los_Angeles,,,0
+757446,7729700,,Hwy. 12 & Riverside Dr.,,38.29347439,-122.4745729,470,,0,,America/Los_Angeles,,,0
+757728,7754640,,Sonoma Mtn. Pkwy. (Petaluma SRJC),,38.26737704,-122.6378794,471,,0,,America/Los_Angeles,,,0
+757424,7727500,,Arnold Dr. & Sonoma Glen Circle,,38.34198954,-122.5137598,468,,0,,America/Los_Angeles,,,0
+757811,7763600,,Hwy. 116 & Todd Rd.,,38.36997547,-122.7850067,466,,0,,America/Los_Angeles,,,0
+757597,7743700,,Commerce Blvd. & Enterprise Dr.,,38.34450109,-122.7122174,471,,0,,America/Los_Angeles,,,0
+757633,7747100,,Petaluma Hill Rd. & Dutch Ln.,,38.30445665,-122.6665857,471,,0,,America/Los_Angeles,,,0
+757818,7764210,,Fircrest MHP Clubhouse,,38.3915415114,-122.8130926639,466,,0,,America/Los_Angeles,,,0
+757794,7762600,,E. Cotati/Lancaster,,38.33073356,-122.6941078,471,,0,,America/Los_Angeles,,,0
+810173,7796800,,Brookside Dr. & Foothill Blvd.,,38.7913801264,-123.0197186318,461,,0,,America/Los_Angeles,,,0
+757510,7734310,,Hwy. 12 & Adobe Canyon Rd.,,38.42386501,-122.555625,468,,0,,America/Los_Angeles,,,0
+757580,7741900,,Santa Rosa Ave. & Scenic Ave.,,38.37606368,-122.7136121,467,,0,,America/Los_Angeles,,,0
+757229,7712300,,Old Redwood Hwy. & Plymouth Way,,38.5200498921939,-122.774302810173,463,,0,,America/Los_Angeles,,,0
+757406,7726100,,Pythian Rd. & Pythian Ct.,,38.42881122,-122.5839619,468,,0,,America/Los_Angeles,,,0
+771429,7720811,,Burbank Heights,,38.3964699420354,-122.833120241547,466,,0,,America/Los_Angeles,,,0
+946,7794700,,Powell Ave. & Fitch St.,,38.6207664204,-122.8668547121,463,,0,,America/Los_Angeles,,,0
+758031,7789600,,Hembree Ln. & Vinecrest Rd.,,38.5552066301,-122.7979785328,463,,0,,America/Los_Angeles,,,0
+757525,7735600,,Hwy. 12 & Fairway Dr.,,38.45942202,-122.6371377,468,,0,,America/Los_Angeles,,,0
+757235,7713100,,Airport Blvd. & Brickway Blvd.,,38.51119173,-122.7935235,463,,0,,America/Los_Angeles,,,0
+758083,7799100,,Bodega Bay Post Office (Westbound),,38.3242272485,-123.0389920189,464,,0,,America/Los_Angeles,,,0
+757986,7785100,,Lakeville Hwy. & Frates Rd.,,38.23471552,-122.5945552,471,,0,,America/Los_Angeles,,,0
+757444,7729500,,Riverside Dr. & Solano Ave.,,38.29673473,-122.4812125,470,,0,,America/Los_Angeles,,,0
+757146,7705500,,Healdsburg Ave. & Foss Creek (driveway),,38.63323783,-122.8733428,463,,0,,America/Los_Angeles,,,0
+758021,7788600,,Conde Ln. (Windsor MHP),,38.5395250748,-122.8039342314,463,,0,,America/Los_Angeles,,,0
+758006,7786800,,DeAnza/Moon Valley MHP (5th St. W. & Emily's Meadow Ct.),,38.28321081,-122.4694655,470,,0,,America/Los_Angeles,,,0
+2335910,7796310,,Foothill Blvd. & Del Web Dr.,,38.790936642625,-123.02025212999,461,,0,,America/Los_Angeles,,,0
+936,7793600,,Across from Rite Aid,,38.6159256731201,-122.872972101489,463,,0,,America/Los_Angeles,,,0
+757808,7763300,,Hwy. 116 & Daywalt Rd. (N xing 116),,38.35912251,-122.7713102,466,,0,,America/Los_Angeles,,,0
+848665,7796100,,West First Street & Cloverdale Blvd.,,38.8050881522626,-123.017232432748,461,,0,,America/Los_Angeles,,,0
+757480,7731740,,Boyes Blvd. & Riverside Dr.,,38.31314734,-122.4881561,470,,0,,America/Los_Angeles,,,0
+757506,7734000,,Hwy. 12 & Nuns Canyon Rd.,,38.38891191,-122.5231929,468,,0,,America/Los_Angeles,,,0
+757310,7717600,,Hwy. 116 & Riverside Dr.,,38.49266947,-123.0145537,464,,0,,America/Los_Angeles,,,0
+757178,7708110,,Asti Rd. & Theresa Dr.,,38.76610079,-122.9919318,461,,0,,America/Los_Angeles,,,0
+757708,7753100,,Santa Rosa Ave. & Bellevue Ave.,,38.40373878,-122.7133053,467,,0,,America/Los_Angeles,,,0
+757927,7773900,,Rancho Feliz Mobile Home Park ,,38.34487961,-122.7148058,471,,0,,America/Los_Angeles,,,0
+757429,7728000,,Hwy. 12 & Marin Ave.,,38.32389548,-122.4877528,470,,0,,America/Los_Angeles,,,0
+757694,7751810,,Commerce Blvd & Professional Center Dr.,,38.35388992,-122.7123491,471,,0,,America/Los_Angeles,,,0
+757668,7750000,,Old Redwood Hwy. & Petaluma Hill Rd.,,38.29459138,-122.6668434,471,,0,,America/Los_Angeles,,,0
+757868,7769300,,Hwy. 116 & Riverside Dr.,,38.49236103,-123.0152016,464,,0,,America/Los_Angeles,,,0
+757907,7772600,,Chase Bank,,38.34833123,-122.7075542,471,,0,,America/Los_Angeles,,,0
+757578,7741600,,Santa Rosa Ave./ Todd Rd.,,38.38644509,-122.7137469,467,,0,,America/Los_Angeles,,,0
+757652,7748400,,McDowell Blvd. & Lynch Creek Way,,38.25320418,-122.6331855,471,,0,,America/Los_Angeles,,,0
+757467,7731000,,Fifth St. West & West MacArthur,,38.28616649,-122.4690151,470,,0,,America/Los_Angeles,,,0
+757231,7712500,,Old Redwood Hwy. & Donna Drive/Fulton Rd.,,38.51667376,-122.7706368,463,,0,,America/Los_Angeles,,,0
+757815,7764000,,Hwy. 116 & Industrial Ave.,,38.38374465,-122.8107886,466,,0,,America/Los_Angeles,,,0
+757928,7774000,,Redwood Dr. & Portal,,38.34150976,-122.7133656,471,,0,,America/Los_Angeles,,,0
+757191,7709200,,Healdsburg Ave. & Alexander Vly Rd.,,38.64983759,-122.8691078,463,,0,,America/Los_Angeles,,,0
+757979,7784610,,Temelec - Arnold Dr. & Watmaugh Rd.,,38.25997553,-122.4833148,470,,0,,America/Los_Angeles,,,0
+758036,7790100,,Brooks Rd. & Jessica Dr.,,38.5600178426,-122.8075419474,463,,0,,America/Los_Angeles,,,0
+757208,7710900,,Starr Rd. & Buckingham Dr.,,38.54878039,-122.8261309,463,,0,,America/Los_Angeles,,,0
+757100,7701870,,River Rd. & Laughlin Rd.,,38.49311072,-122.7880104,466,,0,,America/Los_Angeles,,,0
+757786,7761500,,Hwy. 116 & Redwood Dr.,,38.33161793,-122.7164093,471,,0,,America/Los_Angeles,,,0
+757625,7746400,,Petaluma Blvd. & West St.,,38.24215062,-122.644033,471,,0,,America/Los_Angeles,,,0
+810176,7797300,,South St. & Cloverdale Blvd.,,38.800796735234,-123.01620273296,461,,0,,America/Los_Angeles,,,0
+757148,7705700,,Healdsburg Ave. & Alexander Valley Rd.,,38.65064361,-122.8692471,463,,0,,America/Los_Angeles,,,0
+758000,7786500,,Watmaugh Rd. & Bear Flag Rd.,,38.25812983,-122.490781,470,,0,,America/Los_Angeles,,,0
+757752,7756700,,East Cotati Ave. & Sequoia Way,,38.33624372,-122.6754723,471,,0,,America/Los_Angeles,,,0
+757549,7739110,,Gravenstein Hwy. & Mill Station Rd.,,38.41322168,-122.8432477,466,,0,,America/Los_Angeles,,,0
+937,7793700,,Grove Street & W. Grant St.,,38.6163442313,-122.8755523129,463,,0,,America/Los_Angeles,,,0
+757545,7738800,,Laguna Park Way & Sebastopol Transit Hub,,38.40412271,-122.8236151,466,,0,,America/Los_Angeles,,,0
+757917,7773600,,Golf Course Dr. & Halycon,,38.365127,-122.691541,471,,0,,America/Los_Angeles,,,0
+757562,7740230,,Petaluma Hill Rd. & Kawana Springs Rd.,,38.416115239158,-122.70436739371,467,,0,,America/Los_Angeles,,,0
+758019,7788400,,Cameron Dr. & Bell Rd.,,38.5340263406,-122.8030558458,463,,0,,America/Los_Angeles,,,0
+757899,7772020,,Labath & Martin,,38.35542992,-122.7222666,471,,0,,America/Los_Angeles,,,0
+2329763,7762750,,Camino Colegio & Manchester (Credo HS),,38.3252424964033,-122.679258289026,471,,0,,America/Los_Angeles,,,0
+757771,7760100,,South Main St. & Palm Ave.,,38.3960519,-122.8210083,466,,0,,America/Los_Angeles,,,0
+757617,7745800,,Old Redwood Hwy. & Goodwin Ave.,,38.28354879,-122.6676657,471,,0,,America/Los_Angeles,,,0
+757769,7758500,,East Cotati Ave. & Lancaster Dr.,,38.33040071,-122.6954836,471,,0,,America/Los_Angeles,,,0
+757420,7727100,,Glen Ellen (Arnold Dr. & London Ranch Rd.),,38.36137742,-122.5258869,468,,0,,America/Los_Angeles,,,0
+757909,7772710,,Raley's Town Center,,38.34669,-122.7054595,471,,0,,America/Los_Angeles,,,0
+2382294,7742010,,Country Club Dr. & Golf Course Dr.,,38.361551941749,-122.69440204277,471,,0,,America/Los_Angeles,,,0
+757112,7702520,,Shiloh Center & Wal-Mart (Hembree),,38.52636961,-122.7888748,463,,0,,America/Los_Angeles,,,0
+757392,7724800,,St. Francis Ctr. (Hwy. 12 & Calistoga Rd.),,38.46475266,-122.6536173,467,,0,,America/Los_Angeles,,,0
+757948,7776500,,Sebastopol Rd. & Billie Jean St.,,38.42540353,-122.7626005,467,,0,,America/Los_Angeles,,,0
+757870,7769500,,Monte Rio & Hwy. 116,,38.46778253,-123.0110265,464,,0,,America/Los_Angeles,,,0
+757383,7723900,,Montgomery Village,,38.44673427,-122.6868985,467,,0,,America/Los_Angeles,,,0
+758082,7799000,,Bodega (Westbound),,38.3457563177,-122.9737519628,464,,0,,America/Los_Angeles,,,0
+757901,7772100,,RP Expressway & LaBath,,38.349149,-122.723618,471,,0,,America/Los_Angeles,,,0
+758931,7770710,,Burton Ave. & Adrin Dr.,,38.3314061191138,-122.697812318802,471,,0,,America/Los_Angeles,,,0
+757259,7714400,,Airport Blvd. & Aviation Blvd.,,38.51096137,-122.7804182,463,,0,,America/Los_Angeles,,,0
+757202,7710300,,Old Redwood Hwy. & Eastside Rd.,,38.57460008,-122.8419131,463,,0,,America/Los_Angeles,,,0
+758743,7782010,,Valletti Dr.  & Lake St.,,38.3219131989258,-122.490285784006,470,,0,,America/Los_Angeles,,,0
+757114,7702550,,Hembree Ln. & Cornell St.,,38.5361635,-122.7978742,463,,0,,America/Los_Angeles,,,0
+757460,7730530,,2nd St. West & Bettencourt St.,,38.28674937,-122.4621864,470,,0,,America/Los_Angeles,,,0
+757718,7754200,,E. Washington St. & Lakeville St.,,38.23826169,-122.6356492,471,,0,,America/Los_Angeles,,,0
+757546,7738900,,Healdsburg Ave. & N. Main St.,,38.40536057,-122.8277428,466,,0,,America/Los_Angeles,,,0
+757370,7721100,,Hwy. 12 & Merced Ave.,,38.42110356,-122.7785138,466,,0,,America/Los_Angeles,,,0
+943,7794300,,March Ave. & Healdsburg Ave.,,38.6261601152027,-122.872040040807,463,,0,,America/Los_Angeles,,,0
+758076,7798400,,Doran Park (Bodega Bay),,38.3062906949,-123.0536697248,464,,0,,America/Los_Angeles,,,0
+757628,7746600,,Petaluma Hill Rd. & East Cotati Ave.,,38.33516647,-122.666865,471,,0,,America/Los_Angeles,,,0
+757155,7706300,,Geyserville Ave. & Canyon Rd.,,38.71451402,-122.9173464,461,,0,,America/Los_Angeles,,,0
+757149,7705800,,Lytton Springs Rd. & Geyserville Ave.,,38.65939271,-122.8724128,463,,0,,America/Los_Angeles,,,0
+757455,7730300,,E. Broadway & MacArthur (Ac. Sonoma Vly. H.S.),,38.28495944,-122.4587454,470,,0,,America/Los_Angeles,,,0
+757431,7728200,,Hwy. 12 & Lichtenberg Ave.,,38.31690443,-122.483751,470,,0,,America/Los_Angeles,,,0
+757412,7726410,,Hwy. 12 & Adobe Canyon Rd.,,38.42407946,-122.5561406,468,,0,,America/Los_Angeles,,,0
+758008,7787000,,3rd St. West & Perkins St.,,38.28909652,-122.4639501,470,,0,,America/Los_Angeles,,,0
+757613,7745400,,Old Redwood Hwy. & Penngrove Ave.,,38.30307132,-122.6810598,471,,0,,America/Los_Angeles,,,0
+757379,7722400,,Third St. & Railroad St.,,38.436754878291,-122.71944176501,467,,0,,America/Los_Angeles,,,0
+757949,7776600,,Sebastopol Rd. & Wright Rd.,,38.42492172,-122.7685422,467,,0,,America/Los_Angeles,,,0
+757414,7726600,,Hwy. 12 & Laurel Ave.,,38.41519905,-122.5472205,468,,0,,America/Los_Angeles,,,0
+761168,7749110,,Petaluma Blvd. & Kent St.,,38.2395887307727,-122.64313352573,471,,0,,America/Los_Angeles,,,0
+757472,7731410,,Hwy. 12 & West Spain St.,,38.29515861,-122.4755738,470,,0,,America/Los_Angeles,,,0
+757566,7740400,,Santa Rosa Ave. & Flower St.,,38.42394662,-122.7136529,467,,0,,America/Los_Angeles,,,0
+757842,7766300,,Moorland Ave. & West Robles Ave.,,38.39455905,-122.7186306,467,,0,,America/Los_Angeles,,,0
+757115,7702560,,Hembree Ln. & Broad Oak Way,,38.53898988,-122.7979351,463,,0,,America/Los_Angeles,,,0
+757128,7703800,,Starr Rd. & Stellar Ln.,,38.55126375,-122.8259735,463,,0,,America/Los_Angeles,,,0
+757877,7770300,,Myrtle Ave. & Hahn,,38.32155322,-122.6928668,471,,0,,America/Los_Angeles,,,0
+757575,7741300,,Santa Rosa Ave. & East Robles Ave.,,38.39552828,-122.7136883,467,,0,,America/Los_Angeles,,,0
+757978,7784600,,Temelec Circle & Mission Dr.,,38.2654404,-122.4893495,470,,0,,America/Los_Angeles,,,0
+757588,7742840,,LaBath Ave. & Carlson Ct,,38.3502491,-122.7212875,471,,0,,America/Los_Angeles,,,0
+757608,7744900,,Old Redwood Hwy. & Page St.,,38.32430876,-122.7044383,471,,0,,America/Los_Angeles,,,0
+757452,7730220,,2nd St. W. & Bettencourt St.,,38.28691122,-122.4619977,470,,0,,America/Los_Angeles,,,0
+757873,7769800,,Camp Meeker (Bohemian Hwy. & Market),,38.425193014,-122.9592916901,464,,0,,America/Los_Angeles,,,0
+757070,7700300,,Mendocino Ave. & Cherry St.,,38.44453,-122.716873,467,,0,,America/Los_Angeles,,,0
+757704,7752700,,Santa Rosa Ave. & Todd Rd.,,38.38958579,-122.7133909,467,,0,,America/Los_Angeles,,,0
+757465,7730800,,W. MacArthur & Broadway (Ac. Sonoma Vly. H.S.),,38.28492627,-122.4599472,470,,0,,America/Los_Angeles,,,0
+757238,7713130,,N. Laughlin Rd. & Copperhill Parkway,,38.50908955,-122.8001925,463,,0,,America/Los_Angeles,,,0
+757277,7715700,,Coddingtown,,38.45713299,-122.7324378,467,,0,,America/Los_Angeles,,,0
+758042,7790800,,Los Amigos Ro. & Lazy Creek Dr.,,38.5525984309,-122.8135303928,463,,0,,America/Los_Angeles,,,0
+758048,7791400,,Old Redwood Hwy. & Godfrey Dr.,,38.5540346677,-122.8177997038,463,,0,,America/Los_Angeles,,,0
+757377,7722000,,Sebastopol Rd. & West Ave.,,38.42924547,-122.7306624,467,,0,,America/Los_Angeles,,,0
+757501,7733500,,Sonoma Dev. Center,,38.34900159,-122.5168446,468,,0,,America/Los_Angeles,,,0
+757997,7786200,,Lakeville Hwy. & S. McDowell Blvd.,,38.23400178,-122.5994623,471,,0,,America/Los_Angeles,,,0
+757362,7720870,,Mill Station Rd. & Hwy. 116,,38.4124101,-122.8434301,466,,0,,America/Los_Angeles,,,0
+2332186,7709910,,Harmon St. & Healdsburg Depot,,38.607448296489,-122.86623967435,463,,0,,America/Los_Angeles,,,0
+757099,7701860,,River Rd. & Fulton Rd.,,38.49663884,-122.7714459,467,,0,,America/Los_Angeles,,,0
+757511,7734400,,Hwy. 12 & Lawndale Rd.,,38.42990814,-122.5647455,468,,0,,America/Los_Angeles,,,0
+757647,7747960,,Rainier Ave. & Maria Dr.,,38.25872677,-122.6325735,471,,0,,America/Los_Angeles,,,0
+757581,7742000,,Robert's Lake Rd. / Golf Course Dr.,,38.36359305,-122.7107047,471,,0,,America/Los_Angeles,,,0
+757094,7701800,,Old Redwood Hwy. & Chelsea Drive,,38.4953885577835,-122.746041119099,467,,0,,America/Los_Angeles,,,0
+757217,7711700,,Old Redwood Hwy. & Shira St.,,38.53907503,-122.7924649,463,,0,,America/Los_Angeles,,,0
+757286,7715790,,Administration Dr. & Paulin,,38.464191,-122.721779,467,,0,,America/Los_Angeles,,,0
+757214,7711400,,Old Redwood Hwy. & Alden Ln.,,38.54313685,-122.8001706,463,,0,,America/Los_Angeles,,,0
+758040,7790600,,Los Amigos Rd. & Foxwood Dr.,,38.5502759591,-122.8107930853,463,,0,,America/Los_Angeles,,,0
+757363,7720880,,Lucky's,,38.40770957,-122.8399498,466,,0,,America/Los_Angeles,,,0
+757891,7771300,,Southwest Blvd. & Adrian Dr.,,38.33620656,-122.7049658,471,,0,,America/Los_Angeles,,,0
+757529,7736000,,Hwy. 12 & Jack London Dr.,,38.46473019,-122.6615931,467,,0,,America/Los_Angeles,,,0
+757865,7769000,,Guerneville (Bank of America),,38.5020390052969,-122.999896642189,464,,0,,America/Los_Angeles,,,0
+757903,7772300,,RP Expressway & LaBath,,38.348844,-122.723836,471,,0,,America/Los_Angeles,,,0
+757376,7721900,,Sebastopol Rd. & Burbank Ave.,,38.42839759,-122.7340787,467,,0,,America/Los_Angeles,,,0
+757241,7713300,,Sonoma Co. Airport Terminal Stop,,38.51007376,-122.8053011,463,,0,,America/Los_Angeles,,,0
+757463,7730720,,Broadway & Leveroni Rd.,,38.2761560315,-122.4604472375,470,,0,,America/Los_Angeles,,,0
+757300,7717310,,Villa Grande,,38.473731004675,-123.02152321909,464,,0,,America/Los_Angeles,,,0
+757896,7771900,,RP Expressway & Redwood Dr.,,38.3485255,-122.7179762,471,,0,,America/Los_Angeles,,,0
+757074,7700700,,Ac. Santa Rosa Junior College,,38.45503268,-122.7172169,467,,0,,America/Los_Angeles,,,0
+849471,7713490,,Windsor Rd. & Howard Dr.,,38.5507532106258,-122.81689450352,463,,0,,America/Los_Angeles,,,0
+947,7794800,,Fitch St. & Grant St.,,38.616421511068,-122.867320370356,463,,0,,America/Los_Angeles,,,0
+757296,7717000,,Occidental (Bohemian Hwy. & Hill St.),,38.40962859,-122.9486721,464,,0,,America/Los_Angeles,,,0
+757198,7709900,,Healdsburg Ave. & Mill St.,,38.60736069,-122.8696934,463,,0,,America/Los_Angeles,,,0
+758007,7786900,,Sonoma Valley Hospital,,38.28848503,-122.4655984,470,,0,,America/Los_Angeles,,,0
+757739,7755400,,N. McDowell Blvd. & Clegg St.,,38.26937392,-122.6602573,471,,0,,America/Los_Angeles,,,0
+758001,7786600,,Temelec Circle & Mission Dr.,,38.26552377,-122.4891456,470,,0,,America/Los_Angeles,,,0
+757382,7723800,,Montgomery Dr. & Shortt Rd.,,38.44542542,-122.6917853,467,,0,,America/Los_Angeles,,,0
+759362,7717410,,Hwy. 116 and Bohemian Hwy.,,38.4678683943386,-123.010654449463,464,,0,,America/Los_Angeles,,,0
+757351,7720720,,North Main St. & Wilton Ave.,,38.403637,-122.825272,466,,0,,America/Los_Angeles,,,0
+757605,7744600,,East Cotati Ave. & Adrian Dr.,,38.32972436,-122.6971798,471,,0,,America/Los_Angeles,,,0
+757087,7701100,,Mendocino Ave. & Chanate Rd.,,38.46559823,-122.7195326,467,,0,,America/Los_Angeles,,,0
+757197,7709800,,Healdsburg Ave. & Matheson,,38.60955874,-122.8703934,463,,0,,America/Los_Angeles,,,0
+757492,7732700,,Hwy. 12 & Marin Ave.,,38.3242864,-122.4876958,470,,0,,America/Los_Angeles,,,0
+757871,7769600,,Moscow Rd. & Main St.,,38.46488131,-123.0107238,464,,0,,America/Los_Angeles,,,0
+757282,7715750,,Kaiser Stop / Bicentennial Ave.,,38.47010018,-122.724888,467,,0,,America/Los_Angeles,,,0
+757970,7783000,,Sonoma Marketplace (on West Napa),,38.2922349,-122.4621196,470,,0,,America/Los_Angeles,,,0
+757975,7784200,,Sonoma Valley Hospital,,38.2886293,-122.4660909,470,,0,,America/Los_Angeles,,,0
+757833,7765400,,Moorland Ave. & Bellevue Ave.,,38.4008598006436,-122.718474770674,467,,0,,America/Los_Angeles,,,0
+757782,7761200,,Hwy. 116 & Woodworth Rd.,,38.34848627,-122.762207,466,,0,,America/Los_Angeles,,,0
+757987,7785200,,Lakeville Hwy. & S. McDowell Blvd.,,38.2342772,-122.5996816,471,,0,,America/Los_Angeles,,,0
+757630,7746800,,Petaluma Hill Rd. & Valley House Dr.,,38.32127903,-122.6669116,471,,0,,America/Los_Angeles,,,0
+757256,7713900,,Westwind Blvd. & Airport Blvd.,,38.50906653,-122.7957391,463,,0,,America/Los_Angeles,,,0
+757974,7784100,,3rd St. West & Perkins St.,,38.28910403,-122.4640984,470,,0,,America/Los_Angeles,,,0
+757161,7706800,,Theresa Dr.,,38.76796009,-122.9943246,461,,0,,America/Los_Angeles,,,0
+757321,7718200,,River Rd. & Bonita Ave.,,38.5073407918661,-122.989026927578,464,,0,,America/Los_Angeles,,,0
+757678,7750820,,Old Redwood Hwy. & George St.,,38.32875685,-122.708137,471,,0,,America/Los_Angeles,,,0
+757836,7765700,,Corby Extension,,38.41348062,-122.7193553,467,,0,,America/Los_Angeles,,,0
+757101,7701880,,River Rd. & Trenton-Healdsburg Rd.,,38.48847958,-122.8553353,466,,0,,America/Los_Angeles,,,0
+757735,7755000,,N. McDowell Blvd. & Southpoint,,38.26170508,-122.6477803,471,,0,,America/Los_Angeles,,,0
+757591,7743100,,Redwood Dr. & R.P. Expressway (Chevron Oil Stop),,38.34942966,-122.7170484,471,,0,,America/Los_Angeles,,,0
+757498,7733200,,Arnold Dr. & Madrone Rd.,,38.33942029,-122.5129368,468,,0,,America/Los_Angeles,,,0
+757395,7725100,,Hwy. 12 & Fairway Dr.,,38.45919086,-122.6373326,468,,0,,America/Los_Angeles,,,0
+757267,7714800,,Old Redwood Hwy. & Deerwood Dr.,,38.50543389,-122.7590062,463,,0,,America/Los_Angeles,,,0
+757745,7756000,,Petaluma Hill Rd. & East Railroad Ave.,,38.30904114,-122.6664287,471,,0,,America/Los_Angeles,,,0
+757883,7770900,,Southwest Blvd. & Camino Colegio,,38.3406575,-122.6924422,471,,0,,America/Los_Angeles,,,0
+757874,7770000,,Hunter Dr. & Senior Center,,38.34551126,-122.7089704,471,,0,,America/Los_Angeles,,,0
+757781,7761100,,Hwy. 116 & Daywalt Rd. (N xing 116),,38.35895541,-122.7714949,466,,0,,America/Los_Angeles,,,0
+941,7794100,,Parkland Farms Blvd. & Arbor Way,,38.6399447267541,-122.867042917654,463,,0,,America/Los_Angeles,,,0
+757657,7748900,,Washington St. & Grey St.,,38.23647686,-122.6390952,471,,0,,America/Los_Angeles,,,0
+757158,7706600,,Asti Rd. & Washington School Rd.,,38.75638889,-122.9712799,461,,0,,America/Los_Angeles,,,0
+757964,7782400,,Railroad Ave. & Boyes Blvd.,,38.31139868,-122.4920783,470,,0,,America/Los_Angeles,,,0
+757725,7754610,,Rainier Ave. & Maria Dr.,,38.25826859,-122.6327059,471,,0,,America/Los_Angeles,,,0
+757762,7757800,,Petaluma Hill Rd. & Hunter Ln.,,38.3855537,-122.6879628,467,,0,,America/Los_Angeles,,,0
+757582,7742100,,Wal-Mart (parking lot),,38.36828957,-122.7153847,471,,0,,America/Los_Angeles,,,0
+757464,7730730,,Leveroni Rd. & Fryer Creek Dr.,,38.27643114,-122.4654306,470,,0,,America/Los_Angeles,,,0
+757734,7754900,,N. McDowell Blvd. & Sunrise Parkway,,38.25964185,-122.6441673,471,,0,,America/Los_Angeles,,,0
+757749,7756400,,Petaluma Hill Rd. & Curtis Dr.,,38.33352119,-122.666654,471,,0,,America/Los_Angeles,,,0
+757226,7712040,,Shiloh Center & Wal-Mart (Hembree),,38.526131,-122.787926,463,,0,,America/Los_Angeles,,,0
+757814,7763900,,Hwy. 116 & Bloomfield Rd.,,38.38121974,-122.8057686,466,,0,,America/Los_Angeles,,,0
+757110,7702500,,Old Redwood Hwy. & Shiloh Rd.,,38.52200804,-122.7759014,463,,0,,America/Los_Angeles,,,0
+757555,7739600,,Green Valley Rd. & Hicks Rd.,,38.44560393,-122.8677273,466,,0,,America/Los_Angeles,,,0
+757592,7743200,,Commerce Blvd. & Utility Ct.,,38.36092791,-122.7125522,471,,0,,America/Los_Angeles,,,0
+810163,7795300,,North Main St. & Fourth St.,,38.8085350737,-123.0178231563,461,,0,,America/Los_Angeles,,,0
+757193,7709400,,Healdsburg Ave. & Grove St.,,38.63447572,-122.8742113,463,,0,,America/Los_Angeles,,,0
+757220,7711910,,Old Redwood Hwy. & Deanna Pl.,,38.53269295,-122.7851346,463,,0,,America/Los_Angeles,,,0
+757791,7762300,,Commerce Blvd. & Wilford Ln.,,38.33578352,-122.712376,471,,0,,America/Los_Angeles,,,0
+757753,7756800,,East Cotati Ave. & Snyder/Roman,,38.336248,-122.6822277,471,,0,,America/Los_Angeles,,,0
+757710,7753300,,Santa Rosa Ave. & Yolanda Ave.,,38.41180565,-122.7133466,467,,0,,America/Los_Angeles,,,0
+757107,7702200,,Old Redwood Hwy. & Airport Blvd,,38.51180039,-122.7641909,463,,0,,America/Los_Angeles,,,0
+757268,7714900,,Old Redwood Hwy. & Ascot,,38.50312948,-122.757188,463,,0,,America/Los_Angeles,,,0
+757759,7757500,,Snyder Ln. & Golf Course Dr.,,38.36648897,-122.6856118,471,,0,,America/Los_Angeles,,,0
+757532,7736300,,Mission Blvd. & Hwy. 12,,38.45825507,-122.6738639,467,,0,,America/Los_Angeles,,,0
+757688,7751600,,Commerce Blvd. & Enterprise Dr.,,38.34511017,-122.7115498,471,,0,,America/Los_Angeles,,,0
+757242,7713310,,Airport Blvd. & N. Laughlin Rd.,,38.51091307,-122.801606,463,,0,,America/Los_Angeles,,,0
+758045,7791100,,Arata Ln. & Old Redwood Hwy.,,38.561875076,-122.8211461029,463,,0,,America/Los_Angeles,,,0
+758015,7788000,,Windsor Rd. & Vintage Green,,38.53443858,-122.8167938,463,,0,,America/Los_Angeles,,,0
+757200,7710100,,Old Redwood Hwy. & Btwn. Eastside/Limerick,,38.5827618,-122.8461949,463,,0,,America/Los_Angeles,,,0
+757077,7701000,,Mendocino Ave. & Steele Ln.,,38.46212323,-122.717528,467,,0,,America/Los_Angeles,,,0
+757547,7739000,,Healdsburg Ave. & Murphy Ave.,,38.40543351,-122.8332196,466,,0,,America/Los_Angeles,,,0
+757237,7713120,,Copperhill Parkway & N. Laughlin Rd.,,38.50752046,-122.7979583,463,,0,,America/Los_Angeles,,,0
+757998,7786300,,Frates Rd. & Lakeville Circle,,38.2378757,-122.590596,471,,0,,America/Los_Angeles,,,0
+757829,7765000,,Moorland Ave. & Todd Rd.,,38.38782416,-122.7185116,467,,0,,America/Los_Angeles,,,0
+757912,7792000,,McClelland Dr. & Duvander Ln.,,38.5482629974,-122.8161050765,463,,0,,America/Los_Angeles,,,0
+757658,7749100,,Petaluma Blvd. & Mary (Downtown Petaluma),,38.2365389,-122.6415435,471,,0,,America/Los_Angeles,,,0
+757071,7700400,,Mendocino Ave. & College Ave.,,38.446148,-122.71756,467,,0,,America/Los_Angeles,,,0
+810165,7795400,,Cloverdale Blvd. & School St.,,38.8107048396,-123.0208940494,461,,0,,America/Los_Angeles,,,0
+757985,7785000,,Frates Rd. & Lakeville Circle,,38.23782193,-122.5909259,471,,0,,America/Los_Angeles,,,0
+757394,7725000,,Hwy. 12 & Mountain Hawk,,38.46193293,-122.6425189,468,,0,,America/Los_Angeles,,,0
+758933,7770730,,Burton Ave. & Bernice Ave.,,38.336985772554,-122.69811809063,471,,0,,America/Los_Angeles,,,0
+757770,7760000,,Sebastopol Post Office,,38.40065804,-122.8235102,466,,0,,America/Los_Angeles,,,0
+757564,7740250,,Snyder Ln. & Mountain View Ave.,,38.378834,-122.685951,467,,0,,America/Los_Angeles,,,0
+757825,7764600,,W. Robles Ave. & Standish Ave.,,38.39436797,-122.7240261,467,,0,,America/Los_Angeles,,,0
+757651,7748300,,McDowell Blvd. & Rainer Ave.,,38.2557198,-122.6376979,471,,0,,America/Los_Angeles,,,0
+757620,7746010,,Petaluma Blvd. & Emerald Dr.,,38.26236763,-122.6659093,471,,0,,America/Los_Angeles,,,0
+757104,7702000,,Old Redwood Hwy. & Ascot Dr.,,38.50331782,-122.7571013,463,,0,,America/Los_Angeles,,,0
+757069,7700200,,B St. & Ross St.,,38.4413367873904,-122.716799397762,467,,0,,America/Los_Angeles,,,0
+757542,7738500,,Hwy. 12 & Llano Rd.,,38.41233655,-122.7940713,466,,0,,America/Los_Angeles,,,0
+757713,7753600,,Santa Rosa Ave. & Colgan Ave.,,38.42172335,-122.713345,467,,0,,America/Los_Angeles,,,0
+757937,7774800,,Lawrence Jones Middle School,,38.35253656,-122.6857821,471,,0,,America/Los_Angeles,,,0
+757513,7734500,,Pythian Rd. & Hwy. 12,,38.43444386,-122.5788454,468,,0,,America/Los_Angeles,,,0
+757507,7734100,,Hwy. 12 & Libby Ave.,,38.41193128,-122.5444157,468,,0,,America/Los_Angeles,,,0
+757682,7751000,,Adrian Dr. & Bonnie Ave.,,38.33225387,-122.7005409,471,,0,,America/Los_Angeles,,,0
+757140,7705100,,Healdsburg Plaza,,38.61068829,-122.870491,463,,0,,America/Los_Angeles,,,0
+2335911,7796400,,Foothill Dr. & Elbridge Ave.,,38.784424446391,-123.02028951776,461,,0,,America/Los_Angeles,,,0
+758032,7789700,,Hembree Ln. & Foothill Dr.,,38.5581254014,-122.7979329179,463,,0,,America/Los_Angeles,,,0
+757719,7754210,,E. Washington St. & Vallejo St.,,38.24069902,-122.6335687,471,,0,,America/Los_Angeles,,,0
+758049,7791500,,Old Redwood Hwy. & Windsor Rd.,,38.5531760508963,-122.817146184452,463,,0,,America/Los_Angeles,,,0
+757272,7715300,,Old Redwood Hwy. & Chelsea Dr.,,38.49344113,-122.7439234,467,,0,,America/Los_Angeles,,,0
+757469,7731200,,5th St. W. & W. Napa,,38.29150198,-122.4681456,470,,0,,America/Los_Angeles,,,0
+757199,7710000,,Old Redwood Hwy. & Limerick Ln.,,38.58809557,-122.8493676,463,,0,,America/Los_Angeles,,,0
+757743,7755800,,Petaluma Hill Rd. & Adobe Rd.,,38.29956043,-122.6663439,471,,0,,America/Los_Angeles,,,0
+757360,7720850,,Covert Ln. & Pleasant Hill,,38.40539476,-122.8408128,466,,0,,America/Los_Angeles,,,0
+757832,7765300,,Moorland Ave. & Gio Dr.,,38.39846152,-122.7184614,467,,0,,America/Los_Angeles,,,0
+757354,7720750,,Wilton Ave. & Florence Ave.,,38.40199041,-122.828764,466,,0,,America/Los_Angeles,,,0
+757120,7703000,,Old Redwood Hwy. & Pleasant Ave.,,38.54029979,-122.7937979,463,,0,,America/Los_Angeles,,,0
+927,7792900,,Heron Dr. & Hummingbird  Ct.,,38.6107386470006,-122.854625828258,463,,0,,America/Los_Angeles,,,0
+758088,7799600,,Moscow Rd. & Main St.,,38.4646059177,-123.0105785732,464,,0,,America/Los_Angeles,,,0
+757454,7730240,,2nd St. W. & Perkins St.,,38.28990258,-122.4615223,470,,0,,America/Los_Angeles,,,0
+757615,7745600,,Old Redwood Hwy. & Petaluma Hill Rd.,,38.29430211,-122.6670066,471,,0,,America/Los_Angeles,,,0
+757514,7734600,,Pythian Rd. & Oaktrail Dr.,,38.43186861,-122.5803882,468,,0,,America/Los_Angeles,,,0
+757980,7784620,,Schellville  - Hwy. 116 & 121,,38.23591427,-122.4614861,470,,0,,America/Los_Angeles,,,0
+757761,7757700,,Snyder Ln. & Mountain View Ave.,,38.380432,-122.685822,467,,0,,America/Los_Angeles,,,0
+757687,7751500,,Commerce Blvd. & Arlen Dr.,,38.34077442,-122.7122323,471,,0,,America/Los_Angeles,,,0
+757168,7707400,,Cloverdale City Hall & Plaza,,38.805965,-123.017418,461,,0,,America/Los_Angeles,,,0
+757451,7730210,,W. MacArthur St. & 4th St. West,,38.28550484,-122.4670585,470,,0,,America/Los_Angeles,,,0
+757135,7704600,,Old Redwood Hwy. & Eastside Rd.,,38.57778632,-122.8431234,463,,0,,America/Los_Angeles,,,0
+757433,7728400,,Hwy. 12 & Hawthorne Ave.,,38.31142427,-122.4803481,470,,0,,America/Los_Angeles,,,0
+757841,7766200,,Moorland Ave. & Thistle Ln.,,38.39883714,-122.7186205,467,,0,,America/Los_Angeles,,,0
+757586,7742820,,Business Park Dr. & Redwood Dr.,,38.35778802,-122.7153751,471,,0,,America/Los_Angeles,,,0
+757332,7719020,,River Rd. & Woolsey Rd.,,38.49322016,-122.787103,466,,0,,America/Los_Angeles,,,0
+757320,7718100,,River Rd. & Old River Rd.,,38.5047026375689,-122.992129567251,464,,0,,America/Los_Angeles,,,0
+757589,7742900,,Redwood Dr. & Business Park Dr.,,38.35440948,-122.7137076,471,,0,,America/Los_Angeles,,,0
+757606,7744700,,East Cotati Ave. & La Salle St.,,38.32873313,-122.6994569,471,,0,,America/Los_Angeles,,,0
+757618,7745900,,Old Redwood Hwy. & McDowell/Redwood Way,,38.27722178,-122.669082,471,,0,,America/Los_Angeles,,,0
+758086,7799400,,Moscow Rd. & West St.,,38.4729395946,-123.0247554359,464,,0,,America/Los_Angeles,,,0
+757344,7720200,,Graton Rd. & Hwy. 116,,38.43684683,-122.858364,466,,0,,America/Los_Angeles,,,0
+757329,7718900,,River Rd. & Rio Vista,,38.49962306,-122.9040428,464,,0,,America/Los_Angeles,,,0
+757646,7747950,,Rainier Ave. & Acadia Dr.,,38.26202381,-122.6301829,471,,0,,America/Los_Angeles,,,0
+757222,7712000,,Old Redwood Hwy. & Kendall Way,,38.527706,-122.780775,463,,0,,America/Los_Angeles,,,0
+757432,7728300,,Boyes Hot Springs,,38.3143495629428,-122.48185829577,470,,0,,America/Los_Angeles,,,0
+757919,7773710,,Country Club Dr. & Hudis,,38.36464409,-122.6961639,471,,0,,America/Los_Angeles,,,0
+757240,7713210,,Airport Blvd. & Ordinance Rd.,,38.51108419,-122.8028587,463,,0,,America/Los_Angeles,,,0
+757741,7755600,,N. McDowell Blvd. & Old Redwood Hwy.,,38.27399231,-122.6662042,471,,0,,America/Los_Angeles,,,0
+757348,7720600,,Healdsburg Ave. & Murphy Ave.,,38.40523618,-122.8325923,466,,0,,America/Los_Angeles,,,0
+757353,7720740,,Senior Center,,38.40257205,-122.8260864,466,,0,,America/Los_Angeles,,,0
+757683,7751100,,Adrian & Southwest,,38.33582356,-122.7050337,471,,0,,America/Los_Angeles,,,0
+757705,7752800,,Santa Rosa Ave. & East Robles Ave.,,38.39364653,-122.7134059,467,,0,,America/Los_Angeles,,,0
+757649,7748100,,McDowell Blvd. & Sunrise Parkway,,38.25937467,-122.6441636,471,,0,,America/Los_Angeles,,,0
+757291,7716200,,Santa Rosa Junior College,,38.45387671,-122.7175856,467,,0,,America/Los_Angeles,,,0
+757642,7747910,,Sonoma Mtn. Pkwy & Maria Dr.,,38.26803525,-122.6489003,471,,0,,America/Los_Angeles,,,0
+757774,7760400,,Hwy. 116 & Sparkes Rd.,,38.38432003,-122.8121596,466,,0,,America/Los_Angeles,,,0
+757163,7707000,,Cloverdale Blvd. & Church Ln.,,38.78609006,-123.0141114,461,,0,,America/Los_Angeles,,,0
+758033,7789800,,Foothill Regional Park,,38.5602856421792,-122.797960615708,463,,0,,America/Los_Angeles,,,0
+757656,7748700,,E. Washington St. & Vallejo,,38.24072318,-122.6338275,471,,0,,America/Los_Angeles,,,0
+757776,7760600,,Hwy. 116 & Cooper Rd.,,38.37920468,-122.7989856,466,,0,,America/Los_Angeles,,,0
+757192,7709300,,Healdsburg Ave. & Parkland Farms Dr.,,38.63881782,-122.8739747,463,,0,,America/Los_Angeles,,,0
+757783,7761210,,Hwy. 116 & Hessel & Blank Rd.,,38.34346924,-122.7574062,466,,0,,America/Los_Angeles,,,0
+757916,7773500,,Golf Course Dr. & Hacienda Way,,38.362671,-122.693136,471,,0,,America/Los_Angeles,,,0
+757721,7754300,,E. Washington St. & Kenilworth Dr.,,38.243941788935,-122.630550563335,471,,0,,America/Los_Angeles,,,0
+758053,7791900,,McClelland Dr. & Honsa Ave.,,38.5483181172,-122.8145395341,463,,0,,America/Los_Angeles,,,0
+757448,7729900,,5th St. W. & W. Napa,,38.29227353,-122.4682875,470,,0,,America/Los_Angeles,,,0
+757436,7728800,,Hwy. 12 & Verano Ave.,,38.30319307,-122.4767272,470,,0,,America/Los_Angeles,,,0
+758932,7770720,,Burton Ave. & Bonnie Ave.,,38.3340234761138,-122.696465849876,471,,0,,America/Los_Angeles,,,0
+758002,7786610,,Via Colombard & Carnation,,38.2640845906,-122.4976170176,470,,0,,America/Los_Angeles,,,0
+942,7794200,,Bridle Path & Spur Ridge Lane,,38.6412249613223,-122.867511899267,463,,0,,America/Los_Angeles,,,0
+757945,7776200,,Sebastopol Rd. & Stony Point Rd.,,38.42688558,-122.7426622,467,,0,,America/Los_Angeles,,,0
+758034,7789900,,Arata Ln. & Troon Ct.,,38.5621736934945,-122.8021696414,463,,0,,America/Los_Angeles,,,0
+757361,7720860,,Covert Ln. & Ragle Rd.,,38.40540581,-122.8449809,466,,0,,America/Los_Angeles,,,0
+757703,7752600,,Santa Rosa Ave./ Todd Rd.,,38.38750973,-122.713414,467,,0,,America/Los_Angeles,,,0
+757680,7750840,,Commerce Blvd. & Wilford Ln.,,38.33500387,-122.7123589,471,,0,,America/Los_Angeles,,,0
+757364,7720900,,Hwy. 12 & Morris St.,,38.403060155069,-122.81783951326,466,,0,,America/Los_Angeles,,,0
+757778,7760800,,Hwy. 116 & Todd Rd. & Old Grvnstn. Hwy.,,38.36787066,-122.7832729,466,,0,,America/Los_Angeles,,,0
+802600,7771050,,Technology Middle School,,38.3394049569696,-122.700631186152,471,,0,,America/Los_Angeles,,,0
+757530,7736100,,Hwy. 12 & Middle Rincon Rd.,,38.4640752,-122.6644193,467,,0,,America/Los_Angeles,,,0
+757152,7706000,,Geyserville Ave. & Walden St.,,38.70547581,-122.9021122,461,,0,,America/Los_Angeles,,,0
+757947,7776400,,Sebastopol Rd. & Corporate Ctr. Pkwy.,,38.4260678,-122.7539894,467,,0,,America/Los_Angeles,,,0
+757921,7773730,,Fairway & Flores,,38.36543687,-122.7047319,471,,0,,America/Los_Angeles,,,0
+757716,7754000,,Santa Rosa Ave. & Mill St.,,38.43403946,-122.7116827,467,,0,,America/Los_Angeles,,,0
+757798,7762730,,Camino Colegio & Maple,,38.32624353,-122.6852626,471,,0,,America/Los_Angeles,,,0
+757308,7717400,,D St. & Bohemian Hwy.,,38.4677389665469,-123.010660087731,464,,0,,America/Los_Angeles,,,0
+757797,7762720,,Camino Colegio & Magnolia,,38.32851942,-122.6866302,471,,0,,America/Los_Angeles,,,0
+948,7794900,,CVS (Piper. St.),,38.6142284040189,-122.870841301056,463,,0,,America/Los_Angeles,,,0
+757380,7723600,,Third St. & E St.,,38.441212,-122.7098719,467,,0,,America/Los_Angeles,,,0
+757311,7717700,,Hwy. 116 & Old Cazadero Rd.,,38.49526664,-123.0083638,464,,0,,America/Los_Angeles,,,0
+810171,7796200,,Cherry Creek Rd. & Cloverdale Blvd.,,38.7948814126,-123.0186959555,461,,0,,America/Los_Angeles,,,0
+758087,7799500,,Moscow Rd. & Russian River Ave.,,38.4737335853,-123.0217095343,464,,0,,America/Los_Angeles,,,0
+757337,7719500,,Hwy. 116 & Fallen Apple Ln.,,38.46586206,-122.8819268,466,,0,,America/Los_Angeles,,,0
+758009,7787100,,Sonoma Marketplace (Mid-Center Stop),,38.29047059,-122.4624928,470,,0,,America/Los_Angeles,,,0
+757347,7720500,,Gravenstein Hwy. & Hurlbut Ave.,,38.40731686,-122.8385117,466,,0,,America/Los_Angeles,,,0
+757817,7764200,,Hwy. 116 & Fircrest Ave.,,38.39100179,-122.8165687,466,,0,,America/Los_Angeles,,,0
+757800,7762760,,Manchester & Magnolia,,38.32858921,-122.6797018,471,,0,,America/Los_Angeles,,,0
+757426,7727700,,Hanna Boys Center,,38.32080998,-122.5023471,470,,0,,America/Los_Angeles,,,0
+757944,7776100,,Sebastopol Rd. & Hampton Way,,38.42767581,-122.7381264,467,,0,,America/Los_Angeles,,,0
+757632,7747000,,Petaluma Hill Rd. & East Railroad Ave.,,38.30877965,-122.6665965,471,,0,,America/Los_Angeles,,,0
+757850,7767600,,Mirabel Rd. & Hwy. 116,,38.47437824,-122.8947608,466,,0,,America/Los_Angeles,,,0
+757785,7761400,,Hwy. 116 & Alder Ave.,,38.3322,-122.720733,471,,0,,America/Los_Angeles,,,0
+757839,7766000,,Corby Ave. & Bellevue Ave.,,38.40737935,-122.7164909,467,,0,,America/Los_Angeles,,,0
+757151,7705900,,Geyserville Ave. & Tzabaco Creek Rd.,,38.69346736,-122.8853573,461,,0,,America/Los_Angeles,,,0
+757172,7707700,,Cloverdale Blvd & Brookside Dr.,,38.79103546,-123.0175593,461,,0,,America/Los_Angeles,,,0
+757441,7729100,,Verano Ave. & Willow St.,,38.30235123,-122.4853811,470,,0,,America/Los_Angeles,,,0
+757257,7714000,,Airport Blvd. & Brickway Blvd.,,38.51096978,-122.7932966,463,,0,,America/Los_Angeles,,,0
+757662,7749500,,Petaluma Blvd. & Corona Rd.,,38.26028752,-122.6611146,471,,0,,America/Los_Angeles,,,0
+757869,7769400,,Hwy. 116 & Ridgecrest Dr.,,38.47780821,-122.9984552,464,,0,,America/Los_Angeles,,,0
+757386,7724200,,Montgomery Dr. & Summerfield Dr.,,38.45429074,-122.672257,467,,0,,America/Los_Angeles,,,0
+758003,7786700,,Temelec Circle & Almeria Dr.,,38.26737975,-122.4905274,470,,0,,America/Los_Angeles,,,0
+757468,7731100,,5th St. West & Andrieux St.,,38.28848692,-122.4686598,470,,0,,America/Los_Angeles,,,0
+757960,7782000,,Valletti Dr.  & Lake St.,,38.32174772,-122.489945,470,,0,,America/Los_Angeles,,,0
+810174,7797000,,Brookside Dr. & Cloverdale Blvd.,,38.7917312269,-123.0171622834,461,,0,,America/Los_Angeles,,,0
+757523,7735400,,Hwy. 12 & Melita Rd. (West End),,38.45615899,-122.628185,468,,0,,America/Los_Angeles,,,0
+757676,7750800,,Cotati Hub,,38.3266211,-122.7054706,471,,0,,America/Los_Angeles,,,0
+757206,7710700,,Starr Rd. & Gumview Rd.,,38.55622282,-122.8262255,463,,0,,America/Los_Angeles,,,0
+757233,7712900,,Airport Blvd. & Aviation Blvd.,,38.51123813,-122.781666,463,,0,,America/Los_Angeles,,,0
+757522,7735300,,Hwy. 12 & Melita Rd. (East End),,38.45375867,-122.6230268,468,,0,,America/Los_Angeles,,,0
+810951,7796700,,Foothill Blvd. & Elbridge Ave.,,38.784743198924,-123.02043364921,461,,0,,America/Los_Angeles,,,0
+757118,7702800,,Old Redwood Hwy. & Shamrock Circle,,38.53480177,-122.7873834,463,,0,,America/Los_Angeles,,,0
+757185,7708800,,Geyserville Ave. & School House Ln.,,38.70820645,-122.9070055,461,,0,,America/Los_Angeles,,,0
+757098,7701850,,Fulton Rd. & Airport Blvd.,,38.51028214,-122.7697278,463,,0,,America/Los_Angeles,,,0
+757905,7772320,,Laguna Dr. & LaBath Ave.,,38.345528,-122.719175,471,,0,,America/Los_Angeles,,,0
+758035,7790000,,Arata Ln. & Brooks Rd. Embree Ln.,,38.5621307025,-122.8043053991,463,,0,,America/Los_Angeles,,,0
+757393,7724900,,Hwy. 12 & Melita Rd.,,38.46463355,-122.6510306,467,,0,,America/Los_Angeles,,,0
+757489,7732400,,Boyes Hot Springs (Sonoma Mission Inn),,38.3145854,-122.4817477,470,,0,,America/Los_Angeles,,,0
+758075,7798300,,Bodega Bay Post Office (Eastbound),,38.3242009539,-123.0390595266,464,,0,,America/Los_Angeles,,,0
+757861,7768700,,River Rd. & Bonita Ave.,,38.50740281,-122.9891434,464,,0,,America/Los_Angeles,,,0
+757213,7711300,,Old Redwood Hwy. & Lakewood Dr.,,38.54596715,-122.8060887,463,,0,,America/Los_Angeles,,,0
+785279,7762610,,East Cotati Ave. & Santero Way,,38.3317530670004,-122.691745027686,471,,0,,America/Los_Angeles,,,0
+757280,7715730,,Range Ave. & State Farm Dr.,,38.46655536,-122.732523,467,,0,,America/Los_Angeles,,,0
+758029,7789400,,Hembree Ln. & Bay Tree Ct.,,38.5487594785,-122.7979716932,463,,0,,America/Los_Angeles,,,0
+923,7793500,,Russian River Trailer Park,,38.6040072429276,-122.862545760244,463,,0,,America/Los_Angeles,,,0
+757835,7765600,,Corby Ave. & Hearn Ave.,,38.41039025,-122.7163348,467,,0,,America/Los_Angeles,,,0
+757136,7704700,,Old Redwood Hwy. & Btwn. Eastside/Limerick,,38.5828075,-122.8460282,463,,0,,America/Los_Angeles,,,0
+757732,7754700,,N. McDowell Blvd. & Rainer Ave.,,38.25653481,-122.6386881,471,,0,,America/Los_Angeles,,,0
+757453,7730230,,2nd St. W. & Andrieux (Sonoma Medical Ctr.),,38.28804794,-122.4618134,470,,0,,America/Los_Angeles,,,0
+758068,7797600,,Duncans Mills (Westbound),,38.4531187971,-123.0542292445,464,,0,,America/Los_Angeles,,,0
+757875,7770100,,Myrtle Ave. & Macklin Dr.,,38.3214074,-122.7013407,471,,0,,America/Los_Angeles,,,0
+757476,7731700,,Bay St./Verano Ave. (ac. El Verano P.O.),,38.30051707,-122.4872693,470,,0,,America/Los_Angeles,,,0
+757872,7769700,,Main St. & Starett Hill Rd.,,38.464208,-123.0106893,464,,0,,America/Los_Angeles,,,0
+757830,7765100,,Moorland Ave. & btwn. Todd/W. Robles,,38.391327,-122.7184342,467,,0,,America/Los_Angeles,,,0
+757838,7765900,,Corby Ave. & Hearn Ave.,,38.41129472,-122.7164838,467,,0,,America/Los_Angeles,,,0
+757828,7764900,,Todd Rd. & Standish Ave.,,38.38707702,-122.7214575,467,,0,,America/Los_Angeles,,,0
+757654,7748510,,McDowell Blvd. & E. Washington St.,,38.24970263,-122.6269924,471,,0,,America/Los_Angeles,,,0

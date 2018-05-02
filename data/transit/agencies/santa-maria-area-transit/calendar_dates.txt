@@ -1,0 +1,45 @@
+service_id,date,holiday_name,exception_type
+c_1776_b_none_d_64,20180903,Labor Day,1
+c_1776_b_none_d_64,20180528,Memorial Day,1
+c_1776_b_none_d_64,20180219,Presidents Day,1
+c_1776_b_174_d_64,20180401,Easter,2
+c_1776_b_174_d_63,20190101,New Year's Day,2
+c_1776_b_174_d_63,20181225,Christmas Day,2
+c_1776_b_174_d_63,20181122,Thanksgiving Day,2
+c_1776_b_174_d_63,20180903,Labor Day,2
+c_1776_b_174_d_63,20180704,Independence Day,2
+c_1776_b_174_d_63,20180528,Memorial Day,2
+c_1776_b_174_d_63,20180219,Presidents Day,2
+c_1776_b_174_d_63,20180101,New Years Day,2
+c_1776_b_174_d_63,20171225,Christmas Day,2
+c_2573_b_none_d_96,20181231,New Year's Eve,1
+c_2573_b_none_d_96,20181226,Day after Christmas 2018,1
+c_2573_b_none_d_96,20181224,Christmas Eve,1
+c_2573_b_none_d_96,20181123,Thanksgiving Friday,1
+c_2573_b_none_d_96,20181121,Thanksgiving Wednesday,1
+c_2573_b_none_d_96,20181112,Veterans Day Observed,1
+c_2573_b_none_d_96,20180903,Labor Day,1
+c_2573_b_none_d_96,20180528,Memorial Day,1
+c_2573_b_none_d_96,20180219,Presidents Day,1
+c_2573_b_none_d_96,20180115,Martin Luther King Day,1
+c_2573_b_none_d_96,20171231,New Year's Eve,1
+c_2573_b_none_d_96,20171226,Christmas Day After,1
+c_2573_b_212_d_96,20180401,Easter Sunday,2
+c_2573_b_212_d_31,20190101,New Year's Day ,2
+c_2573_b_212_d_31,20181231,New Year's Eve,2
+c_2573_b_212_d_31,20181226,Day after Christmas 2018,2
+c_2573_b_212_d_31,20181225,Christmas Day,2
+c_2573_b_212_d_31,20181224,Christmas Eve,2
+c_2573_b_212_d_31,20181123,Thanksgiving Friday,2
+c_2573_b_212_d_31,20181122,Thanksgiving Day,2
+c_2573_b_212_d_31,20181121,Thanksgiving Wednesday,2
+c_2573_b_212_d_31,20181112,Veterans Day Observed,2
+c_2573_b_212_d_31,20180903,Labor Day,2
+c_2573_b_212_d_31,20180704,Independence Day,2
+c_2573_b_212_d_31,20180528,Memorial Day,2
+c_2573_b_212_d_31,20180219,Presidents Day,2
+c_2573_b_212_d_31,20180115,Martin Luther King Day,2
+c_2573_b_212_d_31,20180101,New Year's Day,2
+c_2573_b_212_d_31,20171231,New Year's Eve,2
+c_2573_b_212_d_31,20171226,Christmas Day After,2
+c_2573_b_212_d_31,20171225,Christmas Day,2

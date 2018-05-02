@@ -1,0 +1,24 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+5ef01815-de9b-4b3c-8d74-25f06272f4fb,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"25","Oro Dam","Oro Dam - Downtown",3,1E90FF,000000
+69bbadd6-48dd-4368-9315-a878c1f82d9a,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"24","Thermalito","Thermalito - County Center",3,228B22,000000
+e9d0a85f-9761-47d0-8692-ff5fab4b8f54,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"2","Mangrove","CTC & NVP via Mangrove / Cohasset",3,C71585,000000
+ea9f7c5a-c942-4062-8c67-22675b21fbf7,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"27","South Oroville","South Oroville - Las Plumas",3,FF1493,000000
+18a838cb-fff9-463a-b2b5-29da2041a6c3,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"32","Gridley - Chico","Gridley - Durham - Chico",3,8B4513,000000
+bc817959-44c7-4a8e-b39c-bd2fb01c653b,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"4","First / East","CTC & NVP via First / East",3,9ACD32,000000
+8e933dd3-a444-413c-91cf-93ce7802a2d4,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"26","Olive Highway","Olive Highway - Kelly Ridge",3,9370DB,000000
+44a31654-e1e2-4255-97ed-adb4e700cc94,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"30","Oroville - Biggs","Oroville - Gridley - Biggs",3,FFA500,000000
+7db5665a-1f49-4706-9bc6-f0d9f935db74,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"7","Bruce / Manzanita","Lassen & Chico Mall via Bruce / Manzanita",3,BC8F8F,000000
+4975f5ef-c85b-475b-8f28-f0c12264bd60,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"41","Magalia - Chico","Magalia - Chico via Skyway",3,4169E1,000000
+104b23f1-2759-4213-9c61-9a3e5c49fabe,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"8","Student Shuttle - Nord","CTC CSUC via Nord",3,9370DB,000000
+d34fdd34-a43c-4b76-9e65-7ca852dc856a,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"14","Park/Forest/MLK","CTC to MLK via Forest clockwise loop",3,DC143C,000000
+ee5868d0-8295-4de7-9eec-773c73510f12,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"3","Nord / East","CTC & NVP via Nord / East",3,6495ED,000000
+11999441-af36-4407-a93e-eaf9bcf99ad0,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"20","Chico - Oroville","Chico - Oroville via SR 70/99",3,FF0000,000000
+c5eeba06-5c15-47f6-b123-2742b77fb67f,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"16","Esplanade/SR99","CTC North via Esplanade/SR99",3,FFD700,000000
+e23ad878-bb57-437b-a2ca-fe6d3aeb1304,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"9C","Cedar Loop","CTC via Cedar Loop",3,FF8C00,000000
+0be333ef-3bba-457c-9212-c21237d64765,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"40","Paradise - Chico","Paradise - Chico via Skyway",3,483D8B,000000
+d37c01aa-4410-4731-a678-ef7e8acb6f9f,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"9","Student Shuttle - Warner/Oak","CTC CSUC via Warner and Oak",3,FF8C00,000000
+8f66acb3-64a6-424a-b3b8-7085bd91e393,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"31","Paradise - Oroville","Paradise - Oroville via Clark/SR 70",3,7FFF00,000000
+19b1dd45-e0d2-4e11-b2db-d021d10b6a8c,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"17","Park/MLK/Forest","CTC to Forest via MLK, counter-clockwise loop",3,DAA520,000000
+05377960-7bb4-41dd-98c5-ed11086612da,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"5","E. 8th Street","CTC & Chico Mall via E. 8th Street",3,CD5C5C,000000
+bf428481-1da3-429f-a6a1-da812de5d9a5,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"15","Esplanade / Lassen","CTC & North Chico via Esplanade / Lassen",3,006400,FFFFFF
+343999ce-c7d2-4f48-92a1-b14a0878975a,97aff62a-ed6d-4bd2-a9c8-d63f8e98a358,"52","Chico Airport Express","Oro-Chico Airport Express",3,DC143C,000000

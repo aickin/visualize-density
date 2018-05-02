@@ -1,0 +1,2807 @@
+timetable_id,stop_id,stop_sequence,stop_name,connected_routes
+1,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+1,12551,2,I St. & 7th St.,"21/, 26/, 36/, 43/"
+1,12552,3,H St. & 4th St.,"21/, /21RX, 36/, 43/"
+1,12554,4,H St. & 2nd St.,"21/, /21RX, 43/"
+1,12553,5,Modesto HS - Paradise Rd. & Washington St.,"21/, /21RX, 43/"
+1,12555,6,Paradise Rd. & Ash St.,"21/, /21RX, 43/"
+1,12556,7,Sutter Ave. & Paradise Rd.,21/
+1,12557,8,Sutter Ave. & Western Way,21/
+1,12558,9,Sutter Ave. & Rouse Ave.,21/
+1,12559,10,Sutter Ave. & Nian Way,21/
+1,12560,11,Sutter Ave. & Robertson Rd.,21/
+1,12561,12,Robertson Rd. & Marseille Ln.,21/
+1,12562,13,Robertson Rd & Hancock Across,21/
+1,12563,14,Robertson Rd. & Marlow St.,21/
+1,12564,15,Robertson Rd. & Vernon Ave.,21/
+1,12565,16,Carpenter Rd. & Robertson Rd.,21/
+1,12566,17,Paradise Rd. & Carpenter Rd.,21/
+1,12567,18,Paradise Rd. & Vernon Ave.,21/
+1,12568,19,Paradise Rd. & Pine Tree Ln.,21/
+1,12569,20,Paradise Rd. & Wade Ave.,21/
+1,12570,21,Paradise Rd. & Mayette Ave.,21/
+1,12571,22,Paradise Rd. & Chicago Ave.,21/
+1,12572,23,Paradise Rd. & Sutter Ave.,21/
+1,12573,24,Paradise Rd. & Leon Ave.,"21/, /21RX"
+1,12574,25,G St. & Sierra Dr. (Modesto HS),"21/, 36/"
+1,12575,26,Modesto Hs - G St & 2nd St,"21/, 36/"
+1,12576,27,G St. & 4th St.,"21/, 36/"
+1,12577,28,7th St. & H St.,"21/, /21RX, 36/"
+1,12578,29,7th St. & K St.,"21/, /21RX, 36/"
+1,12550,30,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+2,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+2,12551,2,I St. & 7th St.,"21/, 26/, 36/, 43/"
+2,12552,3,H St. & 4th St.,"21/, /21RX, 36/, 43/"
+2,12554,4,H St. & 2nd St.,"21/, /21RX, 43/"
+2,12553,5,Modesto HS - Paradise Rd. & Washington St.,"21/, /21RX, 43/"
+2,12555,6,Paradise Rd. & Ash St.,"21/, /21RX, 43/"
+2,12556,7,Sutter Ave. & Paradise Rd.,21/
+2,12557,8,Sutter Ave. & Western Way,21/
+2,12558,9,Sutter Ave. & Rouse Ave.,21/
+2,12559,10,Sutter Ave. & Nian Way,21/
+2,12560,11,Sutter Ave. & Robertson Rd.,21/
+2,12561,12,Robertson Rd. & Marseille Ln.,21/
+2,12562,13,Robertson Rd & Hancock Across,21/
+2,12563,14,Robertson Rd. & Marlow St.,21/
+2,12564,15,Robertson Rd. & Vernon Ave.,21/
+2,12565,16,Carpenter Rd. & Robertson Rd.,21/
+2,12566,17,Paradise Rd. & Carpenter Rd.,21/
+2,12567,18,Paradise Rd. & Vernon Ave.,21/
+2,12568,19,Paradise Rd. & Pine Tree Ln.,21/
+2,12569,20,Paradise Rd. & Wade Ave.,21/
+2,12570,21,Paradise Rd. & Mayette Ave.,21/
+2,12571,22,Paradise Rd. & Chicago Ave.,21/
+2,12572,23,Paradise Rd. & Sutter Ave.,21/
+2,12573,24,Paradise Rd. & Leon Ave.,"21/, /21RX"
+2,12574,25,G St. & Sierra Dr. (Modesto HS),"21/, 36/"
+2,12575,26,Modesto Hs - G St & 2nd St,"21/, 36/"
+2,12576,27,G St. & 4th St.,"21/, 36/"
+2,12577,28,7th St. & H St.,"21/, /21RX, 36/"
+2,12578,29,7th St. & K St.,"21/, /21RX, 36/"
+2,12550,30,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+3,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+3,12551,2,I St. & 7th St.,"21/, 26/, 36/, 43/"
+3,12552,3,H St. & 4th St.,"21/, /21RX, 36/, 43/"
+3,12554,4,H St. & 2nd St.,"21/, /21RX, 43/"
+3,12553,5,Modesto HS - Paradise Rd. & Washington St.,"21/, /21RX, 43/"
+3,12555,6,Paradise Rd. & Ash St.,"21/, /21RX, 43/"
+3,12556,7,Sutter Ave. & Paradise Rd.,21/
+3,12557,8,Sutter Ave. & Western Way,21/
+3,12558,9,Sutter Ave. & Rouse Ave.,21/
+3,12559,10,Sutter Ave. & Nian Way,21/
+3,12560,11,Sutter Ave. & Robertson Rd.,21/
+3,12561,12,Robertson Rd. & Marseille Ln.,21/
+3,12562,13,Robertson Rd & Hancock Across,21/
+3,12563,14,Robertson Rd. & Marlow St.,21/
+3,12564,15,Robertson Rd. & Vernon Ave.,21/
+3,12565,16,Carpenter Rd. & Robertson Rd.,21/
+3,12566,17,Paradise Rd. & Carpenter Rd.,21/
+3,12567,18,Paradise Rd. & Vernon Ave.,21/
+3,12568,19,Paradise Rd. & Pine Tree Ln.,21/
+3,12569,20,Paradise Rd. & Wade Ave.,21/
+3,12570,21,Paradise Rd. & Mayette Ave.,21/
+3,12571,22,Paradise Rd. & Chicago Ave.,21/
+3,12572,23,Paradise Rd. & Sutter Ave.,21/
+3,12573,24,Paradise Rd. & Leon Ave.,"21/, /21RX"
+3,12574,25,G St. & Sierra Dr. (Modesto HS),"21/, 36/"
+3,12575,26,Modesto Hs - G St & 2nd St,"21/, 36/"
+3,12576,27,G St. & 4th St.,"21/, 36/"
+3,12577,28,7th St. & H St.,"21/, /21RX, 36/"
+3,12578,29,7th St. & K St.,"21/, /21RX, 36/"
+3,12550,30,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+4,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+4,12551,2,I St. & 7th St.,"21/, 26/, 36/, 43/"
+4,12579,3,I St. & 4th St.,26/
+4,12580,4,I St. & 2nd St.,26/
+4,12581,5,Vine St. & Jefferson St.,26/
+4,12582,6,Madison St. & Walnut St.,26/
+4,12583,7,California Ave. & MLK Dr.,26/
+4,12584,8,California Ave. & Spencer Ave.,26/
+4,12585,9,California Ave. & Emerald Ave.,26/
+4,12586,10,California Ave. & Panama Dr.,26/
+4,12587,11,Panama Dr. & Vallecito Way,26/
+4,12588,12,Houser Ln. & Raymond Dr.,26/
+4,12589,13,Carpenter Rd. & Houser Ln.,"26/, 36/, 43/"
+4,12591,14,Central Catholic HS - Carpenter & Maze,"26/, 36/"
+4,12592,15,Carpenter Rd. & Hillview Dr.,"26/, 36/"
+4,12593,16,Carpenter Rd. & Elm Ave.,"26/, 36/"
+4,12594,17,Carpenter Rd. & Kansas Ave.,"26/, 36/"
+4,12595,18,Kansas Ave. & Lone Palm Ave.,26/
+4,12596,19,Emerald Ave. & Kansas Ave.,26/
+4,12597,20,Emerald Ave. & Elm Ave.,26/
+4,12598,21,Emerald Ave. between Laurel & Mathia,26/
+4,12599,22,Maze Blvd. & Spencer Ave.,26/
+4,12600,23,Maze Blvd. & M.L.King Dr.,26/
+4,12601,24,Maze Blvd. & Jefferson St.,26/
+4,12602,25,L St. & 7th St.,26/
+4,12550,26,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+5,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+5,12551,2,I St. & 7th St.,"21/, 26/, 36/, 43/"
+5,12579,3,I St. & 4th St.,26/
+5,12580,4,I St. & 2nd St.,26/
+5,12581,5,Vine St. & Jefferson St.,26/
+5,12582,6,Madison St. & Walnut St.,26/
+5,12583,7,California Ave. & MLK Dr.,26/
+5,12584,8,California Ave. & Spencer Ave.,26/
+5,12585,9,California Ave. & Emerald Ave.,26/
+5,12586,10,California Ave. & Panama Dr.,26/
+5,12587,11,Panama Dr. & Vallecito Way,26/
+5,12588,12,Houser Ln. & Raymond Dr.,26/
+5,12589,13,Carpenter Rd. & Houser Ln.,"26/, 36/, 43/"
+5,12591,14,Central Catholic HS - Carpenter & Maze,"26/, 36/"
+5,12592,15,Carpenter Rd. & Hillview Dr.,"26/, 36/"
+5,12593,16,Carpenter Rd. & Elm Ave.,"26/, 36/"
+5,12594,17,Carpenter Rd. & Kansas Ave.,"26/, 36/"
+5,12595,18,Kansas Ave. & Lone Palm Ave.,26/
+5,12596,19,Emerald Ave. & Kansas Ave.,26/
+5,12597,20,Emerald Ave. & Elm Ave.,26/
+5,12598,21,Emerald Ave. between Laurel & Mathia,26/
+5,12599,22,Maze Blvd. & Spencer Ave.,26/
+5,12600,23,Maze Blvd. & M.L.King Dr.,26/
+5,12601,24,Maze Blvd. & Jefferson St.,26/
+5,12602,25,L St. & 7th St.,26/
+5,12550,26,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+6,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+6,12551,2,I St. & 7th St.,"21/, 26/, 36/, 43/"
+6,12579,3,I St. & 4th St.,26/
+6,12580,4,I St. & 2nd St.,26/
+6,12581,5,Vine St. & Jefferson St.,26/
+6,12582,6,Madison St. & Walnut St.,26/
+6,12583,7,California Ave. & MLK Dr.,26/
+6,12584,8,California Ave. & Spencer Ave.,26/
+6,12585,9,California Ave. & Emerald Ave.,26/
+6,12586,10,California Ave. & Panama Dr.,26/
+6,12587,11,Panama Dr. & Vallecito Way,26/
+6,12588,12,Houser Ln. & Raymond Dr.,26/
+6,12589,13,Carpenter Rd. & Houser Ln.,"26/, 36/, 43/"
+6,12591,14,Central Catholic HS - Carpenter & Maze,"26/, 36/"
+6,12592,15,Carpenter Rd. & Hillview Dr.,"26/, 36/"
+6,12593,16,Carpenter Rd. & Elm Ave.,"26/, 36/"
+6,12594,17,Carpenter Rd. & Kansas Ave.,"26/, 36/"
+6,12595,18,Kansas Ave. & Lone Palm Ave.,26/
+6,12596,19,Emerald Ave. & Kansas Ave.,26/
+6,12597,20,Emerald Ave. & Elm Ave.,26/
+6,12598,21,Emerald Ave. between Laurel & Mathia,26/
+6,12599,22,Maze Blvd. & Spencer Ave.,26/
+6,12600,23,Maze Blvd. & M.L.King Dr.,26/
+6,12601,24,Maze Blvd. & Jefferson St.,26/
+6,12602,25,L St. & 7th St.,26/
+6,12550,26,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+7,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+7,13158,2,J St. & 12th St.,"22/, 23/"
+7,13159,3,J St. & 14th St.,"22/, 23/"
+7,13160,4,J St. & 16th St.,"22/, 23/"
+7,13161,5,McHenry Ave. & Jones St.,"22/, 23/"
+7,13162,6,McHenry Ave. & Almond Ave.,"22/, 23/"
+7,768647,7,McHenry Ave. & Morris Ave.,"22/, 23/"
+7,13164,8,McHenry Ave. & Frances Ave.,"22/, 23/"
+7,13165,9,McHenry Ave. & Hintze Ave.,"22/, 23/"
+7,13166,10,McHenry Ave. & Fairmont Ave.,"22/, 23/"
+7,13167,11,McHenry Ave. & Roseburg Ave.,"22/, 23/"
+7,13168,12,McHenry Ave. & Orangeburg Ave.,"22/, 23/"
+7,13169,13,McHenry Ave. & Coolidge Ave.,"22/, 23/"
+7,12662,14,McHenry Village - McHenry & Granger,"22/, 23/, 24/"
+7,12614,15,McHenry Ave. & Norwegian Ave.,"22/, 23/, 27/"
+7,12615,16,McHenry Ave. & Tokay Ave.,"22/, 23/, 27/"
+7,12616,17,McHenry Ave. & Mark Randy Pl.,"22/, 23/, 27/"
+7,12617,18,McHenry Ave. & Sheila Ct.,"22/, 23/, 27/"
+7,12618,19,McHenry Ave. & Floyd Ave. (Northbound),"22/, 23/, 27/"
+7,12619,20,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/, 37/"
+7,12620,21,McHenry Ave. & Robinhood Dr.,"22/, 23/, 27/, 37/"
+7,12621,22,McHenry Ave. & Sylvan Ave.,"22/, 23/, 27/"
+7,12622,23,McHenry Ave. & Warren Way,"22/, 23/, 27/"
+7,12623,24,McHenry Ave. & Coralwood Rd.,"22/, 23/, 27/"
+7,12624,25,McHenry Ave. & Grecian Ave.,"22/, 23/, 27/"
+7,13335,26,McHenry Ave. & Auto Center,"22/, 23/"
+7,12626,27,Bangs Ave. & Spyres Way,"22/, 23/, 27/"
+7,12627,28,Bangs Ave. & Northstar Way,"22/, 23/, 27/"
+7,12628,29,Northstar Way & Glass Ln.,"22/, 27/"
+7,12629,30,600 Galaxy Way,"22/, 27/"
+7,12630,31,Stratos Way & Galaxy Way,"22/, 27/"
+7,12631,32,Kiernan Ave. & Stratos Way,"22/, 27/"
+7,12632,33,McHenry Ave. & Kiernan Ave.,"22/, 27/"
+7,13171,34,Standiford Ave. & McHenry Ave.,22/
+7,13172,35,Standiford Ave. & Columbine Dr.,22/
+7,13173,36,Standiford Ave. Winegarden Dr.,22/
+7,13174,37,Standiford Ave. & Colonial Dr.,22/
+7,13056,38,Standiford Ave. & Tully Rd.,"22/, 31/"
+7,13057,39,Standiford Ave. & Longbridge Dr.,"22/, 31/"
+7,13058,40,Standiford Ave. & Carver Rd.,"22/, 31/"
+7,13059,41,Standiford Ave. & Shawnee Dr.,"22/, 31/"
+7,13060,42,Standiford Ave. & San Clemente Ave.,"22/, 31/"
+7,13013,43,Standiford Ave. & Conant Ave.,"22/, 30/, 31/"
+7,2428370,44,Staniford Ave. & Hahn Dr.,22/
+7,13100,45,Dale & Veneman (SE corner),"22/, 28/"
+8,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+8,13158,2,J St. & 12th St.,"22/, 23/"
+8,13159,3,J St. & 14th St.,"22/, 23/"
+8,13160,4,J St. & 16th St.,"22/, 23/"
+8,13161,5,McHenry Ave. & Jones St.,"22/, 23/"
+8,13162,6,McHenry Ave. & Almond Ave.,"22/, 23/"
+8,768647,7,McHenry Ave. & Morris Ave.,"22/, 23/"
+8,13164,8,McHenry Ave. & Frances Ave.,"22/, 23/"
+8,13165,9,McHenry Ave. & Hintze Ave.,"22/, 23/"
+8,13166,10,McHenry Ave. & Fairmont Ave.,"22/, 23/"
+8,13167,11,McHenry Ave. & Roseburg Ave.,"22/, 23/"
+8,13168,12,McHenry Ave. & Orangeburg Ave.,"22/, 23/"
+8,13169,13,McHenry Ave. & Coolidge Ave.,"22/, 23/"
+8,12662,14,McHenry Village - McHenry & Granger,"22/, 23/, 24/"
+8,12614,15,McHenry Ave. & Norwegian Ave.,"22/, 23/, 27/"
+8,12615,16,McHenry Ave. & Tokay Ave.,"22/, 23/, 27/"
+8,12616,17,McHenry Ave. & Mark Randy Pl.,"22/, 23/, 27/"
+8,12617,18,McHenry Ave. & Sheila Ct.,"22/, 23/, 27/"
+8,12618,19,McHenry Ave. & Floyd Ave. (Northbound),"22/, 23/, 27/"
+8,12619,20,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/, 37/"
+8,12620,21,McHenry Ave. & Robinhood Dr.,"22/, 23/, 27/, 37/"
+8,12621,22,McHenry Ave. & Sylvan Ave.,"22/, 23/, 27/"
+8,12622,23,McHenry Ave. & Warren Way,"22/, 23/, 27/"
+8,12623,24,McHenry Ave. & Coralwood Rd.,"22/, 23/, 27/"
+8,12624,25,McHenry Ave. & Grecian Ave.,"22/, 23/, 27/"
+8,13335,26,McHenry Ave. & Auto Center,"22/, 23/"
+8,12626,27,Bangs Ave. & Spyres Way,"22/, 23/, 27/"
+8,12627,28,Bangs Ave. & Northstar Way,"22/, 23/, 27/"
+8,12628,29,Northstar Way & Glass Ln.,"22/, 27/"
+8,12629,30,600 Galaxy Way,"22/, 27/"
+8,12630,31,Stratos Way & Galaxy Way,"22/, 27/"
+8,12631,32,Kiernan Ave. & Stratos Way,"22/, 27/"
+8,12632,33,McHenry Ave. & Kiernan Ave.,"22/, 27/"
+8,13171,34,Standiford Ave. & McHenry Ave.,22/
+8,13172,35,Standiford Ave. & Columbine Dr.,22/
+8,13173,36,Standiford Ave. Winegarden Dr.,22/
+8,13174,37,Standiford Ave. & Colonial Dr.,22/
+8,13056,38,Standiford Ave. & Tully Rd.,"22/, 31/"
+8,13057,39,Standiford Ave. & Longbridge Dr.,"22/, 31/"
+8,13058,40,Standiford Ave. & Carver Rd.,"22/, 31/"
+8,13059,41,Standiford Ave. & Shawnee Dr.,"22/, 31/"
+8,13060,42,Standiford Ave. & San Clemente Ave.,"22/, 31/"
+8,13013,43,Standiford Ave. & Conant Ave.,"22/, 30/, 31/"
+8,2428370,44,Staniford Ave. & Hahn Dr.,22/
+8,13100,45,Dale & Veneman (SE corner),"22/, 28/"
+9,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+9,13158,2,J St. & 12th St.,"22/, 23/"
+9,13159,3,J St. & 14th St.,"22/, 23/"
+9,13160,4,J St. & 16th St.,"22/, 23/"
+9,13161,5,McHenry Ave. & Jones St.,"22/, 23/"
+9,13162,6,McHenry Ave. & Almond Ave.,"22/, 23/"
+9,768647,7,McHenry Ave. & Morris Ave.,"22/, 23/"
+9,13164,8,McHenry Ave. & Frances Ave.,"22/, 23/"
+9,13165,9,McHenry Ave. & Hintze Ave.,"22/, 23/"
+9,13166,10,McHenry Ave. & Fairmont Ave.,"22/, 23/"
+9,13167,11,McHenry Ave. & Roseburg Ave.,"22/, 23/"
+9,13168,12,McHenry Ave. & Orangeburg Ave.,"22/, 23/"
+9,13169,13,McHenry Ave. & Coolidge Ave.,"22/, 23/"
+9,12662,14,McHenry Village - McHenry & Granger,"22/, 23/, 24/"
+9,12614,15,McHenry Ave. & Norwegian Ave.,"22/, 23/, 27/"
+9,12615,16,McHenry Ave. & Tokay Ave.,"22/, 23/, 27/"
+9,12616,17,McHenry Ave. & Mark Randy Pl.,"22/, 23/, 27/"
+9,12617,18,McHenry Ave. & Sheila Ct.,"22/, 23/, 27/"
+9,12618,19,McHenry Ave. & Floyd Ave. (Northbound),"22/, 23/, 27/"
+9,12619,20,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/, 37/"
+9,12620,21,McHenry Ave. & Robinhood Dr.,"22/, 23/, 27/, 37/"
+9,12621,22,McHenry Ave. & Sylvan Ave.,"22/, 23/, 27/"
+9,12622,23,McHenry Ave. & Warren Way,"22/, 23/, 27/"
+9,12623,24,McHenry Ave. & Coralwood Rd.,"22/, 23/, 27/"
+9,12624,25,McHenry Ave. & Grecian Ave.,"22/, 23/, 27/"
+9,13335,26,McHenry Ave. & Auto Center,"22/, 23/"
+9,12626,27,Bangs Ave. & Spyres Way,"22/, 23/, 27/"
+9,12627,28,Bangs Ave. & Northstar Way,"22/, 23/, 27/"
+9,12628,29,Northstar Way & Glass Ln.,"22/, 27/"
+9,12629,30,600 Galaxy Way,"22/, 27/"
+9,12630,31,Stratos Way & Galaxy Way,"22/, 27/"
+9,12631,32,Kiernan Ave. & Stratos Way,"22/, 27/"
+9,12632,33,McHenry Ave. & Kiernan Ave.,"22/, 27/"
+9,13171,34,Standiford Ave. & McHenry Ave.,22/
+9,13172,35,Standiford Ave. & Columbine Dr.,22/
+9,13173,36,Standiford Ave. Winegarden Dr.,22/
+9,13174,37,Standiford Ave. & Colonial Dr.,22/
+9,13056,38,Standiford Ave. & Tully Rd.,"22/, 31/"
+9,13057,39,Standiford Ave. & Longbridge Dr.,"22/, 31/"
+9,13058,40,Standiford Ave. & Carver Rd.,"22/, 31/"
+9,13059,41,Standiford Ave. & Shawnee Dr.,"22/, 31/"
+9,13060,42,Standiford Ave. & San Clemente Ave.,"22/, 31/"
+9,13013,43,Standiford Ave. & Conant Ave.,"22/, 30/, 31/"
+9,2428370,44,Staniford Ave. & Hahn Dr.,22/
+9,13100,45,Dale & Veneman (SE corner),"22/, 28/"
+10,12863,1,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+10,12942,2,Standiford Ave. & Dale Rd.,"22/, 30/, 31/, 37/"
+10,13014,3,Standiford Ave. & Hahn Dr. ,"22/, 30/, 31/, 37/"
+10,13070,4,Standiford Ave. & Conant Ave.,"22/, 31/"
+10,13071,5,Standiford Ave. between Conant & Prescott,"22/, 31/"
+10,13072,6,Standiford Ave. & Prescott Rd.,"22/, 31/"
+10,13073,7,Standiford Ave. & Shawnee Dr.,"22/, 31/"
+10,13074,8,Standiford Ave. & Carver Rd.,"22/, 31/"
+10,13075,9,Standiford Ave. & Longbridge Dr.,"22/, 31/"
+10,13076,10,Standiford Ave. & Chancellor Ave.,"22/, 31/"
+10,13175,11,Standiford Ave. & Tully Rd.,22/
+10,13176,12,Standiford Ave. & Colonial Dr.,22/
+10,13177,13,Standiford Ave. & Tierra Ct.,22/
+10,13178,14,Standiford Ave. & Polaris St.,22/
+10,13179,15,Standiford Ave. & Sherwood Ave.,22/
+10,12637,16,McHenry Ave. & Standiford Ave.,"22/, 23/, 27/, 37/"
+10,12638,17,McHenry Ave. & Woodrow Ave.,"22/, 23/, 27/, 37/"
+10,12639,18,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/"
+10,12640,19,McHenry Ave. & Floyd Ave.,"22/, 23/, 27/"
+10,13180,20,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+10,12641,21,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+10,12803,22,McHenry Village - McHenry & Granger,"22/, 23/, 34/"
+10,12804,23,McHenry Ave. & Coolidge Ave.,"22/, 23/, 34/"
+10,13300,24,McHenry Ave. & Orangeburg Ave.,"22/, 23/"
+10,13181,25,McHenry Ave. between Roseburg & Mensinger,"22/, 23/"
+10,13182,26,McHenry Ave. & Fairmont Ave.,"22/, 23/"
+10,13183,27,McHenry Ave. & Griswold Ave.,"22/, 23/"
+10,13184,28,McHenry Ave. & Maynell Ave.,"22/, 23/"
+10,13302,29,McHenry Ave. & Morris Ave.,"22/, 23/"
+10,13185,30,McHenry Ave. & Stoddard Ave.,"22/, 23/"
+10,13186,31,McHenry Ave. & Needham St.,"22/, 23/"
+10,13187,32,J St. & 15th St.,"22/, 23/"
+10,13188,33,J St. & 13th St.,"22/, 23/"
+10,13189,34,J St. & 11th St.,"22/, 23/"
+10,12550,35,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+11,12863,1,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+11,12942,2,Standiford Ave. & Dale Rd.,"22/, 30/, 31/, 37/"
+11,13014,3,Standiford Ave. & Hahn Dr. ,"22/, 30/, 31/, 37/"
+11,13070,4,Standiford Ave. & Conant Ave.,"22/, 31/"
+11,13071,5,Standiford Ave. between Conant & Prescott,"22/, 31/"
+11,13072,6,Standiford Ave. & Prescott Rd.,"22/, 31/"
+11,13073,7,Standiford Ave. & Shawnee Dr.,"22/, 31/"
+11,13074,8,Standiford Ave. & Carver Rd.,"22/, 31/"
+11,13075,9,Standiford Ave. & Longbridge Dr.,"22/, 31/"
+11,13076,10,Standiford Ave. & Chancellor Ave.,"22/, 31/"
+11,13175,11,Standiford Ave. & Tully Rd.,22/
+11,13176,12,Standiford Ave. & Colonial Dr.,22/
+11,13177,13,Standiford Ave. & Tierra Ct.,22/
+11,13178,14,Standiford Ave. & Polaris St.,22/
+11,13179,15,Standiford Ave. & Sherwood Ave.,22/
+11,12637,16,McHenry Ave. & Standiford Ave.,"22/, 23/, 27/, 37/"
+11,12638,17,McHenry Ave. & Woodrow Ave.,"22/, 23/, 27/, 37/"
+11,12639,18,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/"
+11,12640,19,McHenry Ave. & Floyd Ave.,"22/, 23/, 27/"
+11,13180,20,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+11,12641,21,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+11,12803,22,McHenry Village - McHenry & Granger,"22/, 23/, 34/"
+11,12804,23,McHenry Ave. & Coolidge Ave.,"22/, 23/, 34/"
+11,13300,24,McHenry Ave. & Orangeburg Ave.,"22/, 23/"
+11,13181,25,McHenry Ave. between Roseburg & Mensinger,"22/, 23/"
+11,13182,26,McHenry Ave. & Fairmont Ave.,"22/, 23/"
+11,13183,27,McHenry Ave. & Griswold Ave.,"22/, 23/"
+11,13184,28,McHenry Ave. & Maynell Ave.,"22/, 23/"
+11,13302,29,McHenry Ave. & Morris Ave.,"22/, 23/"
+11,13185,30,McHenry Ave. & Stoddard Ave.,"22/, 23/"
+11,13186,31,McHenry Ave. & Needham St.,"22/, 23/"
+11,13187,32,J St. & 15th St.,"22/, 23/"
+11,13188,33,J St. & 13th St.,"22/, 23/"
+11,13189,34,J St. & 11th St.,"22/, 23/"
+11,12550,35,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+12,12863,1,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+12,12942,2,Standiford Ave. & Dale Rd.,"22/, 30/, 31/, 37/"
+12,13014,3,Standiford Ave. & Hahn Dr. ,"22/, 30/, 31/, 37/"
+12,13070,4,Standiford Ave. & Conant Ave.,"22/, 31/"
+12,13071,5,Standiford Ave. between Conant & Prescott,"22/, 31/"
+12,13072,6,Standiford Ave. & Prescott Rd.,"22/, 31/"
+12,13073,7,Standiford Ave. & Shawnee Dr.,"22/, 31/"
+12,13074,8,Standiford Ave. & Carver Rd.,"22/, 31/"
+12,13075,9,Standiford Ave. & Longbridge Dr.,"22/, 31/"
+12,13076,10,Standiford Ave. & Chancellor Ave.,"22/, 31/"
+12,13175,11,Standiford Ave. & Tully Rd.,22/
+12,13176,12,Standiford Ave. & Colonial Dr.,22/
+12,13177,13,Standiford Ave. & Tierra Ct.,22/
+12,13178,14,Standiford Ave. & Polaris St.,22/
+12,13179,15,Standiford Ave. & Sherwood Ave.,22/
+12,12637,16,McHenry Ave. & Standiford Ave.,"22/, 23/, 27/, 37/"
+12,12638,17,McHenry Ave. & Woodrow Ave.,"22/, 23/, 27/, 37/"
+12,12639,18,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/"
+12,12640,19,McHenry Ave. & Floyd Ave.,"22/, 23/, 27/"
+12,13180,20,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+12,12641,21,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+12,12803,22,McHenry Village - McHenry & Granger,"22/, 23/, 34/"
+12,12804,23,McHenry Ave. & Coolidge Ave.,"22/, 23/, 34/"
+12,13300,24,McHenry Ave. & Orangeburg Ave.,"22/, 23/"
+12,13181,25,McHenry Ave. between Roseburg & Mensinger,"22/, 23/"
+12,13182,26,McHenry Ave. & Fairmont Ave.,"22/, 23/"
+12,13183,27,McHenry Ave. & Griswold Ave.,"22/, 23/"
+12,13184,28,McHenry Ave. & Maynell Ave.,"22/, 23/"
+12,13302,29,McHenry Ave. & Morris Ave.,"22/, 23/"
+12,13185,30,McHenry Ave. & Stoddard Ave.,"22/, 23/"
+12,13186,31,McHenry Ave. & Needham St.,"22/, 23/"
+12,13187,32,J St. & 15th St.,"22/, 23/"
+12,13188,33,J St. & 13th St.,"22/, 23/"
+12,13189,34,J St. & 11th St.,"22/, 23/"
+12,12550,35,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+13,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+13,12651,2,I St. & 12th St.,"24/, 32/"
+13,12652,3,I St. & 14th St.,"24/, 32/"
+13,12653,4,I St. & 15th St.,"24/, 32/"
+13,12654,5,I Street and 17th NS,"24/, 32/"
+13,12655,6,Burney St. & LaLoma Ave.,"24/, 32/, 34/"
+13,12656,7,Scenic Dr. & Melrose Ave.,"24/, 32/, 34/"
+13,12657,8,Bodem St. & Cedar Ave.,24/
+13,12658,9,Sunrise Ave. & Lucern Ave.,24/
+13,12659,10,Sunrise Ave. & Annabelle Ave.,24/
+13,13334,11,Sunrise Ave. & Edison Ave.,24/
+13,12660,12,Orangeburg & Sunrise (Elliott Ed Ctr.),24/
+13,12661,13,Granger Ave. & Sunrise Ave.,24/
+13,12712,14,Granger Ave. & Honeysuckle Dr.,24/
+13,12713,15,Granger Ave. & McHenry Ave.,24/
+13,12662,16,McHenry Village - McHenry & Granger,"22/, 23/, 24/"
+13,12663,17,Norwegian Ave. & McHenry Ave.,24/
+13,12664,18,Norwegian Ave. & Eldena Way,24/
+13,12665,19,Norwegian Ave. & Sunny Vista Ave.,24/
+13,12666,20,Coffee Rd. & Celeste Dr.,"24/, 32/"
+13,12667,21,Coffee Rd. & Athens Ave.,"24/, 32/"
+13,12668,22,Coffee Rd. & Floyd Ave.,"24/, 32/"
+13,12669,23,Coffee Rd. between Floyd & Rumble,"24/, 32/"
+13,12670,24,Coffee Rd. & Thorsen Ave.,"24/, 32/"
+13,12671,25,Sylvan & Coffee,"24/, 32/, 37/"
+13,12672,26,Sylvan & Boyce Beyer HS,"24/, 32/, 37/"
+13,12673,27,Sylvan Ave. & Hasham Dr.,"24/, 32/, 37/"
+13,12674,28,Sylvan Ave. & Oakdale Rd.,24/
+13,12675,29,Sylvan Ave. & Wood Sorrel Dr.,24/
+13,12676,30,Sylvan Ave. & Aria Way,24/
+13,12677,31,Sylvan Ave. & McReynolds Ave.,24/
+13,12678,32,Enochs HS - Sylvan Ave. & Millbrook Ave.,24/
+13,12679,33,Litt Rd. & Sylvan Ave.,24/
+13,12680,34,Litt Rd. & Hillglen Ave.,24/
+13,12681,35,Millbrook Ave. & Kee Ln..,24/
+13,12682,36,Millbrook Ave. & Parkcrest Dr.,24/
+13,12683,37,Floyd Ave. & Millbrook Ave.,24/
+13,12684,38,Floyd Ave. & Roselle Ave.,24/
+13,12685,39,Floyd Ave. & Temescal Dr.,24/
+13,12686,40,Floyd Ave. & Lincoln Oak Dr.,24/
+13,12687,41,Floyd Ave. & Orchard Park Way,24/
+13,12688,42,Oakdale & Floyd ,"24/, 32/, 37/"
+13,12689,43,Oakdale Rd. & Manor Oak Dr.,"24/, 32/, 37/"
+13,12956,44,Oakdale Rd. & Celeste Dr.,"24/, 32/, 37/"
+13,12690,45,Merle Ave. & Oakdale Rd.,24/
+13,12691,46,Merle Ave. & Woodcrest Way,24/
+13,12692,47,Merle Ave. & Pantaleo Dr.,24/
+13,12693,48,Roselle Ave. & Merle Ave.,24/
+13,12694,49,Lakewood Ave. & Briggsmore Ave.,24/
+13,12695,50,Lakewood Ave. & Orangeburg Ave.,24/
+13,12696,51,Lakewood Ave. & Middleboro Pl.,24/
+13,12697,52,Middleboro Pl. & Eastridge Dr.,24/
+13,12698,53,Surrey Ave. & Sonoma Ave.,24/
+13,12699,54,Surrey Ave. & McGuire Dr.,"24/, 34/"
+13,12700,55,Surrey Ave. & Oakdale Rd.,24/
+13,12701,56,Wylie Dr. & Oakdale Rd.,"24/, 25/"
+13,12702,57,Wylie Dr. & Muirwood Way,"24/, 25/"
+13,12703,58,Rose Ave. & Wylie Dr.,24/
+13,12704,59,Rose Ave. & Irene Ave.,24/
+13,12705,60,Scenic Dr. & Rose Ave.,24/
+13,12706,61,Scenic Dr. & Sunnyside Ave.,24/
+13,12707,62,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+13,12708,63,I St. & 17th St.,"24/, 32/"
+13,12709,64,I St. & 16th St.,"24/, 32/"
+13,12710,65,I St. & 14th St.,"24/, 32/"
+13,12711,66,I St. & 11th St.,"24/, 32/"
+13,12550,67,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+14,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+14,12758,2,10th St & H St.,"25/, 34/, 37/, 39/"
+14,12759,3,G St. & 12th St.,"25/, 34/"
+14,12760,4,G St. & 14th St.,"25/, 34/"
+14,12761,5,G St. & 16th St.,"25/, 34/"
+14,13190,6,G St. & 17th St.,25/
+14,13191,7,G St. & Burney St.,25/
+14,13192,8,La Loma & Morton Blvd.,25/
+14,13193,9,La Loma & Las Palmas Ave.,25/
+14,13194,10,La Loma & Santa Barbara Ave.,25/
+14,13195,11,Miller Ave. & Santa Cruz Ave.,25/
+14,13303,12,Miller Ave. & Camellia Way,25/
+14,13196,13,Miller Ave. & Ferguson Ave.,25/
+14,13197,14,Miller Ave. & Maria Ct.,25/
+14,13198,15,Miller Ave. & Phoenix Ave.,25/
+14,13199,16,Miller Ave. & Parry Ave.,25/
+14,13200,17,Miller Ave. & El Vista Ave.,25/
+14,13201,18,Miller Ave. & Trask Ln.,25/
+14,13202,19,Miller Ave. & Kingston Ln.,25/
+14,13203,20,Riverside Dr. & Miller Ave.,25/
+14,12894,21,Yosemite Blvd. & Beard Ave.,"25/, 39/"
+14,13204,22,Lincoln Ave. & Yosemite Blvd.,25/
+14,13205,23,Lincoln Ave. & Poppypatch Dr.,25/
+14,13206,24,Lincoln Ave. & Penny Ln.,25/
+14,13207,25,Penny Ln. & Hubert Dr.,25/
+14,13208,26,McClure Rd. & Penny Ln.,25/
+14,13209,27,Ardia Ave. & Redfield Ave.,25/
+14,13210,28,Ardia Ave. & Creekwood Dr.,25/
+14,13211,29,Creekwood Dr. & Edenton Ln.,25/
+14,13212,30,Johansen HS - Creekwood Dr. & Claus Rd.,25/
+14,13333,31,Claus Rd. & Scenic Dr.,25/
+14,13213,32,Claus Rd. & Orangeburg Ave.,25/
+14,13214,33,Briggmore Ave. & Peta Way,25/
+14,13215,34,Amtrak Station - Held Dr. & Briggsmore Ave.,25/
+14,13216,35,Held Briggsmore,25/
+14,13217,36,Orangeburg Ave. & Held Dr.,25/
+14,13218,37,Orangeburg Ave. & Prospect Ln.,25/
+14,13219,38,Orangeburg Ave. & Claus Rd.,25/
+14,13220,39,Orangeburg Ave. & Palmdale Dr.,25/
+14,13221,40,Orangeburg Ave. & Pepper Tree Ln.,25/
+14,13222,41,Orangeburg Ave. & Desert Willow Ln.,25/
+14,13223,42,Orangeburg Ave. & Lakewood Ave.,25/
+14,13224,43,Orangeburg Ave. & Eastridge Dr.,25/
+14,13226,44,Orangeburg Ave. & Christiansen Dr.,25/
+14,13227,45,Orangeburg Ave. & Oakdale Rd.,25/
+14,13228,46,Orangeburg Ave. & Oakdale Rd.,25/
+14,13229,47,Orangeburg Ave. & Steuben Way,25/
+14,13230,48,Orangeburg Ave. & Rose Ave.,25/
+14,13231,49,Orangeburg Ave. & Morene Ave.,25/
+14,13232,50,Orangeburg Ave. & Gary Ln.,25/
+14,13233,51,Orangeburg Ave. & Coffee Rd.,25/
+14,13234,52,Orangeburg Ave. & Yarmouth Dr.,25/
+14,13235,53,Orangeburg Ave. & Sunrise Ave.,25/
+14,13236,54,Orangeburg Ave. & Nelson Ave.,25/
+14,13237,55,Orangeburg Ave. & McHenry Ave.,25/
+14,13238,56,Orangeburg Ave. & McHenry Ave. (Farside),25/
+14,13239,57,Orangeburg Ave. & Sherwood Ave.,25/
+14,13240,58,Orangeburg Ave. & Enslen Ave.,25/
+14,13241,59,Orangeburg Ave. & Bronson Ave.,25/
+14,13242,60,Orangeburg Ave. & College Ave.,25/
+14,13243,61,Orangeburg Ave. & Tully Rd.,25/
+14,13244,62,Orangeburg Ave. & Kearney Ave.,25/
+14,13245,63,Orangeburg Ave. & Carver Rd.,25/
+14,13246,64,Orangeburg Ave. & Martin Ave.,25/
+14,13247,65,Orangeburg Ave. between Martin & Evergreen,25/
+14,13248,66,Orangeburg Ave. & Evergreen Ave.,25/
+14,12856,67,Sisk Rd. & Briggsmore Ave.,"25/, 36/"
+14,12857,68,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+14,12858,69,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+14,12859,70,Sisk Rd. & Earl St.,"25/, 36/"
+14,12860,71,Sisk Rd. & Brenner Way.,"25/, 36/"
+14,12861,72,Sisk Rd. & Rumble Rd.,"25/, 36/, 37/"
+14,12840,73,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+15,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+15,12758,2,10th St & H St.,"25/, 34/, 37/, 39/"
+15,12759,3,G St. & 12th St.,"25/, 34/"
+15,12760,4,G St. & 14th St.,"25/, 34/"
+15,12761,5,G St. & 16th St.,"25/, 34/"
+15,13190,6,G St. & 17th St.,25/
+15,13191,7,G St. & Burney St.,25/
+15,13192,8,La Loma & Morton Blvd.,25/
+15,13193,9,La Loma & Las Palmas Ave.,25/
+15,13194,10,La Loma & Santa Barbara Ave.,25/
+15,13195,11,Miller Ave. & Santa Cruz Ave.,25/
+15,13303,12,Miller Ave. & Camellia Way,25/
+15,13196,13,Miller Ave. & Ferguson Ave.,25/
+15,13197,14,Miller Ave. & Maria Ct.,25/
+15,13198,15,Miller Ave. & Phoenix Ave.,25/
+15,13199,16,Miller Ave. & Parry Ave.,25/
+15,13200,17,Miller Ave. & El Vista Ave.,25/
+15,13201,18,Miller Ave. & Trask Ln.,25/
+15,13202,19,Miller Ave. & Kingston Ln.,25/
+15,13203,20,Riverside Dr. & Miller Ave.,25/
+15,12894,21,Yosemite Blvd. & Beard Ave.,"25/, 39/"
+15,13204,22,Lincoln Ave. & Yosemite Blvd.,25/
+15,13205,23,Lincoln Ave. & Poppypatch Dr.,25/
+15,13206,24,Lincoln Ave. & Penny Ln.,25/
+15,13207,25,Penny Ln. & Hubert Dr.,25/
+15,13208,26,McClure Rd. & Penny Ln.,25/
+15,13209,27,Ardia Ave. & Redfield Ave.,25/
+15,13210,28,Ardia Ave. & Creekwood Dr.,25/
+15,13211,29,Creekwood Dr. & Edenton Ln.,25/
+15,13212,30,Johansen HS - Creekwood Dr. & Claus Rd.,25/
+15,13333,31,Claus Rd. & Scenic Dr.,25/
+15,13213,32,Claus Rd. & Orangeburg Ave.,25/
+15,13214,33,Briggmore Ave. & Peta Way,25/
+15,13215,34,Amtrak Station - Held Dr. & Briggsmore Ave.,25/
+15,13216,35,Held Briggsmore,25/
+15,13217,36,Orangeburg Ave. & Held Dr.,25/
+15,13218,37,Orangeburg Ave. & Prospect Ln.,25/
+15,13219,38,Orangeburg Ave. & Claus Rd.,25/
+15,13220,39,Orangeburg Ave. & Palmdale Dr.,25/
+15,13221,40,Orangeburg Ave. & Pepper Tree Ln.,25/
+15,13222,41,Orangeburg Ave. & Desert Willow Ln.,25/
+15,13223,42,Orangeburg Ave. & Lakewood Ave.,25/
+15,13224,43,Orangeburg Ave. & Eastridge Dr.,25/
+15,13226,44,Orangeburg Ave. & Christiansen Dr.,25/
+15,13227,45,Orangeburg Ave. & Oakdale Rd.,25/
+15,13228,46,Orangeburg Ave. & Oakdale Rd.,25/
+15,13229,47,Orangeburg Ave. & Steuben Way,25/
+15,13230,48,Orangeburg Ave. & Rose Ave.,25/
+15,13231,49,Orangeburg Ave. & Morene Ave.,25/
+15,13232,50,Orangeburg Ave. & Gary Ln.,25/
+15,13233,51,Orangeburg Ave. & Coffee Rd.,25/
+15,13234,52,Orangeburg Ave. & Yarmouth Dr.,25/
+15,13235,53,Orangeburg Ave. & Sunrise Ave.,25/
+15,13236,54,Orangeburg Ave. & Nelson Ave.,25/
+15,13237,55,Orangeburg Ave. & McHenry Ave.,25/
+15,13238,56,Orangeburg Ave. & McHenry Ave. (Farside),25/
+15,13239,57,Orangeburg Ave. & Sherwood Ave.,25/
+15,13240,58,Orangeburg Ave. & Enslen Ave.,25/
+15,13241,59,Orangeburg Ave. & Bronson Ave.,25/
+15,13242,60,Orangeburg Ave. & College Ave.,25/
+15,13243,61,Orangeburg Ave. & Tully Rd.,25/
+15,13244,62,Orangeburg Ave. & Kearney Ave.,25/
+15,13245,63,Orangeburg Ave. & Carver Rd.,25/
+15,13246,64,Orangeburg Ave. & Martin Ave.,25/
+15,13247,65,Orangeburg Ave. between Martin & Evergreen,25/
+15,13248,66,Orangeburg Ave. & Evergreen Ave.,25/
+15,12856,67,Sisk Rd. & Briggsmore Ave.,"25/, 36/"
+15,12857,68,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+15,12858,69,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+15,12859,70,Sisk Rd. & Earl St.,"25/, 36/"
+15,12860,71,Sisk Rd. & Brenner Way.,"25/, 36/"
+15,12861,72,Sisk Rd. & Rumble Rd.,"25/, 36/, 37/"
+15,12840,73,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+16,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+16,12758,2,10th St & H St.,"25/, 34/, 37/, 39/"
+16,12759,3,G St. & 12th St.,"25/, 34/"
+16,12760,4,G St. & 14th St.,"25/, 34/"
+16,12761,5,G St. & 16th St.,"25/, 34/"
+16,13190,6,G St. & 17th St.,25/
+16,13191,7,G St. & Burney St.,25/
+16,13192,8,La Loma & Morton Blvd.,25/
+16,13193,9,La Loma & Las Palmas Ave.,25/
+16,13194,10,La Loma & Santa Barbara Ave.,25/
+16,13195,11,Miller Ave. & Santa Cruz Ave.,25/
+16,13303,12,Miller Ave. & Camellia Way,25/
+16,13196,13,Miller Ave. & Ferguson Ave.,25/
+16,13197,14,Miller Ave. & Maria Ct.,25/
+16,13198,15,Miller Ave. & Phoenix Ave.,25/
+16,13199,16,Miller Ave. & Parry Ave.,25/
+16,13200,17,Miller Ave. & El Vista Ave.,25/
+16,13201,18,Miller Ave. & Trask Ln.,25/
+16,13202,19,Miller Ave. & Kingston Ln.,25/
+16,13203,20,Riverside Dr. & Miller Ave.,25/
+16,12894,21,Yosemite Blvd. & Beard Ave.,"25/, 39/"
+16,13204,22,Lincoln Ave. & Yosemite Blvd.,25/
+16,13205,23,Lincoln Ave. & Poppypatch Dr.,25/
+16,13206,24,Lincoln Ave. & Penny Ln.,25/
+16,13207,25,Penny Ln. & Hubert Dr.,25/
+16,13208,26,McClure Rd. & Penny Ln.,25/
+16,13209,27,Ardia Ave. & Redfield Ave.,25/
+16,13210,28,Ardia Ave. & Creekwood Dr.,25/
+16,13211,29,Creekwood Dr. & Edenton Ln.,25/
+16,13212,30,Johansen HS - Creekwood Dr. & Claus Rd.,25/
+16,13333,31,Claus Rd. & Scenic Dr.,25/
+16,13213,32,Claus Rd. & Orangeburg Ave.,25/
+16,13214,33,Briggmore Ave. & Peta Way,25/
+16,13215,34,Amtrak Station - Held Dr. & Briggsmore Ave.,25/
+16,13216,35,Held Briggsmore,25/
+16,13217,36,Orangeburg Ave. & Held Dr.,25/
+16,13218,37,Orangeburg Ave. & Prospect Ln.,25/
+16,13219,38,Orangeburg Ave. & Claus Rd.,25/
+16,13220,39,Orangeburg Ave. & Palmdale Dr.,25/
+16,13221,40,Orangeburg Ave. & Pepper Tree Ln.,25/
+16,13222,41,Orangeburg Ave. & Desert Willow Ln.,25/
+16,13223,42,Orangeburg Ave. & Lakewood Ave.,25/
+16,13224,43,Orangeburg Ave. & Eastridge Dr.,25/
+16,13226,44,Orangeburg Ave. & Christiansen Dr.,25/
+16,13227,45,Orangeburg Ave. & Oakdale Rd.,25/
+16,13228,46,Orangeburg Ave. & Oakdale Rd.,25/
+16,13229,47,Orangeburg Ave. & Steuben Way,25/
+16,13230,48,Orangeburg Ave. & Rose Ave.,25/
+16,13231,49,Orangeburg Ave. & Morene Ave.,25/
+16,13232,50,Orangeburg Ave. & Gary Ln.,25/
+16,13233,51,Orangeburg Ave. & Coffee Rd.,25/
+16,13234,52,Orangeburg Ave. & Yarmouth Dr.,25/
+16,13235,53,Orangeburg Ave. & Sunrise Ave.,25/
+16,13236,54,Orangeburg Ave. & Nelson Ave.,25/
+16,13237,55,Orangeburg Ave. & McHenry Ave.,25/
+16,13238,56,Orangeburg Ave. & McHenry Ave. (Farside),25/
+16,13239,57,Orangeburg Ave. & Sherwood Ave.,25/
+16,13240,58,Orangeburg Ave. & Enslen Ave.,25/
+16,13241,59,Orangeburg Ave. & Bronson Ave.,25/
+16,13242,60,Orangeburg Ave. & College Ave.,25/
+16,13243,61,Orangeburg Ave. & Tully Rd.,25/
+16,13244,62,Orangeburg Ave. & Kearney Ave.,25/
+16,13245,63,Orangeburg Ave. & Carver Rd.,25/
+16,13246,64,Orangeburg Ave. & Martin Ave.,25/
+16,13247,65,Orangeburg Ave. between Martin & Evergreen,25/
+16,13248,66,Orangeburg Ave. & Evergreen Ave.,25/
+16,12856,67,Sisk Rd. & Briggsmore Ave.,"25/, 36/"
+16,12857,68,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+16,12858,69,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+16,12859,70,Sisk Rd. & Earl St.,"25/, 36/"
+16,12860,71,Sisk Rd. & Brenner Way.,"25/, 36/"
+16,12861,72,Sisk Rd. & Rumble Rd.,"25/, 36/, 37/"
+16,12840,73,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+17,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+17,12863,2,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+17,12864,3,Sisk Rd. & Rumble Rd.,"25/, 36/"
+17,12865,4,Sisk Rd. & Brenner Way.,"25/, 36/"
+17,12866,5,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+17,12867,6,Sisk Rd. & Briggsmore Ave.,"25/, 36/"
+17,13249,7,Orangeburg Ave. & Evergreen Ave.,25/
+17,13250,8,Orangeburg Ave. & Martin Ave.,25/
+17,13251,9,Orangeburg Ave. & Carver Rd.,25/
+17,13252,10,Orangeburg Ave. & Kearney Ave.,25/
+17,13253,11,Orangeburg Ave. & Tully Rd.,25/
+17,13254,12,Orangeburg Ave. & College Ave.,25/
+17,13255,13,Orangeburg Ave .& Virginia Corridor,25/
+17,13256,14,Orangeburg Ave. & Enslen Ave.,25/
+17,13257,15,Orangeburg Ave. & Alma Ave.,25/
+17,12805,16,Orangeburg Ave. & McHenry Ave.,"25/, 34/"
+17,12806,17,Orangeburg Ave. & Nelson Ave.,"25/, 34/"
+17,13258,18,Orangeburg Ave. & Ford Ave.,25/
+17,13259,19,Orangeburg Ave. & El Vecino Ave.,25/
+17,13260,20,Orangeburg Ave. & Allen Dr.,25/
+17,13261,21,Orangeburg Ave. & Coffee Rd.,25/
+17,13262,22,Orangeburg Ave. & Lorry Ave.,25/
+17,13263,23,Orangeburg Ave. & Rose Ave.,25/
+17,13264,24,Orangeburg Ave. & Sharonwood Dr.,25/
+17,13265,25,Orangeburg Ave. & Oakdale Rd.,25/
+17,13266,26,Orangeburg Ave. & Oakdale Rd.,25/
+17,13267,27,Orangeburg Ave. & Christiansen Dr.,25/
+17,13268,28,Orangeburg Ave. & Sonoma Ave.,25/
+17,13269,29,Orangeburg Ave. & Eastridge Dr.,25/
+17,13270,30,Orangeburg Ave. & Rimrock Way.,25/
+17,13271,31,Orangeburg Ave. & Lakewood Ave.,25/
+17,13272,32,Orangeburg Ave. & Albert Dr.,25/
+17,13273,33,Orangeburg Ave. & Lillian Dr.,25/
+17,13274,34,Orangeburg Ave. & Christopher Ct.,25/
+17,13275,35,Orangeburg Ave. & Glenbrook Way,25/
+17,13213,36,Claus Rd. & Orangeburg Ave.,25/
+17,13214,37,Briggmore Ave. & Peta Way,25/
+17,13215,38,Amtrak Station - Held Dr. & Briggsmore Ave.,25/
+17,13216,39,Held Briggsmore,25/
+17,13217,40,Orangeburg Ave. & Held Dr.,25/
+17,13218,41,Orangeburg Ave. & Prospect Ln.,25/
+17,13276,42,Claus Rd. & Orangeburg Ave.,25/
+17,13277,43,Claus Rd. & Cedar Creek Dr.,25/
+17,13278,44,Johansen HS - Creekwood Dr. & Claus Rd.,25/
+17,13279,45,Creekwood Dr. & Dry Creek Dr.,25/
+17,13280,46,Creekwood Dr. & Ardia Ave.,25/
+17,13281,47,Mechalys Way & Ansonville Ln.,25/
+17,13282,48,Mechalys Way & McClure Rd.,25/
+17,13283,49,McClure Rd. & Poppy Patch Dr.,25/
+17,13284,50,Poppy Patch D.r & Hubert Dr.,25/
+17,13285,51,Poppy Patch Dr. & Whitehorn Dr.,25/
+17,13286,52,Lincoln Ave. & Poppypatch Dr.,25/
+17,13287,53,Lincoln Ave. & Yosemite Blvd,25/
+17,12907,54,Yosemite & Lincoln ,"25/, 39/"
+17,13288,55,Yosemite Blvd. & Riverside Dr.,25/
+17,13289,56,Miller Ave. & Kingston Ln.,25/
+17,13290,57,Miller Way & Trask Ln.,25/
+17,13291,58,Miller Ave. & El Vista Ave.,25/
+17,13292,59,Miller Ave. & Phoenix Ave.,25/
+17,13293,60,Miller Ave. & Conejo Ave.,25/
+17,13294,61,Miller Ave. & Rosina Ave.,25/
+17,13295,62,Miller Ave. & Rowland Ave.,25/
+17,13296,63,La Loma & Santa Barbara Ave.,25/
+17,13297,64,La Loma & Las Palmas Ave.,25/
+17,13298,65,La Loma & Bonita Ave.,25/
+17,13299,66,La Loma & James St.,25/
+17,12811,67,H St. & 17th St.,"25/, 34/"
+17,12812,68,H St. & 15th St.,"25/, 34/"
+17,12813,69,H St. & 13th St.,"25/, 34/"
+17,12814,70,H St. & 11th St.,"25/, 34/"
+17,12550,71,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+18,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+18,12863,2,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+18,12864,3,Sisk Rd. & Rumble Rd.,"25/, 36/"
+18,12865,4,Sisk Rd. & Brenner Way.,"25/, 36/"
+18,12866,5,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+18,12867,6,Sisk Rd. & Briggsmore Ave.,"25/, 36/"
+18,13249,7,Orangeburg Ave. & Evergreen Ave.,25/
+18,13250,8,Orangeburg Ave. & Martin Ave.,25/
+18,13251,9,Orangeburg Ave. & Carver Rd.,25/
+18,13252,10,Orangeburg Ave. & Kearney Ave.,25/
+18,13253,11,Orangeburg Ave. & Tully Rd.,25/
+18,13254,12,Orangeburg Ave. & College Ave.,25/
+18,13255,13,Orangeburg Ave .& Virginia Corridor,25/
+18,13256,14,Orangeburg Ave. & Enslen Ave.,25/
+18,13257,15,Orangeburg Ave. & Alma Ave.,25/
+18,12805,16,Orangeburg Ave. & McHenry Ave.,"25/, 34/"
+18,12806,17,Orangeburg Ave. & Nelson Ave.,"25/, 34/"
+18,13258,18,Orangeburg Ave. & Ford Ave.,25/
+18,13259,19,Orangeburg Ave. & El Vecino Ave.,25/
+18,13260,20,Orangeburg Ave. & Allen Dr.,25/
+18,13261,21,Orangeburg Ave. & Coffee Rd.,25/
+18,13262,22,Orangeburg Ave. & Lorry Ave.,25/
+18,13263,23,Orangeburg Ave. & Rose Ave.,25/
+18,13264,24,Orangeburg Ave. & Sharonwood Dr.,25/
+18,13265,25,Orangeburg Ave. & Oakdale Rd.,25/
+18,13266,26,Orangeburg Ave. & Oakdale Rd.,25/
+18,13267,27,Orangeburg Ave. & Christiansen Dr.,25/
+18,13268,28,Orangeburg Ave. & Sonoma Ave.,25/
+18,13269,29,Orangeburg Ave. & Eastridge Dr.,25/
+18,13270,30,Orangeburg Ave. & Rimrock Way.,25/
+18,13271,31,Orangeburg Ave. & Lakewood Ave.,25/
+18,13272,32,Orangeburg Ave. & Albert Dr.,25/
+18,13273,33,Orangeburg Ave. & Lillian Dr.,25/
+18,13274,34,Orangeburg Ave. & Christopher Ct.,25/
+18,13275,35,Orangeburg Ave. & Glenbrook Way,25/
+18,13213,36,Claus Rd. & Orangeburg Ave.,25/
+18,13214,37,Briggmore Ave. & Peta Way,25/
+18,13215,38,Amtrak Station - Held Dr. & Briggsmore Ave.,25/
+18,13216,39,Held Briggsmore,25/
+18,13217,40,Orangeburg Ave. & Held Dr.,25/
+18,13218,41,Orangeburg Ave. & Prospect Ln.,25/
+18,13276,42,Claus Rd. & Orangeburg Ave.,25/
+18,13277,43,Claus Rd. & Cedar Creek Dr.,25/
+18,13278,44,Johansen HS - Creekwood Dr. & Claus Rd.,25/
+18,13279,45,Creekwood Dr. & Dry Creek Dr.,25/
+18,13280,46,Creekwood Dr. & Ardia Ave.,25/
+18,13281,47,Mechalys Way & Ansonville Ln.,25/
+18,13282,48,Mechalys Way & McClure Rd.,25/
+18,13283,49,McClure Rd. & Poppy Patch Dr.,25/
+18,13284,50,Poppy Patch D.r & Hubert Dr.,25/
+18,13285,51,Poppy Patch Dr. & Whitehorn Dr.,25/
+18,13286,52,Lincoln Ave. & Poppypatch Dr.,25/
+18,13287,53,Lincoln Ave. & Yosemite Blvd,25/
+18,12907,54,Yosemite & Lincoln ,"25/, 39/"
+18,13288,55,Yosemite Blvd. & Riverside Dr.,25/
+18,13289,56,Miller Ave. & Kingston Ln.,25/
+18,13290,57,Miller Way & Trask Ln.,25/
+18,13291,58,Miller Ave. & El Vista Ave.,25/
+18,13292,59,Miller Ave. & Phoenix Ave.,25/
+18,13293,60,Miller Ave. & Conejo Ave.,25/
+18,13294,61,Miller Ave. & Rosina Ave.,25/
+18,13295,62,Miller Ave. & Rowland Ave.,25/
+18,13296,63,La Loma & Santa Barbara Ave.,25/
+18,13297,64,La Loma & Las Palmas Ave.,25/
+18,13298,65,La Loma & Bonita Ave.,25/
+18,13299,66,La Loma & James St.,25/
+18,12811,67,H St. & 17th St.,"25/, 34/"
+18,12812,68,H St. & 15th St.,"25/, 34/"
+18,12813,69,H St. & 13th St.,"25/, 34/"
+18,12814,70,H St. & 11th St.,"25/, 34/"
+18,12550,71,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+19,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+19,12863,2,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+19,12864,3,Sisk Rd. & Rumble Rd.,"25/, 36/"
+19,12865,4,Sisk Rd. & Brenner Way.,"25/, 36/"
+19,12866,5,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+19,12867,6,Sisk Rd. & Briggsmore Ave.,"25/, 36/"
+19,13249,7,Orangeburg Ave. & Evergreen Ave.,25/
+19,13250,8,Orangeburg Ave. & Martin Ave.,25/
+19,13251,9,Orangeburg Ave. & Carver Rd.,25/
+19,13252,10,Orangeburg Ave. & Kearney Ave.,25/
+19,13253,11,Orangeburg Ave. & Tully Rd.,25/
+19,13254,12,Orangeburg Ave. & College Ave.,25/
+19,13255,13,Orangeburg Ave .& Virginia Corridor,25/
+19,13256,14,Orangeburg Ave. & Enslen Ave.,25/
+19,13257,15,Orangeburg Ave. & Alma Ave.,25/
+19,12805,16,Orangeburg Ave. & McHenry Ave.,"25/, 34/"
+19,12806,17,Orangeburg Ave. & Nelson Ave.,"25/, 34/"
+19,13258,18,Orangeburg Ave. & Ford Ave.,25/
+19,13259,19,Orangeburg Ave. & El Vecino Ave.,25/
+19,13260,20,Orangeburg Ave. & Allen Dr.,25/
+19,13261,21,Orangeburg Ave. & Coffee Rd.,25/
+19,13262,22,Orangeburg Ave. & Lorry Ave.,25/
+19,13263,23,Orangeburg Ave. & Rose Ave.,25/
+19,13264,24,Orangeburg Ave. & Sharonwood Dr.,25/
+19,13265,25,Orangeburg Ave. & Oakdale Rd.,25/
+19,13266,26,Orangeburg Ave. & Oakdale Rd.,25/
+19,13267,27,Orangeburg Ave. & Christiansen Dr.,25/
+19,13268,28,Orangeburg Ave. & Sonoma Ave.,25/
+19,13269,29,Orangeburg Ave. & Eastridge Dr.,25/
+19,13270,30,Orangeburg Ave. & Rimrock Way.,25/
+19,13271,31,Orangeburg Ave. & Lakewood Ave.,25/
+19,13272,32,Orangeburg Ave. & Albert Dr.,25/
+19,13273,33,Orangeburg Ave. & Lillian Dr.,25/
+19,13274,34,Orangeburg Ave. & Christopher Ct.,25/
+19,13275,35,Orangeburg Ave. & Glenbrook Way,25/
+19,13213,36,Claus Rd. & Orangeburg Ave.,25/
+19,13214,37,Briggmore Ave. & Peta Way,25/
+19,13215,38,Amtrak Station - Held Dr. & Briggsmore Ave.,25/
+19,13216,39,Held Briggsmore,25/
+19,13217,40,Orangeburg Ave. & Held Dr.,25/
+19,13218,41,Orangeburg Ave. & Prospect Ln.,25/
+19,13276,42,Claus Rd. & Orangeburg Ave.,25/
+19,13277,43,Claus Rd. & Cedar Creek Dr.,25/
+19,13278,44,Johansen HS - Creekwood Dr. & Claus Rd.,25/
+19,13279,45,Creekwood Dr. & Dry Creek Dr.,25/
+19,13280,46,Creekwood Dr. & Ardia Ave.,25/
+19,13281,47,Mechalys Way & Ansonville Ln.,25/
+19,13282,48,Mechalys Way & McClure Rd.,25/
+19,13283,49,McClure Rd. & Poppy Patch Dr.,25/
+19,13284,50,Poppy Patch D.r & Hubert Dr.,25/
+19,13285,51,Poppy Patch Dr. & Whitehorn Dr.,25/
+19,13286,52,Lincoln Ave. & Poppypatch Dr.,25/
+19,13287,53,Lincoln Ave. & Yosemite Blvd,25/
+19,12907,54,Yosemite & Lincoln ,"25/, 39/"
+19,13288,55,Yosemite Blvd. & Riverside Dr.,25/
+19,13289,56,Miller Ave. & Kingston Ln.,25/
+19,13290,57,Miller Way & Trask Ln.,25/
+19,13291,58,Miller Ave. & El Vista Ave.,25/
+19,13292,59,Miller Ave. & Phoenix Ave.,25/
+19,13293,60,Miller Ave. & Conejo Ave.,25/
+19,13294,61,Miller Ave. & Rosina Ave.,25/
+19,13295,62,Miller Ave. & Rowland Ave.,25/
+19,13296,63,La Loma & Santa Barbara Ave.,25/
+19,13297,64,La Loma & Las Palmas Ave.,25/
+19,13298,65,La Loma & Bonita Ave.,25/
+19,13299,66,La Loma & James St.,25/
+19,12811,67,H St. & 17th St.,"25/, 34/"
+19,12812,68,H St. & 15th St.,"25/, 34/"
+19,12813,69,H St. & 13th St.,"25/, 34/"
+19,12814,70,H St. & 11th St.,"25/, 34/"
+19,12550,71,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+20,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+20,12604,2,12th St. & M St.,27/
+20,12605,3,Virginia Ave. & Alice St.,27/
+20,12606,4,Virginia Ave. & Stoddard Ave.,27/
+20,12607,5,Modesto Jr College East - Virginia Ave & Coldwell Ave.,27/
+20,12608,6,Virginia Ave. & Griswold Ave.,27/
+20,12609,7,Virginia Ave. & Roseburg Ave.,27/
+20,12610,8,Roseburg Ave. at Roseburg Square,27/
+20,12611,9,College Ave. & Roseburg Ave.,27/
+20,12612,10,College Ave. & Orangeburg Ave.,27/
+20,12613,11,College Ave. & Granger Ave.,27/
+20,12614,12,McHenry Ave. & Norwegian Ave.,"22/, 23/, 27/"
+20,12615,13,McHenry Ave. & Tokay Ave.,"22/, 23/, 27/"
+20,12616,14,McHenry Ave. & Mark Randy Pl.,"22/, 23/, 27/"
+20,12617,15,McHenry Ave. & Sheila Ct.,"22/, 23/, 27/"
+20,12618,16,McHenry Ave. & Floyd Ave. (Northbound),"22/, 23/, 27/"
+20,12619,17,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/, 37/"
+20,12620,18,McHenry Ave. & Robinhood Dr.,"22/, 23/, 27/, 37/"
+20,12621,19,McHenry Ave. & Sylvan Ave.,"22/, 23/, 27/"
+20,12622,20,McHenry Ave. & Warren Way,"22/, 23/, 27/"
+20,12623,21,McHenry Ave. & Coralwood Rd.,"22/, 23/, 27/"
+20,12624,22,McHenry Ave. & Grecian Ave.,"22/, 23/, 27/"
+20,12626,23,Bangs Ave. & Spyres Way,"22/, 23/, 27/"
+20,12627,24,Bangs Ave. & Northstar Way,"22/, 23/, 27/"
+20,12628,25,Northstar Way & Glass Ln.,"22/, 27/"
+20,12629,26,600 Galaxy Way,"22/, 27/"
+20,12630,27,Stratos Way & Galaxy Way,"22/, 27/"
+20,12631,28,Kiernan Ave. & Stratos Way,"22/, 27/"
+20,12632,29,McHenry Ave. & Kiernan Ave.,"22/, 27/"
+20,12634,30,McHenry Ave. & Bangs Ave.,"22/, 27/"
+20,12635,31,McHenry Ave. & Pelandale Ave.,"22/, 23/, 27/"
+20,13365,32,McHenry Ave. & Coralwood Rd.,"23/, 27/"
+20,12636,33,McHenry Ave. & Union Ave.,"22/, 23/, 27/"
+20,12637,34,McHenry Ave. & Standiford Ave.,"22/, 23/, 27/, 37/"
+20,12638,35,McHenry Ave. & Woodrow Ave.,"22/, 23/, 27/, 37/"
+20,12639,36,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/"
+20,12640,37,McHenry Ave. & Floyd Ave.,"22/, 23/, 27/"
+20,13180,38,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+20,12641,39,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+20,12642,40,College Ave. & Granger Ave.,27/
+20,12643,41,College Ave. & Orangeburg Ave.,27/
+20,12644,42,Roseburg Ave. & Wellesley Ave.,27/
+20,12645,43,Roseburg Ave. between Mills & Virginia,27/
+20,12646,44,Virginia Ave. & Princeton Ave.,27/
+20,12648,45,Modesto Jr. College East - Virginia Ave. & Morris Ave.,27/
+20,12649,46,Virginia Ave. & Alice St.,27/
+20,12650,47,12th St. & M St.,27/
+20,12550,48,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+21,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+21,12604,2,12th St. & M St.,27/
+21,12605,3,Virginia Ave. & Alice St.,27/
+21,12606,4,Virginia Ave. & Stoddard Ave.,27/
+21,12607,5,Modesto Jr College East - Virginia Ave & Coldwell Ave.,27/
+21,12608,6,Virginia Ave. & Griswold Ave.,27/
+21,12609,7,Virginia Ave. & Roseburg Ave.,27/
+21,12610,8,Roseburg Ave. at Roseburg Square,27/
+21,12611,9,College Ave. & Roseburg Ave.,27/
+21,12612,10,College Ave. & Orangeburg Ave.,27/
+21,12613,11,College Ave. & Granger Ave.,27/
+21,12614,12,McHenry Ave. & Norwegian Ave.,"22/, 23/, 27/"
+21,12615,13,McHenry Ave. & Tokay Ave.,"22/, 23/, 27/"
+21,12616,14,McHenry Ave. & Mark Randy Pl.,"22/, 23/, 27/"
+21,12617,15,McHenry Ave. & Sheila Ct.,"22/, 23/, 27/"
+21,12618,16,McHenry Ave. & Floyd Ave. (Northbound),"22/, 23/, 27/"
+21,12619,17,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/, 37/"
+21,12620,18,McHenry Ave. & Robinhood Dr.,"22/, 23/, 27/, 37/"
+21,12621,19,McHenry Ave. & Sylvan Ave.,"22/, 23/, 27/"
+21,12622,20,McHenry Ave. & Warren Way,"22/, 23/, 27/"
+21,12623,21,McHenry Ave. & Coralwood Rd.,"22/, 23/, 27/"
+21,12624,22,McHenry Ave. & Grecian Ave.,"22/, 23/, 27/"
+21,12626,23,Bangs Ave. & Spyres Way,"22/, 23/, 27/"
+21,12627,24,Bangs Ave. & Northstar Way,"22/, 23/, 27/"
+21,12628,25,Northstar Way & Glass Ln.,"22/, 27/"
+21,12629,26,600 Galaxy Way,"22/, 27/"
+21,12630,27,Stratos Way & Galaxy Way,"22/, 27/"
+21,12631,28,Kiernan Ave. & Stratos Way,"22/, 27/"
+21,12632,29,McHenry Ave. & Kiernan Ave.,"22/, 27/"
+21,12634,30,McHenry Ave. & Bangs Ave.,"22/, 27/"
+21,12635,31,McHenry Ave. & Pelandale Ave.,"22/, 23/, 27/"
+21,13365,32,McHenry Ave. & Coralwood Rd.,"23/, 27/"
+21,12636,33,McHenry Ave. & Union Ave.,"22/, 23/, 27/"
+21,12637,34,McHenry Ave. & Standiford Ave.,"22/, 23/, 27/, 37/"
+21,12638,35,McHenry Ave. & Woodrow Ave.,"22/, 23/, 27/, 37/"
+21,12639,36,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/"
+21,12640,37,McHenry Ave. & Floyd Ave.,"22/, 23/, 27/"
+21,13180,38,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+21,12641,39,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+21,12642,40,College Ave. & Granger Ave.,27/
+21,12643,41,College Ave. & Orangeburg Ave.,27/
+21,12644,42,Roseburg Ave. & Wellesley Ave.,27/
+21,12645,43,Roseburg Ave. between Mills & Virginia,27/
+21,12646,44,Virginia Ave. & Princeton Ave.,27/
+21,12648,45,Modesto Jr. College East - Virginia Ave. & Morris Ave.,27/
+21,12649,46,Virginia Ave. & Alice St.,27/
+21,12650,47,12th St. & M St.,27/
+21,12550,48,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+22,13100,1,Dale & Veneman (SE corner),"22/, 28/"
+22,13077,2,Dale & Veneman (NE corner),"28/, 31/"
+22,13101,3,Nightingale Dr. & Gareth Ln.,28/
+22,13102,4,Nightingale Dr. & Honey Creek Rd.,28/
+22,13103,5,Nightingale Dr. & Cardinal Ct.,28/
+22,13104,6,Vintage Dr. & Gagos Dr.,28/
+22,13105,7,Sisk Rd. & Vintage Dr.,28/
+22,13106,8,Sisk Rd. & Target Center.,28/
+22,13107,9,Sisk Rd. & Pelandale Ave.,28/
+22,13115,10,Pelandale Ave. & Sisk Rd.,28/
+22,13116,11,Pelandale Ave. & Gagos Dr.,28/
+22,13117,12,Pelandale Ave. & Blue Bird Dr.,28/
+22,13118,13,Pelandale Ave. & Honey Creek Rd.,28/
+22,13357,14,Kaiser Hospital Northbound - Dale Rd.,28/
+22,13355,15,Gregori High School,28/
+22,13356,16,Gregori High School (Pirrone Rd. & Stoddard Rd.),28/
+22,13347,17,Sequoia St. & Shearer Ave.,28/
+22,13111,18,Elm St. & Broadway Ave.,28/
+22,13115,19,Pelandale Ave. & Sisk Rd.,28/
+22,13116,20,Pelandale Ave. & Gagos Dr.,28/
+22,13117,21,Pelandale Ave. & Blue Bird Dr.,28/
+22,13118,22,Pelandale Ave. & Honey Creek Rd.,28/
+22,13361,23,Dale Rd. & Pelandale Ave.,28/
+22,13067,24,Dale Rd. & Snyder Ave.,"28/, 31/"
+22,13068,25,Dale Rd. & Nightingale Dr.,"28/, 31/"
+22,12863,26,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+23,13100,1,Dale & Veneman (SE corner),"22/, 28/"
+23,13077,2,Dale & Veneman (NE corner),"28/, 31/"
+23,13101,3,Nightingale Dr. & Gareth Ln.,28/
+23,13102,4,Nightingale Dr. & Honey Creek Rd.,28/
+23,13103,5,Nightingale Dr. & Cardinal Ct.,28/
+23,13104,6,Vintage Dr. & Gagos Dr.,28/
+23,13105,7,Sisk Rd. & Vintage Dr.,28/
+23,13106,8,Sisk Rd. & Target Center.,28/
+23,13107,9,Sisk Rd. & Pelandale Ave.,28/
+23,13115,10,Pelandale Ave. & Sisk Rd.,28/
+23,13116,11,Pelandale Ave. & Gagos Dr.,28/
+23,13117,12,Pelandale Ave. & Blue Bird Dr.,28/
+23,13118,13,Pelandale Ave. & Honey Creek Rd.,28/
+23,13357,14,Kaiser Hospital Northbound - Dale Rd.,28/
+23,13355,15,Gregori High School,28/
+23,13356,16,Gregori High School (Pirrone Rd. & Stoddard Rd.),28/
+23,13347,17,Sequoia St. & Shearer Ave.,28/
+23,13111,18,Elm St. & Broadway Ave.,28/
+23,13115,19,Pelandale Ave. & Sisk Rd.,28/
+23,13116,20,Pelandale Ave. & Gagos Dr.,28/
+23,13117,21,Pelandale Ave. & Blue Bird Dr.,28/
+23,13118,22,Pelandale Ave. & Honey Creek Rd.,28/
+23,13361,23,Dale Rd. & Pelandale Ave.,28/
+23,13067,24,Dale Rd. & Snyder Ave.,"28/, 31/"
+23,13068,25,Dale Rd. & Nightingale Dr.,"28/, 31/"
+23,12863,26,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+24,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+24,12716,2,9th St. & G St.,"29/, 38/"
+24,12717,3,9th St. & D St.,29/
+24,12718,4,9th St. & River Rd.,29/
+24,12719,5,9th St. & Hosemer Ave.,29/
+24,12720,6,9th St. & Sonora Ave.,29/
+24,12721,7,Latimer Ave. & Bystrum Rd.,29/
+24,12722,8,Latimer Ave. & Fallen Leaf Ln.,29/
+24,12723,9,Latimer Ave. & Avon St.,29/
+24,12724,10,Sonora Ave. & Avon St.,29/
+24,12725,11,Sonora Ave. & Herndon Rd.,29/
+24,12726,12,Herndon Rd. & Pecos Ave.,29/
+24,12727,13,Nadine Ave. & Herndon Rd.,29/
+24,12728,14,Nadine Ave. & Musick Ave.,29/
+24,12729,15,Richland Ave. & Nadine Ave.,29/
+24,12730,16,Richland Ave. & Hatch Rd.,29/
+24,12732,17,Hatch Rd. & Herndon Rd.,29/
+24,12733,18,Rio Grande Ave. & Boulder Ave.,29/
+24,12734,19,Santa Fe Ave. & Rio Grande Ave.,29/
+24,12735,20,School Ave. & Santa Fe Ave.,29/
+24,12736,21,Crows Landing Rd. & School Ave.,29/
+24,12737,22,Crows Landing Rd. & Blankenburg Ave.,29/
+24,12738,23,7th St. & Crows Landing Rd.,29/
+24,12739,24,7th St. & Blankenburg Ave.,29/
+24,12740,25,7th St. at BJ Mini Mart,29/
+24,12741,26,7th St. & Pecos Ave.,29/
+24,12742,27,7th St. between Pecos & Hyw 99,29/
+24,12743,28,Herndon Rd. & Hatch Rd.,"29/, 42/"
+24,12744,29,Herndon Rd. & Eugene Ave.,29/
+24,12745,30,Herndon Rd. & Holm Ave.,29/
+24,12746,31,Herndon Rd. & Pecos Ave.,29/
+24,12747,32,Herndon Rd. & Latimer Ave.,29/
+24,12748,33,Sonora Ave. & Herndon Rd.,29/
+24,12749,34,Sonora Ave. & Avon St.,29/
+24,12750,35,Latimer Ave. & Avon St.,29/
+24,12751,36,Latimer Ave. & Fallen Leaf Ln.,29/
+24,12752,37,Latimer Ave. & Bystrum Rd.,29/
+24,12753,38,9th St. & Lombardo Ave.,29/
+24,12754,39,9th St. & Hosmer Ave.,29/
+24,12755,40,9th St. & River Rd.,29/
+24,12756,41,9th St. & B St.,29/
+24,12550,42,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+25,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+25,12716,2,9th St. & G St.,"29/, 38/"
+25,12717,3,9th St. & D St.,29/
+25,12718,4,9th St. & River Rd.,29/
+25,12719,5,9th St. & Hosemer Ave.,29/
+25,12720,6,9th St. & Sonora Ave.,29/
+25,12721,7,Latimer Ave. & Bystrum Rd.,29/
+25,12722,8,Latimer Ave. & Fallen Leaf Ln.,29/
+25,12723,9,Latimer Ave. & Avon St.,29/
+25,12724,10,Sonora Ave. & Avon St.,29/
+25,12725,11,Sonora Ave. & Herndon Rd.,29/
+25,12726,12,Herndon Rd. & Pecos Ave.,29/
+25,12727,13,Nadine Ave. & Herndon Rd.,29/
+25,12728,14,Nadine Ave. & Musick Ave.,29/
+25,12729,15,Richland Ave. & Nadine Ave.,29/
+25,12730,16,Richland Ave. & Hatch Rd.,29/
+25,12732,17,Hatch Rd. & Herndon Rd.,29/
+25,12733,18,Rio Grande Ave. & Boulder Ave.,29/
+25,12734,19,Santa Fe Ave. & Rio Grande Ave.,29/
+25,12735,20,School Ave. & Santa Fe Ave.,29/
+25,12736,21,Crows Landing Rd. & School Ave.,29/
+25,12737,22,Crows Landing Rd. & Blankenburg Ave.,29/
+25,12738,23,7th St. & Crows Landing Rd.,29/
+25,12739,24,7th St. & Blankenburg Ave.,29/
+25,12740,25,7th St. at BJ Mini Mart,29/
+25,12741,26,7th St. & Pecos Ave.,29/
+25,12742,27,7th St. between Pecos & Hyw 99,29/
+25,12743,28,Herndon Rd. & Hatch Rd.,"29/, 42/"
+25,12744,29,Herndon Rd. & Eugene Ave.,29/
+25,12745,30,Herndon Rd. & Holm Ave.,29/
+25,12746,31,Herndon Rd. & Pecos Ave.,29/
+25,12747,32,Herndon Rd. & Latimer Ave.,29/
+25,12748,33,Sonora Ave. & Herndon Rd.,29/
+25,12749,34,Sonora Ave. & Avon St.,29/
+25,12750,35,Latimer Ave. & Avon St.,29/
+25,12751,36,Latimer Ave. & Fallen Leaf Ln.,29/
+25,12752,37,Latimer Ave. & Bystrum Rd.,29/
+25,12753,38,9th St. & Lombardo Ave.,29/
+25,12754,39,9th St. & Hosmer Ave.,29/
+25,12755,40,9th St. & River Rd.,29/
+25,12756,41,9th St. & B St.,29/
+25,12550,42,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+26,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+26,12716,2,9th St. & G St.,"29/, 38/"
+26,12717,3,9th St. & D St.,29/
+26,12718,4,9th St. & River Rd.,29/
+26,12719,5,9th St. & Hosemer Ave.,29/
+26,12720,6,9th St. & Sonora Ave.,29/
+26,12721,7,Latimer Ave. & Bystrum Rd.,29/
+26,12722,8,Latimer Ave. & Fallen Leaf Ln.,29/
+26,12723,9,Latimer Ave. & Avon St.,29/
+26,12724,10,Sonora Ave. & Avon St.,29/
+26,12725,11,Sonora Ave. & Herndon Rd.,29/
+26,12726,12,Herndon Rd. & Pecos Ave.,29/
+26,12727,13,Nadine Ave. & Herndon Rd.,29/
+26,12728,14,Nadine Ave. & Musick Ave.,29/
+26,12729,15,Richland Ave. & Nadine Ave.,29/
+26,12730,16,Richland Ave. & Hatch Rd.,29/
+26,12732,17,Hatch Rd. & Herndon Rd.,29/
+26,12733,18,Rio Grande Ave. & Boulder Ave.,29/
+26,12734,19,Santa Fe Ave. & Rio Grande Ave.,29/
+26,12735,20,School Ave. & Santa Fe Ave.,29/
+26,12736,21,Crows Landing Rd. & School Ave.,29/
+26,12737,22,Crows Landing Rd. & Blankenburg Ave.,29/
+26,12738,23,7th St. & Crows Landing Rd.,29/
+26,12739,24,7th St. & Blankenburg Ave.,29/
+26,12740,25,7th St. at BJ Mini Mart,29/
+26,12741,26,7th St. & Pecos Ave.,29/
+26,12742,27,7th St. between Pecos & Hyw 99,29/
+26,12743,28,Herndon Rd. & Hatch Rd.,"29/, 42/"
+26,12744,29,Herndon Rd. & Eugene Ave.,29/
+26,12745,30,Herndon Rd. & Holm Ave.,29/
+26,12746,31,Herndon Rd. & Pecos Ave.,29/
+26,12747,32,Herndon Rd. & Latimer Ave.,29/
+26,12748,33,Sonora Ave. & Herndon Rd.,29/
+26,12749,34,Sonora Ave. & Avon St.,29/
+26,12750,35,Latimer Ave. & Avon St.,29/
+26,12751,36,Latimer Ave. & Fallen Leaf Ln.,29/
+26,12752,37,Latimer Ave. & Bystrum Rd.,29/
+26,12753,38,9th St. & Lombardo Ave.,29/
+26,12754,39,9th St. & Hosmer Ave.,29/
+26,12755,40,9th St. & River Rd.,29/
+26,12756,41,9th St. & B St.,29/
+26,12550,42,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+27,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+27,12993,2,11th St. & K St.,30/
+27,12994,3,11 St. & M St.,30/
+27,12995,4,11th St. & N St.,30/
+27,12996,5,Needham St. & College Ave. ,30/
+27,12997,6,MJC East - College Ave. & Stoddard Ave.,30/
+27,12998,7,College Ave. & Coldwell Ave. MJC East,30/
+27,12999,8,Roseburg Ave. & College Ave.,30/
+27,13000,9,Roseburg Ave. & Tully Rd.,30/
+27,13331,10,Roseburg Ave. & Kearney Ave.,30/
+27,13001,11,Roseburg Ave. & Del Vale Ave.,30/
+27,13002,12,Roseburg Ave. & Carver Rd.,30/
+27,13003,13,Carver Rd. & Clayton Ave.,30/
+27,13004,14,Carver Rd. & Orangeburg Ave.,30/
+27,13005,15,Carver Rd. & Barkwood Dr.,30/
+27,13006,16,Carver Rd. & Gulfstream Dr.,30/
+27,13007,17,Carver Rd. & Scott Ave.,30/
+27,13008,18,Mt Vernon Dr. & Queenaire Ln.,30/
+27,13009,19,Mt Vernon Dr. & Debonaire Dr.,30/
+27,13010,20,Mt Vernon Dr. & Girard Ave.,30/
+27,13011,21,Mt Vernon Dr. & Prescott Rd.,30/
+27,13012,22,Prescott Rd. & Chrysler Dr.,30/
+27,12937,23,Rumble Rd. & Holiday Ln.,"30/, 37/"
+27,12938,24,Rumble Rd. & Ashland Way,"30/, 37/"
+27,12939,25,Rumble Rd. & Conant Ave.,"30/, 37/"
+27,13013,26,Standiford Ave. & Conant Ave.,"22/, 30/, 31/"
+27,13015,27,Hahn Dr. & Standiford Ave.,30/
+27,12863,28,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+28,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+28,12993,2,11th St. & K St.,30/
+28,12994,3,11 St. & M St.,30/
+28,12995,4,11th St. & N St.,30/
+28,12996,5,Needham St. & College Ave. ,30/
+28,12997,6,MJC East - College Ave. & Stoddard Ave.,30/
+28,12998,7,College Ave. & Coldwell Ave. MJC East,30/
+28,12999,8,Roseburg Ave. & College Ave.,30/
+28,13000,9,Roseburg Ave. & Tully Rd.,30/
+28,13331,10,Roseburg Ave. & Kearney Ave.,30/
+28,13001,11,Roseburg Ave. & Del Vale Ave.,30/
+28,13002,12,Roseburg Ave. & Carver Rd.,30/
+28,13003,13,Carver Rd. & Clayton Ave.,30/
+28,13004,14,Carver Rd. & Orangeburg Ave.,30/
+28,13005,15,Carver Rd. & Barkwood Dr.,30/
+28,13006,16,Carver Rd. & Gulfstream Dr.,30/
+28,13007,17,Carver Rd. & Scott Ave.,30/
+28,13008,18,Mt Vernon Dr. & Queenaire Ln.,30/
+28,13009,19,Mt Vernon Dr. & Debonaire Dr.,30/
+28,13010,20,Mt Vernon Dr. & Girard Ave.,30/
+28,13011,21,Mt Vernon Dr. & Prescott Rd.,30/
+28,13012,22,Prescott Rd. & Chrysler Dr.,30/
+28,12937,23,Rumble Rd. & Holiday Ln.,"30/, 37/"
+28,12938,24,Rumble Rd. & Ashland Way,"30/, 37/"
+28,12939,25,Rumble Rd. & Conant Ave.,"30/, 37/"
+28,13013,26,Standiford Ave. & Conant Ave.,"22/, 30/, 31/"
+28,13015,27,Hahn Dr. & Standiford Ave.,30/
+28,12863,28,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+29,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+29,12993,2,11th St. & K St.,30/
+29,12994,3,11 St. & M St.,30/
+29,12995,4,11th St. & N St.,30/
+29,12996,5,Needham St. & College Ave. ,30/
+29,12997,6,MJC East - College Ave. & Stoddard Ave.,30/
+29,12998,7,College Ave. & Coldwell Ave. MJC East,30/
+29,12999,8,Roseburg Ave. & College Ave.,30/
+29,13000,9,Roseburg Ave. & Tully Rd.,30/
+29,13331,10,Roseburg Ave. & Kearney Ave.,30/
+29,13001,11,Roseburg Ave. & Del Vale Ave.,30/
+29,13002,12,Roseburg Ave. & Carver Rd.,30/
+29,13003,13,Carver Rd. & Clayton Ave.,30/
+29,13004,14,Carver Rd. & Orangeburg Ave.,30/
+29,13005,15,Carver Rd. & Barkwood Dr.,30/
+29,13006,16,Carver Rd. & Gulfstream Dr.,30/
+29,13007,17,Carver Rd. & Scott Ave.,30/
+29,13008,18,Mt Vernon Dr. & Queenaire Ln.,30/
+29,13009,19,Mt Vernon Dr. & Debonaire Dr.,30/
+29,13010,20,Mt Vernon Dr. & Girard Ave.,30/
+29,13011,21,Mt Vernon Dr. & Prescott Rd.,30/
+29,13012,22,Prescott Rd. & Chrysler Dr.,30/
+29,12937,23,Rumble Rd. & Holiday Ln.,"30/, 37/"
+29,12938,24,Rumble Rd. & Ashland Way,"30/, 37/"
+29,12939,25,Rumble Rd. & Conant Ave.,"30/, 37/"
+29,13013,26,Standiford Ave. & Conant Ave.,"22/, 30/, 31/"
+29,13015,27,Hahn Dr. & Standiford Ave.,30/
+29,12863,28,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+30,12863,1,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+30,12942,2,Standiford Ave. & Dale Rd.,"22/, 30/, 31/, 37/"
+30,13014,3,Standiford Ave. & Hahn Dr. ,"22/, 30/, 31/, 37/"
+30,12944,4,Conant Ave. & Standiford Ave.,"30/, 37/"
+30,12945,5,Rumble Rd. & Conant Ave.,"30/, 37/"
+30,13017,6,Prescott Rd. & Chrysler Dr.,30/
+30,13018,7,Prescott Rd. & Sharon Way.,30/
+30,13019,8,Mt Vernon Dr. & Prescott Rd.,30/
+30,13020,9,Mt Vernon Dr. & Girard Ave.,30/
+30,13021,10,Mt Vernon Dr. & Debonaire Dr.,30/
+30,13022,11,Carver Rd. & Mt Vernon Dr.,30/
+30,13023,12,Carver Rd. & Scott Ave.,30/
+30,13024,13,Carver Rd. & Gulfstream Dr.,30/
+30,13025,14,Carver Rd. & Joann Ave.,30/
+30,13026,15,Carver Rd. & Evergreen Ave.,30/
+30,13027,16,Carver Rd. & Pearl St.,30/
+30,13028,17,Carver Rd. & Orangeburg Ave.,30/
+30,13029,18,Carver Rd. & Barbara Way,30/
+30,13030,19,Roseburg Ave. & Carver Rd.,30/
+30,13031,20,Roseburg Ave. & Kearney Ave.,30/
+30,13032,21,Roseburg Ave. & Tully Rd.,30/
+30,13033,22,Roseburg Ave. & Amherst Ave.,30/
+30,13034,23,College Ave. & Princeton Ave.,30/
+30,13036,24,College Ave. & Coldwell Ave. (MJC East),30/
+30,13037,25,College Ave. & Needham St.,30/
+30,13038,26,10th St. & N St.,30/
+30,13039,27,10th St. & L St.,30/
+30,12550,28,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+31,12863,1,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+31,12942,2,Standiford Ave. & Dale Rd.,"22/, 30/, 31/, 37/"
+31,13014,3,Standiford Ave. & Hahn Dr. ,"22/, 30/, 31/, 37/"
+31,12944,4,Conant Ave. & Standiford Ave.,"30/, 37/"
+31,12945,5,Rumble Rd. & Conant Ave.,"30/, 37/"
+31,13017,6,Prescott Rd. & Chrysler Dr.,30/
+31,13018,7,Prescott Rd. & Sharon Way.,30/
+31,13019,8,Mt Vernon Dr. & Prescott Rd.,30/
+31,13020,9,Mt Vernon Dr. & Girard Ave.,30/
+31,13021,10,Mt Vernon Dr. & Debonaire Dr.,30/
+31,13022,11,Carver Rd. & Mt Vernon Dr.,30/
+31,13023,12,Carver Rd. & Scott Ave.,30/
+31,13024,13,Carver Rd. & Gulfstream Dr.,30/
+31,13025,14,Carver Rd. & Joann Ave.,30/
+31,13026,15,Carver Rd. & Evergreen Ave.,30/
+31,13027,16,Carver Rd. & Pearl St.,30/
+31,13028,17,Carver Rd. & Orangeburg Ave.,30/
+31,13029,18,Carver Rd. & Barbara Way,30/
+31,13030,19,Roseburg Ave. & Carver Rd.,30/
+31,13031,20,Roseburg Ave. & Kearney Ave.,30/
+31,13032,21,Roseburg Ave. & Tully Rd.,30/
+31,13033,22,Roseburg Ave. & Amherst Ave.,30/
+31,13034,23,College Ave. & Princeton Ave.,30/
+31,13036,24,College Ave. & Coldwell Ave. (MJC East),30/
+31,13037,25,College Ave. & Needham St.,30/
+31,13038,26,10th St. & N St.,30/
+31,13039,27,10th St. & L St.,30/
+31,12550,28,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+32,12863,1,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+32,12942,2,Standiford Ave. & Dale Rd.,"22/, 30/, 31/, 37/"
+32,13014,3,Standiford Ave. & Hahn Dr. ,"22/, 30/, 31/, 37/"
+32,12944,4,Conant Ave. & Standiford Ave.,"30/, 37/"
+32,12945,5,Rumble Rd. & Conant Ave.,"30/, 37/"
+32,13017,6,Prescott Rd. & Chrysler Dr.,30/
+32,13018,7,Prescott Rd. & Sharon Way.,30/
+32,13019,8,Mt Vernon Dr. & Prescott Rd.,30/
+32,13020,9,Mt Vernon Dr. & Girard Ave.,30/
+32,13021,10,Mt Vernon Dr. & Debonaire Dr.,30/
+32,13022,11,Carver Rd. & Mt Vernon Dr.,30/
+32,13023,12,Carver Rd. & Scott Ave.,30/
+32,13024,13,Carver Rd. & Gulfstream Dr.,30/
+32,13025,14,Carver Rd. & Joann Ave.,30/
+32,13026,15,Carver Rd. & Evergreen Ave.,30/
+32,13027,16,Carver Rd. & Pearl St.,30/
+32,13028,17,Carver Rd. & Orangeburg Ave.,30/
+32,13029,18,Carver Rd. & Barbara Way,30/
+32,13030,19,Roseburg Ave. & Carver Rd.,30/
+32,13031,20,Roseburg Ave. & Kearney Ave.,30/
+32,13032,21,Roseburg Ave. & Tully Rd.,30/
+32,13033,22,Roseburg Ave. & Amherst Ave.,30/
+32,13034,23,College Ave. & Princeton Ave.,30/
+32,13036,24,College Ave. & Coldwell Ave. (MJC East),30/
+32,13037,25,College Ave. & Needham St.,30/
+32,13038,26,10th St. & N St.,30/
+32,13039,27,10th St. & L St.,30/
+32,12550,28,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+33,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+33,13040,2,9th St. & K St.,"31/, 33/"
+33,13041,3,9th St. & O St.,"31/, 33/"
+33,13042,4,9th St. & Campus Way.,"31/, 33/"
+33,13043,5,Tully between Stoddard & Coldwell (MJC East),31/
+33,13044,6,Tully Rd. & Yale Ave.,31/
+33,13045,7,Tully Rd. & Fordham Ave.,31/
+33,13046,8,Tully Rd. & Roseburg Ave.,31/
+33,13047,9,Tully Rd. & Orangeburg Ave.,31/
+33,13048,10,Tully Rd. & Pearl St.,31/
+33,13049,11,Tully Rd. & Granger Ave.,31/
+33,13050,12,Tully Rd. & Bispo Dr.,31/
+33,13051,13,Tully Rd. & Bowen Ave.,31/
+33,13052,14,Tully Rd. & Mt Vernon Dr.,31/
+33,13053,15,Tully Rd. & Rumble Rd. (Davis HS),31/
+33,13054,16,Tully Rd. & Woodrow Ave.,31/
+33,13055,17,Tully Rd. & Standiford Ave.,31/
+33,13062,18,Tully Rd. between Clevenger & Union,31/
+33,13063,19,Tully Rd. & Snyder Ave.,31/
+33,13064,20,Pelandale Ave. & Carver Rd.,31/
+33,13065,21,Pelandale Ave. & Prescott Rd.,31/
+33,13066,22,Dale Rd. & Pelandale Ave.,"28/, 31/"
+33,13067,23,Dale Rd. & Snyder Ave.,"28/, 31/"
+33,13068,24,Dale Rd. & Nightingale Dr.,"28/, 31/"
+33,13069,25,Dale & Veneman (NW corner),31/
+33,12840,26,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+34,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+34,13040,2,9th St. & K St.,"31/, 33/"
+34,13041,3,9th St. & O St.,"31/, 33/"
+34,13042,4,9th St. & Campus Way.,"31/, 33/"
+34,13043,5,Tully between Stoddard & Coldwell (MJC East),31/
+34,13044,6,Tully Rd. & Yale Ave.,31/
+34,13045,7,Tully Rd. & Fordham Ave.,31/
+34,13046,8,Tully Rd. & Roseburg Ave.,31/
+34,13047,9,Tully Rd. & Orangeburg Ave.,31/
+34,13048,10,Tully Rd. & Pearl St.,31/
+34,13049,11,Tully Rd. & Granger Ave.,31/
+34,13050,12,Tully Rd. & Bispo Dr.,31/
+34,13051,13,Tully Rd. & Bowen Ave.,31/
+34,13052,14,Tully Rd. & Mt Vernon Dr.,31/
+34,13053,15,Tully Rd. & Rumble Rd. (Davis HS),31/
+34,13054,16,Tully Rd. & Woodrow Ave.,31/
+34,13055,17,Tully Rd. & Standiford Ave.,31/
+34,13062,18,Tully Rd. between Clevenger & Union,31/
+34,13063,19,Tully Rd. & Snyder Ave.,31/
+34,13064,20,Pelandale Ave. & Carver Rd.,31/
+34,13065,21,Pelandale Ave. & Prescott Rd.,31/
+34,13066,22,Dale Rd. & Pelandale Ave.,"28/, 31/"
+34,13067,23,Dale Rd. & Snyder Ave.,"28/, 31/"
+34,13068,24,Dale Rd. & Nightingale Dr.,"28/, 31/"
+34,13069,25,Dale & Veneman (NW corner),31/
+34,12840,26,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+35,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+35,13040,2,9th St. & K St.,"31/, 33/"
+35,13041,3,9th St. & O St.,"31/, 33/"
+35,13042,4,9th St. & Campus Way.,"31/, 33/"
+35,13043,5,Tully between Stoddard & Coldwell (MJC East),31/
+35,13044,6,Tully Rd. & Yale Ave.,31/
+35,13045,7,Tully Rd. & Fordham Ave.,31/
+35,13046,8,Tully Rd. & Roseburg Ave.,31/
+35,13047,9,Tully Rd. & Orangeburg Ave.,31/
+35,13048,10,Tully Rd. & Pearl St.,31/
+35,13049,11,Tully Rd. & Granger Ave.,31/
+35,13050,12,Tully Rd. & Bispo Dr.,31/
+35,13051,13,Tully Rd. & Bowen Ave.,31/
+35,13052,14,Tully Rd. & Mt Vernon Dr.,31/
+35,13053,15,Tully Rd. & Rumble Rd. (Davis HS),31/
+35,13054,16,Tully Rd. & Woodrow Ave.,31/
+35,13055,17,Tully Rd. & Standiford Ave.,31/
+35,13062,18,Tully Rd. between Clevenger & Union,31/
+35,13063,19,Tully Rd. & Snyder Ave.,31/
+35,13064,20,Pelandale Ave. & Carver Rd.,31/
+35,13065,21,Pelandale Ave. & Prescott Rd.,31/
+35,13066,22,Dale Rd. & Pelandale Ave.,"28/, 31/"
+35,13067,23,Dale Rd. & Snyder Ave.,"28/, 31/"
+35,13068,24,Dale Rd. & Nightingale Dr.,"28/, 31/"
+35,13069,25,Dale & Veneman (NW corner),31/
+35,12840,26,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+36,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+36,13077,2,Dale & Veneman (NE corner),"28/, 31/"
+36,13078,3,Dale Rd. & Nightingale Dr.,31/
+36,13079,4,Dale Rd. & Snyder Ave.,31/
+36,13080,5,Dale Rd. & Pelandale Ave.,31/
+36,13081,6,Pelandale Ave. & Prescott Rd.,31/
+36,13082,7,Pelandale Ave. & Carver Rd.,31/
+36,13083,8,Tully Rd. & Pelandale Ave.,31/
+36,13084,9,Tully Rd. between Clevenger & Union,31/
+36,13085,10,Tully Rd. & Standiford Ave.,31/
+36,13086,11,Tully Rd. & Woodrow Ave.,31/
+36,13087,12,Tully Rd. & Morada Dr.,31/
+36,13088,13,Tully Rd. & Levon Ave. (Davis HS),31/
+36,13089,14,Tully Rd. & Mt Vernon Dr.,31/
+36,13090,15,Tully Rd. & Bowen Ave.,31/
+36,13091,16,Tully Rd. & Ronald Ave.,31/
+36,13092,17,Tully Rd. & Madrone Dr.,31/
+36,13093,18,Tully Rd. & Granger Ave.,31/
+36,13094,19,Tully Rd. & Orangeburg Ave.,31/
+36,13095,20,Tully Rd. & Roseburg Ave.,31/
+36,13096,21,Tully Rd. & Fordham Ave.,31/
+36,13097,22,Tully Rd. & Princeton Ave.,31/
+36,13098,23,Tully between Coldwell & Stoddard (MJC East),31/
+36,13099,24,9th St. & O St.,"31/, 33/"
+36,12550,25,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+37,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+37,13077,2,Dale & Veneman (NE corner),"28/, 31/"
+37,13078,3,Dale Rd. & Nightingale Dr.,31/
+37,13079,4,Dale Rd. & Snyder Ave.,31/
+37,13080,5,Dale Rd. & Pelandale Ave.,31/
+37,13081,6,Pelandale Ave. & Prescott Rd.,31/
+37,13082,7,Pelandale Ave. & Carver Rd.,31/
+37,13083,8,Tully Rd. & Pelandale Ave.,31/
+37,13084,9,Tully Rd. between Clevenger & Union,31/
+37,13085,10,Tully Rd. & Standiford Ave.,31/
+37,13086,11,Tully Rd. & Woodrow Ave.,31/
+37,13087,12,Tully Rd. & Morada Dr.,31/
+37,13088,13,Tully Rd. & Levon Ave. (Davis HS),31/
+37,13089,14,Tully Rd. & Mt Vernon Dr.,31/
+37,13090,15,Tully Rd. & Bowen Ave.,31/
+37,13091,16,Tully Rd. & Ronald Ave.,31/
+37,13092,17,Tully Rd. & Madrone Dr.,31/
+37,13093,18,Tully Rd. & Granger Ave.,31/
+37,13094,19,Tully Rd. & Orangeburg Ave.,31/
+37,13095,20,Tully Rd. & Roseburg Ave.,31/
+37,13096,21,Tully Rd. & Fordham Ave.,31/
+37,13097,22,Tully Rd. & Princeton Ave.,31/
+37,13098,23,Tully between Coldwell & Stoddard (MJC East),31/
+37,13099,24,9th St. & O St.,"31/, 33/"
+37,12550,25,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+38,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+38,13077,2,Dale & Veneman (NE corner),"28/, 31/"
+38,13078,3,Dale Rd. & Nightingale Dr.,31/
+38,13079,4,Dale Rd. & Snyder Ave.,31/
+38,13080,5,Dale Rd. & Pelandale Ave.,31/
+38,13081,6,Pelandale Ave. & Prescott Rd.,31/
+38,13082,7,Pelandale Ave. & Carver Rd.,31/
+38,13083,8,Tully Rd. & Pelandale Ave.,31/
+38,13084,9,Tully Rd. between Clevenger & Union,31/
+38,13085,10,Tully Rd. & Standiford Ave.,31/
+38,13086,11,Tully Rd. & Woodrow Ave.,31/
+38,13087,12,Tully Rd. & Morada Dr.,31/
+38,13088,13,Tully Rd. & Levon Ave. (Davis HS),31/
+38,13089,14,Tully Rd. & Mt Vernon Dr.,31/
+38,13090,15,Tully Rd. & Bowen Ave.,31/
+38,13091,16,Tully Rd. & Ronald Ave.,31/
+38,13092,17,Tully Rd. & Madrone Dr.,31/
+38,13093,18,Tully Rd. & Granger Ave.,31/
+38,13094,19,Tully Rd. & Orangeburg Ave.,31/
+38,13095,20,Tully Rd. & Roseburg Ave.,31/
+38,13096,21,Tully Rd. & Fordham Ave.,31/
+38,13097,22,Tully Rd. & Princeton Ave.,31/
+38,13098,23,Tully between Coldwell & Stoddard (MJC East),31/
+38,13099,24,9th St. & O St.,"31/, 33/"
+38,12550,25,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+39,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+39,12651,2,I St. & 12th St.,"24/, 32/"
+39,12652,3,I St. & 14th St.,"24/, 32/"
+39,12653,4,I St. & 15th St.,"24/, 32/"
+39,12654,5,I Street and 17th NS,"24/, 32/"
+39,12655,6,Burney St. & LaLoma Ave.,"24/, 32/, 34/"
+39,12656,7,Scenic Dr. & Melrose Ave.,"24/, 32/, 34/"
+39,12762,8,Scenic Dr. & Bodem St.,"32/, 34/"
+39,12763,9,Scenic Dr. & County Health Services Agency,"32/, 34/"
+39,13120,10,Coffee Rd. & Scenic Dr.,32/
+39,13121,11,Coffee Rd. & Morris Ave.,32/
+39,13122,12,Coffee Rd. & Lucern Ave.,32/
+39,13123,13,Coffee Rd. & Locke Rd.,32/
+39,13124,14,Coffee Rd. & Fairmont Ave. (Downey High),32/
+39,13125,15,Coffee Rd. & Brighton Ave.,32/
+39,13126,16,Coffee Rd. & Orangeburg Ave.,32/
+39,13127,17,Coffee Rd. & Coolidge Ave.,32/
+39,13128,18,Coffee Rd. & Briggsmore Ave.,32/
+39,12666,19,Coffee Rd. & Celeste Dr.,"24/, 32/"
+39,12667,20,Coffee Rd. & Athens Ave.,"24/, 32/"
+39,12668,21,Coffee Rd. & Floyd Ave.,"24/, 32/"
+39,12669,22,Coffee Rd. between Floyd & Rumble,"24/, 32/"
+39,12714,23,Coffee Rd. & Rumble Rd.,32/
+39,12670,24,Coffee Rd. & Thorsen Ave.,"24/, 32/"
+39,13129,25,Coffee Rd. & Sylvan Ave.,32/
+39,13130,26,Coffee Rd. & Sylvan Meadows Dr.,32/
+39,13131,27,Mable Ave. & Coffee Rd.,32/
+39,13132,28,Mable Ave. & Beyer Park Dr.,32/
+39,13133,29,Mable Ave. & Northview Dr.,32/
+39,13134,30,Mable Ave. & Palmwood MHP,32/
+39,13135,31,Mable Ave. & Spring Oak Dr.,32/
+39,13136,32,Oakdale Rd. & Mable Ave.,32/
+39,13137,33,Oakdale Rd. & Bridgewood Way,32/
+39,12955,34,Oakdale Rd. & Sylvan Ave.,"32/, 37/"
+39,13332,35,Oakdale Rd. & La Force Dr.,"32/, 37/"
+39,13138,36,Oakdale & Floyd ,32/
+39,13139,37,Floyd Ave. & Marina Dr.,32/
+39,13140,38,Floyd Ave. & Rose Ave.,32/
+39,13145,39,Floyd Ave. & Keller St.,32/
+39,13146,40,Floyd Ave. & Vera Cruz Dr.,32/
+39,13147,41,Coffee Rd. & Floyd Ave.,32/
+39,13148,42,Coffee Rd. & Athens Ave.,32/
+39,13149,43,Coffee Rd. & Norwegian Ave.,32/
+39,13151,44,Coffee Rd. & Coolidge Ave.,32/
+39,13152,45,Coffee Rd. & Orangeburg Ave.,32/
+39,13153,46,Coffee Rd. & Gloria Way,32/
+39,13154,47,Coffee & Fairmont (Downey High),32/
+39,13155,48,Coffee Rd. & Locke Rd.,32/
+39,13156,49,Coffee Rd. & Lucern Ave.,32/
+39,13157,50,Coffee Rd. & Scenic Dr.,32/
+39,12707,51,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+39,12708,52,I St. & 17th St.,"24/, 32/"
+39,12709,53,I St. & 16th St.,"24/, 32/"
+39,12710,54,I St. & 14th St.,"24/, 32/"
+39,12711,55,I St. & 11th St.,"24/, 32/"
+39,12550,56,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+40,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+40,12651,2,I St. & 12th St.,"24/, 32/"
+40,12652,3,I St. & 14th St.,"24/, 32/"
+40,12653,4,I St. & 15th St.,"24/, 32/"
+40,12654,5,I Street and 17th NS,"24/, 32/"
+40,12655,6,Burney St. & LaLoma Ave.,"24/, 32/, 34/"
+40,12656,7,Scenic Dr. & Melrose Ave.,"24/, 32/, 34/"
+40,12762,8,Scenic Dr. & Bodem St.,"32/, 34/"
+40,12763,9,Scenic Dr. & County Health Services Agency,"32/, 34/"
+40,13120,10,Coffee Rd. & Scenic Dr.,32/
+40,13121,11,Coffee Rd. & Morris Ave.,32/
+40,13122,12,Coffee Rd. & Lucern Ave.,32/
+40,13123,13,Coffee Rd. & Locke Rd.,32/
+40,13124,14,Coffee Rd. & Fairmont Ave. (Downey High),32/
+40,13125,15,Coffee Rd. & Brighton Ave.,32/
+40,13126,16,Coffee Rd. & Orangeburg Ave.,32/
+40,13127,17,Coffee Rd. & Coolidge Ave.,32/
+40,13128,18,Coffee Rd. & Briggsmore Ave.,32/
+40,12666,19,Coffee Rd. & Celeste Dr.,"24/, 32/"
+40,12667,20,Coffee Rd. & Athens Ave.,"24/, 32/"
+40,12668,21,Coffee Rd. & Floyd Ave.,"24/, 32/"
+40,12669,22,Coffee Rd. between Floyd & Rumble,"24/, 32/"
+40,12714,23,Coffee Rd. & Rumble Rd.,32/
+40,12670,24,Coffee Rd. & Thorsen Ave.,"24/, 32/"
+40,13129,25,Coffee Rd. & Sylvan Ave.,32/
+40,13130,26,Coffee Rd. & Sylvan Meadows Dr.,32/
+40,13131,27,Mable Ave. & Coffee Rd.,32/
+40,13132,28,Mable Ave. & Beyer Park Dr.,32/
+40,13133,29,Mable Ave. & Northview Dr.,32/
+40,13134,30,Mable Ave. & Palmwood MHP,32/
+40,13135,31,Mable Ave. & Spring Oak Dr.,32/
+40,13136,32,Oakdale Rd. & Mable Ave.,32/
+40,13137,33,Oakdale Rd. & Bridgewood Way,32/
+40,12955,34,Oakdale Rd. & Sylvan Ave.,"32/, 37/"
+40,13332,35,Oakdale Rd. & La Force Dr.,"32/, 37/"
+40,13138,36,Oakdale & Floyd ,32/
+40,13139,37,Floyd Ave. & Marina Dr.,32/
+40,13140,38,Floyd Ave. & Rose Ave.,32/
+40,13145,39,Floyd Ave. & Keller St.,32/
+40,13146,40,Floyd Ave. & Vera Cruz Dr.,32/
+40,13147,41,Coffee Rd. & Floyd Ave.,32/
+40,13148,42,Coffee Rd. & Athens Ave.,32/
+40,13149,43,Coffee Rd. & Norwegian Ave.,32/
+40,13151,44,Coffee Rd. & Coolidge Ave.,32/
+40,13152,45,Coffee Rd. & Orangeburg Ave.,32/
+40,13153,46,Coffee Rd. & Gloria Way,32/
+40,13154,47,Coffee & Fairmont (Downey High),32/
+40,13155,48,Coffee Rd. & Locke Rd.,32/
+40,13156,49,Coffee Rd. & Lucern Ave.,32/
+40,13157,50,Coffee Rd. & Scenic Dr.,32/
+40,12707,51,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+40,12708,52,I St. & 17th St.,"24/, 32/"
+40,12709,53,I St. & 16th St.,"24/, 32/"
+40,12710,54,I St. & 14th St.,"24/, 32/"
+40,12711,55,I St. & 11th St.,"24/, 32/"
+40,12550,56,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+41,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+41,12651,2,I St. & 12th St.,"24/, 32/"
+41,12652,3,I St. & 14th St.,"24/, 32/"
+41,12653,4,I St. & 15th St.,"24/, 32/"
+41,12654,5,I Street and 17th NS,"24/, 32/"
+41,12655,6,Burney St. & LaLoma Ave.,"24/, 32/, 34/"
+41,12656,7,Scenic Dr. & Melrose Ave.,"24/, 32/, 34/"
+41,12762,8,Scenic Dr. & Bodem St.,"32/, 34/"
+41,12763,9,Scenic Dr. & County Health Services Agency,"32/, 34/"
+41,13120,10,Coffee Rd. & Scenic Dr.,32/
+41,13121,11,Coffee Rd. & Morris Ave.,32/
+41,13122,12,Coffee Rd. & Lucern Ave.,32/
+41,13123,13,Coffee Rd. & Locke Rd.,32/
+41,13124,14,Coffee Rd. & Fairmont Ave. (Downey High),32/
+41,13125,15,Coffee Rd. & Brighton Ave.,32/
+41,13126,16,Coffee Rd. & Orangeburg Ave.,32/
+41,13127,17,Coffee Rd. & Coolidge Ave.,32/
+41,13128,18,Coffee Rd. & Briggsmore Ave.,32/
+41,12666,19,Coffee Rd. & Celeste Dr.,"24/, 32/"
+41,12667,20,Coffee Rd. & Athens Ave.,"24/, 32/"
+41,12668,21,Coffee Rd. & Floyd Ave.,"24/, 32/"
+41,12669,22,Coffee Rd. between Floyd & Rumble,"24/, 32/"
+41,12714,23,Coffee Rd. & Rumble Rd.,32/
+41,12670,24,Coffee Rd. & Thorsen Ave.,"24/, 32/"
+41,13129,25,Coffee Rd. & Sylvan Ave.,32/
+41,13130,26,Coffee Rd. & Sylvan Meadows Dr.,32/
+41,13131,27,Mable Ave. & Coffee Rd.,32/
+41,13132,28,Mable Ave. & Beyer Park Dr.,32/
+41,13133,29,Mable Ave. & Northview Dr.,32/
+41,13134,30,Mable Ave. & Palmwood MHP,32/
+41,13135,31,Mable Ave. & Spring Oak Dr.,32/
+41,13136,32,Oakdale Rd. & Mable Ave.,32/
+41,13137,33,Oakdale Rd. & Bridgewood Way,32/
+41,12955,34,Oakdale Rd. & Sylvan Ave.,"32/, 37/"
+41,13332,35,Oakdale Rd. & La Force Dr.,"32/, 37/"
+41,13138,36,Oakdale & Floyd ,32/
+41,13139,37,Floyd Ave. & Marina Dr.,32/
+41,13140,38,Floyd Ave. & Rose Ave.,32/
+41,13145,39,Floyd Ave. & Keller St.,32/
+41,13146,40,Floyd Ave. & Vera Cruz Dr.,32/
+41,13147,41,Coffee Rd. & Floyd Ave.,32/
+41,13148,42,Coffee Rd. & Athens Ave.,32/
+41,13149,43,Coffee Rd. & Norwegian Ave.,32/
+41,13151,44,Coffee Rd. & Coolidge Ave.,32/
+41,13152,45,Coffee Rd. & Orangeburg Ave.,32/
+41,13153,46,Coffee Rd. & Gloria Way,32/
+41,13154,47,Coffee & Fairmont (Downey High),32/
+41,13155,48,Coffee Rd. & Locke Rd.,32/
+41,13156,49,Coffee Rd. & Lucern Ave.,32/
+41,13157,50,Coffee Rd. & Scenic Dr.,32/
+41,12707,51,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+41,12708,52,I St. & 17th St.,"24/, 32/"
+41,12709,53,I St. & 16th St.,"24/, 32/"
+41,12710,54,I St. & 14th St.,"24/, 32/"
+41,12711,55,I St. & 11th St.,"24/, 32/"
+41,12550,56,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+42,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+42,13040,2,9th St. & K St.,"31/, 33/"
+42,13041,3,9th St. & O St.,"31/, 33/"
+42,13042,4,9th St. & Campus Way.,"31/, 33/"
+42,13304,5,9th St. & Coldwell Ave.,33/
+42,13305,6,Woodland Ave. & Lone Palm Ave.,33/
+42,13306,7,Woodland Ave. & McWilliams Way,33/
+42,13307,8,Woodland Ave. & Watts Ave.,33/
+42,13308,9,Woodland Ave. & Emigrant Way,33/
+42,13309,10,Woodland Ave. & Dan West Ct.,33/
+42,13310,11,Poust Rd. & Woodland Ave.,33/
+42,13311,12,Poust Rd. & Chapparal Pl.,33/
+42,13312,13,Blue Gum Ave. & Poust Rd.,33/
+42,13313,14,Blue Gum at MJC West,33/
+42,13314,15,Blue Gum Ave. & Pritchard Ave.,33/
+42,12868,16,Carpenter Rd. & Blue Gum Ave.,"33/, 36/"
+42,12869,17,Carpenter Rd. & Cummins Dr.,"33/, 36/"
+42,13315,18,Carpenter and Woodland,33/
+42,13316,19,Woodland Ave. & Graphics Dr.,33/
+42,13099,20,9th St. & O St.,"31/, 33/"
+42,12550,21,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+43,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+43,13040,2,9th St. & K St.,"31/, 33/"
+43,13041,3,9th St. & O St.,"31/, 33/"
+43,13042,4,9th St. & Campus Way.,"31/, 33/"
+43,13304,5,9th St. & Coldwell Ave.,33/
+43,13305,6,Woodland Ave. & Lone Palm Ave.,33/
+43,13306,7,Woodland Ave. & McWilliams Way,33/
+43,13307,8,Woodland Ave. & Watts Ave.,33/
+43,13308,9,Woodland Ave. & Emigrant Way,33/
+43,13309,10,Woodland Ave. & Dan West Ct.,33/
+43,13310,11,Poust Rd. & Woodland Ave.,33/
+43,13311,12,Poust Rd. & Chapparal Pl.,33/
+43,13312,13,Blue Gum Ave. & Poust Rd.,33/
+43,13313,14,Blue Gum at MJC West,33/
+43,13314,15,Blue Gum Ave. & Pritchard Ave.,33/
+43,12868,16,Carpenter Rd. & Blue Gum Ave.,"33/, 36/"
+43,12869,17,Carpenter Rd. & Cummins Dr.,"33/, 36/"
+43,13315,18,Carpenter and Woodland,33/
+43,13316,19,Woodland Ave. & Graphics Dr.,33/
+43,13099,20,9th St. & O St.,"31/, 33/"
+43,12550,21,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+44,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+44,13040,2,9th St. & K St.,"31/, 33/"
+44,13041,3,9th St. & O St.,"31/, 33/"
+44,13042,4,9th St. & Campus Way.,"31/, 33/"
+44,13304,5,9th St. & Coldwell Ave.,33/
+44,13305,6,Woodland Ave. & Lone Palm Ave.,33/
+44,13306,7,Woodland Ave. & McWilliams Way,33/
+44,13307,8,Woodland Ave. & Watts Ave.,33/
+44,13308,9,Woodland Ave. & Emigrant Way,33/
+44,13309,10,Woodland Ave. & Dan West Ct.,33/
+44,13310,11,Poust Rd. & Woodland Ave.,33/
+44,13311,12,Poust Rd. & Chapparal Pl.,33/
+44,13312,13,Blue Gum Ave. & Poust Rd.,33/
+44,13313,14,Blue Gum at MJC West,33/
+44,13314,15,Blue Gum Ave. & Pritchard Ave.,33/
+44,12868,16,Carpenter Rd. & Blue Gum Ave.,"33/, 36/"
+44,12869,17,Carpenter Rd. & Cummins Dr.,"33/, 36/"
+44,13315,18,Carpenter and Woodland,33/
+44,13316,19,Woodland Ave. & Graphics Dr.,33/
+44,13099,20,9th St. & O St.,"31/, 33/"
+44,12550,21,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+45,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+45,12758,2,10th St & H St.,"25/, 34/, 37/, 39/"
+45,12759,3,G St. & 12th St.,"25/, 34/"
+45,12760,4,G St. & 14th St.,"25/, 34/"
+45,12761,5,G St. & 16th St.,"25/, 34/"
+45,12655,6,Burney St. & LaLoma Ave.,"24/, 32/, 34/"
+45,12656,7,Scenic Dr. & Melrose Ave.,"24/, 32/, 34/"
+45,12762,8,Scenic Dr. & Bodem St.,"32/, 34/"
+45,12763,9,Scenic Dr. & County Health Services Agency,"32/, 34/"
+45,12764,10,Scenic Dr. & Coffee Rd.,34/
+45,16228,11,Scenic Eb Rose Ns,34/
+45,12766,12,Rose Ave. & Scenic Dr.,34/
+45,12767,13,Rose Ave. & Wylie Dr.,34/
+45,12768,14,Wylie Dr. & Strathmore Dr.,"25/, 34/"
+45,12769,15,Wylie Dr. & Oakdale Rd.,"25/, 34/"
+45,12770,16,Surrey Ave. & Oakdale Rd.,34/
+45,12699,17,Surrey Ave. & McGuire Dr.,"24/, 34/"
+45,12772,18,Surrey Ave. & Sonoma Ave.,34/
+45,12773,19,Middleboro Pl. & Eastridge Dr.,34/
+45,12774,20,Middleboro Pl. & Lakewood Ave.,34/
+45,12775,21,Lakewood Ave. & Orangeburg Ave.,34/
+45,12776,22,Roselle Ave. & Briggsmore Ave.,34/
+45,807734,23,Roselle Ave. & Merle Ave.,34/
+45,12777,24,Merle Ave. & Temescal Dr.,34/
+45,12778,25,Merle Ave. & Lincoln Oak Dr.,34/
+45,12779,26,Merle Ave. & Bailey Dr.,34/
+45,12780,27,Oakdale Rd. & Manor Oak Dr.,"34/, 37/"
+45,12781,28,Floyd Ave. & Oakdale Rd.,34/
+45,12782,29,Floyd Ave. & Temescal Dr.,34/
+45,12783,30,Floyd Ave. & Grouse Crossing Way,34/
+45,12784,31,Floyd Ave. & Roselle Ave.,34/
+45,12785,32,Millbrook Ave. & Floyd Ave.,34/
+45,12786,33,Millbrook Ave. & Parkcrest Dr.,34/
+45,12787,34,Millbrook Ave. & Kee Ln.,34/
+45,12788,35,Litt Rd. & Hillglen Ave.,34/
+45,12789,36,Litt Rd. & Sylvan Ave.,34/
+45,807735,37,Sylvan Ave. & Litt Rd.,34/
+45,12790,38,Sylvan Ave. & Millbrook Ave. (Enochs High School),34/
+45,12791,39,Sylvan Ave. & McReynolds Ave.,34/
+45,12792,40,Sylvan Ave. & Aria Way,34/
+45,12793,41,Sylvan Ave. & Oakdale Rd.,"34/, 37/"
+45,12794,42,Sylvan & Boyce Beyer HS,"34/, 37/"
+45,12795,43,Sylvan Ave. & Forest Glenn Dr.,"32/, 34/, 37/"
+45,12796,44,Coffee & Sylvan,"32/, 34/"
+45,12797,45,Coffee Rd. & Las Cruces Ct.,"32/, 34/"
+45,12798,46,Coffee Rd. & Rumble Rd.,"32/, 34/"
+45,12799,47,Floyd Ave. & Coffee Rd.,34/
+45,12800,48,Floyd Ave. & Newport Dr.,34/
+45,12801,49,Floyd Ave. & Edward Ave.,34/
+45,12802,50,Floyd Ave. & MacDougal St.,34/
+45,13180,51,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+45,12641,52,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+45,12803,53,McHenry Village - McHenry & Granger,"22/, 23/, 34/"
+45,12804,54,McHenry Ave. & Coolidge Ave.,"22/, 23/, 34/"
+45,12805,55,Orangeburg Ave. & McHenry Ave.,"25/, 34/"
+45,12806,56,Orangeburg Ave. & Nelson Ave.,"25/, 34/"
+45,12807,57,Orangeburg & Sunrise (Elliott Ed Ctr),34/
+45,12808,58,Sunrise Ave. & Palm Ave.,34/
+45,12809,59,Sunrise Ave. & Burke Ave.,34/
+45,12810,60,Bodem St. & Lucern Ave.,34/
+45,12707,61,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+45,12811,62,H St. & 17th St.,"25/, 34/"
+45,12812,63,H St. & 15th St.,"25/, 34/"
+45,12813,64,H St. & 13th St.,"25/, 34/"
+45,12814,65,H St. & 11th St.,"25/, 34/"
+45,12550,66,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+46,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+46,12758,2,10th St & H St.,"25/, 34/, 37/, 39/"
+46,12759,3,G St. & 12th St.,"25/, 34/"
+46,12760,4,G St. & 14th St.,"25/, 34/"
+46,12761,5,G St. & 16th St.,"25/, 34/"
+46,12655,6,Burney St. & LaLoma Ave.,"24/, 32/, 34/"
+46,12656,7,Scenic Dr. & Melrose Ave.,"24/, 32/, 34/"
+46,12762,8,Scenic Dr. & Bodem St.,"32/, 34/"
+46,12763,9,Scenic Dr. & County Health Services Agency,"32/, 34/"
+46,12764,10,Scenic Dr. & Coffee Rd.,34/
+46,16228,11,Scenic Eb Rose Ns,34/
+46,12766,12,Rose Ave. & Scenic Dr.,34/
+46,12767,13,Rose Ave. & Wylie Dr.,34/
+46,12768,14,Wylie Dr. & Strathmore Dr.,"25/, 34/"
+46,12769,15,Wylie Dr. & Oakdale Rd.,"25/, 34/"
+46,12770,16,Surrey Ave. & Oakdale Rd.,34/
+46,12699,17,Surrey Ave. & McGuire Dr.,"24/, 34/"
+46,12772,18,Surrey Ave. & Sonoma Ave.,34/
+46,12773,19,Middleboro Pl. & Eastridge Dr.,34/
+46,12774,20,Middleboro Pl. & Lakewood Ave.,34/
+46,12775,21,Lakewood Ave. & Orangeburg Ave.,34/
+46,12776,22,Roselle Ave. & Briggsmore Ave.,34/
+46,807734,23,Roselle Ave. & Merle Ave.,34/
+46,12777,24,Merle Ave. & Temescal Dr.,34/
+46,12778,25,Merle Ave. & Lincoln Oak Dr.,34/
+46,12779,26,Merle Ave. & Bailey Dr.,34/
+46,12780,27,Oakdale Rd. & Manor Oak Dr.,"34/, 37/"
+46,12781,28,Floyd Ave. & Oakdale Rd.,34/
+46,12782,29,Floyd Ave. & Temescal Dr.,34/
+46,12783,30,Floyd Ave. & Grouse Crossing Way,34/
+46,12784,31,Floyd Ave. & Roselle Ave.,34/
+46,12785,32,Millbrook Ave. & Floyd Ave.,34/
+46,12786,33,Millbrook Ave. & Parkcrest Dr.,34/
+46,12787,34,Millbrook Ave. & Kee Ln.,34/
+46,12788,35,Litt Rd. & Hillglen Ave.,34/
+46,12789,36,Litt Rd. & Sylvan Ave.,34/
+46,807735,37,Sylvan Ave. & Litt Rd.,34/
+46,12790,38,Sylvan Ave. & Millbrook Ave. (Enochs High School),34/
+46,12791,39,Sylvan Ave. & McReynolds Ave.,34/
+46,12792,40,Sylvan Ave. & Aria Way,34/
+46,12793,41,Sylvan Ave. & Oakdale Rd.,"34/, 37/"
+46,12794,42,Sylvan & Boyce Beyer HS,"34/, 37/"
+46,12795,43,Sylvan Ave. & Forest Glenn Dr.,"32/, 34/, 37/"
+46,12796,44,Coffee & Sylvan,"32/, 34/"
+46,12797,45,Coffee Rd. & Las Cruces Ct.,"32/, 34/"
+46,12798,46,Coffee Rd. & Rumble Rd.,"32/, 34/"
+46,12799,47,Floyd Ave. & Coffee Rd.,34/
+46,12800,48,Floyd Ave. & Newport Dr.,34/
+46,12801,49,Floyd Ave. & Edward Ave.,34/
+46,12802,50,Floyd Ave. & MacDougal St.,34/
+46,13180,51,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+46,12641,52,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+46,12803,53,McHenry Village - McHenry & Granger,"22/, 23/, 34/"
+46,12804,54,McHenry Ave. & Coolidge Ave.,"22/, 23/, 34/"
+46,12805,55,Orangeburg Ave. & McHenry Ave.,"25/, 34/"
+46,12806,56,Orangeburg Ave. & Nelson Ave.,"25/, 34/"
+46,12807,57,Orangeburg & Sunrise (Elliott Ed Ctr),34/
+46,12808,58,Sunrise Ave. & Palm Ave.,34/
+46,12809,59,Sunrise Ave. & Burke Ave.,34/
+46,12810,60,Bodem St. & Lucern Ave.,34/
+46,12707,61,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+46,12811,62,H St. & 17th St.,"25/, 34/"
+46,12812,63,H St. & 15th St.,"25/, 34/"
+46,12813,64,H St. & 13th St.,"25/, 34/"
+46,12814,65,H St. & 11th St.,"25/, 34/"
+46,12550,66,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+47,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+47,12551,2,I St. & 7th St.,"21/, 26/, 36/, 43/"
+47,12552,3,H St. & 4th St.,"21/, /21RX, 36/, 43/"
+47,12574,4,G St. & Sierra Dr. (Modesto HS),"21/, 36/"
+47,12841,5,Roselawn Ave. & Center St.,36/
+47,12842,6,Roselawn Ave. & Tuolumne Blvd.,36/
+47,12843,7,Roselawn Ave. & South Ave.,36/
+47,12844,8,Roselawn Ave. & Rouse Ave.,36/
+47,12845,9,Rouse Ave. & Leon Ave.,36/
+47,12846,10,Rouse Ave. & Sutter Ave.,36/
+47,12847,11,Rouse Ave. & Josilane,36/
+47,12848,12,Beverly Dr. & Paradise Rd.,36/
+47,12849,13,Beverly Dr. & Vernon Ave.,36/
+47,12850,14,Carpenter Rd. & Beverly Dr.,"36/, 43/"
+47,12851,15,Carpenter Rd. & Chicago Ave.,"36/, 43/"
+47,12589,16,Carpenter Rd. & Houser Ln.,"26/, 36/, 43/"
+47,12591,17,Central Catholic HS - Carpenter & Maze,"26/, 36/"
+47,12592,18,Carpenter Rd. & Hillview Dr.,"26/, 36/"
+47,12593,19,Carpenter Rd. & Elm Ave.,"26/, 36/"
+47,12594,20,Carpenter Rd. & Kansas Ave.,"26/, 36/"
+47,12852,21,Carpenter Rd. & Torrid Ave.,36/
+47,12853,22,Carpenter Rd. & Woodland Ave.,36/
+47,12854,23,Carpenter Rd. between Granite & Blue Gum,36/
+47,12855,24,Carpenter Rd. & Blue Gum Ave.,36/
+47,12856,25,Sisk Rd. & Briggsmore Ave.,"25/, 36/"
+47,12857,26,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+47,12858,27,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+47,12859,28,Sisk Rd. & Earl St.,"25/, 36/"
+47,12860,29,Sisk Rd. & Brenner Way.,"25/, 36/"
+47,12861,30,Sisk Rd. & Rumble Rd.,"25/, 36/, 37/"
+47,12840,31,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+48,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+48,12551,2,I St. & 7th St.,"21/, 26/, 36/, 43/"
+48,12552,3,H St. & 4th St.,"21/, /21RX, 36/, 43/"
+48,12574,4,G St. & Sierra Dr. (Modesto HS),"21/, 36/"
+48,12841,5,Roselawn Ave. & Center St.,36/
+48,12842,6,Roselawn Ave. & Tuolumne Blvd.,36/
+48,12843,7,Roselawn Ave. & South Ave.,36/
+48,12844,8,Roselawn Ave. & Rouse Ave.,36/
+48,12845,9,Rouse Ave. & Leon Ave.,36/
+48,12846,10,Rouse Ave. & Sutter Ave.,36/
+48,12847,11,Rouse Ave. & Josilane,36/
+48,12848,12,Beverly Dr. & Paradise Rd.,36/
+48,12849,13,Beverly Dr. & Vernon Ave.,36/
+48,12850,14,Carpenter Rd. & Beverly Dr.,"36/, 43/"
+48,12851,15,Carpenter Rd. & Chicago Ave.,"36/, 43/"
+48,12589,16,Carpenter Rd. & Houser Ln.,"26/, 36/, 43/"
+48,12591,17,Central Catholic HS - Carpenter & Maze,"26/, 36/"
+48,12592,18,Carpenter Rd. & Hillview Dr.,"26/, 36/"
+48,12593,19,Carpenter Rd. & Elm Ave.,"26/, 36/"
+48,12594,20,Carpenter Rd. & Kansas Ave.,"26/, 36/"
+48,12852,21,Carpenter Rd. & Torrid Ave.,36/
+48,12853,22,Carpenter Rd. & Woodland Ave.,36/
+48,12854,23,Carpenter Rd. between Granite & Blue Gum,36/
+48,12855,24,Carpenter Rd. & Blue Gum Ave.,36/
+48,12856,25,Sisk Rd. & Briggsmore Ave.,"25/, 36/"
+48,12857,26,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+48,12858,27,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+48,12859,28,Sisk Rd. & Earl St.,"25/, 36/"
+48,12860,29,Sisk Rd. & Brenner Way.,"25/, 36/"
+48,12861,30,Sisk Rd. & Rumble Rd.,"25/, 36/, 37/"
+48,12840,31,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+49,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+49,12863,2,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+49,12864,3,Sisk Rd. & Rumble Rd.,"25/, 36/"
+49,12865,4,Sisk Rd. & Brenner Way.,"25/, 36/"
+49,12866,5,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+49,12867,6,Sisk Rd. & Briggsmore Ave.,"25/, 36/"
+49,12868,7,Carpenter Rd. & Blue Gum Ave.,"33/, 36/"
+49,12869,8,Carpenter Rd. & Cummins Dr.,"33/, 36/"
+49,12870,9,Carpenter Rd. & Woodland Ave.,36/
+49,12871,10,Carpenter Rd. & Torrid Ave.,36/
+49,12872,11,Carpenter Rd. & Kansas Ave.,36/
+49,12873,12,Carpenter Rd. & Elm Ave.,36/
+49,13923,13,Central Catholic HS - Carpenter & Maze,36/
+49,12874,14,Carpenter Rd. & California Ave.,36/
+49,12876,15,Carpenter Rd. & Houser Ln.,36/
+49,12875,16,Carpenter Rd. & Chicago Ave.,36/
+49,12877,17,Beverly Dr. & Vernon Ave.,36/
+49,12878,18,Beverly Dr. & Paradise Rd.,36/
+49,12879,19,Rouse Ave. & Hammond St.,36/
+49,12880,20,Rouse Ave. & Mamilane,36/
+49,12881,21,Rouse Ave. & Sutter Ave.,36/
+49,12882,22,Rouse Ave. & Colorado Ave.,36/
+49,12883,23,Roselawn Ave. & Rouse Ave.,36/
+49,12884,24,Roselawn Ave. & South Ave.,36/
+49,12885,25,Roselawn Ave. & Tuolumne Blvd.,36/
+49,12575,26,Modesto Hs - G St & 2nd St,"21/, 36/"
+49,12576,27,G St. & 4th St.,"21/, 36/"
+49,12577,28,7th St. & H St.,"21/, /21RX, 36/"
+49,12578,29,7th St. & K St.,"21/, /21RX, 36/"
+49,12550,30,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+50,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+50,12863,2,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+50,12864,3,Sisk Rd. & Rumble Rd.,"25/, 36/"
+50,12865,4,Sisk Rd. & Brenner Way.,"25/, 36/"
+50,12866,5,Sisk Rd. & Plaza Pkw.,"25/, 36/"
+50,12867,6,Sisk Rd. & Briggsmore Ave.,"25/, 36/"
+50,12868,7,Carpenter Rd. & Blue Gum Ave.,"33/, 36/"
+50,12869,8,Carpenter Rd. & Cummins Dr.,"33/, 36/"
+50,12870,9,Carpenter Rd. & Woodland Ave.,36/
+50,12871,10,Carpenter Rd. & Torrid Ave.,36/
+50,12872,11,Carpenter Rd. & Kansas Ave.,36/
+50,12873,12,Carpenter Rd. & Elm Ave.,36/
+50,13923,13,Central Catholic HS - Carpenter & Maze,36/
+50,12874,14,Carpenter Rd. & California Ave.,36/
+50,12876,15,Carpenter Rd. & Houser Ln.,36/
+50,12875,16,Carpenter Rd. & Chicago Ave.,36/
+50,12877,17,Beverly Dr. & Vernon Ave.,36/
+50,12878,18,Beverly Dr. & Paradise Rd.,36/
+50,12879,19,Rouse Ave. & Hammond St.,36/
+50,12880,20,Rouse Ave. & Mamilane,36/
+50,12881,21,Rouse Ave. & Sutter Ave.,36/
+50,12882,22,Rouse Ave. & Colorado Ave.,36/
+50,12883,23,Roselawn Ave. & Rouse Ave.,36/
+50,12884,24,Roselawn Ave. & South Ave.,36/
+50,12885,25,Roselawn Ave. & Tuolumne Blvd.,36/
+50,12575,26,Modesto Hs - G St & 2nd St,"21/, 36/"
+50,12576,27,G St. & 4th St.,"21/, 36/"
+50,12577,28,7th St. & H St.,"21/, /21RX, 36/"
+50,12578,29,7th St. & K St.,"21/, /21RX, 36/"
+50,12550,30,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+51,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+51,12758,2,10th St & H St.,"25/, 34/, 37/, 39/"
+51,12815,3,D St. & Yosemite Blvd.,"37/, 38/, 39/"
+51,12816,4,Yosemite Blvd. & Morton Blvd.,"37/, 38/, 39/"
+51,12817,5,Yosemite Blvd. & Santa Rosa Ave.,"37/, 38/, 39/"
+51,12818,6,Yosemite Blvd. & Santa Rita Ave.,"37/, 38/, 39/"
+51,12819,7,Santa Cruz Ave. & Yosemite Blvd.,"37/, 38/, 39/"
+51,12820,8,Yosemite Blvd. & Kerr Ave.,"37/, 38/, 39/"
+51,12821,9,Empire & Yosemite,"37/, 38/, 39/"
+51,12887,10,Tenaya Dr. & Airport Way,"37/, 39/"
+51,12915,11,El Vista & Miller ,37/
+51,12916,12,El Vista Ave. & Roble Ave.,37/
+51,12917,13,El Vista Ave. & Ada St.,37/
+51,12918,14,El Vista Ave. & Edgebrook Dr.,37/
+51,12919,15,Oakdale & Scenic ,37/
+51,12920,16,Oakdale Rd. & Wylie Dr.,"25/, 37/"
+51,12921,17,Oakdale Rd. & Morningside Dr.,"25/, 37/"
+51,12922,18,Oakdale & Orangeburg,"25/, 37/"
+51,12923,19,Oakdale Rd. & Merle Ave.,37/
+51,12780,20,Oakdale Rd. & Manor Oak Dr.,"34/, 37/"
+51,12924,21,Oakdale & Floyd ,37/
+51,12925,22,Oakdale Rd. between Floyd & Sylvan,37/
+51,12793,23,Sylvan Ave. & Oakdale Rd.,"34/, 37/"
+51,12794,24,Sylvan & Boyce Beyer HS,"34/, 37/"
+51,12795,25,Sylvan Ave. & Forest Glenn Dr.,"32/, 34/, 37/"
+51,12926,26,Sylvan Ave. & Coffee Rd.,37/
+51,12927,27,Sylvan Ave. & Dragoo Park Dr.,37/
+51,12928,28,Sylvan Ave. & Bridgeford Ln.,37/
+51,12637,29,McHenry Ave. & Standiford Ave.,"22/, 23/, 27/, 37/"
+51,12638,30,McHenry Ave. & Woodrow Ave.,"22/, 23/, 27/, 37/"
+51,12929,31,Rumble Rd. & McHenry Ave.,37/
+51,12930,32,Rumble Rd. & Sherwood Ave.,37/
+51,12931,33,Rumble Rd. & Stafford Way.,37/
+51,12932,34,Rumble Rd. & Napier Dr.,37/
+51,12933,35,Rumble & Tully Davis HS,37/
+51,12934,36,Rumble Rd. & Secrest Way,37/
+51,12935,37,Rumble Rd. & Radner Way,37/
+51,12936,38,Rumble Rd. & Pembroke Dr.,37/
+51,12937,39,Rumble Rd. & Holiday Ln.,"30/, 37/"
+51,12938,40,Rumble Rd. & Ashland Way,"30/, 37/"
+51,12939,41,Rumble Rd. & Conant Ave.,"30/, 37/"
+51,12940,42,Rumble Rd. & Hahn Dr.,37/
+51,12941,43,Rumble Rd. & Sisk Rd.,37/
+51,12861,44,Sisk Rd. & Rumble Rd.,"25/, 36/, 37/"
+51,12840,45,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+52,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+52,12758,2,10th St & H St.,"25/, 34/, 37/, 39/"
+52,12815,3,D St. & Yosemite Blvd.,"37/, 38/, 39/"
+52,12816,4,Yosemite Blvd. & Morton Blvd.,"37/, 38/, 39/"
+52,12817,5,Yosemite Blvd. & Santa Rosa Ave.,"37/, 38/, 39/"
+52,12818,6,Yosemite Blvd. & Santa Rita Ave.,"37/, 38/, 39/"
+52,12819,7,Santa Cruz Ave. & Yosemite Blvd.,"37/, 38/, 39/"
+52,12820,8,Yosemite Blvd. & Kerr Ave.,"37/, 38/, 39/"
+52,12821,9,Empire & Yosemite,"37/, 38/, 39/"
+52,12887,10,Tenaya Dr. & Airport Way,"37/, 39/"
+52,12915,11,El Vista & Miller ,37/
+52,12916,12,El Vista Ave. & Roble Ave.,37/
+52,12917,13,El Vista Ave. & Ada St.,37/
+52,12918,14,El Vista Ave. & Edgebrook Dr.,37/
+52,12919,15,Oakdale & Scenic ,37/
+52,12920,16,Oakdale Rd. & Wylie Dr.,"25/, 37/"
+52,12921,17,Oakdale Rd. & Morningside Dr.,"25/, 37/"
+52,12922,18,Oakdale & Orangeburg,"25/, 37/"
+52,12923,19,Oakdale Rd. & Merle Ave.,37/
+52,12780,20,Oakdale Rd. & Manor Oak Dr.,"34/, 37/"
+52,12924,21,Oakdale & Floyd ,37/
+52,12925,22,Oakdale Rd. between Floyd & Sylvan,37/
+52,12793,23,Sylvan Ave. & Oakdale Rd.,"34/, 37/"
+52,12794,24,Sylvan & Boyce Beyer HS,"34/, 37/"
+52,12795,25,Sylvan Ave. & Forest Glenn Dr.,"32/, 34/, 37/"
+52,12926,26,Sylvan Ave. & Coffee Rd.,37/
+52,12927,27,Sylvan Ave. & Dragoo Park Dr.,37/
+52,12928,28,Sylvan Ave. & Bridgeford Ln.,37/
+52,12637,29,McHenry Ave. & Standiford Ave.,"22/, 23/, 27/, 37/"
+52,12638,30,McHenry Ave. & Woodrow Ave.,"22/, 23/, 27/, 37/"
+52,12929,31,Rumble Rd. & McHenry Ave.,37/
+52,12930,32,Rumble Rd. & Sherwood Ave.,37/
+52,12931,33,Rumble Rd. & Stafford Way.,37/
+52,12932,34,Rumble Rd. & Napier Dr.,37/
+52,12933,35,Rumble & Tully Davis HS,37/
+52,12934,36,Rumble Rd. & Secrest Way,37/
+52,12935,37,Rumble Rd. & Radner Way,37/
+52,12936,38,Rumble Rd. & Pembroke Dr.,37/
+52,12937,39,Rumble Rd. & Holiday Ln.,"30/, 37/"
+52,12938,40,Rumble Rd. & Ashland Way,"30/, 37/"
+52,12939,41,Rumble Rd. & Conant Ave.,"30/, 37/"
+52,12940,42,Rumble Rd. & Hahn Dr.,37/
+52,12941,43,Rumble Rd. & Sisk Rd.,37/
+52,12861,44,Sisk Rd. & Rumble Rd.,"25/, 36/, 37/"
+52,12840,45,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+53,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+53,12863,2,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+53,12942,3,Standiford Ave. & Dale Rd.,"22/, 30/, 31/, 37/"
+53,13014,4,Standiford Ave. & Hahn Dr. ,"22/, 30/, 31/, 37/"
+53,12944,5,Conant Ave. & Standiford Ave.,"30/, 37/"
+53,12945,6,Rumble Rd. & Conant Ave.,"30/, 37/"
+53,12946,7,Rumble Rd. & Prescott Rd.,37/
+53,12947,8,Rumble Rd. & Prescott Rd.,37/
+53,12948,9,Rumble Rd. & Hunt Ave.,37/
+53,12949,10,Rumble Rd. between Campbell & Thornton,37/
+53,12950,11,Rumble & Tully Davis HS,37/
+53,12951,12,Rumble Rd. & College Ave.,37/
+53,12952,13,Rumble Rd. & Sherwood Ave.,37/
+53,12619,14,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/, 37/"
+53,12620,15,McHenry Ave. & Robinhood Dr.,"22/, 23/, 27/, 37/"
+53,12953,16,Sylvan Ave. & Mchenry Ave.,37/
+53,12954,17,Sylvan Ave. & Dragoo Park Dr.,37/
+53,12671,18,Sylvan & Coffee,"24/, 32/, 37/"
+53,12672,19,Sylvan & Boyce Beyer HS,"24/, 32/, 37/"
+53,12673,20,Sylvan Ave. & Hasham Dr.,"24/, 32/, 37/"
+53,12955,21,Oakdale Rd. & Sylvan Ave.,"32/, 37/"
+53,13332,22,Oakdale Rd. & La Force Dr.,"32/, 37/"
+53,12688,23,Oakdale & Floyd ,"24/, 32/, 37/"
+53,12689,24,Oakdale Rd. & Manor Oak Dr.,"24/, 32/, 37/"
+53,12956,25,Oakdale Rd. & Celeste Dr.,"24/, 32/, 37/"
+53,12957,26,Oakdale Rd. & Lancey Dr.,"32/, 37/"
+53,12958,27,Oakdale & Orangeburg,"25/, 37/"
+53,758971,28,Va Clinic - Oakdale Rd. & Morningside Dr.,"25/, 37/"
+53,12959,29,Oakdale Rd. & Wylie Dr.,37/
+53,12960,30,Oakdale & Scenic ,37/
+53,12961,31,El Vista Ave. & Edgebrook Dr.,37/
+53,12962,32,El Vista Ave. & Moran Ave.,37/
+53,12963,33,El Vista Ave. & Roble Ave.,37/
+53,12964,34,El Vista & Miller ,37/
+53,12913,35,Tenaya Dr. & Spenker Ave.,"37/, 39/"
+53,12914,36,Yosemite & Rosina,"37/, 39/"
+53,12835,37,Yosemite & Santa Ana,"37/, 38/, 39/"
+53,12836,38,Yosemite Blvd. & Las Flores Ave.,"37/, 38/, 39/"
+53,12837,39,Yosemite Blvd. & Groveland St.,"37/, 38/, 39/"
+53,12838,40,D St. & 13th St.,"37/, 38/, 39/"
+53,12839,41,10th St. & F St.,"37/, 39/"
+53,12550,42,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+54,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+54,12863,2,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+54,12942,3,Standiford Ave. & Dale Rd.,"22/, 30/, 31/, 37/"
+54,13014,4,Standiford Ave. & Hahn Dr. ,"22/, 30/, 31/, 37/"
+54,12944,5,Conant Ave. & Standiford Ave.,"30/, 37/"
+54,12945,6,Rumble Rd. & Conant Ave.,"30/, 37/"
+54,12946,7,Rumble Rd. & Prescott Rd.,37/
+54,12947,8,Rumble Rd. & Prescott Rd.,37/
+54,12948,9,Rumble Rd. & Hunt Ave.,37/
+54,12949,10,Rumble Rd. between Campbell & Thornton,37/
+54,12950,11,Rumble & Tully Davis HS,37/
+54,12951,12,Rumble Rd. & College Ave.,37/
+54,12952,13,Rumble Rd. & Sherwood Ave.,37/
+54,12619,14,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/, 37/"
+54,12620,15,McHenry Ave. & Robinhood Dr.,"22/, 23/, 27/, 37/"
+54,12953,16,Sylvan Ave. & Mchenry Ave.,37/
+54,12954,17,Sylvan Ave. & Dragoo Park Dr.,37/
+54,12671,18,Sylvan & Coffee,"24/, 32/, 37/"
+54,12672,19,Sylvan & Boyce Beyer HS,"24/, 32/, 37/"
+54,12673,20,Sylvan Ave. & Hasham Dr.,"24/, 32/, 37/"
+54,12955,21,Oakdale Rd. & Sylvan Ave.,"32/, 37/"
+54,13332,22,Oakdale Rd. & La Force Dr.,"32/, 37/"
+54,12688,23,Oakdale & Floyd ,"24/, 32/, 37/"
+54,12689,24,Oakdale Rd. & Manor Oak Dr.,"24/, 32/, 37/"
+54,12956,25,Oakdale Rd. & Celeste Dr.,"24/, 32/, 37/"
+54,12957,26,Oakdale Rd. & Lancey Dr.,"32/, 37/"
+54,12958,27,Oakdale & Orangeburg,"25/, 37/"
+54,758971,28,Va Clinic - Oakdale Rd. & Morningside Dr.,"25/, 37/"
+54,12959,29,Oakdale Rd. & Wylie Dr.,37/
+54,12960,30,Oakdale & Scenic ,37/
+54,12961,31,El Vista Ave. & Edgebrook Dr.,37/
+54,12962,32,El Vista Ave. & Moran Ave.,37/
+54,12963,33,El Vista Ave. & Roble Ave.,37/
+54,12964,34,El Vista & Miller ,37/
+54,12913,35,Tenaya Dr. & Spenker Ave.,"37/, 39/"
+54,12914,36,Yosemite & Rosina,"37/, 39/"
+54,12835,37,Yosemite & Santa Ana,"37/, 38/, 39/"
+54,12836,38,Yosemite Blvd. & Las Flores Ave.,"37/, 38/, 39/"
+54,12837,39,Yosemite Blvd. & Groveland St.,"37/, 38/, 39/"
+54,12838,40,D St. & 13th St.,"37/, 38/, 39/"
+54,12839,41,10th St. & F St.,"37/, 39/"
+54,12550,42,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+55,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+55,12716,2,9th St. & G St.,"29/, 38/"
+55,2332338,3,D St. & 10th St,38/
+55,12815,4,D St. & Yosemite Blvd.,"37/, 38/, 39/"
+55,12816,5,Yosemite Blvd. & Morton Blvd.,"37/, 38/, 39/"
+55,12817,6,Yosemite Blvd. & Santa Rosa Ave.,"37/, 38/, 39/"
+55,12818,7,Yosemite Blvd. & Santa Rita Ave.,"37/, 38/, 39/"
+55,12819,8,Santa Cruz Ave. & Yosemite Blvd.,"37/, 38/, 39/"
+55,12820,9,Yosemite Blvd. & Kerr Ave.,"37/, 38/, 39/"
+55,12821,10,Empire & Yosemite,"37/, 38/, 39/"
+55,12822,11,Empire & Yosemite,"38/, 39/"
+55,12823,12,Empire Ave. & Mono Dr.,"38/, 39/"
+55,12824,13,Empire Ave. & Tenaya Dr.,38/
+55,12825,14,Empire Ave. & Oregon Dr.,38/
+55,12826,15,Empire Ave. & Monterey Ave.,38/
+55,12827,16,Monterey Ave. & Kerr Ave.,38/
+55,12828,17,Monterey Ave. & Santa Cruz Ave.,38/
+55,12829,18,Santa Cruz Ave. & Larkin Ave.,38/
+55,12832,19,Santa Cruz Ave. & Oregon Dr.,38/
+55,12833,20,Santa Cruz Ave. & Tenaya Dr.,38/
+55,12834,21,Santa Cruz Ave. & Yosemite Blvd.,38/
+55,12835,22,Yosemite & Santa Ana,"37/, 38/, 39/"
+55,12836,23,Yosemite Blvd. & Las Flores Ave.,"37/, 38/, 39/"
+55,12837,24,Yosemite Blvd. & Groveland St.,"37/, 38/, 39/"
+55,12838,25,D St. & 13th St.,"37/, 38/, 39/"
+55,12550,26,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+56,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+56,12716,2,9th St. & G St.,"29/, 38/"
+56,2332338,3,D St. & 10th St,38/
+56,12815,4,D St. & Yosemite Blvd.,"37/, 38/, 39/"
+56,12816,5,Yosemite Blvd. & Morton Blvd.,"37/, 38/, 39/"
+56,12817,6,Yosemite Blvd. & Santa Rosa Ave.,"37/, 38/, 39/"
+56,12818,7,Yosemite Blvd. & Santa Rita Ave.,"37/, 38/, 39/"
+56,12819,8,Santa Cruz Ave. & Yosemite Blvd.,"37/, 38/, 39/"
+56,12820,9,Yosemite Blvd. & Kerr Ave.,"37/, 38/, 39/"
+56,12821,10,Empire & Yosemite,"37/, 38/, 39/"
+56,12822,11,Empire & Yosemite,"38/, 39/"
+56,12823,12,Empire Ave. & Mono Dr.,"38/, 39/"
+56,12824,13,Empire Ave. & Tenaya Dr.,38/
+56,12825,14,Empire Ave. & Oregon Dr.,38/
+56,12826,15,Empire Ave. & Monterey Ave.,38/
+56,12827,16,Monterey Ave. & Kerr Ave.,38/
+56,12828,17,Monterey Ave. & Santa Cruz Ave.,38/
+56,12829,18,Santa Cruz Ave. & Larkin Ave.,38/
+56,12832,19,Santa Cruz Ave. & Oregon Dr.,38/
+56,12833,20,Santa Cruz Ave. & Tenaya Dr.,38/
+56,12834,21,Santa Cruz Ave. & Yosemite Blvd.,38/
+56,12835,22,Yosemite & Santa Ana,"37/, 38/, 39/"
+56,12836,23,Yosemite Blvd. & Las Flores Ave.,"37/, 38/, 39/"
+56,12837,24,Yosemite Blvd. & Groveland St.,"37/, 38/, 39/"
+56,12838,25,D St. & 13th St.,"37/, 38/, 39/"
+56,12550,26,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+57,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+57,12716,2,9th St. & G St.,"29/, 38/"
+57,2332338,3,D St. & 10th St,38/
+57,12815,4,D St. & Yosemite Blvd.,"37/, 38/, 39/"
+57,12816,5,Yosemite Blvd. & Morton Blvd.,"37/, 38/, 39/"
+57,12817,6,Yosemite Blvd. & Santa Rosa Ave.,"37/, 38/, 39/"
+57,12818,7,Yosemite Blvd. & Santa Rita Ave.,"37/, 38/, 39/"
+57,12819,8,Santa Cruz Ave. & Yosemite Blvd.,"37/, 38/, 39/"
+57,12820,9,Yosemite Blvd. & Kerr Ave.,"37/, 38/, 39/"
+57,12821,10,Empire & Yosemite,"37/, 38/, 39/"
+57,12822,11,Empire & Yosemite,"38/, 39/"
+57,12823,12,Empire Ave. & Mono Dr.,"38/, 39/"
+57,12824,13,Empire Ave. & Tenaya Dr.,38/
+57,12825,14,Empire Ave. & Oregon Dr.,38/
+57,12826,15,Empire Ave. & Monterey Ave.,38/
+57,12827,16,Monterey Ave. & Kerr Ave.,38/
+57,12828,17,Monterey Ave. & Santa Cruz Ave.,38/
+57,12829,18,Santa Cruz Ave. & Larkin Ave.,38/
+57,12832,19,Santa Cruz Ave. & Oregon Dr.,38/
+57,12833,20,Santa Cruz Ave. & Tenaya Dr.,38/
+57,12834,21,Santa Cruz Ave. & Yosemite Blvd.,38/
+57,12835,22,Yosemite & Santa Ana,"37/, 38/, 39/"
+57,12836,23,Yosemite Blvd. & Las Flores Ave.,"37/, 38/, 39/"
+57,12837,24,Yosemite Blvd. & Groveland St.,"37/, 38/, 39/"
+57,12838,25,D St. & 13th St.,"37/, 38/, 39/"
+57,12550,26,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+58,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+58,12758,2,10th St & H St.,"25/, 34/, 37/, 39/"
+58,12815,3,D St. & Yosemite Blvd.,"37/, 38/, 39/"
+58,12816,4,Yosemite Blvd. & Morton Blvd.,"37/, 38/, 39/"
+58,12817,5,Yosemite Blvd. & Santa Rosa Ave.,"37/, 38/, 39/"
+58,12818,6,Yosemite Blvd. & Santa Rita Ave.,"37/, 38/, 39/"
+58,12819,7,Santa Cruz Ave. & Yosemite Blvd.,"37/, 38/, 39/"
+58,12820,8,Yosemite Blvd. & Kerr Ave.,"37/, 38/, 39/"
+58,12821,9,Empire & Yosemite,"37/, 38/, 39/"
+58,12894,10,Yosemite Blvd. & Beard Ave.,"25/, 39/"
+58,12895,11,Yosemite & Lincoln ,39/
+58,12896,12,Yosemite Blvd. & McClure Rd.,39/
+58,12898,13,Yosemite Blvd. & Abbie St.,39/
+58,12899,14,1st St. & I St.,39/
+58,12900,15,G St. & Yosemite Blvd.,39/
+58,12898,16,Yosemite Blvd. & Abbie St.,39/
+58,12901,17,Abbie St. between Yosemite & South,39/
+58,12902,18,South & Santa Fe ,39/
+58,12903,19,Santa Fe Ave. & Yosemite Blvd.,39/
+58,12904,20,Arco,39/
+58,12905,21,Yosemite Blvd. & Holiday Manor MHP,39/
+58,12906,22,Yosemite Blvd. & Creekwood Dr.,39/
+58,12907,23,Yosemite & Lincoln ,"25/, 39/"
+58,12914,24,Yosemite & Rosina,"37/, 39/"
+58,12835,25,Yosemite & Santa Ana,"37/, 38/, 39/"
+58,12836,26,Yosemite Blvd. & Las Flores Ave.,"37/, 38/, 39/"
+58,12837,27,Yosemite Blvd. & Groveland St.,"37/, 38/, 39/"
+58,12838,28,D St. & 13th St.,"37/, 38/, 39/"
+58,12839,29,10th St. & F St.,"37/, 39/"
+58,12550,30,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+59,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+59,12840,2,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+60,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+60,12840,2,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+61,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+61,12863,2,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+61,12550,3,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+62,12840,1,Mall Back Entrance,"25/, 30/, 31/, 36/, 37/, 41/"
+62,12863,2,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+62,12550,3,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+63,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+63,12965,2,Crows Landing Rd. & School Ave.,42/
+63,12966,3,Crows Landing Rd. & Hatch Rd.,42/
+63,12967,4,Crows Landing Rd. & Amador Ave.,42/
+63,12968,5,Crows Landing Rd. between Butte & Colusa,42/
+63,12969,6,Crows Landing Rd. & Glenn Ave.,42/
+63,12970,7,Crows Landing Rd. & Algen Ave.,42/
+63,12971,8,Crows Landing Rd. & Whitmore Ave.,42/
+63,12972,9,Crows Landing Rd. & Hackett Rd.,42/
+63,12973,10,CSA Public Safety Center,42/
+63,12974,11,Community Services Agency,42/
+63,12975,12,Whitmore Ave. & Crows Landing Rd.,42/
+63,12976,13,Whitmore Ave. & Trevose Dr.,42/
+63,12977,14,Whitmore Ave. & Dallas St.,42/
+63,12978,15,Whitmore Ave. & Ustick Rd.,42/
+63,12979,16,Tucson Ave. & Whitmore Ave.,42/
+63,12980,17,Tucson Ave. & Placer Ave.,42/
+63,12981,18,Tucson Ave. & Lassen Ave.,42/
+63,12982,19,Tucson Ave. & Glenn Ave.,42/
+63,12983,20,Glenn Ave. & Ustick Rd.,42/
+63,12984,21,Glenn Ave. & Frazier St.,42/
+63,12985,22,Glenn Ave. & Dallas St.,42/
+63,12986,23,Dallas St. & Butte Ave.,42/
+63,12987,24,Dallas St. & Hatch Rd.,42/
+63,12988,25,Hatch Rd. between Cascade & Canal,42/
+63,12989,26,Hatch Rd. & Crows Landing Rd.,42/
+63,12990,27,Hatch Rd. & Jim Way,42/
+63,12991,28,Hatch Rd. & Church Ln.,42/
+63,12743,29,Herndon Rd. & Hatch Rd.,"29/, 42/"
+63,12992,30,Joyce Ave. & Herndon Rd.,42/
+63,12550,31,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+64,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+64,12965,2,Crows Landing Rd. & School Ave.,42/
+64,12966,3,Crows Landing Rd. & Hatch Rd.,42/
+64,12967,4,Crows Landing Rd. & Amador Ave.,42/
+64,12968,5,Crows Landing Rd. between Butte & Colusa,42/
+64,12969,6,Crows Landing Rd. & Glenn Ave.,42/
+64,12970,7,Crows Landing Rd. & Algen Ave.,42/
+64,12971,8,Crows Landing Rd. & Whitmore Ave.,42/
+64,12972,9,Crows Landing Rd. & Hackett Rd.,42/
+64,12973,10,CSA Public Safety Center,42/
+64,12974,11,Community Services Agency,42/
+64,12975,12,Whitmore Ave. & Crows Landing Rd.,42/
+64,12976,13,Whitmore Ave. & Trevose Dr.,42/
+64,12977,14,Whitmore Ave. & Dallas St.,42/
+64,12978,15,Whitmore Ave. & Ustick Rd.,42/
+64,12979,16,Tucson Ave. & Whitmore Ave.,42/
+64,12980,17,Tucson Ave. & Placer Ave.,42/
+64,12981,18,Tucson Ave. & Lassen Ave.,42/
+64,12982,19,Tucson Ave. & Glenn Ave.,42/
+64,12983,20,Glenn Ave. & Ustick Rd.,42/
+64,12984,21,Glenn Ave. & Frazier St.,42/
+64,12985,22,Glenn Ave. & Dallas St.,42/
+64,12986,23,Dallas St. & Butte Ave.,42/
+64,12987,24,Dallas St. & Hatch Rd.,42/
+64,12988,25,Hatch Rd. between Cascade & Canal,42/
+64,12989,26,Hatch Rd. & Crows Landing Rd.,42/
+64,12990,27,Hatch Rd. & Jim Way,42/
+64,12991,28,Hatch Rd. & Church Ln.,42/
+64,12743,29,Herndon Rd. & Hatch Rd.,"29/, 42/"
+64,12992,30,Joyce Ave. & Herndon Rd.,42/
+64,12550,31,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+65,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+65,12965,2,Crows Landing Rd. & School Ave.,42/
+65,12966,3,Crows Landing Rd. & Hatch Rd.,42/
+65,12967,4,Crows Landing Rd. & Amador Ave.,42/
+65,12968,5,Crows Landing Rd. between Butte & Colusa,42/
+65,12969,6,Crows Landing Rd. & Glenn Ave.,42/
+65,12970,7,Crows Landing Rd. & Algen Ave.,42/
+65,12971,8,Crows Landing Rd. & Whitmore Ave.,42/
+65,12972,9,Crows Landing Rd. & Hackett Rd.,42/
+65,12973,10,CSA Public Safety Center,42/
+65,12974,11,Community Services Agency,42/
+65,12975,12,Whitmore Ave. & Crows Landing Rd.,42/
+65,12976,13,Whitmore Ave. & Trevose Dr.,42/
+65,12977,14,Whitmore Ave. & Dallas St.,42/
+65,12978,15,Whitmore Ave. & Ustick Rd.,42/
+65,12979,16,Tucson Ave. & Whitmore Ave.,42/
+65,12980,17,Tucson Ave. & Placer Ave.,42/
+65,12981,18,Tucson Ave. & Lassen Ave.,42/
+65,12982,19,Tucson Ave. & Glenn Ave.,42/
+65,12983,20,Glenn Ave. & Ustick Rd.,42/
+65,12984,21,Glenn Ave. & Frazier St.,42/
+65,12985,22,Glenn Ave. & Dallas St.,42/
+65,12986,23,Dallas St. & Butte Ave.,42/
+65,12987,24,Dallas St. & Hatch Rd.,42/
+65,12988,25,Hatch Rd. between Cascade & Canal,42/
+65,12989,26,Hatch Rd. & Crows Landing Rd.,42/
+65,12990,27,Hatch Rd. & Jim Way,42/
+65,12991,28,Hatch Rd. & Church Ln.,42/
+65,12743,29,Herndon Rd. & Hatch Rd.,"29/, 42/"
+65,12992,30,Joyce Ave. & Herndon Rd.,42/
+65,12550,31,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+66,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+66,12551,2,I St. & 7th St.,"21/, 26/, 36/, 43/"
+66,12552,3,H St. & 4th St.,"21/, /21RX, 36/, 43/"
+66,12554,4,H St. & 2nd St.,"21/, /21RX, 43/"
+66,12553,5,Modesto HS - Paradise Rd. & Washington St.,"21/, /21RX, 43/"
+66,12555,6,Paradise Rd. & Ash St.,"21/, /21RX, 43/"
+66,13317,7,Paradise/Sutter (Paradise Medical),"/21RX, 43/"
+66,13318,8,Paradise Rd. & Florette Ave.,"/21RX, 43/"
+66,13319,9,Paradise Rd. & Mayette Ave.,"/21RX, 43/"
+66,13321,10,Paradise Rd. & Pine Tree Ln.,"/21RX, 43/"
+66,13320,11,Paradise Rd. & Vernon Ave.,"/21RX, 43/"
+66,13322,12,Carpenter Rd. & Paradise Rd.,43/
+66,12850,13,Carpenter Rd. & Beverly Dr.,"36/, 43/"
+66,12851,14,Carpenter Rd. & Chicago Ave.,"36/, 43/"
+66,12589,15,Carpenter Rd. & Houser Ln.,"26/, 36/, 43/"
+66,13323,16,California Ave. & Champagne Ln.,43/
+66,13324,17,California Ave. & Panama Dr.,43/
+66,13325,18,California Ave. & Spencer Ave.,43/
+66,16247,19,California Eb Martin Luther King Ns,43/
+66,13326,20,Madison St. & Vine St.,43/
+66,13327,21,I St. & 2nd St.,"/21RX, 43/"
+66,13328,22,I St. & 4th St.,"/21RX, 43/"
+66,12550,23,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+67,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+67,12551,2,I St. & 7th St.,"21/, 26/, 36/, 43/"
+67,12552,3,H St. & 4th St.,"21/, /21RX, 36/, 43/"
+67,12554,4,H St. & 2nd St.,"21/, /21RX, 43/"
+67,12553,5,Modesto HS - Paradise Rd. & Washington St.,"21/, /21RX, 43/"
+67,12555,6,Paradise Rd. & Ash St.,"21/, /21RX, 43/"
+67,13317,7,Paradise/Sutter (Paradise Medical),"/21RX, 43/"
+67,13318,8,Paradise Rd. & Florette Ave.,"/21RX, 43/"
+67,13319,9,Paradise Rd. & Mayette Ave.,"/21RX, 43/"
+67,13321,10,Paradise Rd. & Pine Tree Ln.,"/21RX, 43/"
+67,13320,11,Paradise Rd. & Vernon Ave.,"/21RX, 43/"
+67,13322,12,Carpenter Rd. & Paradise Rd.,43/
+67,12850,13,Carpenter Rd. & Beverly Dr.,"36/, 43/"
+67,12851,14,Carpenter Rd. & Chicago Ave.,"36/, 43/"
+67,12589,15,Carpenter Rd. & Houser Ln.,"26/, 36/, 43/"
+67,13323,16,California Ave. & Champagne Ln.,43/
+67,13324,17,California Ave. & Panama Dr.,43/
+67,13325,18,California Ave. & Spencer Ave.,43/
+67,16247,19,California Eb Martin Luther King Ns,43/
+67,13326,20,Madison St. & Vine St.,43/
+67,13327,21,I St. & 2nd St.,"/21RX, 43/"
+67,13328,22,I St. & 4th St.,"/21RX, 43/"
+67,12550,23,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+68,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+68,12551,2,I St. & 7th St.,"21/, 26/, 36/, 43/"
+68,12552,3,H St. & 4th St.,"21/, /21RX, 36/, 43/"
+68,12554,4,H St. & 2nd St.,"21/, /21RX, 43/"
+68,12553,5,Modesto HS - Paradise Rd. & Washington St.,"21/, /21RX, 43/"
+68,12555,6,Paradise Rd. & Ash St.,"21/, /21RX, 43/"
+68,13317,7,Paradise/Sutter (Paradise Medical),"/21RX, 43/"
+68,13318,8,Paradise Rd. & Florette Ave.,"/21RX, 43/"
+68,13319,9,Paradise Rd. & Mayette Ave.,"/21RX, 43/"
+68,13321,10,Paradise Rd. & Pine Tree Ln.,"/21RX, 43/"
+68,13320,11,Paradise Rd. & Vernon Ave.,"/21RX, 43/"
+68,13322,12,Carpenter Rd. & Paradise Rd.,43/
+68,12850,13,Carpenter Rd. & Beverly Dr.,"36/, 43/"
+68,12851,14,Carpenter Rd. & Chicago Ave.,"36/, 43/"
+68,12589,15,Carpenter Rd. & Houser Ln.,"26/, 36/, 43/"
+68,13323,16,California Ave. & Champagne Ln.,43/
+68,13324,17,California Ave. & Panama Dr.,43/
+68,13325,18,California Ave. & Spencer Ave.,43/
+68,16247,19,California Eb Martin Luther King Ns,43/
+68,13326,20,Madison St. & Vine St.,43/
+68,13327,21,I St. & 2nd St.,"/21RX, 43/"
+68,13328,22,I St. & 4th St.,"/21RX, 43/"
+68,12550,23,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+69,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+69,13158,2,J St. & 12th St.,"22/, 23/"
+69,13159,3,J St. & 14th St.,"22/, 23/"
+69,13160,4,J St. & 16th St.,"22/, 23/"
+69,13161,5,McHenry Ave. & Jones St.,"22/, 23/"
+69,13162,6,McHenry Ave. & Almond Ave.,"22/, 23/"
+69,768647,7,McHenry Ave. & Morris Ave.,"22/, 23/"
+69,13164,8,McHenry Ave. & Frances Ave.,"22/, 23/"
+69,13165,9,McHenry Ave. & Hintze Ave.,"22/, 23/"
+69,13166,10,McHenry Ave. & Fairmont Ave.,"22/, 23/"
+69,13167,11,McHenry Ave. & Roseburg Ave.,"22/, 23/"
+69,13168,12,McHenry Ave. & Orangeburg Ave.,"22/, 23/"
+69,13169,13,McHenry Ave. & Coolidge Ave.,"22/, 23/"
+69,12662,14,McHenry Village - McHenry & Granger,"22/, 23/, 24/"
+69,12614,15,McHenry Ave. & Norwegian Ave.,"22/, 23/, 27/"
+69,12615,16,McHenry Ave. & Tokay Ave.,"22/, 23/, 27/"
+69,12616,17,McHenry Ave. & Mark Randy Pl.,"22/, 23/, 27/"
+69,12617,18,McHenry Ave. & Sheila Ct.,"22/, 23/, 27/"
+69,12618,19,McHenry Ave. & Floyd Ave. (Northbound),"22/, 23/, 27/"
+69,12619,20,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/, 37/"
+69,12620,21,McHenry Ave. & Robinhood Dr.,"22/, 23/, 27/, 37/"
+69,12621,22,McHenry Ave. & Sylvan Ave.,"22/, 23/, 27/"
+69,12622,23,McHenry Ave. & Warren Way,"22/, 23/, 27/"
+69,12623,24,McHenry Ave. & Coralwood Rd.,"22/, 23/, 27/"
+70,12623,1,McHenry Ave. & Coralwood Rd.,"22/, 23/, 27/"
+70,12624,2,McHenry Ave. & Grecian Ave.,"22/, 23/, 27/"
+70,13335,3,McHenry Ave. & Auto Center,"22/, 23/"
+70,12626,4,Bangs Ave. & Spyres Way,"22/, 23/, 27/"
+70,12627,5,Bangs Ave. & Northstar Way,"22/, 23/, 27/"
+70,831949,6,Lyell Dr. & Northstar Way,23/
+70,12635,7,McHenry Ave. & Pelandale Ave.,"22/, 23/, 27/"
+70,13365,8,McHenry Ave. & Coralwood Rd.,"23/, 27/"
+70,12636,9,McHenry Ave. & Union Ave.,"22/, 23/, 27/"
+70,12637,10,McHenry Ave. & Standiford Ave.,"22/, 23/, 27/, 37/"
+70,12638,11,McHenry Ave. & Woodrow Ave.,"22/, 23/, 27/, 37/"
+70,12639,12,McHenry Ave. & Rumble Rd.,"22/, 23/, 27/"
+70,12640,13,McHenry Ave. & Floyd Ave.,"22/, 23/, 27/"
+70,13180,14,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+70,12641,15,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+70,12803,16,McHenry Village - McHenry & Granger,"22/, 23/, 34/"
+70,12804,17,McHenry Ave. & Coolidge Ave.,"22/, 23/, 34/"
+70,13300,18,McHenry Ave. & Orangeburg Ave.,"22/, 23/"
+70,13181,19,McHenry Ave. between Roseburg & Mensinger,"22/, 23/"
+70,13182,20,McHenry Ave. & Fairmont Ave.,"22/, 23/"
+70,13183,21,McHenry Ave. & Griswold Ave.,"22/, 23/"
+70,13184,22,McHenry Ave. & Maynell Ave.,"22/, 23/"
+70,13302,23,McHenry Ave. & Morris Ave.,"22/, 23/"
+70,13185,24,McHenry Ave. & Stoddard Ave.,"22/, 23/"
+70,13186,25,McHenry Ave. & Needham St.,"22/, 23/"
+70,13187,26,J St. & 15th St.,"22/, 23/"
+70,13188,27,J St. & 13th St.,"22/, 23/"
+70,13189,28,J St. & 11th St.,"22/, 23/"
+70,12550,29,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+71,13350,1,Bacon Rd. & Toomes Rd.,28/
+71,13351,2,Toomes Rd. & San Tropez Dr.,28/
+71,13352,3,Toomes Rd. & Covert Rd.,28/
+71,13353,4,Covert Rd. & Overland Pl.,28/
+71,13354,5,Covert Rd. & St Jean Pl.,28/
+71,13347,6,Sequoia St. & Shearer Ave.,28/
+71,13111,7,Elm St. & Broadway Ave.,28/
+71,13112,8,Kiernan Ave. & Sisk Rd.,28/
+71,13360,9,Kiernan Ave. & Nutcracker Ln.,28/
+71,13355,10,Gregori High School,28/
+71,13356,11,Gregori High School (Pirrone Rd. & Stoddard Rd.),28/
+71,13119,12,Kaiser Hospital Southbound,28/
+71,13066,13,Dale Rd. & Pelandale Ave.,"28/, 31/"
+71,13067,14,Dale Rd. & Snyder Ave.,"28/, 31/"
+71,13068,15,Dale Rd. & Nightingale Dr.,"28/, 31/"
+71,12863,16,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+72,12672,1,Sylvan & Boyce Beyer HS,"24/, 32/, 37/"
+72,12673,2,Sylvan Ave. & Hasham Dr.,"24/, 32/, 37/"
+72,12955,3,Oakdale Rd. & Sylvan Ave.,"32/, 37/"
+72,13332,4,Oakdale Rd. & La Force Dr.,"32/, 37/"
+72,13138,5,Oakdale & Floyd ,32/
+72,13139,6,Floyd Ave. & Marina Dr.,32/
+72,13140,7,Floyd Ave. & Rose Ave.,32/
+72,13145,8,Floyd Ave. & Keller St.,32/
+72,13146,9,Floyd Ave. & Vera Cruz Dr.,32/
+72,13147,10,Coffee Rd. & Floyd Ave.,32/
+72,13148,11,Coffee Rd. & Athens Ave.,32/
+72,13149,12,Coffee Rd. & Norwegian Ave.,32/
+72,13151,13,Coffee Rd. & Coolidge Ave.,32/
+72,13152,14,Coffee Rd. & Orangeburg Ave.,32/
+72,13153,15,Coffee Rd. & Gloria Way,32/
+72,13154,16,Coffee & Fairmont (Downey High),32/
+72,13155,17,Coffee Rd. & Locke Rd.,32/
+72,13156,18,Coffee Rd. & Lucern Ave.,32/
+72,13157,19,Coffee Rd. & Scenic Dr.,32/
+72,12707,20,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+72,12708,21,I St. & 17th St.,"24/, 32/"
+72,12709,22,I St. & 16th St.,"24/, 32/"
+72,12710,23,I St. & 14th St.,"24/, 32/"
+72,12711,24,I St. & 11th St.,"24/, 32/"
+72,12550,25,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+73,12641,1,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+73,12803,2,McHenry Village - McHenry & Granger,"22/, 23/, 34/"
+73,12804,3,McHenry Ave. & Coolidge Ave.,"22/, 23/, 34/"
+73,12805,4,Orangeburg Ave. & McHenry Ave.,"25/, 34/"
+73,12806,5,Orangeburg Ave. & Nelson Ave.,"25/, 34/"
+73,12807,6,Orangeburg & Sunrise (Elliott Ed Ctr),34/
+73,12808,7,Sunrise Ave. & Palm Ave.,34/
+73,12809,8,Sunrise Ave. & Burke Ave.,34/
+73,12810,9,Bodem St. & Lucern Ave.,34/
+73,12707,10,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+73,12811,11,H St. & 17th St.,"25/, 34/"
+73,12812,12,H St. & 15th St.,"25/, 34/"
+73,12813,13,H St. & 13th St.,"25/, 34/"
+73,12814,14,H St. & 11th St.,"25/, 34/"
+73,12550,15,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+74,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+74,12758,2,10th St & H St.,"25/, 34/, 37/, 39/"
+74,12815,3,D St. & Yosemite Blvd.,"37/, 38/, 39/"
+74,12816,4,Yosemite Blvd. & Morton Blvd.,"37/, 38/, 39/"
+74,12817,5,Yosemite Blvd. & Santa Rosa Ave.,"37/, 38/, 39/"
+74,12818,6,Yosemite Blvd. & Santa Rita Ave.,"37/, 38/, 39/"
+74,12819,7,Santa Cruz Ave. & Yosemite Blvd.,"37/, 38/, 39/"
+74,12820,8,Yosemite Blvd. & Kerr Ave.,"37/, 38/, 39/"
+74,12821,9,Empire & Yosemite,"37/, 38/, 39/"
+74,12822,10,Empire & Yosemite,"38/, 39/"
+74,12823,11,Empire Ave. & Mono Dr.,"38/, 39/"
+74,12886,12,Tenaya Dr. & Daly Ave.,39/
+74,12887,13,Tenaya Dr. & Airport Way,"37/, 39/"
+74,12888,14,Tenaya Dr. & Signature Office,39/
+74,12889,15,Tenaya Dr. between Mitchell & Riverside,39/
+74,12890,16,Tenaya & Riverside,39/
+74,12891,17,Finch Rd. at Signature Plant 7,39/
+74,12892,18,Finch Rd. & Mariposa Rd.,39/
+74,12893,19,Garner & Yosemite,39/
+74,12898,20,Yosemite Blvd. & Abbie St.,39/
+74,12899,21,1st St. & I St.,39/
+74,12900,22,G St. & Yosemite Blvd.,39/
+74,12898,23,Yosemite Blvd. & Abbie St.,39/
+74,12901,24,Abbie St. between Yosemite & South,39/
+74,12902,25,South & Santa Fe ,39/
+74,12903,26,Santa Fe Ave. & Yosemite Blvd.,39/
+74,12904,27,Arco,39/
+74,12905,28,Yosemite Blvd. & Holiday Manor MHP,39/
+74,12897,29,Johansen HS - Creekwood Dr. & Claus Rd.,39/
+74,12906,30,Yosemite Blvd. & Creekwood Dr.,39/
+74,12907,31,Yosemite & Lincoln ,"25/, 39/"
+74,12908,32,Riverside Dr. & Lapham Dr.,39/
+74,12909,33,Riverside Dr. & Nathan Ave.,39/
+74,12910,34,Tenaya & Riverside,39/
+74,12911,35,Tenaya Dr. between Riverside & Mitchell,39/
+74,12912,36,Tenaya Dr. & Mitchell Rd.,39/
+74,12913,37,Tenaya Dr. & Spenker Ave.,"37/, 39/"
+74,12914,38,Yosemite & Rosina,"37/, 39/"
+74,12835,39,Yosemite & Santa Ana,"37/, 38/, 39/"
+74,12836,40,Yosemite Blvd. & Las Flores Ave.,"37/, 38/, 39/"
+74,12837,41,Yosemite Blvd. & Groveland St.,"37/, 38/, 39/"
+74,12838,42,D St. & 13th St.,"37/, 38/, 39/"
+74,12839,43,10th St. & F St.,"37/, 39/"
+74,12550,44,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+75,13350,1,Bacon Rd. & Toomes Rd.,28/
+75,13351,2,Toomes Rd. & San Tropez Dr.,28/
+75,13352,3,Toomes Rd. & Covert Rd.,28/
+75,13353,4,Covert Rd. & Overland Pl.,28/
+75,13354,5,Covert Rd. & St Jean Pl.,28/
+75,13347,6,Sequoia St. & Shearer Ave.,28/
+75,13111,7,Elm St. & Broadway Ave.,28/
+75,13112,8,Kiernan Ave. & Sisk Rd.,28/
+75,13360,9,Kiernan Ave. & Nutcracker Ln.,28/
+75,13355,10,Gregori High School,28/
+75,13356,11,Gregori High School (Pirrone Rd. & Stoddard Rd.),28/
+75,13119,12,Kaiser Hospital Southbound,28/
+75,13066,13,Dale Rd. & Pelandale Ave.,"28/, 31/"
+75,13067,14,Dale Rd. & Snyder Ave.,"28/, 31/"
+75,13068,15,Dale Rd. & Nightingale Dr.,"28/, 31/"
+75,12863,16,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+76,12672,1,Sylvan & Boyce Beyer HS,"24/, 32/, 37/"
+76,12673,2,Sylvan Ave. & Hasham Dr.,"24/, 32/, 37/"
+76,12955,3,Oakdale Rd. & Sylvan Ave.,"32/, 37/"
+76,13332,4,Oakdale Rd. & La Force Dr.,"32/, 37/"
+76,13138,5,Oakdale & Floyd ,32/
+76,13139,6,Floyd Ave. & Marina Dr.,32/
+76,13140,7,Floyd Ave. & Rose Ave.,32/
+76,13145,8,Floyd Ave. & Keller St.,32/
+76,13146,9,Floyd Ave. & Vera Cruz Dr.,32/
+76,13147,10,Coffee Rd. & Floyd Ave.,32/
+76,13148,11,Coffee Rd. & Athens Ave.,32/
+76,13149,12,Coffee Rd. & Norwegian Ave.,32/
+76,13151,13,Coffee Rd. & Coolidge Ave.,32/
+76,13152,14,Coffee Rd. & Orangeburg Ave.,32/
+76,13153,15,Coffee Rd. & Gloria Way,32/
+76,13154,16,Coffee & Fairmont (Downey High),32/
+76,13155,17,Coffee Rd. & Locke Rd.,32/
+76,13156,18,Coffee Rd. & Lucern Ave.,32/
+76,13157,19,Coffee Rd. & Scenic Dr.,32/
+76,12707,20,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+76,12708,21,I St. & 17th St.,"24/, 32/"
+76,12709,22,I St. & 16th St.,"24/, 32/"
+76,12710,23,I St. & 14th St.,"24/, 32/"
+76,12711,24,I St. & 11th St.,"24/, 32/"
+76,12550,25,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+77,12641,1,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+77,12803,2,McHenry Village - McHenry & Granger,"22/, 23/, 34/"
+77,12804,3,McHenry Ave. & Coolidge Ave.,"22/, 23/, 34/"
+77,12805,4,Orangeburg Ave. & McHenry Ave.,"25/, 34/"
+77,12806,5,Orangeburg Ave. & Nelson Ave.,"25/, 34/"
+77,12807,6,Orangeburg & Sunrise (Elliott Ed Ctr),34/
+77,12808,7,Sunrise Ave. & Palm Ave.,34/
+77,12809,8,Sunrise Ave. & Burke Ave.,34/
+77,12810,9,Bodem St. & Lucern Ave.,34/
+77,12707,10,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+77,12811,11,H St. & 17th St.,"25/, 34/"
+77,12812,12,H St. & 15th St.,"25/, 34/"
+77,12813,13,H St. & 13th St.,"25/, 34/"
+77,12814,14,H St. & 11th St.,"25/, 34/"
+77,12550,15,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+78,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+78,12758,2,10th St & H St.,"25/, 34/, 37/, 39/"
+78,12815,3,D St. & Yosemite Blvd.,"37/, 38/, 39/"
+78,12816,4,Yosemite Blvd. & Morton Blvd.,"37/, 38/, 39/"
+78,12817,5,Yosemite Blvd. & Santa Rosa Ave.,"37/, 38/, 39/"
+78,12818,6,Yosemite Blvd. & Santa Rita Ave.,"37/, 38/, 39/"
+78,12819,7,Santa Cruz Ave. & Yosemite Blvd.,"37/, 38/, 39/"
+78,12820,8,Yosemite Blvd. & Kerr Ave.,"37/, 38/, 39/"
+78,12821,9,Empire & Yosemite,"37/, 38/, 39/"
+78,12822,10,Empire & Yosemite,"38/, 39/"
+78,12823,11,Empire Ave. & Mono Dr.,"38/, 39/"
+78,12886,12,Tenaya Dr. & Daly Ave.,39/
+78,12887,13,Tenaya Dr. & Airport Way,"37/, 39/"
+78,12888,14,Tenaya Dr. & Signature Office,39/
+78,12889,15,Tenaya Dr. between Mitchell & Riverside,39/
+78,12890,16,Tenaya & Riverside,39/
+78,12891,17,Finch Rd. at Signature Plant 7,39/
+78,12892,18,Finch Rd. & Mariposa Rd.,39/
+78,12893,19,Garner & Yosemite,39/
+78,12898,20,Yosemite Blvd. & Abbie St.,39/
+78,12899,21,1st St. & I St.,39/
+78,12900,22,G St. & Yosemite Blvd.,39/
+78,12898,23,Yosemite Blvd. & Abbie St.,39/
+78,12901,24,Abbie St. between Yosemite & South,39/
+78,12902,25,South & Santa Fe ,39/
+78,12903,26,Santa Fe Ave. & Yosemite Blvd.,39/
+78,12904,27,Arco,39/
+78,12905,28,Yosemite Blvd. & Holiday Manor MHP,39/
+78,12897,29,Johansen HS - Creekwood Dr. & Claus Rd.,39/
+78,12906,30,Yosemite Blvd. & Creekwood Dr.,39/
+78,12907,31,Yosemite & Lincoln ,"25/, 39/"
+78,12908,32,Riverside Dr. & Lapham Dr.,39/
+78,12909,33,Riverside Dr. & Nathan Ave.,39/
+78,12910,34,Tenaya & Riverside,39/
+78,12911,35,Tenaya Dr. between Riverside & Mitchell,39/
+78,12912,36,Tenaya Dr. & Mitchell Rd.,39/
+78,12913,37,Tenaya Dr. & Spenker Ave.,"37/, 39/"
+78,12914,38,Yosemite & Rosina,"37/, 39/"
+78,12835,39,Yosemite & Santa Ana,"37/, 38/, 39/"
+78,12836,40,Yosemite Blvd. & Las Flores Ave.,"37/, 38/, 39/"
+78,12837,41,Yosemite Blvd. & Groveland St.,"37/, 38/, 39/"
+78,12838,42,D St. & 13th St.,"37/, 38/, 39/"
+78,12839,43,10th St. & F St.,"37/, 39/"
+78,12550,44,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+79,13350,1,Bacon Rd. & Toomes Rd.,28/
+79,13351,2,Toomes Rd. & San Tropez Dr.,28/
+79,13352,3,Toomes Rd. & Covert Rd.,28/
+79,13353,4,Covert Rd. & Overland Pl.,28/
+79,13354,5,Covert Rd. & St Jean Pl.,28/
+79,13347,6,Sequoia St. & Shearer Ave.,28/
+79,13111,7,Elm St. & Broadway Ave.,28/
+79,13112,8,Kiernan Ave. & Sisk Rd.,28/
+79,13360,9,Kiernan Ave. & Nutcracker Ln.,28/
+79,13355,10,Gregori High School,28/
+79,13356,11,Gregori High School (Pirrone Rd. & Stoddard Rd.),28/
+79,13119,12,Kaiser Hospital Southbound,28/
+79,13066,13,Dale Rd. & Pelandale Ave.,"28/, 31/"
+79,13067,14,Dale Rd. & Snyder Ave.,"28/, 31/"
+79,13068,15,Dale Rd. & Nightingale Dr.,"28/, 31/"
+79,12863,16,Dale & Veneman (SW corner),"22/, 25/, 28/, 30/, 31/, 36/, 37/, 41/"
+80,12672,1,Sylvan & Boyce Beyer HS,"24/, 32/, 37/"
+80,12673,2,Sylvan Ave. & Hasham Dr.,"24/, 32/, 37/"
+80,12955,3,Oakdale Rd. & Sylvan Ave.,"32/, 37/"
+80,13332,4,Oakdale Rd. & La Force Dr.,"32/, 37/"
+80,13138,5,Oakdale & Floyd ,32/
+80,13139,6,Floyd Ave. & Marina Dr.,32/
+80,13140,7,Floyd Ave. & Rose Ave.,32/
+80,13145,8,Floyd Ave. & Keller St.,32/
+80,13146,9,Floyd Ave. & Vera Cruz Dr.,32/
+80,13147,10,Coffee Rd. & Floyd Ave.,32/
+80,13148,11,Coffee Rd. & Athens Ave.,32/
+80,13149,12,Coffee Rd. & Norwegian Ave.,32/
+80,13151,13,Coffee Rd. & Coolidge Ave.,32/
+80,13152,14,Coffee Rd. & Orangeburg Ave.,32/
+80,13153,15,Coffee Rd. & Gloria Way,32/
+80,13154,16,Coffee & Fairmont (Downey High),32/
+80,13155,17,Coffee Rd. & Locke Rd.,32/
+80,13156,18,Coffee Rd. & Lucern Ave.,32/
+80,13157,19,Coffee Rd. & Scenic Dr.,32/
+80,12707,20,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+80,12708,21,I St. & 17th St.,"24/, 32/"
+80,12709,22,I St. & 16th St.,"24/, 32/"
+80,12710,23,I St. & 14th St.,"24/, 32/"
+80,12711,24,I St. & 11th St.,"24/, 32/"
+80,12550,25,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+81,12641,1,McHenry Ave. & Bowen Ave.,"22/, 23/, 27/, 34/"
+81,12803,2,McHenry Village - McHenry & Granger,"22/, 23/, 34/"
+81,12804,3,McHenry Ave. & Coolidge Ave.,"22/, 23/, 34/"
+81,12805,4,Orangeburg Ave. & McHenry Ave.,"25/, 34/"
+81,12806,5,Orangeburg Ave. & Nelson Ave.,"25/, 34/"
+81,12807,6,Orangeburg & Sunrise (Elliott Ed Ctr),34/
+81,12808,7,Sunrise Ave. & Palm Ave.,34/
+81,12809,8,Sunrise Ave. & Burke Ave.,34/
+81,12810,9,Bodem St. & Lucern Ave.,34/
+81,12707,10,Scenic Dr. & Bodem St.,"24/, 32/, 34/"
+81,12811,11,H St. & 17th St.,"25/, 34/"
+81,12812,12,H St. & 15th St.,"25/, 34/"
+81,12813,13,H St. & 13th St.,"25/, 34/"
+81,12814,14,H St. & 11th St.,"25/, 34/"
+81,12550,15,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+82,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+82,12758,2,10th St & H St.,"25/, 34/, 37/, 39/"
+82,12815,3,D St. & Yosemite Blvd.,"37/, 38/, 39/"
+82,12816,4,Yosemite Blvd. & Morton Blvd.,"37/, 38/, 39/"
+82,12817,5,Yosemite Blvd. & Santa Rosa Ave.,"37/, 38/, 39/"
+82,12818,6,Yosemite Blvd. & Santa Rita Ave.,"37/, 38/, 39/"
+82,12819,7,Santa Cruz Ave. & Yosemite Blvd.,"37/, 38/, 39/"
+82,12820,8,Yosemite Blvd. & Kerr Ave.,"37/, 38/, 39/"
+82,12821,9,Empire & Yosemite,"37/, 38/, 39/"
+82,12822,10,Empire & Yosemite,"38/, 39/"
+82,12823,11,Empire Ave. & Mono Dr.,"38/, 39/"
+82,12886,12,Tenaya Dr. & Daly Ave.,39/
+82,12887,13,Tenaya Dr. & Airport Way,"37/, 39/"
+82,12888,14,Tenaya Dr. & Signature Office,39/
+82,12889,15,Tenaya Dr. between Mitchell & Riverside,39/
+82,12890,16,Tenaya & Riverside,39/
+82,12891,17,Finch Rd. at Signature Plant 7,39/
+82,12892,18,Finch Rd. & Mariposa Rd.,39/
+82,12893,19,Garner & Yosemite,39/
+82,12898,20,Yosemite Blvd. & Abbie St.,39/
+82,12899,21,1st St. & I St.,39/
+82,12900,22,G St. & Yosemite Blvd.,39/
+82,12898,23,Yosemite Blvd. & Abbie St.,39/
+82,12901,24,Abbie St. between Yosemite & South,39/
+82,12902,25,South & Santa Fe ,39/
+82,12903,26,Santa Fe Ave. & Yosemite Blvd.,39/
+82,12904,27,Arco,39/
+82,12905,28,Yosemite Blvd. & Holiday Manor MHP,39/
+82,12897,29,Johansen HS - Creekwood Dr. & Claus Rd.,39/
+82,12906,30,Yosemite Blvd. & Creekwood Dr.,39/
+82,12907,31,Yosemite & Lincoln ,"25/, 39/"
+82,12908,32,Riverside Dr. & Lapham Dr.,39/
+82,12909,33,Riverside Dr. & Nathan Ave.,39/
+82,12910,34,Tenaya & Riverside,39/
+82,12911,35,Tenaya Dr. between Riverside & Mitchell,39/
+82,12912,36,Tenaya Dr. & Mitchell Rd.,39/
+82,12913,37,Tenaya Dr. & Spenker Ave.,"37/, 39/"
+82,12914,38,Yosemite & Rosina,"37/, 39/"
+82,12835,39,Yosemite & Santa Ana,"37/, 38/, 39/"
+82,12836,40,Yosemite Blvd. & Las Flores Ave.,"37/, 38/, 39/"
+82,12837,41,Yosemite Blvd. & Groveland St.,"37/, 38/, 39/"
+82,12838,42,D St. & 13th St.,"37/, 38/, 39/"
+82,12839,43,10th St. & F St.,"37/, 39/"
+82,12550,44,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+83,13338,1,Mall Park & Ride Lot,/MAX / ACE
+83,13337,2,ACE Lathrop/Manteca Station,/MAX / ACE
+84,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+84,13338,2,Mall Park & Ride Lot,/MAX / ACE
+84,13337,3,ACE Lathrop/Manteca Station,/MAX / ACE
+84,13338,4,Mall Park & Ride Lot,/MAX / ACE
+85,12550,1,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"
+85,13359,2,Sisk Rd. Orchard Supply Hardware (OSH),/MAX / BART
+85,13336,3,Dublin/Pleasanton BART Station,/MAX / BART
+86,13336,1,Dublin/Pleasanton BART Station,/MAX / BART
+86,13359,2,Sisk Rd. Orchard Supply Hardware (OSH),/MAX / BART
+86,12550,3,Downtown Transit Center,"21/, /21RX, 22/, 23/, 24/, 25/, 26/, 27/, 29/, 30/, 31/, 32/, 33/, 34/, 36/, 37/, 38/, 39/, 41/, 42/, 43/, /MAX / ACE, /MAX / BART"

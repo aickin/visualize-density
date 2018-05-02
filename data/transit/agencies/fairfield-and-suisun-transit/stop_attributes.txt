@@ -1,0 +1,253 @@
+stop_id,stop_city
+5230,Suisun City
+5310,Fairfield
+5351,Fairfield
+5386,Fairfield
+5410,Vacaville
+5411,Vacaville
+5412,Dixon
+5413,Davis
+5414,Sacramento
+5416,Benicia
+5417,Walnut Creek
+5418,Walnut Creek
+5421,Davis
+5422,Davis
+5424,Sacramento
+5425,Sacramento
+9827,El Cerrito
+28539,Fairfield
+28540,Fairfield
+28541,Fairfield
+28542,Fairfield
+28543,Fairfield
+28544,Fairfield
+28545,Fairfield
+28546,Fairfield
+28547,Fairfield
+28548,Fairfield
+28549,Fairfield
+28550,Fairfield
+28551,Fairfield
+28552,Fairfield
+28553,Fairfield
+28554,Fairfield
+28555,Fairfield
+28556,Fairfield
+28558,Fairfield
+28559,Fairfield
+28560,Fairfield
+28561,Fairfield
+28562,Fairfield
+28563,Fairfield
+28564,Fairfield
+28565,Fairfield
+28566,Fairfield
+28567,Fairfield
+28568,Fairfield
+28569,Fairfield
+28570,Fairfield
+28571,Fairfield
+28572,Fairfield
+28573,Fairfield
+28574,Fairfield
+28575,Fairfield
+28576,Fairfield
+28577,Fairfield
+28579,Fairfield
+28580,Fairfield
+28581,Fairfield
+28582,Fairfield
+28583,Fairfield
+28584,Fairfield
+28585,Fairfield
+28586,Fairfield
+28587,Fairfield
+28588,Fairfield
+28589,Fairfield
+28590,Fairfield
+28591,Fairfield
+28592,Fairfield
+28593,Fairfield
+28594,Fairfield
+28595,Fairfield
+28596,Fairfield
+28597,Fairfield
+28598,Fairfield
+28599,Fairfield
+28600,Fairfield
+28601,Fairfield
+28602,Fairfield
+28603,Fairfield
+28604,Fairfield
+28606,Fairfield
+28607,Fairfield
+28608,Fairfield
+28609,Fairfield
+28610,Fairfield
+28611,Fairfield
+28612,Fairfield
+28613,Fairfield
+28614,Fairfield
+28615,Fairfield
+28616,Fairfield
+28617,Fairfield
+28618,Fairfield
+28619,Fairfield
+28620,Fairfield
+28621,Fairfield
+28622,Suisun City
+28623,Suisun City
+28624,Suisun City
+28625,Suisun City
+28626,Suisun City
+28627,Suisun City
+28628,Suisun City
+28629,Suisun City
+28630,Suisun City
+28631,Suisun City
+28632,Suisun City
+28633,Suisun City
+28634,Suisun City
+28635,Suisun City
+28637,Suisun City
+28638,Suisun City
+28639,Suisun City
+28641,Suisun City
+28642,Suisun City
+28643,Suisun City
+28644,Suisun City
+28645,Suisun City
+28646,Suisun City
+28647,Suisun City
+28648,Suisun City
+28649,Fairfield
+28650,Fairfield
+28651,Fairfield
+28653,Suisun City
+28654,Suisun City
+28655,Suisun City
+28656,Fairfield
+28657,Suisun City
+28658,Suisun City
+28659,Suisun City
+28660,Fairfield
+28661,Fairfield
+28662,Fairfield
+28663,Fairfield
+28664,Fairfield
+28665,Fairfield
+28666,Fairfield
+28667,Suisun City
+28668,Fairfield
+28669,Fairfield
+28670,Fairfield
+28671,Fairfield
+28672,Fairfield
+28673,Fairfield
+28674,Fairfield
+28675,Fairfield
+28676,Fairfield
+28677,Fairfield
+28678,Fairfield
+28679,Fairfield
+28680,Fairfield
+28681,Fairfield
+28682,Fairfield
+28683,Fairfield
+28684,Fairfield
+28685,Fairfield
+28686,Fairfield
+28687,Fairfield
+28688,Fairfield
+28689,Fairfield
+28690,Fairfield
+28691,Fairfield
+28692,Fairfield
+28693,Fairfield
+28694,Fairfield
+28695,Fairfield
+28696,Fairfield
+28697,Fairfield
+28698,Fairfield
+28699,Fairfield
+28700,Fairfield
+28701,Fairfield
+28702,Fairfield
+28703,Fairfield
+28704,Fairfield
+28705,Fairfield
+28706,Fairfield
+28707,Fairfield
+28708,Fairfield
+28709,Fairfield
+28710,Fairfield
+28711,Fairfield
+28712,Fairfield
+28713,Fairfield
+28714,Travis Afb
+28715,Fairfield
+28716,Fairfield
+28717,Fairfield
+28719,Fairfield
+28720,Suisun City
+28721,Suisun City
+28722,Fairfield
+28723,Fairfield
+28724,Fairfield
+28725,Travis Afb
+28726,Suisun City
+28727,Fairfield
+28728,Fairfield
+28729,Fairfield
+28730,Fairfield
+28731,Fairfield
+28732,Fairfield
+28733,Fairfield
+28734,Fairfield
+28735,Fairfield
+28736,Fairfield
+28737,Fairfield
+28738,Fairfield
+28739,Fairfield
+28740,Fairfield
+28741,Fairfield
+28742,Fairfield
+28743,Fairfield
+28744,Fairfield
+28745,Fairfield
+28746,Fairfield
+28747,Travis Afb
+28748,Travis Afb
+28749,Travis Afb
+28750,Suisun City
+28751,Travis Afb
+28752,Travis Afb
+28753,Fairfield
+28754,Suisun City
+28755,Suisun City
+28756,Suisun City
+28757,Fairfield
+28758,Suisun City
+28759,Suisun City
+28760,Fairfield
+28761,Fairfield
+28762,Fairfield
+28763,Fairfield
+795052,Suisun City
+795053,Suisun City
+795054,Suisun City
+795055,Suisun City
+795056,Suisun City
+795057,Suisun City
+795460,Fairfield
+795461,Suisun City
+795462,Sacramento
+795553,Fairfield
+795554,Sacramento
+795555,Sacramento
+805313,Fairfield
+805482,Fairfield
+807829,Benicia
+2332275,Fairfield
+2335944,Fairfield

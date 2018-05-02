@@ -1,0 +1,4 @@
+rider_category_id,rider_category_description
+2,Seniors (65+)
+4,Students
+6,Disabled and Medicare Card Holders
