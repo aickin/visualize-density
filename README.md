@@ -7,7 +7,7 @@ repo:
 git clone https://github.com/aickin/visualize-density.git
 cd visualize-density
 yarn install
-yarn build-common
+yarn build-data
 ```
 
 To run the site in development mode locally:
