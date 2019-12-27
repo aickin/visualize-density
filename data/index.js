@@ -45,19 +45,40 @@ async function main() {
     JSON.stringify(agencyData)
   );
 
+  const noRiseTruncated = turf.truncate(noRisePolygon)
+
   fs.writeFileSync(
     `${__dirname}/output/no_rise_shape.json`,
-    JSON.stringify(convert.polygonToPointArray(turf.truncate(noRisePolygon)))
+    JSON.stringify(convert.polygonToPointArray(noRiseTruncated))
   );
+
+  fs.writeFileSync(
+    `${__dirname}/output/no_rise_shape.geojson`,
+    JSON.stringify(noRiseTruncated)
+  );
+
+  const lowRiseTruncated = turf.truncate(lowRisePolygon)
 
   fs.writeFileSync(
     `${__dirname}/output/low_rise_shape.json`,
-    JSON.stringify(convert.polygonToPointArray(turf.truncate(lowRisePolygon)))
+    JSON.stringify(convert.polygonToPointArray(lowRiseTruncated))
   );
 
   fs.writeFileSync(
+    `${__dirname}/output/low_rise_shape.geojson`,
+    JSON.stringify(lowRiseTruncated)
+  );
+
+  const highRiseTruncated = turf.truncate(highRisePolygon)
+
+  fs.writeFileSync(
     `${__dirname}/output/high_rise_shape.json`,
-    JSON.stringify(convert.polygonToPointArray(turf.truncate(highRisePolygon)))
+    JSON.stringify(convert.polygonToPointArray(highRiseTruncated))
+  );
+
+  fs.writeFileSync(
+    `${__dirname}/output/high_rise_shape.geojson`,
+    JSON.stringify(highRiseTruncated)
   );
 
   console.log("[site] Writing complete.");
